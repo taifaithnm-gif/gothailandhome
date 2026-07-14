@@ -99,7 +99,7 @@ Livin listings emitted soft warnings only: coordinates missing (inherit from pro
 
 ### 8. Git
 
-Committed and pushed M1 core changes to `origin/main` (see commit hash below after push).
+Committed and pushed M1 core changes to `origin/main` (`ec90c35`).
 
 ## Explicitly not done (out of M1)
 
