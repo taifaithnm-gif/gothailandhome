@@ -1,0 +1,36 @@
+{
+  "source": "fazwaz",
+  "dry_run": false,
+  "started_at": "2026-07-14T16:33:50.669Z",
+  "per_project": 4,
+  "blocker": {
+    "type": "cloudflare_or_http",
+    "status": 200,
+    "sample_url": "https://www.fazwaz.co.th/en/property-for-sale/thailand/bangkok/watthana/khlong-toei-nuea/at-the-esse-asoke",
+    "title": "Condos for Sale at The Esse Asoke in Bangkok, Khlong Toei Nuea | FazWaz.co.th"
+  },
+  "projects": [
+    {
+      "slug": "the-esse-asoke",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-esse-asoke/listings-fazwaz.json"
+    }
+  ],
+  "totals": {
+    "projects": 1,
+    "search_pages_ok": 0,
+    "search_pages_blocked": 2,
+    "detail_ids_seen": 0,
+    "detail_blocked": 0,
+    "parsed_ok": 0,
+    "validated": 0,
+    "rejected": 0
+  },
+  "finished_at": "2026-07-14T16:33:54.250Z",
+  "status": "BLOCKED",
+  "status_reason": "DotProperty pages returned Cloudflare/HTTP failures; no priced listings validated."
+}

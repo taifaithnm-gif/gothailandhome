@@ -1,0 +1,208 @@
+{
+  "dry_run": false,
+  "started_at": "2026-07-14T16:39:45.457Z",
+  "validated": 190,
+  "validation_failed": [],
+  "inserted": 190,
+  "updated": 0,
+  "skipped": 0,
+  "price_history": 190,
+  "source_rows": 190,
+  "events": 190,
+  "errors": [],
+  "projects": [
+    {
+      "slug": "ashton-asoke",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "life-ladprao",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "life-one-wireless",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "m-silom",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "noble-around-ari",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "the-esse-asoke",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "the-lofts-silom",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "whizdom-essence",
+      "listings": 6,
+      "inserted": 6,
+      "updated": 0
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "listings": 5,
+      "inserted": 5,
+      "updated": 0
+    },
+    {
+      "slug": "xt-phayathai",
+      "listings": 5,
+      "inserted": 5,
+      "updated": 0
+    }
+  ],
+  "finished_at": "2026-07-14T16:41:04.242Z"
+}

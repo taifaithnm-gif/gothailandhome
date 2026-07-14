@@ -1,0 +1,334 @@
+{
+  "source": "fazwaz",
+  "dry_run": false,
+  "started_at": "2026-07-14T16:34:12.601Z",
+  "per_project": 6,
+  "blocker": null,
+  "projects": [
+    {
+      "slug": "ashton-asoke",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/ashton-asoke/listings-fazwaz.json"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/casa-condo-asoke-dindaeng/listings-fazwaz.json"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/chapter-one-midtown-ladprao-24/listings-fazwaz.json"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/ideo-mobi-sukhumvit-66/listings-fazwaz.json"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/ideo-q-sukhumvit-36/listings-fazwaz.json"
+    },
+    {
+      "slug": "kave-town-space",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/kave-town-space/listings-fazwaz.json"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/knightsbridge-prime-sathorn/listings-fazwaz.json"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/life-asoke-rama-9/listings-fazwaz.json"
+    },
+    {
+      "slug": "life-ladprao",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/life-ladprao/listings-fazwaz.json"
+    },
+    {
+      "slug": "life-one-wireless",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/life-one-wireless/listings-fazwaz.json"
+    },
+    {
+      "slug": "m-silom",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/m-silom/listings-fazwaz.json"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/maestro-03-ratchada-rama-9/listings-fazwaz.json"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/modiz-rhyme-ramkhamhaeng/listings-fazwaz.json"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/niche-pride-thonglor-phetchaburi/listings-fazwaz.json"
+    },
+    {
+      "slug": "noble-around-ari",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/noble-around-ari/listings-fazwaz.json"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/noble-revolve-ratchada/listings-fazwaz.json"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/rhythm-ekkamai/listings-fazwaz.json"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/supalai-elite-phayathai/listings-fazwaz.json"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/supalai-lite-sathorn-charoenrat/listings-fazwaz.json"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/supalai-oriental-sukhumvit-39/listings-fazwaz.json"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/supalai-veranda-rama-9/listings-fazwaz.json"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-base-sukhumvit-77/listings-fazwaz.json"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-esse-asoke/listings-fazwaz.json"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-esse-sukhumvit-36/listings-fazwaz.json"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-line-sukhumvit-101/listings-fazwaz.json"
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-livin-ramkhamhaeng/listings-fazwaz.json"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-lofts-silom/listings-fazwaz.json"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-privacy-rama-9/listings-fazwaz.json"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-room-sathorn-taksin/listings-fazwaz.json"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-room-sukhumvit-62/listings-fazwaz.json"
+    },
+    {
+      "slug": "whizdom-essence",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 6,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/whizdom-essence/listings-fazwaz.json"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 5,
+      "rejected": 1,
+      "rejected_sample": [
+        {
+          "id": "6383021",
+          "reason": "missing_price_or_type",
+          "price": 1100000,
+          "listing_type": "sale",
+          "parse_error": null
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/xt-huai-khwang/listings-fazwaz.json"
+    },
+    {
+      "slug": "xt-phayathai",
+      "status": "ok",
+      "ids_found": 6,
+      "listings": 5,
+      "rejected": 1,
+      "rejected_sample": [
+        {
+          "id": "5629219",
+          "reason": "missing_price_or_type",
+          "price": 6800000,
+          "listing_type": "sale",
+          "parse_error": null
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/xt-phayathai/listings-fazwaz.json"
+    }
+  ],
+  "totals": {
+    "projects": 33,
+    "search_pages_ok": 66,
+    "search_pages_blocked": 0,
+    "detail_ids_seen": 192,
+    "detail_blocked": 0,
+    "parsed_ok": 190,
+    "validated": 190,
+    "rejected": 2
+  },
+  "finished_at": "2026-07-14T16:39:35.086Z",
+  "status": "PASS"
+}
