@@ -55,6 +55,9 @@ Visual inspection also shows intact finder patterns and center brand marks (LINE
 - `WORKSPACE_MIGRATION_REPORT.md` (pending untracked report included for clean tree)
 - This report
 
+**Git:** `20c2ae5` pushed to `origin/main`  
+**Working tree:** clean (`main...origin/main`)
+
 ## Status
 
 **COMPLETE — CONTACT_ASSETS**
