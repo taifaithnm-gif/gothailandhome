@@ -15,6 +15,7 @@ const SOURCE_ALLOW = new Set([
   "propertyhub",
   "ddproperty",
   "livinginsider",
+  "hipflat",
   "fazwaz",
   "official_developer",
   "official_website",

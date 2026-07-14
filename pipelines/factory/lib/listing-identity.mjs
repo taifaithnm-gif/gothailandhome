@@ -56,6 +56,17 @@ export function deriveSourceListingId(source, externalRef, listingUrl) {
     if (fromUrl) return fromUrl[1];
     return null;
   }
+  if (key === "hipflat") {
+    const fromRef = String(externalRef || "").match(
+      /(?:^|-)(?:hipflat-)?([a-z0-9]{16,})$/i,
+    );
+    if (fromRef) return fromRef[1];
+    const fromUrl = String(listingUrl || "").match(
+      /\/ads\/([a-z0-9]{16,})/i,
+    );
+    if (fromUrl) return fromUrl[1];
+    return null;
+  }
   if (externalRef) {
     const stripped = String(externalRef).replace(new RegExp(`^${key}-`, "i"), "");
     return stripped || String(externalRef);
@@ -97,6 +108,9 @@ export function normalizeSourceUrl(source, listingUrl, sourceListingId = null) {
   }
   if (key === "ddproperty" && sourceListingId) {
     return `https://www.ddproperty.com/en/listing/${sourceListingId}`;
+  }
+  if (key === "hipflat" && sourceListingId) {
+    return `https://www.hipflat.co.th/ads/${sourceListingId}`;
   }
   u.hostname = u.hostname.toLowerCase();
   // Collapse default ports
