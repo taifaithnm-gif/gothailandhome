@@ -1,25 +1,30 @@
 # SUPABASE_IMPORT_REPORT
 
 **Date:** 2026-07-14  
-**Milestone:** Phase 6 M5 Hipflat Wave 1  
-**Importer:** `pipelines/factory/hipflat/import-hf-only.mjs`  
-**Safety:** Only selects/updates `properties` where `source = 'hipflat'`
+**Milestone:** Phase 6 M6 DotProperty Wave 1  
+**Importer:** `pipelines/factory/dotproperty/import-dp-only.mjs`  
+**Safety:** Only selects/updates/deletes `properties` where `source = 'dotproperty'`
 
 ## Import result
 
 | Metric | Count |
 |--------|------:|
-| Validated Hipflat listings | **0** |
+| Validated DotProperty listings | **192** |
 | Validation failures | 0 |
-| Inserted | **0** |
-| Updated | **0** |
-| DB Hipflat rows after import | **0** |
-| `property_listing_sources` (hipflat) | 0 |
-| Price history / verification events | 0 |
+| Inserted (final balanced set) | 192 path (96 new rent after rebalance + sale upserts) |
+| DB DotProperty rows after reconcile | **192** |
+| Sale / rent in DB | **96 / 96** |
+| Package ↔ DB refs | **192 / 192** |
+| Package ↔ DB price drift | **0** |
+| Hard duplicate `external_ref` | **0** |
+| `property_listing_sources` (dotproperty) | 192 |
+| Price history / verification events | written on insert/change |
 
-Evidence: `pipelines/factory/hipflat/_runs/import-hf-only.json`
+Evidence: `pipelines/factory/dotproperty/_runs/import-dp-only.json`
 
-Note: harvest returned Cloudflare-blocked empty packages; importer correctly no-oped.
+### Orphan cleanup
+
+First harvest pass was sale-biased (192 sale). After balancing to 96/96, **96** superseded DotProperty-only rows were deleted (children cleaned: sources, price history, verification events, duplicate candidates). PropertyHub / LivingInsider rows were not touched.
 
 ## Upstream protection
 
@@ -27,20 +32,21 @@ Note: harvest returned Cloudflare-blocked empty packages; importer correctly no-
 |-------|--------|
 | PropertyHub row count | **617** (unchanged) |
 | LivingInsider row count | **316** (unchanged) |
-| DDproperty row count | **0** (unchanged / still BLOCKED) |
+| DDproperty | **0** (BLOCKED, unchanged) |
+| Hipflat | **0** (BLOCKED, unchanged) |
 | PropertyHub `updated_at` max | `2026-07-14T15:05:56.459976+00:00` (frozen) |
-| LivingInsider `updated_at` max | `2026-07-14T15:24:51.273471+00:00` (unchanged by HF import) |
-| PH price sample (80 rows) | **80 / 80** match · **0** drift |
-| LI price sample (80 rows) | **80 / 80** match · **0** drift |
+| LivingInsider `updated_at` max | `2026-07-14T15:24:51.273471+00:00` (unchanged) |
+| PH price sample (120) | **120 / 120** · **0** drift |
+| LI price sample (120) | **120 / 120** · **0** drift |
 | Schema migrations this milestone | **None** |
 
-## Provenance reuse (ready when harvest unblocks)
+## Provenance reuse
 
-Per Hipflat listing the importer will write:
+Per DotProperty listing:
 
 - identity fingerprint / soft fingerprint  
 - `property_listing_sources` row  
 - `listing_price_history` on insert/price change  
-- `listing_verification_events` (`hipflat_import`)
+- `listing_verification_events` (`dotproperty_import`)
 
 No parent developer/project rewrite (resolve existing `property_projects` by slug only).

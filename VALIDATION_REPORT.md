@@ -1,47 +1,44 @@
 # VALIDATION_REPORT
 
 **Date:** 2026-07-14  
-**Milestone:** Phase 6 M5 Hipflat Wave 1
+**Milestone:** Phase 6 M6 DotProperty Wave 1
 
 ## Data validation
 
 | Check | Result |
 |-------|--------|
-| Hipflat harvest | **BLOCKED** (Cloudflare 403 × 66 search pages · 0 listings) |
-| Hipflat package ↔ DB | PASS (0 inventory ↔ 0 DB rows) |
+| DotProperty harvest | **PASS** (192 validated · 96 sale / 96 rent) |
+| DotProperty package ↔ DB | PASS (**192 / 192**, **0** price drift) |
 | PropertyHub row count | PASS **617** |
 | LivingInsider row count | PASS **316** |
-| DDproperty status | PASS (still **BLOCKED** · adapter untouched) |
-| PH price drift (sample 80) | PASS **0** |
-| LI price drift (sample 80) | PASS **0** |
-| Hard duplicates introduced | PASS (**0** Hipflat rows) |
-| Auto-merge | PASS (**0**) |
-| Schema change | PASS (**none**) |
+| PH / LI price drift (sample 120) | PASS **0** |
+| Hard duplicates (DotProperty) | PASS **0** |
+| Auto-merge | PASS **0** (26 soft candidates open only) |
+| Schema change | PASS **none** |
+| DDproperty / Hipflat adapters | PASS untouched · still BLOCKED · 0 rows |
 
 ## Engineering checks
 
 | Check | Result |
 |-------|--------|
-| ESLint | PASS — 0 errors |
+| ESLint | PASS — 0 errors (2 pre-existing warnings) |
 | TypeScript via `next build` | PASS |
 | `next build` | PASS |
 | `npm test` | **N/A** — no `test` script in `package.json` |
-| Supabase reconciliation | PASS (PH 617 · LI 316 · DD 0 · HF 0) |
+| Supabase reconciliation | PASS (PH 617 · LI 316 · DD 0 · HF 0 · DP 192) |
 
 ## Stop conditions
 
 | Condition | Triggered? |
 |-----------|------------|
-| Hipflat Cloudflare / equivalent block | **Yes** — harvest BLOCKED |
-| Source pages unverifiable | **Yes** |
-| Verified PH/LI data at risk | **No** — Hipflat-only importer; 0 PH/LI writes |
+| Cloudflare / access-control block on DotProperty | **No** (site public) |
+| Verified PH/LI data at risk | **No** |
 | Schema change required | No |
 | Auto-merge performed | No |
 | Fabricated listings | No |
-| Cloudflare bypass attempted | No |
 
 ## Status
 
-**PASS (infrastructure) · harvest BLOCKED by Cloudflare**
+**PASS — ready to commit and push**
 
-Ready to commit and push adapter/tooling + empty Wave-1 Hipflat packages + reports. Re-run harvest only when CF-free egress is available; do not invent listings.
+Combined verified inventory after M6: PropertyHub 617 + LivingInsider 316 + DotProperty 192 = **1125** (plus blocked DD/HF adapters with 0 rows).
