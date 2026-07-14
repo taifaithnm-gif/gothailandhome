@@ -16,15 +16,15 @@ Phase 6 M1 delivered DATA_STANDARD validators, Property Factory folder layout, B
 
 ### Task 1 — DATA_STANDARD validators
 
-| Capability | Location |
-| --- | --- |
-| JSON Schema | `pipelines/factory/schemas/` (developer, district, project, listing, i18n, source) |
-| Import validators | `pipelines/factory/lib/validate.mjs` |
-| Required fields | `validateRequiredFields`, entity validators |
-| Duplicate detection | `detectListingDuplicates` (`external_ref`, `listing_url`) |
-| Source validation | allow-list (`propertyhub`, `official_developer`, `wikipedia`, `bma`, …) |
-| Coordinate validation | WGS84 + Thailand soft bounds |
-| Image validation | URL, rights_note, cover soft checks |
+| Capability            | Location                                                                           |
+| --------------------- | ---------------------------------------------------------------------------------- |
+| JSON Schema           | `pipelines/factory/schemas/` (developer, district, project, listing, i18n, source) |
+| Import validators     | `pipelines/factory/lib/validate.mjs`                                               |
+| Required fields       | `validateRequiredFields`, entity validators                                        |
+| Duplicate detection   | `detectListingDuplicates` (`external_ref`, `listing_url`)                          |
+| Source validation     | allow-list (`propertyhub`, `official_developer`, `wikipedia`, `bma`, …)            |
+| Coordinate validation | WGS84 + Thailand soft bounds                                                       |
+| Image validation      | URL, rights_note, cover soft checks                                                |
 
 ### Task 2 — Factory folders
 
@@ -59,26 +59,26 @@ Created under `content/`:
 
 CLI: `pipelines/factory/cli.mjs` / npm scripts:
 
-| Command | Behavior |
-| --- | --- |
-| `validate` | Schema + business rules |
-| `dry-run` / `--wave bangkok-w1` | Plan upserts |
-| `apply` | Ordered upsert: districts → developers → projects |
-| `resume` | Resume from `content/_runs/<batch_id>.json` |
-| `rollback` | Soft: deactivate districts / unpublish developers (no hard deletes) |
+| Command                         | Behavior                                                            |
+| ------------------------------- | ------------------------------------------------------------------- |
+| `validate`                      | Schema + business rules                                             |
+| `dry-run` / `--wave bangkok-w1` | Plan upserts                                                        |
+| `apply`                         | Ordered upsert: districts → developers → projects                   |
+| `resume`                        | Resume from `content/_runs/<batch_id>.json`                         |
+| `rollback`                      | Soft: deactivate districts / unpublish developers (no hard deletes) |
 
 Batch ledgers: `content/_runs/` (gitignored).  
 v1 `npm run content:import` retained for listing specimens.
 
 ### Task 7 — Verification
 
-| Check | Result |
-| --- | --- |
+| Check                               | Result                                                               |
+| ----------------------------------- | -------------------------------------------------------------------- |
 | `factory:dry-run --wave bangkok-w1` | PASS — 50 districts, 20 developers, 50 projects, 0 validation errors |
-| `factory:apply --wave bangkok-w1` | PASS — batch `bangkok-w1-2026-07-14T12-14-52-242Z`, 120 ok, 0 error |
-| `npm run format` | PASS |
-| `npm run lint` | PASS |
-| `npm run build` | PASS |
+| `factory:apply --wave bangkok-w1`   | PASS — batch `bangkok-w1-2026-07-14T12-14-52-242Z`, 120 ok, 0 error  |
+| `npm run format`                    | PASS                                                                 |
+| `npm run lint`                      | PASS                                                                 |
+| `npm run build`                     | PASS                                                                 |
 
 ---
 
@@ -95,26 +95,26 @@ Dependencies: `ajv`, `ajv-formats`.
 
 ## Explicit exclusions (honored)
 
-- No Marketplace implementation  
-- No AI product features  
-- No CRM  
-- No Payment  
-- No UI / route redesign  
+- No Marketplace implementation
+- No AI product features
+- No CRM
+- No Payment
+- No UI / route redesign
 
 ---
 
 ## Follow-ups (later milestones)
 
-- Listing Factory batches (M6) via PropertyHub adapter  
-- Dual-run history tables (`listing_price_history`, `import_batches` in DB) if ops prefer DB over filesystem ledgers  
-- Enrich district POIs only with sourced captures  
-- Fill project geo/facilities when official specs are captured  
+- Listing Factory batches (M6) via PropertyHub adapter
+- Dual-run history tables (`listing_price_history`, `import_batches` in DB) if ops prefer DB over filesystem ledgers
+- Enrich district POIs only with sourced captures
+- Fill project geo/facilities when official specs are captured
 
 ---
 
 ## Contained change set (high level)
 
-- `pipelines/factory/**` — schemas, validators, CLI, generate, import engine  
-- `content/**` — packages + READMEs + glossary/taxonomy  
-- `package.json` — factory scripts + ajv deps  
+- `pipelines/factory/**` — schemas, validators, CLI, generate, import engine
+- `content/**` — packages + READMEs + glossary/taxonomy
+- `package.json` — factory scripts + ajv deps
 - `.gitignore` — `_runs/`, `_raw/`
