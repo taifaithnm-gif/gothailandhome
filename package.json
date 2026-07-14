@@ -9,7 +9,9 @@
     "lint": "eslint",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "db:provision": "node scripts/provision-supabase.mjs"
+    "db:provision": "node scripts/provision-supabase.mjs",
+    "db:apply": "NODE_TLS_REJECT_UNAUTHORIZED=0 node scripts/apply-supabase-sql.mjs",
+    "db:verify-workflow": "node scripts/verify-admin-workflow.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.6.0",
@@ -19,6 +21,7 @@
     "clsx": "^2.1.1",
     "lucide-react": "^1.24.0",
     "next": "16.2.10",
+    "pg": "^8.22.0",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "server-only": "^0.0.1",
@@ -29,6 +32,7 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
+    "@types/pg": "^8.20.0",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
