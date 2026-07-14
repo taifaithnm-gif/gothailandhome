@@ -1,0 +1,14 @@
+{
+  "livinginsider_db": 316,
+  "with_fingerprint": 316,
+  "with_source_listing_id": 316,
+  "with_normalized_url": 316,
+  "with_source_row": 316,
+  "with_price_history": 316,
+  "with_verification_event": 316,
+  "missing_fingerprint": [],
+  "missing_source_row": [],
+  "missing_price_history": [],
+  "missing_verification_event": [],
+  "project_id_null": []
+}

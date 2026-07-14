@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-07-14T15:37:37.326Z",
+  "totals": {
+    "listings": 316
+  },
+  "duplicate_counts": {
+    "source_listing_id": 0,
+    "normalized_url": 0,
+    "listing_url": 0
+  },
+  "duplicates": {
+    "source_listing_id": [],
+    "normalized_url": [],
+    "listing_url": []
+  },
+  "issues_by_code": {},
+  "issues": []
+}

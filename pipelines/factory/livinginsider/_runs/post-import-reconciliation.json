@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-07-14T15:37:37.310Z",
+  "propertyhub": {
+    "label": "propertyhub",
+    "pkg": 617,
+    "db": 617,
+    "matched": 617,
+    "pkg_only": [],
+    "db_only": [],
+    "price_mismatch": []
+  },
+  "livinginsider": {
+    "label": "livinginsider",
+    "pkg": 316,
+    "db": 316,
+    "matched": 316,
+    "pkg_only": [],
+    "db_only": [],
+    "price_mismatch": []
+  },
+  "totals": {
+    "propertyhub_db": 617,
+    "livinginsider_db": 316,
+    "combined_db": 933
+  },
+  "livinginsider_identity_issues": [],
+  "ph_updated_max": "2026-07-14T15:05:56.459976+00:00"
+}
