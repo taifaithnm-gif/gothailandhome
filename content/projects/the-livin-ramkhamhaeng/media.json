@@ -1,0 +1,29 @@
+{
+  "entity_type": "project",
+  "entity_slug": "the-livin-ramkhamhaeng",
+  "collected_at": "2026-07-14",
+  "items": [
+    {
+      "role": "hero",
+      "path": "/projects/the-livin-ramkhamhaeng/hero-placeholder.svg",
+      "rights_note": "licensed",
+      "sort_order": 0,
+      "alt": {
+        "en": "The Livin Ramkhamhaeng hero",
+        "zh": "The Livin Ramkhamhaeng 主图",
+        "th": "ภาพหลัก เดอะ ลิฟวิ่น รามคำแหง"
+      }
+    },
+    {
+      "role": "og",
+      "path": "/og/projects/the-livin-ramkhamhaeng.svg",
+      "rights_note": "licensed",
+      "sort_order": 1,
+      "alt": {
+        "en": "The Livin Ramkhamhaeng Open Graph image",
+        "zh": "The Livin Ramkhamhaeng OG 图",
+        "th": "ภาพ OG เดอะ ลิฟวิ่น รามคำแหง"
+      }
+    }
+  ]
+}

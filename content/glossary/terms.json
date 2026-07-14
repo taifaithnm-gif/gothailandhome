@@ -1,15 +1,209 @@
 {
+  "version": 1,
+  "updated_at": "2026-07-14",
   "transit_tags": [
-    "bts",
-    "mrt",
-    "mrt-orange",
-    "mrt-yellow",
-    "mrt-blue",
-    "mrt-purple",
-    "mrt-pink",
-    "arl",
-    "boat",
-    "expressway"
+    {
+      "code": "bts",
+      "name": { "en": "BTS Skytrain", "zh": "BTS空铁", "th": "รถไฟฟ้าบีทีเอส" }
+    },
+    {
+      "code": "mrt",
+      "name": { "en": "MRT", "zh": "MRT地铁", "th": "รถไฟฟ้าเอ็มอาร์ที" }
+    },
+    {
+      "code": "mrt-blue",
+      "name": {
+        "en": "MRT Blue Line",
+        "zh": "MRT蓝线",
+        "th": "MRT สายสีน้ำเงิน"
+      }
+    },
+    {
+      "code": "mrt-purple",
+      "name": {
+        "en": "MRT Purple Line",
+        "zh": "MRT紫线",
+        "th": "MRT สายสีม่วง"
+      }
+    },
+    {
+      "code": "mrt-yellow",
+      "name": {
+        "en": "MRT Yellow Line",
+        "zh": "MRT黄线",
+        "th": "MRT สายสีเหลือง"
+      }
+    },
+    {
+      "code": "mrt-pink",
+      "name": {
+        "en": "MRT Pink Line",
+        "zh": "MRT粉红线",
+        "th": "MRT สายสีชมพู"
+      }
+    },
+    {
+      "code": "mrt-orange",
+      "name": { "en": "MRT Orange Line", "zh": "MRT橙线", "th": "MRT สายสีส้ม" }
+    },
+    {
+      "code": "mrt-brown-planned",
+      "name": {
+        "en": "MRT Brown Line (planned)",
+        "zh": "MRT棕线（规划）",
+        "th": "MRT สายสีน้ำตาล (วางแผน)"
+      }
+    },
+    {
+      "code": "arl",
+      "name": {
+        "en": "Airport Rail Link",
+        "zh": "机场快线",
+        "th": "แอร์พอร์ต เรล ลิงก์"
+      }
+    },
+    {
+      "code": "boat",
+      "name": {
+        "en": "Chao Phraya / canal boat",
+        "zh": "船运/运河船",
+        "th": "เรือ"
+      }
+    },
+    {
+      "code": "expressway",
+      "name": { "en": "Expressway", "zh": "高速路", "th": "ทางด่วน" }
+    }
+  ],
+  "facilities": [
+    {
+      "code": "pool",
+      "name": { "en": "Swimming pool", "zh": "游泳池", "th": "สระว่ายน้ำ" }
+    },
+    {
+      "code": "gym",
+      "name": { "en": "Fitness / gym", "zh": "健身室", "th": "ฟิตเนส" }
+    },
+    {
+      "code": "parking",
+      "name": { "en": "Parking", "zh": "停车", "th": "ที่จอดรถ" }
+    },
+    {
+      "code": "security",
+      "name": { "en": "24h security", "zh": "24小时安保", "th": "รปภ. 24 ชม." }
+    },
+    {
+      "code": "garden",
+      "name": { "en": "Garden / courtyard", "zh": "花园/院落", "th": "สวน" }
+    },
+    {
+      "code": "co-working",
+      "name": {
+        "en": "Co-working space",
+        "zh": "共享办公",
+        "th": "โคเวิร์กกิ้ง"
+      }
+    },
+    {
+      "code": "ev-charging",
+      "name": { "en": "EV charging", "zh": "电动车充电", "th": "จุดชาร์จ EV" }
+    }
+  ],
+  "schools": [
+    {
+      "code": "international-school",
+      "name": {
+        "en": "International school",
+        "zh": "国际学校",
+        "th": "โรงเรียนนานาชาติ"
+      }
+    },
+    {
+      "code": "university",
+      "name": { "en": "University", "zh": "大学", "th": "มหาวิทยาลัย" }
+    },
+    {
+      "code": "primary-secondary",
+      "name": {
+        "en": "Primary / secondary school",
+        "zh": "中小学",
+        "th": "โรงเรียน"
+      }
+    }
+  ],
+  "hospitals": [
+    {
+      "code": "private-hospital",
+      "name": {
+        "en": "Private hospital",
+        "zh": "私立医院",
+        "th": "โรงพยาบาลเอกชน"
+      }
+    },
+    {
+      "code": "public-hospital",
+      "name": {
+        "en": "Public hospital",
+        "zh": "公立医院",
+        "th": "โรงพยาบาลรัฐ"
+      }
+    },
+    {
+      "code": "clinic",
+      "name": { "en": "Clinic", "zh": "诊所", "th": "คลินิก" }
+    }
+  ],
+  "shopping": [
+    {
+      "code": "mall",
+      "name": {
+        "en": "Shopping mall",
+        "zh": "购物中心",
+        "th": "ห้างสรรพสินค้า"
+      }
+    },
+    {
+      "code": "community-mall",
+      "name": {
+        "en": "Community mall",
+        "zh": "社区商场",
+        "th": "คอมมูนิตี้มอลล์"
+      }
+    },
+    {
+      "code": "market",
+      "name": { "en": "Fresh / wet market", "zh": "市场", "th": "ตลาด" }
+    },
+    {
+      "code": "convenience",
+      "name": {
+        "en": "Convenience store",
+        "zh": "便利店",
+        "th": "ร้านสะดวกซื้อ"
+      }
+    }
+  ],
+  "property_types": [
+    {
+      "code": "condo",
+      "name": { "en": "Condo", "zh": "公寓", "th": "คอนโด" }
+    },
+    {
+      "code": "house",
+      "name": { "en": "House", "zh": "独栋屋", "th": "บ้าน" }
+    },
+    {
+      "code": "villa",
+      "name": { "en": "Villa", "zh": "别墅", "th": "วิลล่า" }
+    },
+    {
+      "code": "land",
+      "name": { "en": "Land", "zh": "土地", "th": "ที่ดิน" }
+    },
+    {
+      "code": "commercial",
+      "name": { "en": "Commercial", "zh": "商业地产", "th": "พาณิชย์" }
+    }
   ],
   "source_codes": [
     "propertyhub",
@@ -17,9 +211,12 @@
     "livinginsider",
     "fazwaz",
     "official_developer",
+    "official_website",
     "facebook",
     "google_maps",
     "wikipedia",
-    "bma"
+    "bma",
+    "other_public_portal",
+    "public_portal"
   ]
 }

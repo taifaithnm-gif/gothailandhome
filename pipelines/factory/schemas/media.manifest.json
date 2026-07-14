@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gothailandhome.com/schemas/media.manifest.json",
+  "title": "MediaManifest",
+  "type": "object",
+  "required": ["entity_type", "entity_slug", "items"],
+  "properties": {
+    "entity_type": {
+      "type": "string",
+      "enum": ["developer", "project", "listing", "district", "city"]
+    },
+    "entity_slug": { "type": "string", "minLength": 1 },
+    "collected_at": { "type": "string" },
+    "items": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["role", "path"],
+        "properties": {
+          "role": {
+            "type": "string",
+            "enum": [
+              "cover",
+              "gallery",
+              "hero",
+              "amenity",
+              "floorplan",
+              "logo",
+              "og",
+              "avatar",
+              "brochure",
+              "other"
+            ]
+          },
+          "path": {
+            "type": "string",
+            "description": "Public site path (/projects/...) or http(s) URL"
+          },
+          "source_url": { "type": ["string", "null"] },
+          "rights_note": {
+            "type": "string",
+            "enum": [
+              "hotlink",
+              "mirrored_to_storage",
+              "mirrored",
+              "licensed",
+              "unknown"
+            ]
+          },
+          "alt": { "$ref": "i18n-string.json" },
+          "sort_order": { "type": "integer", "minimum": 0 }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}

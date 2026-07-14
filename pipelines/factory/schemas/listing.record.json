@@ -38,6 +38,8 @@
       "type": "string",
       "enum": ["unverified", "verified", "stale", "delisted"]
     },
+    "duplicate_fingerprint": { "type": "string", "minLength": 8 },
+    "source_captured_at": { "type": "string" },
     "publish_ready": { "type": "boolean" },
     "collected_at": { "type": "string" },
     "latitude": { "type": ["number", "null"] },
