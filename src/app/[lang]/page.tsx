@@ -1,9 +1,12 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
+import { HeroSearch } from "@/components/listings/hero-search";
 import { PropertyGrid } from "@/components/property/property-grid";
-import { SearchForm } from "@/components/search/search-form";
 import { isLocale } from "@/config/locales";
+import { listPublishedDevelopers } from "@/lib/data/developers";
+import { listCities } from "@/lib/data/geography";
+import { listPublishedProjects } from "@/lib/data/projects";
 import { listPublishedProperties } from "@/lib/data/properties";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
@@ -27,22 +30,36 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
   if (!isLocale(lang)) notFound();
 
   const dict = await getDictionary(lang);
-  const featured = await listPublishedProperties({ featuredOnly: true });
-
-  const destinations = [
-    { label: dict.home.bangkok, query: "Bangkok" },
-    { label: dict.home.phuket, query: "Phuket" },
-    { label: dict.home.chiangMai, query: "Chiang Mai" },
-    { label: dict.home.huaHin, query: "Hua Hin" },
-  ];
+  const [cities, developers, projects, featured, latest, sale, rent] =
+    await Promise.all([
+      listCities(),
+      listPublishedDevelopers(),
+      listPublishedProjects(),
+      listPublishedProperties({
+        featuredOnly: true,
+        verifiedOnly: true,
+        sort: "featured",
+      }),
+      listPublishedProperties({ verifiedOnly: true, sort: "newest" }),
+      listPublishedProperties({
+        listingType: "sale",
+        verifiedOnly: true,
+        sort: "newest",
+      }),
+      listPublishedProperties({
+        listingType: "rent",
+        verifiedOnly: true,
+        sort: "newest",
+      }),
+    ]);
 
   return (
     <>
       <section className="relative overflow-hidden border-b border-[var(--brand-line)]">
         <div className="absolute inset-0 bg-[linear-gradient(120deg,#063d38_0%,#0a5c54_42%,#1d7a6d_72%,#c9a227_140%)]" />
-        <div className="absolute inset-0 [background-image:radial-gradient(circle_at_15%_20%,white_0,transparent_28%),radial-gradient(circle_at_85%_15%,#e0b34d_0,transparent_22%),linear-gradient(transparent_0%,rgb(6_61_56_/0.35)_100%)] opacity-35" />
-        <div className="relative mx-auto flex min-h-[72vh] w-full max-w-6xl flex-col justify-end px-4 py-16 sm:px-6 sm:py-20">
-          <div className="max-w-2xl space-y-6 text-white">
+        <div className="absolute inset-0 [background-image:radial-gradient(circle_at_15%_20%,white_0,transparent_28%),radial-gradient(circle_at_85%_15%,#e0b34d_0,transparent_22%)] opacity-35" />
+        <div className="relative mx-auto flex min-h-[78vh] w-full max-w-6xl flex-col justify-end gap-8 px-4 py-14 sm:px-6 sm:py-16">
+          <div className="max-w-2xl space-y-4 text-white">
             <p className="font-heading text-4xl tracking-tight sm:text-5xl md:text-6xl">
               {dict.common.brand}
             </p>
@@ -52,65 +69,210 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
             <p className="max-w-lg text-base leading-relaxed text-white/80 sm:text-lg">
               {dict.home.subheadline}
             </p>
-            <div className="flex flex-col gap-3 sm:flex-row">
-              <Link
-                href={localePath(lang, "/search")}
-                className="inline-flex h-12 items-center justify-center rounded-xl bg-[var(--brand-gold)] px-5 text-sm font-semibold text-[var(--brand-deep)] transition hover:bg-[#f0c666]"
-              >
-                {dict.common.searchCta}
-              </Link>
-              <Link
-                href={localePath(lang, "/properties")}
-                className="inline-flex h-12 items-center justify-center rounded-xl border border-white/35 bg-white/10 px-5 text-sm font-medium text-white backdrop-blur transition hover:bg-white/15"
-              >
-                {dict.common.viewAll}
-              </Link>
-            </div>
           </div>
+          <HeroSearch locale={lang} dict={dict} cities={cities} />
         </div>
       </section>
 
       <section className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
-        <div className="mb-8 max-w-2xl space-y-2">
-          <h2 className="font-heading text-3xl text-[var(--brand-deep)]">
-            {dict.home.featuredTitle}
-          </h2>
-          <p className="text-stone-600">{dict.home.featuredSubtitle}</p>
+        <div className="mb-8 flex items-end justify-between gap-4">
+          <div>
+            <h2 className="font-heading text-3xl text-[var(--brand-deep)]">
+              {dict.home.featuredProjectsTitle}
+            </h2>
+            <p className="mt-2 text-stone-600">
+              {dict.home.featuredProjectsSubtitle}
+            </p>
+          </div>
+          <Link
+            href={localePath(lang, "/projects")}
+            className="text-sm text-[var(--brand)] hover:underline"
+          >
+            {dict.common.viewAll}
+          </Link>
         </div>
-        <PropertyGrid locale={lang} dict={dict} properties={featured} />
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {projects.slice(0, 6).map((project) => (
+            <Link
+              key={project.id}
+              href={localePath(lang, `/projects/${project.slug}`)}
+              className="rounded-2xl border border-[var(--brand-line)] bg-white p-5 transition hover:border-[var(--brand)]"
+            >
+              <p className="text-xs tracking-wide text-[var(--brand)] uppercase">
+                {project.developer?.name[lang]}
+              </p>
+              <h3 className="font-heading mt-2 text-xl text-[var(--brand-deep)]">
+                {project.name[lang]}
+              </h3>
+              <p className="mt-2 line-clamp-3 text-sm text-stone-600">
+                {project.description[lang]}
+              </p>
+            </Link>
+          ))}
+          {!projects.length ? (
+            <p className="text-sm text-stone-500">
+              {dict.cities.emptyProjects}
+            </p>
+          ) : null}
+        </div>
       </section>
 
       <section className="border-y border-[var(--brand-line)] bg-white/70">
         <div className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
-          <div className="mb-8 max-w-2xl space-y-2">
+          <div className="mb-8">
             <h2 className="font-heading text-3xl text-[var(--brand-deep)]">
-              {dict.home.destinationsTitle}
+              {dict.home.latestListingsTitle}
             </h2>
-            <p className="text-stone-600">{dict.home.destinationsSubtitle}</p>
+            <p className="mt-2 text-stone-600">
+              {dict.home.latestListingsSubtitle}
+            </p>
           </div>
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-            {destinations.map((destination) => (
+          <PropertyGrid
+            locale={lang}
+            dict={dict}
+            properties={(featured.length ? featured : latest).slice(0, 6)}
+          />
+        </div>
+      </section>
+
+      <section className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
+        <div className="mb-8 flex items-end justify-between gap-4">
+          <div>
+            <h2 className="font-heading text-3xl text-[var(--brand-deep)]">
+              {dict.home.citiesTitle}
+            </h2>
+            <p className="mt-2 text-stone-600">{dict.home.citiesSubtitle}</p>
+          </div>
+          <Link
+            href={localePath(lang, "/cities")}
+            className="text-sm text-[var(--brand)] hover:underline"
+          >
+            {dict.common.viewAll}
+          </Link>
+        </div>
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {cities.map((city) => (
+            <Link
+              key={city.id}
+              href={localePath(lang, `/cities/${city.slug}`)}
+              className="rounded-2xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-5 py-8 transition hover:-translate-y-0.5 hover:border-[var(--brand)] hover:shadow-md"
+            >
+              <span className="font-heading text-xl text-[var(--brand-deep)]">
+                {city.name[lang]}
+              </span>
+              <p className="mt-2 line-clamp-2 text-sm text-stone-600">
+                {city.summary[lang]}
+              </p>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <section className="border-y border-[var(--brand-line)] bg-white/70">
+        <div className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
+          <div className="mb-8 flex items-end justify-between gap-4">
+            <div>
+              <h2 className="font-heading text-3xl text-[var(--brand-deep)]">
+                {dict.home.developersTitle}
+              </h2>
+              <p className="mt-2 text-stone-600">
+                {dict.home.developersSubtitle}
+              </p>
+            </div>
+            <Link
+              href={localePath(lang, "/developers")}
+              className="text-sm text-[var(--brand)] hover:underline"
+            >
+              {dict.common.viewAll}
+            </Link>
+          </div>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {developers.map((developer) => (
               <Link
-                key={destination.query}
-                href={`${localePath(lang, "/search")}?location=${encodeURIComponent(destination.query)}`}
-                className="rounded-2xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-5 py-8 transition hover:-translate-y-0.5 hover:border-[var(--brand)] hover:shadow-md"
+                key={developer.id}
+                href={localePath(lang, `/developers/${developer.slug}`)}
+                className="rounded-2xl border border-[var(--brand-line)] bg-white p-5 hover:border-[var(--brand)]"
               >
-                <span className="font-heading text-xl text-[var(--brand-deep)]">
-                  {destination.label}
-                </span>
+                <h3 className="font-heading text-xl text-[var(--brand-deep)]">
+                  {developer.name[lang]}
+                </h3>
+                <p className="mt-2 line-clamp-3 text-sm text-stone-600">
+                  {developer.description[lang]}
+                </p>
               </Link>
             ))}
+            {!developers.length ? (
+              <p className="text-sm text-stone-500">{dict.common.noResults}</p>
+            ) : null}
           </div>
         </div>
       </section>
 
       <section className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
-        <div className="grid gap-8 rounded-[1.75rem] bg-[var(--brand-deep)] px-6 py-10 text-white sm:px-10 lg:grid-cols-[1.2fr_1fr] lg:items-end">
-          <div className="space-y-3">
-            <h2 className="font-heading text-3xl">{dict.home.whyTitle}</h2>
-            <p className="max-w-xl text-white/75">{dict.home.whyBody}</p>
+        <div className="grid gap-6 lg:grid-cols-3">
+          <div className="rounded-2xl border border-[var(--brand-line)] bg-white p-6">
+            <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
+              {dict.home.buy}
+            </h2>
+            <p className="mt-2 text-sm text-stone-600">{dict.home.buyBody}</p>
+            <PropertyGrid
+              locale={lang}
+              dict={dict}
+              properties={sale.slice(0, 2)}
+            />
+            <Link
+              href={`${localePath(lang, "/properties")}?listing_type=sale`}
+              className="mt-4 inline-flex text-sm text-[var(--brand)] hover:underline"
+            >
+              {dict.common.viewAll}
+            </Link>
           </div>
-          <SearchForm locale={lang} dict={dict} />
+          <div className="rounded-2xl border border-[var(--brand-line)] bg-white p-6">
+            <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
+              {dict.home.rent}
+            </h2>
+            <p className="mt-2 text-sm text-stone-600">{dict.home.rentBody}</p>
+            <PropertyGrid
+              locale={lang}
+              dict={dict}
+              properties={rent.slice(0, 2)}
+            />
+            <Link
+              href={`${localePath(lang, "/properties")}?listing_type=rent`}
+              className="mt-4 inline-flex text-sm text-[var(--brand)] hover:underline"
+            >
+              {dict.common.viewAll}
+            </Link>
+          </div>
+          <div className="rounded-2xl bg-[var(--brand-deep)] p-6 text-white">
+            <h2 className="font-heading text-2xl">{dict.home.investment}</h2>
+            <p className="mt-2 text-sm text-white/75">
+              {dict.home.investmentBody}
+            </p>
+            <Link
+              href={`${localePath(lang, "/properties")}?listing_type=sale&sort=price_asc`}
+              className="mt-6 inline-flex h-11 items-center rounded-xl bg-[var(--brand-gold)] px-5 text-sm font-semibold text-[var(--brand-deep)]"
+            >
+              {dict.home.investmentCta}
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      <section className="border-t border-[var(--brand-line)] bg-[var(--brand-soft)]">
+        <div className="mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-14 sm:flex-row sm:items-center sm:justify-between sm:px-6">
+          <div>
+            <h2 className="font-heading text-3xl text-[var(--brand-deep)]">
+              {dict.home.ctaTitle}
+            </h2>
+            <p className="mt-2 max-w-xl text-stone-600">{dict.home.ctaBody}</p>
+          </div>
+          <Link
+            href={localePath(lang, "/contact")}
+            className="inline-flex h-12 items-center justify-center rounded-xl bg-[var(--brand)] px-6 text-sm font-semibold text-white hover:bg-[var(--brand-deep)]"
+          >
+            {dict.home.ctaButton}
+          </Link>
         </div>
       </section>
     </>

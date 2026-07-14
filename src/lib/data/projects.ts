@@ -70,13 +70,18 @@ export type ProjectView = {
   ogImagePath: string | null;
   heroImagePath: string | null;
   developer: {
+    slug: string;
     name: LocalizedText;
     legalName: LocalizedText;
     website: string | null;
     facebookUrl: string | null;
     description: LocalizedText;
+    logoUrl: string | null;
   } | null;
   location: LocalizedText;
+  cityId: string | null;
+  districtId: string | null;
+  transitTags: string[];
 };
 
 type ProjectWithRelations = PropertyProjectRow & {
@@ -140,6 +145,7 @@ function mapProject(row: ProjectWithRelations): ProjectView {
     heroImagePath: row.hero_image_path,
     developer: developer
       ? {
+          slug: developer.slug,
           name: asLocalized(
             developer.name_en,
             developer.name_zh,
@@ -157,6 +163,7 @@ function mapProject(row: ProjectWithRelations): ProjectView {
             developer.description_zh,
             developer.description_th,
           ),
+          logoUrl: developer.logo_url,
         }
       : null,
     location: row.locations
@@ -166,6 +173,9 @@ function mapProject(row: ProjectWithRelations): ProjectView {
           row.locations.name_th,
         )
       : asLocalized(),
+    cityId: row.city_id,
+    districtId: row.district_id,
+    transitTags: row.transit_tags ?? [],
   };
 }
 
@@ -186,15 +196,27 @@ export async function getPublishedProjectBySlug(
   return mapProject(data as ProjectWithRelations);
 }
 
-export async function listPublishedProjects(): Promise<ProjectView[]> {
+export async function listPublishedProjects(options?: {
+  cityId?: string;
+  districtId?: string;
+}): Promise<ProjectView[]> {
   if (!hasSupabaseEnv()) return [];
 
   const supabase = await createClient();
-  const { data, error } = await supabase
+  let request = supabase
     .from("property_projects")
     .select("*, developers (*), locations (*)")
     .eq("status", "published")
     .order("name_en", { ascending: true });
+
+  if (options?.cityId) {
+    request = request.eq("city_id", options.cityId);
+  }
+  if (options?.districtId) {
+    request = request.eq("district_id", options.districtId);
+  }
+
+  const { data, error } = await request;
 
   if (error || !data) return [];
   return (data as ProjectWithRelations[]).map(mapProject);

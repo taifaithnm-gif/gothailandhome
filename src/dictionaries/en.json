@@ -1,9 +1,9 @@
 {
   "meta": {
     "homeTitle": "GoThailandHome | Thailand Property Platform",
-    "homeDescription": "Explore Thailand property listings for buyers, sellers, and renters across Bangkok, Phuket, Chiang Mai, and more.",
+    "homeDescription": "Browse real Thailand condominium projects and verified public sale and rent listings across Bangkok, Pattaya, Phuket, Chiang Mai, Rayong, and Hua Hin.",
     "propertiesTitle": "Property Listings | GoThailandHome",
-    "propertiesDescription": "Browse placeholder Thailand property listings across major cities and lifestyle destinations.",
+    "propertiesDescription": "Filter verified Thailand property listings by city, district, developer, transit, price, and bedrooms.",
     "propertyDetailTitle": "{title} | GoThailandHome",
     "propertyDetailDescription": "{summary}",
     "searchTitle": "Search Properties | GoThailandHome",
@@ -15,7 +15,11 @@
     "projectTitle": "{title} | GoThailandHome",
     "projectDescription": "{description}",
     "notFoundTitle": "Page not found | GoThailandHome",
-    "notFoundDescription": "The page you are looking for could not be found."
+    "notFoundDescription": "The page you are looking for could not be found.",
+    "citiesTitle": "Thailand Cities | GoThailandHome",
+    "citiesDescription": "Explore Thailand property by city: Bangkok, Pattaya, Phuket, Chiang Mai, Rayong, and Hua Hin.",
+    "developersTitle": "Property Developers | GoThailandHome",
+    "developersDescription": "Developer profiles, official websites, and published projects on GoThailandHome."
   },
   "nav": {
     "home": "Home",
@@ -26,7 +30,9 @@
     "contact": "Contact",
     "menu": "Menu",
     "close": "Close",
-    "language": "Language"
+    "language": "Language",
+    "cities": "Cities",
+    "developers": "Developers"
   },
   "projectLanding": {
     "developer": "Developer",
@@ -90,8 +96,8 @@
     "rent": "Rent"
   },
   "home": {
-    "headline": "Find your next home in Thailand",
-    "subheadline": "A clear starting point for buyers, sellers, and renters exploring Thailand property.",
+    "headline": "Thailand property, city by city",
+    "subheadline": "Search verified public listings and real condominium projects across major Thailand markets.",
     "featuredTitle": "Featured listings",
     "featuredSubtitle": "Sample homes across popular destinations.",
     "destinationsTitle": "Explore destinations",
@@ -101,11 +107,29 @@
     "chiangMai": "Chiang Mai",
     "huaHin": "Hua Hin",
     "whyTitle": "Built for international searchers",
-    "whyBody": "English, Chinese, and Thai browsing with a simple property journey from discovery to enquiry."
+    "whyBody": "English, Chinese, and Thai browsing with a simple property journey from discovery to enquiry.",
+    "featuredProjectsTitle": "Featured projects",
+    "featuredProjectsSubtitle": "Published projects imported from official and public sources.",
+    "latestListingsTitle": "Latest listings",
+    "latestListingsSubtitle": "Sale and rent units with source URL and update/capture dates.",
+    "citiesTitle": "Cities",
+    "citiesSubtitle": "Start with a Thailand city market.",
+    "developersTitle": "Developers",
+    "developersSubtitle": "Company profiles linked to published projects.",
+    "buy": "Buy",
+    "buyBody": "Verified public sale listings only.",
+    "rent": "Rent",
+    "rentBody": "Verified public rental listings only.",
+    "investment": "Investment",
+    "investmentBody": "Browse sale inventory sorted from lowest price for entry screening.",
+    "investmentCta": "View sale listings",
+    "ctaTitle": "Need help shortlisting a unit?",
+    "ctaBody": "Send an enquiry about a city, project, or listing. No public login required.",
+    "ctaButton": "Contact GoThailandHome"
   },
   "properties": {
     "title": "Property listings",
-    "subtitle": "Sample Thailand homes for sale. Details are placeholders only."
+    "subtitle": "Verified public listings with filters for sale, rent, city, district, developer, transit, price, and bedrooms."
   },
   "property": {
     "overview": "Overview",
@@ -156,5 +180,40 @@
     "title": "Page not found",
     "body": "The page may have moved, or the link is incorrect.",
     "cta": "Go to homepage"
+  },
+  "listings": {
+    "sort": "Sort",
+    "sortNewest": "Newest",
+    "sortPriceAsc": "Lowest price",
+    "sortPriceDesc": "Highest price",
+    "listingType": "Listing type",
+    "city": "City",
+    "district": "District",
+    "developer": "Developer",
+    "transit": "Transit",
+    "bts": "BTS",
+    "mrt": "MRT",
+    "bedrooms": "Bedrooms",
+    "price": "Price (THB)",
+    "minPrice": "Min",
+    "maxPrice": "Max",
+    "all": "All",
+    "apply": "Apply filters",
+    "reset": "Reset"
+  },
+  "cities": {
+    "title": "Cities",
+    "subtitle": "Thailand property markets with district and project hubs.",
+    "districts": "Districts",
+    "listings": "Listings",
+    "emptyDistricts": "No districts published yet.",
+    "emptyProjects": "No imported projects in this area yet."
+  },
+  "developers": {
+    "title": "Developers",
+    "subtitle": "Published developer profiles with projects and listings.",
+    "website": "Official website",
+    "projects": "Projects",
+    "listings": "Listings"
   }
 }

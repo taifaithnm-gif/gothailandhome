@@ -23,7 +23,52 @@ export type LocationRow = {
   province_zh: string;
   province_th: string;
   country_code: string;
+  city_id: string | null;
+  district_id: string | null;
   created_at: string;
+};
+
+export type CityRow = {
+  id: string;
+  slug: string;
+  name_en: string;
+  name_zh: string;
+  name_th: string;
+  seo_title_en: string | null;
+  seo_title_zh: string | null;
+  seo_title_th: string | null;
+  seo_description_en: string | null;
+  seo_description_zh: string | null;
+  seo_description_th: string | null;
+  summary_en: string | null;
+  summary_zh: string | null;
+  summary_th: string | null;
+  is_active: boolean;
+  sort_order: number;
+  created_at: string;
+  updated_at: string;
+};
+
+export type DistrictRow = {
+  id: string;
+  city_id: string;
+  slug: string;
+  name_en: string;
+  name_zh: string;
+  name_th: string;
+  seo_title_en: string | null;
+  seo_title_zh: string | null;
+  seo_title_th: string | null;
+  seo_description_en: string | null;
+  seo_description_zh: string | null;
+  seo_description_th: string | null;
+  summary_en: string | null;
+  summary_zh: string | null;
+  summary_th: string | null;
+  is_active: boolean;
+  sort_order: number;
+  created_at: string;
+  updated_at: string;
 };
 
 export type DeveloperRow = {
@@ -43,6 +88,13 @@ export type DeveloperRow = {
   logo_url: string | null;
   phone: string | null;
   email: string | null;
+  seo_title_en: string | null;
+  seo_title_zh: string | null;
+  seo_title_th: string | null;
+  seo_description_en: string | null;
+  seo_description_zh: string | null;
+  seo_description_th: string | null;
+  is_published: boolean;
   created_at: string;
   updated_at: string;
 };
@@ -110,6 +162,9 @@ export type PropertyProjectRow = {
   hero_image_path: string | null;
   published_at: string | null;
   source_notes: string | null;
+  city_id: string | null;
+  district_id: string | null;
+  transit_tags: string[];
   created_at: string;
   updated_at: string;
 };
@@ -146,6 +201,10 @@ export type PropertyRow = {
   external_ref: string | null;
   floor_label: string | null;
   building_label: string | null;
+  city_id: string | null;
+  district_id: string | null;
+  transit_tags: string[];
+  is_verified_listing: boolean;
   created_at: string;
   updated_at: string;
 };
@@ -232,6 +291,21 @@ export type Database = {
             | "province_th"
           >,
         Partial<LocationRow>
+      >;
+      cities: TableDef<
+        CityRow,
+        Partial<CityRow> &
+          Pick<CityRow, "slug" | "name_en" | "name_zh" | "name_th">,
+        Partial<CityRow>
+      >;
+      districts: TableDef<
+        DistrictRow,
+        Partial<DistrictRow> &
+          Pick<
+            DistrictRow,
+            "city_id" | "slug" | "name_en" | "name_zh" | "name_th"
+          >,
+        Partial<DistrictRow>
       >;
       developers: TableDef<
         DeveloperRow,

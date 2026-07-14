@@ -100,7 +100,35 @@ const supabase = createClient(supabaseUrl, serviceKey, {
   auth: { persistSession: false, autoRefreshToken: false },
 });
 
+async function resolveCityId(slug) {
+  if (!slug) return null;
+  const { data, error } = await supabase
+    .from("cities")
+    .select("id")
+    .eq("slug", slug)
+    .maybeSingle();
+  if (error) throw error;
+  return data?.id ?? null;
+}
+
+async function resolveDistrictId(slug) {
+  if (!slug) return null;
+  const { data, error } = await supabase
+    .from("districts")
+    .select("id")
+    .eq("slug", slug)
+    .maybeSingle();
+  if (error) throw error;
+  return data?.id ?? null;
+}
+
 const loc = manifest.location;
+const cityId = await resolveCityId(loc.city_slug);
+const districtId = await resolveDistrictId(loc.district_slug);
+const transitTags = Array.isArray(manifest.project.transit_tags)
+  ? manifest.project.transit_tags
+  : [];
+
 const { data: location, error: locErr } = await supabase
   .from("locations")
   .upsert(
@@ -116,6 +144,8 @@ const { data: location, error: locErr } = await supabase
       province_zh: loc.province.zh,
       province_th: loc.province.th,
       country_code: loc.country_code || "TH",
+      city_id: cityId,
+      district_id: districtId,
     },
     { onConflict: "slug" },
   )
@@ -143,6 +173,13 @@ const { data: developer, error: devErr } = await supabase
       phone: dev.phone ?? null,
       email: dev.email ?? null,
       logo_url: dev.logo_url ?? null,
+      is_published: dev.is_published !== false,
+      seo_title_en: dev.seo?.title?.en ?? null,
+      seo_title_zh: dev.seo?.title?.zh ?? null,
+      seo_title_th: dev.seo?.title?.th ?? null,
+      seo_description_en: dev.seo?.description?.en ?? null,
+      seo_description_zh: dev.seo?.description?.zh ?? null,
+      seo_description_th: dev.seo?.description?.th ?? null,
     },
     { onConflict: "slug" },
   )
@@ -159,6 +196,9 @@ const { data: project, error: projErr } = await supabase
       slug: manifest.slug,
       developer_id: developer.id,
       location_id: location.id,
+      city_id: cityId,
+      district_id: districtId,
+      transit_tags: transitTags,
       status: "published",
       name_en: p.name.en,
       name_zh: p.name.zh,
@@ -217,6 +257,10 @@ for (const listing of listingsPkg.listings || []) {
       .replace(/-+/g, "-")
       .slice(0, 80);
 
+  const listingTransit = Array.isArray(listing.transit_tags)
+    ? listing.transit_tags
+    : transitTags;
+
   const payload = {
     slug: slugBase,
     status: "published",
@@ -224,6 +268,10 @@ for (const listing of listingsPkg.listings || []) {
     property_type: listing.property_type || "condo",
     project_id: project.id,
     location_id: location.id,
+    city_id: cityId,
+    district_id: districtId,
+    transit_tags: listingTransit,
+    is_verified_listing: true,
     price_thb: listing.price_thb,
     bedrooms: listing.bedrooms ?? null,
     bathrooms: listing.bathrooms ?? null,
@@ -284,6 +332,8 @@ console.log(
       project_id: project.id,
       developer_id: developer.id,
       location_id: location.id,
+      city_id: cityId,
+      district_id: districtId,
       listings_upserted: listingCount,
     },
     null,

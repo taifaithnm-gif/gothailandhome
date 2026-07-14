@@ -69,7 +69,17 @@ Each listing object must include:
 | `source_updated_at` | ISO date from portal or capture date    |
 | `external_ref`      | Stable portal id / ref for upserts      |
 
-## Notes
+Manifest fields (Phase 5):
 
-- Upserts use `developers.slug`, `property_projects.slug`, and `properties.external_ref` / `listing_url`.
-- Enquiry conversion placeholders store UTM / `gclid` / `fbclid` on `inquiries`.
+- `location.city_slug` — must match a `cities.slug` (e.g. `bangkok`)
+- `location.district_slug` — must match a `districts.slug` (e.g. `bang-kapi`)
+- `project.transit_tags` — e.g. `["mrt","mrt-orange","bts"]` for listing filters
+- `developer.seo` — optional multilingual SEO title/description
+- `developer.logo_url` — optional logo for developer SEO page
+
+Geography bootstrap (once per environment):
+
+```bash
+npm run db:migrate:phase5
+npm run db:seed:geography
+```

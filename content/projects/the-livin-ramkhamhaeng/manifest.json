@@ -58,6 +58,20 @@
     "website": "https://www.livinram.com/en",
     "facebook_url": "https://www.facebook.com/Rislandthailand",
     "phone": "02-026-6888",
+    "logo_url": null,
+    "is_published": true,
+    "seo": {
+      "title": {
+        "en": "RISLAND Thailand Developer | GoThailandHome",
+        "zh": "RISLAND Thailand 开发商 | GoThailandHome",
+        "th": "ผู้พัฒนา RISLAND Thailand | GoThailandHome"
+      },
+      "description": {
+        "en": "Developer profile for RISLAND (Thailand) Co., Ltd. and published projects on GoThailandHome.",
+        "zh": "RISLAND (Thailand) Co., Ltd. 开发商简介及已发布项目。",
+        "th": "โปรไฟล์ผู้พัฒนา บริษัท ริสแลนด์ (ประเทศไทย) จำกัด และโครงการที่เผยแพร่"
+      }
+    },
     "sources": [
       "https://www.livinram.com/en",
       "https://zmyhome.com/project/V17585",
@@ -66,6 +80,8 @@
   },
   "location": {
     "slug": "hua-mak-bang-kapi-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "bang-kapi",
     "name": {
       "en": "Hua Mak, Bang Kapi",
       "zh": "华目（Hua Mak），挽甲必",
@@ -84,6 +100,7 @@
     "country_code": "TH"
   },
   "project": {
+    "transit_tags": ["mrt", "mrt-orange", "mrt-yellow", "mrt-brown-planned"],
     "name": {
       "en": "The Livin Ramkhamhaeng",
       "zh": "The Livin Ramkhamhaeng（德利温·蓝康恒）",

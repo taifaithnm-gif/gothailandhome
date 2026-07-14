@@ -1,9 +1,9 @@
 {
   "meta": {
     "homeTitle": "GoThailandHome | 泰国房产平台",
-    "homeDescription": "浏览泰国房源，覆盖曼谷、普吉、清迈等地，面向买家、卖家与租客。",
+    "homeDescription": "浏览曼谷、芭提雅、普吉、清迈、罗勇、华欣的真实公寓项目与已核对公开买卖/租赁挂牌。",
     "propertiesTitle": "房源列表 | GoThailandHome",
-    "propertiesDescription": "浏览泰国主要城市与度假目的地的占位房源列表。",
+    "propertiesDescription": "按城市、区域、开发商、轨道交通、价格与卧室筛选已核对挂牌。",
     "propertyDetailTitle": "{title} | GoThailandHome",
     "propertyDetailDescription": "{summary}",
     "searchTitle": "搜索房源 | GoThailandHome",
@@ -15,7 +15,11 @@
     "projectTitle": "{title} | GoThailandHome",
     "projectDescription": "{description}",
     "notFoundTitle": "页面未找到 | GoThailandHome",
-    "notFoundDescription": "您要查找的页面不存在。"
+    "notFoundDescription": "您要查找的页面不存在。",
+    "citiesTitle": "泰国城市 | GoThailandHome",
+    "citiesDescription": "按城市浏览泰国房产：曼谷、芭提雅、普吉、清迈、罗勇、华欣。",
+    "developersTitle": "开发商 | GoThailandHome",
+    "developersDescription": "开发商简介、官网与已发布项目。"
   },
   "nav": {
     "home": "首页",
@@ -26,7 +30,9 @@
     "contact": "联系",
     "menu": "菜单",
     "close": "关闭",
-    "language": "语言"
+    "language": "语言",
+    "cities": "城市",
+    "developers": "开发商"
   },
   "projectLanding": {
     "developer": "开发商",
@@ -90,8 +96,8 @@
     "rent": "出租"
   },
   "home": {
-    "headline": "在泰国找到下一处家园",
-    "subheadline": "为买家、卖家与租客提供清晰的泰国房产起点。",
+    "headline": "按城市发现泰国房产",
+    "subheadline": "搜索主要市场的真实项目与已核对公开挂牌。",
     "featuredTitle": "精选房源",
     "featuredSubtitle": "热门目的地的示例房源。",
     "destinationsTitle": "探索目的地",
@@ -101,11 +107,29 @@
     "chiangMai": "清迈",
     "huaHin": "华欣",
     "whyTitle": "面向国际用户",
-    "whyBody": "支持英文、中文与泰文浏览，从发现房源到咨询询盘路径更清晰。"
+    "whyBody": "支持英文、中文与泰文浏览，从发现房源到咨询询盘路径更清晰。",
+    "featuredProjectsTitle": "精选项目",
+    "featuredProjectsSubtitle": "来自官方与公开来源导入的已发布项目。",
+    "latestListingsTitle": "最新挂牌",
+    "latestListingsSubtitle": "附来源链接与更新/采集日期的买卖与租赁单位。",
+    "citiesTitle": "城市",
+    "citiesSubtitle": "从泰国主要城市市场开始。",
+    "developersTitle": "开发商",
+    "developersSubtitle": "关联已发布项目的公司简介。",
+    "buy": "买房",
+    "buyBody": "仅展示已核对的公开出售挂牌。",
+    "rent": "租房",
+    "rentBody": "仅展示已核对的公开出租挂牌。",
+    "investment": "投资筛选",
+    "investmentBody": "按低价排序浏览出售库存，便于入门筛选。",
+    "investmentCta": "查看出售挂牌",
+    "ctaTitle": "需要协助筛选单位？",
+    "ctaBody": "可就城市、项目或挂牌提交咨询，无需公开账号登录。",
+    "ctaButton": "联系 GoThailandHome"
   },
   "properties": {
     "title": "房源列表",
-    "subtitle": "泰国待售示例房源。详情仅为占位内容。"
+    "subtitle": "已核对公开挂牌，支持买卖、城市、区域、开发商、轨道交通、价格与卧室筛选。"
   },
   "property": {
     "overview": "概览",
@@ -156,5 +180,40 @@
     "title": "页面未找到",
     "body": "页面可能已移动，或链接不正确。",
     "cta": "返回首页"
+  },
+  "listings": {
+    "sort": "排序",
+    "sortNewest": "最新",
+    "sortPriceAsc": "价格从低到高",
+    "sortPriceDesc": "价格从高到低",
+    "listingType": "挂牌类型",
+    "city": "城市",
+    "district": "区域",
+    "developer": "开发商",
+    "transit": "交通",
+    "bts": "BTS",
+    "mrt": "MRT",
+    "bedrooms": "卧室",
+    "price": "价格（泰铢）",
+    "minPrice": "最低",
+    "maxPrice": "最高",
+    "all": "全部",
+    "apply": "应用筛选",
+    "reset": "重置"
+  },
+  "cities": {
+    "title": "城市",
+    "subtitle": "泰国房产市场及区域、项目中心页。",
+    "districts": "区域",
+    "listings": "挂牌",
+    "emptyDistricts": "暂无已发布区域。",
+    "emptyProjects": "该区域暂无已导入项目。"
+  },
+  "developers": {
+    "title": "开发商",
+    "subtitle": "已发布开发商简介及其项目与挂牌。",
+    "website": "官方网站",
+    "projects": "项目",
+    "listings": "挂牌"
   }
 }

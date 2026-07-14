@@ -42,6 +42,8 @@ export default async function SearchPage({
     query: q,
     location,
     type,
+    verifiedOnly: true,
+    sort: "newest",
   });
 
   return (
