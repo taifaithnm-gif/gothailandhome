@@ -45,9 +45,15 @@ Post-backfill: `verification_status=verified`, fingerprints, `source_listing_id`
 
 Lint warnings only (no errors). `tsc` / `next build` PASS. Sample factory validate PASS.
 
-## Commits
+## Commits (on top of `e3cf459`, no amend)
 
-See git log after push — each logical commit hash listed in push summary.
+| Hash | Message |
+|------|---------|
+| `6e5cc0a` | Add Wave1 multi-source listing identity schema and helpers |
+| `c9eac96` | Harden listing import to persist identity, verification, and source rows |
+| `2120e4d` | Add Wave1 post-harvest audit, empty-project probes, and evidence dumps |
+| `5b1749b` | Normalize Wave1 listing packages with source identity fields |
+| `dd0da63` | Document Phase 6 M2 Wave1 post-harvest hardening results |
 
 ## Evidence paths
 
