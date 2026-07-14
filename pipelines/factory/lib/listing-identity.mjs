@@ -67,6 +67,17 @@ export function deriveSourceListingId(source, externalRef, listingUrl) {
     if (fromUrl) return fromUrl[1];
     return null;
   }
+  if (key === "dotproperty") {
+    const fromRef = String(externalRef || "").match(
+      /(?:^|-)(?:dotproperty-)?([a-f0-9]{8,}-[a-f0-9-]{10,})$/i,
+    );
+    if (fromRef) return fromRef[1].toLowerCase();
+    const fromUrl = String(listingUrl || "").match(
+      /_([a-f0-9]{8,}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{8,})(?:\/?$|\?)/i,
+    );
+    if (fromUrl) return fromUrl[1].toLowerCase();
+    return null;
+  }
   if (externalRef) {
     const stripped = String(externalRef).replace(new RegExp(`^${key}-`, "i"), "");
     return stripped || String(externalRef);
@@ -111,6 +122,18 @@ export function normalizeSourceUrl(source, listingUrl, sourceListingId = null) {
   }
   if (key === "hipflat" && sourceListingId) {
     return `https://www.hipflat.co.th/ads/${sourceListingId}`;
+  }
+  if (key === "dotproperty") {
+    // Prefer full /en/ads/{slug}_{id} path when present; short /en/ads/{id} is not routable.
+    if (/\/en\/ads\//i.test(listingUrl)) {
+      u.hostname = "www.dotproperty.co.th";
+      u.protocol = "https:";
+      if (u.pathname.length > 1 && u.pathname.endsWith("/")) {
+        u.pathname = u.pathname.slice(0, -1);
+      }
+      return u.toString();
+    }
+    return null;
   }
   u.hostname = u.hostname.toLowerCase();
   // Collapse default ports
