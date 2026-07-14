@@ -239,9 +239,28 @@ function listingDto({ listing, href, projectSlug, developerSlug, districtSlug, t
     publish_ready: true,
     latitude: listing.project?.location?.lat ?? null,
     longitude: listing.project?.location?.lng ?? null,
-    duplicate_fingerprint: createHash("sha256")
-      .update(`propertyhub-${id}`)
+    source_listing_id: String(id),
+    normalized_source_url: `https://propertyhub.in.th/en/listings/${id}`,
+    source_url_hash: createHash("sha256")
+      .update(`https://propertyhub.in.th/en/listings/${id}`)
       .digest("hex"),
+    // Identity fingerprint: source + id (never title-only)
+    duplicate_fingerprint: createHash("sha256")
+      .update(`id|propertyhub|${id}`)
+      .digest("hex"),
+    soft_match_fingerprint: createHash("sha256")
+      .update(
+        [
+          "soft",
+          projectSlug,
+          isSale ? "sale" : "rent",
+          beds == null ? "" : String(beds),
+          area == null ? "" : String(Math.round(Number(area) * 10) / 10),
+          floor == null ? "" : String(floor),
+        ].join("|"),
+      )
+      .digest("hex"),
+    listing_lifecycle_status: "active",
   };
 }
 

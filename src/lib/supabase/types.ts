@@ -205,6 +205,18 @@ export type PropertyRow = {
   district_id: string | null;
   transit_tags: string[];
   is_verified_listing: boolean;
+  verification_status?: string | null;
+  source_captured_at?: string | null;
+  source_validated_at?: string | null;
+  source_validation_ok?: boolean | null;
+  duplicate_fingerprint?: string | null;
+  soft_match_fingerprint?: string | null;
+  source_listing_id?: string | null;
+  normalized_source_url?: string | null;
+  source_url_hash?: string | null;
+  last_seen_at?: string | null;
+  last_verified_at?: string | null;
+  listing_lifecycle_status?: string | null;
   created_at: string;
   updated_at: string;
 };

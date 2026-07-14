@@ -2,10 +2,14 @@
 /**
  * Upserts a condo project package (manifest.json + listings.json) into Supabase.
  * Usage: node pipelines/condo-import/import.mjs content/projects/<slug> [--dry-run]
+ *
+ * Multi-source safe: upserts property_listing_sources row per source identity;
+ * appends listing_price_history when price changes; does not auto-merge soft matches.
  */
 import { readFileSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
 import { createClient } from "@supabase/supabase-js";
+import { deriveListingIdentity } from "../factory/lib/listing-identity.mjs";
 
 function loadEnvLocal() {
   try {
@@ -250,6 +254,20 @@ if (projErr) throw projErr;
 
 let listingCount = 0;
 for (const listing of listingsPkg.listings || []) {
+  const identity = deriveListingIdentity({
+    ...listing,
+    project_slug: listing.project_slug || manifest.slug,
+  });
+  const verificationStatus =
+    listing.verification_status ||
+    (listing.publish_ready ? "verified" : "unverified");
+  const capturedAt =
+    listing.source_captured_at ||
+    listing.collected_at ||
+    now.slice(0, 10);
+  const verifiedAt =
+    verificationStatus === "verified" ? capturedAt : null;
+
   const slugBase =
     `${manifest.slug}-${listing.listing_type}-${listing.external_ref}`
       .toLowerCase()
@@ -271,7 +289,9 @@ for (const listing of listingsPkg.listings || []) {
     city_id: cityId,
     district_id: districtId,
     transit_tags: listingTransit,
-    is_verified_listing: true,
+    is_verified_listing:
+      verificationStatus === "verified" || listing.publish_ready === true,
+    verification_status: verificationStatus,
     price_thb: listing.price_thb,
     bedrooms: listing.bedrooms ?? null,
     bathrooms: listing.bathrooms ?? null,
@@ -286,31 +306,57 @@ for (const listing of listingsPkg.listings || []) {
     description_zh: listing.description.zh,
     description_th: listing.description.th,
     featured: Boolean(listing.featured),
-    published_at: now,
-    source: listing.source,
+    source: identity.source,
     listing_url: listing.listing_url,
     source_updated_at: listing.source_updated_at,
-    external_ref: listing.external_ref,
+    source_captured_at: capturedAt,
+    external_ref: identity.external_ref || listing.external_ref,
+    source_listing_id: identity.source_listing_id,
+    normalized_source_url: identity.normalized_source_url,
+    source_url_hash: identity.source_url_hash,
+    duplicate_fingerprint: identity.duplicate_fingerprint,
+    soft_match_fingerprint: identity.soft_match_fingerprint,
+    last_seen_at: now,
+    last_verified_at: verifiedAt,
+    listing_lifecycle_status:
+      verificationStatus === "delisted" ? "delisted" : "active",
     floor_label: listing.floor_label ?? null,
     building_label: listing.building_label ?? null,
   };
 
   const { data: existingByRef } = await supabase
     .from("properties")
-    .select("id")
+    .select("id,price_thb,listing_type,source,published_at")
     .eq("external_ref", listing.external_ref)
     .maybeSingle();
 
   let existing = existingByRef;
+  if (!existing && identity.source_listing_id) {
+    const { data: bySourceId } = await supabase
+      .from("properties")
+      .select("id,price_thb,listing_type,source,published_at")
+      .eq("source", identity.source)
+      .eq("source_listing_id", identity.source_listing_id)
+      .maybeSingle();
+    existing = bySourceId;
+  }
   if (!existing) {
     const { data: existingByUrl } = await supabase
       .from("properties")
-      .select("id")
+      .select("id,price_thb,listing_type,source,published_at")
       .eq("listing_url", listing.listing_url)
       .maybeSingle();
     existing = existingByUrl;
   }
 
+  // Preserve original published_at on updates (incremental import)
+  if (existing?.published_at) {
+    payload.published_at = existing.published_at;
+  } else {
+    payload.published_at = now;
+  }
+
+  let propertyId = existing?.id;
   let error;
   if (existing?.id) {
     ({ error } = await supabase
@@ -318,12 +364,72 @@ for (const listing of listingsPkg.listings || []) {
       .update(payload)
       .eq("id", existing.id));
   } else {
-    ({ error } = await supabase.from("properties").insert(payload));
+    const { data: inserted, error: insertErr } = await supabase
+      .from("properties")
+      .insert(payload)
+      .select("id")
+      .single();
+    error = insertErr;
+    propertyId = inserted?.id;
   }
   if (error) throw error;
+
+  // Append price history when price changes (or first observation)
+  const prevPrice = existing?.price_thb != null ? Number(existing.price_thb) : null;
+  const nextPrice = Number(listing.price_thb);
+  if (propertyId && (prevPrice == null || prevPrice !== nextPrice)) {
+    await supabase.from("listing_price_history").insert({
+      property_id: propertyId,
+      price_thb: nextPrice,
+      listing_type: listing.listing_type,
+      verification_status: verificationStatus,
+      source: identity.source,
+      listing_url: listing.listing_url,
+      observed_at: now,
+      note: prevPrice == null ? "initial_import" : "price_change",
+    });
+  }
+
+  // Per-source row (does not erase other sources)
+  if (propertyId && identity.source_listing_id) {
+    const sourceRow = {
+      property_id: propertyId,
+      source: identity.source,
+      source_listing_id: identity.source_listing_id,
+      listing_url: listing.listing_url,
+      normalized_source_url: identity.normalized_source_url,
+      source_url_hash: identity.source_url_hash,
+      listing_type: listing.listing_type,
+      price_thb: nextPrice,
+      verification_status: verificationStatus,
+      identity_fingerprint: identity.duplicate_fingerprint,
+      soft_match_fingerprint: identity.soft_match_fingerprint,
+      last_seen_at: now,
+      last_verified_at: verifiedAt,
+      is_primary: true,
+      payload: {
+        external_ref: listing.external_ref,
+        project_slug: listing.project_slug || manifest.slug,
+      },
+    };
+    const { data: existingSource } = await supabase
+      .from("property_listing_sources")
+      .select("id,first_seen_at")
+      .eq("source", identity.source)
+      .eq("source_listing_id", identity.source_listing_id)
+      .maybeSingle();
+    if (existingSource?.id) {
+      await supabase
+        .from("property_listing_sources")
+        .update(sourceRow)
+        .eq("id", existingSource.id);
+    } else {
+      await supabase.from("property_listing_sources").insert(sourceRow);
+    }
+  }
+
   listingCount += 1;
 }
-
 console.log(
   JSON.stringify(
     {
