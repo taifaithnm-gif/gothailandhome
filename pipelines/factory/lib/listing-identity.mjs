@@ -78,6 +78,15 @@ export function deriveSourceListingId(source, externalRef, listingUrl) {
     if (fromUrl) return fromUrl[1].toLowerCase();
     return null;
   }
+  if (key === "fazwaz") {
+    const fromRef = String(externalRef || "").match(
+      /(?:^|-)(?:fazwaz-)?(\d{4,})$/i,
+    );
+    if (fromRef) return fromRef[1];
+    const fromUrl = String(listingUrl || "").match(/-u(\d+)(?:\/?$|\?)/i);
+    if (fromUrl) return fromUrl[1];
+    return null;
+  }
   if (externalRef) {
     const stripped = String(externalRef).replace(new RegExp(`^${key}-`, "i"), "");
     return stripped || String(externalRef);
@@ -134,6 +143,18 @@ export function normalizeSourceUrl(source, listingUrl, sourceListingId = null) {
       return u.toString();
     }
     return null;
+  }
+  if (key === "fazwaz" && sourceListingId) {
+    // Keep full property-sales/rent path when present.
+    if (/\/en\/property-(sales|rent)\//i.test(listingUrl)) {
+      u.hostname = "www.fazwaz.co.th";
+      u.protocol = "https:";
+      if (u.pathname.length > 1 && u.pathname.endsWith("/")) {
+        u.pathname = u.pathname.slice(0, -1);
+      }
+      return u.toString();
+    }
+    return `https://www.fazwaz.co.th/en/property-sales/listing-u${sourceListingId}`;
   }
   u.hostname = u.hostname.toLowerCase();
   // Collapse default ports
