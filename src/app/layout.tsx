@@ -1,11 +1,33 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import {
+  Geist_Mono,
+  Noto_Sans_SC,
+  Noto_Sans_Thai,
+  Plus_Jakarta_Sans,
+} from "next/font/google";
+
+import { siteConfig } from "@/config/site";
 
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const plusJakarta = Plus_Jakarta_Sans({
+  variable: "--font-display",
   subsets: ["latin"],
+  display: "swap",
+});
+
+const notoSansSc = Noto_Sans_SC({
+  variable: "--font-cjk",
+  subsets: ["latin"],
+  weight: ["400", "500", "700"],
+  display: "swap",
+});
+
+const notoSansThai = Noto_Sans_Thai({
+  variable: "--font-thai",
+  subsets: ["thai", "latin"],
+  weight: ["400", "500", "700"],
+  display: "swap",
 });
 
 const geistMono = Geist_Mono({
@@ -14,9 +36,18 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "GoThailandHome",
-  description: "Thailand property platform.",
-  metadataBase: new URL("https://gothailandhome.com"),
+  metadataBase: new URL(siteConfig.url),
+  title: {
+    default: siteConfig.name,
+    template: `%s | ${siteConfig.name}`,
+  },
+  description:
+    "Thailand property platform for buyers, sellers, and renters.",
+  applicationName: siteConfig.name,
+  openGraph: {
+    type: "website",
+    siteName: siteConfig.name,
+  },
 };
 
 export default function RootLayout({
@@ -27,9 +58,20 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${plusJakarta.variable} ${notoSansSc.variable} ${notoSansThai.variable} ${geistMono.variable} h-full antialiased`}
+      suppressHydrationWarning
     >
-      <body className="flex min-h-full flex-col">{children}</body>
+      <body
+        className="flex min-h-full flex-col font-sans"
+        style={
+          {
+            "--font-body":
+              "var(--font-display), var(--font-cjk), var(--font-thai), ui-sans-serif, system-ui, sans-serif",
+          } as React.CSSProperties
+        }
+      >
+        {children}
+      </body>
     </html>
   );
 }

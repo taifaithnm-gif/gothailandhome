@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "homeTitle": "GoThailandHome | Thailand Property Platform",
+    "homeDescription": "Explore Thailand property listings for buyers, sellers, and renters across Bangkok, Phuket, Chiang Mai, and more.",
+    "propertiesTitle": "Property Listings | GoThailandHome",
+    "propertiesDescription": "Browse placeholder Thailand property listings across major cities and lifestyle destinations.",
+    "propertyDetailTitle": "{title} | GoThailandHome",
+    "propertyDetailDescription": "{summary}",
+    "searchTitle": "Search Properties | GoThailandHome",
+    "searchDescription": "Search placeholder Thailand property listings by keyword, location, and property type.",
+    "aboutTitle": "About | GoThailandHome",
+    "aboutDescription": "Learn about GoThailandHome, a Thailand property platform for international buyers, sellers, and renters.",
+    "contactTitle": "Contact | GoThailandHome",
+    "contactDescription": "Contact GoThailandHome for property enquiries. Placeholder contact details for MVP.",
+    "notFoundTitle": "Page not found | GoThailandHome",
+    "notFoundDescription": "The page you are looking for could not be found."
+  },
+  "nav": {
+    "home": "Home",
+    "properties": "Properties",
+    "search": "Search",
+    "about": "About",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language"
+  },
+  "common": {
+    "brand": "GoThailandHome",
+    "viewProperty": "View details",
+    "viewAll": "View all listings",
+    "searchCta": "Search homes",
+    "contactCta": "Contact us",
+    "backHome": "Back to home",
+    "placeholderNotice": "Placeholder content for MVP preview.",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "area": "Area",
+    "price": "Price",
+    "type": "Type",
+    "location": "Location",
+    "sqm": "sqm",
+    "results": "Results",
+    "noResults": "No matching properties found.",
+    "featured": "Featured",
+    "allTypes": "All types",
+    "condo": "Condo",
+    "house": "House",
+    "villa": "Villa",
+    "townhouse": "Townhouse"
+  },
+  "home": {
+    "headline": "Find your next home in Thailand",
+    "subheadline": "A clear starting point for buyers, sellers, and renters exploring Thailand property.",
+    "featuredTitle": "Featured listings",
+    "featuredSubtitle": "Sample homes across popular destinations.",
+    "destinationsTitle": "Explore destinations",
+    "destinationsSubtitle": "Browse placeholder routes for major Thailand markets.",
+    "bangkok": "Bangkok",
+    "phuket": "Phuket",
+    "chiangMai": "Chiang Mai",
+    "huaHin": "Hua Hin",
+    "whyTitle": "Built for international searchers",
+    "whyBody": "English, Chinese, and Thai browsing with a simple property journey from discovery to enquiry."
+  },
+  "properties": {
+    "title": "Property listings",
+    "subtitle": "Sample Thailand homes for sale. Details are placeholders only."
+  },
+  "property": {
+    "overview": "Overview",
+    "details": "Property details",
+    "enquire": "Enquire about this home",
+    "similar": "More listings",
+    "notFound": "This property could not be found."
+  },
+  "search": {
+    "title": "Search properties",
+    "subtitle": "Filter placeholder listings by keyword, location, and type.",
+    "queryLabel": "Keyword",
+    "queryPlaceholder": "Condo, villa, Bangkok…",
+    "locationLabel": "Location",
+    "locationPlaceholder": "City or area",
+    "typeLabel": "Property type",
+    "submit": "Search",
+    "showing": "Showing {count} listings"
+  },
+  "about": {
+    "title": "About GoThailandHome",
+    "subtitle": "A Thailand property platform for Chinese and international audiences.",
+    "body1": "GoThailandHome is being built as a practical destination for discovering homes across Thailand. This MVP uses placeholder listings and copy only.",
+    "body2": "Future phases may add richer listing data, enquiry workflows, and market guides. There is no CMS, database, map, or AI integration in this release.",
+    "missionTitle": "Mission",
+    "missionBody": "Make Thailand property discovery clearer for English, Chinese, and Thai users."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Send an enquiry using this placeholder form.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send message",
+    "note": "Form submission is not connected yet. This page is for layout and SEO structure only.",
+    "officeTitle": "Office placeholder",
+    "officeBody": "Bangkok, Thailand — sample address for MVP.",
+    "emailValue": "hello@gothailandhome.com",
+    "phoneValue": "+66 (0)00 000 0000"
+  },
+  "footer": {
+    "tagline": "Thailand property for buyers, sellers, and renters.",
+    "explore": "Explore",
+    "company": "Company",
+    "rights": "All rights reserved."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The page may have moved, or the link is incorrect.",
+    "cta": "Go to homepage"
+  }
+}

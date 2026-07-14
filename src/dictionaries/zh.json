@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "homeTitle": "GoThailandHome | 泰国房产平台",
+    "homeDescription": "浏览泰国房源，覆盖曼谷、普吉、清迈等地，面向买家、卖家与租客。",
+    "propertiesTitle": "房源列表 | GoThailandHome",
+    "propertiesDescription": "浏览泰国主要城市与度假目的地的占位房源列表。",
+    "propertyDetailTitle": "{title} | GoThailandHome",
+    "propertyDetailDescription": "{summary}",
+    "searchTitle": "搜索房源 | GoThailandHome",
+    "searchDescription": "按关键词、地点与房型搜索泰国占位房源。",
+    "aboutTitle": "关于我们 | GoThailandHome",
+    "aboutDescription": "了解 GoThailandHome，面向国际买家、卖家与租客的泰国房产平台。",
+    "contactTitle": "联系我们 | GoThailandHome",
+    "contactDescription": "联系 GoThailandHome 咨询房产信息。MVP 占位联系方式。",
+    "notFoundTitle": "页面未找到 | GoThailandHome",
+    "notFoundDescription": "您要查找的页面不存在。"
+  },
+  "nav": {
+    "home": "首页",
+    "properties": "房源",
+    "search": "搜索",
+    "about": "关于",
+    "contact": "联系",
+    "menu": "菜单",
+    "close": "关闭",
+    "language": "语言"
+  },
+  "common": {
+    "brand": "GoThailandHome",
+    "viewProperty": "查看详情",
+    "viewAll": "查看全部房源",
+    "searchCta": "搜索房产",
+    "contactCta": "联系我们",
+    "backHome": "返回首页",
+    "placeholderNotice": "当前为 MVP 占位内容。",
+    "bedrooms": "卧室",
+    "bathrooms": "卫浴",
+    "area": "面积",
+    "price": "价格",
+    "type": "类型",
+    "location": "位置",
+    "sqm": "平方米",
+    "results": "结果",
+    "noResults": "未找到匹配房源。",
+    "featured": "精选",
+    "allTypes": "全部类型",
+    "condo": "公寓",
+    "house": "独立屋",
+    "villa": "别墅",
+    "townhouse": "联排别墅"
+  },
+  "home": {
+    "headline": "在泰国找到下一处家园",
+    "subheadline": "为买家、卖家与租客提供清晰的泰国房产起点。",
+    "featuredTitle": "精选房源",
+    "featuredSubtitle": "热门目的地的示例房源。",
+    "destinationsTitle": "探索目的地",
+    "destinationsSubtitle": "浏览主要泰国市场的占位入口。",
+    "bangkok": "曼谷",
+    "phuket": "普吉",
+    "chiangMai": "清迈",
+    "huaHin": "华欣",
+    "whyTitle": "面向国际用户",
+    "whyBody": "支持英文、中文与泰文浏览，从发现房源到咨询询盘路径更清晰。"
+  },
+  "properties": {
+    "title": "房源列表",
+    "subtitle": "泰国待售示例房源。详情仅为占位内容。"
+  },
+  "property": {
+    "overview": "概览",
+    "details": "房源详情",
+    "enquire": "咨询此房源",
+    "similar": "更多房源",
+    "notFound": "未找到该房源。"
+  },
+  "search": {
+    "title": "搜索房源",
+    "subtitle": "按关键词、地点与类型筛选占位房源。",
+    "queryLabel": "关键词",
+    "queryPlaceholder": "公寓、别墅、曼谷…",
+    "locationLabel": "地点",
+    "locationPlaceholder": "城市或区域",
+    "typeLabel": "房型",
+    "submit": "搜索",
+    "showing": "共 {count} 套房源"
+  },
+  "about": {
+    "title": "关于 GoThailandHome",
+    "subtitle": "面向中文与国际用户的泰国房产平台。",
+    "body1": "GoThailandHome 正打造为发现泰国房产的实用入口。本 MVP 仅使用占位房源与文案。",
+    "body2": "后续阶段可能加入更完整的房源数据、询盘流程与市场指南。本版本不包含 CMS、数据库、地图或 AI。",
+    "missionTitle": "使命",
+    "missionBody": "让英文、中文与泰文用户更清晰地发现泰国房产。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "使用此占位表单发送咨询。",
+    "name": "姓名",
+    "email": "邮箱",
+    "message": "留言",
+    "submit": "发送",
+    "note": "表单尚未接入提交功能。本页仅用于布局与 SEO 结构。",
+    "officeTitle": "办公地址（占位）",
+    "officeBody": "泰国曼谷 — MVP 示例地址。",
+    "emailValue": "hello@gothailandhome.com",
+    "phoneValue": "+66 (0)00 000 0000"
+  },
+  "footer": {
+    "tagline": "面向买家、卖家与租客的泰国房产平台。",
+    "explore": "探索",
+    "company": "公司",
+    "rights": "版权所有。"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "body": "页面可能已移动，或链接不正确。",
+    "cta": "返回首页"
+  }
+}
