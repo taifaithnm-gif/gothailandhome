@@ -43,7 +43,7 @@ export default async function ContactPage({
             <input
               type="text"
               name="name"
-              className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 outline-none transition focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
+              className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
             />
           </label>
           <label className="flex flex-col gap-2 text-sm">
@@ -53,7 +53,7 @@ export default async function ContactPage({
             <input
               type="email"
               name="email"
-              className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 outline-none transition focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
+              className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
             />
           </label>
           <label className="flex flex-col gap-2 text-sm">
@@ -63,7 +63,7 @@ export default async function ContactPage({
             <textarea
               name="message"
               rows={5}
-              className="rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 py-3 outline-none transition focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
+              className="rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 py-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
             />
           </label>
           <button

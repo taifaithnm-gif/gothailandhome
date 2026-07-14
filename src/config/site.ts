@@ -1,5 +1,5 @@
 export const siteConfig = {
   name: "GoThailandHome",
-  domain: "gothailandhome.com",
-  url: "https://gothailandhome.com",
+  domain: "www.gothailandhome.com",
+  url: "https://www.gothailandhome.com",
 } as const;

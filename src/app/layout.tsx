@@ -41,8 +41,7 @@ export const metadata: Metadata = {
     default: siteConfig.name,
     template: `%s | ${siteConfig.name}`,
   },
-  description:
-    "Thailand property platform for buyers, sellers, and renters.",
+  description: "Thailand property platform for buyers, sellers, and renters.",
   applicationName: siteConfig.name,
   openGraph: {
     type: "website",

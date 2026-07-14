@@ -28,7 +28,7 @@ export function SearchForm({ locale, dict, defaults }: SearchFormProps) {
           name="q"
           defaultValue={defaults?.q}
           placeholder={dict.search.queryPlaceholder}
-          className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 outline-none transition focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
+          className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
         />
       </label>
 
@@ -41,7 +41,7 @@ export function SearchForm({ locale, dict, defaults }: SearchFormProps) {
           name="location"
           defaultValue={defaults?.location}
           placeholder={dict.search.locationPlaceholder}
-          className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 outline-none transition focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
+          className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
         />
       </label>
 
@@ -52,7 +52,7 @@ export function SearchForm({ locale, dict, defaults }: SearchFormProps) {
         <select
           name="type"
           defaultValue={defaults?.type || "all"}
-          className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 outline-none transition focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
+          className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
         >
           <option value="all">{dict.common.allTypes}</option>
           <option value="condo">{dict.common.condo}</option>

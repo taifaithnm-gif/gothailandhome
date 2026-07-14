@@ -70,7 +70,10 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
           })}
         </nav>
 
-        <div className="hidden items-center gap-2 md:flex" aria-label={dict.nav.language}>
+        <div
+          className="hidden items-center gap-2 md:flex"
+          aria-label={dict.nav.language}
+        >
           {locales.map((item) => (
             <Link
               key={item}

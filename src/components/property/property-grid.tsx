@@ -9,11 +9,7 @@ type PropertyGridProps = {
   properties: Property[];
 };
 
-export function PropertyGrid({
-  locale,
-  dict,
-  properties,
-}: PropertyGridProps) {
+export function PropertyGrid({ locale, dict, properties }: PropertyGridProps) {
   if (properties.length === 0) {
     return (
       <p className="rounded-2xl border border-dashed border-[var(--brand-line)] bg-white/70 px-6 py-12 text-center text-stone-600">

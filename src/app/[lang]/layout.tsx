@@ -22,7 +22,10 @@ export default async function LocaleLayout({
   const dict = await getDictionary(lang);
 
   return (
-    <div lang={localeHtmlLang[lang]} className="flex min-h-full flex-1 flex-col">
+    <div
+      lang={localeHtmlLang[lang]}
+      className="flex min-h-full flex-1 flex-col"
+    >
       <SiteHeader locale={lang} dict={dict} />
       <main className="flex-1">{children}</main>
       <SiteFooter locale={lang} dict={dict} />

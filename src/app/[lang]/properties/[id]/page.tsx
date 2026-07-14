@@ -11,11 +11,7 @@ import {
   localePath,
   propertyTypeLabel,
 } from "@/lib/i18n/metadata";
-import {
-  formatPrice,
-  getPropertyById,
-  properties,
-} from "@/lib/properties";
+import { formatPrice, getPropertyById, properties } from "@/lib/properties";
 
 export function generateStaticParams() {
   return properties.flatMap((property) =>
@@ -89,7 +85,7 @@ export default async function PropertyDetailPage({
             <p className="text-sm tracking-wide text-[var(--brand)] uppercase">
               {propertyTypeLabel(dict, property.type)}
             </p>
-            <p className="mt-3 font-heading text-3xl text-[var(--brand-deep)]">
+            <p className="font-heading mt-3 text-3xl text-[var(--brand-deep)]">
               {formatPrice(property.priceThb, lang)}
             </p>
             <dl className="mt-6 grid grid-cols-2 gap-4 text-sm text-stone-600">

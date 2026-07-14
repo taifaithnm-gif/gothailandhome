@@ -27,7 +27,7 @@ export function PropertyCard({
       )}
     >
       <div className="relative aspect-[16/10] overflow-hidden bg-[linear-gradient(135deg,#0a5c54_0%,#147a6f_45%,#c9a227_160%)]">
-        <div className="absolute inset-0 opacity-30 [background-image:radial-gradient(circle_at_20%_20%,white_0,transparent_45%),radial-gradient(circle_at_80%_10%,#e8b84a_0,transparent_35%)]" />
+        <div className="absolute inset-0 [background-image:radial-gradient(circle_at_20%_20%,white_0,transparent_45%),radial-gradient(circle_at_80%_10%,#e8b84a_0,transparent_35%)] opacity-30" />
         {property.featured ? (
           <span className="absolute top-3 left-3 rounded-md bg-white/90 px-2 py-1 text-xs font-medium text-[var(--brand-deep)]">
             {dict.common.featured}
@@ -38,7 +38,8 @@ export function PropertyCard({
       <div className="flex flex-1 flex-col gap-4 p-5">
         <div className="space-y-2">
           <p className="text-xs tracking-wide text-[var(--brand)] uppercase">
-            {propertyTypeLabel(dict, property.type)} · {property.location[locale]}
+            {propertyTypeLabel(dict, property.type)} ·{" "}
+            {property.location[locale]}
           </p>
           <h3 className="font-heading text-xl leading-snug text-[var(--brand-deep)]">
             {property.title[locale]}

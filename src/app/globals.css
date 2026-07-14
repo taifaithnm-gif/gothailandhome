@@ -96,8 +96,16 @@
   body {
     @apply bg-background text-foreground;
     background-image:
-      radial-gradient(circle at top left, rgb(10 92 84 / 0.08), transparent 28%),
-      radial-gradient(circle at top right, rgb(224 179 77 / 0.12), transparent 24%),
+      radial-gradient(
+        circle at top left,
+        rgb(10 92 84 / 0.08),
+        transparent 28%
+      ),
+      radial-gradient(
+        circle at top right,
+        rgb(224 179 77 / 0.12),
+        transparent 24%
+      ),
       linear-gradient(180deg, #f7fcfa 0%, #eef6f4 48%, #f5faf8 100%);
     background-attachment: fixed;
   }
@@ -107,7 +115,8 @@
   }
 
   .font-heading {
-    font-family: var(--font-display), var(--font-cjk), var(--font-thai),
-      ui-sans-serif, system-ui, sans-serif;
+    font-family:
+      var(--font-display), var(--font-cjk), var(--font-thai), ui-sans-serif,
+      system-ui, sans-serif;
   }
 }

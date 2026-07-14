@@ -5,9 +5,7 @@ import { isLocale } from "@/config/locales";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata } from "@/lib/i18n/metadata";
 
-export async function generateMetadata({
-  params,
-}: PageProps<"/[lang]/about">) {
+export async function generateMetadata({ params }: PageProps<"/[lang]/about">) {
   const { lang } = await params;
   if (!isLocale(lang)) return {};
 

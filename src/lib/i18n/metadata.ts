@@ -29,7 +29,9 @@ export function buildPageMetadata({
   const url = absoluteUrl(locale, path);
 
   return {
-    title,
+    title: {
+      absolute: title,
+    },
     description,
     alternates: {
       canonical: url,
@@ -69,10 +71,7 @@ export function fillTemplate(
   );
 }
 
-export function propertyTypeLabel(
-  dict: Dictionary,
-  type: string,
-): string {
+export function propertyTypeLabel(dict: Dictionary, type: string): string {
   switch (type) {
     case "condo":
       return dict.common.condo;

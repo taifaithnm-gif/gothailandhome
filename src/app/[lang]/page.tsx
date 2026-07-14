@@ -8,9 +8,7 @@ import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
 import { getFeaturedProperties } from "@/lib/properties";
 
-export async function generateMetadata({
-  params,
-}: PageProps<"/[lang]">) {
+export async function generateMetadata({ params }: PageProps<"/[lang]">) {
   const { lang } = await params;
   if (!isLocale(lang)) return {};
 
@@ -40,7 +38,7 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
     <>
       <section className="relative overflow-hidden border-b border-[var(--brand-line)]">
         <div className="absolute inset-0 bg-[linear-gradient(120deg,#063d38_0%,#0a5c54_42%,#1d7a6d_72%,#c9a227_140%)]" />
-        <div className="absolute inset-0 opacity-35 [background-image:radial-gradient(circle_at_15%_20%,white_0,transparent_28%),radial-gradient(circle_at_85%_15%,#e0b34d_0,transparent_22%),linear-gradient(transparent_0%,rgb(6_61_56_/0.35)_100%)]" />
+        <div className="absolute inset-0 [background-image:radial-gradient(circle_at_15%_20%,white_0,transparent_28%),radial-gradient(circle_at_85%_15%,#e0b34d_0,transparent_22%),linear-gradient(transparent_0%,rgb(6_61_56_/0.35)_100%)] opacity-35" />
         <div className="relative mx-auto flex min-h-[72vh] w-full max-w-6xl flex-col justify-end px-4 py-16 sm:px-6 sm:py-20">
           <div className="max-w-2xl space-y-6 text-white">
             <p className="font-heading text-4xl tracking-tight sm:text-5xl md:text-6xl">
