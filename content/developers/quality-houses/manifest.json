@@ -1,0 +1,56 @@
+{
+  "slug": "quality-houses",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Quality Houses official website",
+      "url": "https://www.qh.co.th/"
+    },
+    {
+      "type": "facebook",
+      "name": "Quality Houses Facebook",
+      "url": "https://www.facebook.com/QualityHouses"
+    }
+  ],
+  "name": {
+    "en": "Quality Houses",
+    "zh": "优质房屋",
+    "th": "ควอลิตี้เฮ้าส์"
+  },
+  "legal_name": {
+    "en": "Quality Houses Public Company Limited",
+    "zh": "Quality Houses Public Company Limited",
+    "th": "บริษัท ควอลิตี้เฮ้าส์ จำกัด (มหาชน)"
+  },
+  "description": {
+    "en": "Quality Houses is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
+    "zh": "优质房屋为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
+    "th": "ควอลิตี้เฮ้าส์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+  },
+  "website": "https://www.qh.co.th/",
+  "facebook_url": "https://www.facebook.com/QualityHouses",
+  "google_maps_url": null,
+  "logo_url": null,
+  "phone": null,
+  "email": null,
+  "seo": {
+    "title": {
+      "en": "Quality Houses Developer | GoThailandHome",
+      "zh": "优质房屋开发商 | GoThailandHome",
+      "th": "ผู้พัฒนา ควอลิตี้เฮ้าส์ | GoThailandHome"
+    },
+    "description": {
+      "en": "Developer profile for Quality Houses and linked Bangkok projects on GoThailandHome.",
+      "zh": "优质房屋开发商简介及关联曼谷项目。",
+      "th": "โปรไฟล์ผู้พัฒนา ควอลิตี้เฮ้าส์ และโครงการในกรุงเทพฯ"
+    }
+  },
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "project_slugs": ["casa-condo-asoke-dindaeng"]
+}

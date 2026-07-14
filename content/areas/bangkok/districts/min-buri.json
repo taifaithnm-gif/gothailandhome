@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "min-buri",
+  "name": {
+    "en": "Min Buri",
+    "zh": "民武里",
+    "th": "มีนบุรี"
+  },
+  "summary": {
+    "en": "Min Buri is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "民武里（Min Buri）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "มีนบุรี เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Min Buri Bangkok Property | GoThailandHome",
+      "zh": "曼谷民武里房产 | GoThailandHome",
+      "th": "อสังหาฯ มีนบุรี กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Min Buri district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷民武里区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตมีนบุรี กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Min Buri district",
+      "url": "https://en.wikipedia.org/wiki/Min_Buri_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 10,
+    "postal_code": "10510",
+    "latitude": 13.813,
+    "longitude": 100.748,
+    "khwaeng_count": 2
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Min Buri is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "民武里为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "มีนบุรีเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": []
+}

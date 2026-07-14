@@ -1,0 +1,78 @@
+{
+  "slug": "knightbridge-collage-ramkhamhaeng",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "KnightBridge Collage Ramkhamhaeng official / developer page",
+      "url": "https://www.origin.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "origin-property",
+    "name": {
+      "en": "Origin Property",
+      "zh": "奥利金地产",
+      "th": "ออริจิ้น พร็อพเพอร์ตี้"
+    }
+  },
+  "location": {
+    "slug": "bang-kapi-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "bang-kapi",
+    "name": {
+      "en": "Bang Kapi",
+      "zh": "挽甲必",
+      "th": "บางกะปิ"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "KnightBridge Collage Ramkhamhaeng",
+      "zh": "KnightBridge Collage 蓝康恒",
+      "th": "ไนท์บริดจ์ คอลลาจ รามคำแหง"
+    },
+    "description": {
+      "en": "KnightBridge Collage Ramkhamhaeng is a real Bangkok project associated with Origin Property. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "KnightBridge Collage 蓝康恒为曼谷真实项目，关联开发商 奥利金地产。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "ไนท์บริดจ์ คอลลาจ รามคำแหง เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา ออริจิ้น พร็อพเพอร์ตี้ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Bang Kapi, Bangkok",
+      "zh": "曼谷挽甲必",
+      "th": "บางกะปิ กรุงเทพฯ"
+    },
+    "postal_code": "10240",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.origin.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": [],
+    "seo": {
+      "title": {
+        "en": "KnightBridge Collage Ramkhamhaeng Condo in Bang Kapi, Bangkok | GoThailandHome",
+        "zh": "KnightBridge Collage 蓝康恒｜曼谷挽甲必 | GoThailandHome",
+        "th": "ไนท์บริดจ์ คอลลาจ รามคำแหง เขตบางกะปิ กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for KnightBridge Collage Ramkhamhaeng in Bang Kapi, Bangkok. Sourced from the developer official site.",
+        "zh": "KnightBridge Collage 蓝康恒项目页（曼谷挽甲必），来源为开发商官方站点。",
+        "th": "หน้าโครงการ ไนท์บริดจ์ คอลลาจ รามคำแหง เขตบางกะปิ อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

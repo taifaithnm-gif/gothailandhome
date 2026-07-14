@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "saphan-sung",
+  "name": {
+    "en": "Saphan Sung",
+    "zh": "沙潘松",
+    "th": "สะพานสูง"
+  },
+  "summary": {
+    "en": "Saphan Sung is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "沙潘松（Saphan Sung）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "สะพานสูง เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Saphan Sung Bangkok Property | GoThailandHome",
+      "zh": "曼谷沙潘松房产 | GoThailandHome",
+      "th": "อสังหาฯ สะพานสูง กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Saphan Sung district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷沙潘松区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตสะพานสูง กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Saphan Sung district",
+      "url": "https://en.wikipedia.org/wiki/Saphan_Sung_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 44,
+    "postal_code": "10240",
+    "latitude": 13.77,
+    "longitude": 100.688,
+    "khwaeng_count": 3
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Saphan Sung is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "沙潘松为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "สะพานสูงเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": []
+}

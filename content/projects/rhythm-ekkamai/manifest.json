@@ -1,0 +1,78 @@
+{
+  "slug": "rhythm-ekkamai",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Rhythm Ekkamai official / developer page",
+      "url": "https://www.apthai.com/"
+    }
+  ],
+  "developer": {
+    "slug": "ap-thailand",
+    "name": {
+      "en": "AP Thailand",
+      "zh": "AP泰国",
+      "th": "เอพี ไทยแลนด์"
+    }
+  },
+  "location": {
+    "slug": "watthana-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "watthana",
+    "name": {
+      "en": "Watthana",
+      "zh": "瓦他那",
+      "th": "วัฒนา"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Rhythm Ekkamai",
+      "zh": "Rhythm 埃卡迈",
+      "th": "ริทึ่ม เอกมัย"
+    },
+    "description": {
+      "en": "Rhythm Ekkamai is a real Bangkok project associated with AP Thailand. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "Rhythm 埃卡迈为曼谷真实项目，关联开发商 AP泰国。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "ริทึ่ม เอกมัย เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เอพี ไทยแลนด์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Watthana, Bangkok",
+      "zh": "曼谷瓦他那",
+      "th": "วัฒนา กรุงเทพฯ"
+    },
+    "postal_code": "10110",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.apthai.com/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts"],
+    "seo": {
+      "title": {
+        "en": "Rhythm Ekkamai Condo in Watthana, Bangkok | GoThailandHome",
+        "zh": "Rhythm 埃卡迈｜曼谷瓦他那 | GoThailandHome",
+        "th": "ริทึ่ม เอกมัย เขตวัฒนา กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Rhythm Ekkamai in Watthana, Bangkok. Sourced from the developer official site.",
+        "zh": "Rhythm 埃卡迈项目页（曼谷瓦他那），来源为开发商官方站点。",
+        "th": "หน้าโครงการ ริทึ่ม เอกมัย เขตวัฒนา อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

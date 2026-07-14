@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "khlong-san",
+  "name": {
+    "en": "Khlong San",
+    "zh": "空讪",
+    "th": "คลองสาน"
+  },
+  "summary": {
+    "en": "Khlong San is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "空讪（Khlong San）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "คลองสาน เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Khlong San Bangkok Property | GoThailandHome",
+      "zh": "曼谷空讪房产 | GoThailandHome",
+      "th": "อสังหาฯ คลองสาน กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Khlong San district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷空讪区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตคลองสาน กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Khlong San district",
+      "url": "https://en.wikipedia.org/wiki/Khlong_San_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 18,
+    "postal_code": "10600",
+    "latitude": 13.73,
+    "longitude": 100.504,
+    "khwaeng_count": 4
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Khlong San is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "空讪为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "คลองสานเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": ["the-room-sathorn-taksin"]
+}

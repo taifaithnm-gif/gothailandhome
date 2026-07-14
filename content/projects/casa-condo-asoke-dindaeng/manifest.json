@@ -1,0 +1,78 @@
+{
+  "slug": "casa-condo-asoke-dindaeng",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Casa Condo Asoke-Dindaeng official / developer page",
+      "url": "https://www.qh.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "quality-houses",
+    "name": {
+      "en": "Quality Houses",
+      "zh": "优质房屋",
+      "th": "ควอลิตี้เฮ้าส์"
+    }
+  },
+  "location": {
+    "slug": "din-daeng-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "din-daeng",
+    "name": {
+      "en": "Din Daeng",
+      "zh": "丁丹",
+      "th": "ดินแดง"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Casa Condo Asoke-Dindaeng",
+      "zh": "Casa Condo Asoke-Dindaeng",
+      "th": "คาซ่า คอนโด อโศก-ดินแดง"
+    },
+    "description": {
+      "en": "Casa Condo Asoke-Dindaeng is a real Bangkok project associated with Quality Houses. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "Casa Condo Asoke-Dindaeng为曼谷真实项目，关联开发商 优质房屋。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "คาซ่า คอนโด อโศก-ดินแดง เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา ควอลิตี้เฮ้าส์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Din Daeng, Bangkok",
+      "zh": "曼谷丁丹",
+      "th": "ดินแดง กรุงเทพฯ"
+    },
+    "postal_code": "10400",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.qh.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["mrt"],
+    "seo": {
+      "title": {
+        "en": "Casa Condo Asoke-Dindaeng Condo in Din Daeng, Bangkok | GoThailandHome",
+        "zh": "Casa Condo Asoke-Dindaeng｜曼谷丁丹 | GoThailandHome",
+        "th": "คาซ่า คอนโด อโศก-ดินแดง เขตดินแดง กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Casa Condo Asoke-Dindaeng in Din Daeng, Bangkok. Sourced from the developer official site.",
+        "zh": "Casa Condo Asoke-Dindaeng项目页（曼谷丁丹），来源为开发商官方站点。",
+        "th": "หน้าโครงการ คาซ่า คอนโด อโศก-ดินแดง เขตดินแดง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

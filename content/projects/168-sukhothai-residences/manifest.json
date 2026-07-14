@@ -1,0 +1,78 @@
+{
+  "slug": "168-sukhothai-residences",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "168 Sukhothai Residences official / developer page",
+      "url": "https://www.raimonland.com/"
+    }
+  ],
+  "developer": {
+    "slug": "raimon-land",
+    "name": {
+      "en": "Raimon Land",
+      "zh": "瑞蒙地产",
+      "th": "ไรมอน แลนด์"
+    }
+  },
+  "location": {
+    "slug": "dusit-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "dusit",
+    "name": {
+      "en": "Dusit",
+      "zh": "杜思",
+      "th": "ดุสิต"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "168 Sukhothai Residences",
+      "zh": "168 素可泰",
+      "th": "168 สุโขทัย เรสซิเดนเซส"
+    },
+    "description": {
+      "en": "168 Sukhothai Residences is a real Bangkok project associated with Raimon Land. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "168 素可泰为曼谷真实项目，关联开发商 瑞蒙地产。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "168 สุโขทัย เรสซิเดนเซส เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา ไรมอน แลนด์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Dusit, Bangkok",
+      "zh": "曼谷杜思",
+      "th": "ดุสิต กรุงเทพฯ"
+    },
+    "postal_code": "10300",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.raimonland.com/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": [],
+    "seo": {
+      "title": {
+        "en": "168 Sukhothai Residences Condo in Dusit, Bangkok | GoThailandHome",
+        "zh": "168 素可泰｜曼谷杜思 | GoThailandHome",
+        "th": "168 สุโขทัย เรสซิเดนเซส เขตดุสิต กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for 168 Sukhothai Residences in Dusit, Bangkok. Sourced from the developer official site.",
+        "zh": "168 素可泰项目页（曼谷杜思），来源为开发商官方站点。",
+        "th": "หน้าโครงการ 168 สุโขทัย เรสซิเดนเซส เขตดุสิต อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "the-privacy-rama-9",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "The Privacy Rama 9 official / developer page",
+      "url": "https://www.pruksa.com/"
+    }
+  ],
+  "developer": {
+    "slug": "pruksa-holding",
+    "name": {
+      "en": "Pruksa Holding",
+      "zh": "普萨控股",
+      "th": "พฤกษา โฮลดิ้ง"
+    }
+  },
+  "location": {
+    "slug": "suan-luang-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "suan-luang",
+    "name": {
+      "en": "Suan Luang",
+      "zh": "素万銮",
+      "th": "สวนหลวง"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "The Privacy Rama 9",
+      "zh": "The Privacy 拉玛九",
+      "th": "เดอะ ไพรเวซี่ พระราม 9"
+    },
+    "description": {
+      "en": "The Privacy Rama 9 is a real Bangkok project associated with Pruksa Holding. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "The Privacy 拉玛九为曼谷真实项目，关联开发商 普萨控股。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "เดอะ ไพรเวซี่ พระราม 9 เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา พฤกษา โฮลดิ้ง รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Suan Luang, Bangkok",
+      "zh": "曼谷素万銮",
+      "th": "สวนหลวง กรุงเทพฯ"
+    },
+    "postal_code": "10250",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.pruksa.com/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": [],
+    "seo": {
+      "title": {
+        "en": "The Privacy Rama 9 Condo in Suan Luang, Bangkok | GoThailandHome",
+        "zh": "The Privacy 拉玛九｜曼谷素万銮 | GoThailandHome",
+        "th": "เดอะ ไพรเวซี่ พระราม 9 เขตสวนหลวง กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for The Privacy Rama 9 in Suan Luang, Bangkok. Sourced from the developer official site.",
+        "zh": "The Privacy 拉玛九项目页（曼谷素万銮），来源为开发商官方站点。",
+        "th": "หน้าโครงการ เดอะ ไพรเวซี่ พระราม 9 เขตสวนหลวง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

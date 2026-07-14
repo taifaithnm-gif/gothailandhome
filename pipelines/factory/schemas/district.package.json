@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gothailandhome.com/schemas/district.package.json",
+  "type": "object",
+  "required": [
+    "city_slug",
+    "slug",
+    "name",
+    "seo",
+    "publish_ready",
+    "sources",
+    "metadata",
+    "transportation",
+    "schools",
+    "hospitals",
+    "shopping",
+    "investment_summary",
+    "nearby_projects"
+  ],
+  "properties": {
+    "city_slug": { "const": "bangkok" },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "name": { "$ref": "i18n-string.json" },
+    "summary": { "$ref": "i18n-string.json" },
+    "seo": {
+      "type": "object",
+      "required": ["title", "description"],
+      "properties": {
+        "title": { "$ref": "i18n-string.json" },
+        "description": { "$ref": "i18n-string.json" }
+      }
+    },
+    "publish_ready": { "type": "boolean" },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "source.json" }
+    },
+    "locale_status": { "type": "object" },
+    "metadata": {
+      "type": "object",
+      "required": ["postal_code"],
+      "properties": {
+        "district_code": { "type": ["integer", "null"] },
+        "postal_code": { "type": "string" },
+        "latitude": { "type": ["number", "null"] },
+        "longitude": { "type": ["number", "null"] },
+        "khwaeng_count": { "type": ["integer", "null"] }
+      }
+    },
+    "transportation": { "type": "array" },
+    "schools": { "type": "array" },
+    "hospitals": { "type": "array" },
+    "shopping": { "type": "array" },
+    "investment_summary": { "$ref": "i18n-string.json" },
+    "nearby_projects": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "additionalProperties": true
+}

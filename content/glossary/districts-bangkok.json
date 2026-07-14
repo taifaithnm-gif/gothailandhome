@@ -1,0 +1,507 @@
+{
+  "city_slug": "bangkok",
+  "collected_at": "2026-07-14",
+  "source": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok",
+  "districts": [
+    {
+      "slug": "phra-nakhon",
+      "name": {
+        "en": "Phra Nakhon",
+        "zh": "拍那空",
+        "th": "พระนคร"
+      },
+      "postal_code": "10200",
+      "district_code": 1
+    },
+    {
+      "slug": "dusit",
+      "name": {
+        "en": "Dusit",
+        "zh": "杜思",
+        "th": "ดุสิต"
+      },
+      "postal_code": "10300",
+      "district_code": 2
+    },
+    {
+      "slug": "nong-chok",
+      "name": {
+        "en": "Nong Chok",
+        "zh": "农育",
+        "th": "หนองจอก"
+      },
+      "postal_code": "10530",
+      "district_code": 3
+    },
+    {
+      "slug": "bang-rak",
+      "name": {
+        "en": "Bang Rak",
+        "zh": "挽叻",
+        "th": "บางรัก"
+      },
+      "postal_code": "10500",
+      "district_code": 4
+    },
+    {
+      "slug": "bang-khen",
+      "name": {
+        "en": "Bang Khen",
+        "zh": "挽卿",
+        "th": "บางเขน"
+      },
+      "postal_code": "10220",
+      "district_code": 5
+    },
+    {
+      "slug": "bang-kapi",
+      "name": {
+        "en": "Bang Kapi",
+        "zh": "挽甲必",
+        "th": "บางกะปิ"
+      },
+      "postal_code": "10240",
+      "district_code": 6
+    },
+    {
+      "slug": "pathum-wan",
+      "name": {
+        "en": "Pathum Wan",
+        "zh": "巴吞旺",
+        "th": "ปทุมวัน"
+      },
+      "postal_code": "10330",
+      "district_code": 7
+    },
+    {
+      "slug": "pom-prap-sattru-phai",
+      "name": {
+        "en": "Pom Prap Sattru Phai",
+        "zh": "庞巴萨楚派",
+        "th": "ป้อมปราบศัตรูพ่าย"
+      },
+      "postal_code": "10100",
+      "district_code": 8
+    },
+    {
+      "slug": "phra-khanong",
+      "name": {
+        "en": "Phra Khanong",
+        "zh": "帕卡农",
+        "th": "พระโขนง"
+      },
+      "postal_code": "10260",
+      "district_code": 9
+    },
+    {
+      "slug": "min-buri",
+      "name": {
+        "en": "Min Buri",
+        "zh": "民武里",
+        "th": "มีนบุรี"
+      },
+      "postal_code": "10510",
+      "district_code": 10
+    },
+    {
+      "slug": "lat-krabang",
+      "name": {
+        "en": "Lat Krabang",
+        "zh": "拉差挽",
+        "th": "ลาดกระบัง"
+      },
+      "postal_code": "10520",
+      "district_code": 11
+    },
+    {
+      "slug": "yan-nawa",
+      "name": {
+        "en": "Yan Nawa",
+        "zh": "央那瓦",
+        "th": "ยานนาวา"
+      },
+      "postal_code": "10120",
+      "district_code": 12
+    },
+    {
+      "slug": "samphanthawong",
+      "name": {
+        "en": "Samphanthawong",
+        "zh": "三攀他旺",
+        "th": "สัมพันธวงศ์"
+      },
+      "postal_code": "10100",
+      "district_code": 13
+    },
+    {
+      "slug": "phaya-thai",
+      "name": {
+        "en": "Phaya Thai",
+        "zh": "帕亚泰",
+        "th": "พญาไท"
+      },
+      "postal_code": "10400",
+      "district_code": 14
+    },
+    {
+      "slug": "thon-buri",
+      "name": {
+        "en": "Thon Buri",
+        "zh": "吞武里",
+        "th": "ธนบุรี"
+      },
+      "postal_code": "10600",
+      "district_code": 15
+    },
+    {
+      "slug": "bangkok-yai",
+      "name": {
+        "en": "Bangkok Yai",
+        "zh": "曼谷艾",
+        "th": "บางกอกใหญ่"
+      },
+      "postal_code": "10600",
+      "district_code": 16
+    },
+    {
+      "slug": "huai-khwang",
+      "name": {
+        "en": "Huai Khwang",
+        "zh": "辉煌",
+        "th": "ห้วยขวาง"
+      },
+      "postal_code": "10310",
+      "district_code": 17
+    },
+    {
+      "slug": "khlong-san",
+      "name": {
+        "en": "Khlong San",
+        "zh": "空讪",
+        "th": "คลองสาน"
+      },
+      "postal_code": "10600",
+      "district_code": 18
+    },
+    {
+      "slug": "taling-chan",
+      "name": {
+        "en": "Taling Chan",
+        "zh": "达令昌",
+        "th": "ตลิ่งชัน"
+      },
+      "postal_code": "10170",
+      "district_code": 19
+    },
+    {
+      "slug": "bangkok-noi",
+      "name": {
+        "en": "Bangkok Noi",
+        "zh": "曼谷内",
+        "th": "บางกอกน้อย"
+      },
+      "postal_code": "10700",
+      "district_code": 20
+    },
+    {
+      "slug": "bang-khun-thian",
+      "name": {
+        "en": "Bang Khun Thian",
+        "zh": "挽昆天",
+        "th": "บางขุนเทียน"
+      },
+      "postal_code": "10150",
+      "district_code": 21
+    },
+    {
+      "slug": "phasi-charoen",
+      "name": {
+        "en": "Phasi Charoen",
+        "zh": "帕西乍伦",
+        "th": "ภาษีเจริญ"
+      },
+      "postal_code": "10160",
+      "district_code": 22
+    },
+    {
+      "slug": "nong-khaem",
+      "name": {
+        "en": "Nong Khaem",
+        "zh": "农坎",
+        "th": "หนองแขม"
+      },
+      "postal_code": "10160",
+      "district_code": 23
+    },
+    {
+      "slug": "rat-burana",
+      "name": {
+        "en": "Rat Burana",
+        "zh": "叻武里拉",
+        "th": "ราษฎร์บูรณะ"
+      },
+      "postal_code": "10140",
+      "district_code": 24
+    },
+    {
+      "slug": "bang-phlat",
+      "name": {
+        "en": "Bang Phlat",
+        "zh": "挽帕",
+        "th": "บางพลัด"
+      },
+      "postal_code": "10700",
+      "district_code": 25
+    },
+    {
+      "slug": "din-daeng",
+      "name": {
+        "en": "Din Daeng",
+        "zh": "丁丹",
+        "th": "ดินแดง"
+      },
+      "postal_code": "10400",
+      "district_code": 26
+    },
+    {
+      "slug": "bueng-kum",
+      "name": {
+        "en": "Bueng Kum",
+        "zh": "邦锦",
+        "th": "บึงกุ่ม"
+      },
+      "postal_code": "10240",
+      "district_code": 27
+    },
+    {
+      "slug": "sathon",
+      "name": {
+        "en": "Sathon",
+        "zh": "沙吞",
+        "th": "สาทร"
+      },
+      "postal_code": "10120",
+      "district_code": 28
+    },
+    {
+      "slug": "bang-sue",
+      "name": {
+        "en": "Bang Sue",
+        "zh": "挽赐",
+        "th": "บางซื่อ"
+      },
+      "postal_code": "10800",
+      "district_code": 29
+    },
+    {
+      "slug": "chatuchak",
+      "name": {
+        "en": "Chatuchak",
+        "zh": "乍都乍",
+        "th": "จตุจักร"
+      },
+      "postal_code": "10900",
+      "district_code": 30
+    },
+    {
+      "slug": "bang-kho-laem",
+      "name": {
+        "en": "Bang Kho Laem",
+        "zh": "挽甲览",
+        "th": "บางคอแหลม"
+      },
+      "postal_code": "10120",
+      "district_code": 31
+    },
+    {
+      "slug": "prawet",
+      "name": {
+        "en": "Prawet",
+        "zh": "巴威",
+        "th": "ประเวศ"
+      },
+      "postal_code": "10250",
+      "district_code": 32
+    },
+    {
+      "slug": "khlong-toei",
+      "name": {
+        "en": "Khlong Toei",
+        "zh": "空堤",
+        "th": "คลองเตย"
+      },
+      "postal_code": "10110",
+      "district_code": 33
+    },
+    {
+      "slug": "suan-luang",
+      "name": {
+        "en": "Suan Luang",
+        "zh": "素万銮",
+        "th": "สวนหลวง"
+      },
+      "postal_code": "10250",
+      "district_code": 34
+    },
+    {
+      "slug": "chom-thong",
+      "name": {
+        "en": "Chom Thong",
+        "zh": "冲通",
+        "th": "จอมทอง"
+      },
+      "postal_code": "10150",
+      "district_code": 35
+    },
+    {
+      "slug": "don-mueang",
+      "name": {
+        "en": "Don Mueang",
+        "zh": "廊曼",
+        "th": "ดอนเมือง"
+      },
+      "postal_code": "10210",
+      "district_code": 36
+    },
+    {
+      "slug": "ratchathewi",
+      "name": {
+        "en": "Ratchathewi",
+        "zh": "拉差提威",
+        "th": "ราชเทวี"
+      },
+      "postal_code": "10400",
+      "district_code": 37
+    },
+    {
+      "slug": "lat-phrao",
+      "name": {
+        "en": "Lat Phrao",
+        "zh": "叻抛",
+        "th": "ลาดพร้าว"
+      },
+      "postal_code": "10230",
+      "district_code": 38
+    },
+    {
+      "slug": "watthana",
+      "name": {
+        "en": "Watthana",
+        "zh": "瓦他那",
+        "th": "วัฒนา"
+      },
+      "postal_code": "10110",
+      "district_code": 39
+    },
+    {
+      "slug": "bang-khae",
+      "name": {
+        "en": "Bang Khae",
+        "zh": "挽凯",
+        "th": "บางแค"
+      },
+      "postal_code": "10160",
+      "district_code": 40
+    },
+    {
+      "slug": "lak-si",
+      "name": {
+        "en": "Lak Si",
+        "zh": "叻四",
+        "th": "หลักสี่"
+      },
+      "postal_code": "10210",
+      "district_code": 41
+    },
+    {
+      "slug": "sai-mai",
+      "name": {
+        "en": "Sai Mai",
+        "zh": "赛迈",
+        "th": "สายไหม"
+      },
+      "postal_code": "10220",
+      "district_code": 42
+    },
+    {
+      "slug": "khan-na-yao",
+      "name": {
+        "en": "Khan Na Yao",
+        "zh": "堪那耀",
+        "th": "คันนายาว"
+      },
+      "postal_code": "10230",
+      "district_code": 43
+    },
+    {
+      "slug": "saphan-sung",
+      "name": {
+        "en": "Saphan Sung",
+        "zh": "沙潘松",
+        "th": "สะพานสูง"
+      },
+      "postal_code": "10240",
+      "district_code": 44
+    },
+    {
+      "slug": "wang-thonglang",
+      "name": {
+        "en": "Wang Thonglang",
+        "zh": "旺通郎",
+        "th": "วังทองหลาง"
+      },
+      "postal_code": "10310",
+      "district_code": 45
+    },
+    {
+      "slug": "khlong-sam-wa",
+      "name": {
+        "en": "Khlong Sam Wa",
+        "zh": "空三哇",
+        "th": "คลองสามวา"
+      },
+      "postal_code": "10510",
+      "district_code": 46
+    },
+    {
+      "slug": "bang-na",
+      "name": {
+        "en": "Bang Na",
+        "zh": "挽那",
+        "th": "บางนา"
+      },
+      "postal_code": "10260",
+      "district_code": 47
+    },
+    {
+      "slug": "thawi-watthana",
+      "name": {
+        "en": "Thawi Watthana",
+        "zh": "塔威瓦他那",
+        "th": "ทวีวัฒนา"
+      },
+      "postal_code": "10170",
+      "district_code": 48
+    },
+    {
+      "slug": "thung-khru",
+      "name": {
+        "en": "Thung Khru",
+        "zh": "通库",
+        "th": "ทุ่งครุ"
+      },
+      "postal_code": "10140",
+      "district_code": 49
+    },
+    {
+      "slug": "bang-bon",
+      "name": {
+        "en": "Bang Bon",
+        "zh": "挽汶",
+        "th": "บางบอน"
+      },
+      "postal_code": "10150",
+      "district_code": 50
+    }
+  ]
+}

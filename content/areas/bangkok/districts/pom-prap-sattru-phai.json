@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "pom-prap-sattru-phai",
+  "name": {
+    "en": "Pom Prap Sattru Phai",
+    "zh": "庞巴萨楚派",
+    "th": "ป้อมปราบศัตรูพ่าย"
+  },
+  "summary": {
+    "en": "Pom Prap Sattru Phai is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "庞巴萨楚派（Pom Prap Sattru Phai）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "ป้อมปราบศัตรูพ่าย เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Pom Prap Sattru Phai Bangkok Property | GoThailandHome",
+      "zh": "曼谷庞巴萨楚派房产 | GoThailandHome",
+      "th": "อสังหาฯ ป้อมปราบศัตรูพ่าย กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Pom Prap Sattru Phai district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷庞巴萨楚派区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตป้อมปราบศัตรูพ่าย กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Pom Prap Sattru Phai district",
+      "url": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 8,
+    "postal_code": "10100",
+    "latitude": 13.751,
+    "longitude": 100.512,
+    "khwaeng_count": 5
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Pom Prap Sattru Phai is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "庞巴萨楚派为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "ป้อมปราบศัตรูพ่ายเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": []
+}

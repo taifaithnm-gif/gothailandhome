@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "dusit",
+  "name": {
+    "en": "Dusit",
+    "zh": "杜思",
+    "th": "ดุสิต"
+  },
+  "summary": {
+    "en": "Dusit is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "杜思（Dusit）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "ดุสิต เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Dusit Bangkok Property | GoThailandHome",
+      "zh": "曼谷杜思房产 | GoThailandHome",
+      "th": "อสังหาฯ ดุสิต กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Dusit district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷杜思区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตดุสิต กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Dusit district",
+      "url": "https://en.wikipedia.org/wiki/Dusit_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 2,
+    "postal_code": "10300",
+    "latitude": 13.7775,
+    "longitude": 100.52,
+    "khwaeng_count": 5
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Dusit is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "杜思为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "ดุสิตเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": ["168-sukhothai-residences"]
+}

@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "lat-phrao",
+  "name": {
+    "en": "Lat Phrao",
+    "zh": "叻抛",
+    "th": "ลาดพร้าว"
+  },
+  "summary": {
+    "en": "Lat Phrao is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "叻抛（Lat Phrao）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "ลาดพร้าว เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Lat Phrao Bangkok Property | GoThailandHome",
+      "zh": "曼谷叻抛房产 | GoThailandHome",
+      "th": "อสังหาฯ ลาดพร้าว กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Lat Phrao district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷叻抛区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตลาดพร้าว กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Lat Phrao district",
+      "url": "https://en.wikipedia.org/wiki/Lat_Phrao_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 38,
+    "postal_code": "10230",
+    "latitude": 13.803,
+    "longitude": 100.607,
+    "khwaeng_count": 2
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Lat Phrao is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "叻抛为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "ลาดพร้าวเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": ["chapter-one-midtown-ladprao-24"]
+}

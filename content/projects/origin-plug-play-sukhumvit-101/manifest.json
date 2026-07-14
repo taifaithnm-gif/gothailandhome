@@ -1,0 +1,78 @@
+{
+  "slug": "origin-plug-play-sukhumvit-101",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Origin Plug & Play Sukhumvit 101 official / developer page",
+      "url": "https://www.origin.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "origin-property",
+    "name": {
+      "en": "Origin Property",
+      "zh": "奥利金地产",
+      "th": "ออริจิ้น พร็อพเพอร์ตี้"
+    }
+  },
+  "location": {
+    "slug": "phra-khanong-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "phra-khanong",
+    "name": {
+      "en": "Phra Khanong",
+      "zh": "帕卡农",
+      "th": "พระโขนง"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Origin Plug & Play Sukhumvit 101",
+      "zh": "Origin Plug & Play 素坤逸101",
+      "th": "ออริจิ้น ปลั๊ก แอนด์ เพลย์ สุขุมวิท 101"
+    },
+    "description": {
+      "en": "Origin Plug & Play Sukhumvit 101 is a real Bangkok project associated with Origin Property. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "Origin Plug & Play 素坤逸101为曼谷真实项目，关联开发商 奥利金地产。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "ออริจิ้น ปลั๊ก แอนด์ เพลย์ สุขุมวิท 101 เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา ออริจิ้น พร็อพเพอร์ตี้ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Phra Khanong, Bangkok",
+      "zh": "曼谷帕卡农",
+      "th": "พระโขนง กรุงเทพฯ"
+    },
+    "postal_code": "10260",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.origin.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts"],
+    "seo": {
+      "title": {
+        "en": "Origin Plug & Play Sukhumvit 101 Condo in Phra Khanong, Bangkok | GoThailandHome",
+        "zh": "Origin Plug & Play 素坤逸101｜曼谷帕卡农 | GoThailandHome",
+        "th": "ออริจิ้น ปลั๊ก แอนด์ เพลย์ สุขุมวิท 101 เขตพระโขนง กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Origin Plug & Play Sukhumvit 101 in Phra Khanong, Bangkok. Sourced from the developer official site.",
+        "zh": "Origin Plug & Play 素坤逸101项目页（曼谷帕卡农），来源为开发商官方站点。",
+        "th": "หน้าโครงการ ออริจิ้น ปลั๊ก แอนด์ เพลย์ สุขุมวิท 101 เขตพระโขนง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

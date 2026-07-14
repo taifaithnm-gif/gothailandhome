@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "phra-nakhon",
+  "name": {
+    "en": "Phra Nakhon",
+    "zh": "拍那空",
+    "th": "พระนคร"
+  },
+  "summary": {
+    "en": "Phra Nakhon is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "拍那空（Phra Nakhon）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "พระนคร เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Phra Nakhon Bangkok Property | GoThailandHome",
+      "zh": "曼谷拍那空房产 | GoThailandHome",
+      "th": "อสังหาฯ พระนคร กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Phra Nakhon district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷拍那空区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตพระนคร กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Phra Nakhon district",
+      "url": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 1,
+    "postal_code": "10200",
+    "latitude": 13.7649,
+    "longitude": 100.4992,
+    "khwaeng_count": 12
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Phra Nakhon is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "拍那空为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "พระนครเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": []
+}

@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "taling-chan",
+  "name": {
+    "en": "Taling Chan",
+    "zh": "达令昌",
+    "th": "ตลิ่งชัน"
+  },
+  "summary": {
+    "en": "Taling Chan is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "达令昌（Taling Chan）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "ตลิ่งชัน เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Taling Chan Bangkok Property | GoThailandHome",
+      "zh": "曼谷达令昌房产 | GoThailandHome",
+      "th": "อสังหาฯ ตลิ่งชัน กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Taling Chan district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷达令昌区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตตลิ่งชัน กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Taling Chan district",
+      "url": "https://en.wikipedia.org/wiki/Taling_Chan_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 19,
+    "postal_code": "10170",
+    "latitude": 13.776,
+    "longitude": 100.456,
+    "khwaeng_count": 6
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Taling Chan is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "达令昌为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "ตลิ่งชันเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": []
+}

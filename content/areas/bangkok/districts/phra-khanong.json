@@ -1,0 +1,73 @@
+{
+  "city_slug": "bangkok",
+  "slug": "phra-khanong",
+  "name": {
+    "en": "Phra Khanong",
+    "zh": "帕卡农",
+    "th": "พระโขนง"
+  },
+  "summary": {
+    "en": "Phra Khanong is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "帕卡农（Phra Khanong）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "พระโขนง เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Phra Khanong Bangkok Property | GoThailandHome",
+      "zh": "曼谷帕卡农房产 | GoThailandHome",
+      "th": "อสังหาฯ พระโขนง กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Phra Khanong district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷帕卡农区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตพระโขนง กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Phra Khanong district",
+      "url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 9,
+    "postal_code": "10260",
+    "latitude": 13.702,
+    "longitude": 100.601,
+    "khwaeng_count": 2
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Phra Khanong is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "帕卡农为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "พระโขนงเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": [
+    "condo-u-sukhumvit-62-1",
+    "the-line-sukhumvit-101",
+    "the-room-sukhumvit-62",
+    "origin-plug-play-sukhumvit-101",
+    "ideo-mobi-sukhumvit-66",
+    "whizdom-essence"
+  ]
+}

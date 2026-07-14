@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "lak-si",
+  "name": {
+    "en": "Lak Si",
+    "zh": "叻四",
+    "th": "หลักสี่"
+  },
+  "summary": {
+    "en": "Lak Si is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "叻四（Lak Si）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "หลักสี่ เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Lak Si Bangkok Property | GoThailandHome",
+      "zh": "曼谷叻四房产 | GoThailandHome",
+      "th": "อสังหาฯ หลักสี่ กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Lak Si district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷叻四区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตหลักสี่ กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Lak Si district",
+      "url": "https://en.wikipedia.org/wiki/Lak_Si_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 41,
+    "postal_code": "10210",
+    "latitude": 13.887,
+    "longitude": 100.579,
+    "khwaeng_count": 2
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Lak Si is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "叻四为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "หลักสี่เป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": []
+}

@@ -1,0 +1,4 @@
+{
+  "property_types": ["condo", "house", "villa", "land", "commercial"],
+  "listing_types": ["sale", "rent"]
+}

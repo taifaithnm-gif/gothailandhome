@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gothailandhome.com/schemas/project.manifest.json",
+  "type": "object",
+  "required": [
+    "slug",
+    "collected_at",
+    "sources",
+    "developer",
+    "location",
+    "project"
+  ],
+  "properties": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "collected_at": { "type": "string" },
+    "publish_ready": { "type": "boolean" },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "source.json" }
+    },
+    "developer": {
+      "type": "object",
+      "required": ["slug", "name"],
+      "properties": {
+        "slug": { "type": "string" },
+        "name": { "$ref": "i18n-string.json" }
+      }
+    },
+    "location": {
+      "type": "object",
+      "required": ["city_slug", "district_slug", "name"],
+      "properties": {
+        "slug": { "type": "string" },
+        "city_slug": { "type": "string" },
+        "district_slug": { "type": "string" },
+        "name": { "$ref": "i18n-string.json" },
+        "city": { "$ref": "i18n-string.json" },
+        "province": { "$ref": "i18n-string.json" },
+        "country_code": { "type": "string" }
+      }
+    },
+    "project": {
+      "type": "object",
+      "required": ["name", "address", "seo"],
+      "properties": {
+        "name": { "$ref": "i18n-string.json" },
+        "description": { "$ref": "i18n-string.json" },
+        "address": { "$ref": "i18n-string.json" },
+        "postal_code": { "type": "string" },
+        "latitude": { "type": ["number", "null"] },
+        "longitude": { "type": ["number", "null"] },
+        "google_maps_url": { "type": ["string", "null"] },
+        "official_website": { "type": ["string", "null"] },
+        "facebook_url": { "type": ["string", "null"] },
+        "completion_year": { "type": ["integer", "null"] },
+        "transit_tags": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "seo": {
+          "type": "object",
+          "required": ["title", "description"],
+          "properties": {
+            "title": { "$ref": "i18n-string.json" },
+            "description": { "$ref": "i18n-string.json" }
+          }
+        }
+      }
+    },
+    "media": { "type": "object" }
+  },
+  "additionalProperties": true
+}

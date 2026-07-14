@@ -1,0 +1,78 @@
+{
+  "slug": "life-ladprao",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Life Ladprao official / developer page",
+      "url": "https://www.apthai.com/"
+    }
+  ],
+  "developer": {
+    "slug": "ap-thailand",
+    "name": {
+      "en": "AP Thailand",
+      "zh": "AP泰国",
+      "th": "เอพี ไทยแลนด์"
+    }
+  },
+  "location": {
+    "slug": "chatuchak-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "chatuchak",
+    "name": {
+      "en": "Chatuchak",
+      "zh": "乍都乍",
+      "th": "จตุจักร"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Life Ladprao",
+      "zh": "Life 叻抛",
+      "th": "ไลฟ์ ลาดพร้าว"
+    },
+    "description": {
+      "en": "Life Ladprao is a real Bangkok project associated with AP Thailand. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "Life 叻抛为曼谷真实项目，关联开发商 AP泰国。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "ไลฟ์ ลาดพร้าว เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เอพี ไทยแลนด์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Chatuchak, Bangkok",
+      "zh": "曼谷乍都乍",
+      "th": "จตุจักร กรุงเทพฯ"
+    },
+    "postal_code": "10900",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.apthai.com/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts"],
+    "seo": {
+      "title": {
+        "en": "Life Ladprao Condo in Chatuchak, Bangkok | GoThailandHome",
+        "zh": "Life 叻抛｜曼谷乍都乍 | GoThailandHome",
+        "th": "ไลฟ์ ลาดพร้าว เขตจตุจักร กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Life Ladprao in Chatuchak, Bangkok. Sourced from the developer official site.",
+        "zh": "Life 叻抛项目页（曼谷乍都乍），来源为开发商官方站点。",
+        "th": "หน้าโครงการ ไลฟ์ ลาดพร้าว เขตจตุจักร อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

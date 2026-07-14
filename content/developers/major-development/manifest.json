@@ -1,0 +1,60 @@
+{
+  "slug": "major-development",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Major Development official website",
+      "url": "https://www.major.co.th/"
+    },
+    {
+      "type": "facebook",
+      "name": "Major Development Facebook",
+      "url": "https://www.facebook.com/MajorDevelopment"
+    }
+  ],
+  "name": {
+    "en": "Major Development",
+    "zh": "Major Development",
+    "th": "เมเจอร์ ดีเวลลอปเม้นท์"
+  },
+  "legal_name": {
+    "en": "Major Development Public Company Limited",
+    "zh": "Major Development Public Company Limited",
+    "th": "บริษัท เมเจอร์ ดีเวลลอปเม้นท์ จำกัด (มหาชน)"
+  },
+  "description": {
+    "en": "Major Development is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
+    "zh": "Major Development为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
+    "th": "เมเจอร์ ดีเวลลอปเม้นท์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+  },
+  "website": "https://www.major.co.th/",
+  "facebook_url": "https://www.facebook.com/MajorDevelopment",
+  "google_maps_url": null,
+  "logo_url": null,
+  "phone": null,
+  "email": null,
+  "seo": {
+    "title": {
+      "en": "Major Development Developer | GoThailandHome",
+      "zh": "Major Development开发商 | GoThailandHome",
+      "th": "ผู้พัฒนา เมเจอร์ ดีเวลลอปเม้นท์ | GoThailandHome"
+    },
+    "description": {
+      "en": "Developer profile for Major Development and linked Bangkok projects on GoThailandHome.",
+      "zh": "Major Development开发商简介及关联曼谷项目。",
+      "th": "โปรไฟล์ผู้พัฒนา เมเจอร์ ดีเวลลอปเม้นท์ และโครงการในกรุงเทพฯ"
+    }
+  },
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "project_slugs": [
+    "maestro-03-ratchada-rama-9",
+    "m-jive-sathorn-lumphini",
+    "m-silom"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "capitaland-thailand",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "CapitaLand Thailand official website",
+      "url": "https://www.capitaland.com/th/en.html"
+    }
+  ],
+  "name": {
+    "en": "CapitaLand Thailand",
+    "zh": "凯德泰国",
+    "th": "แคปปิตอลแลนด์ ประเทศไทย"
+  },
+  "legal_name": {
+    "en": "CapitaLand",
+    "zh": "CapitaLand",
+    "th": "แคปปิตอลแลนด์"
+  },
+  "description": {
+    "en": "CapitaLand Thailand is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
+    "zh": "凯德泰国为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
+    "th": "แคปปิตอลแลนด์ ประเทศไทย เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+  },
+  "website": "https://www.capitaland.com/th/en.html",
+  "facebook_url": null,
+  "google_maps_url": null,
+  "logo_url": null,
+  "phone": null,
+  "email": null,
+  "seo": {
+    "title": {
+      "en": "CapitaLand Thailand Developer | GoThailandHome",
+      "zh": "凯德泰国开发商 | GoThailandHome",
+      "th": "ผู้พัฒนา แคปปิตอลแลนด์ ประเทศไทย | GoThailandHome"
+    },
+    "description": {
+      "en": "Developer profile for CapitaLand Thailand and linked Bangkok projects on GoThailandHome.",
+      "zh": "凯德泰国开发商简介及关联曼谷项目。",
+      "th": "โปรไฟล์ผู้พัฒนา แคปปิตอลแลนด์ ประเทศไทย และโครงการในกรุงเทพฯ"
+    }
+  },
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "project_slugs": ["ascott-embassy-sathorn"]
+}

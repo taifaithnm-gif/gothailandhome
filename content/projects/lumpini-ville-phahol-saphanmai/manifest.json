@@ -1,0 +1,78 @@
+{
+  "slug": "lumpini-ville-phahol-saphanmai",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Lumpini Ville Phahol-Saphanmai official / developer page",
+      "url": "https://www.lpn.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "lpn-development",
+    "name": {
+      "en": "LPN Development",
+      "zh": "LPN发展",
+      "th": "แอล.พี.เอ็น. ดีเวลลอปเมนท์"
+    }
+  },
+  "location": {
+    "slug": "bang-khen-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "bang-khen",
+    "name": {
+      "en": "Bang Khen",
+      "zh": "挽卿",
+      "th": "บางเขน"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Lumpini Ville Phahol-Saphanmai",
+      "zh": "Lumpini Ville 拍浩-萨潘迈",
+      "th": "ลุมพินี วิลล์ พหลฯ-สะพานใหม่"
+    },
+    "description": {
+      "en": "Lumpini Ville Phahol-Saphanmai is a real Bangkok project associated with LPN Development. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "Lumpini Ville 拍浩-萨潘迈为曼谷真实项目，关联开发商 LPN发展。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "ลุมพินี วิลล์ พหลฯ-สะพานใหม่ เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา แอล.พี.เอ็น. ดีเวลลอปเมนท์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Bang Khen, Bangkok",
+      "zh": "曼谷挽卿",
+      "th": "บางเขน กรุงเทพฯ"
+    },
+    "postal_code": "10220",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.lpn.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts"],
+    "seo": {
+      "title": {
+        "en": "Lumpini Ville Phahol-Saphanmai Condo in Bang Khen, Bangkok | GoThailandHome",
+        "zh": "Lumpini Ville 拍浩-萨潘迈｜曼谷挽卿 | GoThailandHome",
+        "th": "ลุมพินี วิลล์ พหลฯ-สะพานใหม่ เขตบางเขน กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Lumpini Ville Phahol-Saphanmai in Bang Khen, Bangkok. Sourced from the developer official site.",
+        "zh": "Lumpini Ville 拍浩-萨潘迈项目页（曼谷挽卿），来源为开发商官方站点。",
+        "th": "หน้าโครงการ ลุมพินี วิลล์ พหลฯ-สะพานใหม่ เขตบางเขน อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

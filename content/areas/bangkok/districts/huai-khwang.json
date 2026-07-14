@@ -1,0 +1,74 @@
+{
+  "city_slug": "bangkok",
+  "slug": "huai-khwang",
+  "name": {
+    "en": "Huai Khwang",
+    "zh": "辉煌",
+    "th": "ห้วยขวาง"
+  },
+  "summary": {
+    "en": "Huai Khwang is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "辉煌（Huai Khwang）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "ห้วยขวาง เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Huai Khwang Bangkok Property | GoThailandHome",
+      "zh": "曼谷辉煌房产 | GoThailandHome",
+      "th": "อสังหาฯ ห้วยขวาง กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Huai Khwang district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷辉煌区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตห้วยขวาง กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Huai Khwang district",
+      "url": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 17,
+    "postal_code": "10310",
+    "latitude": 13.776,
+    "longitude": 100.578,
+    "khwaeng_count": 3
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Huai Khwang is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "辉煌为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "ห้วยขวางเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": [
+    "xt-huai-khwang",
+    "life-asoke-rama-9",
+    "ideo-rama-9",
+    "supalai-veranda-rama-9",
+    "maestro-03-ratchada-rama-9",
+    "noble-revolve-ratchada",
+    "singha-complex"
+  ]
+}

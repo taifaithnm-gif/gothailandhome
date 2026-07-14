@@ -1,0 +1,78 @@
+{
+  "slug": "m-silom",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "M Silom official / developer page",
+      "url": "https://www.major.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "major-development",
+    "name": {
+      "en": "Major Development",
+      "zh": "Major Development",
+      "th": "เมเจอร์ ดีเวลลอปเม้นท์"
+    }
+  },
+  "location": {
+    "slug": "bang-rak-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "bang-rak",
+    "name": {
+      "en": "Bang Rak",
+      "zh": "挽叻",
+      "th": "บางรัก"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "M Silom",
+      "zh": "M 是隆",
+      "th": "เอ็ม สีลม"
+    },
+    "description": {
+      "en": "M Silom is a real Bangkok project associated with Major Development. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "M 是隆为曼谷真实项目，关联开发商 Major Development。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "เอ็ม สีลม เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เมเจอร์ ดีเวลลอปเม้นท์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Bang Rak, Bangkok",
+      "zh": "曼谷挽叻",
+      "th": "บางรัก กรุงเทพฯ"
+    },
+    "postal_code": "10500",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.major.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts"],
+    "seo": {
+      "title": {
+        "en": "M Silom Condo in Bang Rak, Bangkok | GoThailandHome",
+        "zh": "M 是隆｜曼谷挽叻 | GoThailandHome",
+        "th": "เอ็ม สีลม เขตบางรัก กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for M Silom in Bang Rak, Bangkok. Sourced from the developer official site.",
+        "zh": "M 是隆项目页（曼谷挽叻），来源为开发商官方站点。",
+        "th": "หน้าโครงการ เอ็ม สีลม เขตบางรัก อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

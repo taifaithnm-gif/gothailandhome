@@ -1,0 +1,78 @@
+{
+  "slug": "supalai-elite-phayathai",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Supalai Elite Phayathai official / developer page",
+      "url": "https://www.supalai.com/"
+    }
+  ],
+  "developer": {
+    "slug": "supalai",
+    "name": {
+      "en": "Supalai",
+      "zh": "苏帕莱",
+      "th": "ศุภาลัย"
+    }
+  },
+  "location": {
+    "slug": "ratchathewi-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "ratchathewi",
+    "name": {
+      "en": "Ratchathewi",
+      "zh": "拉差提威",
+      "th": "ราชเทวี"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Supalai Elite Phayathai",
+      "zh": "苏帕莱 Elite 帕亚泰",
+      "th": "ศุภาลัย เอลีท พญาไท"
+    },
+    "description": {
+      "en": "Supalai Elite Phayathai is a real Bangkok project associated with Supalai. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "苏帕莱 Elite 帕亚泰为曼谷真实项目，关联开发商 苏帕莱。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "ศุภาลัย เอลีท พญาไท เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา ศุภาลัย รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Ratchathewi, Bangkok",
+      "zh": "曼谷拉差提威",
+      "th": "ราชเทวี กรุงเทพฯ"
+    },
+    "postal_code": "10400",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.supalai.com/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts", "arl"],
+    "seo": {
+      "title": {
+        "en": "Supalai Elite Phayathai Condo in Ratchathewi, Bangkok | GoThailandHome",
+        "zh": "苏帕莱 Elite 帕亚泰｜曼谷拉差提威 | GoThailandHome",
+        "th": "ศุภาลัย เอลีท พญาไท เขตราชเทวี กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Supalai Elite Phayathai in Ratchathewi, Bangkok. Sourced from the developer official site.",
+        "zh": "苏帕莱 Elite 帕亚泰项目页（曼谷拉差提威），来源为开发商官方站点。",
+        "th": "หน้าโครงการ ศุภาลัย เอลีท พญาไท เขตราชเทวี อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

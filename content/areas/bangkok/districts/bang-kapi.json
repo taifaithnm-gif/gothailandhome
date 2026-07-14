@@ -1,0 +1,89 @@
+{
+  "city_slug": "bangkok",
+  "slug": "bang-kapi",
+  "name": {
+    "en": "Bang Kapi",
+    "zh": "挽甲必",
+    "th": "บางกะปิ"
+  },
+  "summary": {
+    "en": "Bang Kapi is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "挽甲必（Bang Kapi）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "บางกะปิ เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Bang Kapi Bangkok Property | GoThailandHome",
+      "zh": "曼谷挽甲必房产 | GoThailandHome",
+      "th": "อสังหาฯ บางกะปิ กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Bang Kapi district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷挽甲必区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตบางกะปิ กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Bang Kapi district",
+      "url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 6,
+    "postal_code": "10240",
+    "latitude": 13.7658,
+    "longitude": 100.6478,
+    "khwaeng_count": 2
+  },
+  "transportation": [
+    {
+      "name": {
+        "en": "MRT Yellow Line — Lam Sali",
+        "zh": "MRT黄线 — 兰萨利",
+        "th": "รถไฟฟ้าสายสีเหลือง — ลำสาลี"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Yellow_Line_(Bangkok)"
+    }
+  ],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [
+    {
+      "name": {
+        "en": "The Mall Bang Kapi",
+        "zh": "The Mall Bang Kapi",
+        "th": "เดอะมอลล์ บางกะปิ"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/The_Mall_Group"
+    }
+  ],
+  "investment_summary": {
+    "en": "Bang Kapi is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "挽甲必为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "บางกะปิเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": [
+    "the-livin-ramkhamhaeng",
+    "knightbridge-collage-ramkhamhaeng",
+    "modiz-rhyme-ramkhamhaeng"
+  ]
+}

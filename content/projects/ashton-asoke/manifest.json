@@ -1,0 +1,78 @@
+{
+  "slug": "ashton-asoke",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Ashton Asoke official / developer page",
+      "url": "https://www.ananda.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "ananda-development",
+    "name": {
+      "en": "Ananda Development",
+      "zh": "阿南达发展",
+      "th": "อนันดา ดีเวลลอปเม้นท์"
+    }
+  },
+  "location": {
+    "slug": "watthana-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "watthana",
+    "name": {
+      "en": "Watthana",
+      "zh": "瓦他那",
+      "th": "วัฒนา"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Ashton Asoke",
+      "zh": "Ashton Asoke",
+      "th": "แอชตัน อโศก"
+    },
+    "description": {
+      "en": "Ashton Asoke is a real Bangkok project associated with Ananda Development. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "Ashton Asoke为曼谷真实项目，关联开发商 阿南达发展。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "แอชตัน อโศก เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา อนันดา ดีเวลลอปเม้นท์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Watthana, Bangkok",
+      "zh": "曼谷瓦他那",
+      "th": "วัฒนา กรุงเทพฯ"
+    },
+    "postal_code": "10110",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.ananda.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts", "mrt"],
+    "seo": {
+      "title": {
+        "en": "Ashton Asoke Condo in Watthana, Bangkok | GoThailandHome",
+        "zh": "Ashton Asoke｜曼谷瓦他那 | GoThailandHome",
+        "th": "แอชตัน อโศก เขตวัฒนา กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Ashton Asoke in Watthana, Bangkok. Sourced from the developer official site.",
+        "zh": "Ashton Asoke项目页（曼谷瓦他那），来源为开发商官方站点。",
+        "th": "หน้าโครงการ แอชตัน อโศก เขตวัฒนา อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "the-room-sathorn-taksin",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "The Room Sathorn-Taksin official / developer page",
+      "url": "https://www.lh.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "land-and-houses",
+    "name": {
+      "en": "Land and Houses",
+      "zh": "大地房产",
+      "th": "แลนด์ แอนด์ เฮ้าส์"
+    }
+  },
+  "location": {
+    "slug": "khlong-san-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "khlong-san",
+    "name": {
+      "en": "Khlong San",
+      "zh": "空讪",
+      "th": "คลองสาน"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "The Room Sathorn-Taksin",
+      "zh": "The Room 沙吞-达信",
+      "th": "เดอะ รูม สาทร-ตากสิน"
+    },
+    "description": {
+      "en": "The Room Sathorn-Taksin is a real Bangkok project associated with Land and Houses. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "The Room 沙吞-达信为曼谷真实项目，关联开发商 大地房产。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "เดอะ รูม สาทร-ตากสิน เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา แลนด์ แอนด์ เฮ้าส์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Khlong San, Bangkok",
+      "zh": "曼谷空讪",
+      "th": "คลองสาน กรุงเทพฯ"
+    },
+    "postal_code": "10600",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.lh.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts"],
+    "seo": {
+      "title": {
+        "en": "The Room Sathorn-Taksin Condo in Khlong San, Bangkok | GoThailandHome",
+        "zh": "The Room 沙吞-达信｜曼谷空讪 | GoThailandHome",
+        "th": "เดอะ รูม สาทร-ตากสิน เขตคลองสาน กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for The Room Sathorn-Taksin in Khlong San, Bangkok. Sourced from the developer official site.",
+        "zh": "The Room 沙吞-达信项目页（曼谷空讪），来源为开发商官方站点。",
+        "th": "หน้าโครงการ เดอะ รูม สาทร-ตากสิน เขตคลองสาน อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

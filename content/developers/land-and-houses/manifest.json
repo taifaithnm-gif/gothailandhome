@@ -1,0 +1,56 @@
+{
+  "slug": "land-and-houses",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Land and Houses official website",
+      "url": "https://www.lh.co.th/"
+    },
+    {
+      "type": "facebook",
+      "name": "Land and Houses Facebook",
+      "url": "https://www.facebook.com/LandandHouses"
+    }
+  ],
+  "name": {
+    "en": "Land and Houses",
+    "zh": "大地房产",
+    "th": "แลนด์ แอนด์ เฮ้าส์"
+  },
+  "legal_name": {
+    "en": "Land and Houses Public Company Limited",
+    "zh": "Land and Houses Public Company Limited",
+    "th": "บริษัท แลนด์ แอนด์ เฮ้าส์ จำกัด (มหาชน)"
+  },
+  "description": {
+    "en": "Land and Houses is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
+    "zh": "大地房产为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
+    "th": "แลนด์ แอนด์ เฮ้าส์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+  },
+  "website": "https://www.lh.co.th/",
+  "facebook_url": "https://www.facebook.com/LandandHouses",
+  "google_maps_url": null,
+  "logo_url": null,
+  "phone": null,
+  "email": null,
+  "seo": {
+    "title": {
+      "en": "Land and Houses Developer | GoThailandHome",
+      "zh": "大地房产开发商 | GoThailandHome",
+      "th": "ผู้พัฒนา แลนด์ แอนด์ เฮ้าส์ | GoThailandHome"
+    },
+    "description": {
+      "en": "Developer profile for Land and Houses and linked Bangkok projects on GoThailandHome.",
+      "zh": "大地房产开发商简介及关联曼谷项目。",
+      "th": "โปรไฟล์ผู้พัฒนา แลนด์ แอนด์ เฮ้าส์ และโครงการในกรุงเทพฯ"
+    }
+  },
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "project_slugs": ["the-room-sukhumvit-62", "the-room-sathorn-taksin"]
+}

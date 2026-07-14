@@ -1,0 +1,78 @@
+{
+  "slug": "the-tree-rio-bang-aor",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "The Tree Rio Bang-Aor official / developer page",
+      "url": "https://www.pruksa.com/"
+    }
+  ],
+  "developer": {
+    "slug": "pruksa-holding",
+    "name": {
+      "en": "Pruksa Holding",
+      "zh": "普萨控股",
+      "th": "พฤกษา โฮลดิ้ง"
+    }
+  },
+  "location": {
+    "slug": "bang-phlat-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "bang-phlat",
+    "name": {
+      "en": "Bang Phlat",
+      "zh": "挽帕",
+      "th": "บางพลัด"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "The Tree Rio Bang-Aor",
+      "zh": "The Tree Rio Bang-Aor",
+      "th": "เดอะทรี ริโอ้ บางอ้อ"
+    },
+    "description": {
+      "en": "The Tree Rio Bang-Aor is a real Bangkok project associated with Pruksa Holding. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "The Tree Rio Bang-Aor为曼谷真实项目，关联开发商 普萨控股。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "เดอะทรี ริโอ้ บางอ้อ เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา พฤกษา โฮลดิ้ง รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Bang Phlat, Bangkok",
+      "zh": "曼谷挽帕",
+      "th": "บางพลัด กรุงเทพฯ"
+    },
+    "postal_code": "10700",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.pruksa.com/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["mrt"],
+    "seo": {
+      "title": {
+        "en": "The Tree Rio Bang-Aor Condo in Bang Phlat, Bangkok | GoThailandHome",
+        "zh": "The Tree Rio Bang-Aor｜曼谷挽帕 | GoThailandHome",
+        "th": "เดอะทรี ริโอ้ บางอ้อ เขตบางพลัด กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for The Tree Rio Bang-Aor in Bang Phlat, Bangkok. Sourced from the developer official site.",
+        "zh": "The Tree Rio Bang-Aor项目页（曼谷挽帕），来源为开发商官方站点。",
+        "th": "หน้าโครงการ เดอะทรี ริโอ้ บางอ้อ เขตบางพลัด อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

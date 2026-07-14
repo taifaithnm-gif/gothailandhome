@@ -1,0 +1,75 @@
+{
+  "city_slug": "bangkok",
+  "slug": "lat-krabang",
+  "name": {
+    "en": "Lat Krabang",
+    "zh": "拉差挽",
+    "th": "ลาดกระบัง"
+  },
+  "summary": {
+    "en": "Lat Krabang is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "拉差挽（Lat Krabang）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "ลาดกระบัง เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Lat Krabang Bangkok Property | GoThailandHome",
+      "zh": "曼谷拉差挽房产 | GoThailandHome",
+      "th": "อสังหาฯ ลาดกระบัง กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Lat Krabang district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷拉差挽区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตลาดกระบัง กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Lat Krabang district",
+      "url": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 11,
+    "postal_code": "10520",
+    "latitude": 13.723,
+    "longitude": 100.784,
+    "khwaeng_count": 6
+  },
+  "transportation": [
+    {
+      "name": {
+        "en": "Suvarnabhumi Airport (adjacent eastern Bangkok)",
+        "zh": "素万那普机场（曼谷东部相关）",
+        "th": "ท่าอากาศยานสุวรรณภูมิ"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Suvarnabhumi_Airport"
+    }
+  ],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Lat Krabang is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "拉差挽为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "ลาดกระบังเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": []
+}

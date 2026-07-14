@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "bang-bon",
+  "name": {
+    "en": "Bang Bon",
+    "zh": "挽汶",
+    "th": "บางบอน"
+  },
+  "summary": {
+    "en": "Bang Bon is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "挽汶（Bang Bon）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "บางบอน เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Bang Bon Bangkok Property | GoThailandHome",
+      "zh": "曼谷挽汶房产 | GoThailandHome",
+      "th": "อสังหาฯ บางบอน กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Bang Bon district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷挽汶区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตบางบอน กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Bang Bon district",
+      "url": "https://en.wikipedia.org/wiki/Bang_Bon_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 50,
+    "postal_code": "10150",
+    "latitude": 13.6592,
+    "longitude": 100.3991,
+    "khwaeng_count": 4
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Bang Bon is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "挽汶为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "บางบอนเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": []
+}

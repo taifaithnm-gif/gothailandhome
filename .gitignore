@@ -37,6 +37,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# property factory run ledgers (local apply/resume)
+/content/_runs/
+/content/_raw/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

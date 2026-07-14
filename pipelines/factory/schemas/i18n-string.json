@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gothailandhome.com/schemas/i18n-string.json",
+  "type": "object",
+  "required": ["en", "zh", "th"],
+  "properties": {
+    "en": { "type": "string", "minLength": 1 },
+    "zh": { "type": "string", "minLength": 1 },
+    "th": { "type": "string", "minLength": 1 }
+  },
+  "additionalProperties": false
+}

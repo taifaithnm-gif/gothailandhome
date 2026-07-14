@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gothailandhome.com/schemas/source.json",
+  "type": "object",
+  "required": ["type", "name", "url"],
+  "properties": {
+    "type": {
+      "type": "string",
+      "enum": [
+        "propertyhub",
+        "ddproperty",
+        "livinginsider",
+        "fazwaz",
+        "official_developer",
+        "official_website",
+        "facebook",
+        "google_maps",
+        "other_public_portal",
+        "public_portal",
+        "wikipedia",
+        "bma"
+      ]
+    },
+    "name": { "type": "string", "minLength": 1 },
+    "url": { "type": "string", "format": "uri" }
+  },
+  "additionalProperties": false
+}

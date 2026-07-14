@@ -1,0 +1,78 @@
+{
+  "slug": "aspire-sathorn-taksin",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Aspire Sathorn-Taksin official / developer page",
+      "url": "https://www.apthai.com/"
+    }
+  ],
+  "developer": {
+    "slug": "ap-thailand",
+    "name": {
+      "en": "AP Thailand",
+      "zh": "AP泰国",
+      "th": "เอพี ไทยแลนด์"
+    }
+  },
+  "location": {
+    "slug": "thon-buri-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "thon-buri",
+    "name": {
+      "en": "Thon Buri",
+      "zh": "吞武里",
+      "th": "ธนบุรี"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Aspire Sathorn-Taksin",
+      "zh": "Aspire 沙吞-达信",
+      "th": "แอสปาย สาทร-ตากสิน"
+    },
+    "description": {
+      "en": "Aspire Sathorn-Taksin is a real Bangkok project associated with AP Thailand. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "Aspire 沙吞-达信为曼谷真实项目，关联开发商 AP泰国。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "แอสปาย สาทร-ตากสิน เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เอพี ไทยแลนด์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Thon Buri, Bangkok",
+      "zh": "曼谷吞武里",
+      "th": "ธนบุรี กรุงเทพฯ"
+    },
+    "postal_code": "10600",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.apthai.com/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts"],
+    "seo": {
+      "title": {
+        "en": "Aspire Sathorn-Taksin Condo in Thon Buri, Bangkok | GoThailandHome",
+        "zh": "Aspire 沙吞-达信｜曼谷吞武里 | GoThailandHome",
+        "th": "แอสปาย สาทร-ตากสิน เขตธนบุรี กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Aspire Sathorn-Taksin in Thon Buri, Bangkok. Sourced from the developer official site.",
+        "zh": "Aspire 沙吞-达信项目页（曼谷吞武里），来源为开发商官方站点。",
+        "th": "หน้าโครงการ แอสปาย สาทร-ตากสิน เขตธนบุรี อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "phaya-thai",
+  "name": {
+    "en": "Phaya Thai",
+    "zh": "帕亚泰",
+    "th": "พญาไท"
+  },
+  "summary": {
+    "en": "Phaya Thai is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "帕亚泰（Phaya Thai）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "พญาไท เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Phaya Thai Bangkok Property | GoThailandHome",
+      "zh": "曼谷帕亚泰房产 | GoThailandHome",
+      "th": "อสังหาฯ พญาไท กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Phaya Thai district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷帕亚泰区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตพญาไท กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Phaya Thai district",
+      "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 14,
+    "postal_code": "10400",
+    "latitude": 13.78,
+    "longitude": 100.544,
+    "khwaeng_count": 2
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Phaya Thai is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "帕亚泰为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "พญาไทเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": ["noble-around-ari"]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "ideo-rama-9",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "IDEO Rama 9 official / developer page",
+      "url": "https://www.ananda.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "ananda-development",
+    "name": {
+      "en": "Ananda Development",
+      "zh": "阿南达发展",
+      "th": "อนันดา ดีเวลลอปเม้นท์"
+    }
+  },
+  "location": {
+    "slug": "huai-khwang-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "huai-khwang",
+    "name": {
+      "en": "Huai Khwang",
+      "zh": "辉煌",
+      "th": "ห้วยขวาง"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "IDEO Rama 9",
+      "zh": "IDEO 拉玛九",
+      "th": "ไอดีโอ พระราม 9"
+    },
+    "description": {
+      "en": "IDEO Rama 9 is a real Bangkok project associated with Ananda Development. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "IDEO 拉玛九为曼谷真实项目，关联开发商 阿南达发展。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "ไอดีโอ พระราม 9 เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา อนันดา ดีเวลลอปเม้นท์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Huai Khwang, Bangkok",
+      "zh": "曼谷辉煌",
+      "th": "ห้วยขวาง กรุงเทพฯ"
+    },
+    "postal_code": "10310",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.ananda.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["mrt"],
+    "seo": {
+      "title": {
+        "en": "IDEO Rama 9 Condo in Huai Khwang, Bangkok | GoThailandHome",
+        "zh": "IDEO 拉玛九｜曼谷辉煌 | GoThailandHome",
+        "th": "ไอดีโอ พระราม 9 เขตห้วยขวาง กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for IDEO Rama 9 in Huai Khwang, Bangkok. Sourced from the developer official site.",
+        "zh": "IDEO 拉玛九项目页（曼谷辉煌），来源为开发商官方站点。",
+        "th": "หน้าโครงการ ไอดีโอ พระราม 9 เขตห้วยขวาง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

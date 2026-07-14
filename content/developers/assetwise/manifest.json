@@ -1,0 +1,56 @@
+{
+  "slug": "assetwise",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "AssetWise official website",
+      "url": "https://www.assetwise.co.th/"
+    },
+    {
+      "type": "facebook",
+      "name": "AssetWise Facebook",
+      "url": "https://www.facebook.com/AssetWise"
+    }
+  ],
+  "name": {
+    "en": "AssetWise",
+    "zh": "AssetWise",
+    "th": "แอสเซทไวส์"
+  },
+  "legal_name": {
+    "en": "AssetWise Public Company Limited",
+    "zh": "AssetWise Public Company Limited",
+    "th": "บริษัท แอสเซทไวส์ จำกัด (มหาชน)"
+  },
+  "description": {
+    "en": "AssetWise is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
+    "zh": "AssetWise为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
+    "th": "แอสเซทไวส์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+  },
+  "website": "https://www.assetwise.co.th/",
+  "facebook_url": "https://www.facebook.com/AssetWise",
+  "google_maps_url": null,
+  "logo_url": null,
+  "phone": null,
+  "email": null,
+  "seo": {
+    "title": {
+      "en": "AssetWise Developer | GoThailandHome",
+      "zh": "AssetWise开发商 | GoThailandHome",
+      "th": "ผู้พัฒนา แอสเซทไวส์ | GoThailandHome"
+    },
+    "description": {
+      "en": "Developer profile for AssetWise and linked Bangkok projects on GoThailandHome.",
+      "zh": "AssetWise开发商简介及关联曼谷项目。",
+      "th": "โปรไฟล์ผู้พัฒนา แอสเซทไวส์ และโครงการในกรุงเทพฯ"
+    }
+  },
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "project_slugs": ["modiz-rhyme-ramkhamhaeng", "kave-town-space"]
+}

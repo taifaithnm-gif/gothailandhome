@@ -1,0 +1,78 @@
+{
+  "slug": "niche-pride-thonglor-phetchaburi",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Niche Pride Thonglor-Phetchaburi official / developer page",
+      "url": "https://www.sena.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "sena-development",
+    "name": {
+      "en": "Sena Development",
+      "zh": "Sena发展",
+      "th": "เสนาดีเวลลอปเม้นท์"
+    }
+  },
+  "location": {
+    "slug": "watthana-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "watthana",
+    "name": {
+      "en": "Watthana",
+      "zh": "瓦他那",
+      "th": "วัฒนา"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Niche Pride Thonglor-Phetchaburi",
+      "zh": "Niche Pride Thonglor",
+      "th": "นิช ไพรด์ ทองหล่อ-เพชรบุรี"
+    },
+    "description": {
+      "en": "Niche Pride Thonglor-Phetchaburi is a real Bangkok project associated with Sena Development. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "Niche Pride Thonglor为曼谷真实项目，关联开发商 Sena发展。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "นิช ไพรด์ ทองหล่อ-เพชรบุรี เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เสนาดีเวลลอปเม้นท์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Watthana, Bangkok",
+      "zh": "曼谷瓦他那",
+      "th": "วัฒนา กรุงเทพฯ"
+    },
+    "postal_code": "10110",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.sena.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts"],
+    "seo": {
+      "title": {
+        "en": "Niche Pride Thonglor-Phetchaburi Condo in Watthana, Bangkok | GoThailandHome",
+        "zh": "Niche Pride Thonglor｜曼谷瓦他那 | GoThailandHome",
+        "th": "นิช ไพรด์ ทองหล่อ-เพชรบุรี เขตวัฒนา กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Niche Pride Thonglor-Phetchaburi in Watthana, Bangkok. Sourced from the developer official site.",
+        "zh": "Niche Pride Thonglor项目页（曼谷瓦他那），来源为开发商官方站点。",
+        "th": "หน้าโครงการ นิช ไพรด์ ทองหล่อ-เพชรบุรี เขตวัฒนา อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

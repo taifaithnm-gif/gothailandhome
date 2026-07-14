@@ -1,0 +1,78 @@
+{
+  "slug": "knightsbridge-prime-sathorn",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Knightsbridge Prime Sathorn official / developer page",
+      "url": "https://www.origin.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "origin-property",
+    "name": {
+      "en": "Origin Property",
+      "zh": "奥利金地产",
+      "th": "ออริจิ้น พร็อพเพอร์ตี้"
+    }
+  },
+  "location": {
+    "slug": "yan-nawa-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "yan-nawa",
+    "name": {
+      "en": "Yan Nawa",
+      "zh": "央那瓦",
+      "th": "ยานนาวา"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Knightsbridge Prime Sathorn",
+      "zh": "Knightsbridge Prime 沙吞",
+      "th": "ไนท์บริดจ์ ไพร์ม สาทร"
+    },
+    "description": {
+      "en": "Knightsbridge Prime Sathorn is a real Bangkok project associated with Origin Property. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "Knightsbridge Prime 沙吞为曼谷真实项目，关联开发商 奥利金地产。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "ไนท์บริดจ์ ไพร์ม สาทร เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา ออริจิ้น พร็อพเพอร์ตี้ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Yan Nawa, Bangkok",
+      "zh": "曼谷央那瓦",
+      "th": "ยานนาวา กรุงเทพฯ"
+    },
+    "postal_code": "10120",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.origin.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts"],
+    "seo": {
+      "title": {
+        "en": "Knightsbridge Prime Sathorn Condo in Yan Nawa, Bangkok | GoThailandHome",
+        "zh": "Knightsbridge Prime 沙吞｜曼谷央那瓦 | GoThailandHome",
+        "th": "ไนท์บริดจ์ ไพร์ม สาทร เขตยานนาวา กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Knightsbridge Prime Sathorn in Yan Nawa, Bangkok. Sourced from the developer official site.",
+        "zh": "Knightsbridge Prime 沙吞项目页（曼谷央那瓦），来源为开发商官方站点。",
+        "th": "หน้าโครงการ ไนท์บริดจ์ ไพร์ม สาทร เขตยานนาวา อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

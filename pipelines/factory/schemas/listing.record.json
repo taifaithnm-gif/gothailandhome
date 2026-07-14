@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gothailandhome.com/schemas/listing.record.json",
+  "type": "object",
+  "required": [
+    "external_ref",
+    "listing_type",
+    "price_thb",
+    "source",
+    "listing_url",
+    "source_updated_at",
+    "title",
+    "summary",
+    "description"
+  ],
+  "properties": {
+    "external_ref": { "type": "string", "minLength": 1 },
+    "listing_type": { "type": "string", "enum": ["sale", "rent"] },
+    "property_type": {
+      "type": "string",
+      "enum": ["condo", "house", "villa", "land", "commercial"]
+    },
+    "price_thb": { "type": "number", "exclusiveMinimum": 0 },
+    "bedrooms": { "type": ["integer", "null"] },
+    "bathrooms": { "type": ["number", "null"] },
+    "area_sqm": { "type": ["number", "null"] },
+    "project_slug": { "type": "string" },
+    "developer_slug": { "type": "string" },
+    "city_slug": { "type": "string" },
+    "district_slug": { "type": "string" },
+    "title": { "$ref": "i18n-string.json" },
+    "summary": { "$ref": "i18n-string.json" },
+    "description": { "$ref": "i18n-string.json" },
+    "source": { "type": "string" },
+    "listing_url": { "type": "string", "format": "uri" },
+    "source_updated_at": { "type": "string" },
+    "verification_status": {
+      "type": "string",
+      "enum": ["unverified", "verified", "stale", "delisted"]
+    },
+    "publish_ready": { "type": "boolean" },
+    "collected_at": { "type": "string" },
+    "latitude": { "type": ["number", "null"] },
+    "longitude": { "type": ["number", "null"] },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url"],
+        "properties": {
+          "url": { "type": "string" },
+          "role": { "type": "string" },
+          "source": { "type": "string" },
+          "rights_note": {
+            "type": "string",
+            "enum": [
+              "hotlink",
+              "mirrored_to_storage",
+              "mirrored",
+              "licensed",
+              "unknown"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}

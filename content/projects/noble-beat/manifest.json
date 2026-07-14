@@ -1,0 +1,78 @@
+{
+  "slug": "noble-beat",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Noble BEAT official / developer page",
+      "url": "https://www.noblehome.com/"
+    }
+  ],
+  "developer": {
+    "slug": "noble-development",
+    "name": {
+      "en": "Noble Development",
+      "zh": "诺博发展",
+      "th": "โนเบิล ดีเวลลอปเมนท์"
+    }
+  },
+  "location": {
+    "slug": "watthana-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "watthana",
+    "name": {
+      "en": "Watthana",
+      "zh": "瓦他那",
+      "th": "วัฒนา"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Noble BEAT",
+      "zh": "Noble BEAT",
+      "th": "โนเบิล บีท"
+    },
+    "description": {
+      "en": "Noble BEAT is a real Bangkok project associated with Noble Development. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "Noble BEAT为曼谷真实项目，关联开发商 诺博发展。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "โนเบิล บีท เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา โนเบิล ดีเวลลอปเมนท์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Watthana, Bangkok",
+      "zh": "曼谷瓦他那",
+      "th": "วัฒนา กรุงเทพฯ"
+    },
+    "postal_code": "10110",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.noblehome.com/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts"],
+    "seo": {
+      "title": {
+        "en": "Noble BEAT Condo in Watthana, Bangkok | GoThailandHome",
+        "zh": "Noble BEAT｜曼谷瓦他那 | GoThailandHome",
+        "th": "โนเบิล บีท เขตวัฒนา กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Noble BEAT in Watthana, Bangkok. Sourced from the developer official site.",
+        "zh": "Noble BEAT项目页（曼谷瓦他那），来源为开发商官方站点。",
+        "th": "หน้าโครงการ โนเบิล บีท เขตวัฒนา อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

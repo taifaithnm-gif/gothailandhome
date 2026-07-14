@@ -648,5 +648,6 @@
     "google_ads_conversion_label_placeholder": "CONVERSION_LABEL_PLACEHOLDER",
     "lead_form_event": "generate_lead",
     "og_image_placeholder": "/og/projects/the-livin-ramkhamhaeng.svg"
-  }
+  },
+  "publish_ready": true
 }

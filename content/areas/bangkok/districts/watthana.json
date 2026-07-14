@@ -1,0 +1,84 @@
+{
+  "city_slug": "bangkok",
+  "slug": "watthana",
+  "name": {
+    "en": "Watthana",
+    "zh": "瓦他那",
+    "th": "วัฒนา"
+  },
+  "summary": {
+    "en": "Watthana is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "瓦他那（Watthana）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "วัฒนา เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Watthana Bangkok Property | GoThailandHome",
+      "zh": "曼谷瓦他那房产 | GoThailandHome",
+      "th": "อสังหาฯ วัฒนา กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Watthana district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷瓦他那区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตวัฒนา กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Watthana district",
+      "url": "https://en.wikipedia.org/wiki/Watthana_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 39,
+    "postal_code": "10110",
+    "latitude": 13.736,
+    "longitude": 100.585,
+    "khwaeng_count": 3
+  },
+  "transportation": [
+    {
+      "name": {
+        "en": "BTS Sukhumvit corridor (Asok–Thong Lo area)",
+        "zh": "BTS素坤逸走廊",
+        "th": "แนวบีทีเอสสุขุมวิท"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/Watthana_district"
+    }
+  ],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Watthana is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "瓦他那为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "วัฒนาเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": [
+    "rhythm-ekkamai",
+    "ashton-asoke",
+    "supalai-oriental-sukhumvit-39",
+    "the-esse-asoke",
+    "vyva-thonglor",
+    "noble-beat",
+    "niche-pride-thonglor-phetchaburi"
+  ]
+}

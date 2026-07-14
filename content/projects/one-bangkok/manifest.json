@@ -1,0 +1,78 @@
+{
+  "slug": "one-bangkok",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "One Bangkok official / developer page",
+      "url": "https://www.onebangkok.com/"
+    }
+  ],
+  "developer": {
+    "slug": "frasers-property-thailand",
+    "name": {
+      "en": "Frasers Property Thailand",
+      "zh": "辉盛地产泰国",
+      "th": "เฟรเซอร์ส พร็อพเพอร์ตี้ ประเทศไทย"
+    }
+  },
+  "location": {
+    "slug": "pathum-wan-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "pathum-wan",
+    "name": {
+      "en": "Pathum Wan",
+      "zh": "巴吞旺",
+      "th": "ปทุมวัน"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "One Bangkok",
+      "zh": "One Bangkok",
+      "th": "วัน แบงค็อก"
+    },
+    "description": {
+      "en": "One Bangkok is a real Bangkok project associated with Frasers Property Thailand. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "One Bangkok为曼谷真实项目，关联开发商 辉盛地产泰国。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "วัน แบงค็อก เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เฟรเซอร์ส พร็อพเพอร์ตี้ ประเทศไทย รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Pathum Wan, Bangkok",
+      "zh": "曼谷巴吞旺",
+      "th": "ปทุมวัน กรุงเทพฯ"
+    },
+    "postal_code": "10330",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.onebangkok.com/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts", "mrt"],
+    "seo": {
+      "title": {
+        "en": "One Bangkok Condo in Pathum Wan, Bangkok | GoThailandHome",
+        "zh": "One Bangkok｜曼谷巴吞旺 | GoThailandHome",
+        "th": "วัน แบงค็อก เขตปทุมวัน กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for One Bangkok in Pathum Wan, Bangkok. Sourced from the developer official site.",
+        "zh": "One Bangkok项目页（曼谷巴吞旺），来源为开发商官方站点。",
+        "th": "หน้าโครงการ วัน แบงค็อก เขตปทุมวัน อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

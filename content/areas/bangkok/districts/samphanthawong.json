@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "samphanthawong",
+  "name": {
+    "en": "Samphanthawong",
+    "zh": "三攀他旺",
+    "th": "สัมพันธวงศ์"
+  },
+  "summary": {
+    "en": "Samphanthawong is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "三攀他旺（Samphanthawong）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "สัมพันธวงศ์ เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Samphanthawong Bangkok Property | GoThailandHome",
+      "zh": "曼谷三攀他旺房产 | GoThailandHome",
+      "th": "อสังหาฯ สัมพันธวงศ์ กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Samphanthawong district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷三攀他旺区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตสัมพันธวงศ์ กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Samphanthawong district",
+      "url": "https://en.wikipedia.org/wiki/Samphanthawong_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 13,
+    "postal_code": "10100",
+    "latitude": 13.738,
+    "longitude": 100.513,
+    "khwaeng_count": 3
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Samphanthawong is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "三攀他旺为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "สัมพันธวงศ์เป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": []
+}

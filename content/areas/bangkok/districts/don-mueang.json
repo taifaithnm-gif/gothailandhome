@@ -1,0 +1,76 @@
+{
+  "city_slug": "bangkok",
+  "slug": "don-mueang",
+  "name": {
+    "en": "Don Mueang",
+    "zh": "廊曼",
+    "th": "ดอนเมือง"
+  },
+  "summary": {
+    "en": "Don Mueang is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "廊曼（Don Mueang）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "ดอนเมือง เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Don Mueang Bangkok Property | GoThailandHome",
+      "zh": "曼谷廊曼房产 | GoThailandHome",
+      "th": "อสังหาฯ ดอนเมือง กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Don Mueang district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷廊曼区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตดอนเมือง กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Don Mueang district",
+      "url": "https://en.wikipedia.org/wiki/Don_Mueang_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 36,
+    "postal_code": "10210",
+    "latitude": 13.913,
+    "longitude": 100.59,
+    "khwaeng_count": 3
+  },
+  "transportation": [
+    {
+      "name": {
+        "en": "Don Mueang International Airport",
+        "zh": "廊曼国际机场",
+        "th": "ท่าอากาศยานดอนเมือง"
+      },
+      "mode": "arl",
+      "source_url": "https://en.wikipedia.org/wiki/Don_Mueang_International_Airport"
+    }
+  ],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Don Mueang is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "廊曼为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "ดอนเมืองเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": []
+}

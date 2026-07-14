@@ -1,0 +1,76 @@
+{
+  "city_slug": "bangkok",
+  "slug": "bang-rak",
+  "name": {
+    "en": "Bang Rak",
+    "zh": "挽叻",
+    "th": "บางรัก"
+  },
+  "summary": {
+    "en": "Bang Rak is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "挽叻（Bang Rak）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "บางรัก เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Bang Rak Bangkok Property | GoThailandHome",
+      "zh": "曼谷挽叻房产 | GoThailandHome",
+      "th": "อสังหาฯ บางรัก กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Bang Rak district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷挽叻区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตบางรัก กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Bang Rak district",
+      "url": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 4,
+    "postal_code": "10500",
+    "latitude": 13.727,
+    "longitude": 100.524,
+    "khwaeng_count": 5
+  },
+  "transportation": [
+    {
+      "name": {
+        "en": "BTS Sala Daeng / Si Lom area",
+        "zh": "BTS沙拉登 / 是隆一带",
+        "th": "ย่านศาลาแดง–สีลม"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+    }
+  ],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Bang Rak is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "挽叻为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "บางรักเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": ["m-silom", "the-lofts-silom"]
+}

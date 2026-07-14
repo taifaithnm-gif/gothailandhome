@@ -1,0 +1,78 @@
+{
+  "slug": "ideo-mobi-sukhumvit-66",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "IDEO MOBI Sukhumvit 66 official / developer page",
+      "url": "https://www.ananda.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "ananda-development",
+    "name": {
+      "en": "Ananda Development",
+      "zh": "阿南达发展",
+      "th": "อนันดา ดีเวลลอปเม้นท์"
+    }
+  },
+  "location": {
+    "slug": "phra-khanong-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "phra-khanong",
+    "name": {
+      "en": "Phra Khanong",
+      "zh": "帕卡农",
+      "th": "พระโขนง"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "IDEO MOBI Sukhumvit 66",
+      "zh": "IDEO MOBI 素坤逸66",
+      "th": "ไอดีโอ โมบิ สุขุมวิท 66"
+    },
+    "description": {
+      "en": "IDEO MOBI Sukhumvit 66 is a real Bangkok project associated with Ananda Development. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "IDEO MOBI 素坤逸66为曼谷真实项目，关联开发商 阿南达发展。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "ไอดีโอ โมบิ สุขุมวิท 66 เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา อนันดา ดีเวลลอปเม้นท์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Phra Khanong, Bangkok",
+      "zh": "曼谷帕卡农",
+      "th": "พระโขนง กรุงเทพฯ"
+    },
+    "postal_code": "10260",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.ananda.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["bts"],
+    "seo": {
+      "title": {
+        "en": "IDEO MOBI Sukhumvit 66 Condo in Phra Khanong, Bangkok | GoThailandHome",
+        "zh": "IDEO MOBI 素坤逸66｜曼谷帕卡农 | GoThailandHome",
+        "th": "ไอดีโอ โมบิ สุขุมวิท 66 เขตพระโขนง กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for IDEO MOBI Sukhumvit 66 in Phra Khanong, Bangkok. Sourced from the developer official site.",
+        "zh": "IDEO MOBI 素坤逸66项目页（曼谷帕卡农），来源为开发商官方站点。",
+        "th": "หน้าโครงการ ไอดีโอ โมบิ สุขุมวิท 66 เขตพระโขนง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

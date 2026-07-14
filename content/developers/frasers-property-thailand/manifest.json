@@ -1,0 +1,56 @@
+{
+  "slug": "frasers-property-thailand",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Frasers Property Thailand official website",
+      "url": "https://www.frasersproperty.co.th/"
+    },
+    {
+      "type": "facebook",
+      "name": "Frasers Property Thailand Facebook",
+      "url": "https://www.facebook.com/FrasersPropertyThailand"
+    }
+  ],
+  "name": {
+    "en": "Frasers Property Thailand",
+    "zh": "辉盛地产泰国",
+    "th": "เฟรเซอร์ส พร็อพเพอร์ตี้ ประเทศไทย"
+  },
+  "legal_name": {
+    "en": "Frasers Property (Thailand) Public Company Limited",
+    "zh": "Frasers Property (Thailand) Public Company Limited",
+    "th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ (ประเทศไทย) จำกัด (มหาชน)"
+  },
+  "description": {
+    "en": "Frasers Property Thailand is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
+    "zh": "辉盛地产泰国为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
+    "th": "เฟรเซอร์ส พร็อพเพอร์ตี้ ประเทศไทย เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+  },
+  "website": "https://www.frasersproperty.co.th/",
+  "facebook_url": "https://www.facebook.com/FrasersPropertyThailand",
+  "google_maps_url": null,
+  "logo_url": null,
+  "phone": null,
+  "email": null,
+  "seo": {
+    "title": {
+      "en": "Frasers Property Thailand Developer | GoThailandHome",
+      "zh": "辉盛地产泰国开发商 | GoThailandHome",
+      "th": "ผู้พัฒนา เฟรเซอร์ส พร็อพเพอร์ตี้ ประเทศไทย | GoThailandHome"
+    },
+    "description": {
+      "en": "Developer profile for Frasers Property Thailand and linked Bangkok projects on GoThailandHome.",
+      "zh": "辉盛地产泰国开发商简介及关联曼谷项目。",
+      "th": "โปรไฟล์ผู้พัฒนา เฟรเซอร์ส พร็อพเพอร์ตี้ ประเทศไทย และโครงการในกรุงเทพฯ"
+    }
+  },
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "project_slugs": ["samyan-mitrtown", "one-bangkok"]
+}

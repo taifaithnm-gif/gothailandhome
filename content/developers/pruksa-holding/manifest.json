@@ -1,0 +1,61 @@
+{
+  "slug": "pruksa-holding",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Pruksa Holding official website",
+      "url": "https://www.pruksa.com/"
+    },
+    {
+      "type": "facebook",
+      "name": "Pruksa Holding Facebook",
+      "url": "https://www.facebook.com/PruksaOfficial"
+    }
+  ],
+  "name": {
+    "en": "Pruksa Holding",
+    "zh": "普萨控股",
+    "th": "พฤกษา โฮลดิ้ง"
+  },
+  "legal_name": {
+    "en": "Pruksa Holding Public Company Limited",
+    "zh": "Pruksa Holding Public Company Limited",
+    "th": "บริษัท พฤกษา โฮลดิ้ง จำกัด (มหาชน)"
+  },
+  "description": {
+    "en": "Pruksa Holding is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
+    "zh": "普萨控股为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
+    "th": "พฤกษา โฮลดิ้ง เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+  },
+  "website": "https://www.pruksa.com/",
+  "facebook_url": "https://www.facebook.com/PruksaOfficial",
+  "google_maps_url": null,
+  "logo_url": null,
+  "phone": null,
+  "email": null,
+  "seo": {
+    "title": {
+      "en": "Pruksa Holding Developer | GoThailandHome",
+      "zh": "普萨控股开发商 | GoThailandHome",
+      "th": "ผู้พัฒนา พฤกษา โฮลดิ้ง | GoThailandHome"
+    },
+    "description": {
+      "en": "Developer profile for Pruksa Holding and linked Bangkok projects on GoThailandHome.",
+      "zh": "普萨控股开发商简介及关联曼谷项目。",
+      "th": "โปรไฟล์ผู้พัฒนา พฤกษา โฮลดิ้ง และโครงการในกรุงเทพฯ"
+    }
+  },
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "project_slugs": [
+    "the-tree-rio-bang-aor",
+    "chapter-one-shine-bang-pho",
+    "chapter-one-midtown-ladprao-24",
+    "the-privacy-rama-9"
+  ]
+}

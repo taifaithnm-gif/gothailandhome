@@ -1,0 +1,78 @@
+{
+  "slug": "noble-revolve-ratchada",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Noble Revolve Ratchada official / developer page",
+      "url": "https://www.noblehome.com/"
+    }
+  ],
+  "developer": {
+    "slug": "noble-development",
+    "name": {
+      "en": "Noble Development",
+      "zh": "诺博发展",
+      "th": "โนเบิล ดีเวลลอปเมนท์"
+    }
+  },
+  "location": {
+    "slug": "huai-khwang-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "huai-khwang",
+    "name": {
+      "en": "Huai Khwang",
+      "zh": "辉煌",
+      "th": "ห้วยขวาง"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Noble Revolve Ratchada",
+      "zh": "Noble Revolve 拉差达",
+      "th": "โนเบิล รีวอลฟ์ รัชดา"
+    },
+    "description": {
+      "en": "Noble Revolve Ratchada is a real Bangkok project associated with Noble Development. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "Noble Revolve 拉差达为曼谷真实项目，关联开发商 诺博发展。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "โนเบิล รีวอลฟ์ รัชดา เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา โนเบิล ดีเวลลอปเมนท์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Huai Khwang, Bangkok",
+      "zh": "曼谷辉煌",
+      "th": "ห้วยขวาง กรุงเทพฯ"
+    },
+    "postal_code": "10310",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.noblehome.com/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["mrt"],
+    "seo": {
+      "title": {
+        "en": "Noble Revolve Ratchada Condo in Huai Khwang, Bangkok | GoThailandHome",
+        "zh": "Noble Revolve 拉差达｜曼谷辉煌 | GoThailandHome",
+        "th": "โนเบิล รีวอลฟ์ รัชดา เขตห้วยขวาง กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Noble Revolve Ratchada in Huai Khwang, Bangkok. Sourced from the developer official site.",
+        "zh": "Noble Revolve 拉差达项目页（曼谷辉煌），来源为开发商官方站点。",
+        "th": "หน้าโครงการ โนเบิล รีวอลฟ์ รัชดา เขตห้วยขวาง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

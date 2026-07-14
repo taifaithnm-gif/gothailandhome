@@ -1,0 +1,66 @@
+{
+  "city_slug": "bangkok",
+  "slug": "nong-khaem",
+  "name": {
+    "en": "Nong Khaem",
+    "zh": "农坎",
+    "th": "หนองแขม"
+  },
+  "summary": {
+    "en": "Nong Khaem is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
+    "zh": "农坎（Nong Khaem）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
+    "th": "หนองแขม เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+  },
+  "seo": {
+    "title": {
+      "en": "Nong Khaem Bangkok Property | GoThailandHome",
+      "zh": "曼谷农坎房产 | GoThailandHome",
+      "th": "อสังหาฯ หนองแขม กรุงเทพฯ | GoThailandHome"
+    },
+    "description": {
+      "en": "Browse Nong Khaem district property pages for Bangkok projects and verified public listings as inventory is imported.",
+      "zh": "浏览曼谷农坎区域房产页；项目与公开挂牌随真实导入上线。",
+      "th": "ดูหน้าอสังหาฯ เขตหนองแขม กรุงเทพฯ โครงการและประกาศจะเพิ่มเมื่อนำเข้าจากแหล่งจริง"
+    }
+  },
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — Nong Khaem district",
+      "url": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
+    },
+    {
+      "type": "wikipedia",
+      "name": "Wikipedia — List of districts of Bangkok",
+      "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+    },
+    {
+      "type": "bma",
+      "name": "BMA district GIS portal (50 districts overview)",
+      "url": "https://district.bangkok.go.th/SEDPortal/50-map-overview/"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "metadata": {
+    "district_code": 23,
+    "postal_code": "10160",
+    "latitude": 13.705,
+    "longitude": 100.348,
+    "khwaeng_count": 2
+  },
+  "transportation": [],
+  "schools": [],
+  "hospitals": [],
+  "shopping": [],
+  "investment_summary": {
+    "en": "Nong Khaem is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
+    "zh": "农坎为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
+    "th": "หนองแขมเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
+  },
+  "nearby_projects": []
+}

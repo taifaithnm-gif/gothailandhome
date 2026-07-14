@@ -1,0 +1,78 @@
+{
+  "slug": "the-forestias",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "The Forestias official / developer page",
+      "url": "https://www.theforestias.com/"
+    }
+  ],
+  "developer": {
+    "slug": "mqdc",
+    "name": {
+      "en": "MQDC",
+      "zh": "MQDC",
+      "th": "แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น"
+    }
+  },
+  "location": {
+    "slug": "bang-na-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "bang-na",
+    "name": {
+      "en": "Bang Na",
+      "zh": "挽那",
+      "th": "บางนา"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "The Forestias",
+      "zh": "The Forestias",
+      "th": "เดอะ ฟอเรสเทียส์"
+    },
+    "description": {
+      "en": "The Forestias is a real Bangkok project associated with MQDC. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "The Forestias为曼谷真实项目，关联开发商 MQDC。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "เดอะ ฟอเรสเทียส์ เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Bang Na, Bangkok",
+      "zh": "曼谷挽那",
+      "th": "บางนา กรุงเทพฯ"
+    },
+    "postal_code": "10260",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.theforestias.com/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": [],
+    "seo": {
+      "title": {
+        "en": "The Forestias Condo in Bang Na, Bangkok | GoThailandHome",
+        "zh": "The Forestias｜曼谷挽那 | GoThailandHome",
+        "th": "เดอะ ฟอเรสเทียส์ เขตบางนา กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for The Forestias in Bang Na, Bangkok. Sourced from the developer official site.",
+        "zh": "The Forestias项目页（曼谷挽那），来源为开发商官方站点。",
+        "th": "หน้าโครงการ เดอะ ฟอเรสเทียส์ เขตบางนา อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

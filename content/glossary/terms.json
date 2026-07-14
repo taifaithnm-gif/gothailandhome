@@ -1,0 +1,25 @@
+{
+  "transit_tags": [
+    "bts",
+    "mrt",
+    "mrt-orange",
+    "mrt-yellow",
+    "mrt-blue",
+    "mrt-purple",
+    "mrt-pink",
+    "arl",
+    "boat",
+    "expressway"
+  ],
+  "source_codes": [
+    "propertyhub",
+    "ddproperty",
+    "livinginsider",
+    "fazwaz",
+    "official_developer",
+    "facebook",
+    "google_maps",
+    "wikipedia",
+    "bma"
+  ]
+}

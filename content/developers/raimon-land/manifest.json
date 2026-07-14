@@ -1,0 +1,56 @@
+{
+  "slug": "raimon-land",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Raimon Land official website",
+      "url": "https://www.raimonland.com/"
+    },
+    {
+      "type": "facebook",
+      "name": "Raimon Land Facebook",
+      "url": "https://www.facebook.com/RaimonLand"
+    }
+  ],
+  "name": {
+    "en": "Raimon Land",
+    "zh": "瑞蒙地产",
+    "th": "ไรมอน แลนด์"
+  },
+  "legal_name": {
+    "en": "Raimon Land Public Company Limited",
+    "zh": "Raimon Land Public Company Limited",
+    "th": "บริษัท ไรมอน แลนด์ จำกัด (มหาชน)"
+  },
+  "description": {
+    "en": "Raimon Land is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
+    "zh": "瑞蒙地产为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
+    "th": "ไรมอน แลนด์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+  },
+  "website": "https://www.raimonland.com/",
+  "facebook_url": "https://www.facebook.com/RaimonLand",
+  "google_maps_url": null,
+  "logo_url": null,
+  "phone": null,
+  "email": null,
+  "seo": {
+    "title": {
+      "en": "Raimon Land Developer | GoThailandHome",
+      "zh": "瑞蒙地产开发商 | GoThailandHome",
+      "th": "ผู้พัฒนา ไรมอน แลนด์ | GoThailandHome"
+    },
+    "description": {
+      "en": "Developer profile for Raimon Land and linked Bangkok projects on GoThailandHome.",
+      "zh": "瑞蒙地产开发商简介及关联曼谷项目。",
+      "th": "โปรไฟล์ผู้พัฒนา ไรมอน แลนด์ และโครงการในกรุงเทพฯ"
+    }
+  },
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "project_slugs": ["the-lofts-silom", "168-sukhothai-residences"]
+}

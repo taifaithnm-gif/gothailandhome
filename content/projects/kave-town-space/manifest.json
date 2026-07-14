@@ -1,0 +1,78 @@
+{
+  "slug": "kave-town-space",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Kave Town Space official / developer page",
+      "url": "https://www.assetwise.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "assetwise",
+    "name": {
+      "en": "AssetWise",
+      "zh": "AssetWise",
+      "th": "แอสเซทไวส์"
+    }
+  },
+  "location": {
+    "slug": "bang-khen-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "bang-khen",
+    "name": {
+      "en": "Bang Khen",
+      "zh": "挽卿",
+      "th": "บางเขน"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Kave Town Space",
+      "zh": "Kave Town Space",
+      "th": "เคฟ ทาวน์ สเปซ"
+    },
+    "description": {
+      "en": "Kave Town Space is a real Bangkok project associated with AssetWise. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "Kave Town Space为曼谷真实项目，关联开发商 AssetWise。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "เคฟ ทาวน์ สเปซ เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา แอสเซทไวส์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Bang Khen, Bangkok",
+      "zh": "曼谷挽卿",
+      "th": "บางเขน กรุงเทพฯ"
+    },
+    "postal_code": "10220",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.assetwise.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": [],
+    "seo": {
+      "title": {
+        "en": "Kave Town Space Condo in Bang Khen, Bangkok | GoThailandHome",
+        "zh": "Kave Town Space｜曼谷挽卿 | GoThailandHome",
+        "th": "เคฟ ทาวน์ สเปซ เขตบางเขน กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Kave Town Space in Bang Khen, Bangkok. Sourced from the developer official site.",
+        "zh": "Kave Town Space项目页（曼谷挽卿），来源为开发商官方站点。",
+        "th": "หน้าโครงการ เคฟ ทาวน์ สเปซ เขตบางเขน อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "singha-complex",
+  "collected_at": "2026-07-14",
+  "publish_ready": true,
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Singha Complex official / developer page",
+      "url": "https://www.singhaestate.co.th/"
+    }
+  ],
+  "developer": {
+    "slug": "singha-estate",
+    "name": {
+      "en": "Singha Estate",
+      "zh": "胜者置地",
+      "th": "สิงห์ เอสเตท"
+    }
+  },
+  "location": {
+    "slug": "huai-khwang-bangkok",
+    "city_slug": "bangkok",
+    "district_slug": "huai-khwang",
+    "name": {
+      "en": "Huai Khwang",
+      "zh": "辉煌",
+      "th": "ห้วยขวาง"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "Singha Complex",
+      "zh": "胜者综合体",
+      "th": "สิงห์ คอมเพล็กซ์"
+    },
+    "description": {
+      "en": "Singha Complex is a real Bangkok project associated with Singha Estate. Details beyond name, district, and official URL are omitted until separately sourced.",
+      "zh": "胜者综合体为曼谷真实项目，关联开发商 胜者置地。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
+      "th": "สิงห์ คอมเพล็กซ์ เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา สิงห์ เอสเตท รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+    },
+    "address": {
+      "en": "Huai Khwang, Bangkok",
+      "zh": "曼谷辉煌",
+      "th": "ห้วยขวาง กรุงเทพฯ"
+    },
+    "postal_code": "10310",
+    "latitude": null,
+    "longitude": null,
+    "google_maps_url": null,
+    "official_website": "https://www.singhaestate.co.th/",
+    "facebook_url": null,
+    "completion_year": null,
+    "transit_tags": ["mrt", "mrt-blue"],
+    "seo": {
+      "title": {
+        "en": "Singha Complex Condo in Huai Khwang, Bangkok | GoThailandHome",
+        "zh": "胜者综合体｜曼谷辉煌 | GoThailandHome",
+        "th": "สิงห์ คอมเพล็กซ์ เขตห้วยขวาง กรุงเทพฯ | GoThailandHome"
+      },
+      "description": {
+        "en": "Project page for Singha Complex in Huai Khwang, Bangkok. Sourced from the developer official site.",
+        "zh": "胜者综合体项目页（曼谷辉煌），来源为开发商官方站点。",
+        "th": "หน้าโครงการ สิงห์ คอมเพล็กซ์ เขตห้วยขวาง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    }
+  }
+}
