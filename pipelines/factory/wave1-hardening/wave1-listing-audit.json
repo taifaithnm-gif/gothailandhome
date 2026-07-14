@@ -1,0 +1,668 @@
+{
+  "generated_at": "2026-07-14T14:51:11.066Z",
+  "package_totals": {
+    "projects_with_listings": 33,
+    "listings": 617,
+    "verified": 617
+  },
+  "duplicates": {
+    "source_listing_id": [],
+    "listing_url": [],
+    "normalized_source_url": [],
+    "identity_fingerprint": [],
+    "soft_match_candidates": [
+      {
+        "key": "4658340a7e5b4f07e118fb9400ad7fdefa82cc8fcf4d4230afb9474068155b3a",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-6155729",
+            "project": "ashton-asoke",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-3004832--b2f8098a---6155729"
+          },
+          {
+            "external_ref": "propertyhub-4414010",
+            "project": "ashton-asoke",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-511985--96cd0842---4414010"
+          }
+        ]
+      },
+      {
+        "key": "1e1d5e9d274f3331de18168d946a9e61f6091231fe873d74f3a184645d0ff594",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-5647221",
+            "project": "casa-condo-asoke-dindaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-casa-condo-asoke-dindaeng-building-1-floor-7-1-bed-room-room-size-30-sqm---5647221"
+          },
+          {
+            "external_ref": "propertyhub-6185374",
+            "project": "casa-condo-asoke-dindaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-casa-condo-asoke-dindaeng-building-1-floor-7-1-bed-room-room-size-30-sqm--af870994---6185374"
+          }
+        ]
+      },
+      {
+        "key": "d395e2e9327faf821b1a894eafc8c9f1a41353110251c14104cd9892aab3140d",
+        "count": 4,
+        "items": [
+          {
+            "external_ref": "propertyhub-6115209",
+            "project": "casa-condo-asoke-dindaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/s105-condo-for-rent-casa-condo-asoke-dindaeng-excellent-location-convenient-transportation-all-inclusive-of-common-area-fees---6115209"
+          },
+          {
+            "external_ref": "propertyhub-6116393",
+            "project": "casa-condo-asoke-dindaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-casa-condo-asoke-dindaeng-building-1-floor-23-studio-room-size-26-sqm--adba096d---6116393"
+          },
+          {
+            "external_ref": "propertyhub-6116476",
+            "project": "casa-condo-asoke-dindaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-casa-condo-asoke-dindaeng-building-1-floor-23-studio-room-size-26-sqm--a140094a---6116476"
+          },
+          {
+            "external_ref": "propertyhub-6124995",
+            "project": "casa-condo-asoke-dindaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-at-casa-condo-asoke-dindaeng-b6906007---6124995"
+          }
+        ]
+      },
+      {
+        "key": "69663cdc5019084aded5b6a5c619b6fe3b134ff17348d162e739a8178efc7c95",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-5870476",
+            "project": "casa-condo-asoke-dindaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-casa-condo-asoke-dindaeng-building-1-floor-22-1-bed-room-room-size-31-sqm--a76d097a---5870476"
+          },
+          {
+            "external_ref": "propertyhub-6071228",
+            "project": "casa-condo-asoke-dindaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-casa-condo-asoke-dindaeng-building-1-floor-22-1-bed-room-room-size-31-sqm--ad2d0a06---6071228"
+          }
+        ]
+      },
+      {
+        "key": "e92d7e441fb3475a468efd715e40de0dc2bd034471fab7a291dd1d4f196a6dba",
+        "count": 3,
+        "items": [
+          {
+            "external_ref": "propertyhub-6204952",
+            "project": "ideo-mobi-sukhumvit-66",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-ideo-mobi-sukhumvit-66-building-1-floor-23-1-bed-room-room-size-30-sqm--c2ad0a3f---6204952"
+          },
+          {
+            "external_ref": "propertyhub-6204937",
+            "project": "ideo-mobi-sukhumvit-66",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-ideo-mobi-sukhumvit-66-building-1-floor-23-1-bed-room-room-size-30-sqm--b56609dd---6204937"
+          },
+          {
+            "external_ref": "propertyhub-6204886",
+            "project": "ideo-mobi-sukhumvit-66",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-ideo-mobi-sukhumvit-66-building-1-floor-23-1-bed-room-room-size-30-sqm--aeba0952---6204886"
+          }
+        ]
+      },
+      {
+        "key": "26b03c94bb3aa07fd0947e8cb21224e7a6aa1107c2b5da33d40a5d6f19cf1759",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-5020099",
+            "project": "ideo-mobi-sukhumvit-66",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-79891-live-chat-with-us-add-line-connexproperty--a6eb09a9---5020099"
+          },
+          {
+            "external_ref": "propertyhub-5779750",
+            "project": "ideo-mobi-sukhumvit-66",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-11032-live-chat-with-us-add-line-connexproperty--adc10945---5779750"
+          }
+        ]
+      },
+      {
+        "key": "879bfa95f245a7d16417c1ee82aa765fe29cfdad23a5702ddc34b26d198bab57",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-5182277",
+            "project": "kave-town-space",
+            "listing_url": "https://propertyhub.in.th/en/listings/p987-condo-for-rent-kave-town-space-beautiful-room-fully-furnished-ready-to-move-in-has-a-washing-machine---5182277"
+          },
+          {
+            "external_ref": "propertyhub-5368967",
+            "project": "kave-town-space",
+            "listing_url": "https://propertyhub.in.th/en/listings/z2074-condo-for-rent-kave-town-space---5368967"
+          }
+        ]
+      },
+      {
+        "key": "ffd104182386b56a4ce56bf444d4e14162cee822e51b40178bfb0a5b53af1ca8",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-4941266",
+            "project": "life-ladprao",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-life-ladprao-fully-furniture-nicely-decorated-lineoa-moov-pp---4941266"
+          },
+          {
+            "external_ref": "propertyhub-6164863",
+            "project": "life-ladprao",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-ladprao-nice-view-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-05814-live-chat-with-us-add-line-connexproperty---6164863"
+          }
+        ]
+      },
+      {
+        "key": "9060d589da4db5def3c900f9a57940598a21b518276da3cf83a5e822739dc656",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-5560625",
+            "project": "m-silom",
+            "listing_url": "https://propertyhub.in.th/en/listings/m-silom-pet-friendly-1950529--a6b608e4---5560625"
+          },
+          {
+            "external_ref": "propertyhub-5795231",
+            "project": "m-silom",
+            "listing_url": "https://propertyhub.in.th/en/listings/m-silom-2-bedroom-condo-for-sale-hbh-st-160---5795231"
+          }
+        ]
+      },
+      {
+        "key": "04123db646c9a746ecc2e4265ba4e6977b43c654c4b8bb7cbe2322401e63f7bb",
+        "count": 3,
+        "items": [
+          {
+            "external_ref": "propertyhub-6201465",
+            "project": "m-silom",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-m-silom-building-1-floor-19-1-bed-room-room-size-53-00-sqm--afb90981---6201465"
+          },
+          {
+            "external_ref": "propertyhub-4695860",
+            "project": "m-silom",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-m-silom-building-1-floor-19-1-bed-room-room-size-53-00-sqm--b5db0978---4695860"
+          },
+          {
+            "external_ref": "propertyhub-6223552",
+            "project": "m-silom",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-m-silom-building-1-floor-19-1-bed-room-room-size-53-00-sqm--bd2f0a35---6223552"
+          }
+        ]
+      },
+      {
+        "key": "f07595be91938ec6730061e6ff531874192fc0727f0a592c661dcd8fb7f452de",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-6204649",
+            "project": "maestro-03-ratchada-rama-9",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-maestro-03-ratchada-rama-9-building-1-floor-7-1-bed-room-room-size-29-sqm--b2a10987---6204649"
+          },
+          {
+            "external_ref": "propertyhub-6189246",
+            "project": "maestro-03-ratchada-rama-9",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-maestro-03-ratchada-rama-9-building-1-floor-7-1-bed-room-room-size-29-sqm--a3a90907---6189246"
+          }
+        ]
+      },
+      {
+        "key": "79c4064d5a459811940cb03e91d12db5e9808c6874efe6d90728469aa2598bd7",
+        "count": 3,
+        "items": [
+          {
+            "external_ref": "propertyhub-6121711",
+            "project": "maestro-03-ratchada-rama-9",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-maestro-03-ratchada-rama-9-building-a-floor-5-1-bed-room-room-size-29-sqm--a1f108e9---6121711"
+          },
+          {
+            "external_ref": "propertyhub-5559592",
+            "project": "maestro-03-ratchada-rama-9",
+            "listing_url": "https://propertyhub.in.th/en/listings/maestro-03-rama-09-631570--a54c08f0---5559592"
+          },
+          {
+            "external_ref": "propertyhub-6101556",
+            "project": "maestro-03-ratchada-rama-9",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-maestro-03-ratchada-rama-9-building-a-floor-5-1-bed-room-room-size-29-sqm--b1fb0993---6101556"
+          }
+        ]
+      },
+      {
+        "key": "76fd1420bf4d0b006c5541c269b82d7bb125ed0aa0aa06e687dfeb15be4e8a0e",
+        "count": 5,
+        "items": [
+          {
+            "external_ref": "propertyhub-6212877",
+            "project": "maestro-03-ratchada-rama-9",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-maestro-03-ratchada-rama-9-building-c-floor-5-2-bed-room-room-size-66-sqm--97e608cb---6212877"
+          },
+          {
+            "external_ref": "propertyhub-6212900",
+            "project": "maestro-03-ratchada-rama-9",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-maestro-03-ratchada-rama-9-building-c-floor-5-2-bed-room-room-size-66-sqm--bd5c0a59---6212900"
+          },
+          {
+            "external_ref": "propertyhub-6209901",
+            "project": "maestro-03-ratchada-rama-9",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-maestro-03-ratchada-rama-9-building-c-floor-5-2-bed-room-room-size-66-sqm--b5960a46---6209901"
+          },
+          {
+            "external_ref": "propertyhub-6212946",
+            "project": "maestro-03-ratchada-rama-9",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-maestro-03-ratchada-rama-9-building-c-floor-5-2-bed-room-room-size-66-sqm--b4040a2c---6212946"
+          },
+          {
+            "external_ref": "propertyhub-6209796",
+            "project": "maestro-03-ratchada-rama-9",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-maestro-03-ratchada-rama-9-building-c-floor-5-2-bed-room-room-size-66-sqm--b84f0a35---6209796"
+          }
+        ]
+      },
+      {
+        "key": "202716db10c77bbf89ea36f0c5c775f6eacf35f5b48dc1ebdaa87b72002836b5",
+        "count": 4,
+        "items": [
+          {
+            "external_ref": "propertyhub-6181425",
+            "project": "modiz-rhyme-ramkhamhaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-modiz-rhyme-ramkhamhaeng-building-1-floor-12-1-bed-room-room-size-26-sqm--aa6b09d3---6181425"
+          },
+          {
+            "external_ref": "propertyhub-6181420",
+            "project": "modiz-rhyme-ramkhamhaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-modiz-rhyme-ramkhamhaeng-building-1-floor-12-1-bed-room-room-size-26-sqm--bd6709bc---6181420"
+          },
+          {
+            "external_ref": "propertyhub-6181384",
+            "project": "modiz-rhyme-ramkhamhaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-modiz-rhyme-ramkhamhaeng-building-1-floor-12-1-bed-room-room-size-26-sqm--a2640907---6181384"
+          },
+          {
+            "external_ref": "propertyhub-6181337",
+            "project": "modiz-rhyme-ramkhamhaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-modiz-rhyme-ramkhamhaeng-building-1-floor-12-1-bed-room-room-size-26-sqm---6181337"
+          }
+        ]
+      },
+      {
+        "key": "7283954c97f5b10a538986181be5e01f8ac1e60e266d7e786acad0776332e01b",
+        "count": 3,
+        "items": [
+          {
+            "external_ref": "propertyhub-5636065",
+            "project": "modiz-rhyme-ramkhamhaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-bed-23-62-sq-m-modiz-rhythme-ramkhamhaeng---5636065"
+          },
+          {
+            "external_ref": "propertyhub-5636067",
+            "project": "modiz-rhyme-ramkhamhaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-bed-23-62-sq-m-modiz-rhythme-ramkhamhaeng--c7fc0a37---5636067"
+          },
+          {
+            "external_ref": "propertyhub-5636066",
+            "project": "modiz-rhyme-ramkhamhaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-bed-23-62-sq-m-modiz-rhythme-ramkhamhaeng--a6b00900---5636066"
+          }
+        ]
+      },
+      {
+        "key": "f4db7c5ffea6d61ded3a96d0ed4e62c95c6337f124e130886599c0c6c9ec3a2b",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-5544382",
+            "project": "niche-pride-thonglor-phetchaburi",
+            "listing_url": "https://propertyhub.in.th/en/listings/condo-1-bedroom-35-5-square-meter-for-sale-at-condo-for-sale-bang-kapi-huai-khwang-bangkok---5544382"
+          },
+          {
+            "external_ref": "propertyhub-5544378",
+            "project": "niche-pride-thonglor-phetchaburi",
+            "listing_url": "https://propertyhub.in.th/en/listings/5544378"
+          }
+        ]
+      },
+      {
+        "key": "c865b27382792d9c5a7be0d4ad7c63a0b488f3fab5d8a24d6a4c5ed0782ffaf7",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-6190036",
+            "project": "noble-around-ari",
+            "listing_url": "https://propertyhub.in.th/en/listings/noble-around-ari-2-min-walk-to-bts-top-floor-38f-6535224---6190036"
+          },
+          {
+            "external_ref": "propertyhub-5793794",
+            "project": "noble-around-ari",
+            "listing_url": "https://propertyhub.in.th/en/listings/noble-around-ari-2-min-walk-to-bts-top-floor-38f-6019177--b28f098e---5793794"
+          }
+        ]
+      },
+      {
+        "key": "35701216450c5ea7557a71bcdb3c002f8eb14fc23ef46fd77737d724a9deb98d",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-5179575",
+            "project": "noble-around-ari",
+            "listing_url": "https://propertyhub.in.th/en/listings/near-bts-ari-100m-1-br-27-sqm-noble-around-ari-id-2154219---5179575"
+          },
+          {
+            "external_ref": "propertyhub-6163782",
+            "project": "noble-around-ari",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-noble-around-ari-near-bts-ari-id-3019133--a4a00934---6163782"
+          }
+        ]
+      },
+      {
+        "key": "5bd9b84fe190b5dcac8490b6368b92af34e9f09a77434541922bdb40a597374c",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-4595998",
+            "project": "noble-revolve-ratchada",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-bed-super-high-fl-good-view-next-to-mrt-thailand-cultural-centre-station-noble-revolve-ratchada--b3be0952---4595998"
+          },
+          {
+            "external_ref": "propertyhub-5114083",
+            "project": "noble-revolve-ratchada",
+            "listing_url": "https://propertyhub.in.th/en/listings/best-price-1-bed-city-view-high-floor-good-location-mrt-thailand-cultural-centre-80-m-noble-revolve-ratchada---5114083"
+          }
+        ]
+      },
+      {
+        "key": "97ec67008fd436f2f704ac1bd758c8414b4b6973dd35d4ce5aa464df0ff5b45c",
+        "count": 3,
+        "items": [
+          {
+            "external_ref": "propertyhub-5114158",
+            "project": "noble-revolve-ratchada",
+            "listing_url": "https://propertyhub.in.th/en/listings/best-deal-3-2mb-1-bed-nice-decorate-high-floor-good-location-mrt-thailand-cultural-centre-80-m-noble-revolve-ratchada---5114158"
+          },
+          {
+            "external_ref": "propertyhub-5904510",
+            "project": "noble-revolve-ratchada",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-bed-large-room-city-view-fully-furnished-good-location-close-to-mrt-thailand-cultural-centre-station-noble-revolve-ratchada--ab21094d---5904510"
+          },
+          {
+            "external_ref": "propertyhub-5169784",
+            "project": "noble-revolve-ratchada",
+            "listing_url": "https://propertyhub.in.th/en/listings/large-room-studio-with-partition-good-location-mrt-thailand-cultural-centre-80-m-noble-revolve-ratchada--b2790972---5169784"
+          }
+        ]
+      },
+      {
+        "key": "57d80ba9f2b3ab403e11d38f1b43abe1bd046dd48ac172789ec879f72e0243e8",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-6166444",
+            "project": "rhythm-ekkamai",
+            "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-rhythm-ekkamai-near-bts-ekkamai-id-2594704---6166444"
+          },
+          {
+            "external_ref": "propertyhub-6169535",
+            "project": "rhythm-ekkamai",
+            "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-rhythm-ekkamai-near-bts-ekkamai-id-3028098---6169535"
+          }
+        ]
+      },
+      {
+        "key": "b21dae0b8e6fab35f0c4bfdfa9d414c473ca053b58544dd78b1b532beefd7126",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-4308069",
+            "project": "supalai-elite-phayathai",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-924361--97fb0864---4308069"
+          },
+          {
+            "external_ref": "propertyhub-4723494",
+            "project": "supalai-elite-phayathai",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-511660--aad1098c---4723494"
+          }
+        ]
+      },
+      {
+        "key": "e81eebae29c320248164d99d2e7453cd562e8dd0e3679688e47dd9aad78c7782",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-5772376",
+            "project": "supalai-lite-sathorn-charoenrat",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-supalai-lite-sathorn-charoenrat-building-1-floor-19-1-bed-room-room-size-54-sqm--b8a70a13---5772376"
+          },
+          {
+            "external_ref": "propertyhub-5718427",
+            "project": "supalai-lite-sathorn-charoenrat",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-lite-sathorn-charoenrat-in-bang-khlo-id-1991364---5718427"
+          }
+        ]
+      },
+      {
+        "key": "0a063f3a076a7d187dd9008b13d82ff415ac781711330196d64cfd6b176c645d",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-5130312",
+            "project": "supalai-lite-sathorn-charoenrat",
+            "listing_url": "https://propertyhub.in.th/en/listings/code-kj6643-for-rent-supalai-lite-sathorn-charoenrat-line-id-kjcondo-with---5130312"
+          },
+          {
+            "external_ref": "propertyhub-5801963",
+            "project": "supalai-lite-sathorn-charoenrat",
+            "listing_url": "https://propertyhub.in.th/en/listings/51-5-sqm-condo-on-high-floor-in-bang-khlo-bangkok--abd30947---5801963"
+          }
+        ]
+      },
+      {
+        "key": "49b4015ffd0d6c78dbad090f3ce3f27a7300ea150f051f91cced1aa6912a3250",
+        "count": 3,
+        "items": [
+          {
+            "external_ref": "propertyhub-5874659",
+            "project": "supalai-oriental-sukhumvit-39",
+            "listing_url": "https://propertyhub.in.th/en/listings/pfd-08123-for-rent-supalai-oriental-sukhumvit-39-supalai-oriental-near-bts-phrom-phong---5874659"
+          },
+          {
+            "external_ref": "propertyhub-5879486",
+            "project": "supalai-oriental-sukhumvit-39",
+            "listing_url": "https://propertyhub.in.th/en/listings/pfd-08123-for-rent-supalai-oriental-sukhumvit-39-supalai-oriental-near-bts-phrom-phong--ba1d099c---5879486"
+          },
+          {
+            "external_ref": "propertyhub-5879510",
+            "project": "supalai-oriental-sukhumvit-39",
+            "listing_url": "https://propertyhub.in.th/en/listings/pfd-08123-for-rent-supalai-oriental-sukhumvit-39-supalai-oriental-near-bts-phrom-phong--b31d09fe---5879510"
+          }
+        ]
+      },
+      {
+        "key": "5a383218430f1f8f53667601e733a02b7bcafbbdf91f06dff796e58a8fda9ff2",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-6185437",
+            "project": "supalai-veranda-rama-9",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-supalai-veranda-rama-9-building-a-floor-26-studio-room-size-43-sqm--a562091a---6185437"
+          },
+          {
+            "external_ref": "propertyhub-6181460",
+            "project": "supalai-veranda-rama-9",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-supalai-veranda-rama-9-building-a-floor-26-studio-room-size-43-sqm--bde80a09---6181460"
+          }
+        ]
+      },
+      {
+        "key": "2cc8e406d39f9889245a57238d27d4ce80fc83742af65f19ec2a2268a0e064f5",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-5704514",
+            "project": "the-line-sukhumvit-101",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-line-sukhumvit-101-near-bts-punnawithi-id-1107872---5704514"
+          },
+          {
+            "external_ref": "propertyhub-5787136",
+            "project": "the-line-sukhumvit-101",
+            "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-line-sukhumvit-101-near-bts-punnawithi-id-2631123---5787136"
+          }
+        ]
+      },
+      {
+        "key": "734f81ec80942321b1a9e62b2e9eb814fe4a193c4dc1c0e176ea11989d328765",
+        "count": 3,
+        "items": [
+          {
+            "external_ref": "propertyhub-6184312",
+            "project": "the-livin-ramkhamhaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/6184312"
+          },
+          {
+            "external_ref": "propertyhub-6187216",
+            "project": "the-livin-ramkhamhaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-at-the-livin-ramkhamhaeng-b6906061---6187216"
+          },
+          {
+            "external_ref": "propertyhub-6194160",
+            "project": "the-livin-ramkhamhaeng",
+            "listing_url": "https://propertyhub.in.th/en/listings/thhq9b-rent-the-livin-ramkhamhaeng-28-sq-m-floor-19-12-000-thb-mo-line-livinglegacy---6194160"
+          }
+        ]
+      },
+      {
+        "key": "47453c48e3accdc4f4d7564efd43af7f3a59a95c70867ab9ba6f12a9895b87c4",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-6100452",
+            "project": "the-lofts-silom",
+            "listing_url": "https://propertyhub.in.th/en/listings/2-bedroom-condo-for-sale-at-the-lofts-silom-6413359--b8a509ca---6100452"
+          },
+          {
+            "external_ref": "propertyhub-6207692",
+            "project": "the-lofts-silom",
+            "listing_url": "https://propertyhub.in.th/en/listings/best-value-2br-condo-at-the-lofts-silom-near-bts-only-198k-sq-m-cbd-u6413359---6207692"
+          }
+        ]
+      },
+      {
+        "key": "90f4a05a79a3b78955753bde7f740b382766719a1d5f99f1f9b8ea40f7fec1e4",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-3770392",
+            "project": "the-lofts-silom",
+            "listing_url": "https://propertyhub.in.th/en/listings/the-lofts-silom-2-bedrooms-for-rent---3770392"
+          },
+          {
+            "external_ref": "propertyhub-3770390",
+            "project": "the-lofts-silom",
+            "listing_url": "https://propertyhub.in.th/en/listings/the-lofts-silom-2-bedrooms-for-rent---3770390"
+          }
+        ]
+      },
+      {
+        "key": "6373f346c202fb90e409537ea8fed5bf84b1ba76b5cd54deb6c7a364f84dbf1d",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-3770970",
+            "project": "the-lofts-silom",
+            "listing_url": "https://propertyhub.in.th/en/listings/the-lofts-silom-3-bedrooms-for-rent---3770970"
+          },
+          {
+            "external_ref": "propertyhub-4319029",
+            "project": "the-lofts-silom",
+            "listing_url": "https://propertyhub.in.th/en/listings/the-lofts-silom-3-bedrooms-for-rent--b86709db---4319029"
+          }
+        ]
+      },
+      {
+        "key": "cbed6fe0e0b256a0f4d39473dea01f3df809e9a07cd2964158ba30eadf051992",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-5732898",
+            "project": "the-room-sukhumvit-62",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-the-room-sukhumvit-62-building-1-floor-17-1-bed-room-room-size-45-sqm--b98409e5---5732898"
+          },
+          {
+            "external_ref": "propertyhub-5713137",
+            "project": "the-room-sukhumvit-62",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-sale-1-bedroom-at-the-room-sukhumvit-62-only-5-mb---5713137"
+          }
+        ]
+      },
+      {
+        "key": "c7aec23d2358d533049db18a23271625406c5e41674212e71c9dd50f6e70537e",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-6210496",
+            "project": "whizdom-essence",
+            "listing_url": "https://propertyhub.in.th/en/listings/4-br-202-sqm-high-floor-condo-at-whizdom-essence-sukhumvit-400m-to-bts-punnawithi-id-3069547---6210496"
+          },
+          {
+            "external_ref": "propertyhub-6216869",
+            "project": "whizdom-essence",
+            "listing_url": "https://propertyhub.in.th/en/listings/4-br-202-sqm-condo-at-whizdom-essence-sukhumvit-400m-to-bts-punnawithi-id-2942870---6216869"
+          }
+        ]
+      },
+      {
+        "key": "3abcce3f93617526ba3b2ec9c78514b81490508b426c8ef9108e41a706d30ca4",
+        "count": 2,
+        "items": [
+          {
+            "external_ref": "propertyhub-6208499",
+            "project": "xt-phayathai",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-xt-phayathai-fully-furnished-and-equipped-with-appliances-near-bts-phaya-thai--b38009b3---6208499"
+          },
+          {
+            "external_ref": "propertyhub-4847538",
+            "project": "xt-phayathai",
+            "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-phayathai-bts-phaya-thai-thanon-phyathai-rat-thewi-bangkok-cx-110482-live-chat-with-us-add-line-connexproperty--beb50a05---4847538"
+          }
+        ]
+      }
+    ]
+  },
+  "duplicate_counts": {
+    "source_listing_id": 0,
+    "listing_url": 0,
+    "normalized_source_url": 0,
+    "identity_fingerprint": 0,
+    "soft_match_candidates": 34
+  },
+  "issues_by_code": {
+    "unreasonable_rent_per_sqm": 1
+  },
+  "issues": [
+    {
+      "code": "unreasonable_rent_per_sqm",
+      "pps": 25000,
+      "listing_type": "rent",
+      "external_ref": "propertyhub-5652628",
+      "project": "supalai-oriental-sukhumvit-39",
+      "listing_url": "https://propertyhub.in.th/en/listings/pfd-07677-condo-for-rent-supalai-oriental-sukhumvit-39-schedule-a-viewing-line-propertyfinder---5652628"
+    }
+  ],
+  "issue_total": 1,
+  "db": {
+    "propertyhub_rows": 620,
+    "matched_external_ref": 617,
+    "package_only": [],
+    "db_only": [
+      "propertyhub-5813509",
+      "propertyhub-5329310",
+      "propertyhub-5886141"
+    ],
+    "verification_status_dist": {
+      "verified": 620
+    },
+    "missing_identity_fp": 3,
+    "missing_source_listing_id": 3,
+    "price_match": 617,
+    "price_mismatch": []
+  }
+}

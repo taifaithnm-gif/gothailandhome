@@ -1,0 +1,1505 @@
+{
+  "generated_at": "2026-07-14T14:51:10.856Z",
+  "projects_audited": 33,
+  "developers_audited": 16,
+  "project_gap_frequency": {
+    "total_units": 32,
+    "building_count": 32,
+    "total_floors": 32,
+    "media": 32,
+    "bts_or_mrt": 3
+  },
+  "developer_gap_frequency": {},
+  "projects": [
+    {
+      "slug": "ashton-asoke",
+      "developer": "ananda-development",
+      "district": "watthana",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "developer": "quality-houses",
+      "district": "din-daeng",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "developer": "pruksa-holding",
+      "district": "lat-phrao",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "developer": "ananda-development",
+      "district": "phra-khanong",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "developer": "ananda-development",
+      "district": "khlong-toei",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "kave-town-space",
+      "developer": "assetwise",
+      "district": "bang-khen",
+      "present_count": 13,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "bts_or_mrt",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": false,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "developer": "origin-property",
+      "district": "yan-nawa",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "developer": "ap-thailand",
+      "district": "huai-khwang",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "life-ladprao",
+      "developer": "ap-thailand",
+      "district": "chatuchak",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "life-one-wireless",
+      "developer": "ap-thailand",
+      "district": "pathum-wan",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "m-silom",
+      "developer": "major-development",
+      "district": "bang-rak",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "developer": "major-development",
+      "district": "huai-khwang",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "developer": "assetwise",
+      "district": "bang-kapi",
+      "present_count": 13,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "bts_or_mrt",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": false,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "developer": "sena-development",
+      "district": "watthana",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "noble-around-ari",
+      "developer": "noble-development",
+      "district": "phaya-thai",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "developer": "noble-development",
+      "district": "huai-khwang",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "developer": "ap-thailand",
+      "district": "watthana",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "developer": "supalai",
+      "district": "ratchathewi",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "developer": "supalai",
+      "district": "yan-nawa",
+      "present_count": 13,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "bts_or_mrt",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": false,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "developer": "supalai",
+      "district": "watthana",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "developer": "supalai",
+      "district": "huai-khwang",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "developer": "sansiri",
+      "district": "suan-luang",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "the-esse-asoke",
+      "developer": "sc-asset",
+      "district": "watthana",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "developer": "sc-asset",
+      "district": "khlong-toei",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "developer": "sansiri",
+      "district": "phra-khanong",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "developer": "risland-thailand",
+      "district": "bang-kapi",
+      "present_count": 18,
+      "total": 18,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": true,
+        "building_count": true,
+        "total_floors": true,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": true,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "the-lofts-silom",
+      "developer": "raimon-land",
+      "district": "bang-rak",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "developer": "pruksa-holding",
+      "district": "suan-luang",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "developer": "land-and-houses",
+      "district": "khlong-san",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "developer": "land-and-houses",
+      "district": "phra-khanong",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "whizdom-essence",
+      "developer": "mqdc",
+      "district": "phra-khanong",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "developer": "sansiri",
+      "district": "huai-khwang",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    },
+    {
+      "slug": "xt-phayathai",
+      "developer": "sansiri",
+      "district": "ratchathewi",
+      "present_count": 14,
+      "total": 18,
+      "gaps": [
+        "total_units",
+        "building_count",
+        "total_floors",
+        "media"
+      ],
+      "fields": {
+        "name.en": true,
+        "name.th": true,
+        "developer": true,
+        "district": true,
+        "address.en": true,
+        "gps": true,
+        "construction_status": true,
+        "completion_year": true,
+        "total_units": false,
+        "building_count": false,
+        "total_floors": false,
+        "facilities": true,
+        "bts_or_mrt": true,
+        "official_website": true,
+        "official_source": true,
+        "google_maps_url": true,
+        "media": false,
+        "verification_ts": true
+      }
+    }
+  ],
+  "developers": [
+    {
+      "slug": "ananda-development",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.ananda.co.th/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "ashton-asoke",
+        "ideo-mobi-sukhumvit-66",
+        "ideo-q-sukhumvit-36"
+      ]
+    },
+    {
+      "slug": "ap-thailand",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.apthai.com/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "life-asoke-rama-9",
+        "life-ladprao",
+        "life-one-wireless",
+        "rhythm-ekkamai"
+      ]
+    },
+    {
+      "slug": "assetwise",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.assetwise.co.th/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "kave-town-space",
+        "modiz-rhyme-ramkhamhaeng"
+      ]
+    },
+    {
+      "slug": "land-and-houses",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.lh.co.th/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "the-room-sathorn-taksin",
+        "the-room-sukhumvit-62"
+      ]
+    },
+    {
+      "slug": "major-development",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.major.co.th/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "m-silom",
+        "maestro-03-ratchada-rama-9"
+      ]
+    },
+    {
+      "slug": "mqdc",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.mqdc.com/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "whizdom-essence"
+      ]
+    },
+    {
+      "slug": "noble-development",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.noblehome.com/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "noble-around-ari",
+        "noble-revolve-ratchada"
+      ]
+    },
+    {
+      "slug": "origin-property",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.origin.co.th/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "knightsbridge-prime-sathorn"
+      ]
+    },
+    {
+      "slug": "pruksa-holding",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.pruksa.com/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "chapter-one-midtown-ladprao-24",
+        "the-privacy-rama-9"
+      ]
+    },
+    {
+      "slug": "quality-houses",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.qh.co.th/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "casa-condo-asoke-dindaeng"
+      ]
+    },
+    {
+      "slug": "raimon-land",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.raimonland.com/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "the-lofts-silom"
+      ]
+    },
+    {
+      "slug": "risland-thailand",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.livinram.com/en",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "the-livin-ramkhamhaeng"
+      ]
+    },
+    {
+      "slug": "sansiri",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.sansiri.com/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "the-base-sukhumvit-77",
+        "the-line-sukhumvit-101",
+        "xt-huai-khwang",
+        "xt-phayathai"
+      ]
+    },
+    {
+      "slug": "sc-asset",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.scasset.com/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "the-esse-asoke",
+        "the-esse-sukhumvit-36"
+      ]
+    },
+    {
+      "slug": "sena-development",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.sena.co.th/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "niche-pride-thonglor-phetchaburi"
+      ]
+    },
+    {
+      "slug": "supalai",
+      "missing_package": false,
+      "present_count": 10,
+      "total": 10,
+      "gaps": [],
+      "fields": {
+        "name.en": true,
+        "website": true,
+        "logo_url": true,
+        "profile": true,
+        "facebook_url": true,
+        "social": true,
+        "represented_projects": true,
+        "verification_status": true,
+        "last_verified": true,
+        "verification_evidence": true
+      },
+      "website": "https://www.supalai.com/",
+      "verification_status": "platform_verified",
+      "represented_in_wave1": [
+        "supalai-elite-phayathai",
+        "supalai-lite-sathorn-charoenrat",
+        "supalai-oriental-sukhumvit-39",
+        "supalai-veranda-rama-9"
+      ]
+    }
+  ]
+}

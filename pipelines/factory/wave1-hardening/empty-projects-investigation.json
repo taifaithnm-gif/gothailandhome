@@ -1,0 +1,1526 @@
+{
+  "generated_at": "2026-07-14T14:44:52.717Z",
+  "empty_count": 17,
+  "by_classification": {
+    "parser_or_pagination_failure_listings_present_but_prior_harvest_empty": 17
+  },
+  "results": [
+    {
+      "slug": "168-sukhothai-residences",
+      "name_en": "168 Sukhothai Residences",
+      "district": "dusit",
+      "developer": "raimon-land",
+      "official_website": "https://www.raimonland.com/",
+      "ph_slug_used": "168-sukhothai-residences",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/168-sukhothai-residences",
+        "sale": "https://propertyhub.in.th/en/condo/168-sukhothai-residences/sale",
+        "rent": "https://propertyhub.in.th/en/condo/168-sukhothai-residences/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en/condo-for-sale",
+          "has_next_data": true,
+          "listing_href_count": 60,
+          "next_keys": [
+            "locale",
+            "seoTag",
+            "zone",
+            "resultListings",
+            "pagination",
+            "device",
+            "forceSponsor",
+            "popularProjects",
+            "postType",
+            "propertyType",
+            "zoneSlug",
+            "price",
+            "roomType",
+            "numberOfBed",
+            "usableArea",
+            "landSize",
+            "zoneIds",
+            "zoneSlugs",
+            "isZonePage",
+            "__lang"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 60,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "name_en": "Ascott Embassy Sathorn Bangkok",
+      "district": "sathon",
+      "developer": "capitaland-thailand",
+      "official_website": "https://www.capitaland.com/th/en.html",
+      "ph_slug_used": "ascott-embassy-sathorn",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/ascott-embassy-sathorn",
+        "sale": "https://propertyhub.in.th/en/condo/ascott-embassy-sathorn/sale",
+        "rent": "https://propertyhub.in.th/en/condo/ascott-embassy-sathorn/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "name_en": "Aspire Sathorn-Taksin",
+      "district": "thon-buri",
+      "developer": "ap-thailand",
+      "official_website": "https://www.apthai.com/",
+      "ph_slug_used": "aspire-sathorn-taksin",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/aspire-sathorn-taksin",
+        "sale": "https://propertyhub.in.th/en/condo/aspire-sathorn-taksin/sale",
+        "rent": "https://propertyhub.in.th/en/condo/aspire-sathorn-taksin/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "name_en": "Chapter One Shine Bang Pho",
+      "district": "bang-sue",
+      "developer": "pruksa-holding",
+      "official_website": "https://www.pruksa.com/",
+      "ph_slug_used": "chapter-one-shine-bang-pho",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/chapter-one-shine-bang-pho",
+        "sale": "https://propertyhub.in.th/en/condo/chapter-one-shine-bang-pho/sale",
+        "rent": "https://propertyhub.in.th/en/condo/chapter-one-shine-bang-pho/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "name_en": "CONDO U Sukhumvit 62-1",
+      "district": "phra-khanong",
+      "developer": "sansiri",
+      "official_website": "https://www.sansiri.com/",
+      "ph_slug_used": "condo-u-sukhumvit-62",
+      "ph_slug_override": true,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/condo-u-sukhumvit-62",
+        "sale": "https://propertyhub.in.th/en/condo/condo-u-sukhumvit-62/sale",
+        "rent": "https://propertyhub.in.th/en/condo/condo-u-sukhumvit-62/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "ideo-rama-9",
+      "name_en": "IDEO Rama 9",
+      "district": "huai-khwang",
+      "developer": "ananda-development",
+      "official_website": "https://www.ananda.co.th/",
+      "ph_slug_used": "ideo-rama-9",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/ideo-rama-9",
+        "sale": "https://propertyhub.in.th/en/condo/ideo-rama-9/sale",
+        "rent": "https://propertyhub.in.th/en/condo/ideo-rama-9/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "name_en": "KnightBridge Collage Ramkhamhaeng",
+      "district": "bang-kapi",
+      "developer": "origin-property",
+      "official_website": "https://www.origin.co.th/",
+      "ph_slug_used": "knightbridge-collage-ramkhamhaeng",
+      "ph_slug_override": true,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/knightbridge-collage-ramkhamhaeng",
+        "sale": "https://propertyhub.in.th/en/condo/knightbridge-collage-ramkhamhaeng/sale",
+        "rent": "https://propertyhub.in.th/en/condo/knightbridge-collage-ramkhamhaeng/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "name_en": "Lumpini Ville Phahol-Saphanmai",
+      "district": "bang-khen",
+      "developer": "lpn-development",
+      "official_website": "https://www.lpn.co.th/",
+      "ph_slug_used": "lumpini-ville-phahol-saphanmai",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/lumpini-ville-phahol-saphanmai",
+        "sale": "https://propertyhub.in.th/en/condo/lumpini-ville-phahol-saphanmai/sale",
+        "rent": "https://propertyhub.in.th/en/condo/lumpini-ville-phahol-saphanmai/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "name_en": "M Jive Sathorn-Lumphini",
+      "district": "sathon",
+      "developer": "major-development",
+      "official_website": "https://www.major.co.th/",
+      "ph_slug_used": "m-jive-sathorn-lumphini",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/m-jive-sathorn-lumphini",
+        "sale": "https://propertyhub.in.th/en/condo/m-jive-sathorn-lumphini/sale",
+        "rent": "https://propertyhub.in.th/en/condo/m-jive-sathorn-lumphini/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "noble-beat",
+      "name_en": "Noble BEAT",
+      "district": "watthana",
+      "developer": "noble-development",
+      "official_website": "https://www.noblehome.com/",
+      "ph_slug_used": "noble-beat",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/noble-beat",
+        "sale": "https://propertyhub.in.th/en/condo/noble-beat/sale",
+        "rent": "https://propertyhub.in.th/en/condo/noble-beat/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "one-bangkok",
+      "name_en": "One Bangkok",
+      "district": "pathum-wan",
+      "developer": "frasers-property-thailand",
+      "official_website": "https://www.onebangkok.com/",
+      "ph_slug_used": "one-bangkok",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/one-bangkok",
+        "sale": "https://propertyhub.in.th/en/condo/one-bangkok/sale",
+        "rent": "https://propertyhub.in.th/en/condo/one-bangkok/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en/condo-for-sale/one-bangkok",
+          "has_next_data": true,
+          "listing_href_count": 60,
+          "next_keys": [
+            "seoConfig",
+            "id",
+            "postType",
+            "zone",
+            "page",
+            "listings",
+            "nearbyZoneArg",
+            "forceSponsor"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 60,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "name_en": "Origin Plug & Play Sukhumvit 101",
+      "district": "phra-khanong",
+      "developer": "origin-property",
+      "official_website": "https://www.origin.co.th/",
+      "ph_slug_used": "origin-plug-play-project-sukhumvit-101",
+      "ph_slug_override": true,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/origin-plug-play-project-sukhumvit-101",
+        "sale": "https://propertyhub.in.th/en/condo/origin-plug-play-project-sukhumvit-101/sale",
+        "rent": "https://propertyhub.in.th/en/condo/origin-plug-play-project-sukhumvit-101/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "name_en": "Samyan Mitrtown",
+      "district": "pathum-wan",
+      "developer": "frasers-property-thailand",
+      "official_website": "https://www.samyanmitrtown.com/",
+      "ph_slug_used": "samyan-mitrtown",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/samyan-mitrtown",
+        "sale": "https://propertyhub.in.th/en/condo/samyan-mitrtown/sale",
+        "rent": "https://propertyhub.in.th/en/condo/samyan-mitrtown/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "singha-complex",
+      "name_en": "Singha Complex",
+      "district": "huai-khwang",
+      "developer": "singha-estate",
+      "official_website": "https://www.singhaestate.co.th/",
+      "ph_slug_used": "singha-complex",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/singha-complex",
+        "sale": "https://propertyhub.in.th/en/condo/singha-complex/sale",
+        "rent": "https://propertyhub.in.th/en/condo/singha-complex/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "the-forestias",
+      "name_en": "The Forestias",
+      "district": "bang-na",
+      "developer": "mqdc",
+      "official_website": "https://www.theforestias.com/",
+      "ph_slug_used": "the-forestias",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/the-forestias",
+        "sale": "https://propertyhub.in.th/en/condo/the-forestias/sale",
+        "rent": "https://propertyhub.in.th/en/condo/the-forestias/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "name_en": "The Tree Rio Bang-Aor",
+      "district": "bang-phlat",
+      "developer": "pruksa-holding",
+      "official_website": "https://www.pruksa.com/",
+      "ph_slug_used": "the-tree-rio-bang-aor",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/the-tree-rio-bang-aor",
+        "sale": "https://propertyhub.in.th/en/condo/the-tree-rio-bang-aor/sale",
+        "rent": "https://propertyhub.in.th/en/condo/the-tree-rio-bang-aor/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    },
+    {
+      "slug": "vyva-thonglor",
+      "name_en": "VYVA Thonglor",
+      "district": "watthana",
+      "developer": "sc-asset",
+      "official_website": "https://www.scasset.com/",
+      "ph_slug_used": "vyva-thonglor",
+      "ph_slug_override": false,
+      "urls": {
+        "primary": "https://propertyhub.in.th/en/condo/vyva-thonglor",
+        "sale": "https://propertyhub.in.th/en/condo/vyva-thonglor/sale",
+        "rent": "https://propertyhub.in.th/en/condo/vyva-thonglor/for-rent"
+      },
+      "probes": {
+        "primary": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "sale": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        },
+        "rent": {
+          "ok": true,
+          "status": 200,
+          "finalUrl": "https://propertyhub.in.th/en",
+          "has_next_data": true,
+          "listing_href_count": 20,
+          "next_keys": [
+            "isHomePage",
+            "pageName",
+            "locale",
+            "listingsForRent",
+            "listingsForSale",
+            "projects",
+            "newProjects",
+            "articles",
+            "seoTag",
+            "device",
+            "__lang",
+            "__namespaces"
+          ],
+          "project_name": null
+        }
+      },
+      "classification": "parser_or_pagination_failure_listings_present_but_prior_harvest_empty",
+      "evidence": {
+        "max_listing_hrefs": 20,
+        "http_status_primary": 200,
+        "has_next_data": true,
+        "next_project_name": null
+      }
+    }
+  ]
+}

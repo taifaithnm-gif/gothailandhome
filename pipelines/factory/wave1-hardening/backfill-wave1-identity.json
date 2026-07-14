@@ -1,0 +1,12 @@
+{
+  "dry_run": false,
+  "batch_key": "wave1-identity-backfill-2026-07-14",
+  "package_listings": 617,
+  "updated": 617,
+  "source_rows": 617,
+  "price_history": 617,
+  "events": 617,
+  "price_mismatches": [],
+  "missing_db": [],
+  "errors": []
+}
