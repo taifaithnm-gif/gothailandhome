@@ -46,7 +46,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "0bce804775aabdce23131303eb7ffc7a5bf9fc90edd0eb7b76cbff699cc77557"
+      "duplicate_fingerprint": "6c54ee3ca62bfefdc184b46ff9cdabf54036c9b83dfbd2963877b9ade56524a2",
+      "source_listing_id": "5790593",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/5790593",
+      "source_url_hash": "9e05d2e64c3cf8dc18362fd6b36535bccdfaf823d5c16992f3e1349225c5ea8d",
+      "soft_match_fingerprint": "ba99e4611b156b40eaf7a58c0fdf2bc091011c6aac2783b2d1fabc2bc7011573",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-5843945",
@@ -90,7 +97,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "3a564f2d7b027217b0637dd6489a54d4be3bd6f8895e46295457d61be62ddb77"
+      "duplicate_fingerprint": "9916504d8b03b66aa721e03e13a698088f4fcaae2d540c833f8d838c7cc8a0c0",
+      "source_listing_id": "5843945",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/5843945",
+      "source_url_hash": "08d24c740521e9203f42f1416c8a048bc38145f20de8298c37aa170b78fce590",
+      "soft_match_fingerprint": "d3fa7597320252cb5034e73238940bcd735ff6356b31b23fc812366d7951cf3c",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-6012040",
@@ -134,7 +148,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "23812894dc6c18e1287c8073fb1ea6b59f4f3c13626e9bab2dd40d42ea2bba4c"
+      "duplicate_fingerprint": "284b6d4d0aec959883785f1882133e014641b8c3aba1fb05006b75cc1513f72d",
+      "source_listing_id": "6012040",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/6012040",
+      "source_url_hash": "d4e065c013107dbfafd67b2a41824ff882e392d041eab7c4e1a31ff4547b6a90",
+      "soft_match_fingerprint": "bf6362327d6621f7e5e6269f1d9923306c103dec0e39c0fd241c3d48e982f462",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-6036423",
@@ -178,7 +199,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "fa2ae9b97cca889052255e107bc6769f76d40273c05360ef22ae373513cd2b3d"
+      "duplicate_fingerprint": "eb0fbd14c113745afa36204ba4a36a7bb18e149d0c396e968c4240c960c344bf",
+      "source_listing_id": "6036423",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/6036423",
+      "source_url_hash": "14197da6671e4d250d6c14b6266cf8284a0020f3018f7056b3cc4ddcdacd852b",
+      "soft_match_fingerprint": "0a436d6079178c7abe62969be371398af1ded3c45741251558c6c145c15e1e41",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-6065424",
@@ -222,7 +250,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "d6361fec025966ce5f2214d48638688d01544a8f048a32b9bdfa4ee12cae3cd1"
+      "duplicate_fingerprint": "2106b5fe3acdd21829cdd8d6afcc64d0b7ab1d51130dab887ea4597902b2fcab",
+      "source_listing_id": "6065424",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/6065424",
+      "source_url_hash": "f2b983784564ae3a50dbc2b47e304d46030ea284758ae07e7f28cf5d66e83e1e",
+      "soft_match_fingerprint": "a5a86d01c8d4fb3a7dc6991e01b6e0b727283c351b3b54a2ef0d972543404938",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-6158799",
@@ -266,7 +301,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "8cd843eb087142eecfc7fdf1b23b13f3a67321144324f6440284f15136e8ab77"
+      "duplicate_fingerprint": "5962a4e562622b855a218943a85173fae202839c0514844cae858a1448e5e23d",
+      "source_listing_id": "6158799",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/6158799",
+      "source_url_hash": "7a60ede6cf792f747b3fda95acaa1d6602baf557bcaeea2a8d577e2565598950",
+      "soft_match_fingerprint": "f85b9952be161c6eebe6ab801ba52d573a1bcb3e31337d4c70668686606ab311",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-6174837",
@@ -310,7 +352,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "f2427d8feada95edc88d1b61944e09a67dcaef74020d7805d7d33ba02547584f"
+      "duplicate_fingerprint": "18b5f24d1d7990fdc1780fa09586904bb2dfaf80ab4262b748900a05921ddfcb",
+      "source_listing_id": "6174837",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/6174837",
+      "source_url_hash": "c6f245f77d2362f0a6b27ef9af7e5a880c58e3c16b811ffcc3446c3a705de73d",
+      "soft_match_fingerprint": "a312d30ddff6a1c8c38327e2bed7773ecb709175e70ffe6a3f388ca80dd07fae",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-5020827",
@@ -354,7 +403,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "f0ba125830bda723157c01f608e096c987d5946163531b3dd3545063e89a2c8e"
+      "duplicate_fingerprint": "927a689b8dad86f62db30650c476af5afd3b1936529303d5ee29c530e6c6cef7",
+      "source_listing_id": "5020827",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/5020827",
+      "source_url_hash": "1b0c9c9bf61c1d952581e0b0cfdaeaa82dfc7daae60b432bd8edcda47347bd49",
+      "soft_match_fingerprint": "68d5a7de1cb38c1a4825b193bb13ab0a2f20611d4e0e3a102707110a37193900",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-6036435",
@@ -398,7 +454,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "35a08fdfeaec32fca6eda776b8fc8b7ae2a7ec95af6b5a50e07384d48a77eea4"
+      "duplicate_fingerprint": "8e6feef49f8b69bee2f71896c211245ea61e11991662e08669ad6f344574e07e",
+      "source_listing_id": "6036435",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/6036435",
+      "source_url_hash": "8c243e43d0d79cd39db0239bc30fe5b69747a78f927f15a5f6a66c1273c3f410",
+      "soft_match_fingerprint": "5b3a9881f83072013ec9e774d28f316ce57e42bff9ddf01e801c58f8b1b79b44",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-6136497",
@@ -442,7 +505,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "256fc95b8505f543e9ff44abb3ccf00d7a2caaa759e495ee900bd3c8f388bffd"
+      "duplicate_fingerprint": "1e4b4dd9eb7219dc89348a3cee9447ac9dd0bbc62345465f5e982e2c348f8fe3",
+      "source_listing_id": "6136497",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/6136497",
+      "source_url_hash": "1a15d26eab44e2a7b75ad764249f6a6bf2bfed96f425b5fe66c357c53e7bf9db",
+      "soft_match_fingerprint": "b45507595783b578ecc4c6e7caf8eb87df23e143e9237bc096fdc902f848db07",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-5775839",
@@ -486,7 +556,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "fc585d7504e7401cafdac99087528d4206e13ee0a6ded02d8f9d3d3b4a4e0e15"
+      "duplicate_fingerprint": "c8e3343b56b0199207d86d68fc327c5461915e118ec9fc0040ca632da636051c",
+      "source_listing_id": "5775839",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/5775839",
+      "source_url_hash": "3fc28f8397af7be4a9f60b9a11e09edfa445c913b5e5c9238ab5b8a771cd0a10",
+      "soft_match_fingerprint": "5a7ffd5569e3ee5073a7014c20adffcd2ae36a99592b52116867bfc621469ff0",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-6210525",
@@ -530,7 +607,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "98402603f0a4cd2bd39d6e2c4e9a584f9001b89aa7eda9ae7ad8106698df9194"
+      "duplicate_fingerprint": "6770834275b5392d79a0d87228ff0879885e2687b970fa441235cefd506e850c",
+      "source_listing_id": "6210525",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/6210525",
+      "source_url_hash": "cd0b3b4f888c20de151402a574c247eaa8760983c273a1d6746a8f875e88d4bc",
+      "soft_match_fingerprint": "d8d9e3d41b44da30cc46fafe98fa1046664d327225d7be5d9f91a912529c12d3",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-6152203",
@@ -574,7 +658,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "4ecf6ee7d93f6252d1ea53f6d6d20863528a7a2fe32bce4b1ca1c68e9f171edb"
+      "duplicate_fingerprint": "44c0cd270ea135631f50b0e95305d7f05e247443aeea92b6417f520a0653b5e9",
+      "source_listing_id": "6152203",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/6152203",
+      "source_url_hash": "997e00081295f7a1b653d8321fba5ec9fa39f07c3a0d56385747e0855062d78d",
+      "soft_match_fingerprint": "6495810c1c8feb7b48b47346d4069210772c360dabc4af78b5ed4a68eb35695a",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-4164826",
@@ -618,7 +709,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "6c451906bed93675dd34642d8de5fd588db0ca77f74083224f08fc8968c8535c"
+      "duplicate_fingerprint": "4ad53839066788114f6a2da51b03201f455dd7603c8452f905cf98a22379273f",
+      "source_listing_id": "4164826",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/4164826",
+      "source_url_hash": "3911205c3fd83401509d6e87fbca9f2a19ef4425ae189f155df35076281c3b4d",
+      "soft_match_fingerprint": "d6ccf4efe10125010395d3cad937682a3e6b3bd722ae6097d4fabf22e50fed80",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-4479051",
@@ -662,7 +760,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "064bb3461ad1bb44fea3f8e0a8e3551d4e67cbb51b9acf373e5acfcc00971c32"
+      "duplicate_fingerprint": "ffd6138e5e9f90fa60e49cd51f19823ca0d755a38db0bdc8c90d9cc671e5e5c8",
+      "source_listing_id": "4479051",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/4479051",
+      "source_url_hash": "b41cb3785647bbae105fef0ce35cd71f8f3b29c45dc08bbb4aacc09b8c7c5289",
+      "soft_match_fingerprint": "13aa3b015303128acffeae99d11f6ac040614decea6db0f9afc37a694da1fcd0",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-5157561",
@@ -706,7 +811,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "2500ad44bb986b6ffde8209c175eec706244a448b5698e9ff8229f2783b04fba"
+      "duplicate_fingerprint": "21b93a43cb5638a772e1ee5838796b3cfaf574ffb9d3d70ff42ba8b66c70f55d",
+      "source_listing_id": "5157561",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/5157561",
+      "source_url_hash": "911edb720bbffe76c95442c32120ca3e282401504074dc247b89bbbd4c161834",
+      "soft_match_fingerprint": "5280b5f619b23f16877d10845b1d267002eb204d332590cbc30b1c0a0a504cf6",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-5511022",
@@ -750,7 +862,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "ca00b842fe36d1d6bc6fd527247096a60ae423a8fb928f86473a1184016438b1"
+      "duplicate_fingerprint": "1dd448e5da2633c62e358d8236d6a7020dceae7523b992e05ac7218742bbd632",
+      "source_listing_id": "5511022",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/5511022",
+      "source_url_hash": "35a0c0a5e6577c08bc87761ee04e6cda68541461cac04b987921d5608c79926f",
+      "soft_match_fingerprint": "99dfcdad13535e99ba16c724a930b41e0b97459d355553a3341cc3815266b458",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-5761491",
@@ -794,7 +913,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "927a8cb4692c8e3cdb5b50f2fd841882044648d6bb0f748d0823fa15f9fac348"
+      "duplicate_fingerprint": "8e1218c57b3c03f3cf13c8bb072d4439dbbb89e4fa04861b8b59e63ba5a6b29a",
+      "source_listing_id": "5761491",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/5761491",
+      "source_url_hash": "193595f8404f156471cb0b4116d97deed709be28cbe25818fe36c01ec7c2eb50",
+      "soft_match_fingerprint": "44d220ea77cc4e2e6bcc407b4e8ad445d61d3fd28db5522bc06aca2723a9c59c",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-6103237",
@@ -838,7 +964,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "c7314509afdb77b1a5f77eb91347dc45072700b8207fe0b783866362e1381466"
+      "duplicate_fingerprint": "645c16a3324986843f1023cfbaf441e6a8102ecbb8a66f221095d8bbb81dd4eb",
+      "source_listing_id": "6103237",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/6103237",
+      "source_url_hash": "6054950babe2836e02306dde5de71fb1c5c2a99e7846861bb9aebd6325354c89",
+      "soft_match_fingerprint": "46d79c7a5817823c0627b3b4542ae50ec85a625d1ac9c4e8dc38c12657eb301a",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     },
     {
       "external_ref": "propertyhub-6166463",
@@ -882,7 +1015,14 @@
       "publish_ready": true,
       "latitude": 13.720856043232146,
       "longitude": 100.57638583682271,
-      "duplicate_fingerprint": "e4d31b322e2d67f14ef070e73156b3bad2b860d8812d2a628f667816d0324255"
+      "duplicate_fingerprint": "19975452b3f2108fac8b66ab174d775001e4e9474813161ea2b0a68300d2378d",
+      "source_listing_id": "6166463",
+      "normalized_source_url": "https://propertyhub.in.th/en/listings/6166463",
+      "source_url_hash": "c4345970ffc9992b25abf4e07203417df8e7acaf3c0252f69a46102f7cab5e40",
+      "soft_match_fingerprint": "a6b32e2e3e1c208be6b996a0c95d75f729f2f834640665c569086b755a8bc3d7",
+      "listing_lifecycle_status": "active",
+      "last_seen_at": "2026-07-14",
+      "last_verified_at": "2026-07-14"
     }
   ]
 }
