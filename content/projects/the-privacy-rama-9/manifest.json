@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "The Privacy Rama 9 official / developer page",
       "url": "https://www.pruksa.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/the-privacy-rama-9"
     }
   ],
   "developer": {
@@ -55,13 +60,15 @@
       "th": "สวนหลวง กรุงเทพฯ"
     },
     "postal_code": "10250",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.7445427614678,
+    "longitude": 100.6027282628988,
+    "google_maps_url": "https://www.google.com/maps?q=13.7445427614678,100.6027282628988",
     "official_website": "https://www.pruksa.com/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": [],
+    "facebook_url": "https://www.facebook.com/PruksaOfficial",
+    "completion_year": 2019,
+    "transit_tags": [
+      "arl"
+    ],
     "seo": {
       "title": {
         "en": "The Privacy Rama 9 Condo in Suan Luang, Bangkok | GoThailandHome",
@@ -73,6 +80,414 @@
         "zh": "The Privacy 拉玛九项目页（曼谷素万銮），来源为开发商官方站点。",
         "th": "หน้าโครงการ เดอะ ไพรเวซี่ พระราม 9 เขตสวนหลวง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Khlong Kacha School",
+          "zh": "Khlong Kacha School",
+          "th": "Khlong Kacha School"
+        },
+        "distance_m": 4113,
+        "slug": "khlong-kacha-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Ramkhamhaeng University Demonstration Schoo",
+          "zh": "Ramkhamhaeng University Demonstration Schoo",
+          "th": "Ramkhamhaeng University Demonstration Schoo"
+        },
+        "distance_m": 1778,
+        "slug": "ramkhamhaeng-university-demonstration-schoo",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": " Thai-Japanese Association School",
+          "zh": " Thai-Japanese Association School",
+          "th": " Thai-Japanese Association School"
+        },
+        "distance_m": 3569,
+        "slug": "thai-japanese-association-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Lycée Français International de Bangkok",
+          "zh": "Lycée Français International de Bangkok",
+          "th": "Lycée Français International de Bangkok"
+        },
+        "distance_m": 4277,
+        "slug": "lycée-français-international-de-bangkok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Wijit Withaya School",
+          "zh": "Wijit Withaya School",
+          "th": "Wijit Withaya School"
+        },
+        "distance_m": 1428,
+        "slug": "wijit-withaya-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thawsi School ",
+          "zh": "Thawsi School ",
+          "th": "Thawsi School "
+        },
+        "distance_m": 1888,
+        "slug": "thawsi-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thai Christian School",
+          "zh": "Thai Christian School",
+          "th": "Thai Christian School"
+        },
+        "distance_m": 1752,
+        "slug": "thai-christian-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Ratchaphak Technology And Management College",
+          "zh": "Ratchaphak Technology And Management College",
+          "th": "Ratchaphak Technology And Management College"
+        },
+        "distance_m": 2751,
+        "slug": "ratchaphak-technology-and-management-college",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Camillian Hospital",
+          "zh": "Camillian Hospital",
+          "th": "Camillian Hospital"
+        },
+        "distance_m": 2968,
+        "slug": "camillian-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok Hospital",
+          "zh": "Bangkok Hospital",
+          "th": "Bangkok Hospital"
+        },
+        "distance_m": 2735,
+        "slug": "bangkok-hospital--af4c09c5",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Piyawet Hospital",
+          "zh": "Piyawet Hospital",
+          "th": "Piyawet Hospital"
+        },
+        "distance_m": 3308,
+        "slug": "piyawet-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Klong Tan Hospital ",
+          "zh": "Klong Tan Hospital ",
+          "th": "Klong Tan Hospital "
+        },
+        "distance_m": 1196,
+        "slug": "klong-tan-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Petcharavej Hospital",
+          "zh": "Petcharavej Hospital",
+          "th": "Petcharavej Hospital"
+        },
+        "distance_m": 1100,
+        "slug": "petcharavej-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Big C Extra On Nut",
+          "zh": "Big C Extra On Nut",
+          "th": "Big C Extra On Nut"
+        },
+        "distance_m": 4730,
+        "slug": "big-c-extra-on-nut",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Hua Mak",
+          "zh": "Big C Super Center Hua Mak",
+          "th": "Big C Super Center Hua Mak"
+        },
+        "distance_m": 1733,
+        "slug": "big-c-super-center-hua-mak",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Rama 9",
+          "zh": "HomePro Rama 9",
+          "th": "HomePro Rama 9"
+        },
+        "distance_m": 1561,
+        "slug": "homepro-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Foodland Hua Mark",
+          "zh": "Foodland Hua Mark",
+          "th": "Foodland Hua Mark"
+        },
+        "distance_m": 864,
+        "slug": "foodland-hua-mark",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Foodland Petchburi",
+          "zh": "Foodland Petchburi",
+          "th": "Foodland Petchburi"
+        },
+        "distance_m": 1507,
+        "slug": "foodland-petchburi",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "DONKI Mall Thonglor  ",
+          "zh": "DONKI Mall Thonglor  ",
+          "th": "DONKI Mall Thonglor  "
+        },
+        "distance_m": null,
+        "slug": "donki-mall-thonglor",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Major Hollywood Ramkhamhaeng",
+          "zh": "Major Hollywood Ramkhamhaeng",
+          "th": "Major Hollywood Ramkhamhaeng"
+        },
+        "distance_m": 1950,
+        "slug": "major-hollywood-ramkhamhaeng",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Mall 2 Ramkhamhaeng",
+          "zh": "The Mall 2 Ramkhamhaeng",
+          "th": "The Mall 2 Ramkhamhaeng"
+        },
+        "distance_m": 1267,
+        "slug": "the-mall-2-ramkhamhaeng",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Big C Extra On Nut",
+          "zh": "Big C Extra On Nut",
+          "th": "Big C Extra On Nut"
+        },
+        "distance_m": 4730,
+        "slug": "big-c-extra-on-nut",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Hua Mak",
+          "zh": "Big C Super Center Hua Mak",
+          "th": "Big C Super Center Hua Mak"
+        },
+        "distance_m": 1733,
+        "slug": "big-c-super-center-hua-mak",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Rama 9",
+          "zh": "HomePro Rama 9",
+          "th": "HomePro Rama 9"
+        },
+        "distance_m": 1561,
+        "slug": "homepro-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Foodland Hua Mark",
+          "zh": "Foodland Hua Mark",
+          "th": "Foodland Hua Mark"
+        },
+        "distance_m": 864,
+        "slug": "foodland-hua-mark",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Foodland Petchburi",
+          "zh": "Foodland Petchburi",
+          "th": "Foodland Petchburi"
+        },
+        "distance_m": 1507,
+        "slug": "foodland-petchburi",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "DONKI Mall Thonglor  ",
+          "zh": "DONKI Mall Thonglor  ",
+          "th": "DONKI Mall Thonglor  "
+        },
+        "distance_m": null,
+        "slug": "donki-mall-thonglor",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Major Hollywood Ramkhamhaeng",
+          "zh": "Major Hollywood Ramkhamhaeng",
+          "th": "Major Hollywood Ramkhamhaeng"
+        },
+        "distance_m": 1950,
+        "slug": "major-hollywood-ramkhamhaeng",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Mall 2 Ramkhamhaeng",
+          "zh": "The Mall 2 Ramkhamhaeng",
+          "th": "The Mall 2 Ramkhamhaeng"
+        },
+        "distance_m": 1267,
+        "slug": "the-mall-2-ramkhamhaeng",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2019.",
+          "zh": "PropertyHub 记载完工年份为 2019。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2019"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 854 total units.",
+          "zh": "PropertyHub 记载总套数为 854。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 854"
+        }
+      }
+    ]
   }
 }

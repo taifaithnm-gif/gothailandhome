@@ -1,0 +1,888 @@
+{
+  "project_slug": "maestro-03-ratchada-rama-9",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-6077812",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7800000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66.14,
+      "floor_label": "4",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "Best Value 2BR Condo in Rama 9 | Renovated, 12.39% Below Market - U6294537",
+        "zh": "Best Value 2BR Condo in Rama 9 | Renovated, 12.39% Below Market - U6294537",
+        "th": "Best Value 2BR Condo in Rama 9 | Renovated, 12.39% Below Market - U6294537"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 66.14 sq.m., 7,800,000 THB. Source PropertyHub #6077812.",
+        "zh": "出售：2卧，66.14㎡，7,800,000 泰铢。来源 PropertyHub #6077812。",
+        "th": "ขาย: 2 นอน 66.14 ตร.ม. ราคา 7,800,000 บาท (PropertyHub #6077812)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6077812. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6077812。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6077812 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/best-value-2br-condo-in-rama-9-renovated-12-39-below-market-u6294537---6077812",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "650fa28db5beb48029c26040a457e953b2ba2477e848af9e9deff98c913a55e8"
+    },
+    {
+      "external_ref": "propertyhub-6165017",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3100000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29.66,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Sale Condo , Maestro 03 Ratchada -Rama 9 , MRT-Phra Ram 9 , Din Daeng , Din Daeng , Bangkok , CX-158616 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Sale Condo , Maestro 03 Ratchada -Rama 9 , MRT-Phra Ram 9 , Din Daeng , Din Daeng , Bangkok , CX-158616 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Sale Condo , Maestro 03 Ratchada -Rama 9 , MRT-Phra Ram 9 , Din Daeng , Din Daeng , Bangkok , CX-158616 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 29.66 sq.m., 3,100,000 THB. Source PropertyHub #6165017.",
+        "zh": "出售：1卧，29.66㎡，3,100,000 泰铢。来源 PropertyHub #6165017。",
+        "th": "ขาย: 1 นอน 29.66 ตร.ม. ราคา 3,100,000 บาท (PropertyHub #6165017)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6165017. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6165017。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6165017 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-maestro-03-ratchada-rama-9-mrt-phra-ram-9-din-daeng-din-daeng-bangkok-cx-158616-live-chat-with-us-add-line-connexproperty---6165017",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "fda8871bcf1557d009f55864f6210eff4882485eed76e407807b57989da3a0b3"
+    },
+    {
+      "external_ref": "propertyhub-6204649",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3390000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building 1, Floor 7,1 bed room, Room size 29 sqm",
+        "zh": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building 1, Floor 7,1 bed room, Room size 29 sqm",
+        "th": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building 1, Floor 7,1 bed room, Room size 29 sqm"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 29 sq.m., 3,390,000 THB. Source PropertyHub #6204649.",
+        "zh": "出售：1卧，29㎡，3,390,000 泰铢。来源 PropertyHub #6204649。",
+        "th": "ขาย: 1 นอน 29 ตร.ม. ราคา 3,390,000 บาท (PropertyHub #6204649)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6204649. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6204649。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6204649 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-maestro-03-ratchada-rama-9-building-1-floor-7-1-bed-room-room-size-29-sqm--b2a10987---6204649",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "63df64352d95c451baae24b888e6e874ff97fa300d5218c77e00436738cf3efc"
+    },
+    {
+      "external_ref": "propertyhub-6121711",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2850000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building A, Floor 5,1 bed room, Room size 29 sqm",
+        "zh": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building A, Floor 5,1 bed room, Room size 29 sqm",
+        "th": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building A, Floor 5,1 bed room, Room size 29 sqm"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 29 sq.m., 2,850,000 THB. Source PropertyHub #6121711.",
+        "zh": "出售：1卧，29㎡，2,850,000 泰铢。来源 PropertyHub #6121711。",
+        "th": "ขาย: 1 นอน 29 ตร.ม. ราคา 2,850,000 บาท (PropertyHub #6121711)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6121711. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6121711。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6121711 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-maestro-03-ratchada-rama-9-building-a-floor-5-1-bed-room-room-size-29-sqm--a1f108e9---6121711",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "46ec6e41e8fa7ef502b373774cebfe2ae95de5e57e6cd5821a711a86480cb5a9"
+    },
+    {
+      "external_ref": "propertyhub-6204654",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "2",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building B, Floor 2,1 bed room, Room size 29 sqm",
+        "zh": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building B, Floor 2,1 bed room, Room size 29 sqm",
+        "th": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building B, Floor 2,1 bed room, Room size 29 sqm"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 29 sq.m., 3,200,000 THB. Source PropertyHub #6204654.",
+        "zh": "出售：1卧，29㎡，3,200,000 泰铢。来源 PropertyHub #6204654。",
+        "th": "ขาย: 1 นอน 29 ตร.ม. ราคา 3,200,000 บาท (PropertyHub #6204654)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6204654. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6204654。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6204654 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-maestro-03-ratchada-rama-9-building-b-floor-2-1-bed-room-room-size-29-sqm--c4740a05---6204654",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "a3137c8bfbd81c019751fd2bca6b8cb889e42d54e15fe9a6156b71bccb8beec9"
+    },
+    {
+      "external_ref": "propertyhub-6189246",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3390000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building 1, Floor 7,1 bed room, Room size 29 sqm",
+        "zh": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building 1, Floor 7,1 bed room, Room size 29 sqm",
+        "th": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building 1, Floor 7,1 bed room, Room size 29 sqm"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 29 sq.m., 3,390,000 THB. Source PropertyHub #6189246.",
+        "zh": "出售：1卧，29㎡，3,390,000 泰铢。来源 PropertyHub #6189246。",
+        "th": "ขาย: 1 นอน 29 ตร.ม. ราคา 3,390,000 บาท (PropertyHub #6189246)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6189246. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6189246。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6189246 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-maestro-03-ratchada-rama-9-building-1-floor-7-1-bed-room-room-size-29-sqm--a3a90907---6189246",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "bcdd5835f3b8973e6386f81eabfc7947455235671e964df6dd89015304151152"
+    },
+    {
+      "external_ref": "propertyhub-5854586",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8600000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 57.2,
+      "floor_label": "2",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "Maestro 03 Ratchada-Rama 9 - Din Daeng, Bangkok 6083033",
+        "zh": "Maestro 03 Ratchada-Rama 9 - Din Daeng, Bangkok 6083033",
+        "th": "Maestro 03 Ratchada-Rama 9 - Din Daeng, Bangkok 6083033"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 57.2 sq.m., 8,600,000 THB. Source PropertyHub #5854586.",
+        "zh": "出售：2卧，57.2㎡，8,600,000 泰铢。来源 PropertyHub #5854586。",
+        "th": "ขาย: 2 นอน 57.2 ตร.ม. ราคา 8,600,000 บาท (PropertyHub #5854586)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5854586. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5854586。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5854586 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/maestro-03-ratchada-rama-9-din-daeng-bangkok-6083033---5854586",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "3069066a2ade8258cc845389d8b51563430d034f32b185ceed46b397dfa252f0"
+    },
+    {
+      "external_ref": "propertyhub-5559592",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "Maestro 03 Rama 09 631570",
+        "zh": "Maestro 03 Rama 09 631570",
+        "th": "Maestro 03 Rama 09 631570"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 29 sq.m., 4,400,000 THB. Source PropertyHub #5559592.",
+        "zh": "出售：1卧，29㎡，4,400,000 泰铢。来源 PropertyHub #5559592。",
+        "th": "ขาย: 1 นอน 29 ตร.ม. ราคา 4,400,000 บาท (PropertyHub #5559592)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5559592. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5559592。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5559592 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/maestro-03-rama-09-631570--a54c08f0---5559592",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "bd77df89ea1506f10b133a6631d645fdbc01eab7f84b5aac2bf38497c4c8bb28"
+    },
+    {
+      "external_ref": "propertyhub-5973326",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33.5,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "Pet-Friendly Condo in Rama9! – Maestro 03 5606257",
+        "zh": "Pet-Friendly Condo in Rama9! – Maestro 03 5606257",
+        "th": "Pet-Friendly Condo in Rama9! – Maestro 03 5606257"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 33.5 sq.m., 3,600,000 THB. Source PropertyHub #5973326.",
+        "zh": "出售：1卧，33.5㎡，3,600,000 泰铢。来源 PropertyHub #5973326。",
+        "th": "ขาย: 1 นอน 33.5 ตร.ม. ราคา 3,600,000 บาท (PropertyHub #5973326)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5973326. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5973326。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5973326 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/pet-friendly-condo-in-rama9-maestro-03-5606257---5973326",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "508044eb7c8a0149b3ee8c9d123cf47e277dd3ee04688b62667db15978211f64"
+    },
+    {
+      "external_ref": "propertyhub-6101556",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3100000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building A, Floor 5,1 bed room, Room size 29 sqm",
+        "zh": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building A, Floor 5,1 bed room, Room size 29 sqm",
+        "th": "For Sell Condo MAESTRO 03 RATCHADA-RAMA 9 Building A, Floor 5,1 bed room, Room size 29 sqm"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 29 sq.m., 3,100,000 THB. Source PropertyHub #6101556.",
+        "zh": "出售：1卧，29㎡，3,100,000 泰铢。来源 PropertyHub #6101556。",
+        "th": "ขาย: 1 นอน 29 ตร.ม. ราคา 3,100,000 บาท (PropertyHub #6101556)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6101556. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6101556。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6101556 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-maestro-03-ratchada-rama-9-building-a-floor-5-1-bed-room-room-size-29-sqm--b1fb0993---6101556",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "a23a7d1359ac579f31921aca8833b535b65b33f8394ef1798d7ee0113bd8b320"
+    },
+    {
+      "external_ref": "propertyhub-5880329",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29.23,
+      "floor_label": "xx",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "Pet friendly 1 Bed Large Room  City view Good Location Close To  MRT Rama9 @  Maestro 03 Ratchada Rama 9",
+        "zh": "Pet friendly 1 Bed Large Room  City view Good Location Close To  MRT Rama9 @  Maestro 03 Ratchada Rama 9",
+        "th": "Pet friendly 1 Bed Large Room  City view Good Location Close To  MRT Rama9 @  Maestro 03 Ratchada Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 29.23 sq.m., 17,000 THB. Source PropertyHub #5880329.",
+        "zh": "出租：1卧，29.23㎡，17,000 泰铢。来源 PropertyHub #5880329。",
+        "th": "เช่า: 1 นอน 29.23 ตร.ม. ราคา 17,000 บาท (PropertyHub #5880329)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5880329. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5880329。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5880329 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/pet-friendly-1-bed-large-room-city-view-good-location-close-to-mrt-rama9-maestro-03-ratchada-rama-9---5880329",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "872afcef73c2ccb6a7db992f40c966d4e742331573574a8a00938b37e9509e37"
+    },
+    {
+      "external_ref": "propertyhub-6215488",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15999,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "🍀 For Rent Maestro 03 Ratchada - Rama 9 🍀 Add Line ID: @zcondo (with@) 🔥 Z5096",
+        "zh": "🍀 For Rent Maestro 03 Ratchada - Rama 9 🍀 Add Line ID: @zcondo (with@) 🔥 Z5096",
+        "th": "🍀 For Rent Maestro 03 Ratchada - Rama 9 🍀 Add Line ID: @zcondo (with@) 🔥 Z5096"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 15,999 THB. Source PropertyHub #6215488.",
+        "zh": "出租：1卧，30㎡，15,999 泰铢。来源 PropertyHub #6215488。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 15,999 บาท (PropertyHub #6215488)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6215488. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6215488。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6215488 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-maestro-03-ratchada-rama-9-add-line-id-zcondo-with-z5096---6215488",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "7ba0f15a63f02e835463fd25b0f0e30e7f9b72b38340e5493ae88d4abdebf499"
+    },
+    {
+      "external_ref": "propertyhub-6164862",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , Maestro 03 Ratchada -Rama 9 , MRT-Phra Ram 9 , Din Daeng , Din Daeng , Bangkok , CX-41079 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , Maestro 03 Ratchada -Rama 9 , MRT-Phra Ram 9 , Din Daeng , Din Daeng , Bangkok , CX-41079 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , Maestro 03 Ratchada -Rama 9 , MRT-Phra Ram 9 , Din Daeng , Din Daeng , Bangkok , CX-41079 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 32 sq.m., 18,000 THB. Source PropertyHub #6164862.",
+        "zh": "出租：1卧，32㎡，18,000 泰铢。来源 PropertyHub #6164862。",
+        "th": "เช่า: 1 นอน 32 ตร.ม. ราคา 18,000 บาท (PropertyHub #6164862)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6164862. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6164862。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6164862 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-maestro-03-ratchada-rama-9-mrt-phra-ram-9-din-daeng-din-daeng-bangkok-cx-41079-live-chat-with-us-add-line-connexproperty---6164862",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "0fcec39f8b2311905af626d38a8529e2cb89cc274fe974d2db3dd257d22b4d37"
+    },
+    {
+      "external_ref": "propertyhub-6212877",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm",
+        "zh": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm",
+        "th": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 66 sq.m., 35,000 THB. Source PropertyHub #6212877.",
+        "zh": "出租：2卧，66㎡，35,000 泰铢。来源 PropertyHub #6212877。",
+        "th": "เช่า: 2 นอน 66 ตร.ม. ราคา 35,000 บาท (PropertyHub #6212877)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6212877. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6212877。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6212877 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-maestro-03-ratchada-rama-9-building-c-floor-5-2-bed-room-room-size-66-sqm--97e608cb---6212877",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "a6b1b3c44c94b6b5d963930cc96e8ec8c95940122f4eea04c8b4ff031adae672"
+    },
+    {
+      "external_ref": "propertyhub-6212900",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm",
+        "zh": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm",
+        "th": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 66 sq.m., 35,000 THB. Source PropertyHub #6212900.",
+        "zh": "出租：2卧，66㎡，35,000 泰铢。来源 PropertyHub #6212900。",
+        "th": "เช่า: 2 นอน 66 ตร.ม. ราคา 35,000 บาท (PropertyHub #6212900)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6212900. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6212900。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6212900 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-maestro-03-ratchada-rama-9-building-c-floor-5-2-bed-room-room-size-66-sqm--bd5c0a59---6212900",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "81a77cdce120b00bc21fd2e33ad219b122424bc21cc92a27d96bb9f4ff525c2a"
+    },
+    {
+      "external_ref": "propertyhub-6209901",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm",
+        "zh": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm",
+        "th": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 66 sq.m., 35,000 THB. Source PropertyHub #6209901.",
+        "zh": "出租：2卧，66㎡，35,000 泰铢。来源 PropertyHub #6209901。",
+        "th": "เช่า: 2 นอน 66 ตร.ม. ราคา 35,000 บาท (PropertyHub #6209901)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6209901. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6209901。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6209901 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-maestro-03-ratchada-rama-9-building-c-floor-5-2-bed-room-room-size-66-sqm--b5960a46---6209901",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "f36cc217db515b4d36368512bf11ba06fc156f6947c21842ef011280b9aa9a07"
+    },
+    {
+      "external_ref": "propertyhub-6212946",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm",
+        "zh": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm",
+        "th": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 66 sq.m., 35,000 THB. Source PropertyHub #6212946.",
+        "zh": "出租：2卧，66㎡，35,000 泰铢。来源 PropertyHub #6212946。",
+        "th": "เช่า: 2 นอน 66 ตร.ม. ราคา 35,000 บาท (PropertyHub #6212946)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6212946. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6212946。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6212946 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-maestro-03-ratchada-rama-9-building-c-floor-5-2-bed-room-room-size-66-sqm--b4040a2c---6212946",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "fd1141fe8e78a7b49b4433b13dd88f41543c742c540322eb7425a556c0e46470"
+    },
+    {
+      "external_ref": "propertyhub-6209796",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm",
+        "zh": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm",
+        "th": "For Rent Condo MAESTRO 03 RATCHADA-RAMA 9 Building C, Floor 5,2 bed room, Room size 66 sqm"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 66 sq.m., 35,000 THB. Source PropertyHub #6209796.",
+        "zh": "出租：2卧，66㎡，35,000 泰铢。来源 PropertyHub #6209796。",
+        "th": "เช่า: 2 นอน 66 ตร.ม. ราคา 35,000 บาท (PropertyHub #6209796)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6209796. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6209796。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6209796 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-maestro-03-ratchada-rama-9-building-c-floor-5-2-bed-room-room-size-66-sqm--b84f0a35---6209796",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "5a0aea7684ae50fa423eac517fdda2713070154b779e311718b47808c2a42f97"
+    },
+    {
+      "external_ref": "propertyhub-6200438",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "4",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "(Pet Friendly 🐶🐱) Code: 26KJ3506  for rent Maestro 03 Ratchada - Rama 9 🔥🔥 Line ID: @kjcondo (with @)🔥🔥",
+        "zh": "(Pet Friendly 🐶🐱) Code: 26KJ3506  for rent Maestro 03 Ratchada - Rama 9 🔥🔥 Line ID: @kjcondo (with @)🔥🔥",
+        "th": "(Pet Friendly 🐶🐱) Code: 26KJ3506  for rent Maestro 03 Ratchada - Rama 9 🔥🔥 Line ID: @kjcondo (with @)🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 29 sq.m., 15,000 THB. Source PropertyHub #6200438.",
+        "zh": "出租：1卧，29㎡，15,000 泰铢。来源 PropertyHub #6200438。",
+        "th": "เช่า: 1 นอน 29 ตร.ม. ราคา 15,000 บาท (PropertyHub #6200438)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6200438. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6200438。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6200438 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/pet-friendly-code-26kj3506-for-rent-maestro-03-ratchada-rama-9-line-id-kjcondo-with---6200438",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "4a7f822e31d883f7947df03366e6a793996d4ae8a090fd69b8bdecc53c9dc62d"
+    },
+    {
+      "external_ref": "propertyhub-4663265",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 36000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66,
+      "floor_label": "3",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "P282 Condo for rent Maestro 03 Ratchada-Rama9,2 bedrooms,Petfriendly condo, beautiful room, fully furnished, special price, ready to move in",
+        "zh": "P282 Condo for rent Maestro 03 Ratchada-Rama9,2 bedrooms,Petfriendly condo, beautiful room, fully furnished, special price, ready to move in",
+        "th": "P282 Condo for rent Maestro 03 Ratchada-Rama9,2 bedrooms,Petfriendly condo, beautiful room, fully furnished, special price, ready to move in"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 66 sq.m., 36,000 THB. Source PropertyHub #4663265.",
+        "zh": "出租：2卧，66㎡，36,000 泰铢。来源 PropertyHub #4663265。",
+        "th": "เช่า: 2 นอน 66 ตร.ม. ราคา 36,000 บาท (PropertyHub #4663265)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4663265. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4663265。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4663265 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/p282-condo-for-rent-maestro-03-ratchada-rama9-2-bedrooms-petfriendly-condo-beautiful-room-fully-furnished-special-price-ready-to-move-in---4663265",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.762672913088576,
+      "longitude": 100.56487046445274,
+      "duplicate_fingerprint": "2df9ddc4dd1cc0529832ea3cbbbbf00af27a768790e08b01f79ca8182dc85238"
+    }
+  ]
+}

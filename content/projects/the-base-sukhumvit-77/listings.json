@@ -1,0 +1,888 @@
+{
+  "project_slug": "the-base-sukhumvit-77",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-4401337",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2950000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "P-37202 Condo for sale The Base Sukhumvit 77  fully furnished with tenant.",
+        "zh": "P-37202 Condo for sale The Base Sukhumvit 77  fully furnished with tenant.",
+        "th": "P-37202 Condo for sale The Base Sukhumvit 77  fully furnished with tenant."
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 2,950,000 THB. Source PropertyHub #4401337.",
+        "zh": "出售：1卧，30㎡，2,950,000 泰铢。来源 PropertyHub #4401337。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 2,950,000 บาท (PropertyHub #4401337)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4401337. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4401337。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4401337 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/p-37202-condo-for-sale-the-base-sukhumvit-77-fully-furnished-with-tenant---4401337",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "04dd638451438ecec96d095f2905bbd276558c64e08f630fee56e5dfa6b2e4a4"
+    },
+    {
+      "external_ref": "propertyhub-4593982",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "31",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🏢Condo for for sell The Base Sukhumvit 77 fully furnished.",
+        "zh": "🏢Condo for for sell The Base Sukhumvit 77 fully furnished.",
+        "th": "🏢Condo for for sell The Base Sukhumvit 77 fully furnished."
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 2,900,000 THB. Source PropertyHub #4593982.",
+        "zh": "出售：1卧，30㎡，2,900,000 泰铢。来源 PropertyHub #4593982。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 2,900,000 บาท (PropertyHub #4593982)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4593982. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4593982。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4593982 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-for-sell-the-base-sukhumvit-77-fully-furnished---4593982",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "03d4196bf4c15fd59dce68ff886b30fe262634439b36a1eb41373997e2745090"
+    },
+    {
+      "external_ref": "propertyhub-4847896",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 15300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 50,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "The Address Siam Ratchathewi 1 bedroom, for sale",
+        "zh": "The Address Siam Ratchathewi 1 bedroom, for sale",
+        "th": "The Address Siam Ratchathewi 1 bedroom, for sale"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 50 sq.m., 15,300,000 THB. Source PropertyHub #4847896.",
+        "zh": "出售：1卧，50㎡，15,300,000 泰铢。来源 PropertyHub #4847896。",
+        "th": "ขาย: 1 นอน 50 ตร.ม. ราคา 15,300,000 บาท (PropertyHub #4847896)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4847896. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4847896。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4847896 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-address-siam-ratchathewi-1-bedroom-for-sale---4847896",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "3a664e9f43f3be1a1d919ccebcbc4d6d84df2e27009a3551a8a8a68906a289e3"
+    },
+    {
+      "external_ref": "propertyhub-5866911",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4990000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 60,
+      "floor_label": "28",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Sale Condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-113936 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Sale Condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-113936 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Sale Condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-113936 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 60 sq.m., 4,990,000 THB. Source PropertyHub #5866911.",
+        "zh": "出售：2卧，60㎡，4,990,000 泰铢。来源 PropertyHub #5866911。",
+        "th": "ขาย: 2 นอน 60 ตร.ม. ราคา 4,990,000 บาท (PropertyHub #5866911)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5866911. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5866911。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5866911 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-the-base-sukhumvit-77-bts-on-nut-phra-khanong-nuea-watthana-bangkok-cx-113936-live-chat-with-us-add-line-connexproperty--ab2b08d4---5866911",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "0488a814d43746bf95eac09a8542c30b9cd65e134a7d5e952d0aaae24eaf3971"
+    },
+    {
+      "external_ref": "propertyhub-5872188",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2883000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "35",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "P-38642 Stunning City View! The Base Sukhumvit 77 1 Bed Near Onnut BTS - Great Price! | Line Id @easythaihome | +66(0)85-592-2897",
+        "zh": "P-38642 Stunning City View! The Base Sukhumvit 77 1 Bed Near Onnut BTS - Great Price! | Line Id @easythaihome | +66(0)85-592-2897",
+        "th": "P-38642 Stunning City View! The Base Sukhumvit 77 1 Bed Near Onnut BTS - Great Price! | Line Id @easythaihome | +66(0)85-592-2897"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 2,883,000 THB. Source PropertyHub #5872188.",
+        "zh": "出售：1卧，30㎡，2,883,000 泰铢。来源 PropertyHub #5872188。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 2,883,000 บาท (PropertyHub #5872188)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5872188. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5872188。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5872188 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/p-38642-stunning-city-view-the-base-sukhumvit-77-1-bed-near-onnut-bts-great-price-line-id-easythaihome-66-0-85-592-2897---5872188",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "ace20a2749b5d4b33c4bfe656287a7fba7017c4cfc1adfa47dc1787ee7aba1e9"
+    },
+    {
+      "external_ref": "propertyhub-5428727",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3350000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30.34,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "The Base Sukhumvit 77 – Near BTS On Nut 5720514",
+        "zh": "The Base Sukhumvit 77 – Near BTS On Nut 5720514",
+        "th": "The Base Sukhumvit 77 – Near BTS On Nut 5720514"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30.34 sq.m., 3,350,000 THB. Source PropertyHub #5428727.",
+        "zh": "出售：1卧，30.34㎡，3,350,000 泰铢。来源 PropertyHub #5428727。",
+        "th": "ขาย: 1 นอน 30.34 ตร.ม. ราคา 3,350,000 บาท (PropertyHub #5428727)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5428727. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5428727。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5428727 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-base-sukhumvit-77-near-bts-on-nut-5720514---5428727",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "ed976fd6f244031b17d8f7f0b67ed2e29d69345bd0a9d55d54e7c24fa790704c"
+    },
+    {
+      "external_ref": "propertyhub-5429445",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3100000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Bangkok&apos;s Best, Boutique Condo at Base Sukhumvit 77! 1044982",
+        "zh": "Bangkok&apos;s Best, Boutique Condo at Base Sukhumvit 77! 1044982",
+        "th": "Bangkok&apos;s Best, Boutique Condo at Base Sukhumvit 77! 1044982"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 31 sq.m., 3,100,000 THB. Source PropertyHub #5429445.",
+        "zh": "出售：1卧，31㎡，3,100,000 泰铢。来源 PropertyHub #5429445。",
+        "th": "ขาย: 1 นอน 31 ตร.ม. ราคา 3,100,000 บาท (PropertyHub #5429445)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5429445. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5429445。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5429445 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/bangkok-apos-s-best-boutique-condo-at-base-sukhumvit-77-1044982---5429445",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "5498d2f70fa3e02061cefc9328f14f27020d0ad9303ccde21b8c635dfc2464aa"
+    },
+    {
+      "external_ref": "propertyhub-5647353",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "THE BASE Sukhumvit 77 5904779",
+        "zh": "THE BASE Sukhumvit 77 5904779",
+        "th": "THE BASE Sukhumvit 77 5904779"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 2,990,000 THB. Source PropertyHub #5647353.",
+        "zh": "出售：1卧，30㎡，2,990,000 泰铢。来源 PropertyHub #5647353。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 2,990,000 บาท (PropertyHub #5647353)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5647353. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5647353。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5647353 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-base-sukhumvit-77-5904779---5647353",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "feee886cfbd8ab3eab47571758f2a03074a34588a399278e7010fec95883aa6e"
+    },
+    {
+      "external_ref": "propertyhub-5989510",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3190000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "24",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "The Base Sukhumvit 77 6203014",
+        "zh": "The Base Sukhumvit 77 6203014",
+        "th": "The Base Sukhumvit 77 6203014"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 3,190,000 THB. Source PropertyHub #5989510.",
+        "zh": "出售：1卧，30㎡，3,190,000 泰铢。来源 PropertyHub #5989510。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 3,190,000 บาท (PropertyHub #5989510)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5989510. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5989510。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5989510 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-base-sukhumvit-77-6203014---5989510",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "67d441ae63291767d38230fea5130ec70e99402f369279eaf32fee71508dce10"
+    },
+    {
+      "external_ref": "propertyhub-6036586",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3999000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "SALE RENT HIGH FLOOR BASE77 6248193",
+        "zh": "SALE RENT HIGH FLOOR BASE77 6248193",
+        "th": "SALE RENT HIGH FLOOR BASE77 6248193"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 3,999,000 THB. Source PropertyHub #6036586.",
+        "zh": "出售：1卧，30㎡，3,999,000 泰铢。来源 PropertyHub #6036586。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 3,999,000 บาท (PropertyHub #6036586)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6036586. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6036586。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6036586 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/sale-rent-high-floor-base77-6248193---6036586",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "0b742d4fc794f1e9f7da8c9c695fc24e5793e113eb3608351e3cde752839c678"
+    },
+    {
+      "external_ref": "propertyhub-3218335",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "10+",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Hot Price for rent The Base Sukhumvit 77 🔥",
+        "zh": "Hot Price for rent The Base Sukhumvit 77 🔥",
+        "th": "Hot Price for rent The Base Sukhumvit 77 🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 12,000 THB. Source PropertyHub #3218335.",
+        "zh": "出租：1卧，35㎡，12,000 泰铢。来源 PropertyHub #3218335。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 12,000 บาท (PropertyHub #3218335)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3218335. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3218335。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3218335 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/hot-price-for-rent-the-base-sukhumvit-77--c6830a8d---3218335",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "2d6e1998b1cac708935843de67be84969e352236a36949fe07a3630ee847d7c7"
+    },
+    {
+      "external_ref": "propertyhub-5184385",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "12a",
+      "building_label": "B",
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "The base sukhumvit 77☎️ 1 bed‼️ only 13000/month ‼️NOW AVAILABLE 🔆✅",
+        "zh": "The base sukhumvit 77☎️ 1 bed‼️ only 13000/month ‼️NOW AVAILABLE 🔆✅",
+        "th": "The base sukhumvit 77☎️ 1 bed‼️ only 13000/month ‼️NOW AVAILABLE 🔆✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 13,000 THB. Source PropertyHub #5184385.",
+        "zh": "出租：1卧，30㎡，13,000 泰铢。来源 PropertyHub #5184385。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 13,000 บาท (PropertyHub #5184385)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5184385. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5184385。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5184385 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/5184385",
+      "source_updated_at": "2026-06-25",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "bc2879dd461d6c1c6e0397b36f4d3352e9034d3f37493309f42dcec3b670da59"
+    },
+    {
+      "external_ref": "propertyhub-3403855",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": "33",
+      "building_label": "B",
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🌸🌸🌸NO. SI101401  For rent: The Base Sukhumvit77  Nice Room ,High floor,Special price!!!Near BTS Onnut!!!",
+        "zh": "🌸🌸🌸NO. SI101401  For rent: The Base Sukhumvit77  Nice Room ,High floor,Special price!!!Near BTS Onnut!!!",
+        "th": "🌸🌸🌸NO. SI101401  For rent: The Base Sukhumvit77  Nice Room ,High floor,Special price!!!Near BTS Onnut!!!"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 15,000 THB. Source PropertyHub #3403855.",
+        "zh": "出租：1卧，31㎡，15,000 泰铢。来源 PropertyHub #3403855。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 15,000 บาท (PropertyHub #3403855)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3403855. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3403855。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3403855 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/no-si101401-for-rent-the-base-sukhumvit77-nice-room-high-floor-special-price-near-bts-onnut---3403855",
+      "source_updated_at": "2026-07-06",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "2a1a68d0e8f280a194e118fefe0c515dce3788027a1881811703c08eb90a1f69"
+    },
+    {
+      "external_ref": "propertyhub-6192175",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 10000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "30",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For rent The Base Sukhumvit 77 1 bedroom 30th floor Building B near BTS On Nut.",
+        "zh": "For rent The Base Sukhumvit 77 1 bedroom 30th floor Building B near BTS On Nut.",
+        "th": "For rent The Base Sukhumvit 77 1 bedroom 30th floor Building B near BTS On Nut."
+      },
+      "summary": {
+        "en": "Rent: 1BR, 29 sq.m., 10,000 THB. Source PropertyHub #6192175.",
+        "zh": "出租：1卧，29㎡，10,000 泰铢。来源 PropertyHub #6192175。",
+        "th": "เช่า: 1 นอน 29 ตร.ม. ราคา 10,000 บาท (PropertyHub #6192175)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6192175. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6192175。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6192175 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-the-base-sukhumvit-77-1-bedroom-30th-floor-building-b-near-bts-on-nut--a56c08fb---6192175",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "b8b22d7ee0b2382528ea1cf2c7ac920c1968d097d4129331cc046ef18b864094"
+    },
+    {
+      "external_ref": "propertyhub-4542588",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30.34,
+      "floor_label": "12A",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "[PB518]🚩Condo for rent The Base Sukhumvit 77",
+        "zh": "[PB518]🚩Condo for rent The Base Sukhumvit 77",
+        "th": "[PB518]🚩Condo for rent The Base Sukhumvit 77"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30.34 sq.m., 14,000 THB. Source PropertyHub #4542588.",
+        "zh": "出租：1卧，30.34㎡，14,000 泰铢。来源 PropertyHub #4542588。",
+        "th": "เช่า: 1 นอน 30.34 ตร.ม. ราคา 14,000 บาท (PropertyHub #4542588)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4542588. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4542588。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4542588 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/pb518-condo-for-rent-the-base-sukhumvit-77---4542588",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "c97ac04749cf7af51e0adcdaca57d56e32bd23c6738afa95eb337ddca3627b63"
+    },
+    {
+      "external_ref": "propertyhub-4063427",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36.2,
+      "floor_label": "28",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-20975 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-20975 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-20975 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 36.2 sq.m., 15,000 THB. Source PropertyHub #4063427.",
+        "zh": "出租：1卧，36.2㎡，15,000 泰铢。来源 PropertyHub #4063427。",
+        "th": "เช่า: 1 นอน 36.2 ตร.ม. ราคา 15,000 บาท (PropertyHub #4063427)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4063427. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4063427。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4063427 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-base-sukhumvit-77-bts-on-nut-phra-khanong-nuea-watthana-bangkok-cx-20975-live-chat-with-us-add-line-connexproperty--b41f09b4---4063427",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "34902aecb8611f3d86709e4a9c3eb8acd8e3a3666c6d06ae0eb1d0bab1d53c28"
+    },
+    {
+      "external_ref": "propertyhub-4171855",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "FOR RENT condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-68660 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-68660 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-68660 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 15,000 THB. Source PropertyHub #4171855.",
+        "zh": "出租：1卧，30㎡，15,000 泰铢。来源 PropertyHub #4171855。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 15,000 บาท (PropertyHub #4171855)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4171855. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4171855。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4171855 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-base-sukhumvit-77-bts-on-nut-phra-khanong-nuea-watthana-bangkok-cx-68660-live-chat-with-us-add-line-connexproperty--a3bd092a---4171855",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "f9106c30a059fc259e453bb19816a82109f63bd12df27e307e7ab7a6350cec7a"
+    },
+    {
+      "external_ref": "propertyhub-4181761",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.03,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-89424 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-89424 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-89424 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35.03 sq.m., 15,000 THB. Source PropertyHub #4181761.",
+        "zh": "出租：1卧，35.03㎡，15,000 泰铢。来源 PropertyHub #4181761。",
+        "th": "เช่า: 1 นอน 35.03 ตร.ม. ราคา 15,000 บาท (PropertyHub #4181761)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4181761. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4181761。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4181761 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-base-sukhumvit-77-bts-on-nut-phra-khanong-nuea-watthana-bangkok-cx-89424-live-chat-with-us-add-line-connexproperty--9c030923---4181761",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "09a2a07614eec7ef4dedb3a959225f1825b5fba8b6ea6e7d81e1d24341da1082"
+    },
+    {
+      "external_ref": "propertyhub-4517782",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-93935 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-93935 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-93935 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 13,000 THB. Source PropertyHub #4517782.",
+        "zh": "出租：1卧，30㎡，13,000 泰铢。来源 PropertyHub #4517782。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 13,000 บาท (PropertyHub #4517782)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4517782. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4517782。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4517782 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-base-sukhumvit-77-bts-on-nut-phra-khanong-nuea-watthana-bangkok-cx-93935-live-chat-with-us-add-line-connexproperty--b7d10978---4517782",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "f92bd4269a5a12cb9f9a2ee8e369501368ebf1056eeb9ba2cf92f4ddcb21a351"
+    },
+    {
+      "external_ref": "propertyhub-5908535",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-68771 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-68771 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , The Base Sukhumvit 77 , BTS-On Nut , Phra Khanong Nuea , Watthana , Bangkok , CX-68771 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 15,000 THB. Source PropertyHub #5908535.",
+        "zh": "出租：1卧，30㎡，15,000 泰铢。来源 PropertyHub #5908535。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 15,000 บาท (PropertyHub #5908535)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5908535. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5908535。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5908535 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-base-sukhumvit-77-bts-on-nut-phra-khanong-nuea-watthana-bangkok-cx-68771-live-chat-with-us-add-line-connexproperty---5908535",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71058532140166,
+      "longitude": 100.6023064760605,
+      "duplicate_fingerprint": "54a99504d278c1b2c592a79f90d554d8887e52ad06462253841ffedbecd92991"
+    }
+  ]
+}

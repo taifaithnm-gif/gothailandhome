@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Ashton Asoke official / developer page",
       "url": "https://www.ananda.co.th/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/ashton-asoke"
     }
   ],
   "developer": {
@@ -55,13 +60,16 @@
       "th": "วัฒนา กรุงเทพฯ"
     },
     "postal_code": "10110",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.738767940861846,
+    "longitude": 100.56123998297682,
+    "google_maps_url": "https://www.google.com/maps?q=13.738767940861846,100.56123998297682",
     "official_website": "https://www.ananda.co.th/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["bts", "mrt"],
+    "facebook_url": "https://www.facebook.com/AnandaDevelopment",
+    "completion_year": 2017,
+    "transit_tags": [
+      "bts",
+      "mrt"
+    ],
     "seo": {
       "title": {
         "en": "Ashton Asoke Condo in Watthana, Bangkok | GoThailandHome",
@@ -73,6 +81,480 @@
         "zh": "Ashton Asoke项目页（曼谷瓦他那），来源为开发商官方站点。",
         "th": "หน้าโครงการ แอชตัน อโศก เขตวัฒนา อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "library",
+        "name": {
+          "en": "Library",
+          "zh": "Library",
+          "th": "Library"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "steam",
+        "name": {
+          "en": "Steam",
+          "zh": "Steam",
+          "th": "Steam"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "jacuzzi",
+        "name": {
+          "en": "Jacuzzi",
+          "zh": "Jacuzzi",
+          "th": "Jacuzzi"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "motorcycle-parking",
+        "name": {
+          "en": "Motorcycle parking",
+          "zh": "Motorcycle parking",
+          "th": "Motorcycle parking"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Sai Namphueng School",
+          "zh": "Sai Namphueng School",
+          "th": "Sai Namphueng School"
+        },
+        "distance_m": 1623,
+        "slug": "sai-namphueng-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Wattana Wittaya Academy",
+          "zh": "Wattana Wittaya Academy",
+          "th": "Wattana Wittaya Academy"
+        },
+        "distance_m": 986,
+        "slug": "wattana-wittaya-academy",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "zh": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "th": "Srinakharinwirot University Prasarnmit Demonstration School"
+        },
+        "distance_m": 1223,
+        "slug": "srinakharinwirot-university-prasarnmit-demonstration-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Wat Pathum Wanaram School",
+          "zh": "Wat Pathum Wanaram School",
+          "th": "Wat Pathum Wanaram School"
+        },
+        "distance_m": 3332,
+        "slug": "wat-pathum-wanaram-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thai Christian School",
+          "zh": "Thai Christian School",
+          "th": "Thai Christian School"
+        },
+        "distance_m": 5097,
+        "slug": "thai-christian-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasanmit Campus",
+          "zh": "Srinakharinwirot University Prasanmit Campus",
+          "th": "Srinakharinwirot University Prasanmit Campus"
+        },
+        "distance_m": 1517,
+        "slug": "srinakharinwirot-university-prasanmit-campus",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok University",
+          "zh": "Bangkok University",
+          "th": "Bangkok University"
+        },
+        "distance_m": 4080,
+        "slug": "bangkok-university--3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Trinity International School",
+          "zh": "Trinity International School",
+          "th": "Trinity International School"
+        },
+        "distance_m": 2931,
+        "slug": "trinity-international-school",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "rutnin eye Hospital",
+          "zh": "rutnin eye Hospital",
+          "th": "rutnin eye Hospital"
+        },
+        "distance_m": 959,
+        "slug": "rutnin-eye-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phraram 9 Hospital",
+          "zh": "Phraram 9 Hospital",
+          "th": "Phraram 9 Hospital"
+        },
+        "distance_m": 2355,
+        "slug": "phraram-9-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Camillian Hospital",
+          "zh": "Camillian Hospital",
+          "th": "Camillian Hospital"
+        },
+        "distance_m": 3407,
+        "slug": "camillian-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok Hospital",
+          "zh": "Bangkok Hospital",
+          "th": "Bangkok Hospital"
+        },
+        "distance_m": 4236,
+        "slug": "bangkok-hospital--af4c09c5",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Med Park Hospital",
+          "zh": "Med Park Hospital",
+          "th": "Med Park Hospital"
+        },
+        "distance_m": null,
+        "slug": "med-park-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Piyawet Hospital",
+          "zh": "Piyawet Hospital",
+          "th": "Piyawet Hospital"
+        },
+        "distance_m": 3323,
+        "slug": "piyawet-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Samitivej Sukhumvit Hospital",
+          "zh": "Samitivej Sukhumvit Hospital",
+          "th": "Samitivej Sukhumvit Hospital"
+        },
+        "distance_m": 2639,
+        "slug": "samitivej-sukhumvit-hospital--2",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bumrungrat Hospital",
+          "zh": "Bumrungrat Hospital",
+          "th": "Bumrungrat Hospital"
+        },
+        "distance_m": 1909,
+        "slug": "bumrungrat-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Terminal 21 Asok",
+          "zh": "Terminal 21 Asok",
+          "th": "Terminal 21 Asok"
+        },
+        "distance_m": 500,
+        "slug": "terminal-21-asok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "One Bangkok",
+          "zh": "One Bangkok",
+          "th": "One Bangkok"
+        },
+        "distance_m": null,
+        "slug": "one-bangkok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "DONKI Mall Thonglor  ",
+          "zh": "DONKI Mall Thonglor  ",
+          "th": "DONKI Mall Thonglor  "
+        },
+        "distance_m": null,
+        "slug": "donki-mall-thonglor",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central World Department Store",
+          "zh": "Central World Department Store",
+          "th": "Central World Department Store"
+        },
+        "distance_m": 3004,
+        "slug": "central-world-department-store",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Chit Lom",
+          "zh": "Central Chit Lom",
+          "th": "Central Chit Lom"
+        },
+        "distance_m": 2491,
+        "slug": "central-chit-lom",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Embassy ",
+          "zh": "Central Embassy ",
+          "th": "Central Embassy "
+        },
+        "distance_m": 2124,
+        "slug": "central-embassy",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Rama 3",
+          "zh": "Tesco Lotus Superstore Rama 3",
+          "th": "Tesco Lotus Superstore Rama 3"
+        },
+        "distance_m": 5386,
+        "slug": "tesco-lotus-superstore-rama-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Extra Rama 4",
+          "zh": "Tesco Lotus Extra Rama 4",
+          "th": "Tesco Lotus Extra Rama 4"
+        },
+        "distance_m": 2914,
+        "slug": "tesco-lotus-extra-rama-4",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Terminal 21 Asok",
+          "zh": "Terminal 21 Asok",
+          "th": "Terminal 21 Asok"
+        },
+        "distance_m": 500,
+        "slug": "terminal-21-asok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "One Bangkok",
+          "zh": "One Bangkok",
+          "th": "One Bangkok"
+        },
+        "distance_m": null,
+        "slug": "one-bangkok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "DONKI Mall Thonglor  ",
+          "zh": "DONKI Mall Thonglor  ",
+          "th": "DONKI Mall Thonglor  "
+        },
+        "distance_m": null,
+        "slug": "donki-mall-thonglor",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central World Department Store",
+          "zh": "Central World Department Store",
+          "th": "Central World Department Store"
+        },
+        "distance_m": 3004,
+        "slug": "central-world-department-store",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Chit Lom",
+          "zh": "Central Chit Lom",
+          "th": "Central Chit Lom"
+        },
+        "distance_m": 2491,
+        "slug": "central-chit-lom",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Embassy ",
+          "zh": "Central Embassy ",
+          "th": "Central Embassy "
+        },
+        "distance_m": 2124,
+        "slug": "central-embassy",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Rama 3",
+          "zh": "Tesco Lotus Superstore Rama 3",
+          "th": "Tesco Lotus Superstore Rama 3"
+        },
+        "distance_m": 5386,
+        "slug": "tesco-lotus-superstore-rama-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Extra Rama 4",
+          "zh": "Tesco Lotus Extra Rama 4",
+          "th": "Tesco Lotus Extra Rama 4"
+        },
+        "distance_m": 2914,
+        "slug": "tesco-lotus-extra-rama-4",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2017.",
+          "zh": "PropertyHub 记载完工年份为 2017。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2017"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 783 total units.",
+          "zh": "PropertyHub 记载总套数为 783。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 783"
+        }
+      }
+    ]
   }
 }

@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "The Esse Sukhumvit 36 official / developer page",
       "url": "https://www.scasset.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/the-esse-sukhumvit-36"
     }
   ],
   "developer": {
@@ -55,13 +60,15 @@
       "th": "คลองเตย กรุงเทพฯ"
     },
     "postal_code": "10110",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.724627636205499,
+    "longitude": 100.5777777840099,
+    "google_maps_url": "https://www.google.com/maps?q=13.724627636205499,100.5777777840099",
     "official_website": "https://www.scasset.com/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["bts"],
+    "facebook_url": "https://www.facebook.com/SCAsset",
+    "completion_year": 2020,
+    "transit_tags": [
+      "bts"
+    ],
     "seo": {
       "title": {
         "en": "The Esse Sukhumvit 36 Condo in Khlong Toei, Bangkok | GoThailandHome",
@@ -73,6 +80,462 @@
         "zh": "The Esse 素坤逸36项目页（曼谷空堤），来源为开发商官方站点。",
         "th": "หน้าโครงการ ดิ เอสส์ สุขุมวิท 36 เขตคลองเตย อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "library",
+        "name": {
+          "en": "Library",
+          "zh": "Library",
+          "th": "Library"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "steam",
+        "name": {
+          "en": "Steam",
+          "zh": "Steam",
+          "th": "Steam"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Sai Namphueng School",
+          "zh": "Sai Namphueng School",
+          "th": "Sai Namphueng School"
+        },
+        "distance_m": 2170,
+        "slug": "sai-namphueng-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thawsi School ",
+          "zh": "Thawsi School ",
+          "th": "Thawsi School "
+        },
+        "distance_m": 3166,
+        "slug": "thawsi-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thai Christian School",
+          "zh": "Thai Christian School",
+          "th": "Thai Christian School"
+        },
+        "distance_m": 3471,
+        "slug": "thai-christian-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "zh": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "th": "Srinakharinwirot University Prasarnmit Demonstration School"
+        },
+        "distance_m": 2717,
+        "slug": "srinakharinwirot-university-prasarnmit-demonstration-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "St. Andrews International School Bangkok",
+          "zh": "St. Andrews International School Bangkok",
+          "th": "St. Andrews International School Bangkok"
+        },
+        "distance_m": null,
+        "slug": "st-andrews-international-school-bangkok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Ekamai International School",
+          "zh": "Ekamai International School",
+          "th": "Ekamai International School"
+        },
+        "distance_m": 2523,
+        "slug": "ekamai-international-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Trinity International School",
+          "zh": "Trinity International School",
+          "th": "Trinity International School"
+        },
+        "distance_m": 475,
+        "slug": "trinity-international-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasanmit Campus",
+          "zh": "Srinakharinwirot University Prasanmit Campus",
+          "th": "Srinakharinwirot University Prasanmit Campus"
+        },
+        "distance_m": 3548,
+        "slug": "srinakharinwirot-university-prasanmit-campus",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Camillian Hospital",
+          "zh": "Camillian Hospital",
+          "th": "Camillian Hospital"
+        },
+        "distance_m": 2283,
+        "slug": "camillian-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Kluaynamthai Hospital ",
+          "zh": "Kluaynamthai Hospital ",
+          "th": "Kluaynamthai Hospital "
+        },
+        "distance_m": 1893,
+        "slug": "kluaynamthai-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok Hospital",
+          "zh": "Bangkok Hospital",
+          "th": "Bangkok Hospital"
+        },
+        "distance_m": 3513,
+        "slug": "bangkok-hospital--af4c09c5",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Theptarin Hospital",
+          "zh": "Theptarin Hospital",
+          "th": "Theptarin Hospital"
+        },
+        "distance_m": null,
+        "slug": "theptarin-hospital--3c9a0513",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "ViMUT Theptarin Rama 4 Hospital",
+          "zh": "ViMUT Theptarin Rama 4 Hospital",
+          "th": "ViMUT Theptarin Rama 4 Hospital"
+        },
+        "distance_m": null,
+        "slug": "vimut-theptarin-rama-4-hospital--a23308aa",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Samitivej Sukhumvit Hospital",
+          "zh": "Samitivej Sukhumvit Hospital",
+          "th": "Samitivej Sukhumvit Hospital"
+        },
+        "distance_m": 1506,
+        "slug": "samitivej-sukhumvit-hospital--2",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Sukumvit Hospital ",
+          "zh": "Sukumvit Hospital ",
+          "th": "Sukumvit Hospital "
+        },
+        "distance_m": 1283,
+        "slug": "sukumvit-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Klong Tan Hospital ",
+          "zh": "Klong Tan Hospital ",
+          "th": "Klong Tan Hospital "
+        },
+        "distance_m": 3561,
+        "slug": "klong-tan-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Rama 3",
+          "zh": "Tesco Lotus Superstore Rama 3",
+          "th": "Tesco Lotus Superstore Rama 3"
+        },
+        "distance_m": 6197,
+        "slug": "tesco-lotus-superstore-rama-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "J Avenue Thonglor",
+          "zh": "J Avenue Thonglor",
+          "th": "J Avenue Thonglor"
+        },
+        "distance_m": null,
+        "slug": "j-avenue-thonglor--a3610951",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Ekkamai",
+          "zh": "Big C Super Center Ekkamai",
+          "th": "Big C Super Center Ekkamai"
+        },
+        "distance_m": null,
+        "slug": "big-c-super-center-ekkamai",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Extra Rama 4",
+          "zh": "Tesco Lotus Extra Rama 4",
+          "th": "Tesco Lotus Extra Rama 4"
+        },
+        "distance_m": 1890,
+        "slug": "tesco-lotus-extra-rama-4",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Rama 4",
+          "zh": "Big C Extra Rama 4",
+          "th": "Big C Extra Rama 4"
+        },
+        "distance_m": 1970,
+        "slug": "big-c-extra-rama-4",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra On Nut",
+          "zh": "Big C Extra On Nut",
+          "th": "Big C Extra On Nut"
+        },
+        "distance_m": 3207,
+        "slug": "big-c-extra-on-nut",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Foodland Petchburi",
+          "zh": "Foodland Petchburi",
+          "th": "Foodland Petchburi"
+        },
+        "distance_m": 3191,
+        "slug": "foodland-petchburi",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "DONKI Mall Thonglor  ",
+          "zh": "DONKI Mall Thonglor  ",
+          "th": "DONKI Mall Thonglor  "
+        },
+        "distance_m": null,
+        "slug": "donki-mall-thonglor",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Rama 3",
+          "zh": "Tesco Lotus Superstore Rama 3",
+          "th": "Tesco Lotus Superstore Rama 3"
+        },
+        "distance_m": 6197,
+        "slug": "tesco-lotus-superstore-rama-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "J Avenue Thonglor",
+          "zh": "J Avenue Thonglor",
+          "th": "J Avenue Thonglor"
+        },
+        "distance_m": null,
+        "slug": "j-avenue-thonglor--a3610951",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Ekkamai",
+          "zh": "Big C Super Center Ekkamai",
+          "th": "Big C Super Center Ekkamai"
+        },
+        "distance_m": null,
+        "slug": "big-c-super-center-ekkamai",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Extra Rama 4",
+          "zh": "Tesco Lotus Extra Rama 4",
+          "th": "Tesco Lotus Extra Rama 4"
+        },
+        "distance_m": 1890,
+        "slug": "tesco-lotus-extra-rama-4",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Rama 4",
+          "zh": "Big C Extra Rama 4",
+          "th": "Big C Extra Rama 4"
+        },
+        "distance_m": 1970,
+        "slug": "big-c-extra-rama-4",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra On Nut",
+          "zh": "Big C Extra On Nut",
+          "th": "Big C Extra On Nut"
+        },
+        "distance_m": 3207,
+        "slug": "big-c-extra-on-nut",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Foodland Petchburi",
+          "zh": "Foodland Petchburi",
+          "th": "Foodland Petchburi"
+        },
+        "distance_m": 3191,
+        "slug": "foodland-petchburi",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "DONKI Mall Thonglor  ",
+          "zh": "DONKI Mall Thonglor  ",
+          "th": "DONKI Mall Thonglor  "
+        },
+        "distance_m": null,
+        "slug": "donki-mall-thonglor",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2020.",
+          "zh": "PropertyHub 记载完工年份为 2020。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2020"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 338 total units.",
+          "zh": "PropertyHub 记载总套数为 338。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 338"
+        }
+      }
+    ]
   }
 }

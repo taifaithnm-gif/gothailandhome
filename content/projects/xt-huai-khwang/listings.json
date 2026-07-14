@@ -1,0 +1,863 @@
+{
+  "project_slug": "xt-huai-khwang",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-6144790",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "1 Bedroom, 1 Bathroom 1812798",
+        "zh": "1 Bedroom, 1 Bathroom 1812798",
+        "th": "1 Bedroom, 1 Bathroom 1812798"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 6,200,000 THB. Source PropertyHub #6144790.",
+        "zh": "出售：1卧，35㎡，6,200,000 泰铢。来源 PropertyHub #6144790。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 6,200,000 บาท (PropertyHub #6144790)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6144790. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6144790。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6144790 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bedroom-1-bathroom-1812798---6144790",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "4a12699ccef64fb78376201477fc9c4556a5d1cdd2131fa16324dca69b6f8761"
+    },
+    {
+      "external_ref": "propertyhub-6122582",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5412789,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.02,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "1 Bedroom Condo for sale at XT Huaikhwang  6383021",
+        "zh": "1 Bedroom Condo for sale at XT Huaikhwang  6383021",
+        "th": "1 Bedroom Condo for sale at XT Huaikhwang  6383021"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35.02 sq.m., 5,412,789 THB. Source PropertyHub #6122582.",
+        "zh": "出售：1卧，35.02㎡，5,412,789 泰铢。来源 PropertyHub #6122582。",
+        "th": "ขาย: 1 นอน 35.02 ตร.ม. ราคา 5,412,789 บาท (PropertyHub #6122582)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6122582. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6122582。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6122582 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bedroom-condo-for-sale-at-xt-huaikhwang-6383021---6122582",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "3fb689012913c6a85be85f3ab532b34428066ae59dae8287c194e33737bc8903"
+    },
+    {
+      "external_ref": "propertyhub-4285384",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6100000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 53.38,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "XT Huaikhwang 2 bedrooms, for sale",
+        "zh": "XT Huaikhwang 2 bedrooms, for sale",
+        "th": "XT Huaikhwang 2 bedrooms, for sale"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 53.38 sq.m., 6,100,000 THB. Source PropertyHub #4285384.",
+        "zh": "出售：2卧，53.38㎡，6,100,000 泰铢。来源 PropertyHub #4285384。",
+        "th": "ขาย: 2 นอน 53.38 ตร.ม. ราคา 6,100,000 บาท (PropertyHub #4285384)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4285384. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4285384。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4285384 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/xt-huaikhwang-2-bedrooms-for-sale---4285384",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "4718ee1d55bbb3cd114cd46d5e3241ecd6ffaaffa419032cc8b86e9394994701"
+    },
+    {
+      "external_ref": "propertyhub-6206021",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "XT Huaikhwang 1 bedroom, for sale",
+        "zh": "XT Huaikhwang 1 bedroom, for sale",
+        "th": "XT Huaikhwang 1 bedroom, for sale"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 4,600,000 THB. Source PropertyHub #6206021.",
+        "zh": "出售：1卧，35㎡，4,600,000 泰铢。来源 PropertyHub #6206021。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 4,600,000 บาท (PropertyHub #6206021)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6206021. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6206021。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6206021 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/xt-huaikhwang-1-bedroom-for-sale--ae2d096a---6206021",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "d4b2d1d38b550c3aa110bec49705a1971d3f7de6c3b140a9ff82c6ce35a8e062"
+    },
+    {
+      "external_ref": "propertyhub-4285382",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28.18,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "XT Huaikhwang 1 bedroom, for sale",
+        "zh": "XT Huaikhwang 1 bedroom, for sale",
+        "th": "XT Huaikhwang 1 bedroom, for sale"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 28.18 sq.m., 3,500,000 THB. Source PropertyHub #4285382.",
+        "zh": "出售：1卧，28.18㎡，3,500,000 泰铢。来源 PropertyHub #4285382。",
+        "th": "ขาย: 1 นอน 28.18 ตร.ม. ราคา 3,500,000 บาท (PropertyHub #4285382)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4285382. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4285382。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4285382 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/xt-huaikhwang-1-bedroom-for-sale---4285382",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "c3a26ccbb7a98708de6b8ff24a3cfb7311e590076a884c3deb2cec7533d12b23"
+    },
+    {
+      "external_ref": "propertyhub-4285383",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4700000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.07,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "XT Huaikhwang 1 bedroom, for sale",
+        "zh": "XT Huaikhwang 1 bedroom, for sale",
+        "th": "XT Huaikhwang 1 bedroom, for sale"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35.07 sq.m., 4,700,000 THB. Source PropertyHub #4285383.",
+        "zh": "出售：1卧，35.07㎡，4,700,000 泰铢。来源 PropertyHub #4285383。",
+        "th": "ขาย: 1 นอน 35.07 ตร.ม. ราคา 4,700,000 บาท (PropertyHub #4285383)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4285383. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4285383。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4285383 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/xt-huaikhwang-1-bedroom-for-sale---4285383",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "83962a9f4f0b3bb852f0cc0ee15d368ee6bcd9c63608800360e7362c92069411"
+    },
+    {
+      "external_ref": "propertyhub-4285385",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9400000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 59.15,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "XT Huaikhwang 2 bedrooms, for sale",
+        "zh": "XT Huaikhwang 2 bedrooms, for sale",
+        "th": "XT Huaikhwang 2 bedrooms, for sale"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 59.15 sq.m., 9,400,000 THB. Source PropertyHub #4285385.",
+        "zh": "出售：2卧，59.15㎡，9,400,000 泰铢。来源 PropertyHub #4285385。",
+        "th": "ขาย: 2 นอน 59.15 ตร.ม. ราคา 9,400,000 บาท (PropertyHub #4285385)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4285385. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4285385。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4285385 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/xt-huaikhwang-2-bedrooms-for-sale---4285385",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "3ec39d1152783fbe3476d447001d34c38560f5d7f0c3b5954d591d276fe30b33"
+    },
+    {
+      "external_ref": "propertyhub-4485399",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4290000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "XT Huaikhwang 1 bedroom, for sale",
+        "zh": "XT Huaikhwang 1 bedroom, for sale",
+        "th": "XT Huaikhwang 1 bedroom, for sale"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 4,290,000 THB. Source PropertyHub #4485399.",
+        "zh": "出售：1卧，30㎡，4,290,000 泰铢。来源 PropertyHub #4485399。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 4,290,000 บาท (PropertyHub #4485399)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4485399. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4485399。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4485399 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/xt-huaikhwang-1-bedroom-for-sale--b7c60a2a---4485399",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "de7a1856528bb554ddbab5b2d542dfbcbfa4a9dd32a882a9f804529309075f7e"
+    },
+    {
+      "external_ref": "propertyhub-4942863",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9980000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 51,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "XT Huaikhwang 2 bedrooms, for sale",
+        "zh": "XT Huaikhwang 2 bedrooms, for sale",
+        "th": "XT Huaikhwang 2 bedrooms, for sale"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 51 sq.m., 9,980,000 THB. Source PropertyHub #4942863.",
+        "zh": "出售：2卧，51㎡，9,980,000 泰铢。来源 PropertyHub #4942863。",
+        "th": "ขาย: 2 นอน 51 ตร.ม. ราคา 9,980,000 บาท (PropertyHub #4942863)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4942863. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4942863。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4942863 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/xt-huaikhwang-2-bedrooms-for-sale--a8e60908---4942863",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "88a46d72ca8c9d5d4633acd07a47807093974d24631b55ec516859922e8d9f02"
+    },
+    {
+      "external_ref": "propertyhub-5532773",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8900000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 53.38,
+      "floor_label": "15",
+      "building_label": "A",
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "🔹 Corner unit, 2 bedrooms, 2 bathrooms – XT Huaikhwang",
+        "zh": "🔹 Corner unit, 2 bedrooms, 2 bathrooms – XT Huaikhwang",
+        "th": "🔹 Corner unit, 2 bedrooms, 2 bathrooms – XT Huaikhwang"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 53.38 sq.m., 8,900,000 THB. Source PropertyHub #5532773.",
+        "zh": "出售：2卧，53.38㎡，8,900,000 泰铢。来源 PropertyHub #5532773。",
+        "th": "ขาย: 2 นอน 53.38 ตร.ม. ราคา 8,900,000 บาท (PropertyHub #5532773)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5532773. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5532773。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5532773 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/corner-unit-2-bedrooms-2-bathrooms-xt-huaikhwang--bd480a2c---5532773",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "4fb152e234e93d663e5172982f0e8d7f338402de12b5575bd6a981ccc5c5f20f"
+    },
+    {
+      "external_ref": "propertyhub-4219485",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "Condo for rent XT Huaikwang, complete furniture and electrical appliances. There are many rooms, very beautiful rooms.",
+        "zh": "Condo for rent XT Huaikwang, complete furniture and electrical appliances. There are many rooms, very beautiful rooms.",
+        "th": "Condo for rent XT Huaikwang, complete furniture and electrical appliances. There are many rooms, very beautiful rooms."
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 15,000 THB. Source PropertyHub #4219485.",
+        "zh": "出租：1卧，30㎡，15,000 泰铢。来源 PropertyHub #4219485。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 15,000 บาท (PropertyHub #4219485)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4219485. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4219485。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4219485 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-xt-huaikwang-complete-furniture-and-electrical-appliances-there-are-many-rooms-very-beautiful-rooms--a9f90942---4219485",
+      "source_updated_at": "2026-07-03",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "8c317844778d7b8f43901abde85a5514607e939151faed9bf1fb2abfe79012f1"
+    },
+    {
+      "external_ref": "propertyhub-5812635",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "40",
+      "building_label": "A",
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "📍XT HUAIKHWANG✨ Fully Furnished (1Bed 1Bath) Area 30 SQM. Fl.40 Building A✨Rent 17,000/month ✅ 𝐋𝐢𝐧𝐞 : @𝐬𝐚𝐧𝐡𝐚𝐩𝐫𝐨𝐩𝐞𝐫𝐭𝐲📲095-6922871",
+        "zh": "📍XT HUAIKHWANG✨ Fully Furnished (1Bed 1Bath) Area 30 SQM. Fl.40 Building A✨Rent 17,000/month ✅ 𝐋𝐢𝐧𝐞 : @𝐬𝐚𝐧𝐡𝐚𝐩𝐫𝐨𝐩𝐞𝐫𝐭𝐲📲095-6922871",
+        "th": "📍XT HUAIKHWANG✨ Fully Furnished (1Bed 1Bath) Area 30 SQM. Fl.40 Building A✨Rent 17,000/month ✅ 𝐋𝐢𝐧𝐞 : @𝐬𝐚𝐧𝐡𝐚𝐩𝐫𝐨𝐩𝐞𝐫𝐭𝐲📲095-6922871"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 17,000 THB. Source PropertyHub #5812635.",
+        "zh": "出租：1卧，30㎡，17,000 泰铢。来源 PropertyHub #5812635。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 17,000 บาท (PropertyHub #5812635)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5812635. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5812635。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5812635 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/5812635",
+      "source_updated_at": "2026-07-02",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "ddc67da8d48d40fe82587377860d79bfc66192a481b1b0cfa88a4b8ed20ef507"
+    },
+    {
+      "external_ref": "propertyhub-6170994",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "22",
+      "building_label": "A",
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "❤️XT HUAIKWANG 1 BEDROOM 1 Bathroom 35sq.m ",
+        "zh": "❤️XT HUAIKWANG 1 BEDROOM 1 Bathroom 35sq.m ",
+        "th": "❤️XT HUAIKWANG 1 BEDROOM 1 Bathroom 35sq.m "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 18,000 THB. Source PropertyHub #6170994.",
+        "zh": "出租：1卧，35㎡，18,000 泰铢。来源 PropertyHub #6170994。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 18,000 บาท (PropertyHub #6170994)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6170994. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6170994。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6170994 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/6170994",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "46fbc8c32802c1906a8cfa96fdb20a951a425bbf6cf44f11a8d6bcf7141739e1"
+    },
+    {
+      "external_ref": "propertyhub-6211798",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "2X",
+      "building_label": "A",
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "XT Huaikhwang 75m. MRT Huaikhwang 1Bedroom with clear view Fully Furnished Ready to Move",
+        "zh": "XT Huaikhwang 75m. MRT Huaikhwang 1Bedroom with clear view Fully Furnished Ready to Move",
+        "th": "XT Huaikhwang 75m. MRT Huaikhwang 1Bedroom with clear view Fully Furnished Ready to Move"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 16,500 THB. Source PropertyHub #6211798.",
+        "zh": "出租：1卧，30㎡，16,500 泰铢。来源 PropertyHub #6211798。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 16,500 บาท (PropertyHub #6211798)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6211798. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6211798。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6211798 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/xt-huaikhwang-75m-mrt-huaikhwang-1bedroom-with-clear-view-fully-furnished-ready-to-move---6211798",
+      "source_updated_at": "2026-07-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "ab9e4a9b6560b056d8ee0a66c65c3f0c68c6cd7f70616effa04d2a40f2fd56e7"
+    },
+    {
+      "external_ref": "propertyhub-3360999",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "35",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "Condo for rent: XT Huaikwang 🍁Full furniture and electrical appliances 🍁There are many rooms of various sizes 🍁The room is very beautiful",
+        "zh": "Condo for rent: XT Huaikwang 🍁Full furniture and electrical appliances 🍁There are many rooms of various sizes 🍁The room is very beautiful",
+        "th": "Condo for rent: XT Huaikwang 🍁Full furniture and electrical appliances 🍁There are many rooms of various sizes 🍁The room is very beautiful"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 18,000 THB. Source PropertyHub #3360999.",
+        "zh": "出租：1卧，35㎡，18,000 泰铢。来源 PropertyHub #3360999。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 18,000 บาท (PropertyHub #3360999)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3360999. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3360999。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3360999 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-xt-huaikwang-full-furniture-and-electrical-appliances-there-are-many-rooms-of-various-sizes-the-room-is-very-beautiful--b166094e---3360999",
+      "source_updated_at": "2026-07-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "b5e124dff96364212a84569fe0f48980945e9499eca190c8addb223bdfd21fce"
+    },
+    {
+      "external_ref": "propertyhub-3931548",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , XT Huaikhwang , Duplex , nice view , MRT-Huai Khwang , Huai Khwang , Huai Khwang , Bangkok , CX-03542 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , XT Huaikhwang , Duplex , nice view , MRT-Huai Khwang , Huai Khwang , Huai Khwang , Bangkok , CX-03542 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , XT Huaikhwang , Duplex , nice view , MRT-Huai Khwang , Huai Khwang , Huai Khwang , Bangkok , CX-03542 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 22,000 THB. Source PropertyHub #3931548.",
+        "zh": "出租：1卧，34㎡，22,000 泰铢。来源 PropertyHub #3931548。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 22,000 บาท (PropertyHub #3931548)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3931548. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3931548。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3931548 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-huaikhwang-duplex-nice-view-mrt-huai-khwang-huai-khwang-huai-khwang-bangkok-cx-03542-live-chat-with-us-add-line-connexproperty---3931548",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "a1d654b7a089c814b8aa8daf7937df7affb7215106fea3edd5f9dee05664398e"
+    },
+    {
+      "external_ref": "propertyhub-4517848",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , XT Huaikhwang , MRT-Huai Khwang , Huai Khwang , Huai Khwang , Bangkok , CX-76777 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , XT Huaikhwang , MRT-Huai Khwang , Huai Khwang , Huai Khwang , Bangkok , CX-76777 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , XT Huaikhwang , MRT-Huai Khwang , Huai Khwang , Huai Khwang , Bangkok , CX-76777 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 19,000 THB. Source PropertyHub #4517848.",
+        "zh": "出租：1卧，35㎡，19,000 泰铢。来源 PropertyHub #4517848。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 19,000 บาท (PropertyHub #4517848)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4517848. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4517848。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4517848 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-huaikhwang-mrt-huai-khwang-huai-khwang-huai-khwang-bangkok-cx-76777-live-chat-with-us-add-line-connexproperty--b45009d3---4517848",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "92438215fd7fd67d59bba3cc3cdbf5c3f6e1d3da27ddf789260fe84f47be6dd6"
+    },
+    {
+      "external_ref": "propertyhub-4752668",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , XT Huaikhwang , MRT-Huai Khwang , Huai Khwang , Huai Khwang , Bangkok , CX-56294 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , XT Huaikhwang , MRT-Huai Khwang , Huai Khwang , Huai Khwang , Bangkok , CX-56294 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , XT Huaikhwang , MRT-Huai Khwang , Huai Khwang , Huai Khwang , Bangkok , CX-56294 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 23,000 THB. Source PropertyHub #4752668.",
+        "zh": "出租：1卧，34㎡，23,000 泰铢。来源 PropertyHub #4752668。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 23,000 บาท (PropertyHub #4752668)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4752668. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4752668。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4752668 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-huaikhwang-mrt-huai-khwang-huai-khwang-huai-khwang-bangkok-cx-56294-live-chat-with-us-add-line-connexproperty--b24a09d7---4752668",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "8ce176f969099bd2c7d77cc33bb09badb2c3329da0c325db3857e2d70b11847b"
+    },
+    {
+      "external_ref": "propertyhub-5308207",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30.12,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "title": {
+        "en": "For Rent Condo , XT Huaikhwang , MRT-Huai Khwang , Huai Khwang , Huai Khwang , Bangkok , CX-95078 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , XT Huaikhwang , MRT-Huai Khwang , Huai Khwang , Huai Khwang , Bangkok , CX-95078 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , XT Huaikhwang , MRT-Huai Khwang , Huai Khwang , Huai Khwang , Bangkok , CX-95078 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30.12 sq.m., 16,500 THB. Source PropertyHub #5308207.",
+        "zh": "出租：1卧，30.12㎡，16,500 泰铢。来源 PropertyHub #5308207。",
+        "th": "เช่า: 1 นอน 30.12 ตร.ม. ราคา 16,500 บาท (PropertyHub #5308207)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5308207. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5308207。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5308207 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-huaikhwang-mrt-huai-khwang-huai-khwang-huai-khwang-bangkok-cx-95078-live-chat-with-us-add-line-connexproperty--aa63093a---5308207",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.780337815666243,
+      "longitude": 100.57562937641003,
+      "duplicate_fingerprint": "8aafb2ae34c472c0c97bc1f600bc28a654e49afaca58acfca59f9d20d0ff82b0"
+    }
+  ]
+}

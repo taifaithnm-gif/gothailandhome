@@ -1,0 +1,428 @@
+{
+  "project_slug": "supalai-lite-sathorn-charoenrat",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-5772376",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 54,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "For Sell Condo SUPALAI LITE SATHORN-CHAROENRAT Building 1, Floor 19,1 bed room, Room size 54 sqm",
+        "zh": "For Sell Condo SUPALAI LITE SATHORN-CHAROENRAT Building 1, Floor 19,1 bed room, Room size 54 sqm",
+        "th": "For Sell Condo SUPALAI LITE SATHORN-CHAROENRAT Building 1, Floor 19,1 bed room, Room size 54 sqm"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 54 sq.m., 4,400,000 THB. Source PropertyHub #5772376.",
+        "zh": "出售：1卧，54㎡，4,400,000 泰铢。来源 PropertyHub #5772376。",
+        "th": "ขาย: 1 นอน 54 ตร.ม. ราคา 4,400,000 บาท (PropertyHub #5772376)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5772376. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5772376。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5772376 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-supalai-lite-sathorn-charoenrat-building-1-floor-19-1-bed-room-room-size-54-sqm--b8a70a13---5772376",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.70191776557095,
+      "longitude": 100.51641380711567,
+      "duplicate_fingerprint": "cf6f0aab642f9b74f7bef53e7f4f564a4bb210f0803057c5ff1ad10490d332a1"
+    },
+    {
+      "external_ref": "propertyhub-5559579",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 48.88,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for Sale at Supalai Lite Sathorn-Charoenrat 1995319",
+        "zh": "1 Bedroom Condo for Sale at Supalai Lite Sathorn-Charoenrat 1995319",
+        "th": "1 Bedroom Condo for Sale at Supalai Lite Sathorn-Charoenrat 1995319"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 48.88 sq.m., 3,600,000 THB. Source PropertyHub #5559579.",
+        "zh": "出售：1卧，48.88㎡，3,600,000 泰铢。来源 PropertyHub #5559579。",
+        "th": "ขาย: 1 นอน 48.88 ตร.ม. ราคา 3,600,000 บาท (PropertyHub #5559579)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5559579. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5559579。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5559579 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bedroom-condo-for-sale-at-supalai-lite-sathorn-charoenrat-1995319--a38a0980---5559579",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.70191776557095,
+      "longitude": 100.51641380711567,
+      "duplicate_fingerprint": "fb8922bd988463d7cbb00563cc8e548910cb4e3f7e5b858e283999c3ef2fc883"
+    },
+    {
+      "external_ref": "propertyhub-5841993",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5170000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 49,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "Furnished 1-bedroom condo with stunning 20th fl city views 5672793",
+        "zh": "Furnished 1-bedroom condo with stunning 20th fl city views 5672793",
+        "th": "Furnished 1-bedroom condo with stunning 20th fl city views 5672793"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 49 sq.m., 5,170,000 THB. Source PropertyHub #5841993.",
+        "zh": "出售：1卧，49㎡，5,170,000 泰铢。来源 PropertyHub #5841993。",
+        "th": "ขาย: 1 นอน 49 ตร.ม. ราคา 5,170,000 บาท (PropertyHub #5841993)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5841993. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5841993。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5841993 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/furnished-1-bedroom-condo-with-stunning-20th-fl-city-views-5672793---5841993",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.70191776557095,
+      "longitude": 100.51641380711567,
+      "duplicate_fingerprint": "e1ec536068b3f1c4322a74cd9c7771ec966eaddb427bb280af9c1d6a577b97a6"
+    },
+    {
+      "external_ref": "propertyhub-4841045",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3200000,
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "For sale: Supalai Lite Sathorn-Charoenrat, pool view, 1 bedroom, 16th floor, area 35 sq m, fully furnished, ready to move in, selling for 3.2 MB.*",
+        "zh": "For sale: Supalai Lite Sathorn-Charoenrat, pool view, 1 bedroom, 16th floor, area 35 sq m, fully furnished, ready to move in, selling for 3.2 MB.*",
+        "th": "For sale: Supalai Lite Sathorn-Charoenrat, pool view, 1 bedroom, 16th floor, area 35 sq m, fully furnished, ready to move in, selling for 3.2 MB.*"
+      },
+      "summary": {
+        "en": "Sale: 0BR, 35 sq.m., 3,200,000 THB. Source PropertyHub #4841045.",
+        "zh": "出售：0卧，35㎡，3,200,000 泰铢。来源 PropertyHub #4841045。",
+        "th": "ขาย: 0 นอน 35 ตร.ม. ราคา 3,200,000 บาท (PropertyHub #4841045)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4841045. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4841045。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4841045 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-supalai-lite-sathorn-charoenrat-pool-view-1-bedroom-16th-floor-area-35-sq-m-fully-furnished-ready-to-move-in-selling-for-3-2-mb---4841045",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.70191776557095,
+      "longitude": 100.51641380711567,
+      "duplicate_fingerprint": "0f46a85abd3a4b0c7978669c67cf78c2bd06136ef2b2233d4367aa50beca1a3b"
+    },
+    {
+      "external_ref": "propertyhub-5718427",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 54,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1-BR 54 Sqm High-Floor At Supalai Lite Sathorn-Charoenrat (ID 1991364)",
+        "zh": "1-BR 54 Sqm High-Floor At Supalai Lite Sathorn-Charoenrat (ID 1991364)",
+        "th": "1-BR 54 Sqm High-Floor At Supalai Lite Sathorn-Charoenrat (ID 1991364)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 54 sq.m., 4,400,000 THB. Source PropertyHub #5718427.",
+        "zh": "出售：1卧，54㎡，4,400,000 泰铢。来源 PropertyHub #5718427。",
+        "th": "ขาย: 1 นอน 54 ตร.ม. ราคา 4,400,000 บาท (PropertyHub #5718427)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5718427. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5718427。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5718427 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-lite-sathorn-charoenrat-in-bang-khlo-id-1991364---5718427",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.70191776557095,
+      "longitude": 100.51641380711567,
+      "duplicate_fingerprint": "452eeae1e24d733a57035f45bbc08bb15513a6b36af56d161003f9f65971b63e"
+    },
+    {
+      "external_ref": "propertyhub-4083638",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 85,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "2-BR 85 Sqm High-Floor At Supalai Lite Sathorn-Charoenrat (ID 515488)",
+        "zh": "2-BR 85 Sqm High-Floor At Supalai Lite Sathorn-Charoenrat (ID 515488)",
+        "th": "2-BR 85 Sqm High-Floor At Supalai Lite Sathorn-Charoenrat (ID 515488)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 85 sq.m., 30,000 THB. Source PropertyHub #4083638.",
+        "zh": "出租：2卧，85㎡，30,000 泰铢。来源 PropertyHub #4083638。",
+        "th": "เช่า: 2 นอน 85 ตร.ม. ราคา 30,000 บาท (PropertyHub #4083638)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4083638. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4083638。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4083638 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-85-sqm-high-floor-at-supalai-lite-sathorn-charoenrat-id-515488---4083638",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.70191776557095,
+      "longitude": 100.51641380711567,
+      "duplicate_fingerprint": "0214eba67d210498af68ef89c519a01e74a31bf66d3193c70cca3a6541936021"
+    },
+    {
+      "external_ref": "propertyhub-5844749",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 82,
+      "floor_label": "24",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "For Rent Condo , Supalai Lite Sathorn-Charoenrat , BTS-Surasak , Bang Khlo , Bang Kho Laem , Bangkok , CX-84475 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , Supalai Lite Sathorn-Charoenrat , BTS-Surasak , Bang Khlo , Bang Kho Laem , Bangkok , CX-84475 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , Supalai Lite Sathorn-Charoenrat , BTS-Surasak , Bang Khlo , Bang Kho Laem , Bangkok , CX-84475 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 82 sq.m., 35,000 THB. Source PropertyHub #5844749.",
+        "zh": "出租：2卧，82㎡，35,000 泰铢。来源 PropertyHub #5844749。",
+        "th": "เช่า: 2 นอน 82 ตร.ม. ราคา 35,000 บาท (PropertyHub #5844749)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5844749. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5844749。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5844749 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-supalai-lite-sathorn-charoenrat-bts-surasak-bang-khlo-bang-kho-laem-bangkok-cx-84475-live-chat-with-us-add-line-connexproperty---5844749",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.70191776557095,
+      "longitude": 100.51641380711567,
+      "duplicate_fingerprint": "abbc20aea212f01471abec7b17671f96141b24c94971e362573aed42ab90851a"
+    },
+    {
+      "external_ref": "propertyhub-5130312",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 51.5,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "Code: KJ6643  for rent Supalai Lite Sathorn - Charoenrat // Line ID: @kjcondo (with @) //",
+        "zh": "Code: KJ6643  for rent Supalai Lite Sathorn - Charoenrat // Line ID: @kjcondo (with @) //",
+        "th": "Code: KJ6643  for rent Supalai Lite Sathorn - Charoenrat // Line ID: @kjcondo (with @) //"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 51.5 sq.m., 20,000 THB. Source PropertyHub #5130312.",
+        "zh": "出租：1卧，51.5㎡，20,000 泰铢。来源 PropertyHub #5130312。",
+        "th": "เช่า: 1 นอน 51.5 ตร.ม. ราคา 20,000 บาท (PropertyHub #5130312)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5130312. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5130312。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5130312 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/code-kj6643-for-rent-supalai-lite-sathorn-charoenrat-line-id-kjcondo-with---5130312",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.70191776557095,
+      "longitude": 100.51641380711567,
+      "duplicate_fingerprint": "684d125accff570da068e420b2916df6545aac138f627e9973e64d459174fdc1"
+    },
+    {
+      "external_ref": "propertyhub-6209736",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 49,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bed 49 SQ.M Supalai Lite Sathorn - Charoenrat",
+        "zh": "1 Bed 49 SQ.M Supalai Lite Sathorn - Charoenrat",
+        "th": "1 Bed 49 SQ.M Supalai Lite Sathorn - Charoenrat"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 49 sq.m., 14,000 THB. Source PropertyHub #6209736.",
+        "zh": "出租：1卧，49㎡，14,000 泰铢。来源 PropertyHub #6209736。",
+        "th": "เช่า: 1 นอน 49 ตร.ม. ราคา 14,000 บาท (PropertyHub #6209736)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6209736. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6209736。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6209736 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bed-49-sq-m-supalai-lite-sathorn-charoenrat--af0509d5---6209736",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.70191776557095,
+      "longitude": 100.51641380711567,
+      "duplicate_fingerprint": "51719aef5c8bb60375d5673ba4fc20e72959fac68cbdc550ba44bb4473759e6b"
+    },
+    {
+      "external_ref": "propertyhub-5801963",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 51.5,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "51.5 sqm condo on high floor in Bang Khlo Bangkok",
+        "zh": "51.5 sqm condo on high floor in Bang Khlo Bangkok",
+        "th": "51.5 sqm condo on high floor in Bang Khlo Bangkok"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 51.5 sq.m., 20,000 THB. Source PropertyHub #5801963.",
+        "zh": "出租：1卧，51.5㎡，20,000 泰铢。来源 PropertyHub #5801963。",
+        "th": "เช่า: 1 นอน 51.5 ตร.ม. ราคา 20,000 บาท (PropertyHub #5801963)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5801963. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5801963。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5801963 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/51-5-sqm-condo-on-high-floor-in-bang-khlo-bangkok--abd30947---5801963",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.70191776557095,
+      "longitude": 100.51641380711567,
+      "duplicate_fingerprint": "462bd86e9586efca42756db0209064a63fca83cde523c8b83d03e2248e7d8401"
+    }
+  ]
+}

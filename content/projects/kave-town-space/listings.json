@@ -1,0 +1,344 @@
+{
+  "project_slug": "kave-town-space",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-5690859",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 1900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24.37,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "Prime Investment Opportunity! Urgent Sale! Kave Town Space Condo – Right next to Bangkok University (Rangsit). 8th Floor with Unobstructed Views,",
+        "zh": "Prime Investment Opportunity! Urgent Sale! Kave Town Space Condo – Right next to Bangkok University (Rangsit). 8th Floor with Unobstructed Views,",
+        "th": "Prime Investment Opportunity! Urgent Sale! Kave Town Space Condo – Right next to Bangkok University (Rangsit). 8th Floor with Unobstructed Views,"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 24.37 sq.m., 1,900,000 THB. Source PropertyHub #5690859.",
+        "zh": "出售：1卧，24.37㎡，1,900,000 泰铢。来源 PropertyHub #5690859。",
+        "th": "ขาย: 1 นอน 24.37 ตร.ม. ราคา 1,900,000 บาท (PropertyHub #5690859)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5690859. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5690859。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5690859 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/prime-investment-opportunity-urgent-sale-kave-town-space-condo-right-next-to-bangkok-university-rangsit-8th-floor-with-unobstructed-views--a57908ed---5690859",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 14.04172405787639,
+      "longitude": 100.61625996380631,
+      "duplicate_fingerprint": "d6b9b3caaf45802fe03d9b65bd78d0472af0454a388d3e98a395be65716da74b"
+    },
+    {
+      "external_ref": "propertyhub-6197332",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2050000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "1-BR 25 Sqm Condo For Sale At KAVE Town Space, Pathum Thani (ID 3011943)",
+        "zh": "1-BR 25 Sqm Condo For Sale At KAVE Town Space, Pathum Thani (ID 3011943)",
+        "th": "1-BR 25 Sqm Condo For Sale At KAVE Town Space, Pathum Thani (ID 3011943)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 25 sq.m., 2,050,000 THB. Source PropertyHub #6197332.",
+        "zh": "出售：1卧，25㎡，2,050,000 泰铢。来源 PropertyHub #6197332。",
+        "th": "ขาย: 1 นอน 25 ตร.ม. ราคา 2,050,000 บาท (PropertyHub #6197332)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6197332. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6197332。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6197332 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-25-sqm-condo-for-sale-at-kave-town-space-pathum-thani-id-3011943---6197332",
+      "source_updated_at": "2026-07-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 14.04172405787639,
+      "longitude": 100.61625996380631,
+      "duplicate_fingerprint": "44e8970c064cff1349fd3d2747cff1b2edf0bf484ce958038b71adaf6a2df7de"
+    },
+    {
+      "external_ref": "propertyhub-3398208",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "2",
+      "building_label": "ตึก D",
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "KAVEe town space for sale.....",
+        "zh": "KAVEe town space for sale.....",
+        "th": "KAVEe town space for sale....."
+      },
+      "summary": {
+        "en": "Sale: 1BR, 24 sq.m., 2,000,000 THB. Source PropertyHub #3398208.",
+        "zh": "出售：1卧，24㎡，2,000,000 泰铢。来源 PropertyHub #3398208。",
+        "th": "ขาย: 1 นอน 24 ตร.ม. ราคา 2,000,000 บาท (PropertyHub #3398208)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3398208. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3398208。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3398208 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/kavee-town-space-for-sale--aa4c0918---3398208",
+      "source_updated_at": "2026-06-30",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 14.04172405787639,
+      "longitude": 100.61625996380631,
+      "duplicate_fingerprint": "d08d97cb84a3e07c67dc22cce79e43663c5ae79185827db417558306929789c1"
+    },
+    {
+      "external_ref": "propertyhub-5182277",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "2",
+      "building_label": "C",
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "P987 Condo for rent, Kave Town Space , beautiful room, fully furnished, ready to move in, has a washing machine.",
+        "zh": "P987 Condo for rent, Kave Town Space , beautiful room, fully furnished, ready to move in, has a washing machine.",
+        "th": "P987 Condo for rent, Kave Town Space , beautiful room, fully furnished, ready to move in, has a washing machine."
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 13,000 THB. Source PropertyHub #5182277.",
+        "zh": "出租：1卧，30㎡，13,000 泰铢。来源 PropertyHub #5182277。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 13,000 บาท (PropertyHub #5182277)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5182277. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5182277。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5182277 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/p987-condo-for-rent-kave-town-space-beautiful-room-fully-furnished-ready-to-move-in-has-a-washing-machine---5182277",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 14.04172405787639,
+      "longitude": 100.61625996380631,
+      "duplicate_fingerprint": "d8a4a422611df3ef1c96ed1760aa0fd2e477fb9daa38dc3ef3115a30225fdc68"
+    },
+    {
+      "external_ref": "propertyhub-2620361",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "1",
+      "building_label": "ตึก B",
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "Kave Kave Kave Town Space for rent",
+        "zh": "Kave Kave Kave Town Space for rent",
+        "th": "Kave Kave Kave Town Space for rent"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 13,000 THB. Source PropertyHub #2620361.",
+        "zh": "出租：1卧，27㎡，13,000 泰铢。来源 PropertyHub #2620361。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 13,000 บาท (PropertyHub #2620361)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 2620361. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 2620361。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 2620361 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/kave-kave-kave-town-space-for-rent--9e4a0929---2620361",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 14.04172405787639,
+      "longitude": 100.61625996380631,
+      "duplicate_fingerprint": "c895e733a82649900dc52f961c1578b4e344f82367952f302709ac23340846e8"
+    },
+    {
+      "external_ref": "propertyhub-6131779",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 11000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25,
+      "floor_label": "5",
+      "building_label": "B",
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": " For Rent: Kave Town Space Next to Bangkok University, Building B, 5th floor Size 25 sq.m. | Outside view 🩵",
+        "zh": " For Rent: Kave Town Space Next to Bangkok University, Building B, 5th floor Size 25 sq.m. | Outside view 🩵",
+        "th": " For Rent: Kave Town Space Next to Bangkok University, Building B, 5th floor Size 25 sq.m. | Outside view 🩵"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 25 sq.m., 11,000 THB. Source PropertyHub #6131779.",
+        "zh": "出租：1卧，25㎡，11,000 泰铢。来源 PropertyHub #6131779。",
+        "th": "เช่า: 1 นอน 25 ตร.ม. ราคา 11,000 บาท (PropertyHub #6131779)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6131779. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6131779。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6131779 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/6131779",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 14.04172405787639,
+      "longitude": 100.61625996380631,
+      "duplicate_fingerprint": "8160d09dbdc54baa6f2c3efbaf7e85070427838c2d5b579adb0cb5dd19416f92"
+    },
+    {
+      "external_ref": "propertyhub-4963853",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "2",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "#R2776 For rent  Kave Town Space",
+        "zh": "#R2776 For rent  Kave Town Space",
+        "th": "#R2776 For rent  Kave Town Space"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 24 sq.m., 13,000 THB. Source PropertyHub #4963853.",
+        "zh": "出租：1卧，24㎡，13,000 泰铢。来源 PropertyHub #4963853。",
+        "th": "เช่า: 1 นอน 24 ตร.ม. ราคา 13,000 บาท (PropertyHub #4963853)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4963853. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4963853。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4963853 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/r2776-for-rent-kave-town-space---4963853",
+      "source_updated_at": "2026-07-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 14.04172405787639,
+      "longitude": 100.61625996380631,
+      "duplicate_fingerprint": "29676466663b3f10964f31f8eaad345977e0884dbee4072ea4820ee66b15ebf6"
+    },
+    {
+      "external_ref": "propertyhub-5368967",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "2",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "#Z2074 Condo for rent: Kave Town Space ",
+        "zh": "#Z2074 Condo for rent: Kave Town Space ",
+        "th": "#Z2074 Condo for rent: Kave Town Space "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 13,000 THB. Source PropertyHub #5368967.",
+        "zh": "出租：1卧，30㎡，13,000 泰铢。来源 PropertyHub #5368967。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 13,000 บาท (PropertyHub #5368967)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5368967. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5368967。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5368967 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/z2074-condo-for-rent-kave-town-space---5368967",
+      "source_updated_at": "2026-07-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 14.04172405787639,
+      "longitude": 100.61625996380631,
+      "duplicate_fingerprint": "ba165fc0828931ea6c17b25e85d5b2f81dfccda1ee4fd02101765519846e39e3"
+    }
+  ]
+}

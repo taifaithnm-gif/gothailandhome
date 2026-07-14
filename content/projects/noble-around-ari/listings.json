@@ -1,0 +1,888 @@
+{
+  "project_slug": "noble-around-ari",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-5878521",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5100000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26.5,
+      "floor_label": "36",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Studio 1 Bathroom 27 SQ.M Noble Around Ari",
+        "zh": "Studio 1 Bathroom 27 SQ.M Noble Around Ari",
+        "th": "Studio 1 Bathroom 27 SQ.M Noble Around Ari"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 26.5 sq.m., 5,100,000 THB. Source PropertyHub #5878521.",
+        "zh": "出售：1卧，26.5㎡，5,100,000 泰铢。来源 PropertyHub #5878521。",
+        "th": "ขาย: 1 นอน 26.5 ตร.ม. ราคา 5,100,000 บาท (PropertyHub #5878521)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5878521. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5878521。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5878521 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/studio-1-bathroom-27-sq-m-noble-around-ari---5878521",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "813eeaafadbbbad4c1670439aecf0a68d2e620afd78370c44fa7d17bff07ddb2"
+    },
+    {
+      "external_ref": "propertyhub-5675869",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8490000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 44.2,
+      "floor_label": "2X",
+      "building_label": "X",
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Massive Sale! Renovated Noble Around Ari ",
+        "zh": "Massive Sale! Renovated Noble Around Ari ",
+        "th": "Massive Sale! Renovated Noble Around Ari "
+      },
+      "summary": {
+        "en": "Sale: 2BR, 44.2 sq.m., 8,490,000 THB. Source PropertyHub #5675869.",
+        "zh": "出售：2卧，44.2㎡，8,490,000 泰铢。来源 PropertyHub #5675869。",
+        "th": "ขาย: 2 นอน 44.2 ตร.ม. ราคา 8,490,000 บาท (PropertyHub #5675869)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5675869. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5675869。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5675869 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/massive-sale-renovated-noble-around-ari--b21009cd---5675869",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "38b2fa5735880782697e5559abb54999308001f3bb98d0c21413b74cdaa5b337"
+    },
+    {
+      "external_ref": "propertyhub-5607251",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6100000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "13",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Sale Condo , Noble Around Ari , BTS-Ari , Sam Sen Nai , Phaya Thai , Bangkok , CX-125069 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Sale Condo , Noble Around Ari , BTS-Ari , Sam Sen Nai , Phaya Thai , Bangkok , CX-125069 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Sale Condo , Noble Around Ari , BTS-Ari , Sam Sen Nai , Phaya Thai , Bangkok , CX-125069 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 6,100,000 THB. Source PropertyHub #5607251.",
+        "zh": "出售：1卧，35㎡，6,100,000 泰铢。来源 PropertyHub #5607251。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 6,100,000 บาท (PropertyHub #5607251)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5607251. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5607251。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5607251 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-noble-around-ari-bts-ari-sam-sen-nai-phaya-thai-bangkok-cx-125069-live-chat-with-us-add-line-connexproperty---5607251",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "26698b4262b127baaf083722f0411284b2fa43baa4a7463642fb8d66d3fa1e6e"
+    },
+    {
+      "external_ref": "propertyhub-5642906",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26.4,
+      "floor_label": "2",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Sale Condo , Noble Around Ari , BTS-Ari , Sam Sen Nai , Phaya Thai , Bangkok , CX-114596 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Sale Condo , Noble Around Ari , BTS-Ari , Sam Sen Nai , Phaya Thai , Bangkok , CX-114596 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Sale Condo , Noble Around Ari , BTS-Ari , Sam Sen Nai , Phaya Thai , Bangkok , CX-114596 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 26.4 sq.m., 4,500,000 THB. Source PropertyHub #5642906.",
+        "zh": "出售：1卧，26.4㎡，4,500,000 泰铢。来源 PropertyHub #5642906。",
+        "th": "ขาย: 1 นอน 26.4 ตร.ม. ราคา 4,500,000 บาท (PropertyHub #5642906)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5642906. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5642906。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5642906 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-noble-around-ari-bts-ari-sam-sen-nai-phaya-thai-bangkok-cx-114596-live-chat-with-us-add-line-connexproperty--a9320958---5642906",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "005787c735ebedac0b191c4e27b0ba2da109544a20fd921e7c62e4c6e5e039b7"
+    },
+    {
+      "external_ref": "propertyhub-6165311",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26.4,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Sale Condo , Noble Around Ari , BTS-Ari , Sam Sen Nai , Phaya Thai , Bangkok , CX-149808 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Sale Condo , Noble Around Ari , BTS-Ari , Sam Sen Nai , Phaya Thai , Bangkok , CX-149808 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Sale Condo , Noble Around Ari , BTS-Ari , Sam Sen Nai , Phaya Thai , Bangkok , CX-149808 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 26.4 sq.m., 4,500,000 THB. Source PropertyHub #6165311.",
+        "zh": "出售：1卧，26.4㎡，4,500,000 泰铢。来源 PropertyHub #6165311。",
+        "th": "ขาย: 1 นอน 26.4 ตร.ม. ราคา 4,500,000 บาท (PropertyHub #6165311)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6165311. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6165311。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6165311 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-noble-around-ari-bts-ari-sam-sen-nai-phaya-thai-bangkok-cx-149808-live-chat-with-us-add-line-connexproperty---6165311",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "d1852dde2a18e85e11b7bb3f6a3b8484824ae2acd8811e5d9aa05757f9e38297"
+    },
+    {
+      "external_ref": "propertyhub-6187638",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5568000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34.8,
+      "floor_label": "1",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "New Condo for Sale: Noble Around Ari – A luxury high-rise condominium on Phaholyothin Road, only 90 metres from BTS Ari,",
+        "zh": "New Condo for Sale: Noble Around Ari – A luxury high-rise condominium on Phaholyothin Road, only 90 metres from BTS Ari,",
+        "th": "New Condo for Sale: Noble Around Ari – A luxury high-rise condominium on Phaholyothin Road, only 90 metres from BTS Ari,"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 34.8 sq.m., 5,568,000 THB. Source PropertyHub #6187638.",
+        "zh": "出售：1卧，34.8㎡，5,568,000 泰铢。来源 PropertyHub #6187638。",
+        "th": "ขาย: 1 นอน 34.8 ตร.ม. ราคา 5,568,000 บาท (PropertyHub #6187638)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6187638. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6187638。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6187638 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/new-condo-for-sale-noble-around-ari-a-luxury-high-rise-condominium-on-phaholyothin-road-only-90-metres-from-bts-ari---6187638",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "2c1d0d7534d68db52d47cd0b1981fa27e48a604962b84af09e5512f6b7a51fa2"
+    },
+    {
+      "external_ref": "propertyhub-5330760",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34.88,
+      "floor_label": "38",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Noble Around Ari – 2-min walk to BTS | Top Floor 38F 5650097",
+        "zh": "Noble Around Ari – 2-min walk to BTS | Top Floor 38F 5650097",
+        "th": "Noble Around Ari – 2-min walk to BTS | Top Floor 38F 5650097"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 34.88 sq.m., 7,600,000 THB. Source PropertyHub #5330760.",
+        "zh": "出售：1卧，34.88㎡，7,600,000 泰铢。来源 PropertyHub #5330760。",
+        "th": "ขาย: 1 นอน 34.88 ตร.ม. ราคา 7,600,000 บาท (PropertyHub #5330760)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5330760. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5330760。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5330760 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/noble-around-ari-2-min-walk-to-bts-top-floor-38f-5650097--a3400919---5330760",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "040150bf64efbaec52d69a518b424ba7a3fda003b9aba538dfc9c5927aaa42e3"
+    },
+    {
+      "external_ref": "propertyhub-6190036",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "38",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Noble Around Ari – 2-min walk to BTS | Top Floor 38F 6535224",
+        "zh": "Noble Around Ari – 2-min walk to BTS | Top Floor 38F 6535224",
+        "th": "Noble Around Ari – 2-min walk to BTS | Top Floor 38F 6535224"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 7,600,000 THB. Source PropertyHub #6190036.",
+        "zh": "出售：1卧，35㎡，7,600,000 泰铢。来源 PropertyHub #6190036。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 7,600,000 บาท (PropertyHub #6190036)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6190036. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6190036。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6190036 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/noble-around-ari-2-min-walk-to-bts-top-floor-38f-6535224---6190036",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "b8d7c373c8ace4a5042bcf5e693099bb2ca82bf67a39c26389bcf0607be4e44c"
+    },
+    {
+      "external_ref": "propertyhub-5793794",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "38",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Noble Around Ari – 2-min walk to BTS | Top Floor 38F 6019177",
+        "zh": "Noble Around Ari – 2-min walk to BTS | Top Floor 38F 6019177",
+        "th": "Noble Around Ari – 2-min walk to BTS | Top Floor 38F 6019177"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 7,600,000 THB. Source PropertyHub #5793794.",
+        "zh": "出售：1卧，35㎡，7,600,000 泰铢。来源 PropertyHub #5793794。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 7,600,000 บาท (PropertyHub #5793794)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5793794. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5793794。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5793794 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/noble-around-ari-2-min-walk-to-bts-top-floor-38f-6019177--b28f098e---5793794",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "74fefc2d073aad63c91d58d420e79109d951b91f2c6519b2b8b5e639c11ebb99"
+    },
+    {
+      "external_ref": "propertyhub-6213754",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 41.6,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Sale | Noble Around Ari 6569678",
+        "zh": "For Sale | Noble Around Ari 6569678",
+        "th": "For Sale | Noble Around Ari 6569678"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 41.6 sq.m., 6,400,000 THB. Source PropertyHub #6213754.",
+        "zh": "出售：1卧，41.6㎡，6,400,000 泰铢。来源 PropertyHub #6213754。",
+        "th": "ขาย: 1 นอน 41.6 ตร.ม. ราคา 6,400,000 บาท (PropertyHub #6213754)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6213754. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6213754。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6213754 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-noble-around-ari-6569678---6213754",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "a7173c51fa382a44e88429fe9957f741fd35b8df78d63ceb68a9bd586f295e55"
+    },
+    {
+      "external_ref": "propertyhub-5939185",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26.54,
+      "floor_label": "30+",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1 Bed Super High Floor 30+ City View Fully furnished Good Location Close To BTS Ari station  @ Noble Around Ari",
+        "zh": "1 Bed Super High Floor 30+ City View Fully furnished Good Location Close To BTS Ari station  @ Noble Around Ari",
+        "th": "1 Bed Super High Floor 30+ City View Fully furnished Good Location Close To BTS Ari station  @ Noble Around Ari"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26.54 sq.m., 18,000 THB. Source PropertyHub #5939185.",
+        "zh": "出租：1卧，26.54㎡，18,000 泰铢。来源 PropertyHub #5939185。",
+        "th": "เช่า: 1 นอน 26.54 ตร.ม. ราคา 18,000 บาท (PropertyHub #5939185)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5939185. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5939185。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5939185 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bed-super-high-floor-30-city-view-fully-furnished-good-location-close-to-bts-ari-station-noble-around-ari--b0170979---5939185",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "386d517cf7128c27cc50964ed0b36a6ae952f8aeb80e991dc91f0c53bd177487"
+    },
+    {
+      "external_ref": "propertyhub-5649119",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "30",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Well-Priced 1-BR Condo, Noble Around Ari, 100m to BTS Ari 📍 (ID 2471061)",
+        "zh": "Well-Priced 1-BR Condo, Noble Around Ari, 100m to BTS Ari 📍 (ID 2471061)",
+        "th": "Well-Priced 1-BR Condo, Noble Around Ari, 100m to BTS Ari 📍 (ID 2471061)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 22,000 THB. Source PropertyHub #5649119.",
+        "zh": "出租：1卧，27㎡，22,000 泰铢。来源 PropertyHub #5649119。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 22,000 บาท (PropertyHub #5649119)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5649119. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5649119。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5649119 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-noble-around-ari-near-bts-ari-id-2471061---5649119",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "4704f9e9ad02a945e25cfe5f988012cb6088feab70452264382bddb36668167d"
+    },
+    {
+      "external_ref": "propertyhub-6048613",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26.54,
+      "floor_label": "31",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR Condo In Noble Around Ari, High-Floor 31st, 100m To BTS Ari (ID 2885031)",
+        "zh": "1-BR Condo In Noble Around Ari, High-Floor 31st, 100m To BTS Ari (ID 2885031)",
+        "th": "1-BR Condo In Noble Around Ari, High-Floor 31st, 100m To BTS Ari (ID 2885031)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26.54 sq.m., 25,000 THB. Source PropertyHub #6048613.",
+        "zh": "出租：1卧，26.54㎡，25,000 泰铢。来源 PropertyHub #6048613。",
+        "th": "เช่า: 1 นอน 26.54 ตร.ม. ราคา 25,000 บาท (PropertyHub #6048613)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6048613. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6048613。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6048613 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/studio-condo-at-noble-around-ari-near-bts-ari-id-2885031---6048613",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "9abcd66754bf36262d5e1a2bf457e10d1372feacff35b27ec40db22bda2053e4"
+    },
+    {
+      "external_ref": "propertyhub-5179575",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 26000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "2",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR Condo At Noble Around Ari, 100m to BTS Ari (ID 2154219)",
+        "zh": "1-BR Condo At Noble Around Ari, 100m to BTS Ari (ID 2154219)",
+        "th": "1-BR Condo At Noble Around Ari, 100m to BTS Ari (ID 2154219)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 26,000 THB. Source PropertyHub #5179575.",
+        "zh": "出租：1卧，27㎡，26,000 泰铢。来源 PropertyHub #5179575。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 26,000 บาท (PropertyHub #5179575)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5179575. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5179575。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5179575 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/near-bts-ari-100m-1-br-27-sqm-noble-around-ari-id-2154219---5179575",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "66ed8aabc9e3438f396ca6b1a7eafa91be4ba7493b18377498a69ccbcf3c95c7"
+    },
+    {
+      "external_ref": "propertyhub-4464321",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Well-Priced 1-BR Condo at Noble Around Ari, 100m to BTS Ari (ID 1534619)",
+        "zh": "Well-Priced 1-BR Condo at Noble Around Ari, 100m to BTS Ari (ID 1534619)",
+        "th": "Well-Priced 1-BR Condo at Noble Around Ari, 100m to BTS Ari (ID 1534619)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 24,000 THB. Source PropertyHub #4464321.",
+        "zh": "出租：1卧，27㎡，24,000 泰铢。来源 PropertyHub #4464321。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 24,000 บาท (PropertyHub #4464321)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4464321. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4464321。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4464321 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/well-priced-1-br-condo-at-noble-around-ari-100m-to-bts-ari-id-1534619---4464321",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "0923044b81de6a38c370560e4f38479c259c71a84ac17b9f6c7ab72b975bb38e"
+    },
+    {
+      "external_ref": "propertyhub-5288877",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22800,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 27 Sqm Condo At Noble Around Ari, 100m To BTS Ari (ID 2229714)",
+        "zh": "1-BR 27 Sqm Condo At Noble Around Ari, 100m To BTS Ari (ID 2229714)",
+        "th": "1-BR 27 Sqm Condo At Noble Around Ari, 100m To BTS Ari (ID 2229714)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 22,800 THB. Source PropertyHub #5288877.",
+        "zh": "出租：1卧，27㎡，22,800 泰铢。来源 PropertyHub #5288877。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 22,800 บาท (PropertyHub #5288877)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5288877. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5288877。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5288877 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-noble-around-ari-near-bts-ari-id-2229714---5288877",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "c085a099597caf2bfff006489089d34e1269e19d94dd9e40407293ec7f2c971b"
+    },
+    {
+      "external_ref": "propertyhub-6163782",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 26000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "2",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR Condo At Noble Around Ari, 100m To BTS Ari (ID 3019133)",
+        "zh": "1-BR Condo At Noble Around Ari, 100m To BTS Ari (ID 3019133)",
+        "th": "1-BR Condo At Noble Around Ari, 100m To BTS Ari (ID 3019133)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 26,000 THB. Source PropertyHub #6163782.",
+        "zh": "出租：1卧，27㎡，26,000 泰铢。来源 PropertyHub #6163782。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 26,000 บาท (PropertyHub #6163782)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6163782. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6163782。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6163782 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-noble-around-ari-near-bts-ari-id-3019133--a4a00934---6163782",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "1d12d378939d1a26ce91462b56ebbf88b20ad899817d2cbc626989ec1406b00f"
+    },
+    {
+      "external_ref": "propertyhub-4774067",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 21800,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26.5,
+      "floor_label": "4",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR Condo At Noble Around Ari, BTS Ari 100m, Ari (ID 1885122)",
+        "zh": "1-BR Condo At Noble Around Ari, BTS Ari 100m, Ari (ID 1885122)",
+        "th": "1-BR Condo At Noble Around Ari, BTS Ari 100m, Ari (ID 1885122)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26.5 sq.m., 21,800 THB. Source PropertyHub #4774067.",
+        "zh": "出租：1卧，26.5㎡，21,800 泰铢。来源 PropertyHub #4774067。",
+        "th": "เช่า: 1 นอน 26.5 ตร.ม. ราคา 21,800 บาท (PropertyHub #4774067)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4774067. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4774067。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4774067 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-noble-around-ari-near-bts-ari-id-1885122--a964092f---4774067",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "e4574c9378afc41ee21ec8a404befcdf9a31d8d701ed343eb94e7c117c0c8fdb"
+    },
+    {
+      "external_ref": "propertyhub-4891100",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 26000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "36",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Attractive Price 1-BR 35 Sqm At Noble Around Ari Near BTS Ari (100m) (ID 1999315)",
+        "zh": "Attractive Price 1-BR 35 Sqm At Noble Around Ari Near BTS Ari (100m) (ID 1999315)",
+        "th": "Attractive Price 1-BR 35 Sqm At Noble Around Ari Near BTS Ari (100m) (ID 1999315)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 26,000 THB. Source PropertyHub #4891100.",
+        "zh": "出租：1卧，35㎡，26,000 泰铢。来源 PropertyHub #4891100。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 26,000 บาท (PropertyHub #4891100)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4891100. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4891100。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4891100 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-noble-around-ari-near-bts-ari-id-1999315--abbd0957---4891100",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "59819abde6f4aeebeb367e97c2078c0ffa1cb94eae289a29fdcdb05d82d76938"
+    },
+    {
+      "external_ref": "propertyhub-5196856",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "26th-Floor 1-BR 27 Sqm Condo At Noble Around Ari, 100m to BTS Ari (ID 2166385)",
+        "zh": "26th-Floor 1-BR 27 Sqm Condo At Noble Around Ari, 100m to BTS Ari (ID 2166385)",
+        "th": "26th-Floor 1-BR 27 Sqm Condo At Noble Around Ari, 100m to BTS Ari (ID 2166385)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 25,000 THB. Source PropertyHub #5196856.",
+        "zh": "出租：1卧，27㎡，25,000 泰铢。来源 PropertyHub #5196856。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 25,000 บาท (PropertyHub #5196856)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5196856. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5196856。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5196856 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-noble-around-ari-near-bts-ari-id-2166385---5196856",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.778012358807468,
+      "longitude": 100.54423048297679,
+      "duplicate_fingerprint": "98a5d94ca09b1cf843a895032716c19243af017531404724199244831faccdab"
+    }
+  ]
+}

@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Casa Condo Asoke-Dindaeng official / developer page",
       "url": "https://www.qh.co.th/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/casa-condo-asoke-dindaeng"
     }
   ],
   "developer": {
@@ -55,13 +60,15 @@
       "th": "ดินแดง กรุงเทพฯ"
     },
     "postal_code": "10400",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.76030521468148,
+    "longitude": 100.5554729634443,
+    "google_maps_url": "https://www.google.com/maps?q=13.76030521468148,100.5554729634443",
     "official_website": "https://www.qh.co.th/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["mrt"],
+    "facebook_url": "https://www.facebook.com/QualityHouses",
+    "completion_year": 2013,
+    "transit_tags": [
+      "mrt"
+    ],
     "seo": {
       "title": {
         "en": "Casa Condo Asoke-Dindaeng Condo in Din Daeng, Bangkok | GoThailandHome",
@@ -73,6 +80,424 @@
         "zh": "Casa Condo Asoke-Dindaeng项目页（曼谷丁丹），来源为开发商官方站点。",
         "th": "หน้าโครงการ คาซ่า คอนโด อโศก-ดินแดง เขตดินแดง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasanmit Campus",
+          "zh": "Srinakharinwirot University Prasanmit Campus",
+          "th": "Srinakharinwirot University Prasanmit Campus"
+        },
+        "distance_m": 2793,
+        "slug": "srinakharinwirot-university-prasanmit-campus",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "University of the Thai Chamber of Commerce",
+          "zh": "University of the Thai Chamber of Commerce",
+          "th": "University of the Thai Chamber of Commerce"
+        },
+        "distance_m": 3192,
+        "slug": "university-of-the-thai-chamber-of-commerce",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Mahidol University Phaya Thai",
+          "zh": "Mahidol University Phaya Thai",
+          "th": "Mahidol University Phaya Thai"
+        },
+        "distance_m": 3942,
+        "slug": "mahidol-university-phaya-thai",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Borom Ratchachonnani Bangkok Nursing College",
+          "zh": "Borom Ratchachonnani Bangkok Nursing College",
+          "th": "Borom Ratchachonnani Bangkok Nursing College"
+        },
+        "distance_m": 2420,
+        "slug": "borom-ratchachonnani-bangkok-nursing-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phramongkutklao College of Medicine",
+          "zh": "Phramongkutklao College of Medicine",
+          "th": "Phramongkutklao College of Medicine"
+        },
+        "distance_m": 3157,
+        "slug": "phramongkutklao-college-of-medicine",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Royal Thai Army Nursing College",
+          "zh": "Royal Thai Army Nursing College",
+          "th": "Royal Thai Army Nursing College"
+        },
+        "distance_m": 3191,
+        "slug": "royal-thai-army-nursing-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Samsen Wittayalai School",
+          "zh": "Samsen Wittayalai School",
+          "th": "Samsen Wittayalai School"
+        },
+        "distance_m": 4674,
+        "slug": "samsen-wittayalai-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "zh": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "th": "Srinakharinwirot University Prasarnmit Demonstration School"
+        },
+        "distance_m": 3213,
+        "slug": "srinakharinwirot-university-prasarnmit-demonstration-school",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "rutnin eye Hospital",
+          "zh": "rutnin eye Hospital",
+          "th": "rutnin eye Hospital"
+        },
+        "distance_m": 2289,
+        "slug": "rutnin-eye-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phraram 9 Hospital",
+          "zh": "Phraram 9 Hospital",
+          "th": "Phraram 9 Hospital"
+        },
+        "distance_m": 2134,
+        "slug": "phraram-9-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phyathai 2 Hospital",
+          "zh": "Phyathai 2 Hospital",
+          "th": "Phyathai 2 Hospital"
+        },
+        "distance_m": 2584,
+        "slug": "phyathai-2-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phyathai Hospital",
+          "zh": "Phyathai Hospital",
+          "th": "Phyathai Hospital"
+        },
+        "distance_m": 2398,
+        "slug": "phyathai-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "‎Rajavithi Hospital",
+          "zh": "‎Rajavithi Hospital",
+          "th": "‎Rajavithi Hospital"
+        },
+        "distance_m": null,
+        "slug": "‎rajavithi-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Piyawet Hospital",
+          "zh": "Piyawet Hospital",
+          "th": "Piyawet Hospital"
+        },
+        "distance_m": 2877,
+        "slug": "piyawet-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bumrungrat Hospital",
+          "zh": "Bumrungrat Hospital",
+          "th": "Bumrungrat Hospital"
+        },
+        "distance_m": 3583,
+        "slug": "bumrungrat-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Hua Chiao Hospital",
+          "zh": "Hua Chiao Hospital",
+          "th": "Hua Chiao Hospital"
+        },
+        "distance_m": 5854,
+        "slug": "hua-chiao-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Robinson Ratchadaphisek",
+          "zh": "Robinson Ratchadaphisek",
+          "th": "Robinson Ratchadaphisek"
+        },
+        "distance_m": 3018,
+        "slug": "robinson-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central World Department Store",
+          "zh": "Central World Department Store",
+          "th": "Central World Department Store"
+        },
+        "distance_m": 3046,
+        "slug": "central-world-department-store",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Pra Tu Nam Center Department Store",
+          "zh": "Pra Tu Nam Center Department Store",
+          "th": "Pra Tu Nam Center Department Store"
+        },
+        "distance_m": 2643,
+        "slug": "pra-tu-nam-center-department-store",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Plaza Grand Rama 9",
+          "zh": "Central Plaza Grand Rama 9",
+          "th": "Central Plaza Grand Rama 9"
+        },
+        "distance_m": 1771,
+        "slug": "central-plaza-grand-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Ratchadamri",
+          "zh": "Big C Super Center Ratchadamri",
+          "th": "Big C Super Center Ratchadamri"
+        },
+        "distance_m": 2961,
+        "slug": "big-c-super-center-ratchadamri",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Ratchadaphisek",
+          "zh": "Big C Extra Ratchadaphisek",
+          "th": "Big C Extra Ratchadaphisek"
+        },
+        "distance_m": 3056,
+        "slug": "big-c-extra-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Plus Phoen Chit",
+          "zh": "HomePro Plus Phoen Chit",
+          "th": "HomePro Plus Phoen Chit"
+        },
+        "distance_m": 4060,
+        "slug": "homepro-plus-phoen-chit",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Robinson Ratchadaphisek",
+          "zh": "Robinson Ratchadaphisek",
+          "th": "Robinson Ratchadaphisek"
+        },
+        "distance_m": 3018,
+        "slug": "robinson-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central World Department Store",
+          "zh": "Central World Department Store",
+          "th": "Central World Department Store"
+        },
+        "distance_m": 3046,
+        "slug": "central-world-department-store",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Pra Tu Nam Center Department Store",
+          "zh": "Pra Tu Nam Center Department Store",
+          "th": "Pra Tu Nam Center Department Store"
+        },
+        "distance_m": 2643,
+        "slug": "pra-tu-nam-center-department-store",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Plaza Grand Rama 9",
+          "zh": "Central Plaza Grand Rama 9",
+          "th": "Central Plaza Grand Rama 9"
+        },
+        "distance_m": 1771,
+        "slug": "central-plaza-grand-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Ratchadamri",
+          "zh": "Big C Super Center Ratchadamri",
+          "th": "Big C Super Center Ratchadamri"
+        },
+        "distance_m": 2961,
+        "slug": "big-c-super-center-ratchadamri",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Ratchadaphisek",
+          "zh": "Big C Extra Ratchadaphisek",
+          "th": "Big C Extra Ratchadaphisek"
+        },
+        "distance_m": 3056,
+        "slug": "big-c-extra-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Plus Phoen Chit",
+          "zh": "HomePro Plus Phoen Chit",
+          "th": "HomePro Plus Phoen Chit"
+        },
+        "distance_m": 4060,
+        "slug": "homepro-plus-phoen-chit",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2013.",
+          "zh": "PropertyHub 记载完工年份为 2013。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2013"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 920 total units.",
+          "zh": "PropertyHub 记载总套数为 920。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 920"
+        }
+      }
+    ]
   }
 }

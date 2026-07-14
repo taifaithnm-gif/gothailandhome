@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Life Ladprao official / developer page",
       "url": "https://www.apthai.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/life-ladprao"
     }
   ],
   "developer": {
@@ -55,13 +60,16 @@
       "th": "จตุจักร กรุงเทพฯ"
     },
     "postal_code": "10900",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.817115444456586,
+    "longitude": 100.56358951228296,
+    "google_maps_url": "https://www.google.com/maps?q=13.817115444456586,100.56358951228296",
     "official_website": "https://www.apthai.com/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["bts"],
+    "facebook_url": "https://www.facebook.com/APthai",
+    "completion_year": 2020,
+    "transit_tags": [
+      "bts",
+      "mrt"
+    ],
     "seo": {
       "title": {
         "en": "Life Ladprao Condo in Chatuchak, Bangkok | GoThailandHome",
@@ -73,6 +81,323 @@
         "zh": "Life 叻抛项目页（曼谷乍都乍），来源为开发商官方站点。",
         "th": "หน้าโครงการ ไลฟ์ ลาดพร้าว เขตจตุจักร อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "steam",
+        "name": {
+          "en": "Steam",
+          "zh": "Steam",
+          "th": "Steam"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Santirat Institute Of Bussiness Adminstration",
+          "zh": "Santirat Institute Of Bussiness Adminstration",
+          "th": "Santirat Institute Of Bussiness Adminstration"
+        },
+        "distance_m": 942,
+        "slug": "santirat-institute-of-bussiness-adminstration",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Satri Woranat Bang Khen School",
+          "zh": "Satri Woranat Bang Khen School",
+          "th": "Satri Woranat Bang Khen School"
+        },
+        "distance_m": 1396,
+        "slug": "satri-woranat-bang-khen-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Ratchananthachan Samsen Witthayalai 2 School",
+          "zh": "Ratchananthachan Samsen Witthayalai 2 School",
+          "th": "Ratchananthachan Samsen Witthayalai 2 School"
+        },
+        "distance_m": 7241,
+        "slug": "ratchananthachan-samsen-witthayalai-2-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Chandrakasem Rajabhat University",
+          "zh": "Chandrakasem Rajabhat University",
+          "th": "Chandrakasem Rajabhat University"
+        },
+        "distance_m": 3926,
+        "slug": "chandrakasem-rajabhat-university",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Big C Extra Lat Phrao (Big C Extra Ladprao)",
+          "zh": "Big C Extra Lat Phrao (Big C Extra Ladprao)",
+          "th": "Big C Extra Lat Phrao (Big C Extra Ladprao)"
+        },
+        "distance_m": 1621,
+        "slug": "big-c-extra-lat-phrao-big-c-extra-ladprao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Lat Phrao (Lotus Ladprao)",
+          "zh": "Tesco Lotus Superstore Lat Phrao (Lotus Ladprao)",
+          "th": "Tesco Lotus Superstore Lat Phrao (Lotus Ladprao)"
+        },
+        "distance_m": 99,
+        "slug": "tesco-lotus-superstore-lat-phrao-lotus-ladprao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Pracha Chuen",
+          "zh": "Tesco Lotus Superstore Pracha Chuen",
+          "th": "Tesco Lotus Superstore Pracha Chuen"
+        },
+        "distance_m": 6633,
+        "slug": "tesco-lotus-superstore-pracha-chuen",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Wong Sawang",
+          "zh": "Big C Super Center Wong Sawang",
+          "th": "Big C Super Center Wong Sawang"
+        },
+        "distance_m": 6472,
+        "slug": "big-c-super-center-wong-sawang",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Chatuchak Weekend Market",
+          "zh": "Chatuchak Weekend Market",
+          "th": "Chatuchak Weekend Market"
+        },
+        "distance_m": 3585,
+        "slug": "chatuchak-weekend-market",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Pracha Niwet Market 1",
+          "zh": "Pracha Niwet Market 1",
+          "th": "Pracha Niwet Market 1"
+        },
+        "distance_m": 4356,
+        "slug": "pracha-niwet-market-1",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central  Ladprao (Central Lat Phrao)",
+          "zh": "Central  Ladprao (Central Lat Phrao)",
+          "th": "Central  Ladprao (Central Lat Phrao)"
+        },
+        "distance_m": 3044,
+        "slug": "central-ladprao-central-lat-phrao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Major Cineplex Ratchayothin",
+          "zh": "Major Cineplex Ratchayothin",
+          "th": "Major Cineplex Ratchayothin"
+        },
+        "distance_m": 3393,
+        "slug": "major-cineplex-ratchayothin",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Big C Extra Lat Phrao (Big C Extra Ladprao)",
+          "zh": "Big C Extra Lat Phrao (Big C Extra Ladprao)",
+          "th": "Big C Extra Lat Phrao (Big C Extra Ladprao)"
+        },
+        "distance_m": 1621,
+        "slug": "big-c-extra-lat-phrao-big-c-extra-ladprao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Lat Phrao (Lotus Ladprao)",
+          "zh": "Tesco Lotus Superstore Lat Phrao (Lotus Ladprao)",
+          "th": "Tesco Lotus Superstore Lat Phrao (Lotus Ladprao)"
+        },
+        "distance_m": 99,
+        "slug": "tesco-lotus-superstore-lat-phrao-lotus-ladprao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Pracha Chuen",
+          "zh": "Tesco Lotus Superstore Pracha Chuen",
+          "th": "Tesco Lotus Superstore Pracha Chuen"
+        },
+        "distance_m": 6633,
+        "slug": "tesco-lotus-superstore-pracha-chuen",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Wong Sawang",
+          "zh": "Big C Super Center Wong Sawang",
+          "th": "Big C Super Center Wong Sawang"
+        },
+        "distance_m": 6472,
+        "slug": "big-c-super-center-wong-sawang",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Chatuchak Weekend Market",
+          "zh": "Chatuchak Weekend Market",
+          "th": "Chatuchak Weekend Market"
+        },
+        "distance_m": 3585,
+        "slug": "chatuchak-weekend-market",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Pracha Niwet Market 1",
+          "zh": "Pracha Niwet Market 1",
+          "th": "Pracha Niwet Market 1"
+        },
+        "distance_m": 4356,
+        "slug": "pracha-niwet-market-1",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central  Ladprao (Central Lat Phrao)",
+          "zh": "Central  Ladprao (Central Lat Phrao)",
+          "th": "Central  Ladprao (Central Lat Phrao)"
+        },
+        "distance_m": 3044,
+        "slug": "central-ladprao-central-lat-phrao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Major Cineplex Ratchayothin",
+          "zh": "Major Cineplex Ratchayothin",
+          "th": "Major Cineplex Ratchayothin"
+        },
+        "distance_m": 3393,
+        "slug": "major-cineplex-ratchayothin",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2020.",
+          "zh": "PropertyHub 记载完工年份为 2020。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2020"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 1615 total units.",
+          "zh": "PropertyHub 记载总套数为 1615。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 1615"
+        }
+      }
+    ]
   }
 }

@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Supalai Veranda Rama 9 official / developer page",
       "url": "https://www.supalai.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/supalai-veranda-rama-9"
     }
   ],
   "developer": {
@@ -55,13 +60,15 @@
       "th": "ห้วยขวาง กรุงเทพฯ"
     },
     "postal_code": "10310",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.75517331874815,
+    "longitude": 100.5826922834842,
+    "google_maps_url": "https://www.google.com/maps?q=13.75517331874815,100.5826922834842",
     "official_website": "https://www.supalai.com/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["mrt"],
+    "facebook_url": "https://www.facebook.com/Supalai",
+    "completion_year": 2019,
+    "transit_tags": [
+      "mrt"
+    ],
     "seo": {
       "title": {
         "en": "Supalai Veranda Rama 9 Condo in Huai Khwang, Bangkok | GoThailandHome",
@@ -73,6 +80,433 @@
         "zh": "苏帕莱 Veranda 拉玛九项目页（曼谷辉煌），来源为开发商官方站点。",
         "th": "หน้าโครงการ ศุภาลัย เวอเรนด้า พระราม 9 เขตห้วยขวาง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "library",
+        "name": {
+          "en": "Library",
+          "zh": "Library",
+          "th": "Library"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": " Thai-Japanese Association School",
+          "zh": " Thai-Japanese Association School",
+          "th": " Thai-Japanese Association School"
+        },
+        "distance_m": 2188,
+        "slug": "thai-japanese-association-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "zh": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "th": "Srinakharinwirot University Prasarnmit Demonstration School"
+        },
+        "distance_m": 3360,
+        "slug": "srinakharinwirot-university-prasarnmit-demonstration-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Lycée Français International de Bangkok",
+          "zh": "Lycée Français International de Bangkok",
+          "th": "Lycée Français International de Bangkok"
+        },
+        "distance_m": 3728,
+        "slug": "lycée-français-international-de-bangkok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Chan Hun Bumpen School",
+          "zh": "Chan Hun Bumpen School",
+          "th": "Chan Hun Bumpen School"
+        },
+        "distance_m": 4823,
+        "slug": "chan-hun-bumpen-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thai Christian School",
+          "zh": "Thai Christian School",
+          "th": "Thai Christian School"
+        },
+        "distance_m": 4111,
+        "slug": "thai-christian-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasanmit Campus",
+          "zh": "Srinakharinwirot University Prasanmit Campus",
+          "th": "Srinakharinwirot University Prasanmit Campus"
+        },
+        "distance_m": 2974,
+        "slug": "srinakharinwirot-university-prasanmit-campus",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "University of the Thai Chamber of Commerce",
+          "zh": "University of the Thai Chamber of Commerce",
+          "th": "University of the Thai Chamber of Commerce"
+        },
+        "distance_m": 5053,
+        "slug": "university-of-the-thai-chamber-of-commerce",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Ratchaphak Technology And Management College",
+          "zh": "Ratchaphak Technology And Management College",
+          "th": "Ratchaphak Technology And Management College"
+        },
+        "distance_m": 3383,
+        "slug": "ratchaphak-technology-and-management-college",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Phraram 9 Hospital",
+          "zh": "Phraram 9 Hospital",
+          "th": "Phraram 9 Hospital"
+        },
+        "distance_m": 1612,
+        "slug": "phraram-9-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Camillian Hospital",
+          "zh": "Camillian Hospital",
+          "th": "Camillian Hospital"
+        },
+        "distance_m": 3577,
+        "slug": "camillian-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok Hospital",
+          "zh": "Bangkok Hospital",
+          "th": "Bangkok Hospital"
+        },
+        "distance_m": 2726,
+        "slug": "bangkok-hospital--af4c09c5",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Piyawet Hospital",
+          "zh": "Piyawet Hospital",
+          "th": "Piyawet Hospital"
+        },
+        "distance_m": 770,
+        "slug": "piyawet-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Klong Tan Hospital ",
+          "zh": "Klong Tan Hospital ",
+          "th": "Klong Tan Hospital "
+        },
+        "distance_m": 3054,
+        "slug": "klong-tan-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Petcharavej Hospital",
+          "zh": "Petcharavej Hospital",
+          "th": "Petcharavej Hospital"
+        },
+        "distance_m": 2952,
+        "slug": "petcharavej-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Robinson Ratchadaphisek",
+          "zh": "Robinson Ratchadaphisek",
+          "th": "Robinson Ratchadaphisek"
+        },
+        "distance_m": 2883,
+        "slug": "robinson-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "DONKI Mall Thonglor  ",
+          "zh": "DONKI Mall Thonglor  ",
+          "th": "DONKI Mall Thonglor  "
+        },
+        "distance_m": null,
+        "slug": "donki-mall-thonglor",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Mall 2 Ramkhamhaeng",
+          "zh": "The Mall 2 Ramkhamhaeng",
+          "th": "The Mall 2 Ramkhamhaeng"
+        },
+        "distance_m": 3444,
+        "slug": "the-mall-2-ramkhamhaeng",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Mall 3 Ramkhamhaeng",
+          "zh": "The Mall 3 Ramkhamhaeng",
+          "th": "The Mall 3 Ramkhamhaeng"
+        },
+        "distance_m": 3386,
+        "slug": "the-mall-3-ramkhamhaeng",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Plaza Grand Rama 9",
+          "zh": "Central Plaza Grand Rama 9",
+          "th": "Central Plaza Grand Rama 9"
+        },
+        "distance_m": 2047,
+        "slug": "central-plaza-grand-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Ratchadaphisek",
+          "zh": "Big C Extra Ratchadaphisek",
+          "th": "Big C Extra Ratchadaphisek"
+        },
+        "distance_m": 3069,
+        "slug": "big-c-extra-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Rama 9",
+          "zh": "HomePro Rama 9",
+          "th": "HomePro Rama 9"
+        },
+        "distance_m": 3750,
+        "slug": "homepro-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Foodland Petchburi",
+          "zh": "Foodland Petchburi",
+          "th": "Foodland Petchburi"
+        },
+        "distance_m": 2730,
+        "slug": "foodland-petchburi",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Robinson Ratchadaphisek",
+          "zh": "Robinson Ratchadaphisek",
+          "th": "Robinson Ratchadaphisek"
+        },
+        "distance_m": 2883,
+        "slug": "robinson-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "DONKI Mall Thonglor  ",
+          "zh": "DONKI Mall Thonglor  ",
+          "th": "DONKI Mall Thonglor  "
+        },
+        "distance_m": null,
+        "slug": "donki-mall-thonglor",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Mall 2 Ramkhamhaeng",
+          "zh": "The Mall 2 Ramkhamhaeng",
+          "th": "The Mall 2 Ramkhamhaeng"
+        },
+        "distance_m": 3444,
+        "slug": "the-mall-2-ramkhamhaeng",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Mall 3 Ramkhamhaeng",
+          "zh": "The Mall 3 Ramkhamhaeng",
+          "th": "The Mall 3 Ramkhamhaeng"
+        },
+        "distance_m": 3386,
+        "slug": "the-mall-3-ramkhamhaeng",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Plaza Grand Rama 9",
+          "zh": "Central Plaza Grand Rama 9",
+          "th": "Central Plaza Grand Rama 9"
+        },
+        "distance_m": 2047,
+        "slug": "central-plaza-grand-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Ratchadaphisek",
+          "zh": "Big C Extra Ratchadaphisek",
+          "th": "Big C Extra Ratchadaphisek"
+        },
+        "distance_m": 3069,
+        "slug": "big-c-extra-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Rama 9",
+          "zh": "HomePro Rama 9",
+          "th": "HomePro Rama 9"
+        },
+        "distance_m": 3750,
+        "slug": "homepro-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Foodland Petchburi",
+          "zh": "Foodland Petchburi",
+          "th": "Foodland Petchburi"
+        },
+        "distance_m": 2730,
+        "slug": "foodland-petchburi",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2019.",
+          "zh": "PropertyHub 记载完工年份为 2019。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2019"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 1410 total units.",
+          "zh": "PropertyHub 记载总套数为 1410。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 1410"
+        }
+      }
+    ]
   }
 }

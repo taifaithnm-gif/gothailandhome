@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Kave Town Space official / developer page",
       "url": "https://www.assetwise.co.th/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/kave-town-space"
     }
   ],
   "developer": {
@@ -55,12 +60,12 @@
       "th": "บางเขน กรุงเทพฯ"
     },
     "postal_code": "10220",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 14.04172405787639,
+    "longitude": 100.61625996380631,
+    "google_maps_url": "https://www.google.com/maps?q=14.04172405787639,100.61625996380631",
     "official_website": "https://www.assetwise.co.th/",
-    "facebook_url": null,
-    "completion_year": null,
+    "facebook_url": "https://www.facebook.com/AssetWise",
+    "completion_year": 2020,
     "transit_tags": [],
     "seo": {
       "title": {
@@ -73,6 +78,234 @@
         "zh": "Kave Town Space项目页（曼谷挽卿），来源为开发商官方站点。",
         "th": "หน้าโครงการ เคฟ ทาวน์ สเปซ เขตบางเขน อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "library",
+        "name": {
+          "en": "Library",
+          "zh": "Library",
+          "th": "Library"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Bangkok University",
+          "zh": "Bangkok University",
+          "th": "Bangkok University"
+        },
+        "distance_m": 701,
+        "slug": "bangkok-university--4",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thammasat University, Rangsit Campus",
+          "zh": "Thammasat University, Rangsit Campus",
+          "th": "Thammasat University, Rangsit Campus"
+        },
+        "distance_m": 4140,
+        "slug": "thammasat-university-rangsit-campus",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thammasat Klong Luang Wittayakom",
+          "zh": "Thammasat Klong Luang Wittayakom",
+          "th": "Thammasat Klong Luang Wittayakom"
+        },
+        "distance_m": 6031,
+        "slug": "thammasat-klong-luang-wittayakom",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Thonburi Burana Hospital",
+          "zh": "Thonburi Burana Hospital",
+          "th": "Thonburi Burana Hospital"
+        },
+        "distance_m": null,
+        "slug": "thonburi-burana-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phatara-Thonburi Hospital",
+          "zh": "Phatara-Thonburi Hospital",
+          "th": "Phatara-Thonburi Hospital"
+        },
+        "distance_m": null,
+        "slug": "phatara-thonburi-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Mega Home Rangsit",
+          "zh": "Mega Home Rangsit",
+          "th": "Mega Home Rangsit"
+        },
+        "distance_m": null,
+        "slug": "mega-home-rangsit",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Makro Khlong Luang",
+          "zh": "Makro Khlong Luang",
+          "th": "Makro Khlong Luang"
+        },
+        "distance_m": 4466,
+        "slug": "makro-khlong-luang",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thai Watsadu Rangsit",
+          "zh": "Thai Watsadu Rangsit",
+          "th": "Thai Watsadu Rangsit"
+        },
+        "distance_m": 3121,
+        "slug": "thai-watsadu-rangsit",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Mega Home Rangsit",
+          "zh": "Mega Home Rangsit",
+          "th": "Mega Home Rangsit"
+        },
+        "distance_m": null,
+        "slug": "mega-home-rangsit",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Makro Khlong Luang",
+          "zh": "Makro Khlong Luang",
+          "th": "Makro Khlong Luang"
+        },
+        "distance_m": 4466,
+        "slug": "makro-khlong-luang",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thai Watsadu Rangsit",
+          "zh": "Thai Watsadu Rangsit",
+          "th": "Thai Watsadu Rangsit"
+        },
+        "distance_m": 3121,
+        "slug": "thai-watsadu-rangsit",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2020.",
+          "zh": "PropertyHub 记载完工年份为 2020。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2020"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 1073 total units.",
+          "zh": "PropertyHub 记载总套数为 1073。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 1073"
+        }
+      }
+    ]
   }
 }

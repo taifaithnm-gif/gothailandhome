@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Modiz Rhyme Ramkhamhaeng official / developer page",
       "url": "https://www.assetwise.co.th/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/modiz-rhyme-ramkhamhaeng"
     }
   ],
   "developer": {
@@ -55,12 +60,12 @@
       "th": "บางกะปิ กรุงเทพฯ"
     },
     "postal_code": "10240",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.759265096735861,
+    "longitude": 100.6175268862197,
+    "google_maps_url": "https://www.google.com/maps?q=13.759265096735861,100.6175268862197",
     "official_website": "https://www.assetwise.co.th/",
-    "facebook_url": null,
-    "completion_year": null,
+    "facebook_url": "https://www.facebook.com/AssetWise",
+    "completion_year": 2023,
     "transit_tags": [],
     "seo": {
       "title": {
@@ -73,6 +78,394 @@
         "zh": "Modiz Rhyme 蓝康恒项目页（曼谷挽甲必），来源为开发商官方站点。",
         "th": "หน้าโครงการ โมดิซ ไรย์ม รามคำแหง เขตบางกะปิ อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "jacuzzi",
+        "name": {
+          "en": "Jacuzzi",
+          "zh": "Jacuzzi",
+          "th": "Jacuzzi"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Bodindecha (Sing Singhaseni) School",
+          "zh": "Bodindecha (Sing Singhaseni) School",
+          "th": "Bodindecha (Sing Singhaseni) School"
+        },
+        "distance_m": 1004,
+        "slug": "bodindecha-sing-singhaseni-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Khlong Kacha School",
+          "zh": "Khlong Kacha School",
+          "th": "Khlong Kacha School"
+        },
+        "distance_m": 2538,
+        "slug": "khlong-kacha-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Udom Kasem Business",
+          "zh": "Udom Kasem Business",
+          "th": "Udom Kasem Business"
+        },
+        "distance_m": 1963,
+        "slug": "udom-kasem-business",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Santichon Islamic School",
+          "zh": "Santichon Islamic School",
+          "th": "Santichon Islamic School"
+        },
+        "distance_m": 1880,
+        "slug": "santichon-islamic-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Ramkhamhaeng University Demonstration Schoo",
+          "zh": "Ramkhamhaeng University Demonstration Schoo",
+          "th": "Ramkhamhaeng University Demonstration Schoo"
+        },
+        "distance_m": 731,
+        "slug": "ramkhamhaeng-university-demonstration-schoo",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": " Thai-Japanese Association School",
+          "zh": " Thai-Japanese Association School",
+          "th": " Thai-Japanese Association School"
+        },
+        "distance_m": 3542,
+        "slug": "thai-japanese-association-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Lycée Français International de Bangkok",
+          "zh": "Lycée Français International de Bangkok",
+          "th": "Lycée Français International de Bangkok"
+        },
+        "distance_m": 2786,
+        "slug": "lycée-français-international-de-bangkok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Ladprao Bilingual School",
+          "zh": "Ladprao Bilingual School",
+          "th": "Ladprao Bilingual School"
+        },
+        "distance_m": 2696,
+        "slug": "ladprao-bilingual-school",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Ramkhamhaeng Hospital",
+          "zh": "Ramkhamhaeng Hospital",
+          "th": "Ramkhamhaeng Hospital"
+        },
+        "distance_m": 2105,
+        "slug": "ramkhamhaeng-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Samitivej Srinakarin Hospital",
+          "zh": "Samitivej Srinakarin Hospital",
+          "th": "Samitivej Srinakarin Hospital"
+        },
+        "distance_m": 3501,
+        "slug": "samitivej-srinakarin-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Petcharavej Hospital",
+          "zh": "Petcharavej Hospital",
+          "th": "Petcharavej Hospital"
+        },
+        "distance_m": 3372,
+        "slug": "petcharavej-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Big C Extra Sukhaphiban 3",
+          "zh": "Big C Extra Sukhaphiban 3",
+          "th": "Big C Extra Sukhaphiban 3"
+        },
+        "distance_m": 4888,
+        "slug": "big-c-extra-sukhaphiban-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Lat Phrao (Big C Ladprao)",
+          "zh": "Big C Super Center Lat Phrao (Big C Ladprao)",
+          "th": "Big C Super Center Lat Phrao (Big C Ladprao)"
+        },
+        "distance_m": 3772,
+        "slug": "big-c-super-center-lat-phrao-big-c-ladprao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Hua Mak",
+          "zh": "Big C Super Center Hua Mak",
+          "th": "Big C Super Center Hua Mak"
+        },
+        "distance_m": 789,
+        "slug": "big-c-super-center-hua-mak",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Makro Ladprao (Makro Lat Phrao)",
+          "zh": "Makro Ladprao (Makro Lat Phrao)",
+          "th": "Makro Ladprao (Makro Lat Phrao)"
+        },
+        "distance_m": 3582,
+        "slug": "makro-ladprao-makro-lat-phrao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Rama 9",
+          "zh": "HomePro Rama 9",
+          "th": "HomePro Rama 9"
+        },
+        "distance_m": 2401,
+        "slug": "homepro-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Foodland Lat Phrao ",
+          "zh": "Foodland Lat Phrao ",
+          "th": "Foodland Lat Phrao "
+        },
+        "distance_m": 3165,
+        "slug": "foodland-lat-phrao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Foodland Hua Mark",
+          "zh": "Foodland Hua Mark",
+          "th": "Foodland Hua Mark"
+        },
+        "distance_m": 1499,
+        "slug": "foodland-hua-mark",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Mall Bang Kapi",
+          "zh": "The Mall Bang Kapi",
+          "th": "The Mall Bang Kapi"
+        },
+        "distance_m": 3068,
+        "slug": "the-mall-bang-kapi",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Big C Extra Sukhaphiban 3",
+          "zh": "Big C Extra Sukhaphiban 3",
+          "th": "Big C Extra Sukhaphiban 3"
+        },
+        "distance_m": 4888,
+        "slug": "big-c-extra-sukhaphiban-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Lat Phrao (Big C Ladprao)",
+          "zh": "Big C Super Center Lat Phrao (Big C Ladprao)",
+          "th": "Big C Super Center Lat Phrao (Big C Ladprao)"
+        },
+        "distance_m": 3772,
+        "slug": "big-c-super-center-lat-phrao-big-c-ladprao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Hua Mak",
+          "zh": "Big C Super Center Hua Mak",
+          "th": "Big C Super Center Hua Mak"
+        },
+        "distance_m": 789,
+        "slug": "big-c-super-center-hua-mak",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Makro Ladprao (Makro Lat Phrao)",
+          "zh": "Makro Ladprao (Makro Lat Phrao)",
+          "th": "Makro Ladprao (Makro Lat Phrao)"
+        },
+        "distance_m": 3582,
+        "slug": "makro-ladprao-makro-lat-phrao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Rama 9",
+          "zh": "HomePro Rama 9",
+          "th": "HomePro Rama 9"
+        },
+        "distance_m": 2401,
+        "slug": "homepro-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Foodland Lat Phrao ",
+          "zh": "Foodland Lat Phrao ",
+          "th": "Foodland Lat Phrao "
+        },
+        "distance_m": 3165,
+        "slug": "foodland-lat-phrao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Foodland Hua Mark",
+          "zh": "Foodland Hua Mark",
+          "th": "Foodland Hua Mark"
+        },
+        "distance_m": 1499,
+        "slug": "foodland-hua-mark",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Mall Bang Kapi",
+          "zh": "The Mall Bang Kapi",
+          "th": "The Mall Bang Kapi"
+        },
+        "distance_m": 3068,
+        "slug": "the-mall-bang-kapi",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2023.",
+          "zh": "PropertyHub 记载完工年份为 2023。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2023"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 546 total units.",
+          "zh": "PropertyHub 记载总套数为 546。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 546"
+        }
+      }
+    ]
   }
 }

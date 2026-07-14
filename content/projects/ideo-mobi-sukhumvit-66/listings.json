@@ -1,0 +1,888 @@
+{
+  "project_slug": "ideo-mobi-sukhumvit-66",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-3770089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 12900000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 80.5,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "IDEO Mobi Sukhumvit 66 2 bedrooms, for sale",
+        "zh": "IDEO Mobi Sukhumvit 66 2 bedrooms, for sale",
+        "th": "IDEO Mobi Sukhumvit 66 2 bedrooms, for sale"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 80.5 sq.m., 12,900,000 THB. Source PropertyHub #3770089.",
+        "zh": "出售：2卧，80.5㎡，12,900,000 泰铢。来源 PropertyHub #3770089。",
+        "th": "ขาย: 2 นอน 80.5 ตร.ม. ราคา 12,900,000 บาท (PropertyHub #3770089)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3770089. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3770089。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3770089 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/ideo-mobi-sukhumvit-66-2-bedrooms-for-sale--b20909d3---3770089",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "061db519d8796832e8e03ea6bb3baae82e5a1708cb6c4ea02267aaff58162d1c"
+    },
+    {
+      "external_ref": "propertyhub-5680443",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5100000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Sale Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-130761 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Sale Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-130761 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Sale Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-130761 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 5,100,000 THB. Source PropertyHub #5680443.",
+        "zh": "出售：1卧，35㎡，5,100,000 泰铢。来源 PropertyHub #5680443。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 5,100,000 บาท (PropertyHub #5680443)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5680443. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5680443。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5680443 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-130761-live-chat-with-us-add-line-connexproperty--a53c0916---5680443",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "36435e7e1527a5aaa9565c71afbfdc8a9f6dc7dba1b4697a369529de7c2a930f"
+    },
+    {
+      "external_ref": "propertyhub-5429149",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.42,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Ideo Mobi Sukhumvit 66  5693973",
+        "zh": "1 Bedroom Condo for sale at Ideo Mobi Sukhumvit 66  5693973",
+        "th": "1 Bedroom Condo for sale at Ideo Mobi Sukhumvit 66  5693973"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35.42 sq.m., 6,200,000 THB. Source PropertyHub #5429149.",
+        "zh": "出售：1卧，35.42㎡，6,200,000 泰铢。来源 PropertyHub #5429149。",
+        "th": "ขาย: 1 นอน 35.42 ตร.ม. ราคา 6,200,000 บาท (PropertyHub #5429149)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5429149. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5429149。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5429149 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bedroom-condo-for-sale-at-ideo-mobi-sukhumvit-66-5693973---5429149",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "15cbf03ae746bf6008f9c9688b49014a0e319eb50cceef28e11429c9db498249"
+    },
+    {
+      "external_ref": "propertyhub-5285901",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 52,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "P-144049 Condo for sell IDEO Mobi Sukhumvit 66 fully furnished.",
+        "zh": "P-144049 Condo for sell IDEO Mobi Sukhumvit 66 fully furnished.",
+        "th": "P-144049 Condo for sell IDEO Mobi Sukhumvit 66 fully furnished."
+      },
+      "summary": {
+        "en": "Sale: 1BR, 52 sq.m., 8,500,000 THB. Source PropertyHub #5285901.",
+        "zh": "出售：1卧，52㎡，8,500,000 泰铢。来源 PropertyHub #5285901。",
+        "th": "ขาย: 1 นอน 52 ตร.ม. ราคา 8,500,000 บาท (PropertyHub #5285901)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5285901. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5285901。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5285901 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/p-144049-condo-for-sell-ideo-mobi-sukhumvit-66-fully-furnished---5285901",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "f9d0b9cfce69445a1df0015e791c36e5e977655acf18d637f40886202b0eb155"
+    },
+    {
+      "external_ref": "propertyhub-6204952",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🎉 For Sell Condo IDEO MOBI SUKHUMVIT 66 Building 1, Floor 23,1 bed room, Room size 30 sqm",
+        "zh": "🎉 For Sell Condo IDEO MOBI SUKHUMVIT 66 Building 1, Floor 23,1 bed room, Room size 30 sqm",
+        "th": "🎉 For Sell Condo IDEO MOBI SUKHUMVIT 66 Building 1, Floor 23,1 bed room, Room size 30 sqm"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 5,500,000 THB. Source PropertyHub #6204952.",
+        "zh": "出售：1卧，30㎡，5,500,000 泰铢。来源 PropertyHub #6204952。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 5,500,000 บาท (PropertyHub #6204952)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6204952. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6204952。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6204952 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-ideo-mobi-sukhumvit-66-building-1-floor-23-1-bed-room-room-size-30-sqm--c2ad0a3f---6204952",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "6a4823deae6359774f24a31f1ad568798116fb10032990336ec23cb69dc736b7"
+    },
+    {
+      "external_ref": "propertyhub-6204937",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🚩 For Sell Condo IDEO MOBI SUKHUMVIT 66 Building 1, Floor 23,1 bed room, Room size 30 sqm",
+        "zh": "🚩 For Sell Condo IDEO MOBI SUKHUMVIT 66 Building 1, Floor 23,1 bed room, Room size 30 sqm",
+        "th": "🚩 For Sell Condo IDEO MOBI SUKHUMVIT 66 Building 1, Floor 23,1 bed room, Room size 30 sqm"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 5,500,000 THB. Source PropertyHub #6204937.",
+        "zh": "出售：1卧，30㎡，5,500,000 泰铢。来源 PropertyHub #6204937。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 5,500,000 บาท (PropertyHub #6204937)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6204937. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6204937。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6204937 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-ideo-mobi-sukhumvit-66-building-1-floor-23-1-bed-room-room-size-30-sqm--b56609dd---6204937",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "c6a5ded7c7179df22e6ce2b41b1d0c819298bf190858c1400943cb198d16a88e"
+    },
+    {
+      "external_ref": "propertyhub-6204886",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔺 For Sell Condo IDEO MOBI SUKHUMVIT 66 Building 1, Floor 23,1 bed room, Room size 30 sqm",
+        "zh": "🔺 For Sell Condo IDEO MOBI SUKHUMVIT 66 Building 1, Floor 23,1 bed room, Room size 30 sqm",
+        "th": "🔺 For Sell Condo IDEO MOBI SUKHUMVIT 66 Building 1, Floor 23,1 bed room, Room size 30 sqm"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 5,500,000 THB. Source PropertyHub #6204886.",
+        "zh": "出售：1卧，30㎡，5,500,000 泰铢。来源 PropertyHub #6204886。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 5,500,000 บาท (PropertyHub #6204886)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6204886. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6204886。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6204886 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-ideo-mobi-sukhumvit-66-building-1-floor-23-1-bed-room-room-size-30-sqm--aeba0952---6204886",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "78a0bfba1e7424bc48b405e5ffb56960110ec3391eecc9b6483ca36019d9705c"
+    },
+    {
+      "external_ref": "propertyhub-5418897",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6500000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 52.5,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "💥SL-8874💥 Condo for sale, beautiful room, good price, Ideo Mobi Sukhumvit 66 👉 Interested, call 080-651-8853",
+        "zh": "💥SL-8874💥 Condo for sale, beautiful room, good price, Ideo Mobi Sukhumvit 66 👉 Interested, call 080-651-8853",
+        "th": "💥SL-8874💥 Condo for sale, beautiful room, good price, Ideo Mobi Sukhumvit 66 👉 Interested, call 080-651-8853"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 52.5 sq.m., 6,500,000 THB. Source PropertyHub #5418897.",
+        "zh": "出售：2卧，52.5㎡，6,500,000 泰铢。来源 PropertyHub #5418897。",
+        "th": "ขาย: 2 นอน 52.5 ตร.ม. ราคา 6,500,000 บาท (PropertyHub #5418897)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5418897. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5418897。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5418897 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/sl-8874-condo-for-sale-beautiful-room-good-price-ideo-mobi-sukhumvit-66-interested-call-080-651-8853---5418897",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "08ef0ce71457ba5bd97d29183774568caeb984197bd2326730da90d8749bbc26"
+    },
+    {
+      "external_ref": "propertyhub-5581559",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Fully furnished 1Bed unit for Sale in Ideo Mobi Sukhumvit 66. Ready to move in. BTS Udom Suk E11.",
+        "zh": "Fully furnished 1Bed unit for Sale in Ideo Mobi Sukhumvit 66. Ready to move in. BTS Udom Suk E11.",
+        "th": "Fully furnished 1Bed unit for Sale in Ideo Mobi Sukhumvit 66. Ready to move in. BTS Udom Suk E11."
+      },
+      "summary": {
+        "en": "Sale: 1BR, 34 sq.m., 6,600,000 THB. Source PropertyHub #5581559.",
+        "zh": "出售：1卧，34㎡，6,600,000 泰铢。来源 PropertyHub #5581559。",
+        "th": "ขาย: 1 นอน 34 ตร.ม. ราคา 6,600,000 บาท (PropertyHub #5581559)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5581559. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5581559。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5581559 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/fully-furnished-1bed-unit-for-sale-in-ideo-mobi-sukhumvit-66-ready-to-move-in-bts-udom-suk-e11---5581559",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "c7faebe15302f7b56badcab110530478b5824c6ae35c717d3ebead2fc37d9ca3"
+    },
+    {
+      "external_ref": "propertyhub-6084395",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "10+",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "✨ For Sale: Ideo Mobi Sukhumvit 66 Condo ✨ 💰 Only 5,000,000 THB",
+        "zh": "✨ For Sale: Ideo Mobi Sukhumvit 66 Condo ✨ 💰 Only 5,000,000 THB",
+        "th": "✨ For Sale: Ideo Mobi Sukhumvit 66 Condo ✨ 💰 Only 5,000,000 THB"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 34 sq.m., 5,000,000 THB. Source PropertyHub #6084395.",
+        "zh": "出售：1卧，34㎡，5,000,000 泰铢。来源 PropertyHub #6084395。",
+        "th": "ขาย: 1 นอน 34 ตร.ม. ราคา 5,000,000 บาท (PropertyHub #6084395)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6084395. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6084395。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6084395 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-ideo-mobi-sukhumvit-66-condo-only-5-000-000-thb---6084395",
+      "source_updated_at": "2026-07-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "3541eea4cf88e0826f0ccafc64ba53088e3fc6faf56517bfe95990be9e79d8b6"
+    },
+    {
+      "external_ref": "propertyhub-3933151",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-76884 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-76884 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-76884 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 36 sq.m., 19,500 THB. Source PropertyHub #3933151.",
+        "zh": "出租：1卧，36㎡，19,500 泰铢。来源 PropertyHub #3933151。",
+        "th": "เช่า: 1 นอน 36 ตร.ม. ราคา 19,500 บาท (PropertyHub #3933151)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3933151. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3933151。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3933151 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-76884-live-chat-with-us-add-line-connexproperty--aee6096c---3933151",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "85eb823cededa52b171b219c8062395cda5bba340a0c2ace44021f8aabf9dd75"
+    },
+    {
+      "external_ref": "propertyhub-4819514",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 55000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 80.25,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-110634 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-110634 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-110634 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 80.25 sq.m., 55,000 THB. Source PropertyHub #4819514.",
+        "zh": "出租：2卧，80.25㎡，55,000 泰铢。来源 PropertyHub #4819514。",
+        "th": "เช่า: 2 นอน 80.25 ตร.ม. ราคา 55,000 บาท (PropertyHub #4819514)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4819514. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4819514。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4819514 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-110634-live-chat-with-us-add-line-connexproperty--c1c60b0e---4819514",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "42ce54795a72cfaf9214f4a794420fa182de466e6962bce24aa818cb73716f89"
+    },
+    {
+      "external_ref": "propertyhub-5020099",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-79891 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-79891 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-79891 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 24,000 THB. Source PropertyHub #5020099.",
+        "zh": "出租：1卧，35㎡，24,000 泰铢。来源 PropertyHub #5020099。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 24,000 บาท (PropertyHub #5020099)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5020099. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5020099。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5020099 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-79891-live-chat-with-us-add-line-connexproperty--a6eb09a9---5020099",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "2cae6f266f02b3c8800e125c3f7e1f89b0ea4001133224639e2796e1692e4252"
+    },
+    {
+      "external_ref": "propertyhub-5779750",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-11032 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-11032 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-11032 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 20,000 THB. Source PropertyHub #5779750.",
+        "zh": "出租：1卧，35㎡，20,000 泰铢。来源 PropertyHub #5779750。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 20,000 บาท (PropertyHub #5779750)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5779750. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5779750。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5779750 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-11032-live-chat-with-us-add-line-connexproperty--adc10945---5779750",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "d2f7dce6a4af7f971ff99539278b966b28ccfbd82cd5ad9b3930bb75d82bf8a0"
+    },
+    {
+      "external_ref": "propertyhub-6164950",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 50000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 80,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-87130 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-87130 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-87130 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 80 sq.m., 50,000 THB. Source PropertyHub #6164950.",
+        "zh": "出租：2卧，80㎡，50,000 泰铢。来源 PropertyHub #6164950。",
+        "th": "เช่า: 2 นอน 80 ตร.ม. ราคา 50,000 บาท (PropertyHub #6164950)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6164950. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6164950。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6164950 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-87130-live-chat-with-us-add-line-connexproperty---6164950",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "1c786c8662ca08a3de29c324b91386297017866f39f455189c0e90e717f05508"
+    },
+    {
+      "external_ref": "propertyhub-4283492",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 33000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 53.25,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-91767 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-91767 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-91767 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 53.25 sq.m., 33,000 THB. Source PropertyHub #4283492.",
+        "zh": "出租：2卧，53.25㎡，33,000 泰铢。来源 PropertyHub #4283492。",
+        "th": "เช่า: 2 นอน 53.25 ตร.ม. ราคา 33,000 บาท (PropertyHub #4283492)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4283492. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4283492。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4283492 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-91767-live-chat-with-us-add-line-connexproperty--a9b00916---4283492",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "ef2728f7652ece7a0f045b7319cc20b87d8a04624c2455f2096c9ef9fc19577d"
+    },
+    {
+      "external_ref": "propertyhub-5181551",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 60000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 84.5,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-122789 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-122789 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-122789 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 84.5 sq.m., 60,000 THB. Source PropertyHub #5181551.",
+        "zh": "出租：2卧，84.5㎡，60,000 泰铢。来源 PropertyHub #5181551。",
+        "th": "เช่า: 2 นอน 84.5 ตร.ม. ราคา 60,000 บาท (PropertyHub #5181551)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5181551. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5181551。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5181551 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-122789-live-chat-with-us-add-line-connexproperty--a221091c---5181551",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "bbcab46a53ff323f82b50dafbc6798e02d3d3303a7b4c23d2ee97c3a25683fba"
+    },
+    {
+      "external_ref": "propertyhub-4263552",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 41,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-73309 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-73309 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-73309 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 41 sq.m., 20,000 THB. Source PropertyHub #4263552.",
+        "zh": "出租：1卧，41㎡，20,000 泰铢。来源 PropertyHub #4263552。",
+        "th": "เช่า: 1 นอน 41 ตร.ม. ราคา 20,000 บาท (PropertyHub #4263552)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4263552. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4263552。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4263552 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-73309-live-chat-with-us-add-line-connexproperty--b1c5093a---4263552",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "0ab1d0bce1477fb69554ba3582e94cd7a64c83d2928ac5ebf421c9f530b32cdb"
+    },
+    {
+      "external_ref": "propertyhub-4539442",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 37000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 54,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-99742 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-99742 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-99742 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 54 sq.m., 37,000 THB. Source PropertyHub #4539442.",
+        "zh": "出租：2卧，54㎡，37,000 泰铢。来源 PropertyHub #4539442。",
+        "th": "เช่า: 2 นอน 54 ตร.ม. ราคา 37,000 บาท (PropertyHub #4539442)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4539442. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4539442。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4539442 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-99742-live-chat-with-us-add-line-connexproperty--aa06097d---4539442",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "e8068a0c3ccd9dab9c98501fe5ba59fe8681a7e41a4c35308fa3d921d7cd7f0c"
+    },
+    {
+      "external_ref": "propertyhub-5949121",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.5,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-120523 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-120523 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Ideo Mobi Sukhumvit 66 , BTS-Udom Suk , Bang Na Nuea , Bang Na , Bangkok , CX-120523 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35.5 sq.m., 19,000 THB. Source PropertyHub #5949121.",
+        "zh": "出租：1卧，35.5㎡，19,000 泰铢。来源 PropertyHub #5949121。",
+        "th": "เช่า: 1 นอน 35.5 ตร.ม. ราคา 19,000 บาท (PropertyHub #5949121)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5949121. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5949121。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5949121 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-120523-live-chat-with-us-add-line-connexproperty---5949121",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68120208167821,
+      "longitude": 100.6099169733309,
+      "duplicate_fingerprint": "770a6fa0d19a8a308f015659788802cabcfbfc2b167b40a6ac898a621680ccb3"
+    }
+  ]
+}

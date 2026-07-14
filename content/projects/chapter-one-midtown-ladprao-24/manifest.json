@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Chapter One Midtown Ladprao 24 official / developer page",
       "url": "https://www.pruksa.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/chapter-one-midtown-ladprao-24"
     }
   ],
   "developer": {
@@ -55,13 +60,15 @@
       "th": "ลาดพร้าว กรุงเทพฯ"
     },
     "postal_code": "10230",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.80647334990424,
+    "longitude": 100.5727518991357,
+    "google_maps_url": "https://www.google.com/maps?q=13.80647334990424,100.5727518991357",
     "official_website": "https://www.pruksa.com/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": [],
+    "facebook_url": "https://www.facebook.com/PruksaOfficial",
+    "completion_year": 2017,
+    "transit_tags": [
+      "mrt"
+    ],
     "seo": {
       "title": {
         "en": "Chapter One Midtown Ladprao 24 Condo in Lat Phrao, Bangkok | GoThailandHome",
@@ -73,6 +80,293 @@
         "zh": "Chapter One Midtown 叻抛24项目页（曼谷叻抛），来源为开发商官方站点。",
         "th": "หน้าโครงการ แชปเตอร์วัน มิดทาวน์ ลาดพร้าว 24 เขตลาดพร้าว อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Santirat Institute Of Bussiness Adminstration",
+          "zh": "Santirat Institute Of Bussiness Adminstration",
+          "th": "Santirat Institute Of Bussiness Adminstration"
+        },
+        "distance_m": 1994,
+        "slug": "santirat-institute-of-bussiness-adminstration",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Satri Woranat Bang Khen School",
+          "zh": "Satri Woranat Bang Khen School",
+          "th": "Satri Woranat Bang Khen School"
+        },
+        "distance_m": 2449,
+        "slug": "satri-woranat-bang-khen-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Kunnatee Rutharam Wittayakhom School",
+          "zh": "Kunnatee Rutharam Wittayakhom School",
+          "th": "Kunnatee Rutharam Wittayakhom School"
+        },
+        "distance_m": 2970,
+        "slug": "kunnatee-rutharam-wittayakhom-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Chandrakasem Rajabhat University",
+          "zh": "Chandrakasem Rajabhat University",
+          "th": "Chandrakasem Rajabhat University"
+        },
+        "distance_m": 2002,
+        "slug": "chandrakasem-rajabhat-university",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "University of the Thai Chamber of Commerce",
+          "zh": "University of the Thai Chamber of Commerce",
+          "th": "University of the Thai Chamber of Commerce"
+        },
+        "distance_m": 4460,
+        "slug": "university-of-the-thai-chamber-of-commerce",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Big C Extra Lat Phrao (Big C Extra Ladprao)",
+          "zh": "Big C Extra Lat Phrao (Big C Extra Ladprao)",
+          "th": "Big C Extra Lat Phrao (Big C Extra Ladprao)"
+        },
+        "distance_m": 956,
+        "slug": "big-c-extra-lat-phrao-big-c-extra-ladprao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Lat Phrao (Lotus Ladprao)",
+          "zh": "Tesco Lotus Superstore Lat Phrao (Lotus Ladprao)",
+          "th": "Tesco Lotus Superstore Lat Phrao (Lotus Ladprao)"
+        },
+        "distance_m": 2092,
+        "slug": "tesco-lotus-superstore-lat-phrao-lotus-ladprao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Saphan Khwai",
+          "zh": "Big C Super Center Saphan Khwai",
+          "th": "Big C Super Center Saphan Khwai"
+        },
+        "distance_m": 4776,
+        "slug": "big-c-super-center-saphan-khwai",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central  Ladprao (Central Lat Phrao)",
+          "zh": "Central  Ladprao (Central Lat Phrao)",
+          "th": "Central  Ladprao (Central Lat Phrao)"
+        },
+        "distance_m": 3321,
+        "slug": "central-ladprao-central-lat-phrao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Major Cineplex Ratchayothin",
+          "zh": "Major Cineplex Ratchayothin",
+          "th": "Major Cineplex Ratchayothin"
+        },
+        "distance_m": 3777,
+        "slug": "major-cineplex-ratchayothin",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Chatuchak Weekend Market",
+          "zh": "Chatuchak Weekend Market",
+          "th": "Chatuchak Weekend Market"
+        },
+        "distance_m": 3992,
+        "slug": "chatuchak-weekend-market",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Big C Extra Lat Phrao (Big C Extra Ladprao)",
+          "zh": "Big C Extra Lat Phrao (Big C Extra Ladprao)",
+          "th": "Big C Extra Lat Phrao (Big C Extra Ladprao)"
+        },
+        "distance_m": 956,
+        "slug": "big-c-extra-lat-phrao-big-c-extra-ladprao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Lat Phrao (Lotus Ladprao)",
+          "zh": "Tesco Lotus Superstore Lat Phrao (Lotus Ladprao)",
+          "th": "Tesco Lotus Superstore Lat Phrao (Lotus Ladprao)"
+        },
+        "distance_m": 2092,
+        "slug": "tesco-lotus-superstore-lat-phrao-lotus-ladprao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Saphan Khwai",
+          "zh": "Big C Super Center Saphan Khwai",
+          "th": "Big C Super Center Saphan Khwai"
+        },
+        "distance_m": 4776,
+        "slug": "big-c-super-center-saphan-khwai",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central  Ladprao (Central Lat Phrao)",
+          "zh": "Central  Ladprao (Central Lat Phrao)",
+          "th": "Central  Ladprao (Central Lat Phrao)"
+        },
+        "distance_m": 3321,
+        "slug": "central-ladprao-central-lat-phrao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Major Cineplex Ratchayothin",
+          "zh": "Major Cineplex Ratchayothin",
+          "th": "Major Cineplex Ratchayothin"
+        },
+        "distance_m": 3777,
+        "slug": "major-cineplex-ratchayothin",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Chatuchak Weekend Market",
+          "zh": "Chatuchak Weekend Market",
+          "th": "Chatuchak Weekend Market"
+        },
+        "distance_m": 3992,
+        "slug": "chatuchak-weekend-market",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2017.",
+          "zh": "PropertyHub 记载完工年份为 2017。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2017"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 514 total units.",
+          "zh": "PropertyHub 记载总套数为 514。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 514"
+        }
+      }
+    ]
   }
 }

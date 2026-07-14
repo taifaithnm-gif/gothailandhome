@@ -1,0 +1,908 @@
+{
+  "project_slug": "xt-phayathai",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-4823245",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33.75,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "⚡️Discount Up to 3 MB.*⚡️XT Phayathai Special price starting 4.99 MB! Located at the transportation hubs, near office buildings, and shopping center.",
+        "zh": "⚡️Discount Up to 3 MB.*⚡️XT Phayathai Special price starting 4.99 MB! Located at the transportation hubs, near office buildings, and shopping center.",
+        "th": "⚡️Discount Up to 3 MB.*⚡️XT Phayathai Special price starting 4.99 MB! Located at the transportation hubs, near office buildings, and shopping center."
+      },
+      "summary": {
+        "en": "Sale: 1BR, 33.75 sq.m., 4,990,000 THB. Source PropertyHub #4823245.",
+        "zh": "出售：1卧，33.75㎡，4,990,000 泰铢。来源 PropertyHub #4823245。",
+        "th": "ขาย: 1 นอน 33.75 ตร.ม. ราคา 4,990,000 บาท (PropertyHub #4823245)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4823245. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4823245。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4823245 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/4823245",
+      "source_updated_at": "2026-06-15",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "1be02dcc64626d0059e0d6c996006cb9328a09db7cb64a0ba74b99eedca0da19"
+    },
+    {
+      "external_ref": "propertyhub-5761554",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7290000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46.61,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR Condo At XT Phayathai, High-Floor 16, 400m To BTS Phaya Thai (ID 2605392)",
+        "zh": "1-BR Condo At XT Phayathai, High-Floor 16, 400m To BTS Phaya Thai (ID 2605392)",
+        "th": "1-BR Condo At XT Phayathai, High-Floor 16, 400m To BTS Phaya Thai (ID 2605392)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 46.61 sq.m., 7,290,000 THB. Source PropertyHub #5761554.",
+        "zh": "出售：1卧，46.61㎡，7,290,000 泰铢。来源 PropertyHub #5761554。",
+        "th": "ขาย: 1 นอน 46.61 ตร.ม. ราคา 7,290,000 บาท (PropertyHub #5761554)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5761554. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5761554。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5761554 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-xt-phayathai-near-bts-phaya-thai-id-2605392---5761554",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "37c759e601efc7df7d89307712784123e3f2ce829704645e55668673fb7ee5bf"
+    },
+    {
+      "external_ref": "propertyhub-4133398",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 17000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 85,
+      "floor_label": "32",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "2-BR 85 Sqm High-Floor At XT Phayathai Near BTS Phaya Thai (ID 1339388)",
+        "zh": "2-BR 85 Sqm High-Floor At XT Phayathai Near BTS Phaya Thai (ID 1339388)",
+        "th": "2-BR 85 Sqm High-Floor At XT Phayathai Near BTS Phaya Thai (ID 1339388)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 85 sq.m., 17,000,000 THB. Source PropertyHub #4133398.",
+        "zh": "出售：2卧，85㎡，17,000,000 泰铢。来源 PropertyHub #4133398。",
+        "th": "ขาย: 2 นอน 85 ตร.ม. ราคา 17,000,000 บาท (PropertyHub #4133398)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4133398. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4133398。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4133398 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-xt-phayathai-near-bts-phaya-thai-id-1339388--9fde08e3---4133398",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "d1264b9112a155d00385a429f1cade11e9cc80312d40ff1819cc225b4911a667"
+    },
+    {
+      "external_ref": "propertyhub-4134284",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 49.97,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR Condo For Sale, XT Phayathai, 400m to BTS Phaya Thai (ID 1270552)",
+        "zh": "1-BR Condo For Sale, XT Phayathai, 400m to BTS Phaya Thai (ID 1270552)",
+        "th": "1-BR Condo For Sale, XT Phayathai, 400m to BTS Phaya Thai (ID 1270552)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 49.97 sq.m., 7,600,000 THB. Source PropertyHub #4134284.",
+        "zh": "出售：1卧，49.97㎡，7,600,000 泰铢。来源 PropertyHub #4134284。",
+        "th": "ขาย: 1 นอน 49.97 ตร.ม. ราคา 7,600,000 บาท (PropertyHub #4134284)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4134284. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4134284。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4134284 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-xt-phayathai-near-bts-phaya-thai-id-1270552--a8ae0959---4134284",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "ada678953ea2dfc7138319f5dd9a005a69b9f9c177a02f3dd59bc81f95d16470"
+    },
+    {
+      "external_ref": "propertyhub-5217285",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 49.97,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR Condo For Sale At XT Phayathai, 400m To BTS Phaya Thai (ID 2185208)",
+        "zh": "1-BR Condo For Sale At XT Phayathai, 400m To BTS Phaya Thai (ID 2185208)",
+        "th": "1-BR Condo For Sale At XT Phayathai, 400m To BTS Phaya Thai (ID 2185208)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 49.97 sq.m., 6,000,000 THB. Source PropertyHub #5217285.",
+        "zh": "出售：1卧，49.97㎡，6,000,000 泰铢。来源 PropertyHub #5217285。",
+        "th": "ขาย: 1 นอน 49.97 ตร.ม. ราคา 6,000,000 บาท (PropertyHub #5217285)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5217285. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5217285。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5217285 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-xt-phayathai-near-bts-phaya-thai-id-2185208---5217285",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "ca4d322e6cf000bc3dd8b0ce730cfd3a54b06a01a39f5173a79047386315ed4f"
+    },
+    {
+      "external_ref": "propertyhub-6179711",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42,
+      "floor_label": "27 Tower A",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR Condo In XT Phayathai, 400m To BTS Phaya Thai (ID 2161394)",
+        "zh": "1-BR Condo In XT Phayathai, 400m To BTS Phaya Thai (ID 2161394)",
+        "th": "1-BR Condo In XT Phayathai, 400m To BTS Phaya Thai (ID 2161394)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 42 sq.m., 6,300,000 THB. Source PropertyHub #6179711.",
+        "zh": "出售：1卧，42㎡，6,300,000 泰铢。来源 PropertyHub #6179711。",
+        "th": "ขาย: 1 นอน 42 ตร.ม. ราคา 6,300,000 บาท (PropertyHub #6179711)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6179711. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6179711。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6179711 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-in-xt-phayathai-400m-to-bts-phaya-thai-id-2161394---6179711",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "34e002241147687e5a05d43815062bd1db7eb44c3497ced79f6690f8066eb33a"
+    },
+    {
+      "external_ref": "propertyhub-5970936",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 40.57,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR 40 Sqm Condo At XT Phayathai, 400m To BTS Phaya Thai (ID 2807410)",
+        "zh": "1-BR 40 Sqm Condo At XT Phayathai, 400m To BTS Phaya Thai (ID 2807410)",
+        "th": "1-BR 40 Sqm Condo At XT Phayathai, 400m To BTS Phaya Thai (ID 2807410)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 40.57 sq.m., 6,300,000 THB. Source PropertyHub #5970936.",
+        "zh": "出售：1卧，40.57㎡，6,300,000 泰铢。来源 PropertyHub #5970936。",
+        "th": "ขาย: 1 นอน 40.57 ตร.ม. ราคา 6,300,000 บาท (PropertyHub #5970936)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5970936. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5970936。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5970936 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-xt-phayathai-near-bts-phaya-thai-id-2807410--973e0891---5970936",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "dd5022c9f4ff4fdfb9b03c98d2b455af6e90c2afe0f955c83d5c81ebee4219ea"
+    },
+    {
+      "external_ref": "propertyhub-4352399",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 49.75,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR 50 Sqm Condo For Sale At XT Phayathai, 400m To BTS Phaya Thai (ID 1492563)",
+        "zh": "1-BR 50 Sqm Condo For Sale At XT Phayathai, 400m To BTS Phaya Thai (ID 1492563)",
+        "th": "1-BR 50 Sqm Condo For Sale At XT Phayathai, 400m To BTS Phaya Thai (ID 1492563)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 49.75 sq.m., 6,000,000 THB. Source PropertyHub #4352399.",
+        "zh": "出售：1卧，49.75㎡，6,000,000 泰铢。来源 PropertyHub #4352399。",
+        "th": "ขาย: 1 นอน 49.75 ตร.ม. ราคา 6,000,000 บาท (PropertyHub #4352399)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4352399. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4352399。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4352399 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-xt-phayathai-near-bts-phaya-thai-id-1492563--b41509e7---4352399",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "ef60e91d51dbed5a05d9aef3b537c190ff5fd8f6541f5ef1ec192bde278f79ed"
+    },
+    {
+      "external_ref": "propertyhub-5598775",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 14000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 83,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "2-BR 83 Sqm On 15th Floor In XT Phayathai Near BTS Phaya Thai (400m) (ID 2447961)",
+        "zh": "2-BR 83 Sqm On 15th Floor In XT Phayathai Near BTS Phaya Thai (400m) (ID 2447961)",
+        "th": "2-BR 83 Sqm On 15th Floor In XT Phayathai Near BTS Phaya Thai (400m) (ID 2447961)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 83 sq.m., 14,000,000 THB. Source PropertyHub #5598775.",
+        "zh": "出售：2卧，83㎡，14,000,000 泰铢。来源 PropertyHub #5598775。",
+        "th": "ขาย: 2 นอน 83 ตร.ม. ราคา 14,000,000 บาท (PropertyHub #5598775)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5598775. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5598775。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5598775 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-xt-phayathai-near-bts-phaya-thai-id-2447961---5598775",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "d44bc53dad9a5d0482d938228213e65c464e81c1144608345418784779671154"
+    },
+    {
+      "external_ref": "propertyhub-5741514",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33.98,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "26th-Floor 1-BR 34 Sqm Condo For Sale at XT Phayathai, 400m to BTS Phaya Thai (ID 2579882)",
+        "zh": "26th-Floor 1-BR 34 Sqm Condo For Sale at XT Phayathai, 400m to BTS Phaya Thai (ID 2579882)",
+        "th": "26th-Floor 1-BR 34 Sqm Condo For Sale at XT Phayathai, 400m to BTS Phaya Thai (ID 2579882)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 33.98 sq.m., 4,990,000 THB. Source PropertyHub #5741514.",
+        "zh": "出售：1卧，33.98㎡，4,990,000 泰铢。来源 PropertyHub #5741514。",
+        "th": "ขาย: 1 นอน 33.98 ตร.ม. ราคา 4,990,000 บาท (PropertyHub #5741514)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5741514. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5741514。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5741514 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-xt-phayathai-near-bts-phaya-thai-id-2579882--ad2309ae---5741514",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "150a5af8184edd10fb6412920ac2914d7f61e663df6e1c04d76180cead7f17a6"
+    },
+    {
+      "external_ref": "propertyhub-6208499",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 21000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42,
+      "floor_label": "33",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "For Rent 🔥 XT PHAYATHAI 🔥 Fully furnished and equipped with appliances; near BTS Phaya Thai.",
+        "zh": "For Rent 🔥 XT PHAYATHAI 🔥 Fully furnished and equipped with appliances; near BTS Phaya Thai.",
+        "th": "For Rent 🔥 XT PHAYATHAI 🔥 Fully furnished and equipped with appliances; near BTS Phaya Thai."
+      },
+      "summary": {
+        "en": "Rent: 1BR, 42 sq.m., 21,000 THB. Source PropertyHub #6208499.",
+        "zh": "出租：1卧，42㎡，21,000 泰铢。来源 PropertyHub #6208499。",
+        "th": "เช่า: 1 นอน 42 ตร.ม. ราคา 21,000 บาท (PropertyHub #6208499)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6208499. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6208499。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6208499 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-xt-phayathai-fully-furnished-and-equipped-with-appliances-near-bts-phaya-thai--b38009b3---6208499",
+      "source_updated_at": "2026-07-09",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "f0597a3f6174c7613014cd48c96003eb8c1220f31473e6a1b5ba350db9db92f0"
+    },
+    {
+      "external_ref": "propertyhub-3773564",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 21000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42,
+      "floor_label": "30",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "XT Phayathai 🍁 (XT PHAYATHAI) near BTS Phayathai 🍁 call 095-2465879",
+        "zh": "XT Phayathai 🍁 (XT PHAYATHAI) near BTS Phayathai 🍁 call 095-2465879",
+        "th": "XT Phayathai 🍁 (XT PHAYATHAI) near BTS Phayathai 🍁 call 095-2465879"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 42 sq.m., 21,000 THB. Source PropertyHub #3773564.",
+        "zh": "出租：1卧，42㎡，21,000 泰铢。来源 PropertyHub #3773564。",
+        "th": "เช่า: 1 นอน 42 ตร.ม. ราคา 21,000 บาท (PropertyHub #3773564)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3773564. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3773564。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3773564 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/xt-phayathai-xt-phayathai-near-bts-phayathai-call-095-2465879--a99e092c---3773564",
+      "source_updated_at": "2026-07-07",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "9df3c550130b6b3212924d130ec8025a441e43ed3e9bbfd9f9ab8bad26746487"
+    },
+    {
+      "external_ref": "propertyhub-3931513",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 75000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqm": 100,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "FOR RENT condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-76059 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-76059 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-76059 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 100 sq.m., 75,000 THB. Source PropertyHub #3931513.",
+        "zh": "出租：3卧，100㎡，75,000 泰铢。来源 PropertyHub #3931513。",
+        "th": "เช่า: 3 นอน 100 ตร.ม. ราคา 75,000 บาท (PropertyHub #3931513)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3931513. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3931513。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3931513 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-phayathai-bts-phaya-thai-thanon-phyathai-rat-thewi-bangkok-cx-76059-live-chat-with-us-add-line-connexproperty---3931513",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "5bbb6e99eb1da847783da5aaee1550f3a9ad7798b647d51b88320fdd7940cded"
+    },
+    {
+      "external_ref": "propertyhub-4111837",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 28000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-80437 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-80437 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-80437 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 42 sq.m., 28,000 THB. Source PropertyHub #4111837.",
+        "zh": "出租：1卧，42㎡，28,000 泰铢。来源 PropertyHub #4111837。",
+        "th": "เช่า: 1 นอน 42 ตร.ม. ราคา 28,000 บาท (PropertyHub #4111837)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4111837. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4111837。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4111837 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-phayathai-bts-phaya-thai-thanon-phyathai-rat-thewi-bangkok-cx-80437-live-chat-with-us-add-line-connexproperty--ab6409a3---4111837",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "8496ef19da3f0c74f121088cfd2ec9d1a38e3b3dc1f4d11e2f6ab461f7b64fee"
+    },
+    {
+      "external_ref": "propertyhub-4847538",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42,
+      "floor_label": "33",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-110482 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-110482 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-110482 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 42 sq.m., 25,000 THB. Source PropertyHub #4847538.",
+        "zh": "出租：1卧，42㎡，25,000 泰铢。来源 PropertyHub #4847538。",
+        "th": "เช่า: 1 นอน 42 ตร.ม. ราคา 25,000 บาท (PropertyHub #4847538)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4847538. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4847538。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4847538 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-phayathai-bts-phaya-thai-thanon-phyathai-rat-thewi-bangkok-cx-110482-live-chat-with-us-add-line-connexproperty--beb50a05---4847538",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "c99dc04f9febefe256e20a1564ca3f90418c3515e035843756f09678fae684fa"
+    },
+    {
+      "external_ref": "propertyhub-4951833",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-97209 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-97209 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-97209 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 42 sq.m., 25,000 THB. Source PropertyHub #4951833.",
+        "zh": "出租：1卧，42㎡，25,000 泰铢。来源 PropertyHub #4951833。",
+        "th": "เช่า: 1 นอน 42 ตร.ม. ราคา 25,000 บาท (PropertyHub #4951833)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4951833. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4951833。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4951833 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-phayathai-bts-phaya-thai-thanon-phyathai-rat-thewi-bangkok-cx-97209-live-chat-with-us-add-line-connexproperty--b06409ce---4951833",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "82ee2b453e60bf90539266e3f1a32c21a3694b10f7f12bd3e3a3336c5240fd5e"
+    },
+    {
+      "external_ref": "propertyhub-5150781",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46.25,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-121905 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-121905 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-121905 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 46.25 sq.m., 27,000 THB. Source PropertyHub #5150781.",
+        "zh": "出租：1卧，46.25㎡，27,000 泰铢。来源 PropertyHub #5150781。",
+        "th": "เช่า: 1 นอน 46.25 ตร.ม. ราคา 27,000 บาท (PropertyHub #5150781)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5150781. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5150781。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5150781 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-phayathai-bts-phaya-thai-thanon-phyathai-rat-thewi-bangkok-cx-121905-live-chat-with-us-add-line-connexproperty--b5e209b5---5150781",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "a88e974e5f2641ec7512e0a12261cf9354effbd0aa530671aeaec422cf8b1312"
+    },
+    {
+      "external_ref": "propertyhub-5245801",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 26000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-124672 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-124672 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-124672 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 46 sq.m., 26,000 THB. Source PropertyHub #5245801.",
+        "zh": "出租：1卧，46㎡，26,000 泰铢。来源 PropertyHub #5245801。",
+        "th": "เช่า: 1 นอน 46 ตร.ม. ราคา 26,000 บาท (PropertyHub #5245801)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5245801. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5245801。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5245801 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-phayathai-bts-phaya-thai-thanon-phyathai-rat-thewi-bangkok-cx-124672-live-chat-with-us-add-line-connexproperty--af860982---5245801",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "225a5ca81a2fa2fbd676df105f78039975065ad499dae43c23af41427f0720e3"
+    },
+    {
+      "external_ref": "propertyhub-5695620",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 28000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46.61,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-139525 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-139525 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , XT Phayathai , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-139525 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 46.61 sq.m., 28,000 THB. Source PropertyHub #5695620.",
+        "zh": "出租：1卧，46.61㎡，28,000 泰铢。来源 PropertyHub #5695620。",
+        "th": "เช่า: 1 นอน 46.61 ตร.ม. ราคา 28,000 บาท (PropertyHub #5695620)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5695620. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5695620。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5695620 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-phayathai-bts-phaya-thai-thanon-phyathai-rat-thewi-bangkok-cx-139525-live-chat-with-us-add-line-connexproperty--a85a0919---5695620",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "74ebeddfbede07e76c029945ea86c711de845d8eaf31d759691bfce2d7ab579f"
+    },
+    {
+      "external_ref": "propertyhub-5707303",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "For Rent Condo , XT Phayathai , nice view , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-142636 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , XT Phayathai , nice view , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-142636 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , XT Phayathai , nice view , BTS-Phaya Thai , Thanon Phyathai , Rat Thewi , Bangkok , CX-142636 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 23,000 THB. Source PropertyHub #5707303.",
+        "zh": "出租：1卧，34㎡，23,000 泰铢。来源 PropertyHub #5707303。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 23,000 บาท (PropertyHub #5707303)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5707303. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5707303。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5707303 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-xt-phayathai-nice-view-bts-phaya-thai-thanon-phyathai-rat-thewi-bangkok-cx-142636-live-chat-with-us-add-line-connexproperty--ae5b09b8---5707303",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.757168085999076,
+      "longitude": 100.53886538804375,
+      "duplicate_fingerprint": "d1022917ffd26b806876b6eeb82d8795faad3f31bb1dd57fedf61fd08714128c"
+    }
+  ]
+}

@@ -1,0 +1,888 @@
+{
+  "project_slug": "ideo-q-sukhumvit-36",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-5790593",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 13000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 62.55,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR 63 Sqm On 14th Floor, Ideo Q Sukhumvit 36 Near BTS Thong Lor (ID 2618162)",
+        "zh": "2-BR 63 Sqm On 14th Floor, Ideo Q Sukhumvit 36 Near BTS Thong Lor (ID 2618162)",
+        "th": "2-BR 63 Sqm On 14th Floor, Ideo Q Sukhumvit 36 Near BTS Thong Lor (ID 2618162)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 62.55 sq.m., 13,000,000 THB. Source PropertyHub #5790593.",
+        "zh": "出售：2卧，62.55㎡，13,000,000 泰铢。来源 PropertyHub #5790593。",
+        "th": "ขาย: 2 นอน 62.55 ตร.ม. ราคา 13,000,000 บาท (PropertyHub #5790593)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5790593. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5790593。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5790593 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2618162--ad500923---5790593",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "0bce804775aabdce23131303eb7ffc7a5bf9fc90edd0eb7b76cbff699cc77557"
+    },
+    {
+      "external_ref": "propertyhub-5843945",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10200000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 53.99,
+      "floor_label": "34",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR Condo At Ideo Q Sukhumvit 36, 34th-Floor, 400m to BTS Thong Lor (ID 2676907)",
+        "zh": "2-BR Condo At Ideo Q Sukhumvit 36, 34th-Floor, 400m to BTS Thong Lor (ID 2676907)",
+        "th": "2-BR Condo At Ideo Q Sukhumvit 36, 34th-Floor, 400m to BTS Thong Lor (ID 2676907)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 53.99 sq.m., 10,200,000 THB. Source PropertyHub #5843945.",
+        "zh": "出售：2卧，53.99㎡，10,200,000 泰铢。来源 PropertyHub #5843945。",
+        "th": "ขาย: 2 นอน 53.99 ตร.ม. ราคา 10,200,000 บาท (PropertyHub #5843945)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5843945. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5843945。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5843945 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2676907--bb960a1b---5843945",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "3a564f2d7b027217b0637dd6489a54d4be3bd6f8895e46295457d61be62ddb77"
+    },
+    {
+      "external_ref": "propertyhub-6012040",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 17670000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 63,
+      "floor_label": "44",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "High-Floor 2-BR 63 Sqm Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2832958)",
+        "zh": "High-Floor 2-BR 63 Sqm Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2832958)",
+        "th": "High-Floor 2-BR 63 Sqm Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2832958)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 63 sq.m., 17,670,000 THB. Source PropertyHub #6012040.",
+        "zh": "出售：2卧，63㎡，17,670,000 泰铢。来源 PropertyHub #6012040。",
+        "th": "ขาย: 2 นอน 63 ตร.ม. ราคา 17,670,000 บาท (PropertyHub #6012040)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6012040. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6012040。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6012040 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2832958--abeb0982---6012040",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "23812894dc6c18e1287c8073fb1ea6b59f4f3c13626e9bab2dd40d42ea2bba4c"
+    },
+    {
+      "external_ref": "propertyhub-6036423",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 45 Sqm Condo At Ideo Q Sukhumvit 36, 400m To BTS Thong Lor (ID 2873702)",
+        "zh": "1-BR 45 Sqm Condo At Ideo Q Sukhumvit 36, 400m To BTS Thong Lor (ID 2873702)",
+        "th": "1-BR 45 Sqm Condo At Ideo Q Sukhumvit 36, 400m To BTS Thong Lor (ID 2873702)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 45 sq.m., 7,990,000 THB. Source PropertyHub #6036423.",
+        "zh": "出售：1卧，45㎡，7,990,000 泰铢。来源 PropertyHub #6036423。",
+        "th": "ขาย: 1 นอน 45 ตร.ม. ราคา 7,990,000 บาท (PropertyHub #6036423)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6036423. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6036423。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6036423 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2873702--aaed09b7---6036423",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "fa2ae9b97cca889052255e107bc6769f76d40273c05360ef22ae373513cd2b3d"
+    },
+    {
+      "external_ref": "propertyhub-6065424",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8190000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR Condo Ideo Q Sukhumvit 36 Near BTS Thong Lor (400m) (ID 2893821)",
+        "zh": "1-BR Condo Ideo Q Sukhumvit 36 Near BTS Thong Lor (400m) (ID 2893821)",
+        "th": "1-BR Condo Ideo Q Sukhumvit 36 Near BTS Thong Lor (400m) (ID 2893821)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 45 sq.m., 8,190,000 THB. Source PropertyHub #6065424.",
+        "zh": "出售：1卧，45㎡，8,190,000 泰铢。来源 PropertyHub #6065424。",
+        "th": "ขาย: 1 นอน 45 ตร.ม. ราคา 8,190,000 บาท (PropertyHub #6065424)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6065424. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6065424。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6065424 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2893821--a2eb08ee---6065424",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "d6361fec025966ce5f2214d48638688d01544a8f048a32b9bdfa4ee12cae3cd1"
+    },
+    {
+      "external_ref": "propertyhub-6158799",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "34",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 45 Sqm On 34th Floor At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 3013452)",
+        "zh": "1-BR 45 Sqm On 34th Floor At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 3013452)",
+        "th": "1-BR 45 Sqm On 34th Floor At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 3013452)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 45 sq.m., 8,400,000 THB. Source PropertyHub #6158799.",
+        "zh": "出售：1卧，45㎡，8,400,000 泰铢。来源 PropertyHub #6158799。",
+        "th": "ขาย: 1 นอน 45 ตร.ม. ราคา 8,400,000 บาท (PropertyHub #6158799)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6158799. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6158799。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6158799 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-3013452---6158799",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "8cd843eb087142eecfc7fdf1b23b13f3a67321144324f6440284f15136e8ab77"
+    },
+    {
+      "external_ref": "propertyhub-6174837",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 13500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 65,
+      "floor_label": "20-25",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR 65 Sqm High-Floor For Sale, Ideo Q Sukhumvit 36, BTS Thong Lor 400m (ID 3034291)",
+        "zh": "2-BR 65 Sqm High-Floor For Sale, Ideo Q Sukhumvit 36, BTS Thong Lor 400m (ID 3034291)",
+        "th": "2-BR 65 Sqm High-Floor For Sale, Ideo Q Sukhumvit 36, BTS Thong Lor 400m (ID 3034291)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 65 sq.m., 13,500,000 THB. Source PropertyHub #6174837.",
+        "zh": "出售：2卧，65㎡，13,500,000 泰铢。来源 PropertyHub #6174837。",
+        "th": "ขาย: 2 นอน 65 ตร.ม. ราคา 13,500,000 บาท (PropertyHub #6174837)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6174837. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6174837。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6174837 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-3034291---6174837",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "f2427d8feada95edc88d1b61944e09a67dcaef74020d7805d7d33ba02547584f"
+    },
+    {
+      "external_ref": "propertyhub-5020827",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 51,
+      "floor_label": "26A",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR Condo At Ideo Q Sukhumvit 36, 400m To BTS Thong Lor (ID 2073859)",
+        "zh": "1-BR Condo At Ideo Q Sukhumvit 36, 400m To BTS Thong Lor (ID 2073859)",
+        "th": "1-BR Condo At Ideo Q Sukhumvit 36, 400m To BTS Thong Lor (ID 2073859)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 51 sq.m., 9,900,000 THB. Source PropertyHub #5020827.",
+        "zh": "出售：1卧，51㎡，9,900,000 泰铢。来源 PropertyHub #5020827。",
+        "th": "ขาย: 1 นอน 51 ตร.ม. ราคา 9,900,000 บาท (PropertyHub #5020827)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5020827. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5020827。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5020827 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2073859---5020827",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "f0ba125830bda723157c01f608e096c987d5946163531b3dd3545063e89a2c8e"
+    },
+    {
+      "external_ref": "propertyhub-6036435",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44.78,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "High-Floor 1-BR 45 Sqm At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2873889)",
+        "zh": "High-Floor 1-BR 45 Sqm At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2873889)",
+        "th": "High-Floor 1-BR 45 Sqm At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2873889)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 44.78 sq.m., 10,200,000 THB. Source PropertyHub #6036435.",
+        "zh": "出售：1卧，44.78㎡，10,200,000 泰铢。来源 PropertyHub #6036435。",
+        "th": "ขาย: 1 นอน 44.78 ตร.ม. ราคา 10,200,000 บาท (PropertyHub #6036435)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6036435. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6036435。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6036435 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2873889--a846097e---6036435",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "35a08fdfeaec32fca6eda776b8fc8b7ae2a7ec95af6b5a50e07384d48a77eea4"
+    },
+    {
+      "external_ref": "propertyhub-6136497",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 13290000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 64,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "High-Floor 2-BR 64 Sqm At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2657971)",
+        "zh": "High-Floor 2-BR 64 Sqm At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2657971)",
+        "th": "High-Floor 2-BR 64 Sqm At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2657971)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 64 sq.m., 13,290,000 THB. Source PropertyHub #6136497.",
+        "zh": "出售：2卧，64㎡，13,290,000 泰铢。来源 PropertyHub #6136497。",
+        "th": "ขาย: 2 นอน 64 ตร.ม. ราคา 13,290,000 บาท (PropertyHub #6136497)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6136497. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6136497。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6136497 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2657971--bd830a08---6136497",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "256fc95b8505f543e9ff44abb3ccf00d7a2caaa759e495ee900bd3c8f388bffd"
+    },
+    {
+      "external_ref": "propertyhub-5775839",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 55000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 65.5,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR 65 Sqm, High-Floor At Ideo Q Sukhumvit 36 Near BTS Thong Lor (ID 2612266)",
+        "zh": "2-BR 65 Sqm, High-Floor At Ideo Q Sukhumvit 36 Near BTS Thong Lor (ID 2612266)",
+        "th": "2-BR 65 Sqm, High-Floor At Ideo Q Sukhumvit 36 Near BTS Thong Lor (ID 2612266)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 65.5 sq.m., 55,000 THB. Source PropertyHub #5775839.",
+        "zh": "出租：2卧，65.5㎡，55,000 泰铢。来源 PropertyHub #5775839。",
+        "th": "เช่า: 2 นอน 65.5 ตร.ม. ราคา 55,000 บาท (PropertyHub #5775839)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5775839. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5775839。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5775839 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2612266--9fa408ee---5775839",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "fc585d7504e7401cafdac99087528d4206e13ee0a6ded02d8f9d3d3b4a4e0e15"
+    },
+    {
+      "external_ref": "propertyhub-6210525",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 40000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "18A",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 45 Sqm, 18A Floor, Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2366498)",
+        "zh": "1-BR 45 Sqm, 18A Floor, Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2366498)",
+        "th": "1-BR 45 Sqm, 18A Floor, Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2366498)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 40,000 THB. Source PropertyHub #6210525.",
+        "zh": "出租：1卧，45㎡，40,000 泰铢。来源 PropertyHub #6210525。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 40,000 บาท (PropertyHub #6210525)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6210525. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6210525。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6210525 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-45-sqm-18a-floor-ideo-q-sukhumvit-36-400m-to-bts-thong-lor-id-2366498---6210525",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "98402603f0a4cd2bd39d6e2c4e9a584f9001b89aa7eda9ae7ad8106698df9194"
+    },
+    {
+      "external_ref": "propertyhub-6152203",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 60000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 71,
+      "floor_label": "32",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "32nd-Floor 2-BR 71 Sqm Condo At Ideo Q Sukhumvit 36 Near BTS Thong Lor (ID 3001138)",
+        "zh": "32nd-Floor 2-BR 71 Sqm Condo At Ideo Q Sukhumvit 36 Near BTS Thong Lor (ID 3001138)",
+        "th": "32nd-Floor 2-BR 71 Sqm Condo At Ideo Q Sukhumvit 36 Near BTS Thong Lor (ID 3001138)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 71 sq.m., 60,000 THB. Source PropertyHub #6152203.",
+        "zh": "出租：2卧，71㎡，60,000 泰铢。来源 PropertyHub #6152203。",
+        "th": "เช่า: 2 นอน 71 ตร.ม. ราคา 60,000 บาท (PropertyHub #6152203)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6152203. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6152203。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6152203 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-3001138--a46608f2---6152203",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "4ecf6ee7d93f6252d1ea53f6d6d20863528a7a2fe32bce4b1ca1c68e9f171edb"
+    },
+    {
+      "external_ref": "propertyhub-4164826",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 40000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 44 Sqm At Ideo Q Sukhumvit 36 Near BTS Thong Lor (400m) (ID 1001395)",
+        "zh": "1-BR 44 Sqm At Ideo Q Sukhumvit 36 Near BTS Thong Lor (400m) (ID 1001395)",
+        "th": "1-BR 44 Sqm At Ideo Q Sukhumvit 36 Near BTS Thong Lor (400m) (ID 1001395)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 40,000 THB. Source PropertyHub #4164826.",
+        "zh": "出租：1卧，44㎡，40,000 泰铢。来源 PropertyHub #4164826。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 40,000 บาท (PropertyHub #4164826)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4164826. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4164826。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4164826 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-44-sqm-at-ideo-q-sukhumvit-36-near-bts-thong-lor-400m-id-1001395---4164826",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "6c451906bed93675dd34642d8de5fd588db0ca77f74083224f08fc8968c8535c"
+    },
+    {
+      "external_ref": "propertyhub-4479051",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 45000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 50,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR 50 Sqm At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 1537878)",
+        "zh": "2-BR 50 Sqm At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 1537878)",
+        "th": "2-BR 50 Sqm At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 1537878)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 50 sq.m., 45,000 THB. Source PropertyHub #4479051.",
+        "zh": "出租：2卧，50㎡，45,000 泰铢。来源 PropertyHub #4479051。",
+        "th": "เช่า: 2 นอน 50 ตร.ม. ราคา 45,000 บาท (PropertyHub #4479051)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4479051. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4479051。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4479051 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-1537878--aa6508f1---4479051",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "064bb3461ad1bb44fea3f8e0a8e3551d4e67cbb51b9acf373e5acfcc00971c32"
+    },
+    {
+      "external_ref": "propertyhub-5157561",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 39000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44.78,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR Condo Ideo Q Sukhumvit 36, 15th-Floor 45 Sqm Near BTS Thong Lor 400m (ID 2136122)",
+        "zh": "1-BR Condo Ideo Q Sukhumvit 36, 15th-Floor 45 Sqm Near BTS Thong Lor 400m (ID 2136122)",
+        "th": "1-BR Condo Ideo Q Sukhumvit 36, 15th-Floor 45 Sqm Near BTS Thong Lor 400m (ID 2136122)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44.78 sq.m., 39,000 THB. Source PropertyHub #5157561.",
+        "zh": "出租：1卧，44.78㎡，39,000 泰铢。来源 PropertyHub #5157561。",
+        "th": "เช่า: 1 นอน 44.78 ตร.ม. ราคา 39,000 บาท (PropertyHub #5157561)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5157561. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5157561。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5157561 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2136122---5157561",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "2500ad44bb986b6ffde8209c175eec706244a448b5698e9ff8229f2783b04fba"
+    },
+    {
+      "external_ref": "propertyhub-5511022",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Well-Priced 1-BR 31 Sqm On 29th Floor, Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2363044)",
+        "zh": "Well-Priced 1-BR 31 Sqm On 29th Floor, Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2363044)",
+        "th": "Well-Priced 1-BR 31 Sqm On 29th Floor, Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2363044)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 27,000 THB. Source PropertyHub #5511022.",
+        "zh": "出租：1卧，31㎡，27,000 泰铢。来源 PropertyHub #5511022。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 27,000 บาท (PropertyHub #5511022)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5511022. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5511022。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5511022 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2363044---5511022",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "ca00b842fe36d1d6bc6fd527247096a60ae423a8fb928f86473a1184016438b1"
+    },
+    {
+      "external_ref": "propertyhub-5761491",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 38000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44.48,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 44 Sqm Condo At Ideo Q Sukhumvit 36, 400m To BTS Thong Lor (ID 2600359)",
+        "zh": "1-BR 44 Sqm Condo At Ideo Q Sukhumvit 36, 400m To BTS Thong Lor (ID 2600359)",
+        "th": "1-BR 44 Sqm Condo At Ideo Q Sukhumvit 36, 400m To BTS Thong Lor (ID 2600359)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44.48 sq.m., 38,000 THB. Source PropertyHub #5761491.",
+        "zh": "出租：1卧，44.48㎡，38,000 泰铢。来源 PropertyHub #5761491。",
+        "th": "เช่า: 1 นอน 44.48 ตร.ม. ราคา 38,000 บาท (PropertyHub #5761491)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5761491. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5761491。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5761491 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2600359---5761491",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "927a8cb4692c8e3cdb5b50f2fd841882044648d6bb0f748d0823fa15f9fac348"
+    },
+    {
+      "external_ref": "propertyhub-6103237",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 37000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Well-Priced 1-BR 45 Sqm At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2952509)",
+        "zh": "Well-Priced 1-BR 45 Sqm At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2952509)",
+        "th": "Well-Priced 1-BR 45 Sqm At Ideo Q Sukhumvit 36, 400m to BTS Thong Lor (ID 2952509)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 37,000 THB. Source PropertyHub #6103237.",
+        "zh": "出租：1卧，45㎡，37,000 泰铢。来源 PropertyHub #6103237。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 37,000 บาท (PropertyHub #6103237)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6103237. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6103237。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6103237 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-2952509---6103237",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "c7314509afdb77b1a5f77eb91347dc45072700b8207fe0b783866362e1381466"
+    },
+    {
+      "external_ref": "propertyhub-6166463",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 39000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 47,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 47 Sqm, 19th-Floor At Ideo Q Sukhumvit 36 near BTS Thong Lor (ID 3008964)",
+        "zh": "1-BR 47 Sqm, 19th-Floor At Ideo Q Sukhumvit 36 near BTS Thong Lor (ID 3008964)",
+        "th": "1-BR 47 Sqm, 19th-Floor At Ideo Q Sukhumvit 36 near BTS Thong Lor (ID 3008964)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 47 sq.m., 39,000 THB. Source PropertyHub #6166463.",
+        "zh": "出租：1卧，47㎡，39,000 泰铢。来源 PropertyHub #6166463。",
+        "th": "เช่า: 1 นอน 47 ตร.ม. ราคา 39,000 บาท (PropertyHub #6166463)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6166463. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6166463。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6166463 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ideo-q-sukhumvit-36-near-bts-thong-lor-id-3008964--a6e9091e---6166463",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.720856043232146,
+      "longitude": 100.57638583682271,
+      "duplicate_fingerprint": "e4d31b322e2d67f14ef070e73156b3bad2b860d8812d2a628f667816d0324255"
+    }
+  ]
+}

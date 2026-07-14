@@ -1,0 +1,888 @@
+{
+  "project_slug": "the-line-sukhumvit-101",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-6023510",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3305000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27.51,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Investment 1BR Condo | 5.23% ROI | The Line Sukhumvit 101 BTS - [U6171845]",
+        "zh": "Investment 1BR Condo | 5.23% ROI | The Line Sukhumvit 101 BTS - [U6171845]",
+        "th": "Investment 1BR Condo | 5.23% ROI | The Line Sukhumvit 101 BTS - [U6171845]"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 27.51 sq.m., 3,305,000 THB. Source PropertyHub #6023510.",
+        "zh": "出售：1卧，27.51㎡，3,305,000 泰铢。来源 PropertyHub #6023510。",
+        "th": "ขาย: 1 นอน 27.51 ตร.ม. ราคา 3,305,000 บาท (PropertyHub #6023510)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6023510. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6023510。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6023510 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/investment-1br-condo-5-23-roi-the-line-sukhumvit-101-bts-u6171845---6023510",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "4e20639b7b2dc76621f97cb4d612f327466d28270a8ac4b31c630c3c7fd98f82"
+    },
+    {
+      "external_ref": "propertyhub-4532233",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4100000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27.51,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "17th-Floor 1-BR Condo At The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 703051)",
+        "zh": "17th-Floor 1-BR Condo At The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 703051)",
+        "th": "17th-Floor 1-BR Condo At The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 703051)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 27.51 sq.m., 4,100,000 THB. Source PropertyHub #4532233.",
+        "zh": "出售：1卧，27.51㎡，4,100,000 泰铢。来源 PropertyHub #4532233。",
+        "th": "ขาย: 1 นอน 27.51 ตร.ม. ราคา 4,100,000 บาท (PropertyHub #4532233)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4532233. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4532233。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4532233 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-line-sukhumvit-101-near-bts-punnawithi-id-703051--ba2d0a22---4532233",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "b156605428753d53e814295245dccb99611f7b7928b05973f86657594c08e4b9"
+    },
+    {
+      "external_ref": "propertyhub-5704514",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 28 Sqm Condo At The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 1107872)",
+        "zh": "1-BR 28 Sqm Condo At The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 1107872)",
+        "th": "1-BR 28 Sqm Condo At The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 1107872)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 28 sq.m., 4,000,000 THB. Source PropertyHub #5704514.",
+        "zh": "出售：1卧，28㎡，4,000,000 泰铢。来源 PropertyHub #5704514。",
+        "th": "ขาย: 1 นอน 28 ตร.ม. ราคา 4,000,000 บาท (PropertyHub #5704514)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5704514. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5704514。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5704514 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-line-sukhumvit-101-near-bts-punnawithi-id-1107872---5704514",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "6161b208d08551aebe18a347206f0db0b217e2577266cda07815f786246e965b"
+    },
+    {
+      "external_ref": "propertyhub-5787136",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4190000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 28 Sqm Condo In The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 2631123)",
+        "zh": "1-BR 28 Sqm Condo In The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 2631123)",
+        "th": "1-BR 28 Sqm Condo In The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 2631123)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 28 sq.m., 4,190,000 THB. Source PropertyHub #5787136.",
+        "zh": "出售：1卧，28㎡，4,190,000 泰铢。来源 PropertyHub #5787136。",
+        "th": "ขาย: 1 นอน 28 ตร.ม. ราคา 4,190,000 บาท (PropertyHub #5787136)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5787136. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5787136。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5787136 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-line-sukhumvit-101-near-bts-punnawithi-id-2631123---5787136",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "8a0a58c3a997bc7a43b5d4e240c3267c228924f19ac60d81dfb86659389f4745"
+    },
+    {
+      "external_ref": "propertyhub-5831234",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4690000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32.85,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 33 Sqm Condo In The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 2675598)",
+        "zh": "1-BR 33 Sqm Condo In The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 2675598)",
+        "th": "1-BR 33 Sqm Condo In The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 2675598)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 32.85 sq.m., 4,690,000 THB. Source PropertyHub #5831234.",
+        "zh": "出售：1卧，32.85㎡，4,690,000 泰铢。来源 PropertyHub #5831234。",
+        "th": "ขาย: 1 นอน 32.85 ตร.ม. ราคา 4,690,000 บาท (PropertyHub #5831234)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5831234. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5831234。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5831234 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-line-sukhumvit-101-near-bts-punnawithi-id-2675598---5831234",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "fe84317c9a23b990a4eb1a01041bf8d24603dc273959a7c3a48a53617561c41f"
+    },
+    {
+      "external_ref": "propertyhub-6104147",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 64,
+      "floor_label": "",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR Condo 64 Sqm At The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 2549575)",
+        "zh": "2-BR Condo 64 Sqm At The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 2549575)",
+        "th": "2-BR Condo 64 Sqm At The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 2549575)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 64 sq.m., 6,500,000 THB. Source PropertyHub #6104147.",
+        "zh": "出售：2卧，64㎡，6,500,000 泰铢。来源 PropertyHub #6104147。",
+        "th": "ขาย: 2 นอน 64 ตร.ม. ราคา 6,500,000 บาท (PropertyHub #6104147)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6104147. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6104147。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6104147 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-the-line-sukhumvit-101-near-bts-punnawithi-id-2549575--b38d09a4---6104147",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "0d7519c892ec505215b84d227a91e043b259c8cacea295ce8929060730a886a6"
+    },
+    {
+      "external_ref": "propertyhub-4132335",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42.71,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR Condo The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 1074275)",
+        "zh": "1-BR Condo The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 1074275)",
+        "th": "1-BR Condo The Line Sukhumvit 101, 100m to BTS Punnawithi (ID 1074275)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 42.71 sq.m., 6,000,000 THB. Source PropertyHub #4132335.",
+        "zh": "出售：1卧，42.71㎡，6,000,000 泰铢。来源 PropertyHub #4132335。",
+        "th": "ขาย: 1 นอน 42.71 ตร.ม. ราคา 6,000,000 บาท (PropertyHub #4132335)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4132335. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4132335。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4132335 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-line-sukhumvit-101-near-bts-punnawithi-id-1074275--afe609ad---4132335",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "e6851dd434377ace07b672d65bd2ca4dc48231255f76eab51582a6c9f434f5e9"
+    },
+    {
+      "external_ref": "propertyhub-4373728",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32.89,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "19th-Floor 1-BR 33 Sqm Condo At The Line Sukhumvit 101 Near BTS Punnawithi (ID 1497332)",
+        "zh": "19th-Floor 1-BR 33 Sqm Condo At The Line Sukhumvit 101 Near BTS Punnawithi (ID 1497332)",
+        "th": "19th-Floor 1-BR 33 Sqm Condo At The Line Sukhumvit 101 Near BTS Punnawithi (ID 1497332)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 32.89 sq.m., 5,900,000 THB. Source PropertyHub #4373728.",
+        "zh": "出售：1卧，32.89㎡，5,900,000 泰铢。来源 PropertyHub #4373728。",
+        "th": "ขาย: 1 นอน 32.89 ตร.ม. ราคา 5,900,000 บาท (PropertyHub #4373728)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4373728. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4373728。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4373728 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-line-sukhumvit-101-near-bts-punnawithi-id-1497332--b3aa09ef---4373728",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "e07fd1b16b225ba14d9015fa0c6b8e9cde957317807534bcbc7ab0003d218de7"
+    },
+    {
+      "external_ref": "propertyhub-5763942",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42.5,
+      "floor_label": "37",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR Condo At The Line Sukhumvit 101 | 37th-Floor, 42 Sqm, 100m to BTS Punnawithi (ID 1026956)",
+        "zh": "1-BR Condo At The Line Sukhumvit 101 | 37th-Floor, 42 Sqm, 100m to BTS Punnawithi (ID 1026956)",
+        "th": "1-BR Condo At The Line Sukhumvit 101 | 37th-Floor, 42 Sqm, 100m to BTS Punnawithi (ID 1026956)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 42.5 sq.m., 7,000,000 THB. Source PropertyHub #5763942.",
+        "zh": "出售：1卧，42.5㎡，7,000,000 泰铢。来源 PropertyHub #5763942。",
+        "th": "ขาย: 1 นอน 42.5 ตร.ม. ราคา 7,000,000 บาท (PropertyHub #5763942)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5763942. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5763942。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5763942 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-line-sukhumvit-101-near-bts-punnawithi-id-1026956--a73b0940---5763942",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "671a9e9389ce362be31a9fe07d87ba3dab95d9981b8e8df83ac25149ce62303a"
+    },
+    {
+      "external_ref": "propertyhub-3388897",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "27",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "P-119311 Condo for sell The Line sukhumvit 101 fully furnished Line Id: @easythaihome 085-592-2897",
+        "zh": "P-119311 Condo for sell The Line sukhumvit 101 fully furnished Line Id: @easythaihome 085-592-2897",
+        "th": "P-119311 Condo for sell The Line sukhumvit 101 fully furnished Line Id: @easythaihome 085-592-2897"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 27 sq.m., 4,300,000 THB. Source PropertyHub #3388897.",
+        "zh": "出售：1卧，27㎡，4,300,000 泰铢。来源 PropertyHub #3388897。",
+        "th": "ขาย: 1 นอน 27 ตร.ม. ราคา 4,300,000 บาท (PropertyHub #3388897)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3388897. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3388897。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3388897 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/p-119311-condo-for-sell-the-line-sukhumvit-101-fully-furnished-line-id-easythaihome-085-592-2897---3388897",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "69f10bfaafa4bebbb264eff9492607d67afd94d8e6296834be50e8ea7d3f33ab"
+    },
+    {
+      "external_ref": "propertyhub-3952824",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For rent 📍The Line Sukhumvit 101 📌Beautiful room, high ceiling, complete furniture and electrical appliances 🚆Near BTS Punnawithi 350 meters.",
+        "zh": "For rent 📍The Line Sukhumvit 101 📌Beautiful room, high ceiling, complete furniture and electrical appliances 🚆Near BTS Punnawithi 350 meters.",
+        "th": "For rent 📍The Line Sukhumvit 101 📌Beautiful room, high ceiling, complete furniture and electrical appliances 🚆Near BTS Punnawithi 350 meters."
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 14,000 THB. Source PropertyHub #3952824.",
+        "zh": "出租：1卧，28㎡，14,000 泰铢。来源 PropertyHub #3952824。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 14,000 บาท (PropertyHub #3952824)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3952824. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3952824。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3952824 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-the-line-sukhumvit-101-beautiful-room-high-ceiling-complete-furniture-and-electrical-appliances-near-bts-punnawithi-350-meters---3952824",
+      "source_updated_at": "2026-06-19",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "1cb081eb7278661b94950b60788c31ba69d3ec638c66d7a9f10d3ba413983a3d"
+    },
+    {
+      "external_ref": "propertyhub-3715785",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🆙👉 Room For Rent The Line Sukhumvit 101 🔥🔥 The Best Price and Fully Furnished 🔥🔥 Near BTS Punnawithi !!!",
+        "zh": "🆙👉 Room For Rent The Line Sukhumvit 101 🔥🔥 The Best Price and Fully Furnished 🔥🔥 Near BTS Punnawithi !!!",
+        "th": "🆙👉 Room For Rent The Line Sukhumvit 101 🔥🔥 The Best Price and Fully Furnished 🔥🔥 Near BTS Punnawithi !!!"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 15,000 THB. Source PropertyHub #3715785.",
+        "zh": "出租：1卧，28㎡，15,000 泰铢。来源 PropertyHub #3715785。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 15,000 บาท (PropertyHub #3715785)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3715785. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3715785。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3715785 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/room-for-rent-the-line-sukhumvit-101-the-best-price-and-fully-furnished-near-bts-punnawithi--a78a08ea---3715785",
+      "source_updated_at": "2026-06-24",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "844e72d99554e35a51106cfd0c67ef152a46ed928174218a6bc7c258458ca45b"
+    },
+    {
+      "external_ref": "propertyhub-4109931",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27.51,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-87816 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-87816 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-87816 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27.51 sq.m., 18,000 THB. Source PropertyHub #4109931.",
+        "zh": "出租：1卧，27.51㎡，18,000 泰铢。来源 PropertyHub #4109931。",
+        "th": "เช่า: 1 นอน 27.51 ตร.ม. ราคา 18,000 บาท (PropertyHub #4109931)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4109931. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4109931。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4109931 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-line-sukhumvit-101-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-87816-live-chat-with-us-add-line-connexproperty--bb3409d6---4109931",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "90b9ea48e5813b3e42cb0a9b98f0aa970aead56c6e40eedc85d4986be11f301c"
+    },
+    {
+      "external_ref": "propertyhub-4313843",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27.75,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-92170 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-92170 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-92170 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27.75 sq.m., 19,000 THB. Source PropertyHub #4313843.",
+        "zh": "出租：1卧，27.75㎡，19,000 泰铢。来源 PropertyHub #4313843。",
+        "th": "เช่า: 1 นอน 27.75 ตร.ม. ราคา 19,000 บาท (PropertyHub #4313843)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4313843. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4313843。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4313843 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-line-sukhumvit-101-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-92170-live-chat-with-us-add-line-connexproperty--a9c208cc---4313843",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "0dd1297fd66a0cfff612dd5476874cf67d11e125316fa31e747dbb8e66d962ae"
+    },
+    {
+      "external_ref": "propertyhub-4923374",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 50000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 63,
+      "floor_label": "36",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-22007 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-22007 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-22007 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 63 sq.m., 50,000 THB. Source PropertyHub #4923374.",
+        "zh": "出租：2卧，63㎡，50,000 泰铢。来源 PropertyHub #4923374。",
+        "th": "เช่า: 2 นอน 63 ตร.ม. ราคา 50,000 บาท (PropertyHub #4923374)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4923374. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4923374。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4923374 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-line-sukhumvit-101-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-22007-live-chat-with-us-add-line-connexproperty--ae6e0987---4923374",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "4de161eac6b9c7ff4c39c4a4dd232b30149cac4289911e819b46b610b63d870b"
+    },
+    {
+      "external_ref": "propertyhub-5020015",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33,
+      "floor_label": "31",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-105072 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-105072 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-105072 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 33 sq.m., 22,000 THB. Source PropertyHub #5020015.",
+        "zh": "出租：1卧，33㎡，22,000 泰铢。来源 PropertyHub #5020015。",
+        "th": "เช่า: 1 นอน 33 ตร.ม. ราคา 22,000 บาท (PropertyHub #5020015)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5020015. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5020015。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5020015 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-line-sukhumvit-101-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-105072-live-chat-add-line-connexproperty---5020015",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "04f1097699e873244164ee5a6ae47016c28ec17d4b32d0c9665486d8e56d447d"
+    },
+    {
+      "external_ref": "propertyhub-5080053",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32.5,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-120759 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-120759 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-120759 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 32.5 sq.m., 18,000 THB. Source PropertyHub #5080053.",
+        "zh": "出租：1卧，32.5㎡，18,000 泰铢。来源 PropertyHub #5080053。",
+        "th": "เช่า: 1 นอน 32.5 ตร.ม. ราคา 18,000 บาท (PropertyHub #5080053)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5080053. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5080053。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5080053 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-line-sukhumvit-101-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-120759-live-chat-with-us-add-line-connexproperty--a42808a3---5080053",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "b76dc6f9012c57c8e9c40beb299605c0cb59b2a57d2cf73a58742d7a7e9a7ff8"
+    },
+    {
+      "external_ref": "propertyhub-5511508",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 43,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , The line sukhumvit 101 , Duplex , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-54911 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , The line sukhumvit 101 , Duplex , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-54911 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , The line sukhumvit 101 , Duplex , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-54911 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 43 sq.m., 25,000 THB. Source PropertyHub #5511508.",
+        "zh": "出租：1卧，43㎡，25,000 泰铢。来源 PropertyHub #5511508。",
+        "th": "เช่า: 1 นอน 43 ตร.ม. ราคา 25,000 บาท (PropertyHub #5511508)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5511508. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5511508。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5511508 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-line-sukhumvit-101-duplex-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-54911-live-chat-with-us-add-line-connexproperty--a6a30922---5511508",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "abf61a13b3af72322cba74d93a6f8ea27191ddf6c4de15ac4c7e5c5cec50641e"
+    },
+    {
+      "external_ref": "propertyhub-5707351",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-143002 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-143002 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-143002 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 18,000 THB. Source PropertyHub #5707351.",
+        "zh": "出租：1卧，28㎡，18,000 泰铢。来源 PropertyHub #5707351。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 18,000 บาท (PropertyHub #5707351)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5707351. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5707351。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5707351 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-line-sukhumvit-101-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-143002-live-chat-with-us-add-line-connexproperty--ae590922---5707351",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "8b814034e6521a32dc47239a85b684b8c2497f6b028af13c711f2168e5bb02e6"
+    },
+    {
+      "external_ref": "propertyhub-6182410",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "FOR RENT condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-21965 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-21965 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , The line sukhumvit 101 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-21965 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 15,000 THB. Source PropertyHub #6182410.",
+        "zh": "出租：1卧，28㎡，15,000 泰铢。来源 PropertyHub #6182410。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 15,000 บาท (PropertyHub #6182410)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6182410. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6182410。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6182410 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-line-sukhumvit-101-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-21965-live-chat-with-us-add-line-connexproperty--b1e809b8---6182410",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.691924907962246,
+      "longitude": 100.60792446304569,
+      "duplicate_fingerprint": "2300640c15624f45629f6f289b9bf1a2469445906da9ee22f552dc27093bdb5e"
+    }
+  ]
+}

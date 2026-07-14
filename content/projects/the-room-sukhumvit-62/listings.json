@@ -1,0 +1,888 @@
+{
+  "project_slug": "the-room-sukhumvit-62",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-4132384",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10800000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 76,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR 76 Sqm Condo At The Room Sukhumvit 62, 100m to BTS Punnawithi (ID 1172195)",
+        "zh": "2-BR 76 Sqm Condo At The Room Sukhumvit 62, 100m to BTS Punnawithi (ID 1172195)",
+        "th": "2-BR 76 Sqm Condo At The Room Sukhumvit 62, 100m to BTS Punnawithi (ID 1172195)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 76 sq.m., 10,800,000 THB. Source PropertyHub #4132384.",
+        "zh": "出售：2卧，76㎡，10,800,000 泰铢。来源 PropertyHub #4132384。",
+        "th": "ขาย: 2 นอน 76 ตร.ม. ราคา 10,800,000 บาท (PropertyHub #4132384)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4132384. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4132384。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4132384 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-the-room-sukhumvit-62-near-bts-punnawithi-id-1172195--ae420984---4132384",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "f6363b6871537c3055452a33983d33c0bee577a8eb17ec1a1802256bf929b0d2"
+    },
+    {
+      "external_ref": "propertyhub-5899042",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 75.2,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR Condo The Room Sukhumvit 62, 15th Floor, 100m to BTS Punnawithi (ID 2734497)",
+        "zh": "2-BR Condo The Room Sukhumvit 62, 15th Floor, 100m to BTS Punnawithi (ID 2734497)",
+        "th": "2-BR Condo The Room Sukhumvit 62, 15th Floor, 100m to BTS Punnawithi (ID 2734497)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 75.2 sq.m., 10,000,000 THB. Source PropertyHub #5899042.",
+        "zh": "出售：2卧，75.2㎡，10,000,000 泰铢。来源 PropertyHub #5899042。",
+        "th": "ขาย: 2 นอน 75.2 ตร.ม. ราคา 10,000,000 บาท (PropertyHub #5899042)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5899042. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5899042。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5899042 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-the-room-sukhumvit-62-near-bts-punnawithi-id-2734497---5899042",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "d3e34ad110a1b59bd32815fd5701f705711d13682a87fa6bf20da586946a861d"
+    },
+    {
+      "external_ref": "propertyhub-6059651",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9700000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 76,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR 76 Sqm Condo For Sale Near BTS Punnawithi, The Room Sukhumvit 62 📍 (ID 2901007)",
+        "zh": "2-BR 76 Sqm Condo For Sale Near BTS Punnawithi, The Room Sukhumvit 62 📍 (ID 2901007)",
+        "th": "2-BR 76 Sqm Condo For Sale Near BTS Punnawithi, The Room Sukhumvit 62 📍 (ID 2901007)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 76 sq.m., 9,700,000 THB. Source PropertyHub #6059651.",
+        "zh": "出售：2卧，76㎡，9,700,000 泰铢。来源 PropertyHub #6059651。",
+        "th": "ขาย: 2 นอน 76 ตร.ม. ราคา 9,700,000 บาท (PropertyHub #6059651)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6059651. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6059651。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6059651 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-the-room-sukhumvit-62-near-bts-punnawithi-id-2901007--bb4109fe---6059651",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "da349da4e49792666b11520ef12a479db88aac0f19185d776d5966bd815a83fc"
+    },
+    {
+      "external_ref": "propertyhub-4532198",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4700000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Near BTS Punnawithi 100m, 1-BR Condo The Room Sukhumvit 62 (ID 386655)",
+        "zh": "Near BTS Punnawithi 100m, 1-BR Condo The Room Sukhumvit 62 (ID 386655)",
+        "th": "Near BTS Punnawithi 100m, 1-BR Condo The Room Sukhumvit 62 (ID 386655)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 45 sq.m., 4,700,000 THB. Source PropertyHub #4532198.",
+        "zh": "出售：1卧，45㎡，4,700,000 泰铢。来源 PropertyHub #4532198。",
+        "th": "ขาย: 1 นอน 45 ตร.ม. ราคา 4,700,000 บาท (PropertyHub #4532198)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4532198. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4532198。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4532198 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-room-sukhumvit-62-near-bts-punnawithi-id-386655--a4c008b9---4532198",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "652932c23142919d786b20b298b297bba98e54ef6670e10868ec51d771192d21"
+    },
+    {
+      "external_ref": "propertyhub-6102326",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4800000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Attractive Price 1-BR 45 Sqm The Room Sukhumvit 62 Near BTS Punnawithi (ID 2570401)",
+        "zh": "Attractive Price 1-BR 45 Sqm The Room Sukhumvit 62 Near BTS Punnawithi (ID 2570401)",
+        "th": "Attractive Price 1-BR 45 Sqm The Room Sukhumvit 62 Near BTS Punnawithi (ID 2570401)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 45 sq.m., 4,800,000 THB. Source PropertyHub #6102326.",
+        "zh": "出售：1卧，45㎡，4,800,000 泰铢。来源 PropertyHub #6102326。",
+        "th": "ขาย: 1 นอน 45 ตร.ม. ราคา 4,800,000 บาท (PropertyHub #6102326)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6102326. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6102326。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6102326 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-room-sukhumvit-62-near-bts-punnawithi-id-2570401--acc60975---6102326",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "62588d6f8bde303b94d23dfa7eb05b1c68968f060ddf10cd4c9ff8dd6e586d90"
+    },
+    {
+      "external_ref": "propertyhub-4532161",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "4",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 45 Sqm At The Room Sukhumvit 62, 100m To BTS Punnawithi (ID 1482525)",
+        "zh": "1-BR 45 Sqm At The Room Sukhumvit 62, 100m To BTS Punnawithi (ID 1482525)",
+        "th": "1-BR 45 Sqm At The Room Sukhumvit 62, 100m To BTS Punnawithi (ID 1482525)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 45 sq.m., 4,600,000 THB. Source PropertyHub #4532161.",
+        "zh": "出售：1卧，45㎡，4,600,000 泰铢。来源 PropertyHub #4532161。",
+        "th": "ขาย: 1 นอน 45 ตร.ม. ราคา 4,600,000 บาท (PropertyHub #4532161)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4532161. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4532161。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4532161 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-room-sukhumvit-62-near-bts-punnawithi-id-1482525--b18509ab---4532161",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "ae10b956ef87773eafe1f06f47f0468e1e357a666265a011db83c238a5d87056"
+    },
+    {
+      "external_ref": "propertyhub-3769664",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10300000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 76.09,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "The Room Sukhumvit 62 2 bedrooms, for sale",
+        "zh": "The Room Sukhumvit 62 2 bedrooms, for sale",
+        "th": "The Room Sukhumvit 62 2 bedrooms, for sale"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 76.09 sq.m., 10,300,000 THB. Source PropertyHub #3769664.",
+        "zh": "出售：2卧，76.09㎡，10,300,000 泰铢。来源 PropertyHub #3769664。",
+        "th": "ขาย: 2 นอน 76.09 ตร.ม. ราคา 10,300,000 บาท (PropertyHub #3769664)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3769664. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3769664。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3769664 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-room-sukhumvit-62-2-bedrooms-for-sale---3769664",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "dfcf3bacc211bd2b1b88586a0ca1c149892c8e4da8e91432e10b794dd2ea66bd"
+    },
+    {
+      "external_ref": "propertyhub-5732898",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Sell Condo THE ROOM SUKHUMVIT 62 Building 1, Floor 17,1 bed room, Room size 45 sqm",
+        "zh": "For Sell Condo THE ROOM SUKHUMVIT 62 Building 1, Floor 17,1 bed room, Room size 45 sqm",
+        "th": "For Sell Condo THE ROOM SUKHUMVIT 62 Building 1, Floor 17,1 bed room, Room size 45 sqm"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 45 sq.m., 5,200,000 THB. Source PropertyHub #5732898.",
+        "zh": "出售：1卧，45㎡，5,200,000 泰铢。来源 PropertyHub #5732898。",
+        "th": "ขาย: 1 นอน 45 ตร.ม. ราคา 5,200,000 บาท (PropertyHub #5732898)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5732898. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5732898。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5732898 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-the-room-sukhumvit-62-building-1-floor-17-1-bed-room-room-size-45-sqm--b98409e5---5732898",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "46ef73000f8a9ec746a792cf079441ba5c3f79ae4517ca3c4e40f054e1eae1c2"
+    },
+    {
+      "external_ref": "propertyhub-5713137",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥 For Sale:  1 Bedroom at The Room Sukhumvit 62,  💰 Only 5 MB 🔥",
+        "zh": "🔥 For Sale:  1 Bedroom at The Room Sukhumvit 62,  💰 Only 5 MB 🔥",
+        "th": "🔥 For Sale:  1 Bedroom at The Room Sukhumvit 62,  💰 Only 5 MB 🔥"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 45 sq.m., 5,000,000 THB. Source PropertyHub #5713137.",
+        "zh": "出售：1卧，45㎡，5,000,000 泰铢。来源 PropertyHub #5713137。",
+        "th": "ขาย: 1 นอน 45 ตร.ม. ราคา 5,000,000 บาท (PropertyHub #5713137)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5713137. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5713137。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5713137 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-1-bedroom-at-the-room-sukhumvit-62-only-5-mb---5713137",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "6e8608031fc6bb727a342d12c4e7532dead1214fec7c8252a12b965590373319"
+    },
+    {
+      "external_ref": "propertyhub-5514007",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5800000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "14",
+      "building_label": "B",
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "The Room Sukhumvit 62 Condominium — near BTS Punnawithi",
+        "zh": "The Room Sukhumvit 62 Condominium — near BTS Punnawithi",
+        "th": "The Room Sukhumvit 62 Condominium — near BTS Punnawithi"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 45 sq.m., 5,800,000 THB. Source PropertyHub #5514007.",
+        "zh": "出售：1卧，45㎡，5,800,000 泰铢。来源 PropertyHub #5514007。",
+        "th": "ขาย: 1 นอน 45 ตร.ม. ราคา 5,800,000 บาท (PropertyHub #5514007)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5514007. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5514007。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5514007 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-room-sukhumvit-62-condominium-near-bts-punnawithi---5514007",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "7651e6c57b32df5ab8acd74fc407b157bc33eb8584a741a8b94bcd840b9d940c"
+    },
+    {
+      "external_ref": "propertyhub-4112590",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23542 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23542 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23542 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 46 sq.m., 22,000 THB. Source PropertyHub #4112590.",
+        "zh": "出租：1卧，46㎡，22,000 泰铢。来源 PropertyHub #4112590。",
+        "th": "เช่า: 1 นอน 46 ตร.ม. ราคา 22,000 บาท (PropertyHub #4112590)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4112590. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4112590。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4112590 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-room-sukhumvit-62-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-23542-live-chat-with-us-add-line-connexproperty--a46a09aa---4112590",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "30cd9fcb9fd75c8376a628e89289903abb75ebfa607b71c4f6ef0832d2ae1245"
+    },
+    {
+      "external_ref": "propertyhub-5707363",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 40000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 76,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23607 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23607 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23607 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 76 sq.m., 40,000 THB. Source PropertyHub #5707363.",
+        "zh": "出租：2卧，76㎡，40,000 泰铢。来源 PropertyHub #5707363。",
+        "th": "เช่า: 2 นอน 76 ตร.ม. ราคา 40,000 บาท (PropertyHub #5707363)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5707363. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5707363。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5707363 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-room-sukhumvit-62-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-23607-live-chat-with-us-add-line-connexproperty--b7d709db---5707363",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "f744d873e83916010bff0853b6a7edf6b277f69d1337a5511a62525695d171b3"
+    },
+    {
+      "external_ref": "propertyhub-5774537",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-70717 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-70717 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-70717 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 20,000 THB. Source PropertyHub #5774537.",
+        "zh": "出租：1卧，45㎡，20,000 泰铢。来源 PropertyHub #5774537。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 20,000 บาท (PropertyHub #5774537)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5774537. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5774537。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5774537 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-room-sukhumvit-62-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-70717-live-chat-with-us-add-line-connexproperty--a76d0946---5774537",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "b43fd9e852763cede2c3de0fdd09d2581797907828bb8f83ba0c941bfa06e9a1"
+    },
+    {
+      "external_ref": "propertyhub-4171825",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 48,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23576 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23576 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23576 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 48 sq.m., 20,000 THB. Source PropertyHub #4171825.",
+        "zh": "出租：1卧，48㎡，20,000 泰铢。来源 PropertyHub #4171825。",
+        "th": "เช่า: 1 นอน 48 ตร.ม. ราคา 20,000 บาท (PropertyHub #4171825)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4171825. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4171825。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4171825 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-room-sukhumvit-62-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-23576-live-chat-with-us-add-line-connexproperty--affb09c1---4171825",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "ec309490acc002ec5a5b238da52b9d4f97401f5a6745aa05ed4c082bf94d3f5b"
+    },
+    {
+      "external_ref": "propertyhub-4427535",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-96223 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-96223 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-96223 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 20,000 THB. Source PropertyHub #4427535.",
+        "zh": "出租：1卧，45㎡，20,000 泰铢。来源 PropertyHub #4427535。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 20,000 บาท (PropertyHub #4427535)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4427535. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4427535。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4427535 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-room-sukhumvit-62-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-96223-live-chat-with-us-add-line-connexproperty--d2c20b8f---4427535",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "89dc1a05cebf5d849e0449116216b69b5eb7132cfa19cf2d8bc818974dc449f5"
+    },
+    {
+      "external_ref": "propertyhub-5324059",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23556 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23556 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23556 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 20,000 THB. Source PropertyHub #5324059.",
+        "zh": "出租：1卧，45㎡，20,000 泰铢。来源 PropertyHub #5324059。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 20,000 บาท (PropertyHub #5324059)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5324059. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5324059。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5324059 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-room-sukhumvit-62-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-23556-live-chat-with-us-add-line-connexproperty--9ecd08ec---5324059",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "76a01407927b6231b932eebb9e7938a9b1d439296a670a5e475d1c3a46904448"
+    },
+    {
+      "external_ref": "propertyhub-5511368",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23497 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23497 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23497 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 46 sq.m., 23,000 THB. Source PropertyHub #5511368.",
+        "zh": "出租：1卧，46㎡，23,000 泰铢。来源 PropertyHub #5511368。",
+        "th": "เช่า: 1 นอน 46 ตร.ม. ราคา 23,000 บาท (PropertyHub #5511368)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5511368. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5511368。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5511368 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-room-sukhumvit-62-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-23497-live-chat-with-us-add-line-connexproperty--a9a0091d---5511368",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "47b4a3dc2c13c8b9adfa9e5b2a2d3a92950b11b01312b30e201dc5143ad0826e"
+    },
+    {
+      "external_ref": "propertyhub-5735436",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 45000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 75,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-70715 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-70715 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-70715 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 75 sq.m., 45,000 THB. Source PropertyHub #5735436.",
+        "zh": "出租：2卧，75㎡，45,000 泰铢。来源 PropertyHub #5735436。",
+        "th": "เช่า: 2 นอน 75 ตร.ม. ราคา 45,000 บาท (PropertyHub #5735436)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5735436. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5735436。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5735436 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-room-sukhumvit-62-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-70715-live-chat-with-us-add-line-connexproperty--9f59088d---5735436",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "b3ebcf45ac23b9a13e63253fdb040fa846c99b3b5871fcf0cdec7910ef45f3df"
+    },
+    {
+      "external_ref": "propertyhub-4093517",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23488 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23488 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , The Room Sukhumvit 62 , BTS-Punnawithi , Bang Chak , Phra Khanong , Bangkok , CX-23488 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 20,000 THB. Source PropertyHub #4093517.",
+        "zh": "出租：1卧，45㎡，20,000 泰铢。来源 PropertyHub #4093517。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 20,000 บาท (PropertyHub #4093517)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4093517. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4093517。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4093517 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-room-sukhumvit-62-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-23488-live-chat-with-us-add-line-connexproperty--c35a0a33---4093517",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "9d3b0918a7e15976aa48d76b578a4af3bb790487e144d3ddfe47cbdd4b1b5be1"
+    },
+    {
+      "external_ref": "propertyhub-6196131",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "8",
+      "building_label": "B",
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "P-54107 📢 Condo for Rent City View Near BTS Punnawithi | The Room Sukhumvit 62 Project, Building B, 8th Floor Line: @easythaihome 085-592-2897",
+        "zh": "P-54107 📢 Condo for Rent City View Near BTS Punnawithi | The Room Sukhumvit 62 Project, Building B, 8th Floor Line: @easythaihome 085-592-2897",
+        "th": "P-54107 📢 Condo for Rent City View Near BTS Punnawithi | The Room Sukhumvit 62 Project, Building B, 8th Floor Line: @easythaihome 085-592-2897"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 18,000 THB. Source PropertyHub #6196131.",
+        "zh": "出租：1卧，45㎡，18,000 泰铢。来源 PropertyHub #6196131。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 18,000 บาท (PropertyHub #6196131)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6196131. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6196131。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6196131 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/p-54107-condo-for-rent-city-view-near-bts-punnawithi-the-room-sukhumvit-62-project-building-b-8th-floor-line-easythaihome-085-592-2897---6196131",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.69028891576265,
+      "longitude": 100.608422582232,
+      "duplicate_fingerprint": "85fbab839a5a17fa4c933f0cb2feee2f85981f1a35c82ddcc25dfd5a85ea6212"
+    }
+  ]
+}

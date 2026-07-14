@@ -1,0 +1,888 @@
+{
+  "project_slug": "the-privacy-rama-9",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-5866431",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 23,
+      "floor_label": "19",
+      "building_label": "-",
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "P-1394✅Sale Condo The Privacy rama-9 pruce 2.2 M.✅0659174222✅",
+        "zh": "P-1394✅Sale Condo The Privacy rama-9 pruce 2.2 M.✅0659174222✅",
+        "th": "P-1394✅Sale Condo The Privacy rama-9 pruce 2.2 M.✅0659174222✅"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 23 sq.m., 2,200,000 THB. Source PropertyHub #5866431.",
+        "zh": "出售：1卧，23㎡，2,200,000 泰铢。来源 PropertyHub #5866431。",
+        "th": "ขาย: 1 นอน 23 ตร.ม. ราคา 2,200,000 บาท (PropertyHub #5866431)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5866431. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5866431。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5866431 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/p-1394sale-condo-the-privacy-rama-9-pruce-2-2-m-0659174222---5866431",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "8af8a87711a4eeb2c3d4bcee618e8c1b50f97a24cdd438a96c23e63c00f0eab3"
+    },
+    {
+      "external_ref": "propertyhub-5958331",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4290000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 38,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "For sell condo THE PRIVACY RAMA 9 Building 1, Floor 18,2 bed room, Room size 38 sqm",
+        "zh": "For sell condo THE PRIVACY RAMA 9 Building 1, Floor 18,2 bed room, Room size 38 sqm",
+        "th": "For sell condo THE PRIVACY RAMA 9 Building 1, Floor 18,2 bed room, Room size 38 sqm"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 38 sq.m., 4,290,000 THB. Source PropertyHub #5958331.",
+        "zh": "出售：2卧，38㎡，4,290,000 泰铢。来源 PropertyHub #5958331。",
+        "th": "ขาย: 2 นอน 38 ตร.ม. ราคา 4,290,000 บาท (PropertyHub #5958331)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5958331. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5958331。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5958331 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-the-privacy-rama-9-building-1-floor-18-2-bed-room-room-size-38-sqm--b0640991---5958331",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "3c0ba2a6622ca7cb9413a620ebf67a3eca554fbe312b76d88d29554755a7ad8d"
+    },
+    {
+      "external_ref": "propertyhub-4978796",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2290000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 23.5,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "Sell privacy rama9 size 23 sqm. price 2.29 m. fully furnished",
+        "zh": "Sell privacy rama9 size 23 sqm. price 2.29 m. fully furnished",
+        "th": "Sell privacy rama9 size 23 sqm. price 2.29 m. fully furnished"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 23.5 sq.m., 2,290,000 THB. Source PropertyHub #4978796.",
+        "zh": "出售：1卧，23.5㎡，2,290,000 泰铢。来源 PropertyHub #4978796。",
+        "th": "ขาย: 1 นอน 23.5 ตร.ม. ราคา 2,290,000 บาท (PropertyHub #4978796)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4978796. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4978796。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4978796 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/sell-privacy-rama9-size-23-sqm-price-2-29-m-fully-furnished--a6a3098c---4978796",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "355fd2afb00453c3d09dc705b3f94d8a6d1a9dd1bf226cbe1ad02599ac4096ee"
+    },
+    {
+      "external_ref": "propertyhub-5958373",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2390000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 23,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "For Sell Condo THE PRIVACY RAMA 9 Building 1, Floor 15,1 bed room, Room size 23 sqm",
+        "zh": "For Sell Condo THE PRIVACY RAMA 9 Building 1, Floor 15,1 bed room, Room size 23 sqm",
+        "th": "For Sell Condo THE PRIVACY RAMA 9 Building 1, Floor 15,1 bed room, Room size 23 sqm"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 23 sq.m., 2,390,000 THB. Source PropertyHub #5958373.",
+        "zh": "出售：1卧，23㎡，2,390,000 泰铢。来源 PropertyHub #5958373。",
+        "th": "ขาย: 1 นอน 23 ตร.ม. ราคา 2,390,000 บาท (PropertyHub #5958373)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5958373. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5958373。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5958373 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-the-privacy-rama-9-building-1-floor-15-1-bed-room-room-size-23-sqm--a6c20999---5958373",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "673bd404b04fc1c43f5f2ec8d144a8518fd09e14d87397900dd9719c7aae92df"
+    },
+    {
+      "external_ref": "propertyhub-6004109",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2250000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 23.5,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "A033733 The Privacy Rama 9",
+        "zh": "A033733 The Privacy Rama 9",
+        "th": "A033733 The Privacy Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 23.5 sq.m., 2,250,000 THB. Source PropertyHub #6004109.",
+        "zh": "出售：1卧，23.5㎡，2,250,000 泰铢。来源 PropertyHub #6004109。",
+        "th": "ขาย: 1 นอน 23.5 ตร.ม. ราคา 2,250,000 บาท (PropertyHub #6004109)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6004109. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6004109。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6004109 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/a033733-the-privacy-rama-9--a37c094f---6004109",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "c4fc7d2419db9ed0fc2492200bca21122af631c0b33a7d13317ed8044d7fa934"
+    },
+    {
+      "external_ref": "propertyhub-6086483",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.43,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "A010168 The Privacy Rama 9",
+        "zh": "A010168 The Privacy Rama 9",
+        "th": "A010168 The Privacy Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35.43 sq.m., 3,400,000 THB. Source PropertyHub #6086483.",
+        "zh": "出售：1卧，35.43㎡，3,400,000 泰铢。来源 PropertyHub #6086483。",
+        "th": "ขาย: 1 นอน 35.43 ตร.ม. ราคา 3,400,000 บาท (PropertyHub #6086483)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6086483. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6086483。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6086483 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/a010168-the-privacy-rama-9---6086483",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "b52188417ab841eef3b85ec6e5d5e129303a59ae65edb2d7255ebce000584772"
+    },
+    {
+      "external_ref": "propertyhub-6222960",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3700000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 38,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "A050127 The Privacy Rama 9",
+        "zh": "A050127 The Privacy Rama 9",
+        "th": "A050127 The Privacy Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 38 sq.m., 3,700,000 THB. Source PropertyHub #6222960.",
+        "zh": "出售：2卧，38㎡，3,700,000 泰铢。来源 PropertyHub #6222960。",
+        "th": "ขาย: 2 นอน 38 ตร.ม. ราคา 3,700,000 บาท (PropertyHub #6222960)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6222960. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6222960。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6222960 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/a050127-the-privacy-rama-9---6222960",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "17756f5ac5b4658b70d866e7bcafa24c5158351fc9e67450a44b9343c27b72e2"
+    },
+    {
+      "external_ref": "propertyhub-6005657",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "A033381 The Privacy Rama 9",
+        "zh": "A033381 The Privacy Rama 9",
+        "th": "A033381 The Privacy Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 27 sq.m., 2,400,000 THB. Source PropertyHub #6005657.",
+        "zh": "出售：1卧，27㎡，2,400,000 泰铢。来源 PropertyHub #6005657。",
+        "th": "ขาย: 1 นอน 27 ตร.ม. ราคา 2,400,000 บาท (PropertyHub #6005657)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6005657. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6005657。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6005657 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/a033381-the-privacy-rama-9---6005657",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "46a886696f25bb1da304371030bc49adf7e0cc215f9db6de52c93a9d6d0ec7d6"
+    },
+    {
+      "external_ref": "propertyhub-5855163",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "27",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "Urgent sale! ✨ The Privacy Rama 9 ✨ Fully furnished and equipped with appliances. Convenient location, near APL Ramkhamhaeng.",
+        "zh": "Urgent sale! ✨ The Privacy Rama 9 ✨ Fully furnished and equipped with appliances. Convenient location, near APL Ramkhamhaeng.",
+        "th": "Urgent sale! ✨ The Privacy Rama 9 ✨ Fully furnished and equipped with appliances. Convenient location, near APL Ramkhamhaeng."
+      },
+      "summary": {
+        "en": "Sale: 1BR, 27 sq.m., 2,590,000 THB. Source PropertyHub #5855163.",
+        "zh": "出售：1卧，27㎡，2,590,000 泰铢。来源 PropertyHub #5855163。",
+        "th": "ขาย: 1 นอน 27 ตร.ม. ราคา 2,590,000 บาท (PropertyHub #5855163)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5855163. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5855163。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5855163 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-the-privacy-rama-9-fully-furnished-and-equipped-with-appliances-convenient-location-near-apl-ramkhamhaeng---5855163",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "c3680fcec5b70a3e55b4d98ae1be01701763958eaaeac4dd6b17be2a083c194a"
+    },
+    {
+      "external_ref": "propertyhub-5667690",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 38.57,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "Urgent Sale 📍 The Privacy Rama 9 📍 Fully furnished and equipped with appliances. Near Airport Link Ramkhamhaeng.",
+        "zh": "Urgent Sale 📍 The Privacy Rama 9 📍 Fully furnished and equipped with appliances. Near Airport Link Ramkhamhaeng.",
+        "th": "Urgent Sale 📍 The Privacy Rama 9 📍 Fully furnished and equipped with appliances. Near Airport Link Ramkhamhaeng."
+      },
+      "summary": {
+        "en": "Sale: 1BR, 38.57 sq.m., 3,590,000 THB. Source PropertyHub #5667690.",
+        "zh": "出售：1卧，38.57㎡，3,590,000 泰铢。来源 PropertyHub #5667690。",
+        "th": "ขาย: 1 นอน 38.57 ตร.ม. ราคา 3,590,000 บาท (PropertyHub #5667690)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5667690. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5667690。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5667690 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-the-privacy-rama-9-fully-furnished-and-equipped-with-appliances-near-airport-link-ramkhamhaeng---5667690",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "43b5f7471cb28bd5bae9a5584f0af1a22cea8f7b513061917112635c820713b4"
+    },
+    {
+      "external_ref": "propertyhub-3216917",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17500,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "For rent The Privacy Rama 9 🍁 Beautifully decorated room 🍁 2 bedrooms 36 sqm Line @bkkproperty8",
+        "zh": "For rent The Privacy Rama 9 🍁 Beautifully decorated room 🍁 2 bedrooms 36 sqm Line @bkkproperty8",
+        "th": "For rent The Privacy Rama 9 🍁 Beautifully decorated room 🍁 2 bedrooms 36 sqm Line @bkkproperty8"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 36 sq.m., 17,500 THB. Source PropertyHub #3216917.",
+        "zh": "出租：2卧，36㎡，17,500 泰铢。来源 PropertyHub #3216917。",
+        "th": "เช่า: 2 นอน 36 ตร.ม. ราคา 17,500 บาท (PropertyHub #3216917)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3216917. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3216917。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3216917 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-the-privacy-rama-9-beautifully-decorated-room-2-bedrooms-36-sqm-line-bkkproperty8---3216917",
+      "source_updated_at": "2026-07-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "121b8fe27e02c8605046cdf6f013728183e767bbd4a46c487faa5e99d5592ddb"
+    },
+    {
+      "external_ref": "propertyhub-6164373",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "High Floor",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "🔥 For Rent 📌 The Privacy Rama 9 (Line ID: @veryrent) Negotiable price! ✅ We also manage many other projects great deals on every rental!",
+        "zh": "🔥 For Rent 📌 The Privacy Rama 9 (Line ID: @veryrent) Negotiable price! ✅ We also manage many other projects great deals on every rental!",
+        "th": "🔥 For Rent 📌 The Privacy Rama 9 (Line ID: @veryrent) Negotiable price! ✅ We also manage many other projects great deals on every rental!"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 24 sq.m., 12,000 THB. Source PropertyHub #6164373.",
+        "zh": "出租：1卧，24㎡，12,000 泰铢。来源 PropertyHub #6164373。",
+        "th": "เช่า: 1 นอน 24 ตร.ม. ราคา 12,000 บาท (PropertyHub #6164373)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6164373. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6164373。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6164373 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-the-privacy-rama-9-line-id-veryrent-negotiable-price-we-also-manage-many-other-projects-great-deals-on-every-rental---6164373",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "846b4ecd8b865b1c234f4a5599efb0b40b0b746d549fdfda1454fd9e3e5cb7a5"
+    },
+    {
+      "external_ref": "propertyhub-5383819",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23500,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 38.57,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "For Rent Condo , The Privacy Rama 9 , ARL-Ramkhamhaeng , Suan Luang , Suan Luang , Bangkok , CX-100585 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , The Privacy Rama 9 , ARL-Ramkhamhaeng , Suan Luang , Suan Luang , Bangkok , CX-100585 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , The Privacy Rama 9 , ARL-Ramkhamhaeng , Suan Luang , Suan Luang , Bangkok , CX-100585 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 38.57 sq.m., 23,500 THB. Source PropertyHub #5383819.",
+        "zh": "出租：2卧，38.57㎡，23,500 泰铢。来源 PropertyHub #5383819。",
+        "th": "เช่า: 2 นอน 38.57 ตร.ม. ราคา 23,500 บาท (PropertyHub #5383819)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5383819. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5383819。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5383819 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-privacy-rama-9-arl-ramkhamhaeng-suan-luang-suan-luang-bangkok-cx-100585-live-chat-with-us-add-line-connexproperty--ac830915---5383819",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "4d222e0c4f44ab0d67d9c79c1efaa740c902cc340d131c149ce03c15acc53b1e"
+    },
+    {
+      "external_ref": "propertyhub-5673137",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "For Rent Condo THE PRIVACY RAMA 9 Building 1, Floor 6, 1 BED PLUS, Room size 35.00 sqm",
+        "zh": "For Rent Condo THE PRIVACY RAMA 9 Building 1, Floor 6, 1 BED PLUS, Room size 35.00 sqm",
+        "th": "For Rent Condo THE PRIVACY RAMA 9 Building 1, Floor 6, 1 BED PLUS, Room size 35.00 sqm"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 18,000 THB. Source PropertyHub #5673137.",
+        "zh": "出租：1卧，35㎡，18,000 泰铢。来源 PropertyHub #5673137。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 18,000 บาท (PropertyHub #5673137)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5673137. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5673137。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5673137 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-privacy-rama-9-building-1-floor-6-1-bed-plus-room-size-35-00-sqm--adf90960---5673137",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "dc45a55811457e492db54f900f4ed54289df1679cb114f60083abad8f0daa661"
+    },
+    {
+      "external_ref": "propertyhub-3908719",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 46,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "DL23090020 Condo for rent, The Privacy Rama 9 near AIRPORT RAIL LINK รามคำแหง, ready to move in, call urgently 0614453194 LineID @952jdxxk",
+        "zh": "DL23090020 Condo for rent, The Privacy Rama 9 near AIRPORT RAIL LINK รามคำแหง, ready to move in, call urgently 0614453194 LineID @952jdxxk",
+        "th": "DL23090020 Condo for rent, The Privacy Rama 9 near AIRPORT RAIL LINK รามคำแหง, ready to move in, call urgently 0614453194 LineID @952jdxxk"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 46 sq.m., 25,000 THB. Source PropertyHub #3908719.",
+        "zh": "出租：2卧，46㎡，25,000 泰铢。来源 PropertyHub #3908719。",
+        "th": "เช่า: 2 นอน 46 ตร.ม. ราคา 25,000 บาท (PropertyHub #3908719)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3908719. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3908719。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3908719 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/dl23090020-condo-for-rent-the-privacy-rama-9-near-arl-ramkhamhaeng-ready-to-move-in-call-urgently-0614453194-lineid-952jdxxk---3908719",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "2f24b18c31fb8554cfd6e75173d030d1bfd42ae8481142f7465483dc1f3e99dd"
+    },
+    {
+      "external_ref": "propertyhub-5224904",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 47,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "DL25070127 Condo for rent, The Privacy Rama 9 near AIRPORT RAIL LINK รามคำแหง, ready to move in, call urgently 0653619502 LineID @952jdxxk",
+        "zh": "DL25070127 Condo for rent, The Privacy Rama 9 near AIRPORT RAIL LINK รามคำแหง, ready to move in, call urgently 0653619502 LineID @952jdxxk",
+        "th": "DL25070127 Condo for rent, The Privacy Rama 9 near AIRPORT RAIL LINK รามคำแหง, ready to move in, call urgently 0653619502 LineID @952jdxxk"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 47 sq.m., 23,000 THB. Source PropertyHub #5224904.",
+        "zh": "出租：2卧，47㎡，23,000 泰铢。来源 PropertyHub #5224904。",
+        "th": "เช่า: 2 นอน 47 ตร.ม. ราคา 23,000 บาท (PropertyHub #5224904)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5224904. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5224904。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5224904 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/dl25070127-condo-for-rent-the-privacy-rama-9-near-arl-ramkhamhaeng-ready-to-move-in-call-urgently-0653619502-lineid-217jgcbp---5224904",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "d7dc21dc8c9b693024ac891cf1a607359128a94f573246dc34b5dc0f59f93578"
+    },
+    {
+      "external_ref": "propertyhub-4545554",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "DL23020196 Condo for rent, The Privacy Rama 9 near AIRPORT RAIL LINK รามคำแหง, ready to move in, call urgently 0614453194 LineID @952jdxxk",
+        "zh": "DL23020196 Condo for rent, The Privacy Rama 9 near AIRPORT RAIL LINK รามคำแหง, ready to move in, call urgently 0614453194 LineID @952jdxxk",
+        "th": "DL23020196 Condo for rent, The Privacy Rama 9 near AIRPORT RAIL LINK รามคำแหง, ready to move in, call urgently 0614453194 LineID @952jdxxk"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 13,000 THB. Source PropertyHub #4545554.",
+        "zh": "出租：1卧，28㎡，13,000 泰铢。来源 PropertyHub #4545554。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 13,000 บาท (PropertyHub #4545554)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4545554. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4545554。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4545554 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/dl23020196-condo-for-rent-the-privacy-rama-9-near-arl-ramkhamhaeng-ready-to-move-in-call-urgently-0638692663-lineid-655ebbvc---4545554",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "6474ec65cef7751570194f90358a038ef2f3c769604af7144a5592987c4c53be"
+    },
+    {
+      "external_ref": "propertyhub-6081603",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "🎉 For Rent Condo THE PRIVACY RAMA 9 Building 1, Floor 18,1 bed room, Room size 27 sqm",
+        "zh": "🎉 For Rent Condo THE PRIVACY RAMA 9 Building 1, Floor 18,1 bed room, Room size 27 sqm",
+        "th": "🎉 For Rent Condo THE PRIVACY RAMA 9 Building 1, Floor 18,1 bed room, Room size 27 sqm"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 15,000 THB. Source PropertyHub #6081603.",
+        "zh": "出租：1卧，27㎡，15,000 泰铢。来源 PropertyHub #6081603。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 15,000 บาท (PropertyHub #6081603)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6081603. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6081603。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6081603 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-privacy-rama-9-building-1-floor-18-1-bed-room-room-size-27-sqm--b5e00a17---6081603",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "1478a369b6fb6e08dc84c9a3ca851f185134b59c0109c83997d5c1f2c958ff04"
+    },
+    {
+      "external_ref": "propertyhub-6130563",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22900,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 40,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "🎊 For Rent Condo THE PRIVACY RAMA 9 Building 1, Floor 18,2 bed room, Room size 40.00 sqm",
+        "zh": "🎊 For Rent Condo THE PRIVACY RAMA 9 Building 1, Floor 18,2 bed room, Room size 40.00 sqm",
+        "th": "🎊 For Rent Condo THE PRIVACY RAMA 9 Building 1, Floor 18,2 bed room, Room size 40.00 sqm"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 40 sq.m., 22,900 THB. Source PropertyHub #6130563.",
+        "zh": "出租：2卧，40㎡，22,900 泰铢。来源 PropertyHub #6130563。",
+        "th": "เช่า: 2 นอน 40 ตร.ม. ราคา 22,900 บาท (PropertyHub #6130563)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6130563. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6130563。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6130563 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-privacy-rama-9-building-1-floor-18-2-bed-room-room-size-40-00-sqm--a3d90916---6130563",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "e43aa38cbae776508de323a3bfe7b370a298e964d588bc5ecf8a3452ff69b03b"
+    },
+    {
+      "external_ref": "propertyhub-6061646",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [
+        "arl"
+      ],
+      "title": {
+        "en": "🎊 For Rent Condo THE PRIVACY RAMA 9 Building 1, Floor 22,1 bed room, Room size 35.00 sqm",
+        "zh": "🎊 For Rent Condo THE PRIVACY RAMA 9 Building 1, Floor 22,1 bed room, Room size 35.00 sqm",
+        "th": "🎊 For Rent Condo THE PRIVACY RAMA 9 Building 1, Floor 22,1 bed room, Room size 35.00 sqm"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 20,000 THB. Source PropertyHub #6061646.",
+        "zh": "出租：1卧，35㎡，20,000 泰铢。来源 PropertyHub #6061646。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 20,000 บาท (PropertyHub #6061646)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6061646. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6061646。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6061646 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-privacy-rama-9-building-1-floor-22-1-bed-room-room-size-35-00-sqm--a840091b---6061646",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.7445427614678,
+      "longitude": 100.6027282628988,
+      "duplicate_fingerprint": "ddb2c3dd5a3066f93464f60fcb023cd5196ac363014a4e160ae63161441d9036"
+    }
+  ]
+}

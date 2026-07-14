@@ -1,0 +1,908 @@
+{
+  "project_slug": "ashton-asoke",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-4590499",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "28",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "High-Floor 1-BR 34 Sqm Ashton Asoke Near MRT Sukhumvit (70m) (ID 888655)",
+        "zh": "High-Floor 1-BR 34 Sqm Ashton Asoke Near MRT Sukhumvit (70m) (ID 888655)",
+        "th": "High-Floor 1-BR 34 Sqm Ashton Asoke Near MRT Sukhumvit (70m) (ID 888655)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 34 sq.m., 8,500,000 THB. Source PropertyHub #4590499.",
+        "zh": "出售：1卧，34㎡，8,500,000 泰铢。来源 PropertyHub #4590499。",
+        "th": "ขาย: 1 นอน 34 ตร.ม. ราคา 8,500,000 บาท (PropertyHub #4590499)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4590499. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4590499。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4590499 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-888655--a3d808bd---4590499",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "c62a53a71234a037d4a5abeeef326ff2c1d00eb29299b1634675b85f6831aad3"
+    },
+    {
+      "external_ref": "propertyhub-5214885",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8350000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "36",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Well-Priced 1-BR Condo At Ashton Asoke, 36th Floor Near MRT Sukhumvit (70m) (ID 2180590)",
+        "zh": "Well-Priced 1-BR Condo At Ashton Asoke, 36th Floor Near MRT Sukhumvit (70m) (ID 2180590)",
+        "th": "Well-Priced 1-BR Condo At Ashton Asoke, 36th Floor Near MRT Sukhumvit (70m) (ID 2180590)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 34 sq.m., 8,350,000 THB. Source PropertyHub #5214885.",
+        "zh": "出售：1卧，34㎡，8,350,000 泰铢。来源 PropertyHub #5214885。",
+        "th": "ขาย: 1 นอน 34 ตร.ม. ราคา 8,350,000 บาท (PropertyHub #5214885)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5214885. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5214885。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5214885 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-2180590---5214885",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "5a890c6498c31ecf062b782f527f54487aadc8ec01c01a430cbcfc3ee093159d"
+    },
+    {
+      "external_ref": "propertyhub-5903744",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 20790000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 64,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "2-BR Condo At Ashton Asoke, High-Floor Near MRT Sukhumvit (70m) (ID 2739582)",
+        "zh": "2-BR Condo At Ashton Asoke, High-Floor Near MRT Sukhumvit (70m) (ID 2739582)",
+        "th": "2-BR Condo At Ashton Asoke, High-Floor Near MRT Sukhumvit (70m) (ID 2739582)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 64 sq.m., 20,790,000 THB. Source PropertyHub #5903744.",
+        "zh": "出售：2卧，64㎡，20,790,000 泰铢。来源 PropertyHub #5903744。",
+        "th": "ขาย: 2 นอน 64 ตร.ม. ราคา 20,790,000 บาท (PropertyHub #5903744)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5903744. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5903744。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5903744 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-2739582--aef608ee---5903744",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "bceca81e34370ab53b75f34824095a41c1a369baf481a623038b876ecce05f5a"
+    },
+    {
+      "external_ref": "propertyhub-5903760",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31.31,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR 31 Sqm At Ashton Asoke, 70m to MRT Sukhumvit (ID 2738839)",
+        "zh": "1-BR 31 Sqm At Ashton Asoke, 70m to MRT Sukhumvit (ID 2738839)",
+        "th": "1-BR 31 Sqm At Ashton Asoke, 70m to MRT Sukhumvit (ID 2738839)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 31.31 sq.m., 8,400,000 THB. Source PropertyHub #5903760.",
+        "zh": "出售：1卧，31.31㎡，8,400,000 泰铢。来源 PropertyHub #5903760。",
+        "th": "ขาย: 1 นอน 31.31 ตร.ม. ราคา 8,400,000 บาท (PropertyHub #5903760)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5903760. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5903760。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5903760 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-2738839--ac4f0981---5903760",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "bbe87dc54eb7aa67a9d084604872fd4949eed90e1e89954cb8626302ac9c62fc"
+    },
+    {
+      "external_ref": "propertyhub-6155858",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 13900000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 46.86,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "2-BR Condo In Ashton Asoke, High Walk To MRT Sukhumvit (70m) (ID 3007267)",
+        "zh": "2-BR Condo In Ashton Asoke, High Walk To MRT Sukhumvit (70m) (ID 3007267)",
+        "th": "2-BR Condo In Ashton Asoke, High Walk To MRT Sukhumvit (70m) (ID 3007267)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 46.86 sq.m., 13,900,000 THB. Source PropertyHub #6155858.",
+        "zh": "出售：2卧，46.86㎡，13,900,000 泰铢。来源 PropertyHub #6155858。",
+        "th": "ขาย: 2 นอน 46.86 ตร.ม. ราคา 13,900,000 บาท (PropertyHub #6155858)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6155858. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6155858。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6155858 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-3007267--9eda0901---6155858",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "c97d3dacbded5e5e11160d02e4800db2937ca91f4ef9e9048c3ed78e1f4db74c"
+    },
+    {
+      "external_ref": "propertyhub-6161624",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR 32 Sqm Condo In Ashton Asoke, 70m to MRT Sukhumvit (ID 3016966)",
+        "zh": "1-BR 32 Sqm Condo In Ashton Asoke, 70m to MRT Sukhumvit (ID 3016966)",
+        "th": "1-BR 32 Sqm Condo In Ashton Asoke, 70m to MRT Sukhumvit (ID 3016966)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 32 sq.m., 6,590,000 THB. Source PropertyHub #6161624.",
+        "zh": "出售：1卧，32㎡，6,590,000 泰铢。来源 PropertyHub #6161624。",
+        "th": "ขาย: 1 นอน 32 ตร.ม. ราคา 6,590,000 บาท (PropertyHub #6161624)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6161624. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6161624。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6161624 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-3016966---6161624",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "64b2dec0fc7b716c499f6188f5f18f8ff882cce620a14ff9a58e43d507b89029"
+    },
+    {
+      "external_ref": "propertyhub-6186016",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": "31",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR 31 Sqm High-Floor Condo At Ashton Asoke, 70m To MRT Sukhumvit (ID 3039694)",
+        "zh": "1-BR 31 Sqm High-Floor Condo At Ashton Asoke, 70m To MRT Sukhumvit (ID 3039694)",
+        "th": "1-BR 31 Sqm High-Floor Condo At Ashton Asoke, 70m To MRT Sukhumvit (ID 3039694)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 31 sq.m., 8,000,000 THB. Source PropertyHub #6186016.",
+        "zh": "出售：1卧，31㎡，8,000,000 泰铢。来源 PropertyHub #6186016。",
+        "th": "ขาย: 1 นอน 31 ตร.ม. ราคา 8,000,000 บาท (PropertyHub #6186016)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6186016. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6186016。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6186016 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-31st-floor-70m-to-mrt-sukhumvit-id-3039694---6186016",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "d80337597de7975085b72238ba123ac0d29e373dd6416b46f3031e6ae3f58c4e"
+    },
+    {
+      "external_ref": "propertyhub-6186073",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6700000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33.31,
+      "floor_label": "1x",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR Condo At Ashton Asoke, 70m To MRT Sukhumvit (ID 3046085)",
+        "zh": "1-BR Condo At Ashton Asoke, 70m To MRT Sukhumvit (ID 3046085)",
+        "th": "1-BR Condo At Ashton Asoke, 70m To MRT Sukhumvit (ID 3046085)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 33.31 sq.m., 6,700,000 THB. Source PropertyHub #6186073.",
+        "zh": "出售：1卧，33.31㎡，6,700,000 泰铢。来源 PropertyHub #6186073。",
+        "th": "ขาย: 1 นอน 33.31 ตร.ม. ราคา 6,700,000 บาท (PropertyHub #6186073)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6186073. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6186073。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6186073 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-3046085---6186073",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "c9375d5e572fce07750518b24bbd85f701b95ac6a24cb04e493e4e58c1cc9765"
+    },
+    {
+      "external_ref": "propertyhub-5362693",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR Condo In Ashton Asoke, High-Floor 17th, 70m To MRT Sukhumvit (ID 2262393)",
+        "zh": "1-BR Condo In Ashton Asoke, High-Floor 17th, 70m To MRT Sukhumvit (ID 2262393)",
+        "th": "1-BR Condo In Ashton Asoke, High-Floor 17th, 70m To MRT Sukhumvit (ID 2262393)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 7,600,000 THB. Source PropertyHub #5362693.",
+        "zh": "出售：1卧，30㎡，7,600,000 泰铢。来源 PropertyHub #5362693。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 7,600,000 บาท (PropertyHub #5362693)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5362693. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5362693。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5362693 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-2262393---5362693",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "4572e2fcab04809959d5d87361a8ed5676de8494afd3cc55237c3da8fd792b43"
+    },
+    {
+      "external_ref": "propertyhub-5848995",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Well-Priced 1-BR Condo At Ashton Asoke, 70m To MRT Sukhumvit (ID 2688986)",
+        "zh": "Well-Priced 1-BR Condo At Ashton Asoke, 70m To MRT Sukhumvit (ID 2688986)",
+        "th": "Well-Priced 1-BR Condo At Ashton Asoke, 70m To MRT Sukhumvit (ID 2688986)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 33 sq.m., 7,000,000 THB. Source PropertyHub #5848995.",
+        "zh": "出售：1卧，33㎡，7,000,000 泰铢。来源 PropertyHub #5848995。",
+        "th": "ขาย: 1 นอน 33 ตร.ม. ราคา 7,000,000 บาท (PropertyHub #5848995)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5848995. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5848995。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5848995 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-2688986--ad4b090d---5848995",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "393e40af9306abf787eb39fcba7ac1dcf45ddf4c3f373507de0054f0f110e026"
+    },
+    {
+      "external_ref": "propertyhub-4581280",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Rent Ashton Asoke 1 bedroom 1 bathroom size 35 sq.m. 24,000 baht / month",
+        "zh": "Rent Ashton Asoke 1 bedroom 1 bathroom size 35 sq.m. 24,000 baht / month",
+        "th": "Rent Ashton Asoke 1 bedroom 1 bathroom size 35 sq.m. 24,000 baht / month"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 24,000 THB. Source PropertyHub #4581280.",
+        "zh": "出租：1卧，35㎡，24,000 泰铢。来源 PropertyHub #4581280。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 24,000 บาท (PropertyHub #4581280)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4581280. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4581280。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4581280 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/rent-ashton-asoke-1-bedroom-1-bathroom-size-35-sq-m-24-000-baht-month--b68f09ea---4581280",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "1469e2bd24d239582634604c36f56c253ac78255ab96cb96d06603b7a824c105"
+    },
+    {
+      "external_ref": "propertyhub-6102388",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 60000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66,
+      "floor_label": "",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "2-BR Condo In Ashton Asoke, 70m To MRT Sukhumvit (ID 2475298)",
+        "zh": "2-BR Condo In Ashton Asoke, 70m To MRT Sukhumvit (ID 2475298)",
+        "th": "2-BR Condo In Ashton Asoke, 70m To MRT Sukhumvit (ID 2475298)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 66 sq.m., 60,000 THB. Source PropertyHub #6102388.",
+        "zh": "出租：2卧，66㎡，60,000 泰铢。来源 PropertyHub #6102388。",
+        "th": "เช่า: 2 นอน 66 ตร.ม. ราคา 60,000 บาท (PropertyHub #6102388)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6102388. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6102388。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6102388 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-2475298--acf0092b---6102388",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "a33e88148b64a8cf9121acf537d9f9eb4d2356dfce495203d9c492eaccb60fb9"
+    },
+    {
+      "external_ref": "propertyhub-6102694",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 60000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "High-Floor 2-BR 66 Sqm Condo In Ashton Asoke Near MRT Sukhumvit (70m) (ID 2475678)",
+        "zh": "High-Floor 2-BR 66 Sqm Condo In Ashton Asoke Near MRT Sukhumvit (70m) (ID 2475678)",
+        "th": "High-Floor 2-BR 66 Sqm Condo In Ashton Asoke Near MRT Sukhumvit (70m) (ID 2475678)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 66 sq.m., 60,000 THB. Source PropertyHub #6102694.",
+        "zh": "出租：2卧，66㎡，60,000 泰铢。来源 PropertyHub #6102694。",
+        "th": "เช่า: 2 นอน 66 ตร.ม. ราคา 60,000 บาท (PropertyHub #6102694)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6102694. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6102694。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6102694 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-2475678--a3c908fe---6102694",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "4d4ec8f5b3e9c187f3fd7ffb24951007218ca65d3522c5027ee52107961e3ceb"
+    },
+    {
+      "external_ref": "propertyhub-6155729",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 26000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Well-Priced 1-BR Condo, Ashton Asoke, 70m to MRT Sukhumvit (ID 3004832)",
+        "zh": "Well-Priced 1-BR Condo, Ashton Asoke, 70m to MRT Sukhumvit (ID 3004832)",
+        "th": "Well-Priced 1-BR Condo, Ashton Asoke, 70m to MRT Sukhumvit (ID 3004832)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 26,000 THB. Source PropertyHub #6155729.",
+        "zh": "出租：1卧，34㎡，26,000 泰铢。来源 PropertyHub #6155729。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 26,000 บาท (PropertyHub #6155729)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6155729. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6155729。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6155729 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-3004832--b2f8098a---6155729",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "3daaf4ae1ec159567c1acdd2ce3ed8534686e2317a74ecf1e76d06b07e9a828b"
+    },
+    {
+      "external_ref": "propertyhub-5787098",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Well-Located 1-BR Condo In Ashton Asoke, 20m To MRT Sukhumvit (ID 1471166)",
+        "zh": "Well-Located 1-BR Condo In Ashton Asoke, 20m To MRT Sukhumvit (ID 1471166)",
+        "th": "Well-Located 1-BR Condo In Ashton Asoke, 20m To MRT Sukhumvit (ID 1471166)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 27,000 THB. Source PropertyHub #5787098.",
+        "zh": "出租：1卧，35㎡，27,000 泰铢。来源 PropertyHub #5787098。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 27,000 บาท (PropertyHub #5787098)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5787098. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5787098。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5787098 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-1471166--aeb6098d---5787098",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "a1bc9e5c7aff45060b848891b7ff9379214139096e412e1827739144adf6ce35"
+    },
+    {
+      "external_ref": "propertyhub-6102706",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 59000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 65,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "2-BR 65 Sqm Condo At Ashton Asoke, 70m To MRT Sukhumvit (ID 2918954)",
+        "zh": "2-BR 65 Sqm Condo At Ashton Asoke, 70m To MRT Sukhumvit (ID 2918954)",
+        "th": "2-BR 65 Sqm Condo At Ashton Asoke, 70m To MRT Sukhumvit (ID 2918954)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 65 sq.m., 59,000 THB. Source PropertyHub #6102706.",
+        "zh": "出租：2卧，65㎡，59,000 泰铢。来源 PropertyHub #6102706。",
+        "th": "เช่า: 2 นอน 65 ตร.ม. ราคา 59,000 บาท (PropertyHub #6102706)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6102706. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6102706。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6102706 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-2918954--b17209b4---6102706",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "f2f3d01f9363b836faed1b0d5e3bac85c6712772117df05c83f5c3a3b658bcdf"
+    },
+    {
+      "external_ref": "propertyhub-6149325",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 28000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Well-Priced 1-BR Condo At Ashton Asoke, High-Floor, 70m to MRT Sukhumvit (ID 2538152)",
+        "zh": "Well-Priced 1-BR Condo At Ashton Asoke, High-Floor, 70m to MRT Sukhumvit (ID 2538152)",
+        "th": "Well-Priced 1-BR Condo At Ashton Asoke, High-Floor, 70m to MRT Sukhumvit (ID 2538152)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 28,000 THB. Source PropertyHub #6149325.",
+        "zh": "出租：1卧，34㎡，28,000 泰铢。来源 PropertyHub #6149325。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 28,000 บาท (PropertyHub #6149325)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6149325. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6149325。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6149325 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/studio-condo-at-ashton-asoke-near-mrt-sukhumvit-id-2538152---6149325",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "f727fcdb408834458057d8661f0414ff289dbb07c65d913ceb7f96b22f329e60"
+    },
+    {
+      "external_ref": "propertyhub-4414010",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Well-Priced 1-BR 34 Sqm Condo At Ashton Asoke near MRT Sukhumvit 70m (ID 511985)",
+        "zh": "Well-Priced 1-BR 34 Sqm Condo At Ashton Asoke near MRT Sukhumvit 70m (ID 511985)",
+        "th": "Well-Priced 1-BR 34 Sqm Condo At Ashton Asoke near MRT Sukhumvit 70m (ID 511985)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 25,000 THB. Source PropertyHub #4414010.",
+        "zh": "出租：1卧，34㎡，25,000 泰铢。来源 PropertyHub #4414010。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 25,000 บาท (PropertyHub #4414010)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4414010. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4414010。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4414010 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-511985--96cd0842---4414010",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "6604b6f578cb50c1a5b8b1f96fcc7ceedfc3d720f6f6bacf65fd5f9575d62ea8"
+    },
+    {
+      "external_ref": "propertyhub-6144633",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "44",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR Condo At Ashton Asoke, High-Floor 44th (35 Sqm) Near MRT Sukhumvit (ID 2991610)",
+        "zh": "1-BR Condo At Ashton Asoke, High-Floor 44th (35 Sqm) Near MRT Sukhumvit (ID 2991610)",
+        "th": "1-BR Condo At Ashton Asoke, High-Floor 44th (35 Sqm) Near MRT Sukhumvit (ID 2991610)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 27,000 THB. Source PropertyHub #6144633.",
+        "zh": "出租：1卧，35㎡，27,000 泰铢。来源 PropertyHub #6144633。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 27,000 บาท (PropertyHub #6144633)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6144633. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6144633。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6144633 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-2991610--a6a7092e---6144633",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "791b787fc086b413e28439cc4e4b1b3103adbc359f548bcbee1f3edb09f94ec0"
+    },
+    {
+      "external_ref": "propertyhub-6171987",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "2",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Well-Priced 1-BR 35 Sqm At Ashton Asoke Near MRT Sukhumvit 70m (ID 3029259)",
+        "zh": "Well-Priced 1-BR 35 Sqm At Ashton Asoke Near MRT Sukhumvit 70m (ID 3029259)",
+        "th": "Well-Priced 1-BR 35 Sqm At Ashton Asoke Near MRT Sukhumvit 70m (ID 3029259)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 27,000 THB. Source PropertyHub #6171987.",
+        "zh": "出租：1卧，35㎡，27,000 泰铢。来源 PropertyHub #6171987。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 27,000 บาท (PropertyHub #6171987)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6171987. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6171987。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6171987 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-3029259---6171987",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.738767940861846,
+      "longitude": 100.56123998297682,
+      "duplicate_fingerprint": "012d7bccf6592e466aa3a85cd255a311ca74a7f20636285dc761eb3882c7fe65"
+    }
+  ]
+}

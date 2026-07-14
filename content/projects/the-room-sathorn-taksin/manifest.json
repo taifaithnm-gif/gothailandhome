@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "The Room Sathorn-Taksin official / developer page",
       "url": "https://www.lh.co.th/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/the-room-sathorn-taksin"
     }
   ],
   "developer": {
@@ -55,13 +60,15 @@
       "th": "คลองสาน กรุงเทพฯ"
     },
     "postal_code": "10600",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.71803635380073,
+    "longitude": 100.48354415603501,
+    "google_maps_url": "https://www.google.com/maps?q=13.71803635380073,100.48354415603501",
     "official_website": "https://www.lh.co.th/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["bts"],
+    "facebook_url": "https://www.facebook.com/LandandHouses",
+    "completion_year": 2011,
+    "transit_tags": [
+      "bts"
+    ],
     "seo": {
       "title": {
         "en": "The Room Sathorn-Taksin Condo in Khlong San, Bangkok | GoThailandHome",
@@ -73,6 +80,325 @@
         "zh": "The Room 沙吞-达信项目页（曼谷空讪），来源为开发商官方站点。",
         "th": "หน้าโครงการ เดอะ รูม สาทร-ตากสิน เขตคลองสาน อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "motorcycle-parking",
+        "name": {
+          "en": "Motorcycle parking",
+          "zh": "Motorcycle parking",
+          "th": "Motorcycle parking"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Wat Nuan Noradit School",
+          "zh": "Wat Nuan Noradit School",
+          "th": "Wat Nuan Noradit School"
+        },
+        "distance_m": 3376,
+        "slug": "wat-nuan-noradit-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Watrajaoros School ",
+          "zh": "Watrajaoros School ",
+          "th": "Watrajaoros School "
+        },
+        "distance_m": 4361,
+        "slug": "watrajaoros-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Wat Phichaiyat School",
+          "zh": "Wat Phichaiyat School",
+          "th": "Wat Phichaiyat School"
+        },
+        "distance_m": 2582,
+        "slug": "wat-phichaiyat-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Wat Suttharam High School",
+          "zh": "Wat Suttharam High School",
+          "th": "Wat Suttharam High School"
+        },
+        "distance_m": 1811,
+        "slug": "wat-suttharam-high-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Secondary Demonstration School of Bansomdejchaopraya Rajabhat University",
+          "zh": "The Secondary Demonstration School of Bansomdejchaopraya Rajabhat University",
+          "th": "The Secondary Demonstration School of Bansomdejchaopraya Rajabhat University"
+        },
+        "distance_m": 2967,
+        "slug": "the-secondary-demonstration-school-of-bansomdejchaopraya-rajabhat-university",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thonburi Vocational College",
+          "zh": "Thonburi Vocational College",
+          "th": "Thonburi Vocational College"
+        },
+        "distance_m": 4260,
+        "slug": "thonburi-vocational-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thonburi Commercial College",
+          "zh": "Thonburi Commercial College",
+          "th": "Thonburi Commercial College"
+        },
+        "distance_m": 4845,
+        "slug": "thonburi-commercial-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Siam University",
+          "zh": "Siam University",
+          "th": "Siam University"
+        },
+        "distance_m": 4740,
+        "slug": "siam-university",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Hua Chiao Hospital",
+          "zh": "Hua Chiao Hospital",
+          "th": "Hua Chiao Hospital"
+        },
+        "distance_m": 5521,
+        "slug": "hua-chiao-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Big C Extra Bang Pakok",
+          "zh": "Big C Extra Bang Pakok",
+          "th": "Big C Extra Bang Pakok"
+        },
+        "distance_m": 4884,
+        "slug": "big-c-extra-bang-pakok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Bang Pakok",
+          "zh": "Tesco Lotus Superstore Bang Pakok",
+          "th": "Tesco Lotus Superstore Bang Pakok"
+        },
+        "distance_m": 6172,
+        "slug": "tesco-lotus-superstore-bang-pakok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Dao Khanong",
+          "zh": "Big C Super Center Dao Khanong",
+          "th": "Big C Super Center Dao Khanong"
+        },
+        "distance_m": 2384,
+        "slug": "big-c-super-center-dao-khanong",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Issaraphap",
+          "zh": "Big C Issaraphap",
+          "th": "Big C Issaraphap"
+        },
+        "distance_m": 2451,
+        "slug": "big-c-issaraphap",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Robinson Lat Ya",
+          "zh": "Robinson Lat Ya",
+          "th": "Robinson Lat Ya"
+        },
+        "distance_m": 1766,
+        "slug": "robinson-lat-ya",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Mall Tha Phra",
+          "zh": "The Mall Tha Phra",
+          "th": "The Mall Tha Phra"
+        },
+        "distance_m": 1022,
+        "slug": "the-mall-tha-phra",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Big C Extra Bang Pakok",
+          "zh": "Big C Extra Bang Pakok",
+          "th": "Big C Extra Bang Pakok"
+        },
+        "distance_m": 4884,
+        "slug": "big-c-extra-bang-pakok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Bang Pakok",
+          "zh": "Tesco Lotus Superstore Bang Pakok",
+          "th": "Tesco Lotus Superstore Bang Pakok"
+        },
+        "distance_m": 6172,
+        "slug": "tesco-lotus-superstore-bang-pakok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Dao Khanong",
+          "zh": "Big C Super Center Dao Khanong",
+          "th": "Big C Super Center Dao Khanong"
+        },
+        "distance_m": 2384,
+        "slug": "big-c-super-center-dao-khanong",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Issaraphap",
+          "zh": "Big C Issaraphap",
+          "th": "Big C Issaraphap"
+        },
+        "distance_m": 2451,
+        "slug": "big-c-issaraphap",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Robinson Lat Ya",
+          "zh": "Robinson Lat Ya",
+          "th": "Robinson Lat Ya"
+        },
+        "distance_m": 1766,
+        "slug": "robinson-lat-ya",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Mall Tha Phra",
+          "zh": "The Mall Tha Phra",
+          "th": "The Mall Tha Phra"
+        },
+        "distance_m": 1022,
+        "slug": "the-mall-tha-phra",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2011.",
+          "zh": "PropertyHub 记载完工年份为 2011。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2011"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 268 total units.",
+          "zh": "PropertyHub 记载总套数为 268。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 268"
+        }
+      }
+    ]
   }
 }

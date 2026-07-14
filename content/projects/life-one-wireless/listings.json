@@ -1,0 +1,888 @@
+{
+  "project_slug": "life-one-wireless",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-6179801",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 11000000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "High-Floor 2-BR 45 Sqm Condo At Life One Wireless, BTS Phloen Chit (ID 2262552)",
+        "zh": "High-Floor 2-BR 45 Sqm Condo At Life One Wireless, BTS Phloen Chit (ID 2262552)",
+        "th": "High-Floor 2-BR 45 Sqm Condo At Life One Wireless, BTS Phloen Chit (ID 2262552)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 45 sq.m., 11,000,000 THB. Source PropertyHub #6179801.",
+        "zh": "出售：2卧，45㎡，11,000,000 泰铢。来源 PropertyHub #6179801。",
+        "th": "ขาย: 2 นอน 45 ตร.ม. ราคา 11,000,000 บาท (PropertyHub #6179801)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6179801. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6179801。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6179801 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/high-floor-2-br-45-sqm-condo-at-life-one-wireless-bts-phloen-chit-id-2262552---6179801",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "184d75a5a142e360827678ab84d9555102bb52173b8c5d8a53ef57c509df5bcf"
+    },
+    {
+      "external_ref": "propertyhub-5496200",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 13000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 63,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "High-Floor 2-BR 63 Sqm Life One Wireless Near BTS Phloen Chit (ID 2354167)",
+        "zh": "High-Floor 2-BR 63 Sqm Life One Wireless Near BTS Phloen Chit (ID 2354167)",
+        "th": "High-Floor 2-BR 63 Sqm Life One Wireless Near BTS Phloen Chit (ID 2354167)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 63 sq.m., 13,000,000 THB. Source PropertyHub #5496200.",
+        "zh": "出售：2卧，63㎡，13,000,000 泰铢。来源 PropertyHub #5496200。",
+        "th": "ขาย: 2 นอน 63 ตร.ม. ราคา 13,000,000 บาท (PropertyHub #5496200)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5496200. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5496200。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5496200 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-life-one-wireless-near-bts-phloen-chit-id-2354167--bf41099c---5496200",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "0ba1870f97853fde09ed5748e58e03c990525419e6ce249765967b6f8843a466"
+    },
+    {
+      "external_ref": "propertyhub-5496201",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 14500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 63,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR Condo In Life One Wireless, Phloen Chit 11th Floor Near BTS (ID 2354168)",
+        "zh": "2-BR Condo In Life One Wireless, Phloen Chit 11th Floor Near BTS (ID 2354168)",
+        "th": "2-BR Condo In Life One Wireless, Phloen Chit 11th Floor Near BTS (ID 2354168)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 63 sq.m., 14,500,000 THB. Source PropertyHub #5496201.",
+        "zh": "出售：2卧，63㎡，14,500,000 泰铢。来源 PropertyHub #5496201。",
+        "th": "ขาย: 2 นอน 63 ตร.ม. ราคา 14,500,000 บาท (PropertyHub #5496201)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5496201. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5496201。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5496201 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-life-one-wireless-near-bts-phloen-chit-id-2354168--a6020919---5496201",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "6d7f25b6247ee12b245f9f5d63e405dc7777510dfcf11c5c11e3198c0e7644e0"
+    },
+    {
+      "external_ref": "propertyhub-6152359",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 15000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 63,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR Condo For Sale At Life One Wireless, BTS Phloen Chit (ID 3004747)",
+        "zh": "2-BR Condo For Sale At Life One Wireless, BTS Phloen Chit (ID 3004747)",
+        "th": "2-BR Condo For Sale At Life One Wireless, BTS Phloen Chit (ID 3004747)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 63 sq.m., 15,000,000 THB. Source PropertyHub #6152359.",
+        "zh": "出售：2卧，63㎡，15,000,000 泰铢。来源 PropertyHub #6152359。",
+        "th": "ขาย: 2 นอน 63 ตร.ม. ราคา 15,000,000 บาท (PropertyHub #6152359)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6152359. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6152359。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6152359 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-life-one-wireless-near-bts-phloen-chit-id-3004747--b7c009fb---6152359",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "1e1cec692178bd6383ced5c4ded44c22950876da0591056a5ed0af1016eb13ab"
+    },
+    {
+      "external_ref": "propertyhub-6177637",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 13900000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 63,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Well-Priced 2-BR Condo at Life One Wireless, 15th Floor Near BTS Phloen Chit (ID 3032095)",
+        "zh": "Well-Priced 2-BR Condo at Life One Wireless, 15th Floor Near BTS Phloen Chit (ID 3032095)",
+        "th": "Well-Priced 2-BR Condo at Life One Wireless, 15th Floor Near BTS Phloen Chit (ID 3032095)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 63 sq.m., 13,900,000 THB. Source PropertyHub #6177637.",
+        "zh": "出售：2卧，63㎡，13,900,000 泰铢。来源 PropertyHub #6177637。",
+        "th": "ขาย: 2 นอน 63 ตร.ม. ราคา 13,900,000 บาท (PropertyHub #6177637)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6177637. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6177637。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6177637 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-life-one-wireless-near-bts-phloen-chit-id-3032095--b5a909d3---6177637",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "40ef6b5192b532e08b06b3e003ef58bb88533bc7a14474ebc2fec0cfab604a0f"
+    },
+    {
+      "external_ref": "propertyhub-6200225",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4490000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 28 Sqm Condo At Life One Wireless, 21st Floor Near BTS Phloen Chit (ID 3059258)",
+        "zh": "1-BR 28 Sqm Condo At Life One Wireless, 21st Floor Near BTS Phloen Chit (ID 3059258)",
+        "th": "1-BR 28 Sqm Condo At Life One Wireless, 21st Floor Near BTS Phloen Chit (ID 3059258)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 28 sq.m., 4,490,000 THB. Source PropertyHub #6200225.",
+        "zh": "出售：1卧，28㎡，4,490,000 泰铢。来源 PropertyHub #6200225。",
+        "th": "ขาย: 1 นอน 28 ตร.ม. ราคา 4,490,000 บาท (PropertyHub #6200225)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6200225. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6200225。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6200225 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-28-sqm-condo-at-life-one-wireless-21st-floor-near-bts-phloen-chit-id-3059258--aa03093a---6200225",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "de6b14e8eb74a328a445905470ff4d6f4c0316a8e3f679f15cebaffce410c522"
+    },
+    {
+      "external_ref": "propertyhub-5841657",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5390000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Well-Priced 1-BR Condo In Life One Wireless, BTS Phloen Chit (ID 2684767)",
+        "zh": "Well-Priced 1-BR Condo In Life One Wireless, BTS Phloen Chit (ID 2684767)",
+        "th": "Well-Priced 1-BR Condo In Life One Wireless, BTS Phloen Chit (ID 2684767)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 5,390,000 THB. Source PropertyHub #5841657.",
+        "zh": "出售：1卧，35㎡，5,390,000 泰铢。来源 PropertyHub #5841657。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 5,390,000 บาท (PropertyHub #5841657)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5841657. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5841657。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5841657 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-life-one-wireless-near-bts-phloen-chit-id-2684767---5841657",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "aab43a1735650f2b97077d3cf0af9c5454a9d2a6da2175688c1a50ee7af210dc"
+    },
+    {
+      "external_ref": "propertyhub-4143116",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7630000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Sale Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-88477 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Sale Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-88477 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Sale Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-88477 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 45 sq.m., 7,630,000 THB. Source PropertyHub #4143116.",
+        "zh": "出售：2卧，45㎡，7,630,000 泰铢。来源 PropertyHub #4143116。",
+        "th": "ขาย: 2 นอน 45 ตร.ม. ราคา 7,630,000 บาท (PropertyHub #4143116)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4143116. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4143116。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4143116 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-life-one-wireless-bts-phloen-chit-lumpini-pathum-wan-bangkok-cx-88477-live-chat-with-us-add-line-connexproperty--9f7108b6---4143116",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "ce32f6ba4f072401f3101263dd27e11971d0e99a9ee10a1640610d3c19c63337"
+    },
+    {
+      "external_ref": "propertyhub-5331586",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Studio Condo for sale at Life One Wireless  775470",
+        "zh": "Studio Condo for sale at Life One Wireless  775470",
+        "th": "Studio Condo for sale at Life One Wireless  775470"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 24 sq.m., 5,000,000 THB. Source PropertyHub #5331586.",
+        "zh": "出售：1卧，24㎡，5,000,000 泰铢。来源 PropertyHub #5331586。",
+        "th": "ขาย: 1 นอน 24 ตร.ม. ราคา 5,000,000 บาท (PropertyHub #5331586)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5331586. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5331586。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5331586 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/studio-condo-for-sale-at-life-one-wireless-775470---5331586",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "f0843a38f174bd959e8c2acf0d46e7ec8b1bb6954b2013b5bcb910c1361d9ad8"
+    },
+    {
+      "external_ref": "propertyhub-5559518",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6390000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "4",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Life One Wireless  5778463",
+        "zh": "1 Bedroom Condo for sale at Life One Wireless  5778463",
+        "th": "1 Bedroom Condo for sale at Life One Wireless  5778463"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 6,390,000 THB. Source PropertyHub #5559518.",
+        "zh": "出售：1卧，35㎡，6,390,000 泰铢。来源 PropertyHub #5559518。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 6,390,000 บาท (PropertyHub #5559518)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5559518. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5559518。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5559518 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bedroom-condo-for-sale-at-life-one-wireless-5778463--b98b0a09---5559518",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "7cdbdc897eeea93a88dd85ed3f759de63ad8d2764467111e4f2844855bb7e285"
+    },
+    {
+      "external_ref": "propertyhub-6091586",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-156903 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-156903 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-156903 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 25,500 THB. Source PropertyHub #6091586.",
+        "zh": "出租：1卧，35㎡，25,500 泰铢。来源 PropertyHub #6091586。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 25,500 บาท (PropertyHub #6091586)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6091586. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6091586。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6091586 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-one-wireless-bts-phloen-chit-lumpini-pathum-wan-bangkok-cx-156903-live-chat-with-us-add-line-connexproperty---6091586",
+      "source_updated_at": "2026-07-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "0585b20c7e84b89adf54dec6bfa93cfc9fa038c87687f6d723a39f7fc3565c2f"
+    },
+    {
+      "external_ref": "propertyhub-6147854",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , Life One Wireless , nice view , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-05942 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , Life One Wireless , nice view , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-05942 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , Life One Wireless , nice view , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-05942 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 27,000 THB. Source PropertyHub #6147854.",
+        "zh": "出租：1卧，35㎡，27,000 泰铢。来源 PropertyHub #6147854。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 27,000 บาท (PropertyHub #6147854)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6147854. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6147854。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6147854 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-one-wireless-nice-view-bts-phloen-chit-lumpini-pathum-wan-bangkok-cx-05942-live-chat-with-us-add-line-connexproperty--ab120966---6147854",
+      "source_updated_at": "2026-07-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "df1b434da6e1087e29a6dce031c2f12684c0752212d20fd9369fe69a7dcfee68"
+    },
+    {
+      "external_ref": "propertyhub-5554783",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent - Life One Wireless , Luxury Class 1 bedroom 1 bathroom",
+        "zh": "For Rent - Life One Wireless , Luxury Class 1 bedroom 1 bathroom",
+        "th": "For Rent - Life One Wireless , Luxury Class 1 bedroom 1 bathroom"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 25,000 THB. Source PropertyHub #5554783.",
+        "zh": "出租：1卧，35㎡，25,000 泰铢。来源 PropertyHub #5554783。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 25,000 บาท (PropertyHub #5554783)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5554783. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5554783。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5554783 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-life-one-wireless-luxury-class-1-bedroom-1-bathroom--b5e0096f---5554783",
+      "source_updated_at": "2026-06-30",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "950c6123d46a5fb32241e0d9fd59ab6387ef289e88c1af00bcf7b2c42e7f148a"
+    },
+    {
+      "external_ref": "propertyhub-4427512",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 28000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 38,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Life One Wireless , nice view , high floor , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-54653 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Life One Wireless , nice view , high floor , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-54653 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Life One Wireless , nice view , high floor , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-54653 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 38 sq.m., 28,000 THB. Source PropertyHub #4427512.",
+        "zh": "出租：1卧，38㎡，28,000 泰铢。来源 PropertyHub #4427512。",
+        "th": "เช่า: 1 นอน 38 ตร.ม. ราคา 28,000 บาท (PropertyHub #4427512)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4427512. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4427512。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4427512 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-one-wireless-nice-view-high-floor-bts-phloen-chit-lumpini-pathum-wan-bangkok-cx-54653-live-chat-with-us-add-line-connexproperty--b39f0938---4427512",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "6536e89f669c0bfb8fec3ad715cb0a1563a126a8989d098a61aba1a751f339f6"
+    },
+    {
+      "external_ref": "propertyhub-4554840",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-79158 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-79158 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-79158 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 45 sq.m., 35,000 THB. Source PropertyHub #4554840.",
+        "zh": "出租：2卧，45㎡，35,000 泰铢。来源 PropertyHub #4554840。",
+        "th": "เช่า: 2 นอน 45 ตร.ม. ราคา 35,000 บาท (PropertyHub #4554840)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4554840. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4554840。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4554840 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-one-wireless-bts-phloen-chit-lumpini-pathum-wan-bangkok-cx-79158-live-chat-with-us-add-line-connexproperty--a413094c---4554840",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "864c3be328aeb15438f5ca9ab57e3eb3ca800ec4aeacba3bcdff55ad7e22522d"
+    },
+    {
+      "external_ref": "propertyhub-4605019",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 21000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-102527 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-102527 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-102527 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 29 sq.m., 21,000 THB. Source PropertyHub #4605019.",
+        "zh": "出租：1卧，29㎡，21,000 泰铢。来源 PropertyHub #4605019。",
+        "th": "เช่า: 1 นอน 29 ตร.ม. ราคา 21,000 บาท (PropertyHub #4605019)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4605019. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4605019。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4605019 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-one-wireless-bts-phloen-chit-lumpini-pathum-wan-bangkok-cx-102527-live-chat-with-us-add-line-connexproperty--ab30091e---4605019",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "667111c435721f774d5928c42150bb7423d2b3b9843eb8b5c9206430ac2ec7ac"
+    },
+    {
+      "external_ref": "propertyhub-4639979",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 29000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "27",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-102137 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-102137 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-102137 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 29,000 THB. Source PropertyHub #4639979.",
+        "zh": "出租：1卧，35㎡，29,000 泰铢。来源 PropertyHub #4639979。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 29,000 บาท (PropertyHub #4639979)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4639979. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4639979。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4639979 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-one-wireless-bts-phloen-chit-lumpini-pathum-wan-bangkok-cx-102137-live-chat-with-us-add-line-connexproperty--a6d00975---4639979",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "a8e028e551ea8b5cc45cbc238c70a50d59f23e49d116c72515feef8e9397abb2"
+    },
+    {
+      "external_ref": "propertyhub-4836933",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "4",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-87459 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-87459 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-87459 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 25,000 THB. Source PropertyHub #4836933.",
+        "zh": "出租：1卧，35㎡，25,000 泰铢。来源 PropertyHub #4836933。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 25,000 บาท (PropertyHub #4836933)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4836933. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4836933。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4836933 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-one-wireless-bts-phloen-chit-lumpini-pathum-wan-bangkok-cx-87459-live-chat-with-us-add-line-connexproperty--b0cf09db---4836933",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "385f397997768cddc455adf1d0defaf136509e1c618a398dcf37090166749d7b"
+    },
+    {
+      "external_ref": "propertyhub-5324021",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-72213 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-72213 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-72213 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 24 sq.m., 20,000 THB. Source PropertyHub #5324021.",
+        "zh": "出租：1卧，24㎡，20,000 泰铢。来源 PropertyHub #5324021。",
+        "th": "เช่า: 1 นอน 24 ตร.ม. ราคา 20,000 บาท (PropertyHub #5324021)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5324021. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5324021。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5324021 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-one-wireless-bts-phloen-chit-lumpini-pathum-wan-bangkok-cx-72213-live-chat-with-us-add-line-connexproperty--ad90091d---5324021",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "784d39bd5bc2e18db4850c838312bc1a6d95cf1438554155329559c26180d1cf"
+    },
+    {
+      "external_ref": "propertyhub-6047607",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "36",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-109232 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-109232 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Life One Wireless , BTS-Phloen Chit , Lumpini , Pathum Wan , Bangkok , CX-109232 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 30,000 THB. Source PropertyHub #6047607.",
+        "zh": "出租：1卧，35㎡，30,000 泰铢。来源 PropertyHub #6047607。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 30,000 บาท (PropertyHub #6047607)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6047607. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6047607。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6047607 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-one-wireless-bts-phloen-chit-lumpini-pathum-wan-bangkok-cx-109232-live-chat-with-us-add-line-connexproperty---6047607",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.748008595979432,
+      "longitude": 100.54857880153557,
+      "duplicate_fingerprint": "64f783a2f8e43a509bf67a25539514929e782ac254996ff9fbe2cb53d1fadc05"
+    }
+  ]
+}

@@ -1,8 +1,56 @@
 {
   "project_slug": "the-livin-ramkhamhaeng",
   "collected_at": "2026-07-14",
-  "notes": "Only listings with a verified detail-page price and URL are included. Portal Last Update was blank ('-') on fetched pages; source_updated_at uses capture date.",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
   "listings": [
+    {
+      "external_ref": "propertyhub-5640550",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6072322,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 55,
+      "floor_label": "30",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085556",
+        "zh": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085556",
+        "th": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085556"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 55 sq.m., 6,072,322 THB. Source PropertyHub #5640550.",
+        "zh": "出售：2卧，55㎡，6,072,322 泰铢。来源 PropertyHub #5640550。",
+        "th": "ขาย: 2 นอน 55 ตร.ม. ราคา 6,072,322 บาท (PropertyHub #5640550)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5640550. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5640550。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5640550 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-brand-new-condo-first-owner-special-price-the-livin-ramkhamhaeng-md-25085556---5640550",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "a8f597d7ea27f3ebba76f8d69bf6e0cb144e0d094a0e3b40566cc2f16d2b3b65"
+    },
     {
       "external_ref": "propertyhub-5640526",
       "listing_type": "sale",
@@ -13,26 +61,136 @@
       "area_sqm": 32.94,
       "floor_label": "22",
       "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
       "title": {
-        "en": "The Livin Ramkhamhaeng — 1BR sale MD-25085544",
-        "zh": "The Livin Ramkhamhaeng — 一居室出售 MD-25085544",
-        "th": "เดอะ ลิฟวิ่น รามคำแหง — ขาย 1 ห้องนอน MD-25085544"
+        "en": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085544",
+        "zh": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085544",
+        "th": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085544"
       },
       "summary": {
-        "en": "Public sale listing: 1 bedroom, 32.94 sq.m., floor 22, price 3,510,062 THB.",
-        "zh": "公开出售挂牌：1 卧，32.94 ㎡，22 楼，价格 3,510,062 泰铢。",
-        "th": "ประกาศขายสาธารณะ: 1 ห้องนอน 32.94 ตร.ม. ชั้น 22 ราคา 3,510,062 บาท"
+        "en": "Sale: 1BR, 32.94 sq.m., 3,510,062 THB. Source PropertyHub #5640526.",
+        "zh": "出售：1卧，32.94㎡，3,510,062 泰铢。来源 PropertyHub #5640526。",
+        "th": "ขาย: 1 นอน 32.94 ตร.ม. ราคา 3,510,062 บาท (PropertyHub #5640526)"
       },
       "description": {
-        "en": "Normalized from PropertyHub listing MD-25085544 / number 5640526. Price and specs taken from the listing detail page. Availability not independently verified beyond the public page.",
-        "zh": "来自 PropertyHub 挂牌 MD-25085544（编号 5640526）。价格与规格取自详情页；是否仍可售以来源页为准。",
-        "th": "แปลงจากประกาศ PropertyHub MD-25085544 เลขที่ 5640526 ราคาและสเปกจากหน้ารายละเอียด สถานะว่าง/จองให้ยึดแหล่งต้นทาง"
+        "en": "Normalized from PropertyHub listing 5640526. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5640526。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5640526 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
       },
-      "featured": true,
-      "source": "PropertyHub",
-      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-the-livin-ramkhamhaeng-md-25085544---5640526",
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-brand-new-condo-first-owner-special-price-the-livin-ramkhamhaeng-md-25085544---5640526",
       "source_updated_at": "2026-07-14",
-      "source_update_note": "Portal showed Last Update as '-' on capture date 2026-07-14."
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "dcc9b825d7a904642630db63f5a5b5a5c6d9336fe08c303668ff67fe70671e47"
+    },
+    {
+      "external_ref": "propertyhub-5640556",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6111221,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 54.78,
+      "floor_label": "32",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085560",
+        "zh": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085560",
+        "th": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085560"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 54.78 sq.m., 6,111,221 THB. Source PropertyHub #5640556.",
+        "zh": "出售：2卧，54.78㎡，6,111,221 泰铢。来源 PropertyHub #5640556。",
+        "th": "ขาย: 2 นอน 54.78 ตร.ม. ราคา 6,111,221 บาท (PropertyHub #5640556)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5640556. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5640556。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5640556 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-brand-new-condo-first-owner-special-price-the-livin-ramkhamhaeng-md-25085560---5640556",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "50939c6f2dc7f0ae2a866c0c83331873bab396aab5face374f2e901df6809b18"
+    },
+    {
+      "external_ref": "propertyhub-5640520",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2622037,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32.86,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085541",
+        "zh": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085541",
+        "th": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085541"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 32.86 sq.m., 2,622,037 THB. Source PropertyHub #5640520.",
+        "zh": "出售：1卧，32.86㎡，2,622,037 泰铢。来源 PropertyHub #5640520。",
+        "th": "ขาย: 1 นอน 32.86 ตร.ม. ราคา 2,622,037 บาท (PropertyHub #5640520)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5640520. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5640520。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5640520 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-brand-new-condo-first-owner-special-price-the-livin-ramkhamhaeng-md-25085541---5640520",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "5ba2a8c10194f4be39619674b32f851c3879af13010308e689423526591f5301"
     },
     {
       "external_ref": "propertyhub-5640540",
@@ -44,119 +202,747 @@
       "area_sqm": 32.94,
       "floor_label": "15",
       "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
       "title": {
-        "en": "The Livin Ramkhamhaeng — 1BR sale MD-25085543",
-        "zh": "The Livin Ramkhamhaeng — 一居室出售 MD-25085543",
-        "th": "เดอะ ลิฟวิ่น รามคำแหง — ขาย 1 ห้องนอน MD-25085543"
+        "en": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085543",
+        "zh": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085543",
+        "th": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085543"
       },
       "summary": {
-        "en": "Public sale listing: 1 bedroom, 32.94 sq.m., floor 15, price 2,860,962 THB.",
-        "zh": "公开出售挂牌：1 卧，32.94 ㎡，15 楼，价格 2,860,962 泰铢。",
-        "th": "ประกาศขายสาธารณะ: 1 ห้องนอน 32.94 ตร.ม. ชั้น 15 ราคา 2,860,962 บาท"
+        "en": "Sale: 1BR, 32.94 sq.m., 2,860,962 THB. Source PropertyHub #5640540.",
+        "zh": "出售：1卧，32.94㎡，2,860,962 泰铢。来源 PropertyHub #5640540。",
+        "th": "ขาย: 1 นอน 32.94 ตร.ม. ราคา 2,860,962 บาท (PropertyHub #5640540)"
       },
       "description": {
-        "en": "Normalized from PropertyHub listing MD-25085543 / number 5640540. Price and specs taken from the listing detail page.",
-        "zh": "来自 PropertyHub 挂牌 MD-25085543（编号 5640540）。价格与规格取自详情页。",
-        "th": "แปลงจากประกาศ PropertyHub MD-25085543 เลขที่ 5640540 ราคาและสเปกจากหน้ารายละเอียด"
+        "en": "Normalized from PropertyHub listing 5640540. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5640540。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5640540 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
       },
-      "featured": true,
-      "source": "PropertyHub",
+      "featured": false,
+      "source": "propertyhub",
       "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-brand-new-condo-first-owner-special-price-the-livin-ramkhamhaeng-md-25085543---5640540",
       "source_updated_at": "2026-07-14",
-      "source_update_note": "Portal showed Last Update as '-' on capture date 2026-07-14."
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "faa6cb82740b395dcc5a57270a48b056fa8803eb046f6a3a0f9251a00c7d9d94"
     },
     {
-      "external_ref": "propertyhub-5329310",
+      "external_ref": "propertyhub-5640545",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4105140,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 38.65,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085554",
+        "zh": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085554",
+        "th": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085554"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 38.65 sq.m., 4,105,140 THB. Source PropertyHub #5640545.",
+        "zh": "出售：2卧，38.65㎡，4,105,140 泰铢。来源 PropertyHub #5640545。",
+        "th": "ขาย: 2 นอน 38.65 ตร.ม. ราคา 4,105,140 บาท (PropertyHub #5640545)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5640545. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5640545。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5640545 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-brand-new-condo-first-owner-special-price-the-livin-ramkhamhaeng-md-25085554---5640545",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "97a625c8b3c4833d4b7607208864ed9f2d1553aea12322c06f1d05ad40765134"
+    },
+    {
+      "external_ref": "propertyhub-5640551",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6020587,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 53.69,
+      "floor_label": "32",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085558",
+        "zh": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085558",
+        "th": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085558"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 53.69 sq.m., 6,020,587 THB. Source PropertyHub #5640551.",
+        "zh": "出售：2卧，53.69㎡，6,020,587 泰铢。来源 PropertyHub #5640551。",
+        "th": "ขาย: 2 นอน 53.69 ตร.ม. ราคา 6,020,587 บาท (PropertyHub #5640551)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5640551. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5640551。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5640551 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-brand-new-condo-first-owner-special-price-the-livin-ramkhamhaeng-md-25085558---5640551",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "284d2767ad1705cbd6c568fcbc24545f8ee5e19f61fe3d2e8cf20883a0872ba5"
+    },
+    {
+      "external_ref": "propertyhub-5640553",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6306534,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 56.24,
+      "floor_label": "32",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085559",
+        "zh": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085559",
+        "th": "Urgent Sale 🔥🔥 Brand New Condo, First Owner, Special Price The Livin Ramkhamhaeng MD-25085559"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 56.24 sq.m., 6,306,534 THB. Source PropertyHub #5640553.",
+        "zh": "出售：2卧，56.24㎡，6,306,534 泰铢。来源 PropertyHub #5640553。",
+        "th": "ขาย: 2 นอน 56.24 ตร.ม. ราคา 6,306,534 บาท (PropertyHub #5640553)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5640553. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5640553。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5640553 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-brand-new-condo-first-owner-special-price-the-livin-ramkhamhaeng-md-25085559---5640553",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "5c0f1aad1a189d1cfdd66d98316e44226c5f420c85da9b8e3f567c8b02309b49"
+    },
+    {
+      "external_ref": "propertyhub-6214191",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3999000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 55.07,
+      "floor_label": "4",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "A046595 The Livin Ramkhamhaeng",
+        "zh": "A046595 The Livin Ramkhamhaeng",
+        "th": "A046595 The Livin Ramkhamhaeng"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 55.07 sq.m., 3,999,000 THB. Source PropertyHub #6214191.",
+        "zh": "出售：2卧，55.07㎡，3,999,000 泰铢。来源 PropertyHub #6214191。",
+        "th": "ขาย: 2 นอน 55.07 ตร.ม. ราคา 3,999,000 บาท (PropertyHub #6214191)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6214191. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6214191。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6214191 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/a046595-the-livin-ramkhamhaeng---6214191",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "ff5fc121de3dcd523d5969fd07c6c9578c46d945dffe8e68787b45a187e48030"
+    },
+    {
+      "external_ref": "propertyhub-6003919",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 1900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 22,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "A033927 The Livin Ramkhamhaeng",
+        "zh": "A033927 The Livin Ramkhamhaeng",
+        "th": "A033927 The Livin Ramkhamhaeng"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 22 sq.m., 1,900,000 THB. Source PropertyHub #6003919.",
+        "zh": "出售：1卧，22㎡，1,900,000 泰铢。来源 PropertyHub #6003919。",
+        "th": "ขาย: 1 นอน 22 ตร.ม. ราคา 1,900,000 บาท (PropertyHub #6003919)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6003919. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6003919。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6003919 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/a033927-the-livin-ramkhamhaeng--a7e50921---6003919",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "bae9eaf266d14e72603bb8e79975b7d596e389aa6ed1f6da89f027acec0d5bf9"
+    },
+    {
+      "external_ref": "propertyhub-6100914",
       "listing_type": "rent",
       "property_type": "condo",
-      "price_thb": 14000,
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "The Livin Ramkhamhaeng 🍁near MRT Lam Sali 🍁 27 sq m, only 12000 baht",
+        "zh": "The Livin Ramkhamhaeng 🍁near MRT Lam Sali 🍁 27 sq m, only 12000 baht",
+        "th": "The Livin Ramkhamhaeng 🍁near MRT Lam Sali 🍁 27 sq m, only 12000 baht"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 12,000 THB. Source PropertyHub #6100914.",
+        "zh": "出租：1卧，27㎡，12,000 泰铢。来源 PropertyHub #6100914。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 12,000 บาท (PropertyHub #6100914)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6100914. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6100914。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6100914 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-livin-ramkhamhaeng-near-mrt-lam-sali-27-sq-m-only-12000-baht---6100914",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "9301653d3bb8e0dfb4224e9ff289c441e690928032dedd13517cb750f711a65b"
+    },
+    {
+      "external_ref": "propertyhub-5245607",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
       "bedrooms": 1,
       "bathrooms": 1,
       "area_sqm": 33,
-      "floor_label": "29",
-      "building_label": "B",
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
       "title": {
-        "en": "The Livin Ramkhamhaeng — 1BR rent near MRT Lam Sali",
-        "zh": "The Livin Ramkhamhaeng — 一居室出租（近 MRT Lam Sali）",
-        "th": "เดอะ ลิฟวิ่น รามคำแหง — เช่า 1 ห้องนอน ใกล้ MRT ลำสาลี"
+        "en": "🔥🔥🔥 For Rent Condo , The Livin Ramkhamhaeng  , MRT-Lam Sali , Hua Mak , Bang Kapi , Bangkok , CX-125465 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , The Livin Ramkhamhaeng  , MRT-Lam Sali , Hua Mak , Bang Kapi , Bangkok , CX-125465 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , The Livin Ramkhamhaeng  , MRT-Lam Sali , Hua Mak , Bang Kapi , Bangkok , CX-125465 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
       },
       "summary": {
-        "en": "Public rent listing: 1 bedroom, 33 sq.m., floor 29, Building B, 14,000 THB/month.",
-        "zh": "公开出租挂牌：1 卧，33 ㎡，29 楼 B 栋，14,000 泰铢/月。",
-        "th": "ประกาศเช่าสาธารณะ: 1 ห้องนอน 33 ตร.ม. ชั้น 29 อาคาร B 14,000 บาท/เดือน"
+        "en": "Rent: 1BR, 33 sq.m., 15,000 THB. Source PropertyHub #5245607.",
+        "zh": "出租：1卧，33㎡，15,000 泰铢。来源 PropertyHub #5245607。",
+        "th": "เช่า: 1 นอน 33 ตร.ม. ราคา 15,000 บาท (PropertyHub #5245607)"
       },
       "description": {
-        "en": "Normalized from PropertyHub listing number 5329310. Monthly rent and unit specs taken from the listing detail page.",
-        "zh": "来自 PropertyHub 编号 5329310。月租与单位规格取自详情页。",
-        "th": "แปลงจากประกาศ PropertyHub เลขที่ 5329310 ค่าเช่ารายเดือนและสเปกจากหน้ารายละเอียด"
+        "en": "Normalized from PropertyHub listing 5245607. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5245607。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5245607 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
       },
-      "featured": true,
-      "source": "PropertyHub",
-      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-the-livin-ramkhamhaeng-fully-furnished-and-equipped-near-mrt-lam-sali---5329310",
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-livin-ramkhamhaeng-mrt-lam-sali-hua-mak-bang-kapi-bangkok-cx-125465-live-chat-with-us-add-line-connexproperty--b0fb0928---5245607",
       "source_updated_at": "2026-07-14",
-      "source_update_note": "Portal showed Last Update as '-' on capture date 2026-07-14."
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "09d9eb4f612c5dc5f5a7176d929b8a4be28b421e573f7d91c526b333e882d872"
     },
     {
-      "external_ref": "propertyhub-5886141",
+      "external_ref": "propertyhub-5473809",
       "listing_type": "rent",
       "property_type": "condo",
-      "price_thb": 18000,
+      "price_thb": 14000,
       "bedrooms": 2,
       "bathrooms": 1,
       "area_sqm": 33,
-      "floor_label": "29",
+      "floor_label": "26",
       "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
       "title": {
-        "en": "The Livin Ramkhamhaeng — 2BR rent floor 29",
-        "zh": "The Livin Ramkhamhaeng — 两居室出租（29 楼）",
-        "th": "เดอะ ลิฟวิ่น รามคำแหง — เช่า 2 ห้องนอน ชั้น 29"
+        "en": "🔥🔥🔥 For Rent Condo , The Livin Ramkhamhaeng  , MRT-Lam Sali , Hua Mak , Bang Kapi , Bangkok , CX-133369 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , The Livin Ramkhamhaeng  , MRT-Lam Sali , Hua Mak , Bang Kapi , Bangkok , CX-133369 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , The Livin Ramkhamhaeng  , MRT-Lam Sali , Hua Mak , Bang Kapi , Bangkok , CX-133369 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
       },
       "summary": {
-        "en": "Public rent listing: 2 bedrooms, 33 sq.m., floor 29, 18,000 THB/month.",
-        "zh": "公开出租挂牌：2 卧，33 ㎡，29 楼，18,000 泰铢/月。",
-        "th": "ประกาศเช่าสาธารณะ: 2 ห้องนอน 33 ตร.ม. ชั้น 29 18,000 บาท/เดือน"
+        "en": "Rent: 2BR, 33 sq.m., 14,000 THB. Source PropertyHub #5473809.",
+        "zh": "出租：2卧，33㎡，14,000 泰铢。来源 PropertyHub #5473809。",
+        "th": "เช่า: 2 นอน 33 ตร.ม. ราคา 14,000 บาท (PropertyHub #5473809)"
       },
       "description": {
-        "en": "Normalized from PropertyHub listing number 5886141. Monthly rent and unit specs taken from the listing detail page.",
-        "zh": "来自 PropertyHub 编号 5886141。月租与单位规格取自详情页。",
-        "th": "แปลงจากประกาศ PropertyHub เลขที่ 5886141 ค่าเช่ารายเดือนและสเปกจากหน้ารายละเอียด"
-      },
-      "featured": true,
-      "source": "PropertyHub",
-      "listing_url": "https://propertyhub.in.th/en/listings/tehs6g-the-livin-ramkhamhaeng-for-rent-18-000-thb-2-beds-33-sq-m-floor-29---5886141",
-      "source_updated_at": "2026-07-14",
-      "source_update_note": "Portal showed Last Update as '-' on capture date 2026-07-14."
-    },
-    {
-      "external_ref": "propertyhub-5813509",
-      "listing_type": "rent",
-      "property_type": "condo",
-      "price_thb": 10000,
-      "bedrooms": 0,
-      "bathrooms": 1,
-      "area_sqm": 22.4,
-      "floor_label": "8",
-      "building_label": null,
-      "title": {
-        "en": "The Livin Ramkhamhaeng — studio rent 22.4 sq.m.",
-        "zh": "The Livin Ramkhamhaeng — 工作室公寓出租 22.4 ㎡",
-        "th": "เดอะ ลิฟวิ่น รามคำแหง — เช่าสตูดิโอ 22.4 ตร.ม."
-      },
-      "summary": {
-        "en": "Public rent listing: studio, 22.4 sq.m., floor 8, 10,000 THB/month.",
-        "zh": "公开出租挂牌：工作室，22.4 ㎡，8 楼，10,000 泰铢/月。",
-        "th": "ประกาศเช่าสาธารณะ: สตูดิโอ 22.4 ตร.ม. ชั้น 8 10,000 บาท/เดือน"
-      },
-      "description": {
-        "en": "Normalized from PropertyHub listing number 5813509. Listing information table shows Room type Studio, size 22.4 sq.m., rent 10,000 THB/month.",
-        "zh": "来自 PropertyHub 编号 5813509；详情表为 Studio、22.4 ㎡、月租 10,000 泰铢。",
-        "th": "แปลงจากประกาศ PropertyHub เลขที่ 5813509 ตารางข้อมูลระบุประเภทสตูดิโอ ขนาด 22.4 ตร.ม. ค่าเช่า 10,000 บาท/เดือน"
+        "en": "Normalized from PropertyHub listing 5473809. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5473809。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5473809 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
       },
       "featured": false,
-      "source": "PropertyHub",
-      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-the-livin-ramkhamhaeng-brand-new-unfurnished-thb-8-000-month---5813509",
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-livin-ramkhamhaeng-mrt-lam-sali-hua-mak-bang-kapi-bangkok-cx-133369-live-chat-with-us-add-line-connexproperty---5473809",
       "source_updated_at": "2026-07-14",
-      "source_update_note": "URL slug mentions 8,000 but detail page Listed price is 10,000 THB/month; stored portal detail price. Last Update was '-' on capture date 2026-07-14."
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "11d196b3d7263c3b4c6aeb60c8ce09676b313dca24b4676103becf76c102d5c2"
+    },
+    {
+      "external_ref": "propertyhub-5799806",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "39",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "Condo for Rent at The Livin Ramkhamhaeng (G6902003)",
+        "zh": "Condo for Rent at The Livin Ramkhamhaeng (G6902003)",
+        "th": "Condo for Rent at The Livin Ramkhamhaeng (G6902003)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 13,000 THB. Source PropertyHub #5799806.",
+        "zh": "出租：1卧，28㎡，13,000 泰铢。来源 PropertyHub #5799806。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 13,000 บาท (PropertyHub #5799806)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5799806. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5799806。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5799806 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-at-the-livin-ramkhamhaeng-g6902003---5799806",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "11ab5f0db7b743c1f597bf8d4abd8ea4ade763c0fba912d7a3b19585ffeb5b38"
+    },
+    {
+      "external_ref": "propertyhub-5667581",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "Y152 Condo for rent: The Livin Ramkhamhaeng, near MRT Lam Sali Intersection. Ready to move in. Free common area fees. Fully furnished. ⚡️",
+        "zh": "Y152 Condo for rent: The Livin Ramkhamhaeng, near MRT Lam Sali Intersection. Ready to move in. Free common area fees. Fully furnished. ⚡️",
+        "th": "Y152 Condo for rent: The Livin Ramkhamhaeng, near MRT Lam Sali Intersection. Ready to move in. Free common area fees. Fully furnished. ⚡️"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 33 sq.m., 16,500 THB. Source PropertyHub #5667581.",
+        "zh": "出租：1卧，33㎡，16,500 泰铢。来源 PropertyHub #5667581。",
+        "th": "เช่า: 1 นอน 33 ตร.ม. ราคา 16,500 บาท (PropertyHub #5667581)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5667581. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5667581。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5667581 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/5667581",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "b733ddad0b239ecb494f54d1a8a358d1a2e2bccac4f01bf8e9c19e4f15b153ae"
+    },
+    {
+      "external_ref": "propertyhub-6184312",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "#SC15225   📌 Rent | 🟦🟨The Livin Ramkhamhaeng🟥🟩𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝑳𝑰𝑵𝑬:@𝒔𝒆𝒄𝒓𝒆𝒕𝒑𝒓𝒐𝒑𝒆𝒓𝒕𝒚 🔥✨",
+        "zh": "#SC15225   📌 Rent | 🟦🟨The Livin Ramkhamhaeng🟥🟩𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝑳𝑰𝑵𝑬:@𝒔𝒆𝒄𝒓𝒆𝒕𝒑𝒓𝒐𝒑𝒆𝒓𝒕𝒚 🔥✨",
+        "th": "#SC15225   📌 Rent | 🟦🟨The Livin Ramkhamhaeng🟥🟩𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝑳𝑰𝑵𝑬:@𝒔𝒆𝒄𝒓𝒆𝒕𝒑𝒓𝒐𝒑𝒆𝒓𝒕𝒚 🔥✨"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 12,000 THB. Source PropertyHub #6184312.",
+        "zh": "出租：1卧，28㎡，12,000 泰铢。来源 PropertyHub #6184312。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 12,000 บาท (PropertyHub #6184312)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6184312. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6184312。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6184312 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/6184312",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "23d33f6a2905a1dea8237cfbff1b949e80fe94fe96bf6d662b4f78e3bdd52ec5"
+    },
+    {
+      "external_ref": "propertyhub-5882495",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 39,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "Condo for Rent at The Livin Ramkhamhaeng (B6903020)",
+        "zh": "Condo for Rent at The Livin Ramkhamhaeng (B6903020)",
+        "th": "Condo for Rent at The Livin Ramkhamhaeng (B6903020)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 39 sq.m., 17,000 THB. Source PropertyHub #5882495.",
+        "zh": "出租：2卧，39㎡，17,000 泰铢。来源 PropertyHub #5882495。",
+        "th": "เช่า: 2 นอน 39 ตร.ม. ราคา 17,000 บาท (PropertyHub #5882495)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5882495. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5882495。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5882495 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-at-the-livin-ramkhamhaeng-b6903020---5882495",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "d11c403476cedf8f1bc860270acf4af0ff2cb9d9fb133411e6c26b62f2c10653"
+    },
+    {
+      "external_ref": "propertyhub-6124999",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27.57,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "Condo for Rent at The Livin Ramkhamhaeng (B6906011)",
+        "zh": "Condo for Rent at The Livin Ramkhamhaeng (B6906011)",
+        "th": "Condo for Rent at The Livin Ramkhamhaeng (B6906011)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27.57 sq.m., 13,000 THB. Source PropertyHub #6124999.",
+        "zh": "出租：1卧，27.57㎡，13,000 泰铢。来源 PropertyHub #6124999。",
+        "th": "เช่า: 1 นอน 27.57 ตร.ม. ราคา 13,000 บาท (PropertyHub #6124999)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6124999. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6124999。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6124999 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-at-the-livin-ramkhamhaeng-b6906011---6124999",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "f887f161c66c94c24a2441bb16fc8166c724b71d2fc619a2df42dc546f599aff"
+    },
+    {
+      "external_ref": "propertyhub-6187216",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "Condo for Rent at The Livin Ramkhamhaeng (B6906061)",
+        "zh": "Condo for Rent at The Livin Ramkhamhaeng (B6906061)",
+        "th": "Condo for Rent at The Livin Ramkhamhaeng (B6906061)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 12,000 THB. Source PropertyHub #6187216.",
+        "zh": "出租：1卧，28㎡，12,000 泰铢。来源 PropertyHub #6187216。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 12,000 บาท (PropertyHub #6187216)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6187216. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6187216。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6187216 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-at-the-livin-ramkhamhaeng-b6906061---6187216",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "2c22adbbcb5ec7503a059bbe62523867600a97e747818a41aad6edb797db7534"
+    },
+    {
+      "external_ref": "propertyhub-6194160",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "title": {
+        "en": "THHQ9B Rent The Livin Ramkhamhaeng 28 sq.m. Floor 19 | 12,000 THB/mo | LINE: @livinglegacy",
+        "zh": "THHQ9B Rent The Livin Ramkhamhaeng 28 sq.m. Floor 19 | 12,000 THB/mo | LINE: @livinglegacy",
+        "th": "THHQ9B Rent The Livin Ramkhamhaeng 28 sq.m. Floor 19 | 12,000 THB/mo | LINE: @livinglegacy"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 12,000 THB. Source PropertyHub #6194160.",
+        "zh": "出租：1卧，28㎡，12,000 泰铢。来源 PropertyHub #6194160。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 12,000 บาท (PropertyHub #6194160)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6194160. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6194160。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6194160 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/thhq9b-rent-the-livin-ramkhamhaeng-28-sq-m-floor-19-12-000-thb-mo-line-livinglegacy---6194160",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763382954807934,
+      "longitude": 100.64936679779215,
+      "duplicate_fingerprint": "efa5ebaaa69f37f9eb4de6749058eb5c44babf0cdab88247ff27955b62f6108e"
     }
   ]
 }

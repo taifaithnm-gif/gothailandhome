@@ -1,0 +1,908 @@
+{
+  "project_slug": "m-silom",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-5097459",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10700000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 58,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1 Bedroom 1 Bathroom 58 SQ.M at M Silom",
+        "zh": "1 Bedroom 1 Bathroom 58 SQ.M at M Silom",
+        "th": "1 Bedroom 1 Bathroom 58 SQ.M at M Silom"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 58 sq.m., 10,700,000 THB. Source PropertyHub #5097459.",
+        "zh": "出售：1卧，58㎡，10,700,000 泰铢。来源 PropertyHub #5097459。",
+        "th": "ขาย: 1 นอน 58 ตร.ม. ราคา 10,700,000 บาท (PropertyHub #5097459)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5097459. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5097459。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5097459 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bedroom-1-bathroom-58-sq-m-at-m-silom--c5c30a32---5097459",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "b571e413b1ed7a857788aab4e54b1b2a97182001337cd4493e79858d188466d8"
+    },
+    {
+      "external_ref": "propertyhub-5164140",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 51,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1 Bed 1 Bath 51 SQ.M M Silom",
+        "zh": "1 Bed 1 Bath 51 SQ.M M Silom",
+        "th": "1 Bed 1 Bath 51 SQ.M M Silom"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 51 sq.m., 9,900,000 THB. Source PropertyHub #5164140.",
+        "zh": "出售：1卧，51㎡，9,900,000 泰铢。来源 PropertyHub #5164140。",
+        "th": "ขาย: 1 นอน 51 ตร.ม. ราคา 9,900,000 บาท (PropertyHub #5164140)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5164140. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5164140。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5164140 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bed-1-bath-51-sq-m-m-silom--b2d509b3---5164140",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "14feb16cde5dfe36b969219ccf1d3c89436bf3c9949995dc4f05271daf7b64c5"
+    },
+    {
+      "external_ref": "propertyhub-3770672",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 17500000,
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "area_sqm": 82,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "M Silom 1 bedroom, for sale",
+        "zh": "M Silom 1 bedroom, for sale",
+        "th": "M Silom 1 bedroom, for sale"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 82 sq.m., 17,500,000 THB. Source PropertyHub #3770672.",
+        "zh": "出售：1卧，82㎡，17,500,000 泰铢。来源 PropertyHub #3770672。",
+        "th": "ขาย: 1 นอน 82 ตร.ม. ราคา 17,500,000 บาท (PropertyHub #3770672)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3770672. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3770672。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3770672 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/m-silom-1-bedroom-for-sale---3770672",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "333944ae861be17565451a8c9391cf3d3f47e89f000ac9c0305ae1baf78c96d7"
+    },
+    {
+      "external_ref": "propertyhub-5688646",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 15000000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 63,
+      "floor_label": "20-25",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "M Silom     2 bedrooms, 1 bathrooms    Size  62 sq m.",
+        "zh": "M Silom     2 bedrooms, 1 bathrooms    Size  62 sq m.",
+        "th": "M Silom     2 bedrooms, 1 bathrooms    Size  62 sq m."
+      },
+      "summary": {
+        "en": "Sale: 2BR, 63 sq.m., 15,000,000 THB. Source PropertyHub #5688646.",
+        "zh": "出售：2卧，63㎡，15,000,000 泰铢。来源 PropertyHub #5688646。",
+        "th": "ขาย: 2 นอน 63 ตร.ม. ราคา 15,000,000 บาท (PropertyHub #5688646)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5688646. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5688646。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5688646 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/m-silom-2-bedrooms-1-bathrooms-size-62-sq-m---5688646",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "7ff0ac223c3e7d2f75fd76cabe80bdc67d544613eb906aac4918c09659eb48c5"
+    },
+    {
+      "external_ref": "propertyhub-5642910",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 19200000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 90,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "For Sale Condo , M Silom , BTS-Chong Nonsi , Suriyawong , Bang Rak , Bangkok , CX-138246 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Sale Condo , M Silom , BTS-Chong Nonsi , Suriyawong , Bang Rak , Bangkok , CX-138246 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Sale Condo , M Silom , BTS-Chong Nonsi , Suriyawong , Bang Rak , Bangkok , CX-138246 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 90 sq.m., 19,200,000 THB. Source PropertyHub #5642910.",
+        "zh": "出售：2卧，90㎡，19,200,000 泰铢。来源 PropertyHub #5642910。",
+        "th": "ขาย: 2 นอน 90 ตร.ม. ราคา 19,200,000 บาท (PropertyHub #5642910)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5642910. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5642910。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5642910 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-m-silom-bts-chong-nonsi-suriyawong-bang-rak-bangkok-cx-138246-live-chat-with-us-add-line-connexproperty---5642910",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "1e96585e9fbb84f352bb59bee83cc1070270a662ec5a042b63bcb15b451efad2"
+    },
+    {
+      "external_ref": "propertyhub-5802849",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 21649485,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 90,
+      "floor_label": "37",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "2 Bedroom Condo for sale at M Silom  1979809",
+        "zh": "2 Bedroom Condo for sale at M Silom  1979809",
+        "th": "2 Bedroom Condo for sale at M Silom  1979809"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 90 sq.m., 21,649,485 THB. Source PropertyHub #5802849.",
+        "zh": "出售：2卧，90㎡，21,649,485 泰铢。来源 PropertyHub #5802849。",
+        "th": "ขาย: 2 นอน 90 ตร.ม. ราคา 21,649,485 บาท (PropertyHub #5802849)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5802849. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5802849。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5802849 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-bedroom-condo-for-sale-at-m-silom-1979809---5802849",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "452fabcfd73ef875ea18175f5fc973c5420d3db82aa36b9543fbdd12616c051b"
+    },
+    {
+      "external_ref": "propertyhub-5936295",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 51,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1 Bedroom Condo for sale at M Silom  6153685",
+        "zh": "1 Bedroom Condo for sale at M Silom  6153685",
+        "th": "1 Bedroom Condo for sale at M Silom  6153685"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 51 sq.m., 8,900,000 THB. Source PropertyHub #5936295.",
+        "zh": "出售：1卧，51㎡，8,900,000 泰铢。来源 PropertyHub #5936295。",
+        "th": "ขาย: 1 นอน 51 ตร.ม. ราคา 8,900,000 บาท (PropertyHub #5936295)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5936295. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5936295。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5936295 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bedroom-condo-for-sale-at-m-silom-6153685---5936295",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "9ab6de3f809429934d95cc131ad01a4291d0f3f202c423cb75cc6e0ff4bd7825"
+    },
+    {
+      "external_ref": "propertyhub-5560625",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 17500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 84,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "M Silom Pet Friendly 1950529",
+        "zh": "M Silom Pet Friendly 1950529",
+        "th": "M Silom Pet Friendly 1950529"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 84 sq.m., 17,500,000 THB. Source PropertyHub #5560625.",
+        "zh": "出售：2卧，84㎡，17,500,000 泰铢。来源 PropertyHub #5560625。",
+        "th": "ขาย: 2 นอน 84 ตร.ม. ราคา 17,500,000 บาท (PropertyHub #5560625)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5560625. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5560625。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5560625 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/m-silom-pet-friendly-1950529--a6b608e4---5560625",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "4d499b26fc82aa814675a087abf3f41642569176724f6a0b8421836846ca1772"
+    },
+    {
+      "external_ref": "propertyhub-5887730",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 17500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 80,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Fully refresh 2 Bedrooms for Sale/Rent Pet friendly 6109722",
+        "zh": "Fully refresh 2 Bedrooms for Sale/Rent Pet friendly 6109722",
+        "th": "Fully refresh 2 Bedrooms for Sale/Rent Pet friendly 6109722"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 80 sq.m., 17,500,000 THB. Source PropertyHub #5887730.",
+        "zh": "出售：2卧，80㎡，17,500,000 泰铢。来源 PropertyHub #5887730。",
+        "th": "ขาย: 2 นอน 80 ตร.ม. ราคา 17,500,000 บาท (PropertyHub #5887730)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5887730. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5887730。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5887730 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/fully-refresh-2-bedrooms-for-sale-rent-pet-friendly-6109722--ad1b094d---5887730",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "beda58bf5305994b83ad6bcab4a503d5722a679095e3b767aff9b57a4a10b7db"
+    },
+    {
+      "external_ref": "propertyhub-5795231",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 15000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 84,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "🏠✨ M Silom | 2-Bedroom Condo for Sale (HBH-ST-160)",
+        "zh": "🏠✨ M Silom | 2-Bedroom Condo for Sale (HBH-ST-160)",
+        "th": "🏠✨ M Silom | 2-Bedroom Condo for Sale (HBH-ST-160)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 84 sq.m., 15,000,000 THB. Source PropertyHub #5795231.",
+        "zh": "出售：2卧，84㎡，15,000,000 泰铢。来源 PropertyHub #5795231。",
+        "th": "ขาย: 2 นอน 84 ตร.ม. ราคา 15,000,000 บาท (PropertyHub #5795231)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5795231. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5795231。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5795231 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/m-silom-2-bedroom-condo-for-sale-hbh-st-160---5795231",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "ee4c37056d75157da3f63e61a324e6b5370af567a59ce0fcdffca74c93675687"
+    },
+    {
+      "external_ref": "propertyhub-5114743",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 40000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 51,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1 Bed 1 Bath 51 SQ.M M Silom",
+        "zh": "1 Bed 1 Bath 51 SQ.M M Silom",
+        "th": "1 Bed 1 Bath 51 SQ.M M Silom"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 51 sq.m., 40,000 THB. Source PropertyHub #5114743.",
+        "zh": "出租：1卧，51㎡，40,000 泰铢。来源 PropertyHub #5114743。",
+        "th": "เช่า: 1 นอน 51 ตร.ม. ราคา 40,000 บาท (PropertyHub #5114743)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5114743. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5114743。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5114743 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bed-1-bath-51-sq-m-m-silom--a6cd0944---5114743",
+      "source_updated_at": "2026-07-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "f37b29107fee482c04cfac596f6b8af420b17b8efc6e6a70c682befa74a4cd46"
+    },
+    {
+      "external_ref": "propertyhub-6144677",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 34000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 55,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Pet-Friendly 1-BR 55 Sqm M Silom, 400m to BTS Chong Nonsi (ID 2993963)",
+        "zh": "Pet-Friendly 1-BR 55 Sqm M Silom, 400m to BTS Chong Nonsi (ID 2993963)",
+        "th": "Pet-Friendly 1-BR 55 Sqm M Silom, 400m to BTS Chong Nonsi (ID 2993963)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 55 sq.m., 34,000 THB. Source PropertyHub #6144677.",
+        "zh": "出租：1卧，55㎡，34,000 泰铢。来源 PropertyHub #6144677。",
+        "th": "เช่า: 1 นอน 55 ตร.ม. ราคา 34,000 บาท (PropertyHub #6144677)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6144677. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6144677。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6144677 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-m-silom-near-bts-chong-nonsi-id-2993963---6144677",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "5ba9ca462704971bd6967ac680c607bae68090da77f13d253c6ca18f36f0370a"
+    },
+    {
+      "external_ref": "propertyhub-4369051",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 40000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 52,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Pet-Friendly 1-BR 52 Sqm M Silom Near BTS Chong Nonsi 📍 (ID 514586)",
+        "zh": "Pet-Friendly 1-BR 52 Sqm M Silom Near BTS Chong Nonsi 📍 (ID 514586)",
+        "th": "Pet-Friendly 1-BR 52 Sqm M Silom Near BTS Chong Nonsi 📍 (ID 514586)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 52 sq.m., 40,000 THB. Source PropertyHub #4369051.",
+        "zh": "出租：1卧，52㎡，40,000 泰铢。来源 PropertyHub #4369051。",
+        "th": "เช่า: 1 นอน 52 ตร.ม. ราคา 40,000 บาท (PropertyHub #4369051)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4369051. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4369051。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4369051 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-m-silom-near-bts-chong-nonsi-id-514586--a9ba090f---4369051",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "1cd28d930853293c878c0d3fd0df46ba0196f7a1236c294f5224a42069b2b460"
+    },
+    {
+      "external_ref": "propertyhub-4815548",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 38000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 53,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR 53 Sqm Condo At M Silom, 400m To BTS Chong Nonsi (ID 1919593)",
+        "zh": "1-BR 53 Sqm Condo At M Silom, 400m To BTS Chong Nonsi (ID 1919593)",
+        "th": "1-BR 53 Sqm Condo At M Silom, 400m To BTS Chong Nonsi (ID 1919593)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 53 sq.m., 38,000 THB. Source PropertyHub #4815548.",
+        "zh": "出租：1卧，53㎡，38,000 泰铢。来源 PropertyHub #4815548。",
+        "th": "เช่า: 1 นอน 53 ตร.ม. ราคา 38,000 บาท (PropertyHub #4815548)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4815548. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4815548。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4815548 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-m-silom-near-bts-chong-nonsi-id-1919593--b75409b1---4815548",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "3e1b0b140aee8a04f0e143d27f15f5ce24ea92a8da015c0f59d881cb267ed0ac"
+    },
+    {
+      "external_ref": "propertyhub-6023012",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 62000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 80,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Pet-Friendly 2-BR 80 Sqm Condo, M Silom, BTS Chong Nonsi 400m (ID 2855023)",
+        "zh": "Pet-Friendly 2-BR 80 Sqm Condo, M Silom, BTS Chong Nonsi 400m (ID 2855023)",
+        "th": "Pet-Friendly 2-BR 80 Sqm Condo, M Silom, BTS Chong Nonsi 400m (ID 2855023)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 80 sq.m., 62,000 THB. Source PropertyHub #6023012.",
+        "zh": "出租：2卧，80㎡，62,000 泰铢。来源 PropertyHub #6023012。",
+        "th": "เช่า: 2 นอน 80 ตร.ม. ราคา 62,000 บาท (PropertyHub #6023012)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6023012. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6023012。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6023012 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-m-silom-near-bts-chong-nonsi-id-2855023---6023012",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "f5a7e4189ad843ce5e3d009ecaf999652c378db9a142f6ebce0441d56e9408cb"
+    },
+    {
+      "external_ref": "propertyhub-3769440",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 60000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 89,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "M Silom 1 bedroom, for rent",
+        "zh": "M Silom 1 bedroom, for rent",
+        "th": "M Silom 1 bedroom, for rent"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 89 sq.m., 60,000 THB. Source PropertyHub #3769440.",
+        "zh": "出租：1卧，89㎡，60,000 泰铢。来源 PropertyHub #3769440。",
+        "th": "เช่า: 1 นอน 89 ตร.ม. ราคา 60,000 บาท (PropertyHub #3769440)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3769440. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3769440。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3769440 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/m-silom-1-bedroom-for-rent---3769440",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "2091a943c68c68c2b3bda2b7f72710c371c29c7afe86a7f1af90340e98805a2b"
+    },
+    {
+      "external_ref": "propertyhub-4272509",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 58000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 83,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "M Silom 2 bedrooms, for rent",
+        "zh": "M Silom 2 bedrooms, for rent",
+        "th": "M Silom 2 bedrooms, for rent"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 83 sq.m., 58,000 THB. Source PropertyHub #4272509.",
+        "zh": "出租：2卧，83㎡，58,000 泰铢。来源 PropertyHub #4272509。",
+        "th": "เช่า: 2 นอน 83 ตร.ม. ราคา 58,000 บาท (PropertyHub #4272509)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4272509. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4272509。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4272509 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/m-silom-2-bedrooms-for-rent--bc8909a7---4272509",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "988106f51f090a7c8b1dd21b787f08dc34442ebedbac1129c8a72cade6797bb2"
+    },
+    {
+      "external_ref": "propertyhub-6201465",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 41000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 53,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "For Rent Condo M SILOM Building 1, Floor 19,1 bed room, Room size 53.00 sqm",
+        "zh": "For Rent Condo M SILOM Building 1, Floor 19,1 bed room, Room size 53.00 sqm",
+        "th": "For Rent Condo M SILOM Building 1, Floor 19,1 bed room, Room size 53.00 sqm"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 53 sq.m., 41,000 THB. Source PropertyHub #6201465.",
+        "zh": "出租：1卧，53㎡，41,000 泰铢。来源 PropertyHub #6201465。",
+        "th": "เช่า: 1 นอน 53 ตร.ม. ราคา 41,000 บาท (PropertyHub #6201465)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6201465. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6201465。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6201465 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-m-silom-building-1-floor-19-1-bed-room-room-size-53-00-sqm--afb90981---6201465",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "35587d110e6eafa9865b7d8a73e690816be03c9871ece30c3f82084acd4d60f0"
+    },
+    {
+      "external_ref": "propertyhub-4695860",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 41000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 53,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "For Rent Condo M SILOM Building 1, Floor 19,1 bed room, Room size 53.00 sqm",
+        "zh": "For Rent Condo M SILOM Building 1, Floor 19,1 bed room, Room size 53.00 sqm",
+        "th": "For Rent Condo M SILOM Building 1, Floor 19,1 bed room, Room size 53.00 sqm"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 53 sq.m., 41,000 THB. Source PropertyHub #4695860.",
+        "zh": "出租：1卧，53㎡，41,000 泰铢。来源 PropertyHub #4695860。",
+        "th": "เช่า: 1 นอน 53 ตร.ม. ราคา 41,000 บาท (PropertyHub #4695860)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4695860. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4695860。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4695860 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-m-silom-building-1-floor-19-1-bed-room-room-size-53-00-sqm--b5db0978---4695860",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "0c7daa73445735fcf0c5f748cec9a9924f7aaa8b6676cb2ec20c2e022f617cca"
+    },
+    {
+      "external_ref": "propertyhub-6223552",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 41000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 53,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "For Rent Condo M SILOM Building 1, Floor 19,1 bed room, Room size 53.00 sqm",
+        "zh": "For Rent Condo M SILOM Building 1, Floor 19,1 bed room, Room size 53.00 sqm",
+        "th": "For Rent Condo M SILOM Building 1, Floor 19,1 bed room, Room size 53.00 sqm"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 53 sq.m., 41,000 THB. Source PropertyHub #6223552.",
+        "zh": "出租：1卧，53㎡，41,000 泰铢。来源 PropertyHub #6223552。",
+        "th": "เช่า: 1 นอน 53 ตร.ม. ราคา 41,000 บาท (PropertyHub #6223552)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6223552. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6223552。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6223552 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-m-silom-building-1-floor-19-1-bed-room-room-size-53-00-sqm--bd2f0a35---6223552",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.727179485998745,
+      "longitude": 100.52745619701098,
+      "duplicate_fingerprint": "70c99ceea94e0decc833617ff9c3948349bd3a48b2f359407453f13070c3354e"
+    }
+  ]
+}

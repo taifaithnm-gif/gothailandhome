@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Knightsbridge Prime Sathorn official / developer page",
       "url": "https://www.origin.co.th/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/knightsbridge-prime-sathorn"
     }
   ],
   "developer": {
@@ -55,13 +60,16 @@
       "th": "ยานนาวา กรุงเทพฯ"
     },
     "postal_code": "10120",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.71689371382067,
+    "longitude": 100.5329907391493,
+    "google_maps_url": "https://www.google.com/maps?q=13.71689371382067,100.5329907391493",
     "official_website": "https://www.origin.co.th/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["bts"],
+    "facebook_url": "https://www.facebook.com/OriginProperty",
+    "completion_year": 2019,
+    "transit_tags": [
+      "bts",
+      "mrt"
+    ],
     "seo": {
       "title": {
         "en": "Knightsbridge Prime Sathorn Condo in Yan Nawa, Bangkok | GoThailandHome",
@@ -73,6 +81,414 @@
         "zh": "Knightsbridge Prime 沙吞项目页（曼谷央那瓦），来源为开发商官方站点。",
         "th": "หน้าโครงการ ไนท์บริดจ์ ไพร์ม สาทร เขตยานนาวา อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "library",
+        "name": {
+          "en": "Library",
+          "zh": "Library",
+          "th": "Library"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Bangkok Christian College",
+          "zh": "Bangkok Christian College",
+          "th": "Bangkok Christian College"
+        },
+        "distance_m": 1420,
+        "slug": "bangkok-christian-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Assumption Commercial College (A.C.C.)",
+          "zh": "Assumption Commercial College (A.C.C.)",
+          "th": "Assumption Commercial College (A.C.C.)"
+        },
+        "distance_m": 1545,
+        "slug": "assumption-commercial-college-a-c-c",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Silom Commercial College",
+          "zh": "Silom Commercial College",
+          "th": "Silom Commercial College"
+        },
+        "distance_m": 1833,
+        "slug": "silom-commercial-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "St. Theresa School",
+          "zh": "St. Theresa School",
+          "th": "St. Theresa School"
+        },
+        "distance_m": 1575,
+        "slug": "st-theresa-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "St. Joseph Convent School",
+          "zh": "St. Joseph Convent School",
+          "th": "St. Joseph Convent School"
+        },
+        "distance_m": 1589,
+        "slug": "st-joseph-convent-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Assumption Convent Silom School",
+          "zh": "Assumption Convent Silom School",
+          "th": "Assumption Convent Silom School"
+        },
+        "distance_m": 1745,
+        "slug": "assumption-convent-silom-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Nonsi Witthaya School",
+          "zh": "Nonsi Witthaya School",
+          "th": "Nonsi Witthaya School"
+        },
+        "distance_m": 2587,
+        "slug": "nonsi-witthaya-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Sarasas Pittaya School",
+          "zh": "Sarasas Pittaya School",
+          "th": "Sarasas Pittaya School"
+        },
+        "distance_m": 2936,
+        "slug": "sarasas-pittaya-school",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "chulalongkorn hospital",
+          "zh": "chulalongkorn hospital",
+          "th": "chulalongkorn hospital"
+        },
+        "distance_m": 2397,
+        "slug": "chulalongkorn-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Bangkok Christian Hospital",
+          "zh": "The Bangkok Christian Hospital",
+          "th": "The Bangkok Christian Hospital"
+        },
+        "distance_m": 1638,
+        "slug": "the-bangkok-christian-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok Nursing Home Hospital",
+          "zh": "Bangkok Nursing Home Hospital",
+          "th": "Bangkok Nursing Home Hospital"
+        },
+        "distance_m": 1366,
+        "slug": "bangkok-nursing-home-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Hua Chiao Hospital",
+          "zh": "Hua Chiao Hospital",
+          "th": "Hua Chiao Hospital"
+        },
+        "distance_m": 5028,
+        "slug": "hua-chiao-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "BNH Hospital",
+          "zh": "BNH Hospital",
+          "th": "BNH Hospital"
+        },
+        "distance_m": 1357,
+        "slug": "bnh-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Robinson Bang Rak",
+          "zh": "Robinson Bang Rak",
+          "th": "Robinson Bang Rak"
+        },
+        "distance_m": 2493,
+        "slug": "robinson-bang-rak",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Robinson Silom",
+          "zh": "Robinson Silom",
+          "th": "Robinson Silom"
+        },
+        "distance_m": 2116,
+        "slug": "robinson-silom",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Rama 3",
+          "zh": "Central Rama 3",
+          "th": "Central Rama 3"
+        },
+        "distance_m": 2708,
+        "slug": "central-rama-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Robinson Lat Ya",
+          "zh": "Robinson Lat Ya",
+          "th": "Robinson Lat Ya"
+        },
+        "distance_m": 5329,
+        "slug": "robinson-lat-ya",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "One Bangkok",
+          "zh": "One Bangkok",
+          "th": "One Bangkok"
+        },
+        "distance_m": null,
+        "slug": "one-bangkok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Silom",
+          "zh": "Central Silom",
+          "th": "Central Silom"
+        },
+        "distance_m": 2119,
+        "slug": "central-silom",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Silom Complex Department Store",
+          "zh": "Silom Complex Department Store",
+          "th": "Silom Complex Department Store"
+        },
+        "distance_m": 1844,
+        "slug": "silom-complex-department-store",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Rama 3",
+          "zh": "Tesco Lotus Superstore Rama 3",
+          "th": "Tesco Lotus Superstore Rama 3"
+        },
+        "distance_m": 2353,
+        "slug": "tesco-lotus-superstore-rama-3",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Robinson Bang Rak",
+          "zh": "Robinson Bang Rak",
+          "th": "Robinson Bang Rak"
+        },
+        "distance_m": 2493,
+        "slug": "robinson-bang-rak",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Robinson Silom",
+          "zh": "Robinson Silom",
+          "th": "Robinson Silom"
+        },
+        "distance_m": 2116,
+        "slug": "robinson-silom",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Rama 3",
+          "zh": "Central Rama 3",
+          "th": "Central Rama 3"
+        },
+        "distance_m": 2708,
+        "slug": "central-rama-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Robinson Lat Ya",
+          "zh": "Robinson Lat Ya",
+          "th": "Robinson Lat Ya"
+        },
+        "distance_m": 5329,
+        "slug": "robinson-lat-ya",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "One Bangkok",
+          "zh": "One Bangkok",
+          "th": "One Bangkok"
+        },
+        "distance_m": null,
+        "slug": "one-bangkok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Silom",
+          "zh": "Central Silom",
+          "th": "Central Silom"
+        },
+        "distance_m": 2119,
+        "slug": "central-silom",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Silom Complex Department Store",
+          "zh": "Silom Complex Department Store",
+          "th": "Silom Complex Department Store"
+        },
+        "distance_m": 1844,
+        "slug": "silom-complex-department-store",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Rama 3",
+          "zh": "Tesco Lotus Superstore Rama 3",
+          "th": "Tesco Lotus Superstore Rama 3"
+        },
+        "distance_m": 2353,
+        "slug": "tesco-lotus-superstore-rama-3",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2019.",
+          "zh": "PropertyHub 记载完工年份为 2019。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2019"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 726 total units.",
+          "zh": "PropertyHub 记载总套数为 726。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 726"
+        }
+      }
+    ]
   }
 }

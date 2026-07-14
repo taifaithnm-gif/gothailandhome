@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Supalai Lite Sathorn-Charoenrat official / developer page",
       "url": "https://www.supalai.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/supalai-lite-sathorn-charoenrat"
     }
   ],
   "developer": {
@@ -55,12 +60,12 @@
       "th": "ยานนาวา กรุงเทพฯ"
     },
     "postal_code": "10120",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.70191776557095,
+    "longitude": 100.51641380711567,
+    "google_maps_url": "https://www.google.com/maps?q=13.70191776557095,100.51641380711567",
     "official_website": "https://www.supalai.com/",
-    "facebook_url": null,
-    "completion_year": null,
+    "facebook_url": "https://www.facebook.com/Supalai",
+    "completion_year": 2015,
     "transit_tags": [],
     "seo": {
       "title": {
@@ -73,6 +78,384 @@
         "zh": "苏帕莱 Lite 沙吞项目页（曼谷央那瓦），来源为开发商官方站点。",
         "th": "หน้าโครงการ ศุภาลัย ไลท์ สาทร-เจริญราษฎร์ เขตยานนาวา อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Bangkok Christian College",
+          "zh": "Bangkok Christian College",
+          "th": "Bangkok Christian College"
+        },
+        "distance_m": 2340,
+        "slug": "bangkok-christian-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Assumption Commercial College (A.C.C.)",
+          "zh": "Assumption Commercial College (A.C.C.)",
+          "th": "Assumption Commercial College (A.C.C.)"
+        },
+        "distance_m": 2270,
+        "slug": "assumption-commercial-college-a-c-c",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Silom Commercial College",
+          "zh": "Silom Commercial College",
+          "th": "Silom Commercial College"
+        },
+        "distance_m": 3154,
+        "slug": "silom-commercial-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "St. Theresa School",
+          "zh": "St. Theresa School",
+          "th": "St. Theresa School"
+        },
+        "distance_m": 3402,
+        "slug": "st-theresa-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bang Pakok Wittaya School",
+          "zh": "Bang Pakok Wittaya School",
+          "th": "Bang Pakok Wittaya School"
+        },
+        "distance_m": 6972,
+        "slug": "bang-pakok-wittaya-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Assumption Convent Silom School",
+          "zh": "Assumption Convent Silom School",
+          "th": "Assumption Convent Silom School"
+        },
+        "distance_m": 2489,
+        "slug": "assumption-convent-silom-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Sarasas Pittaya School",
+          "zh": "Sarasas Pittaya School",
+          "th": "Sarasas Pittaya School"
+        },
+        "distance_m": 2553,
+        "slug": "sarasas-pittaya-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Wat Phichaiyat School",
+          "zh": "Wat Phichaiyat School",
+          "th": "Wat Phichaiyat School"
+        },
+        "distance_m": 5673,
+        "slug": "wat-phichaiyat-school",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Bangpakok 1 Hospital",
+          "zh": "Bangpakok 1 Hospital",
+          "th": "Bangpakok 1 Hospital"
+        },
+        "distance_m": 7698,
+        "slug": "bangpakok-1-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok Nursing Home Hospital",
+          "zh": "Bangkok Nursing Home Hospital",
+          "th": "Bangkok Nursing Home Hospital"
+        },
+        "distance_m": 3919,
+        "slug": "bangkok-nursing-home-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Rama 3",
+          "zh": "Tesco Lotus Superstore Rama 3",
+          "th": "Tesco Lotus Superstore Rama 3"
+        },
+        "distance_m": 3844,
+        "slug": "tesco-lotus-superstore-rama-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Bang Pakok",
+          "zh": "Big C Extra Bang Pakok",
+          "th": "Big C Extra Bang Pakok"
+        },
+        "distance_m": 6881,
+        "slug": "big-c-extra-bang-pakok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Bang Pakok",
+          "zh": "Tesco Lotus Superstore Bang Pakok",
+          "th": "Tesco Lotus Superstore Bang Pakok"
+        },
+        "distance_m": 8165,
+        "slug": "tesco-lotus-superstore-bang-pakok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Rat Burana",
+          "zh": "Big C Super Center Rat Burana",
+          "th": "Big C Super Center Rat Burana"
+        },
+        "distance_m": 7100,
+        "slug": "big-c-super-center-rat-burana",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Dao Khanong",
+          "zh": "Big C Super Center Dao Khanong",
+          "th": "Big C Super Center Dao Khanong"
+        },
+        "distance_m": 5092,
+        "slug": "big-c-super-center-dao-khanong",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Rama 3",
+          "zh": "HomePro Rama 3",
+          "th": "HomePro Rama 3"
+        },
+        "distance_m": 2587,
+        "slug": "homepro-rama-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Robinson Bang Rak",
+          "zh": "Robinson Bang Rak",
+          "th": "Robinson Bang Rak"
+        },
+        "distance_m": 2626,
+        "slug": "robinson-bang-rak",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Rama 3",
+          "zh": "Central Rama 3",
+          "th": "Central Rama 3"
+        },
+        "distance_m": 3383,
+        "slug": "central-rama-3",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Rama 3",
+          "zh": "Tesco Lotus Superstore Rama 3",
+          "th": "Tesco Lotus Superstore Rama 3"
+        },
+        "distance_m": 3844,
+        "slug": "tesco-lotus-superstore-rama-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Bang Pakok",
+          "zh": "Big C Extra Bang Pakok",
+          "th": "Big C Extra Bang Pakok"
+        },
+        "distance_m": 6881,
+        "slug": "big-c-extra-bang-pakok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Bang Pakok",
+          "zh": "Tesco Lotus Superstore Bang Pakok",
+          "th": "Tesco Lotus Superstore Bang Pakok"
+        },
+        "distance_m": 8165,
+        "slug": "tesco-lotus-superstore-bang-pakok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Rat Burana",
+          "zh": "Big C Super Center Rat Burana",
+          "th": "Big C Super Center Rat Burana"
+        },
+        "distance_m": 7100,
+        "slug": "big-c-super-center-rat-burana",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Dao Khanong",
+          "zh": "Big C Super Center Dao Khanong",
+          "th": "Big C Super Center Dao Khanong"
+        },
+        "distance_m": 5092,
+        "slug": "big-c-super-center-dao-khanong",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Rama 3",
+          "zh": "HomePro Rama 3",
+          "th": "HomePro Rama 3"
+        },
+        "distance_m": 2587,
+        "slug": "homepro-rama-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Robinson Bang Rak",
+          "zh": "Robinson Bang Rak",
+          "th": "Robinson Bang Rak"
+        },
+        "distance_m": 2626,
+        "slug": "robinson-bang-rak",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Rama 3",
+          "zh": "Central Rama 3",
+          "th": "Central Rama 3"
+        },
+        "distance_m": 3383,
+        "slug": "central-rama-3",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2015.",
+          "zh": "PropertyHub 记载完工年份为 2015。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2015"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 565 total units.",
+          "zh": "PropertyHub 记载总套数为 565。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 565"
+        }
+      }
+    ]
   }
 }

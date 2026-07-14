@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "XT Huaikwang official / developer page",
       "url": "https://www.sansiri.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/xt-huaikwang"
     }
   ],
   "developer": {
@@ -55,13 +60,16 @@
       "th": "ห้วยขวาง กรุงเทพฯ"
     },
     "postal_code": "10310",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.780337815666243,
+    "longitude": 100.57562937641003,
+    "google_maps_url": "https://www.google.com/maps?q=13.780337815666243,100.57562937641003",
     "official_website": "https://www.sansiri.com/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["mrt", "mrt-blue"],
+    "facebook_url": "https://www.facebook.com/SansiriPLC",
+    "completion_year": 2021,
+    "transit_tags": [
+      "mrt",
+      "mrt-blue"
+    ],
     "seo": {
       "title": {
         "en": "XT Huaikwang Condo in Huai Khwang, Bangkok | GoThailandHome",
@@ -73,6 +81,251 @@
         "zh": "XT 辉煌项目页（曼谷辉煌），来源为开发商官方站点。",
         "th": "หน้าโครงการ เอ็กซ์ที ห้วยขวาง เขตห้วยขวาง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "steam",
+        "name": {
+          "en": "Steam",
+          "zh": "Steam",
+          "th": "Steam"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "motorcycle-parking",
+        "name": {
+          "en": "Motorcycle parking",
+          "zh": "Motorcycle parking",
+          "th": "Motorcycle parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "meeting-room",
+        "name": {
+          "en": "Meeting room",
+          "zh": "Meeting room",
+          "th": "Meeting room"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Thanormpitvithaya School",
+          "zh": "Thanormpitvithaya School",
+          "th": "Thanormpitvithaya School"
+        },
+        "distance_m": 4438,
+        "slug": "thanormpitvithaya-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Kunnatee Rutharam Wittayakhom School",
+          "zh": "Kunnatee Rutharam Wittayakhom School",
+          "th": "Kunnatee Rutharam Wittayakhom School"
+        },
+        "distance_m": 584,
+        "slug": "kunnatee-rutharam-wittayakhom-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": " Thai-Japanese Association School",
+          "zh": " Thai-Japanese Association School",
+          "th": " Thai-Japanese Association School"
+        },
+        "distance_m": 4583,
+        "slug": "thai-japanese-association-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Lycée Français International de Bangkok",
+          "zh": "Lycée Français International de Bangkok",
+          "th": "Lycée Français International de Bangkok"
+        },
+        "distance_m": 4529,
+        "slug": "lycée-français-international-de-bangkok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Chan Hun Bumpen School",
+          "zh": "Chan Hun Bumpen School",
+          "th": "Chan Hun Bumpen School"
+        },
+        "distance_m": 1663,
+        "slug": "chan-hun-bumpen-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "University of the Thai Chamber of Commerce",
+          "zh": "University of the Thai Chamber of Commerce",
+          "th": "University of the Thai Chamber of Commerce"
+        },
+        "distance_m": 2454,
+        "slug": "university-of-the-thai-chamber-of-commerce",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Reserves Training Center Territorial Defense Department",
+          "zh": "Reserves Training Center Territorial Defense Department",
+          "th": "Reserves Training Center Territorial Defense Department"
+        },
+        "distance_m": 2080,
+        "slug": "reserves-training-center-territorial-defense-department",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Robinson Ratchadaphisek",
+          "zh": "Robinson Ratchadaphisek",
+          "th": "Robinson Ratchadaphisek"
+        },
+        "distance_m": 2044,
+        "slug": "robinson-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Ratchadaphisek",
+          "zh": "Big C Extra Ratchadaphisek",
+          "th": "Big C Extra Ratchadaphisek"
+        },
+        "distance_m": 2082,
+        "slug": "big-c-extra-ratchadaphisek",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Robinson Ratchadaphisek",
+          "zh": "Robinson Ratchadaphisek",
+          "th": "Robinson Ratchadaphisek"
+        },
+        "distance_m": 2044,
+        "slug": "robinson-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Ratchadaphisek",
+          "zh": "Big C Extra Ratchadaphisek",
+          "th": "Big C Extra Ratchadaphisek"
+        },
+        "distance_m": 2082,
+        "slug": "big-c-extra-ratchadaphisek",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2021.",
+          "zh": "PropertyHub 记载完工年份为 2021。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2021"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 1404 total units.",
+          "zh": "PropertyHub 记载总套数为 1404。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 1404"
+        }
+      }
+    ]
   }
 }

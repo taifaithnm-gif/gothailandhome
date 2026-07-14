@@ -1,0 +1,908 @@
+{
+  "project_slug": "the-lofts-silom",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-3769718",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "The Lofts Silom 1 bedroom, for sale",
+        "zh": "The Lofts Silom 1 bedroom, for sale",
+        "th": "The Lofts Silom 1 bedroom, for sale"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 46 sq.m., 10,500,000 THB. Source PropertyHub #3769718.",
+        "zh": "出售：1卧，46㎡，10,500,000 泰铢。来源 PropertyHub #3769718。",
+        "th": "ขาย: 1 นอน 46 ตร.ม. ราคา 10,500,000 บาท (PropertyHub #3769718)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3769718. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3769718。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3769718 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-lofts-silom-1-bedroom-for-sale---3769718",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "7d98b1b9eb73512b87f499251a754d431192943e224672016004c7a6708a2c6e"
+    },
+    {
+      "external_ref": "propertyhub-3770942",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 23000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 110,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "The Lofts Silom 2 bedrooms, for sale",
+        "zh": "The Lofts Silom 2 bedrooms, for sale",
+        "th": "The Lofts Silom 2 bedrooms, for sale"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 110 sq.m., 23,000,000 THB. Source PropertyHub #3770942.",
+        "zh": "出售：2卧，110㎡，23,000,000 泰铢。来源 PropertyHub #3770942。",
+        "th": "ขาย: 2 นอน 110 ตร.ม. ราคา 23,000,000 บาท (PropertyHub #3770942)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3770942. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3770942。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3770942 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-lofts-silom-2-bedrooms-for-sale---3770942",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "398fc288b2df639c233761fdf5c0a8655f00eec621b437f46de81ef4f8056b03"
+    },
+    {
+      "external_ref": "propertyhub-5607389",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8750000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 50,
+      "floor_label": "24",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Sale Condo , The Lofts Silom , BTS-Surasak , Silom , Bang Rak , Bangkok , CX-127115 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Sale Condo , The Lofts Silom , BTS-Surasak , Silom , Bang Rak , Bangkok , CX-127115 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Sale Condo , The Lofts Silom , BTS-Surasak , Silom , Bang Rak , Bangkok , CX-127115 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 50 sq.m., 8,750,000 THB. Source PropertyHub #5607389.",
+        "zh": "出售：1卧，50㎡，8,750,000 泰铢。来源 PropertyHub #5607389。",
+        "th": "ขาย: 1 นอน 50 ตร.ม. ราคา 8,750,000 บาท (PropertyHub #5607389)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5607389. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5607389。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5607389 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-the-lofts-silom-bts-surasak-silom-bang-rak-bangkok-cx-127115-live-chat-with-us-add-line-connexproperty--b5e509b7---5607389",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "2134c041fa0f3bbb77416420433216e0daba91aa3f75db31b03ad7d5d336766e"
+    },
+    {
+      "external_ref": "propertyhub-5772760",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 32000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 118.5,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Lofts Silom  649950",
+        "zh": "2 Bedroom Condo for sale at The Lofts Silom  649950",
+        "th": "2 Bedroom Condo for sale at The Lofts Silom  649950"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 118.5 sq.m., 32,000,000 THB. Source PropertyHub #5772760.",
+        "zh": "出售：2卧，118.5㎡，32,000,000 泰铢。来源 PropertyHub #5772760。",
+        "th": "ขาย: 2 นอน 118.5 ตร.ม. ราคา 32,000,000 บาท (PropertyHub #5772760)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5772760. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5772760。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5772760 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-bedroom-condo-for-sale-at-the-lofts-silom-649950---5772760",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "04f2b743312e7433a250356b6097d8c10e85812578ed1f20f4ffc62176719137"
+    },
+    {
+      "external_ref": "propertyhub-5328554",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 21500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 85,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Lofts Silom  649948",
+        "zh": "2 Bedroom Condo for sale at The Lofts Silom  649948",
+        "th": "2 Bedroom Condo for sale at The Lofts Silom  649948"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 85 sq.m., 21,500,000 THB. Source PropertyHub #5328554.",
+        "zh": "出售：2卧，85㎡，21,500,000 泰铢。来源 PropertyHub #5328554。",
+        "th": "ขาย: 2 นอน 85 ตร.ม. ราคา 21,500,000 บาท (PropertyHub #5328554)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5328554. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5328554。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5328554 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-bedroom-condo-for-sale-at-the-lofts-silom-649948---5328554",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "724afbb4d2c6af1c6ffcf78700c0a18eb19baaef6e9d31539bc02324b00465d4"
+    },
+    {
+      "external_ref": "propertyhub-5907487",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 23000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 85,
+      "floor_label": "28",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Lofts Silom  6121214",
+        "zh": "2 Bedroom Condo for sale at The Lofts Silom  6121214",
+        "th": "2 Bedroom Condo for sale at The Lofts Silom  6121214"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 85 sq.m., 23,000,000 THB. Source PropertyHub #5907487.",
+        "zh": "出售：2卧，85㎡，23,000,000 泰铢。来源 PropertyHub #5907487。",
+        "th": "ขาย: 2 นอน 85 ตร.ม. ราคา 23,000,000 บาท (PropertyHub #5907487)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5907487. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5907487。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5907487 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/lofts-silom-6121214--b9640a06---5907487",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "86a5bd8417b3ab9c7a170f02a7bf3548e35392e18734aa9a76974108d3031a1a"
+    },
+    {
+      "external_ref": "propertyhub-6100452",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 15500000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 78,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Lofts Silom 6413359",
+        "zh": "2 Bedroom Condo for sale at The Lofts Silom 6413359",
+        "th": "2 Bedroom Condo for sale at The Lofts Silom 6413359"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 78 sq.m., 15,500,000 THB. Source PropertyHub #6100452.",
+        "zh": "出售：2卧，78㎡，15,500,000 泰铢。来源 PropertyHub #6100452。",
+        "th": "ขาย: 2 นอน 78 ตร.ม. ราคา 15,500,000 บาท (PropertyHub #6100452)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6100452. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6100452。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6100452 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-bedroom-condo-for-sale-at-the-lofts-silom-6413359--b8a509ca---6100452",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "f9d5b4e67136dc4b5a8e73f66f71d0e222bef41651c6a231a58f1a4fa31b1a21"
+    },
+    {
+      "external_ref": "propertyhub-5559670",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 14800000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 70,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Lofts Silom  1047492",
+        "zh": "2 Bedroom Condo for sale at The Lofts Silom  1047492",
+        "th": "2 Bedroom Condo for sale at The Lofts Silom  1047492"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 70 sq.m., 14,800,000 THB. Source PropertyHub #5559670.",
+        "zh": "出售：2卧，70㎡，14,800,000 泰铢。来源 PropertyHub #5559670。",
+        "th": "ขาย: 2 นอน 70 ตร.ม. ราคา 14,800,000 บาท (PropertyHub #5559670)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5559670. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5559670。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5559670 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-bedroom-condo-for-sale-at-the-lofts-silom-1047492--acad0959---5559670",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "3c9f0f877bd02f4e167e2ea4b50cbf9c4dcd02a94e63ac4d73c96a06a3cc60bd"
+    },
+    {
+      "external_ref": "propertyhub-5647371",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 32000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 122,
+      "floor_label": "32",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Two Bedrooms Duplex For Sale in Sathorn 5926058",
+        "zh": "Two Bedrooms Duplex For Sale in Sathorn 5926058",
+        "th": "Two Bedrooms Duplex For Sale in Sathorn 5926058"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 122 sq.m., 32,000,000 THB. Source PropertyHub #5647371.",
+        "zh": "出售：2卧，122㎡，32,000,000 泰铢。来源 PropertyHub #5647371。",
+        "th": "ขาย: 2 นอน 122 ตร.ม. ราคา 32,000,000 บาท (PropertyHub #5647371)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5647371. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5647371。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5647371 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/two-bedrooms-duplex-for-sale-in-sathorn-5926058---5647371",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "186ded47358b14096f9e021c6a634de9d4eb71287d34d6642bf646eefac6ce9b"
+    },
+    {
+      "external_ref": "propertyhub-6207692",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 15500000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 78,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Best-Value 2BR Condo at The Lofts Silom Near BTS, Only 198K/Sq.m. CBD - U6413359",
+        "zh": "Best-Value 2BR Condo at The Lofts Silom Near BTS, Only 198K/Sq.m. CBD - U6413359",
+        "th": "Best-Value 2BR Condo at The Lofts Silom Near BTS, Only 198K/Sq.m. CBD - U6413359"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 78 sq.m., 15,500,000 THB. Source PropertyHub #6207692.",
+        "zh": "出售：2卧，78㎡，15,500,000 泰铢。来源 PropertyHub #6207692。",
+        "th": "ขาย: 2 นอน 78 ตร.ม. ราคา 15,500,000 บาท (PropertyHub #6207692)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6207692. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6207692。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6207692 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/best-value-2br-condo-at-the-lofts-silom-near-bts-only-198k-sq-m-cbd-u6413359---6207692",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "adca39a0511d3d93571bc9704c43a17f6123738a747e844d5c0e2aaca766bdfa"
+    },
+    {
+      "external_ref": "propertyhub-6181516",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 52,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR 52 Sqm At The Lofts Silom, 400m To BTS Surasak (ID 2229630)",
+        "zh": "1-BR 52 Sqm At The Lofts Silom, 400m To BTS Surasak (ID 2229630)",
+        "th": "1-BR 52 Sqm At The Lofts Silom, 400m To BTS Surasak (ID 2229630)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 52 sq.m., 35,000 THB. Source PropertyHub #6181516.",
+        "zh": "出租：1卧，52㎡，35,000 泰铢。来源 PropertyHub #6181516。",
+        "th": "เช่า: 1 นอน 52 ตร.ม. ราคา 35,000 บาท (PropertyHub #6181516)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6181516. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6181516。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6181516 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-52-sqm-condo-at-the-lofts-silom-400m-to-bts-surasak-id-2229630---6181516",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "2fb199db9e0924f45e146adcc607a75e3542ab9c740475cafd08f02ef4245e16"
+    },
+    {
+      "external_ref": "propertyhub-5910339",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 48,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR 48 Sqm At The Lofts Silom, 400m To BTS Surasak (ID 2751528)",
+        "zh": "1-BR 48 Sqm At The Lofts Silom, 400m To BTS Surasak (ID 2751528)",
+        "th": "1-BR 48 Sqm At The Lofts Silom, 400m To BTS Surasak (ID 2751528)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 48 sq.m., 30,000 THB. Source PropertyHub #5910339.",
+        "zh": "出租：1卧，48㎡，30,000 泰铢。来源 PropertyHub #5910339。",
+        "th": "เช่า: 1 นอน 48 ตร.ม. ราคา 30,000 บาท (PropertyHub #5910339)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5910339. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5910339。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5910339 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-lofts-silom-near-bts-surasak-id-2751528---5910339",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "c28c65659620a63b8ed9240caf6517b2f020fb19428a1f4d68df290b09cf0b9e"
+    },
+    {
+      "external_ref": "propertyhub-6179735",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 52,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR Condo At The Lofts Silom | 10th-Floor | 400m To BTS Surasak (ID 3027753)",
+        "zh": "1-BR Condo At The Lofts Silom | 10th-Floor | 400m To BTS Surasak (ID 3027753)",
+        "th": "1-BR Condo At The Lofts Silom | 10th-Floor | 400m To BTS Surasak (ID 3027753)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 52 sq.m., 35,000 THB. Source PropertyHub #6179735.",
+        "zh": "出租：1卧，52㎡，35,000 泰铢。来源 PropertyHub #6179735。",
+        "th": "เช่า: 1 นอน 52 ตร.ม. ราคา 35,000 บาท (PropertyHub #6179735)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6179735. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6179735。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6179735 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-the-lofts-silom-10th-floor-400m-to-bts-surasak-id-3027753---6179735",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "d907dfc4174f8937d0b2ba83db8fe452e5c7bce74eea3efe04c1b3eb610a67f4"
+    },
+    {
+      "external_ref": "propertyhub-5149397",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 150000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqm": 122,
+      "floor_label": "31",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "3-BR Condo At The Lofts Silom, 31st Floor, 400m To BTS Surasak (ID 1556351)",
+        "zh": "3-BR Condo At The Lofts Silom, 31st Floor, 400m To BTS Surasak (ID 1556351)",
+        "th": "3-BR Condo At The Lofts Silom, 31st Floor, 400m To BTS Surasak (ID 1556351)"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 122 sq.m., 150,000 THB. Source PropertyHub #5149397.",
+        "zh": "出租：3卧，122㎡，150,000 泰铢。来源 PropertyHub #5149397。",
+        "th": "เช่า: 3 นอน 122 ตร.ม. ราคา 150,000 บาท (PropertyHub #5149397)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5149397. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5149397。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5149397 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/3-br-condo-at-the-lofts-silom-near-bts-surasak-id-1556351---5149397",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "5f24f95ccc489812bc81e220c9a476e2dbf87d8f5dd8aa96cf1518ada9eb473a"
+    },
+    {
+      "external_ref": "propertyhub-3770305",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 85000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 127,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "The Lofts Silom 2 bedrooms, for rent",
+        "zh": "The Lofts Silom 2 bedrooms, for rent",
+        "th": "The Lofts Silom 2 bedrooms, for rent"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 127 sq.m., 85,000 THB. Source PropertyHub #3770305.",
+        "zh": "出租：2卧，127㎡，85,000 泰铢。来源 PropertyHub #3770305。",
+        "th": "เช่า: 2 นอน 127 ตร.ม. ราคา 85,000 บาท (PropertyHub #3770305)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3770305. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3770305。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3770305 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-lofts-silom-2-bedrooms-for-rent---3770305",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "351df3798034cd197d3573de133a48338a50211cf2635d49d80dae507b5e29fb"
+    },
+    {
+      "external_ref": "propertyhub-3770392",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 77000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 110,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "The Lofts Silom 2 bedrooms, for rent",
+        "zh": "The Lofts Silom 2 bedrooms, for rent",
+        "th": "The Lofts Silom 2 bedrooms, for rent"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 110 sq.m., 77,000 THB. Source PropertyHub #3770392.",
+        "zh": "出租：2卧，110㎡，77,000 泰铢。来源 PropertyHub #3770392。",
+        "th": "เช่า: 2 นอน 110 ตร.ม. ราคา 77,000 บาท (PropertyHub #3770392)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3770392. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3770392。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3770392 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-lofts-silom-2-bedrooms-for-rent---3770392",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "606d1cc3a7204ecb5508b38c0c18b6b61bd2bd74d1ef1d8b7f2dc123e54cee8a"
+    },
+    {
+      "external_ref": "propertyhub-3770970",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 99000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqm": 120,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "The Lofts Silom 3 bedrooms, for rent",
+        "zh": "The Lofts Silom 3 bedrooms, for rent",
+        "th": "The Lofts Silom 3 bedrooms, for rent"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 120 sq.m., 99,000 THB. Source PropertyHub #3770970.",
+        "zh": "出租：3卧，120㎡，99,000 泰铢。来源 PropertyHub #3770970。",
+        "th": "เช่า: 3 นอน 120 ตร.ม. ราคา 99,000 บาท (PropertyHub #3770970)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3770970. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3770970。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3770970 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-lofts-silom-3-bedrooms-for-rent---3770970",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "09b4ff8f7a14f56666f84743c598a71201f7246cf50aad7a71cfaf3ea0f3fea0"
+    },
+    {
+      "external_ref": "propertyhub-4319029",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 130000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqm": 120,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "The Lofts Silom 3 bedrooms, for rent",
+        "zh": "The Lofts Silom 3 bedrooms, for rent",
+        "th": "The Lofts Silom 3 bedrooms, for rent"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 120 sq.m., 130,000 THB. Source PropertyHub #4319029.",
+        "zh": "出租：3卧，120㎡，130,000 泰铢。来源 PropertyHub #4319029。",
+        "th": "เช่า: 3 นอน 120 ตร.ม. ราคา 130,000 บาท (PropertyHub #4319029)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4319029. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4319029。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4319029 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-lofts-silom-3-bedrooms-for-rent--b86709db---4319029",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "f8cab17c69f256d51d9ef8ee321a9632a860b30a43178fbfceee4faec5a8f140"
+    },
+    {
+      "external_ref": "propertyhub-3770390",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 77000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 110,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "The Lofts Silom 2 bedrooms, for rent",
+        "zh": "The Lofts Silom 2 bedrooms, for rent",
+        "th": "The Lofts Silom 2 bedrooms, for rent"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 110 sq.m., 77,000 THB. Source PropertyHub #3770390.",
+        "zh": "出租：2卧，110㎡，77,000 泰铢。来源 PropertyHub #3770390。",
+        "th": "เช่า: 2 นอน 110 ตร.ม. ราคา 77,000 บาท (PropertyHub #3770390)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3770390. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3770390。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3770390 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-lofts-silom-2-bedrooms-for-rent---3770390",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "3d6266cb96a19a9f03dca64a15716acb8d1d90a1f24ad703cbec4abed82a3bdd"
+    },
+    {
+      "external_ref": "propertyhub-3770761",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 90000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqm": 118,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "The Loft Silom 3 bedrooms, for rent",
+        "zh": "The Loft Silom 3 bedrooms, for rent",
+        "th": "The Loft Silom 3 bedrooms, for rent"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 118 sq.m., 90,000 THB. Source PropertyHub #3770761.",
+        "zh": "出租：3卧，118㎡，90,000 泰铢。来源 PropertyHub #3770761。",
+        "th": "เช่า: 3 นอน 118 ตร.ม. ราคา 90,000 บาท (PropertyHub #3770761)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3770761. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3770761。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3770761 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/the-loft-silom-3-bedrooms-for-rent---3770761",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.72308794889241,
+      "longitude": 100.5219436563246,
+      "duplicate_fingerprint": "589a7546ad866727ad857a7ce3472cf844444e67f17af36b8393aaa716f122b4"
+    }
+  ]
+}

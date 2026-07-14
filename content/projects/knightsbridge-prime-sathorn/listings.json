@@ -1,0 +1,458 @@
+{
+  "project_slug": "knightsbridge-prime-sathorn",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-6163864",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 38.5,
+      "floor_label": "2X-3X",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR Condo 39 Sqm, Knightsbridge Prime Sathorn Near BTS Saint Louis (ID 3020279)",
+        "zh": "1-BR Condo 39 Sqm, Knightsbridge Prime Sathorn Near BTS Saint Louis (ID 3020279)",
+        "th": "1-BR Condo 39 Sqm, Knightsbridge Prime Sathorn Near BTS Saint Louis (ID 3020279)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 38.5 sq.m., 5,600,000 THB. Source PropertyHub #6163864.",
+        "zh": "出售：1卧，38.5㎡，5,600,000 泰铢。来源 PropertyHub #6163864。",
+        "th": "ขาย: 1 นอน 38.5 ตร.ม. ราคา 5,600,000 บาท (PropertyHub #6163864)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6163864. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6163864。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6163864 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-knightsbridge-prime-sathorn-near-bts-saint-louis-id-3020279--b80d0963---6163864",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71689371382067,
+      "longitude": 100.5329907391493,
+      "duplicate_fingerprint": "48e531066d748214b6ef0374277c1b38d900f28d800db4397566a6f17831d0cf"
+    },
+    {
+      "external_ref": "propertyhub-5898997",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6800000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR Condo On 15th Floor, Knightsbridge Prime Sathorn Near BTS Saint Louis 📍 (ID 2737313)",
+        "zh": "1-BR Condo On 15th Floor, Knightsbridge Prime Sathorn Near BTS Saint Louis 📍 (ID 2737313)",
+        "th": "1-BR Condo On 15th Floor, Knightsbridge Prime Sathorn Near BTS Saint Louis 📍 (ID 2737313)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 33 sq.m., 6,800,000 THB. Source PropertyHub #5898997.",
+        "zh": "出售：1卧，33㎡，6,800,000 泰铢。来源 PropertyHub #5898997。",
+        "th": "ขาย: 1 นอน 33 ตร.ม. ราคา 6,800,000 บาท (PropertyHub #5898997)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5898997. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5898997。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5898997 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-knightsbridge-prime-sathorn-near-bts-saint-louis-id-2737313--a711090b---5898997",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71689371382067,
+      "longitude": 100.5329907391493,
+      "duplicate_fingerprint": "9f732c09969abdc86c1513d4a72bfeea8b3a5c2948032b9a906d404c0e608e0b"
+    },
+    {
+      "external_ref": "propertyhub-5876840",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30.73,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR 31 Sqm, 17th-Floor Condo In Knightsbridge Prime Sathorn Near BTS Saint Louis (ID 2710007)",
+        "zh": "1-BR 31 Sqm, 17th-Floor Condo In Knightsbridge Prime Sathorn Near BTS Saint Louis (ID 2710007)",
+        "th": "1-BR 31 Sqm, 17th-Floor Condo In Knightsbridge Prime Sathorn Near BTS Saint Louis (ID 2710007)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30.73 sq.m., 5,400,000 THB. Source PropertyHub #5876840.",
+        "zh": "出售：1卧，30.73㎡，5,400,000 泰铢。来源 PropertyHub #5876840。",
+        "th": "ขาย: 1 นอน 30.73 ตร.ม. ราคา 5,400,000 บาท (PropertyHub #5876840)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5876840. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5876840。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5876840 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-knightsbridge-prime-sathorn-near-bts-saint-louis-id-2710007---5876840",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71689371382067,
+      "longitude": 100.5329907391493,
+      "duplicate_fingerprint": "a22ca059fe97adb35ab6fd563f56d9073ba9016e1740d3c5de96ff25833de7ac"
+    },
+    {
+      "external_ref": "propertyhub-5923843",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6350000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44.54,
+      "floor_label": "36",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "High-Floor 1-BR 45 Sqm Knightsbridge Prime Sathorn Near BTS Saint Louis (ID 2744047)",
+        "zh": "High-Floor 1-BR 45 Sqm Knightsbridge Prime Sathorn Near BTS Saint Louis (ID 2744047)",
+        "th": "High-Floor 1-BR 45 Sqm Knightsbridge Prime Sathorn Near BTS Saint Louis (ID 2744047)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 44.54 sq.m., 6,350,000 THB. Source PropertyHub #5923843.",
+        "zh": "出售：1卧，44.54㎡，6,350,000 泰铢。来源 PropertyHub #5923843。",
+        "th": "ขาย: 1 นอน 44.54 ตร.ม. ราคา 6,350,000 บาท (PropertyHub #5923843)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5923843. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5923843。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5923843 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-knightsbridge-prime-sathorn-near-bts-saint-louis-id-2744047--9a3e0897---5923843",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71689371382067,
+      "longitude": 100.5329907391493,
+      "duplicate_fingerprint": "76e9edacc1a660e37184832e2eaa6aa8e97196d68a858e490e5a8f161e72900e"
+    },
+    {
+      "external_ref": "propertyhub-6142312",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 37,
+      "floor_label": "28",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Well-Priced 1-BR 37 Sqm High-Floor Condo At Knightsbridge Prime Sathorn, BTS Saint Louis (ID 2981850)",
+        "zh": "Well-Priced 1-BR 37 Sqm High-Floor Condo At Knightsbridge Prime Sathorn, BTS Saint Louis (ID 2981850)",
+        "th": "Well-Priced 1-BR 37 Sqm High-Floor Condo At Knightsbridge Prime Sathorn, BTS Saint Louis (ID 2981850)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 37 sq.m., 5,400,000 THB. Source PropertyHub #6142312.",
+        "zh": "出售：1卧，37㎡，5,400,000 泰铢。来源 PropertyHub #6142312。",
+        "th": "ขาย: 1 นอน 37 ตร.ม. ราคา 5,400,000 บาท (PropertyHub #6142312)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6142312. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6142312。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6142312 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-knightsbridge-prime-sathorn-near-bts-saint-louis-id-2981850--b0740928---6142312",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71689371382067,
+      "longitude": 100.5329907391493,
+      "duplicate_fingerprint": "ffa7e811ae6c4923f97019bf7be02dadd615809e78ed3881f9d374b1268c4e5d"
+    },
+    {
+      "external_ref": "propertyhub-6057660",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 28000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 39,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Condo for rent near BTS Chong Nonsi | KnightsBridge Prime Sathorn | 1 bedroom Duplex city view | near Empire Tower ",
+        "zh": "Condo for rent near BTS Chong Nonsi | KnightsBridge Prime Sathorn | 1 bedroom Duplex city view | near Empire Tower ",
+        "th": "Condo for rent near BTS Chong Nonsi | KnightsBridge Prime Sathorn | 1 bedroom Duplex city view | near Empire Tower "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 39 sq.m., 28,000 THB. Source PropertyHub #6057660.",
+        "zh": "出租：1卧，39㎡，28,000 泰铢。来源 PropertyHub #6057660。",
+        "th": "เช่า: 1 นอน 39 ตร.ม. ราคา 28,000 บาท (PropertyHub #6057660)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6057660. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6057660。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6057660 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-near-bts-chong-nonsi-knightsbridge-prime-sathorn-1-bedroom-duplex-city-view-near-empire-tower---6057660",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71689371382067,
+      "longitude": 100.5329907391493,
+      "duplicate_fingerprint": "065d4e3c62877a1c7b202b2364528cb71bd0433b21814ab0e161dce422964978"
+    },
+    {
+      "external_ref": "propertyhub-6216862",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 40000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 59,
+      "floor_label": "37",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "2-BR 59 Sqm High-Floor Condo At Knightsbridge Prime Sathorn,  BTS Saint Louis (ID 3073755)",
+        "zh": "2-BR 59 Sqm High-Floor Condo At Knightsbridge Prime Sathorn,  BTS Saint Louis (ID 3073755)",
+        "th": "2-BR 59 Sqm High-Floor Condo At Knightsbridge Prime Sathorn,  BTS Saint Louis (ID 3073755)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 59 sq.m., 40,000 THB. Source PropertyHub #6216862.",
+        "zh": "出租：2卧，59㎡，40,000 泰铢。来源 PropertyHub #6216862。",
+        "th": "เช่า: 2 นอน 59 ตร.ม. ราคา 40,000 บาท (PropertyHub #6216862)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6216862. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6216862。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6216862 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-for-rent-knightsbridge-prime-sathorn-37th-floor-near-bts-saint-louis-id-3073755---6216862",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71689371382067,
+      "longitude": 100.5329907391493,
+      "duplicate_fingerprint": "43c034b11d4984d9e30a7411c757beb4ee5c170fa657d0f60c264544da4f1cba"
+    },
+    {
+      "external_ref": "propertyhub-6222695",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 28000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": "28",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "High-Floor 1-BR 44 Sqm Knightsbridge Prime Sathorn 📍 near BTS Saint Louis (ID 3061646)",
+        "zh": "High-Floor 1-BR 44 Sqm Knightsbridge Prime Sathorn 📍 near BTS Saint Louis (ID 3061646)",
+        "th": "High-Floor 1-BR 44 Sqm Knightsbridge Prime Sathorn 📍 near BTS Saint Louis (ID 3061646)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 28,000 THB. Source PropertyHub #6222695.",
+        "zh": "出租：1卧，44㎡，28,000 泰铢。来源 PropertyHub #6222695。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 28,000 บาท (PropertyHub #6222695)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6222695. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6222695。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6222695 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/high-floor-1-br-44-sqm-knightsbridge-prime-sathorn-near-bts-saint-louis-id-3061646--aacc0955---6222695",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71689371382067,
+      "longitude": 100.5329907391493,
+      "duplicate_fingerprint": "50c85fb3d92a8a78f1a9380621b018cf13c4404ad4a8022eb03dd4de1a06191a"
+    },
+    {
+      "external_ref": "propertyhub-4082944",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 32000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": "32",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1-BR 44 Sqm 32nd-Floor At Knightsbridge Prime Sathorn, BTS Saint Louis (ID 985116)",
+        "zh": "1-BR 44 Sqm 32nd-Floor At Knightsbridge Prime Sathorn, BTS Saint Louis (ID 985116)",
+        "th": "1-BR 44 Sqm 32nd-Floor At Knightsbridge Prime Sathorn, BTS Saint Louis (ID 985116)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 32,000 THB. Source PropertyHub #4082944.",
+        "zh": "出租：1卧，44㎡，32,000 泰铢。来源 PropertyHub #4082944。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 32,000 บาท (PropertyHub #4082944)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4082944. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4082944。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4082944 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-knightsbridge-prime-sathorn-near-bts-chong-nonsi-id-985116--95710849---4082944",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71689371382067,
+      "longitude": 100.5329907391493,
+      "duplicate_fingerprint": "6e39a6a514ea9a87931c801c09c77b13061a22e2fabb97ece570f8e2fdd5b7e3"
+    },
+    {
+      "external_ref": "propertyhub-4139813",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 37,
+      "floor_label": "28",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "High-Floor 1-BR 37 Sqm At Knightsbridge Prime Sathorn near BTS Saint Louis (ID 449376)",
+        "zh": "High-Floor 1-BR 37 Sqm At Knightsbridge Prime Sathorn near BTS Saint Louis (ID 449376)",
+        "th": "High-Floor 1-BR 37 Sqm At Knightsbridge Prime Sathorn near BTS Saint Louis (ID 449376)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 37 sq.m., 30,000 THB. Source PropertyHub #4139813.",
+        "zh": "出租：1卧，37㎡，30,000 泰铢。来源 PropertyHub #4139813。",
+        "th": "เช่า: 1 นอน 37 ตร.ม. ราคา 30,000 บาท (PropertyHub #4139813)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4139813. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4139813。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4139813 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-knightsbridge-prime-sathorn-near-bts-saint-louis-id-449376---4139813",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.71689371382067,
+      "longitude": 100.5329907391493,
+      "duplicate_fingerprint": "5b92e1d7f88ca4c51cc4c47fc7c6d4011e30303671fcaacd5c4026a5c1db5535"
+    }
+  ]
+}

@@ -1,0 +1,888 @@
+{
+  "project_slug": "niche-pride-thonglor-phetchaburi",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-5544358",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3344000,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area_sqm": 30.67,
+      "floor_label": "",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "CONDO 30.67 Sq.m. Huai Khwang Bangkok for 3.3M",
+        "zh": "CONDO 30.67 Sq.m. Huai Khwang Bangkok for 3.3M",
+        "th": "CONDO 30.67 Sq.m. Huai Khwang Bangkok for 3.3M"
+      },
+      "summary": {
+        "en": "Sale: 0BR, 30.67 sq.m., 3,344,000 THB. Source PropertyHub #5544358.",
+        "zh": "出售：0卧，30.67㎡，3,344,000 泰铢。来源 PropertyHub #5544358。",
+        "th": "ขาย: 0 นอน 30.67 ตร.ม. ราคา 3,344,000 บาท (PropertyHub #5544358)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5544358. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5544358。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5544358 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/5544358",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "20df6ddc15177b68dc59f3ba102df48326947d25e4f56ec5c1c54a2a05006a28"
+    },
+    {
+      "external_ref": "propertyhub-5665314",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": "23",
+      "building_label": "Niche Pride Condo",
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Urgent Sale: The Niche Pride Condo - Thonglor - Phetchaburi",
+        "zh": "Urgent Sale: The Niche Pride Condo - Thonglor - Phetchaburi",
+        "th": "Urgent Sale: The Niche Pride Condo - Thonglor - Phetchaburi"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 36 sq.m., 4,500,000 THB. Source PropertyHub #5665314.",
+        "zh": "出售：1卧，36㎡，4,500,000 泰铢。来源 PropertyHub #5665314。",
+        "th": "ขาย: 1 นอน 36 ตร.ม. ราคา 4,500,000 บาท (PropertyHub #5665314)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5665314. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5665314。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5665314 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-the-niche-pride-condo-thonglor-phetchaburi--9c3508de---5665314",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "aad866b4d11d7bcbbeda458e703fb1ab3c943ebdab69d1f18ec1df71981b90df"
+    },
+    {
+      "external_ref": "propertyhub-5962165",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31.33,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🏢✨Condo for Sale: The Niche Pride Thonglor–Phetchaburi – New unit, never occupied 🏢✨",
+        "zh": "🏢✨Condo for Sale: The Niche Pride Thonglor–Phetchaburi – New unit, never occupied 🏢✨",
+        "th": "🏢✨Condo for Sale: The Niche Pride Thonglor–Phetchaburi – New unit, never occupied 🏢✨"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 31.33 sq.m., 3,000,000 THB. Source PropertyHub #5962165.",
+        "zh": "出售：1卧，31.33㎡，3,000,000 泰铢。来源 PropertyHub #5962165。",
+        "th": "ขาย: 1 นอน 31.33 ตร.ม. ราคา 3,000,000 บาท (PropertyHub #5962165)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5962165. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5962165。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5962165 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-sale-the-niche-pride-thonglorphetchaburi-new-unit-never-occupied---5962165",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "54d665c29c3725c5b8949777b9599565be2ff5244b2ffc900f521a62aebe0a13"
+    },
+    {
+      "external_ref": "propertyhub-6225682",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3600000,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area_sqm": 36.54,
+      "floor_label": "",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "CONDO 36.54 Sq.m. Huai Khwang Bangkok for 3.6M",
+        "zh": "CONDO 36.54 Sq.m. Huai Khwang Bangkok for 3.6M",
+        "th": "CONDO 36.54 Sq.m. Huai Khwang Bangkok for 3.6M"
+      },
+      "summary": {
+        "en": "Sale: 0BR, 36.54 sq.m., 3,600,000 THB. Source PropertyHub #6225682.",
+        "zh": "出售：0卧，36.54㎡，3,600,000 泰铢。来源 PropertyHub #6225682。",
+        "th": "ขาย: 0 นอน 36.54 ตร.ม. ราคา 3,600,000 บาท (PropertyHub #6225682)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6225682. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6225682。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6225682 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-36-54-sq-m-huai-khwang-bangkok-for-3-6m---6225682",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "775b2ba8e80d26df98eba450e98ed21248d72af77c1e648087f48fa403171957"
+    },
+    {
+      "external_ref": "propertyhub-5544382",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4012000,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area_sqm": 35.5,
+      "floor_label": "",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "CONDO 35.5 Sq.m. Huai Khwang Bangkok for 4M",
+        "zh": "CONDO 35.5 Sq.m. Huai Khwang Bangkok for 4M",
+        "th": "CONDO 35.5 Sq.m. Huai Khwang Bangkok for 4M"
+      },
+      "summary": {
+        "en": "Sale: 0BR, 35.5 sq.m., 4,012,000 THB. Source PropertyHub #5544382.",
+        "zh": "出售：0卧，35.5㎡，4,012,000 泰铢。来源 PropertyHub #5544382。",
+        "th": "ขาย: 0 นอน 35.5 ตร.ม. ราคา 4,012,000 บาท (PropertyHub #5544382)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5544382. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5544382。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5544382 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-1-bedroom-35-5-square-meter-for-sale-at-condo-for-sale-bang-kapi-huai-khwang-bangkok---5544382",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "951e97b4352af5c1c91c643c29431d8af4c68e658cf60dbf1a955cd68c933921"
+    },
+    {
+      "external_ref": "propertyhub-5544404",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2982000,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area_sqm": 30.9,
+      "floor_label": "",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "CONDO 30.9 Sq.m. Huai Khwang Bangkok for 3M",
+        "zh": "CONDO 30.9 Sq.m. Huai Khwang Bangkok for 3M",
+        "th": "CONDO 30.9 Sq.m. Huai Khwang Bangkok for 3M"
+      },
+      "summary": {
+        "en": "Sale: 0BR, 30.9 sq.m., 2,982,000 THB. Source PropertyHub #5544404.",
+        "zh": "出售：0卧，30.9㎡，2,982,000 泰铢。来源 PropertyHub #5544404。",
+        "th": "ขาย: 0 นอน 30.9 ตร.ม. ราคา 2,982,000 บาท (PropertyHub #5544404)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5544404. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5544404。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5544404 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/5544404",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "d7b79b8c3bc2f9eafba672d45e4ed55aa7b53623f64aa7a0380c6e4f5e00c8c1"
+    },
+    {
+      "external_ref": "propertyhub-5544368",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4120000,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area_sqm": 35.36,
+      "floor_label": "",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "CONDO 35.36 Sq.m. Huai Khwang Bangkok for 4.1M",
+        "zh": "CONDO 35.36 Sq.m. Huai Khwang Bangkok for 4.1M",
+        "th": "CONDO 35.36 Sq.m. Huai Khwang Bangkok for 4.1M"
+      },
+      "summary": {
+        "en": "Sale: 0BR, 35.36 sq.m., 4,120,000 THB. Source PropertyHub #5544368.",
+        "zh": "出售：0卧，35.36㎡，4,120,000 泰铢。来源 PropertyHub #5544368。",
+        "th": "ขาย: 0 นอน 35.36 ตร.ม. ราคา 4,120,000 บาท (PropertyHub #5544368)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5544368. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5544368。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5544368 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/5544368",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "cfb0cb6c99acc18a8639b379f02773d4d475eb1496920b5e0cdc4e7206b3f358"
+    },
+    {
+      "external_ref": "propertyhub-5544378",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3817000,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area_sqm": 35.5,
+      "floor_label": "",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "CONDO 35.5 Sq.m. Huai Khwang Bangkok for 3.8M",
+        "zh": "CONDO 35.5 Sq.m. Huai Khwang Bangkok for 3.8M",
+        "th": "CONDO 35.5 Sq.m. Huai Khwang Bangkok for 3.8M"
+      },
+      "summary": {
+        "en": "Sale: 0BR, 35.5 sq.m., 3,817,000 THB. Source PropertyHub #5544378.",
+        "zh": "出售：0卧，35.5㎡，3,817,000 泰铢。来源 PropertyHub #5544378。",
+        "th": "ขาย: 0 นอน 35.5 ตร.ม. ราคา 3,817,000 บาท (PropertyHub #5544378)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5544378. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5544378。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5544378 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/5544378",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "11644ed66e01430771b2fd881f4d848780a0611cd8c888170e44ad0d48809f1d"
+    },
+    {
+      "external_ref": "propertyhub-5438753",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32,
+      "floor_label": "11-15",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "📌 Urgently for sell : Niche Pride Thonglor-Phetchaburi beautiful room, fully furnished, ready to move in. MD-80304",
+        "zh": "📌 Urgently for sell : Niche Pride Thonglor-Phetchaburi beautiful room, fully furnished, ready to move in. MD-80304",
+        "th": "📌 Urgently for sell : Niche Pride Thonglor-Phetchaburi beautiful room, fully furnished, ready to move in. MD-80304"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 32 sq.m., 3,200,000 THB. Source PropertyHub #5438753.",
+        "zh": "出售：1卧，32㎡，3,200,000 泰铢。来源 PropertyHub #5438753。",
+        "th": "ขาย: 1 นอน 32 ตร.ม. ราคา 3,200,000 บาท (PropertyHub #5438753)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5438753. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5438753。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5438753 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgently-for-sell-niche-pride-thonglor-phetchaburi-beautiful-room-fully-furnished-ready-to-move-in-md-80304---5438753",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "ab220b9793719d512d037178655b4459a4a7d5285d06ca422f2a265b5b23606c"
+    },
+    {
+      "external_ref": "propertyhub-5438736",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "11-15",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "📌 Urgently for sell : Niche Pride Thonglor-Phetchaburi beautiful room, fully furnished, ready to move in. MD-84116",
+        "zh": "📌 Urgently for sell : Niche Pride Thonglor-Phetchaburi beautiful room, fully furnished, ready to move in. MD-84116",
+        "th": "📌 Urgently for sell : Niche Pride Thonglor-Phetchaburi beautiful room, fully furnished, ready to move in. MD-84116"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 4,500,000 THB. Source PropertyHub #5438736.",
+        "zh": "出售：1卧，35㎡，4,500,000 泰铢。来源 PropertyHub #5438736。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 4,500,000 บาท (PropertyHub #5438736)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5438736. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5438736。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5438736 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgently-for-sell-niche-pride-thonglor-phetchaburi-beautiful-room-fully-furnished-ready-to-move-in-md-84116---5438736",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "186b097aa910ded3c5fe49b1f32ef4e7b9dca467274ce5667d5fed158ef24645"
+    },
+    {
+      "external_ref": "propertyhub-4015429",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": "27",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-14468 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-14468 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-14468 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 16,000 THB. Source PropertyHub #4015429.",
+        "zh": "出租：1卧，31㎡，16,000 泰铢。来源 PropertyHub #4015429。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 16,000 บาท (PropertyHub #4015429)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4015429. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4015429。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4015429 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-niche-pride-thonglor-phetchaburi-bts-thong-lo-bang-kapi-huai-khwang-bangkok-cx-14468-live-chat-with-us-add-line-connexproperty--a7d50902---4015429",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "d13dad73f6624b6c4f3a5b9f53093ef0a291007c8a1fa0fa5b0968273a47a2b7"
+    },
+    {
+      "external_ref": "propertyhub-4112882",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34.8,
+      "floor_label": "28",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-14485 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-14485 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-14485 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34.8 sq.m., 20,000 THB. Source PropertyHub #4112882.",
+        "zh": "出租：1卧，34.8㎡，20,000 泰铢。来源 PropertyHub #4112882。",
+        "th": "เช่า: 1 นอน 34.8 ตร.ม. ราคา 20,000 บาท (PropertyHub #4112882)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4112882. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4112882。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4112882 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-niche-pride-thonglor-phetchaburi-bts-thong-lo-bang-kapi-huai-khwang-bangkok-cx-14485-live-chat-with-us-add-line-connexproperty--b0e2099f---4112882",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "54883b4831d0aeb6c2670020615fb40136515cb2ee60fa9289d7744bedadd78d"
+    },
+    {
+      "external_ref": "propertyhub-4159407",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.36,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-88739 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-88739 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-88739 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35.36 sq.m., 16,000 THB. Source PropertyHub #4159407.",
+        "zh": "出租：1卧，35.36㎡，16,000 泰铢。来源 PropertyHub #4159407。",
+        "th": "เช่า: 1 นอน 35.36 ตร.ม. ราคา 16,000 บาท (PropertyHub #4159407)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4159407. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4159407。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4159407 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-niche-pride-thonglor-phetchaburi-bts-thong-lo-bang-kapi-huai-khwang-bangkok-cx-88739-live-chat-with-us-add-line-connexproperty--a79c08e9---4159407",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "c918eee337bddab592c1c5d0e09b91d215a5f96d58d207e921cdd6935acf4ee8"
+    },
+    {
+      "external_ref": "propertyhub-4235139",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.5,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-91024 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-91024 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-91024 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35.5 sq.m., 18,500 THB. Source PropertyHub #4235139.",
+        "zh": "出租：1卧，35.5㎡，18,500 泰铢。来源 PropertyHub #4235139。",
+        "th": "เช่า: 1 นอน 35.5 ตร.ม. ราคา 18,500 บาท (PropertyHub #4235139)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4235139. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4235139。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4235139 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-niche-pride-thonglor-phetchaburi-bts-thong-lo-bang-kapi-huai-khwang-bangkok-cx-91024-live-chat-with-us-add-line-connexproperty--b17b0967---4235139",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "00e4acaefe3a9a69109ec39434f72093efb1f5d09e4493c83fb11c9db5cb9b72"
+    },
+    {
+      "external_ref": "propertyhub-4370988",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36.54,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-94348 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-94348 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-94348 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 36.54 sq.m., 20,000 THB. Source PropertyHub #4370988.",
+        "zh": "出租：1卧，36.54㎡，20,000 泰铢。来源 PropertyHub #4370988。",
+        "th": "เช่า: 1 นอน 36.54 ตร.ม. ราคา 20,000 บาท (PropertyHub #4370988)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4370988. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4370988。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4370988 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-niche-pride-thonglor-phetchaburi-bts-thong-lo-bang-kapi-huai-khwang-bangkok-cx-94348-live-chat-with-us-add-line-connexproperty--b30a0987---4370988",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "01bc55eeee3e357c22a835325ab63f673666edbd603508f1df69cdc0243175bb"
+    },
+    {
+      "external_ref": "propertyhub-4517809",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-14486 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-14486 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-14486 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 18,000 THB. Source PropertyHub #4517809.",
+        "zh": "出租：1卧，35㎡，18,000 泰铢。来源 PropertyHub #4517809。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 18,000 บาท (PropertyHub #4517809)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4517809. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4517809。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4517809 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-niche-pride-thonglor-phetchaburi-bts-thong-lo-bang-kapi-huai-khwang-bangkok-cx-14486-live-chat-with-us-add-line-connexproperty--a4b50931---4517809",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "4a0c0c239434c0d505903515e1daa57e96795b0ee672eb018b3f6d5c9482ae37"
+    },
+    {
+      "external_ref": "propertyhub-4830916",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-111125 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-111125 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-111125 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 36 sq.m., 18,000 THB. Source PropertyHub #4830916.",
+        "zh": "出租：1卧，36㎡，18,000 泰铢。来源 PropertyHub #4830916。",
+        "th": "เช่า: 1 นอน 36 ตร.ม. ราคา 18,000 บาท (PropertyHub #4830916)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4830916. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4830916。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4830916 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-niche-pride-thonglor-phetchaburi-bts-thong-lo-bang-kapi-huai-khwang-bangkok-cx-111125-live-chat-with-us-add-line-connexproperty--b2d30976---4830916",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "960249c17414ca7ab868bf7a6985a189aa639bb98f75ed2e53bb3a583f75cce4"
+    },
+    {
+      "external_ref": "propertyhub-4923391",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-92672 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-92672 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-92672 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 32 sq.m., 12,000 THB. Source PropertyHub #4923391.",
+        "zh": "出租：1卧，32㎡，12,000 泰铢。来源 PropertyHub #4923391。",
+        "th": "เช่า: 1 นอน 32 ตร.ม. ราคา 12,000 บาท (PropertyHub #4923391)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4923391. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4923391。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4923391 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-niche-pride-thonglor-phetchaburi-bts-thong-lo-bang-kapi-huai-khwang-bangkok-cx-92672-live-chat-with-us-add-line-connexproperty--ad42092e---4923391",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "436cc627335c7e647405cb5e2fc74531eeab2367611a1a903380a9b549f273c4"
+    },
+    {
+      "external_ref": "propertyhub-4944544",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-110188 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-110188 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-110188 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 36 sq.m., 18,000 THB. Source PropertyHub #4944544.",
+        "zh": "出租：1卧，36㎡，18,000 泰铢。来源 PropertyHub #4944544。",
+        "th": "เช่า: 1 นอน 36 ตร.ม. ราคา 18,000 บาท (PropertyHub #4944544)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4944544. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4944544。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4944544 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-niche-pride-thonglor-phetchaburi-bts-thong-lo-bang-kapi-huai-khwang-bangkok-cx-110188-live-chat-with-us-add-line-connexproperty--b8c409fc---4944544",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "ddb0894571f56739e0811399b8978565e81c376befc28270ddacb2c0922945f4"
+    },
+    {
+      "external_ref": "propertyhub-5079819",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-14445 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-14445 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Niche Pride Thonglor-Phetchaburi , BTS-Thong Lo , Bang Kapi , Huai Khwang , Bangkok , CX-14445 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 36 sq.m., 20,000 THB. Source PropertyHub #5079819.",
+        "zh": "出租：1卧，36㎡，20,000 泰铢。来源 PropertyHub #5079819。",
+        "th": "เช่า: 1 นอน 36 ตร.ม. ราคา 20,000 บาท (PropertyHub #5079819)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5079819. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5079819。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5079819 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-niche-pride-thonglor-phetchaburi-bts-thong-lo-bang-kapi-huai-khwang-bangkok-cx-14445-live-chat-with-us-add-line-connexproperty--ac5c095c---5079819",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.744320957823247,
+      "longitude": 100.58327611077051,
+      "duplicate_fingerprint": "a5c8c5312e18e5aa6a5a1d06033b8589aad16a12273c819e5d1e429897411687"
+    }
+  ]
+}

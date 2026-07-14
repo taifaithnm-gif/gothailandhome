@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "THE BASE Sukhumvit 77 official / developer page",
       "url": "https://www.sansiri.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/the-base-sukhumvit-77"
     }
   ],
   "developer": {
@@ -55,13 +60,15 @@
       "th": "สวนหลวง กรุงเทพฯ"
     },
     "postal_code": "10250",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.71058532140166,
+    "longitude": 100.6023064760605,
+    "google_maps_url": "https://www.google.com/maps?q=13.71058532140166,100.6023064760605",
     "official_website": "https://www.sansiri.com/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": [],
+    "facebook_url": "https://www.facebook.com/SansiriPLC",
+    "completion_year": 2013,
+    "transit_tags": [
+      "bts"
+    ],
     "seo": {
       "title": {
         "en": "THE BASE Sukhumvit 77 Condo in Suan Luang, Bangkok | GoThailandHome",
@@ -73,6 +80,324 @@
         "zh": "THE BASE 素坤逸77项目页（曼谷素万銮），来源为开发商官方站点。",
         "th": "หน้าโครงการ เดอะ เบส สุขุมวิท 77 เขตสวนหลวง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "motorcycle-parking",
+        "name": {
+          "en": "Motorcycle parking",
+          "zh": "Motorcycle parking",
+          "th": "Motorcycle parking"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Bangna Commercial College",
+          "zh": "Bangna Commercial College",
+          "th": "Bangna Commercial College"
+        },
+        "distance_m": 4998,
+        "slug": "bangna-commercial-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok University",
+          "zh": "Bangkok University",
+          "th": "Bangkok University"
+        },
+        "distance_m": 2704,
+        "slug": "bangkok-university--3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "St. Andrews International School Bangkok",
+          "zh": "St. Andrews International School Bangkok",
+          "th": "St. Andrews International School Bangkok"
+        },
+        "distance_m": null,
+        "slug": "st-andrews-international-school-bangkok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thai Christian School",
+          "zh": "Thai Christian School",
+          "th": "Thai Christian School"
+        },
+        "distance_m": 3722,
+        "slug": "thai-christian-school",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Kluaynamthai Hospital ",
+          "zh": "Kluaynamthai Hospital ",
+          "th": "Kluaynamthai Hospital "
+        },
+        "distance_m": 2004,
+        "slug": "kluaynamthai-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Sukumvit Hospital ",
+          "zh": "Sukumvit Hospital ",
+          "th": "Sukumvit Hospital "
+        },
+        "distance_m": 2154,
+        "slug": "sukumvit-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Makro Food Service Sukhumvit 71",
+          "zh": "Makro Food Service Sukhumvit 71",
+          "th": "Makro Food Service Sukhumvit 71"
+        },
+        "distance_m": null,
+        "slug": "makro-food-service-sukhumvit-71",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Rama 4",
+          "zh": "Big C Extra Rama 4",
+          "th": "Big C Extra Rama 4"
+        },
+        "distance_m": 4194,
+        "slug": "big-c-extra-rama-4",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra On Nut",
+          "zh": "Big C Extra On Nut",
+          "th": "Big C Extra On Nut"
+        },
+        "distance_m": 327,
+        "slug": "big-c-extra-on-nut",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Sukhumvit 50",
+          "zh": "Tesco Lotus Superstore Sukhumvit 50",
+          "th": "Tesco Lotus Superstore Sukhumvit 50"
+        },
+        "distance_m": 837,
+        "slug": "tesco-lotus-superstore-sukhumvit-50",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Rama 9",
+          "zh": "HomePro Rama 9",
+          "th": "HomePro Rama 9"
+        },
+        "distance_m": 5881,
+        "slug": "homepro-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "DONKI Mall Thonglor  ",
+          "zh": "DONKI Mall Thonglor  ",
+          "th": "DONKI Mall Thonglor  "
+        },
+        "distance_m": null,
+        "slug": "donki-mall-thonglor",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Major Cineplex Ekkamai",
+          "zh": "Major Cineplex Ekkamai",
+          "th": "Major Cineplex Ekkamai"
+        },
+        "distance_m": 2644,
+        "slug": "major-cineplex-ekkamai",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Makro Food Service Sukhumvit 71",
+          "zh": "Makro Food Service Sukhumvit 71",
+          "th": "Makro Food Service Sukhumvit 71"
+        },
+        "distance_m": null,
+        "slug": "makro-food-service-sukhumvit-71",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Rama 4",
+          "zh": "Big C Extra Rama 4",
+          "th": "Big C Extra Rama 4"
+        },
+        "distance_m": 4194,
+        "slug": "big-c-extra-rama-4",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra On Nut",
+          "zh": "Big C Extra On Nut",
+          "th": "Big C Extra On Nut"
+        },
+        "distance_m": 327,
+        "slug": "big-c-extra-on-nut",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Sukhumvit 50",
+          "zh": "Tesco Lotus Superstore Sukhumvit 50",
+          "th": "Tesco Lotus Superstore Sukhumvit 50"
+        },
+        "distance_m": 837,
+        "slug": "tesco-lotus-superstore-sukhumvit-50",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Rama 9",
+          "zh": "HomePro Rama 9",
+          "th": "HomePro Rama 9"
+        },
+        "distance_m": 5881,
+        "slug": "homepro-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "DONKI Mall Thonglor  ",
+          "zh": "DONKI Mall Thonglor  ",
+          "th": "DONKI Mall Thonglor  "
+        },
+        "distance_m": null,
+        "slug": "donki-mall-thonglor",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Major Cineplex Ekkamai",
+          "zh": "Major Cineplex Ekkamai",
+          "th": "Major Cineplex Ekkamai"
+        },
+        "distance_m": 2644,
+        "slug": "major-cineplex-ekkamai",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2013.",
+          "zh": "PropertyHub 记载完工年份为 2013。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2013"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 1277 total units.",
+          "zh": "PropertyHub 记载总套数为 1277。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 1277"
+        }
+      }
+    ]
   }
 }

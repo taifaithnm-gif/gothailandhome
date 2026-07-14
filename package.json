@@ -25,7 +25,8 @@
     "factory:apply": "node pipelines/factory/cli.mjs apply",
     "factory:resume": "node pipelines/factory/cli.mjs resume",
     "factory:rollback": "node pipelines/factory/cli.mjs rollback",
-    "db:verify-workflow": "node scripts/verify-admin-workflow.mjs"
+    "db:verify-workflow": "node scripts/verify-admin-workflow.mjs",
+    "factory:harvest:ph": "node pipelines/factory/harvest-propertyhub-wave1.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.6.0",

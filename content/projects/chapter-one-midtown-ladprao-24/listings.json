@@ -1,0 +1,888 @@
+{
+  "project_slug": "chapter-one-midtown-ladprao-24",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-6080530",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2750000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "6-10",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "✨ For Sale: Chapter One Midtown Ladprao 24 Condo ✨  💰 Only 2,750,000 THB",
+        "zh": "✨ For Sale: Chapter One Midtown Ladprao 24 Condo ✨  💰 Only 2,750,000 THB",
+        "th": "✨ For Sale: Chapter One Midtown Ladprao 24 Condo ✨  💰 Only 2,750,000 THB"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 2,750,000 THB. Source PropertyHub #6080530.",
+        "zh": "出售：1卧，30㎡，2,750,000 泰铢。来源 PropertyHub #6080530。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 2,750,000 บาท (PropertyHub #6080530)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6080530. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6080530。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6080530 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-chapter-one-midtown-ladprao-24-condo-only-2-750-000-thb---6080530",
+      "source_updated_at": "2026-06-24",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "6c8ce2facc7983dc4a76bcc0c82c3dbe2a635dcb436b2815b83aa2eaf6af7c32"
+    },
+    {
+      "external_ref": "propertyhub-4726552",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2790000,
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "area_sqm": 25,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "P-86827 🏢Condo for for sell Chapter One Midtown Ladprao 24 fully furnished.",
+        "zh": "P-86827 🏢Condo for for sell Chapter One Midtown Ladprao 24 fully furnished.",
+        "th": "P-86827 🏢Condo for for sell Chapter One Midtown Ladprao 24 fully furnished."
+      },
+      "summary": {
+        "en": "Sale: 0BR, 25 sq.m., 2,790,000 THB. Source PropertyHub #4726552.",
+        "zh": "出售：0卧，25㎡，2,790,000 泰铢。来源 PropertyHub #4726552。",
+        "th": "ขาย: 0 นอน 25 ตร.ม. ราคา 2,790,000 บาท (PropertyHub #4726552)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4726552. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4726552。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4726552 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/p-86827-condo-for-for-sell-chapter-one-midtown-ladprao-24-fully-furnished---4726552",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "0dec7b16fb50076548924a4e2fe2e0693b4b95a0ddee4e673deb5cc8456d3c66"
+    },
+    {
+      "external_ref": "propertyhub-6027164",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2750000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30.03,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "Chapter one Midtown Ladprao 24 / 1 Bedroom AON040",
+        "zh": "Chapter one Midtown Ladprao 24 / 1 Bedroom AON040",
+        "th": "Chapter one Midtown Ladprao 24 / 1 Bedroom AON040"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30.03 sq.m., 2,750,000 THB. Source PropertyHub #6027164.",
+        "zh": "出售：1卧，30.03㎡，2,750,000 泰铢。来源 PropertyHub #6027164。",
+        "th": "ขาย: 1 นอน 30.03 ตร.ม. ราคา 2,750,000 บาท (PropertyHub #6027164)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6027164. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6027164。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6027164 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/chapter-one-midtown-ladprao-24-1-bedroom-aon040---6027164",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "acd7e5aea6b328c1b66f85a350561f2c05ffe47635937a3fde5259949657a17e"
+    },
+    {
+      "external_ref": "propertyhub-6034125",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5990000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 59,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥 For sale 🔥 Chapter One Midtown Lat Phrao 24 / 2 bedrooms AON075",
+        "zh": "🔥 For sale 🔥 Chapter One Midtown Lat Phrao 24 / 2 bedrooms AON075",
+        "th": "🔥 For sale 🔥 Chapter One Midtown Lat Phrao 24 / 2 bedrooms AON075"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 59 sq.m., 5,990,000 THB. Source PropertyHub #6034125.",
+        "zh": "出售：2卧，59㎡，5,990,000 泰铢。来源 PropertyHub #6034125。",
+        "th": "ขาย: 2 นอน 59 ตร.ม. ราคา 5,990,000 บาท (PropertyHub #6034125)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6034125. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6034125。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6034125 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-chapter-one-midtown-lat-phrao-24-2-bedrooms-aon075---6034125",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "6b2fc86332014a70f8c68a48bfa98a74e91baa05140b2ccb5046cad3678ed69e"
+    },
+    {
+      "external_ref": "propertyhub-6165059",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2750000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30.05,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR SALE condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36406 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR SALE condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36406 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR SALE condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36406 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30.05 sq.m., 2,750,000 THB. Source PropertyHub #6165059.",
+        "zh": "出售：1卧，30.05㎡，2,750,000 泰铢。来源 PropertyHub #6165059。",
+        "th": "ขาย: 1 นอน 30.05 ตร.ม. ราคา 2,750,000 บาท (PropertyHub #6165059)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6165059. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6165059。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6165059 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-chapter-one-midtown-ladprao-24-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-36406-live-chat-with-us-add-line-connexproperty---6165059",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "329fdafae68d71ef0f21a32962c6614c18d51d8eb61c62d91bfe93b3615c6add"
+    },
+    {
+      "external_ref": "propertyhub-5846852",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "P-359437 Stunning City View! Chapter One Midtown 24 near MRT Ladt Phrao, 1 Bed, Great Price! | Line Id @easythaihome | +66(0)85-592-2897",
+        "zh": "P-359437 Stunning City View! Chapter One Midtown 24 near MRT Ladt Phrao, 1 Bed, Great Price! | Line Id @easythaihome | +66(0)85-592-2897",
+        "th": "P-359437 Stunning City View! Chapter One Midtown 24 near MRT Ladt Phrao, 1 Bed, Great Price! | Line Id @easythaihome | +66(0)85-592-2897"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 31 sq.m., 3,990,000 THB. Source PropertyHub #5846852.",
+        "zh": "出售：1卧，31㎡，3,990,000 泰铢。来源 PropertyHub #5846852。",
+        "th": "ขาย: 1 นอน 31 ตร.ม. ราคา 3,990,000 บาท (PropertyHub #5846852)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5846852. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5846852。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5846852 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/p-359437-stunning-city-view-chapter-one-midtown-24-near-mrt-ladt-phrao-1-bed-great-price-line-id-easythaihome-66-0-85-592-2897---5846852",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "d0c3484e164e0292f303792222efe2c5e08ea0cbea45c8452d49e0a10b85d951"
+    },
+    {
+      "external_ref": "propertyhub-6097678",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 20000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 178,
+      "floor_label": "x",
+      "building_label": "no",
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "🏢 Commercial Space for Sale 3-Storey Business Space at Chapter One Midtown Ladprao 24 Fully Decorated & Ready for Business ✨",
+        "zh": "🏢 Commercial Space for Sale 3-Storey Business Space at Chapter One Midtown Ladprao 24 Fully Decorated & Ready for Business ✨",
+        "th": "🏢 Commercial Space for Sale 3-Storey Business Space at Chapter One Midtown Ladprao 24 Fully Decorated & Ready for Business ✨"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 178 sq.m., 20,000,000 THB. Source PropertyHub #6097678.",
+        "zh": "出售：1卧，178㎡，20,000,000 泰铢。来源 PropertyHub #6097678。",
+        "th": "ขาย: 1 นอน 178 ตร.ม. ราคา 20,000,000 บาท (PropertyHub #6097678)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6097678. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6097678。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6097678 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/commercial-space-for-sale-3-storey-business-space-at-chapter-one-midtown-ladprao-24-fully-decorated-ready-for-business---6097678",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "a10fc3ce2b5c41f004f5d8db131496e46baf8c66ea2dd3e93f842e864ae9b47f"
+    },
+    {
+      "external_ref": "propertyhub-2854809",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2860000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "Condo for sale at Chapter One Midtown Ladprao 24 1 Bedroom 1 Bathroom 24 Sq.m 2.86 Million Baht",
+        "zh": "Condo for sale at Chapter One Midtown Ladprao 24 1 Bedroom 1 Bathroom 24 Sq.m 2.86 Million Baht",
+        "th": "Condo for sale at Chapter One Midtown Ladprao 24 1 Bedroom 1 Bathroom 24 Sq.m 2.86 Million Baht"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 24 sq.m., 2,860,000 THB. Source PropertyHub #2854809.",
+        "zh": "出售：1卧，24㎡，2,860,000 泰铢。来源 PropertyHub #2854809。",
+        "th": "ขาย: 1 นอน 24 ตร.ม. ราคา 2,860,000 บาท (PropertyHub #2854809)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 2854809. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 2854809。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 2854809 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-sale-at-chapter-one-midtown-ladprao-24-1-bedroom-1-bathroom-24-sq-m-2-86-million-baht---2854809",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "4807f0e3fc1e2a0fc86f3af45e69437593e21456d55ee2a80b84b1f95ada66cf"
+    },
+    {
+      "external_ref": "propertyhub-5765488",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5979000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 59,
+      "floor_label": "20-25",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "📌 Quality condo for sale in a prime location: Chapter One Midtown Ladprao 24 MD-25031028",
+        "zh": "📌 Quality condo for sale in a prime location: Chapter One Midtown Ladprao 24 MD-25031028",
+        "th": "📌 Quality condo for sale in a prime location: Chapter One Midtown Ladprao 24 MD-25031028"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 59 sq.m., 5,979,000 THB. Source PropertyHub #5765488.",
+        "zh": "出售：2卧，59㎡，5,979,000 泰铢。来源 PropertyHub #5765488。",
+        "th": "ขาย: 2 นอน 59 ตร.ม. ราคา 5,979,000 บาท (PropertyHub #5765488)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5765488. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5765488。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5765488 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/quality-condo-for-sale-in-a-prime-location-chapter-one-midtown-ladprao-24-md-25031028---5765488",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "57c2555e96e9b75517ce018ec3d756734a6a76be7e15b0c6d7c761b19f92c945"
+    },
+    {
+      "external_ref": "propertyhub-5414177",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6170000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 38,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "HotDeal​🔥🔥  For Sale​ | Special Price, Full Furniture Ready to move in Condo at Chapter One Midtown Ladprao 24 MD-78336",
+        "zh": "HotDeal​🔥🔥  For Sale​ | Special Price, Full Furniture Ready to move in Condo at Chapter One Midtown Ladprao 24 MD-78336",
+        "th": "HotDeal​🔥🔥  For Sale​ | Special Price, Full Furniture Ready to move in Condo at Chapter One Midtown Ladprao 24 MD-78336"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 38 sq.m., 6,170,000 THB. Source PropertyHub #5414177.",
+        "zh": "出售：1卧，38㎡，6,170,000 泰铢。来源 PropertyHub #5414177。",
+        "th": "ขาย: 1 นอน 38 ตร.ม. ราคา 6,170,000 บาท (PropertyHub #5414177)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5414177. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5414177。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5414177 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/5414177",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "006f54e27228a5b523d83c6e951991efca6f1afafa5cfa87bd40715d134add77"
+    },
+    {
+      "external_ref": "propertyhub-4443232",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "28",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36493 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36493 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36493 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 14,000 THB. Source PropertyHub #4443232.",
+        "zh": "出租：1卧，30㎡，14,000 泰铢。来源 PropertyHub #4443232。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 14,000 บาท (PropertyHub #4443232)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4443232. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4443232。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4443232 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-chapter-one-midtown-ladprao-24-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-36493-live-chat-with-us-add-line-connexproperty--ab2f0982---4443232",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "a1a436fe14abe9b477541634c9c6c24bd94a493f4fadd9732a3a6a1903a7368b"
+    },
+    {
+      "external_ref": "propertyhub-6135373",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36422 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36422 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36422 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 16,000 THB. Source PropertyHub #6135373.",
+        "zh": "出租：1卧，31㎡，16,000 泰铢。来源 PropertyHub #6135373。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 16,000 บาท (PropertyHub #6135373)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6135373. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6135373。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6135373 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-chapter-one-midtown-ladprao-24-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-36422-live-chat-with-us-add-line-connexproperty---6135373",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "074d9998a654c0488ff70b2db6bf75d07633116f803d592caee501c1bcee6896"
+    },
+    {
+      "external_ref": "propertyhub-6147877",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 39,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36529 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36529 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36529 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 39 sq.m., 20,000 THB. Source PropertyHub #6147877.",
+        "zh": "出租：1卧，39㎡，20,000 泰铢。来源 PropertyHub #6147877。",
+        "th": "เช่า: 1 นอน 39 ตร.ม. ราคา 20,000 บาท (PropertyHub #6147877)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6147877. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6147877。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6147877 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-chapter-one-midtown-ladprao-24-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-36529-live-chat-with-us-add-line-connexproperty---6147877",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "4d679eb4e2d8f845f700ae9ec3778916ea49ebab3ae03577538f56693419a74a"
+    },
+    {
+      "external_ref": "propertyhub-6147899",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "24",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Rent Condo , Chapter One Midtown Ladprao 24 , MRT-Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-145476 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , Chapter One Midtown Ladprao 24 , MRT-Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-145476 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , Chapter One Midtown Ladprao 24 , MRT-Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-145476 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 24 sq.m., 14,500 THB. Source PropertyHub #6147899.",
+        "zh": "出租：1卧，24㎡，14,500 泰铢。来源 PropertyHub #6147899。",
+        "th": "เช่า: 1 นอน 24 ตร.ม. ราคา 14,500 บาท (PropertyHub #6147899)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6147899. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6147899。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6147899 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-chapter-one-midtown-ladprao-24-mrt-lat-phrao-chomphon-chatuchak-bangkok-cx-145476-live-chat-with-us-add-line-connexproperty---6147899",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "908c8163fe4e71de66f17a7b726d128513c432cfd14bdbdec0fca44f9918a000"
+    },
+    {
+      "external_ref": "propertyhub-6182575",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36327 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36327 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36327 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 24 sq.m., 12,000 THB. Source PropertyHub #6182575.",
+        "zh": "出租：1卧，24㎡，12,000 泰铢。来源 PropertyHub #6182575。",
+        "th": "เช่า: 1 นอน 24 ตร.ม. ราคา 12,000 บาท (PropertyHub #6182575)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6182575. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6182575。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6182575 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-chapter-one-midtown-ladprao-24-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-36327-live-chat-with-us-add-line-connexproperty--a9ee095a---6182575",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "4f928f16eb89bd771d2dfff5a2eaa582ec8c23a13adc69551a567b3e6bad98dc"
+    },
+    {
+      "external_ref": "propertyhub-4539231",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36302 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36302 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36302 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 24 sq.m., 14,000 THB. Source PropertyHub #4539231.",
+        "zh": "出租：1卧，24㎡，14,000 泰铢。来源 PropertyHub #4539231。",
+        "th": "เช่า: 1 นอน 24 ตร.ม. ราคา 14,000 บาท (PropertyHub #4539231)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4539231. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4539231。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4539231 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-chapter-one-midtown-ladprao-24-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-36302-live-chat-with-us-add-line-connexproperty---4539231",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "8fcbe3eaa53c78b5e9ef259ca4bf9b869ab7e35f4399abe39dd2330ca068879f"
+    },
+    {
+      "external_ref": "propertyhub-4554749",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36325 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36325 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36325 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 24 sq.m., 12,000 THB. Source PropertyHub #4554749.",
+        "zh": "出租：1卧，24㎡，12,000 泰铢。来源 PropertyHub #4554749。",
+        "th": "เช่า: 1 นอน 24 ตร.ม. ราคา 12,000 บาท (PropertyHub #4554749)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4554749. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4554749。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4554749 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-chapter-one-midtown-ladprao-24-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-36325-live-chat-with-us-add-line-connexproperty--b7ee09ab---4554749",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "b83d8eba9f00fc744de735d51417fc74c55918ef74cb48a37d40bc4ad0d093f2"
+    },
+    {
+      "external_ref": "propertyhub-5222779",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 23.78,
+      "floor_label": "33",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36386 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36386 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36386 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 23.78 sq.m., 13,000 THB. Source PropertyHub #5222779.",
+        "zh": "出租：1卧，23.78㎡，13,000 泰铢。来源 PropertyHub #5222779。",
+        "th": "เช่า: 1 นอน 23.78 ตร.ม. ราคา 13,000 บาท (PropertyHub #5222779)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5222779. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5222779。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5222779 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-chapter-one-midtown-ladprao-24-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-36386-live-chat-with-us-add-line-connexproperty--a6dd096a---5222779",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "457eb13eb814a57bfc235cdd490c1ba6fb87d5cbcec7f48740f1dade8ef25497"
+    },
+    {
+      "external_ref": "propertyhub-6031903",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36448 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36448 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-36448 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 16,000 THB. Source PropertyHub #6031903.",
+        "zh": "出租：1卧，30㎡，16,000 泰铢。来源 PropertyHub #6031903。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 16,000 บาท (PropertyHub #6031903)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6031903. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6031903。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6031903 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-chapter-one-midtown-ladprao-24-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-36448-live-chat-with-us-add-line-connexproperty--b3c6097e---6031903",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "e4a3aee971d36676c2e7bd7216fc2d2e7d98a7ea45fb7a705ac617e8be8344ad"
+    },
+    {
+      "external_ref": "propertyhub-6203812",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "27",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-80921 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-80921 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , Chapter One Midtown Ladprao 24 , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-80921 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 15,000 THB. Source PropertyHub #6203812.",
+        "zh": "出租：1卧，30㎡，15,000 泰铢。来源 PropertyHub #6203812。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 15,000 บาท (PropertyHub #6203812)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6203812. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6203812。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6203812 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-chapter-one-midtown-ladprao-24-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-80921-live-chat-with-us-add-line-connexproperty---6203812",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.80647334990424,
+      "longitude": 100.5727518991357,
+      "duplicate_fingerprint": "2f2078f7ab0d0392f9d43d1786b2ea3218c21ac5376635910cd7e0883857b8d9"
+    }
+  ]
+}

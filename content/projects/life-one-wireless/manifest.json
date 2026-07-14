@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Life One Wireless official / developer page",
       "url": "https://www.apthai.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/life-one-wireless"
     }
   ],
   "developer": {
@@ -55,13 +60,15 @@
       "th": "ปทุมวัน กรุงเทพฯ"
     },
     "postal_code": "10330",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.748008595979432,
+    "longitude": 100.54857880153557,
+    "google_maps_url": "https://www.google.com/maps?q=13.748008595979432,100.54857880153557",
     "official_website": "https://www.apthai.com/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["bts"],
+    "facebook_url": "https://www.facebook.com/APthai",
+    "completion_year": 2020,
+    "transit_tags": [
+      "bts"
+    ],
     "seo": {
       "title": {
         "en": "Life One Wireless Condo in Pathum Wan, Bangkok | GoThailandHome",
@@ -73,6 +80,435 @@
         "zh": "Life One Wireless项目页（曼谷巴吞旺），来源为开发商官方站点。",
         "th": "หน้าโครงการ ไลฟ์ วัน ไวร์เลส เขตปทุมวัน อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "library",
+        "name": {
+          "en": "Library",
+          "zh": "Library",
+          "th": "Library"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Chulalongkorn University",
+          "zh": "Chulalongkorn University",
+          "th": "Chulalongkorn University"
+        },
+        "distance_m": 3228,
+        "slug": "chulalongkorn-university",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasanmit Campus",
+          "zh": "Srinakharinwirot University Prasanmit Campus",
+          "th": "Srinakharinwirot University Prasanmit Campus"
+        },
+        "distance_m": 2394,
+        "slug": "srinakharinwirot-university-prasanmit-campus",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "University of the Thai Chamber of Commerce",
+          "zh": "University of the Thai Chamber of Commerce",
+          "th": "University of the Thai Chamber of Commerce"
+        },
+        "distance_m": 5576,
+        "slug": "university-of-the-thai-chamber-of-commerce",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Mahidol University Phaya Thai",
+          "zh": "Mahidol University Phaya Thai",
+          "th": "Mahidol University Phaya Thai"
+        },
+        "distance_m": 3960,
+        "slug": "mahidol-university-phaya-thai",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Borom Ratchachonnani Bangkok Nursing College",
+          "zh": "Borom Ratchachonnani Bangkok Nursing College",
+          "th": "Borom Ratchachonnani Bangkok Nursing College"
+        },
+        "distance_m": 2925,
+        "slug": "borom-ratchachonnani-bangkok-nursing-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phramongkutklao College of Medicine",
+          "zh": "Phramongkutklao College of Medicine",
+          "th": "Phramongkutklao College of Medicine"
+        },
+        "distance_m": 4034,
+        "slug": "phramongkutklao-college-of-medicine",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Royal Thai Army Nursing College",
+          "zh": "Royal Thai Army Nursing College",
+          "th": "Royal Thai Army Nursing College"
+        },
+        "distance_m": 4068,
+        "slug": "royal-thai-army-nursing-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Pathumwan Institute of Technology",
+          "zh": "Pathumwan Institute of Technology",
+          "th": "Pathumwan Institute of Technology"
+        },
+        "distance_m": 2901,
+        "slug": "pathumwan-institute-of-technology",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "rutnin eye Hospital",
+          "zh": "rutnin eye Hospital",
+          "th": "rutnin eye Hospital"
+        },
+        "distance_m": 1889,
+        "slug": "rutnin-eye-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phraram 9 Hospital",
+          "zh": "Phraram 9 Hospital",
+          "th": "Phraram 9 Hospital"
+        },
+        "distance_m": 3026,
+        "slug": "phraram-9-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phyathai Hospital",
+          "zh": "Phyathai Hospital",
+          "th": "Phyathai Hospital"
+        },
+        "distance_m": 2052,
+        "slug": "phyathai-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "‎Rajavithi Hospital",
+          "zh": "‎Rajavithi Hospital",
+          "th": "‎Rajavithi Hospital"
+        },
+        "distance_m": null,
+        "slug": "‎rajavithi-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bumrungrat Hospital",
+          "zh": "Bumrungrat Hospital",
+          "th": "Bumrungrat Hospital"
+        },
+        "distance_m": 1277,
+        "slug": "bumrungrat-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok Nursing Home Hospital",
+          "zh": "Bangkok Nursing Home Hospital",
+          "th": "Bangkok Nursing Home Hospital"
+        },
+        "distance_m": 3754,
+        "slug": "bangkok-nursing-home-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Hua Chiao Hospital",
+          "zh": "Hua Chiao Hospital",
+          "th": "Hua Chiao Hospital"
+        },
+        "distance_m": 4042,
+        "slug": "hua-chiao-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Hospital for Tropical Diseases Mahidol University",
+          "zh": "Hospital for Tropical Diseases Mahidol University",
+          "th": "Hospital for Tropical Diseases Mahidol University"
+        },
+        "distance_m": 3531,
+        "slug": "hospital-for-tropical-diseases-mahidol-university",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Robinson Sukhumvit",
+          "zh": "Robinson Sukhumvit",
+          "th": "Robinson Sukhumvit"
+        },
+        "distance_m": 2202,
+        "slug": "robinson-sukhumvit",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Siam Center",
+          "zh": "Siam Center",
+          "th": "Siam Center"
+        },
+        "distance_m": 2262,
+        "slug": "siam-center",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Terminal 21 Asok",
+          "zh": "Terminal 21 Asok",
+          "th": "Terminal 21 Asok"
+        },
+        "distance_m": 2385,
+        "slug": "terminal-21-asok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Platinum Fashion Mall",
+          "zh": "The Platinum Fashion Mall",
+          "th": "The Platinum Fashion Mall"
+        },
+        "distance_m": null,
+        "slug": "the-platinum-fashion-mall",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "One Bangkok",
+          "zh": "One Bangkok",
+          "th": "One Bangkok"
+        },
+        "distance_m": null,
+        "slug": "one-bangkok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central World Department Store",
+          "zh": "Central World Department Store",
+          "th": "Central World Department Store"
+        },
+        "distance_m": 1239,
+        "slug": "central-world-department-store",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Chit Lom",
+          "zh": "Central Chit Lom",
+          "th": "Central Chit Lom"
+        },
+        "distance_m": 1016,
+        "slug": "central-chit-lom",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Pra Tu Nam Center Department Store",
+          "zh": "Pra Tu Nam Center Department Store",
+          "th": "Pra Tu Nam Center Department Store"
+        },
+        "distance_m": 1203,
+        "slug": "pra-tu-nam-center-department-store",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Robinson Sukhumvit",
+          "zh": "Robinson Sukhumvit",
+          "th": "Robinson Sukhumvit"
+        },
+        "distance_m": 2202,
+        "slug": "robinson-sukhumvit",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Siam Center",
+          "zh": "Siam Center",
+          "th": "Siam Center"
+        },
+        "distance_m": 2262,
+        "slug": "siam-center",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Terminal 21 Asok",
+          "zh": "Terminal 21 Asok",
+          "th": "Terminal 21 Asok"
+        },
+        "distance_m": 2385,
+        "slug": "terminal-21-asok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Platinum Fashion Mall",
+          "zh": "The Platinum Fashion Mall",
+          "th": "The Platinum Fashion Mall"
+        },
+        "distance_m": null,
+        "slug": "the-platinum-fashion-mall",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "One Bangkok",
+          "zh": "One Bangkok",
+          "th": "One Bangkok"
+        },
+        "distance_m": null,
+        "slug": "one-bangkok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central World Department Store",
+          "zh": "Central World Department Store",
+          "th": "Central World Department Store"
+        },
+        "distance_m": 1239,
+        "slug": "central-world-department-store",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Chit Lom",
+          "zh": "Central Chit Lom",
+          "th": "Central Chit Lom"
+        },
+        "distance_m": 1016,
+        "slug": "central-chit-lom",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Pra Tu Nam Center Department Store",
+          "zh": "Pra Tu Nam Center Department Store",
+          "th": "Pra Tu Nam Center Department Store"
+        },
+        "distance_m": 1203,
+        "slug": "pra-tu-nam-center-department-store",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2020.",
+          "zh": "PropertyHub 记载完工年份为 2020。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2020"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 1344 total units.",
+          "zh": "PropertyHub 记载总套数为 1344。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 1344"
+        }
+      }
+    ]
   }
 }

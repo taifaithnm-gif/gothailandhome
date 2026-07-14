@@ -100,7 +100,12 @@
     "country_code": "TH"
   },
   "project": {
-    "transit_tags": ["mrt", "mrt-orange", "mrt-yellow", "mrt-brown-planned"],
+    "transit_tags": [
+      "mrt",
+      "mrt-orange",
+      "mrt-yellow",
+      "mrt-brown-planned"
+    ],
     "name": {
       "en": "The Livin Ramkhamhaeng",
       "zh": "The Livin Ramkhamhaeng（德利温·蓝康恒）",
@@ -117,8 +122,8 @@
       "th": "ซอยรามคำแหง 97/2 แขวงหัวหมาก เขตบางกะปิ กรุงเทพมหานคร 10240"
     },
     "postal_code": "10240",
-    "latitude": 13.763,
-    "longitude": 100.647,
+    "latitude": 13.763382954807934,
+    "longitude": 100.64936679779215,
     "google_maps_url": "https://g.co/kgs/q1r96u",
     "coordinate_note": "Google Maps place payload for “The Livin Ramkhamhaeng” resolves to approx. lat 13.763, lng 100.647. PropertyHub project map markers in the same cluster include 13.763383, 100.649367.",
     "official_website": "https://www.livinram.com/en",
@@ -205,139 +210,76 @@
     ],
     "facilities": [
       {
-        "zone": {
-          "en": "Ground floor",
-          "zh": "一楼",
-          "th": "ชั้นล่าง"
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
         },
-        "items": [
-          {
-            "en": "Lobby",
-            "zh": "大堂",
-            "th": "ล็อบบี้"
-          },
-          {
-            "en": "Livin Park",
-            "zh": "Livin Park",
-            "th": "ลิฟวิ่นพาร์ค"
-          }
-        ],
-        "source": "https://www.livinram.com/en"
+        "source": "propertyhub"
       },
       {
-        "zone": {
-          "en": "7th floor",
-          "zh": "7 楼",
-          "th": "ชั้น 7"
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
         },
-        "items": [
-          {
-            "en": "LIVIN Edge Lap Pool",
-            "zh": "无边泳池",
-            "th": "สระว่ายน้ำขอบinfinity"
-          },
-          {
-            "en": "LIVIN Gym",
-            "zh": "健身房",
-            "th": "ฟิตเนส"
-          },
-          {
-            "en": "LIVIN Boxing Hit",
-            "zh": "拳击区",
-            "th": "โซนมวย"
-          },
-          {
-            "en": "LIVIN Lounge",
-            "zh": "休闲廊",
-            "th": "เลานจ์"
-          },
-          {
-            "en": "LIVIN Yoga",
-            "zh": "瑜伽区",
-            "th": "โซนโยคะ"
-          },
-          {
-            "en": "LIVIN Kids Planet",
-            "zh": "儿童区",
-            "th": "โซนเด็ก"
-          }
-        ],
-        "source": "https://www.livinram.com/en"
+        "source": "propertyhub"
       },
       {
-        "zone": {
-          "en": "42nd floor",
-          "zh": "42 楼",
-          "th": "ชั้น 42"
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
         },
-        "items": [
-          {
-            "en": "LIVIN Co-kitchen Studio",
-            "zh": "共用厨房工作室",
-            "th": "ครัวร่วม / โค-คิทเช่น"
-          },
-          {
-            "en": "LIVIN Board Game Center",
-            "zh": "桌游中心",
-            "th": "บอร์ดเกมเซ็นเตอร์"
-          },
-          {
-            "en": "LIVIN Game Club",
-            "zh": "游戏俱乐部",
-            "th": "เกมคลับ"
-          },
-          {
-            "en": "LIVIN E-Sport Entertainment",
-            "zh": "电竞娱乐",
-            "th": "อีสปอร์ต"
-          },
-          {
-            "en": "LIVIN Theater Room",
-            "zh": "影音室",
-            "th": "โรงภาพยนตร์ส่วนกลาง"
-          },
-          {
-            "en": "LIVIN Co-Working Space",
-            "zh": "联合办公",
-            "th": "โคเวิร์กกิ้งสเปซ"
-          },
-          {
-            "en": "LIVIN Work Shop Studio",
-            "zh": "工坊工作室",
-            "th": "เวิร์กช็อปสตูดิโอ"
-          },
-          {
-            "en": "LIVIN Business Center",
-            "zh": "商务中心",
-            "th": "บิสซิเนสเซ็นเตอร์"
-          },
-          {
-            "en": "LIVIN Meeting Room",
-            "zh": "会议室",
-            "th": "ห้องประชุม"
-          }
-        ],
-        "source": "https://www.livinram.com/en"
+        "source": "propertyhub"
       },
       {
-        "zone": {
-          "en": "Rooftop",
-          "zh": "天台",
-          "th": "ดาดฟ้า"
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
         },
-        "items": [
-          {
-            "en": "LIVIN Jogging Track",
-            "zh": "慢跑道",
-            "th": "ลู่วิ่งดาดฟ้า"
-          },
-          {
-            "en": "Roof Top Garden",
-            "zh": "屋顶花园",
-            "th": "สวนดาดฟ้า"
-          }
-        ],
-        "source": "https://www.livinram.com/en"
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
       }
     ],
     "transportation": [
@@ -386,169 +328,177 @@
     "nearby_schools": [
       {
         "name": {
-          "en": "Hua Mak Kindergarten",
-          "zh": "华目幼儿园",
-          "th": "โรงเรียนอนุบาลหัวหมาก"
+          "en": "Rattana Bandit University (Rbac)",
+          "zh": "Rattana Bandit University (Rbac)",
+          "th": "Rattana Bandit University (Rbac)"
         },
-        "distance": "200 m",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 2977,
+        "slug": "rattana-bandit-university-rbac",
+        "source": "propertyhub"
       },
       {
         "name": {
-          "en": "Ramkhamhaeng Advent International School",
-          "zh": "蓝康恒复临国际学校",
-          "th": "โรงเรียนนานาชาติแอดเวนทิสต์ รามคำแหง"
+          "en": "Assumption University Huamark Campus (Abac Huamark)",
+          "zh": "Assumption University Huamark Campus (Abac Huamark)",
+          "th": "Assumption University Huamark Campus (Abac Huamark)"
         },
-        "distance": "1.2 km",
-        "source": "https://www.livinram.com/en"
-      },
-      {
-        "name": {
-          "en": "Mandarin International School (MIS)",
-          "zh": "曼德林国际学校（MIS）",
-          "th": "โรงเรียนนานาชาติแมนดาริน"
-        },
-        "distance": "1.4 km",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 3080,
+        "slug": "assumption-university-huamark-campus-abac-huamark",
+        "source": "propertyhub"
       },
       {
         "name": {
           "en": "National Institute of Development Administration (NIDA)",
-          "zh": "国家发展行政学院（NIDA）",
-          "th": "สถาบันบัณฑิตพัฒนบริหารศาสตร์ (นิด้า)"
+          "zh": "National Institute of Development Administration (NIDA)",
+          "th": "National Institute of Development Administration (NIDA)"
         },
-        "distance": "1.8 km",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 1621,
+        "slug": "national-institute-of-development-administration-nida",
+        "source": "propertyhub"
       },
       {
         "name": {
-          "en": "Ramkhamhaeng University",
-          "zh": "蓝康恒大学",
-          "th": "มหาวิทยาลัยรามคำแหง"
+          "en": "Kasem Bundit Phatthanakan University ",
+          "zh": "Kasem Bundit Phatthanakan University ",
+          "th": "Kasem Bundit Phatthanakan University "
         },
-        "distance": "3.7 km",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 5231,
+        "slug": "kasem-bundit-phatthanakan-university",
+        "source": "propertyhub"
       },
       {
         "name": {
-          "en": "Wellington College International School",
-          "zh": "惠灵顿国际学校",
-          "th": "โรงเรียนนานาชาติเวลลิงตันคอลเลจ"
+          "en": "Sukum Navapan Uppathum School ",
+          "zh": "Sukum Navapan Uppathum School ",
+          "th": "Sukum Navapan Uppathum School "
         },
-        "distance": "4 km",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 3976,
+        "slug": "sukum-navapan-uppathum-school",
+        "source": "propertyhub"
       },
       {
         "name": {
-          "en": "Assumption University (Huamark)",
-          "zh": "易三仓大学（华目校区）",
-          "th": "มหาวิทยาลัยอัสสัมชัญ (หัวหมาก)"
+          "en": "Khlong Kacha School",
+          "zh": "Khlong Kacha School",
+          "th": "Khlong Kacha School"
         },
-        "distance": "4.4 km",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 3775,
+        "slug": "khlong-kacha-school",
+        "source": "propertyhub"
       },
       {
         "name": {
-          "en": "Bodindecha (Sing Singhaseni) School",
-          "zh": "博丁德查学校",
-          "th": "โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี)"
+          "en": "Ladprao Bilingual School",
+          "zh": "Ladprao Bilingual School",
+          "th": "Ladprao Bilingual School"
         },
-        "distance": "4.8 km",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 3240,
+        "slug": "ladprao-bilingual-school",
+        "source": "propertyhub"
       }
     ],
     "nearby_hospitals": [
       {
         "name": {
+          "en": "Kasemrad Ramkhamhaeng Hospital",
+          "zh": "Kasemrad Ramkhamhaeng Hospital",
+          "th": "Kasemrad Ramkhamhaeng Hospital"
+        },
+        "distance_m": null,
+        "slug": "kasemrad-ramkhamhaeng-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
           "en": "Ramkhamhaeng Hospital",
-          "zh": "蓝康恒医院",
-          "th": "โรงพยาบาลรามคำแหง"
+          "zh": "Ramkhamhaeng Hospital",
+          "th": "Ramkhamhaeng Hospital"
         },
-        "distance": "1.4 km",
-        "source": "https://www.livinram.com/en"
-      },
-      {
-        "name": {
-          "en": "Vejthani Hospital",
-          "zh": "威塔尼医院",
-          "th": "โรงพยาบาลเวชธานี"
-        },
-        "distance": "2 km",
-        "source": "https://www.livinram.com/en"
-      },
-      {
-        "name": {
-          "en": "Kasemrad Hospital",
-          "zh": "加森拉德医院",
-          "th": "โรงพยาบาลเกษมราษฎร์"
-        },
-        "distance": "3.5 km",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 1573,
+        "slug": "ramkhamhaeng-hospital",
+        "source": "propertyhub"
       },
       {
         "name": {
           "en": "Samitivej Srinakarin Hospital",
-          "zh": "三美医院诗丽吉分院",
-          "th": "โรงพยาบาลสมิติเวช ศรีนครินทร์"
+          "zh": "Samitivej Srinakarin Hospital",
+          "th": "Samitivej Srinakarin Hospital"
         },
-        "distance": "4 km",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 3127,
+        "slug": "samitivej-srinakarin-hospital",
+        "source": "propertyhub"
       }
     ],
     "nearby_malls": [
       {
         "name": {
-          "en": "Tesco Lotus Bangkapi",
-          "zh": "Tesco Lotus 挽甲必",
-          "th": "เทสโก้ โลตัส บางกะปิ"
+          "en": "Tesco Lotus Superstore Bang Kapi",
+          "zh": "Tesco Lotus Superstore Bang Kapi",
+          "th": "Tesco Lotus Superstore Bang Kapi"
         },
-        "distance": "800 m",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 905,
+        "slug": "tesco-lotus-superstore-bang-kapi",
+        "source": "propertyhub"
       },
       {
         "name": {
-          "en": "The Mall Bangkapi",
-          "zh": "The Mall 挽甲必",
-          "th": "เดอะมอลล์บางกะปิ"
+          "en": "Big C Extra Sukhaphiban 3",
+          "zh": "Big C Extra Sukhaphiban 3",
+          "th": "Big C Extra Sukhaphiban 3"
         },
-        "distance": "950 m",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 1577,
+        "slug": "big-c-extra-sukhaphiban-3",
+        "source": "propertyhub"
       },
       {
         "name": {
-          "en": "Makro Bangkapi",
-          "zh": "Makro 挽甲必",
-          "th": "แม็คโครบางกะปิ"
+          "en": "Makro Ladprao (Makro Lat Phrao)",
+          "zh": "Makro Ladprao (Makro Lat Phrao)",
+          "th": "Makro Ladprao (Makro Lat Phrao)"
         },
-        "distance": "1.2 km",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 1370,
+        "slug": "makro-ladprao-makro-lat-phrao",
+        "source": "propertyhub"
       },
       {
         "name": {
-          "en": "Big C Extra",
-          "zh": "Big C Extra",
-          "th": "บิ๊กซี เอ็กซ์ตร้า"
+          "en": "HomePro Ramkumhaeng",
+          "zh": "HomePro Ramkumhaeng",
+          "th": "HomePro Ramkumhaeng"
         },
-        "distance": "1.2 km",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 1625,
+        "slug": "homepro-ramkumhaeng",
+        "source": "propertyhub"
       },
       {
         "name": {
-          "en": "HomePro",
-          "zh": "HomePro",
-          "th": "โฮมโปร"
+          "en": "Tesco Lotus Market Seri Thai",
+          "zh": "Tesco Lotus Market Seri Thai",
+          "th": "Tesco Lotus Market Seri Thai"
         },
-        "distance": "1.3 km",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 3857,
+        "slug": "tesco-lotus-market-seri-thai",
+        "source": "propertyhub"
       },
       {
         "name": {
-          "en": "Paseo Town",
-          "zh": "Paseo Town",
-          "th": "พาซิโอ ทาวน์"
+          "en": "The Mall Bang Kapi",
+          "zh": "The Mall Bang Kapi",
+          "th": "The Mall Bang Kapi"
         },
-        "distance": "2.3 km",
-        "source": "https://www.livinram.com/en"
+        "distance_m": 1073,
+        "slug": "the-mall-bang-kapi",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Paseo Town Ramkhamhaeng ",
+          "zh": "The Paseo Town Ramkhamhaeng ",
+          "th": "The Paseo Town Ramkhamhaeng "
+        },
+        "distance_m": 2507,
+        "slug": "the-paseo-town-ramkhamhaeng",
+        "source": "propertyhub"
       }
     ],
     "faq": [
@@ -639,7 +589,80 @@
     },
     "og_image_path": "/og/projects/the-livin-ramkhamhaeng.svg",
     "hero_image_path": "/projects/the-livin-ramkhamhaeng/hero-placeholder.svg",
-    "source_notes": "Distances and facility names are taken from the official project website. Building counts/units/parking/year from PropertyHub and Zmyhome public project pages."
+    "source_notes": "Distances and facility names are taken from the official project website. Building counts/units/parking/year from PropertyHub and Zmyhome public project pages.",
+    "construction_status": "completed",
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Bang Kapi",
+          "zh": "Tesco Lotus Superstore Bang Kapi",
+          "th": "Tesco Lotus Superstore Bang Kapi"
+        },
+        "distance_m": 905,
+        "slug": "tesco-lotus-superstore-bang-kapi",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Sukhaphiban 3",
+          "zh": "Big C Extra Sukhaphiban 3",
+          "th": "Big C Extra Sukhaphiban 3"
+        },
+        "distance_m": 1577,
+        "slug": "big-c-extra-sukhaphiban-3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Makro Ladprao (Makro Lat Phrao)",
+          "zh": "Makro Ladprao (Makro Lat Phrao)",
+          "th": "Makro Ladprao (Makro Lat Phrao)"
+        },
+        "distance_m": 1370,
+        "slug": "makro-ladprao-makro-lat-phrao",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Ramkumhaeng",
+          "zh": "HomePro Ramkumhaeng",
+          "th": "HomePro Ramkumhaeng"
+        },
+        "distance_m": 1625,
+        "slug": "homepro-ramkumhaeng",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Market Seri Thai",
+          "zh": "Tesco Lotus Market Seri Thai",
+          "th": "Tesco Lotus Market Seri Thai"
+        },
+        "distance_m": 3857,
+        "slug": "tesco-lotus-market-seri-thai",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Mall Bang Kapi",
+          "zh": "The Mall Bang Kapi",
+          "th": "The Mall Bang Kapi"
+        },
+        "distance_m": 1073,
+        "slug": "the-mall-bang-kapi",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "The Paseo Town Ramkhamhaeng ",
+          "zh": "The Paseo Town Ramkhamhaeng ",
+          "th": "The Paseo Town Ramkhamhaeng "
+        },
+        "distance_m": 2507,
+        "slug": "the-paseo-town-ramkhamhaeng",
+        "source": "propertyhub"
+      }
+    ]
   },
   "ads": {
     "landing_path": "/projects/the-livin-ramkhamhaeng",

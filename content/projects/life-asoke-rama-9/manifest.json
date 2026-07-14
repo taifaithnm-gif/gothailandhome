@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Life Asoke Rama 9 official / developer page",
       "url": "https://www.apthai.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/life-asoke-rama-9"
     }
   ],
   "developer": {
@@ -55,13 +60,17 @@
       "th": "ห้วยขวาง กรุงเทพฯ"
     },
     "postal_code": "10310",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.75459731843653,
+    "longitude": 100.5646049728262,
+    "google_maps_url": "https://www.google.com/maps?q=13.75459731843653,100.5646049728262",
     "official_website": "https://www.apthai.com/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["mrt", "mrt-blue"],
+    "facebook_url": "https://www.facebook.com/APthai",
+    "completion_year": 2020,
+    "transit_tags": [
+      "mrt",
+      "mrt-blue",
+      "arl"
+    ],
     "seo": {
       "title": {
         "en": "Life Asoke Rama 9 Condo in Huai Khwang, Bangkok | GoThailandHome",
@@ -73,6 +82,375 @@
         "zh": "Life Asoke 拉玛九项目页（曼谷辉煌），来源为开发商官方站点。",
         "th": "หน้าโครงการ ไลฟ์ อโศก พระราม 9 เขตห้วยขวาง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "zh": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "th": "Srinakharinwirot University Prasarnmit Demonstration School"
+        },
+        "distance_m": 1844,
+        "slug": "srinakharinwirot-university-prasarnmit-demonstration-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thai Christian School",
+          "zh": "Thai Christian School",
+          "th": "Thai Christian School"
+        },
+        "distance_m": 5495,
+        "slug": "thai-christian-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasanmit Campus",
+          "zh": "Srinakharinwirot University Prasanmit Campus",
+          "th": "Srinakharinwirot University Prasanmit Campus"
+        },
+        "distance_m": 1424,
+        "slug": "srinakharinwirot-university-prasanmit-campus",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "University of the Thai Chamber of Commerce",
+          "zh": "University of the Thai Chamber of Commerce",
+          "th": "University of the Thai Chamber of Commerce"
+        },
+        "distance_m": 3977,
+        "slug": "university-of-the-thai-chamber-of-commerce",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "rutnin eye Hospital",
+          "zh": "rutnin eye Hospital",
+          "th": "rutnin eye Hospital"
+        },
+        "distance_m": 920,
+        "slug": "rutnin-eye-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phraram 9 Hospital",
+          "zh": "Phraram 9 Hospital",
+          "th": "Phraram 9 Hospital"
+        },
+        "distance_m": 1058,
+        "slug": "phraram-9-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Camillian Hospital",
+          "zh": "Camillian Hospital",
+          "th": "Camillian Hospital"
+        },
+        "distance_m": 3605,
+        "slug": "camillian-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok Hospital",
+          "zh": "Bangkok Hospital",
+          "th": "Bangkok Hospital"
+        },
+        "distance_m": 3591,
+        "slug": "bangkok-hospital--af4c09c5",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Piyawet Hospital",
+          "zh": "Piyawet Hospital",
+          "th": "Piyawet Hospital"
+        },
+        "distance_m": 1801,
+        "slug": "piyawet-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bumrungrat Hospital",
+          "zh": "Bumrungrat Hospital",
+          "th": "Bumrungrat Hospital"
+        },
+        "distance_m": 2214,
+        "slug": "bumrungrat-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Robinson Sukhumvit",
+          "zh": "Robinson Sukhumvit",
+          "th": "Robinson Sukhumvit"
+        },
+        "distance_m": 2106,
+        "slug": "robinson-sukhumvit",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Robinson Ratchadaphisek",
+          "zh": "Robinson Ratchadaphisek",
+          "th": "Robinson Ratchadaphisek"
+        },
+        "distance_m": 2056,
+        "slug": "robinson-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Terminal 21 Asok",
+          "zh": "Terminal 21 Asok",
+          "th": "Terminal 21 Asok"
+        },
+        "distance_m": 2262,
+        "slug": "terminal-21-asok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central World Department Store",
+          "zh": "Central World Department Store",
+          "th": "Central World Department Store"
+        },
+        "distance_m": 3417,
+        "slug": "central-world-department-store",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Plaza Grand Rama 9",
+          "zh": "Central Plaza Grand Rama 9",
+          "th": "Central Plaza Grand Rama 9"
+        },
+        "distance_m": 724,
+        "slug": "central-plaza-grand-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Rama 4",
+          "zh": "Big C Extra Rama 4",
+          "th": "Big C Extra Rama 4"
+        },
+        "distance_m": 4345,
+        "slug": "big-c-extra-rama-4",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Ratchadamri",
+          "zh": "Big C Super Center Ratchadamri",
+          "th": "Big C Super Center Ratchadamri"
+        },
+        "distance_m": 3311,
+        "slug": "big-c-super-center-ratchadamri",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Ratchadaphisek",
+          "zh": "Big C Extra Ratchadaphisek",
+          "th": "Big C Extra Ratchadaphisek"
+        },
+        "distance_m": 2242,
+        "slug": "big-c-extra-ratchadaphisek",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Robinson Sukhumvit",
+          "zh": "Robinson Sukhumvit",
+          "th": "Robinson Sukhumvit"
+        },
+        "distance_m": 2106,
+        "slug": "robinson-sukhumvit",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Robinson Ratchadaphisek",
+          "zh": "Robinson Ratchadaphisek",
+          "th": "Robinson Ratchadaphisek"
+        },
+        "distance_m": 2056,
+        "slug": "robinson-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Terminal 21 Asok",
+          "zh": "Terminal 21 Asok",
+          "th": "Terminal 21 Asok"
+        },
+        "distance_m": 2262,
+        "slug": "terminal-21-asok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central World Department Store",
+          "zh": "Central World Department Store",
+          "th": "Central World Department Store"
+        },
+        "distance_m": 3417,
+        "slug": "central-world-department-store",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Plaza Grand Rama 9",
+          "zh": "Central Plaza Grand Rama 9",
+          "th": "Central Plaza Grand Rama 9"
+        },
+        "distance_m": 724,
+        "slug": "central-plaza-grand-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Rama 4",
+          "zh": "Big C Extra Rama 4",
+          "th": "Big C Extra Rama 4"
+        },
+        "distance_m": 4345,
+        "slug": "big-c-extra-rama-4",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Ratchadamri",
+          "zh": "Big C Super Center Ratchadamri",
+          "th": "Big C Super Center Ratchadamri"
+        },
+        "distance_m": 3311,
+        "slug": "big-c-super-center-ratchadamri",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Ratchadaphisek",
+          "zh": "Big C Extra Ratchadaphisek",
+          "th": "Big C Extra Ratchadaphisek"
+        },
+        "distance_m": 2242,
+        "slug": "big-c-extra-ratchadaphisek",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2020.",
+          "zh": "PropertyHub 记载完工年份为 2020。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2020"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 2248 total units.",
+          "zh": "PropertyHub 记载总套数为 2248。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 2248"
+        }
+      }
+    ]
   }
 }

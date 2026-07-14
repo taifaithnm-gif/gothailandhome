@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Maestro 03 Ratchada-Rama 9 official / developer page",
       "url": "https://www.major.co.th/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/maestro-03-ratchada-rama-9"
     }
   ],
   "developer": {
@@ -55,13 +60,15 @@
       "th": "ห้วยขวาง กรุงเทพฯ"
     },
     "postal_code": "10310",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.762672913088576,
+    "longitude": 100.56487046445274,
+    "google_maps_url": "https://www.google.com/maps?q=13.762672913088576,100.56487046445274",
     "official_website": "https://www.major.co.th/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["mrt"],
+    "facebook_url": "https://www.facebook.com/MajorDevelopment",
+    "completion_year": 2018,
+    "transit_tags": [
+      "mrt"
+    ],
     "seo": {
       "title": {
         "en": "Maestro 03 Ratchada-Rama 9 Condo in Huai Khwang, Bangkok | GoThailandHome",
@@ -73,6 +80,323 @@
         "zh": "Maestro 03 拉差达-拉玛九项目页（曼谷辉煌），来源为开发商官方站点。",
         "th": "หน้าโครงการ มาเอสโตร 03 รัชดาฯ-พระราม 9 เขตห้วยขวาง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "steam",
+        "name": {
+          "en": "Steam",
+          "zh": "Steam",
+          "th": "Steam"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": " Thai-Japanese Association School",
+          "zh": " Thai-Japanese Association School",
+          "th": " Thai-Japanese Association School"
+        },
+        "distance_m": 4553,
+        "slug": "thai-japanese-association-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "zh": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "th": "Srinakharinwirot University Prasarnmit Demonstration School"
+        },
+        "distance_m": 2868,
+        "slug": "srinakharinwirot-university-prasarnmit-demonstration-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Chan Hun Bumpen School",
+          "zh": "Chan Hun Bumpen School",
+          "th": "Chan Hun Bumpen School"
+        },
+        "distance_m": 3774,
+        "slug": "chan-hun-bumpen-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Kunnatee Rutharam Wittayakhom School",
+          "zh": "Kunnatee Rutharam Wittayakhom School",
+          "th": "Kunnatee Rutharam Wittayakhom School"
+        },
+        "distance_m": 2813,
+        "slug": "kunnatee-rutharam-wittayakhom-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasanmit Campus",
+          "zh": "Srinakharinwirot University Prasanmit Campus",
+          "th": "Srinakharinwirot University Prasanmit Campus"
+        },
+        "distance_m": 2449,
+        "slug": "srinakharinwirot-university-prasanmit-campus",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "University of the Thai Chamber of Commerce",
+          "zh": "University of the Thai Chamber of Commerce",
+          "th": "University of the Thai Chamber of Commerce"
+        },
+        "distance_m": 2998,
+        "slug": "university-of-the-thai-chamber-of-commerce",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Phraram 9 Hospital",
+          "zh": "Phraram 9 Hospital",
+          "th": "Phraram 9 Hospital"
+        },
+        "distance_m": 1744,
+        "slug": "phraram-9-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok Hospital",
+          "zh": "Bangkok Hospital",
+          "th": "Bangkok Hospital"
+        },
+        "distance_m": 4615,
+        "slug": "bangkok-hospital--af4c09c5",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "rutnin eye Hospital",
+          "zh": "rutnin eye Hospital",
+          "th": "rutnin eye Hospital"
+        },
+        "distance_m": 1944,
+        "slug": "rutnin-eye-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Piyawet Hospital",
+          "zh": "Piyawet Hospital",
+          "th": "Piyawet Hospital"
+        },
+        "distance_m": 2487,
+        "slug": "piyawet-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bumrungrat Hospital",
+          "zh": "Bumrungrat Hospital",
+          "th": "Bumrungrat Hospital"
+        },
+        "distance_m": 3238,
+        "slug": "bumrungrat-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Robinson Ratchadaphisek",
+          "zh": "Robinson Ratchadaphisek",
+          "th": "Robinson Ratchadaphisek"
+        },
+        "distance_m": 1422,
+        "slug": "robinson-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Plaza Grand Rama 9",
+          "zh": "Central Plaza Grand Rama 9",
+          "th": "Central Plaza Grand Rama 9"
+        },
+        "distance_m": 945,
+        "slug": "central-plaza-grand-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Ratchadaphisek",
+          "zh": "Big C Extra Ratchadaphisek",
+          "th": "Big C Extra Ratchadaphisek"
+        },
+        "distance_m": 1552,
+        "slug": "big-c-extra-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Plus Phoen Chit",
+          "zh": "HomePro Plus Phoen Chit",
+          "th": "HomePro Plus Phoen Chit"
+        },
+        "distance_m": 3953,
+        "slug": "homepro-plus-phoen-chit",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Robinson Ratchadaphisek",
+          "zh": "Robinson Ratchadaphisek",
+          "th": "Robinson Ratchadaphisek"
+        },
+        "distance_m": 1422,
+        "slug": "robinson-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Plaza Grand Rama 9",
+          "zh": "Central Plaza Grand Rama 9",
+          "th": "Central Plaza Grand Rama 9"
+        },
+        "distance_m": 945,
+        "slug": "central-plaza-grand-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Ratchadaphisek",
+          "zh": "Big C Extra Ratchadaphisek",
+          "th": "Big C Extra Ratchadaphisek"
+        },
+        "distance_m": 1552,
+        "slug": "big-c-extra-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "HomePro Plus Phoen Chit",
+          "zh": "HomePro Plus Phoen Chit",
+          "th": "HomePro Plus Phoen Chit"
+        },
+        "distance_m": 3953,
+        "slug": "homepro-plus-phoen-chit",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2018.",
+          "zh": "PropertyHub 记载完工年份为 2018。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2018"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 335 total units.",
+          "zh": "PropertyHub 记载总套数为 335。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 335"
+        }
+      }
+    ]
   }
 }

@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Supalai Oriental Sukhumvit 39 official / developer page",
       "url": "https://www.supalai.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/supalai-oriental-sukhumvit-39"
     }
   ],
   "developer": {
@@ -55,13 +60,16 @@
       "th": "วัฒนา กรุงเทพฯ"
     },
     "postal_code": "10110",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.74501692569838,
+    "longitude": 100.5728109056107,
+    "google_maps_url": "https://www.google.com/maps?q=13.74501692569838,100.5728109056107",
     "official_website": "https://www.supalai.com/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["bts"],
+    "facebook_url": "https://www.facebook.com/Supalai",
+    "completion_year": 2020,
+    "transit_tags": [
+      "bts",
+      "mrt"
+    ],
     "seo": {
       "title": {
         "en": "Supalai Oriental Sukhumvit 39 Condo in Watthana, Bangkok | GoThailandHome",
@@ -73,6 +81,443 @@
         "zh": "苏帕莱东方 素坤逸39项目页（曼谷瓦他那），来源为开发商官方站点。",
         "th": "หน้าโครงการ ศุภาลัย โอเรียนทัล สุขุมวิท 39 เขตวัฒนา อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "jacuzzi",
+        "name": {
+          "en": "Jacuzzi",
+          "zh": "Jacuzzi",
+          "th": "Jacuzzi"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Sai Namphueng School",
+          "zh": "Sai Namphueng School",
+          "th": "Sai Namphueng School"
+        },
+        "distance_m": 2807,
+        "slug": "sai-namphueng-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Thai Christian School",
+          "zh": "Thai Christian School",
+          "th": "Thai Christian School"
+        },
+        "distance_m": 3850,
+        "slug": "thai-christian-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": " Thai-Japanese Association School",
+          "zh": " Thai-Japanese Association School",
+          "th": " Thai-Japanese Association School"
+        },
+        "distance_m": 4511,
+        "slug": "thai-japanese-association-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "zh": "Srinakharinwirot University Prasarnmit Demonstration School",
+          "th": "Srinakharinwirot University Prasarnmit Demonstration School"
+        },
+        "distance_m": 1072,
+        "slug": "srinakharinwirot-university-prasarnmit-demonstration-school",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Srinakharinwirot University Prasanmit Campus",
+          "zh": "Srinakharinwirot University Prasanmit Campus",
+          "th": "Srinakharinwirot University Prasanmit Campus"
+        },
+        "distance_m": 1410,
+        "slug": "srinakharinwirot-university-prasanmit-campus",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok University",
+          "zh": "Bangkok University",
+          "th": "Bangkok University"
+        },
+        "distance_m": 4368,
+        "slug": "bangkok-university--3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Trinity International School",
+          "zh": "Trinity International School",
+          "th": "Trinity International School"
+        },
+        "distance_m": 3221,
+        "slug": "trinity-international-school",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Phraram 9 Hospital",
+          "zh": "Phraram 9 Hospital",
+          "th": "Phraram 9 Hospital"
+        },
+        "distance_m": 1405,
+        "slug": "phraram-9-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Camillian Hospital",
+          "zh": "Camillian Hospital",
+          "th": "Camillian Hospital"
+        },
+        "distance_m": 1932,
+        "slug": "camillian-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok Hospital",
+          "zh": "Bangkok Hospital",
+          "th": "Bangkok Hospital"
+        },
+        "distance_m": 2223,
+        "slug": "bangkok-hospital--af4c09c5",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "rutnin eye Hospital",
+          "zh": "rutnin eye Hospital",
+          "th": "rutnin eye Hospital"
+        },
+        "distance_m": 1471,
+        "slug": "rutnin-eye-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Piyawet Hospital",
+          "zh": "Piyawet Hospital",
+          "th": "Piyawet Hospital"
+        },
+        "distance_m": 1980,
+        "slug": "piyawet-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Samitivej Sukhumvit Hospital",
+          "zh": "Samitivej Sukhumvit Hospital",
+          "th": "Samitivej Sukhumvit Hospital"
+        },
+        "distance_m": 1898,
+        "slug": "samitivej-sukhumvit-hospital--2",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bumrungrat Hospital",
+          "zh": "Bumrungrat Hospital",
+          "th": "Bumrungrat Hospital"
+        },
+        "distance_m": 2797,
+        "slug": "bumrungrat-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Klong Tan Hospital ",
+          "zh": "Klong Tan Hospital ",
+          "th": "Klong Tan Hospital "
+        },
+        "distance_m": 2661,
+        "slug": "klong-tan-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Robinson Sukhumvit",
+          "zh": "Robinson Sukhumvit",
+          "th": "Robinson Sukhumvit"
+        },
+        "distance_m": 2676,
+        "slug": "robinson-sukhumvit",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Robinson Ratchadaphisek",
+          "zh": "Robinson Ratchadaphisek",
+          "th": "Robinson Ratchadaphisek"
+        },
+        "distance_m": 3659,
+        "slug": "robinson-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Terminal 21 Asok",
+          "zh": "Terminal 21 Asok",
+          "th": "Terminal 21 Asok"
+        },
+        "distance_m": 2465,
+        "slug": "terminal-21-asok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "DONKI Mall Thonglor  ",
+          "zh": "DONKI Mall Thonglor  ",
+          "th": "DONKI Mall Thonglor  "
+        },
+        "distance_m": null,
+        "slug": "donki-mall-thonglor",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Major Cineplex Ekkamai",
+          "zh": "Major Cineplex Ekkamai",
+          "th": "Major Cineplex Ekkamai"
+        },
+        "distance_m": 3506,
+        "slug": "major-cineplex-ekkamai",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Plaza Grand Rama 9",
+          "zh": "Central Plaza Grand Rama 9",
+          "th": "Central Plaza Grand Rama 9"
+        },
+        "distance_m": 2295,
+        "slug": "central-plaza-grand-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Extra Rama 4",
+          "zh": "Tesco Lotus Extra Rama 4",
+          "th": "Tesco Lotus Extra Rama 4"
+        },
+        "distance_m": null,
+        "slug": "tesco-lotus-extra-rama-4",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Rama 4",
+          "zh": "Big C Extra Rama 4",
+          "th": "Big C Extra Rama 4"
+        },
+        "distance_m": 3196,
+        "slug": "big-c-extra-rama-4",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Robinson Sukhumvit",
+          "zh": "Robinson Sukhumvit",
+          "th": "Robinson Sukhumvit"
+        },
+        "distance_m": 2676,
+        "slug": "robinson-sukhumvit",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Robinson Ratchadaphisek",
+          "zh": "Robinson Ratchadaphisek",
+          "th": "Robinson Ratchadaphisek"
+        },
+        "distance_m": 3659,
+        "slug": "robinson-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Terminal 21 Asok",
+          "zh": "Terminal 21 Asok",
+          "th": "Terminal 21 Asok"
+        },
+        "distance_m": 2465,
+        "slug": "terminal-21-asok",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "DONKI Mall Thonglor  ",
+          "zh": "DONKI Mall Thonglor  ",
+          "th": "DONKI Mall Thonglor  "
+        },
+        "distance_m": null,
+        "slug": "donki-mall-thonglor",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Major Cineplex Ekkamai",
+          "zh": "Major Cineplex Ekkamai",
+          "th": "Major Cineplex Ekkamai"
+        },
+        "distance_m": 3506,
+        "slug": "major-cineplex-ekkamai",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Plaza Grand Rama 9",
+          "zh": "Central Plaza Grand Rama 9",
+          "th": "Central Plaza Grand Rama 9"
+        },
+        "distance_m": 2295,
+        "slug": "central-plaza-grand-rama-9",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Extra Rama 4",
+          "zh": "Tesco Lotus Extra Rama 4",
+          "th": "Tesco Lotus Extra Rama 4"
+        },
+        "distance_m": null,
+        "slug": "tesco-lotus-extra-rama-4",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra Rama 4",
+          "zh": "Big C Extra Rama 4",
+          "th": "Big C Extra Rama 4"
+        },
+        "distance_m": 3196,
+        "slug": "big-c-extra-rama-4",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2020.",
+          "zh": "PropertyHub 记载完工年份为 2020。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2020"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 1046 total units.",
+          "zh": "PropertyHub 记载总套数为 1046。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 1046"
+        }
+      }
+    ]
   }
 }

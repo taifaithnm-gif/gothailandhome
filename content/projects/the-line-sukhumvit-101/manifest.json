@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "THE LINE Sukhumvit 101 official / developer page",
       "url": "https://www.sansiri.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/the-line-sukhumvit-101"
     }
   ],
   "developer": {
@@ -55,13 +60,15 @@
       "th": "พระโขนง กรุงเทพฯ"
     },
     "postal_code": "10260",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.691924907962246,
+    "longitude": 100.60792446304569,
+    "google_maps_url": "https://www.google.com/maps?q=13.691924907962246,100.60792446304569",
     "official_website": "https://www.sansiri.com/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["bts"],
+    "facebook_url": "https://www.facebook.com/SansiriPLC",
+    "completion_year": 2020,
+    "transit_tags": [
+      "bts"
+    ],
     "seo": {
       "title": {
         "en": "THE LINE Sukhumvit 101 Condo in Phra Khanong, Bangkok | GoThailandHome",
@@ -73,6 +80,292 @@
         "zh": "THE LINE 素坤逸101项目页（曼谷帕卡农），来源为开发商官方站点。",
         "th": "หน้าโครงการ เดอะ ไลน์ สุขุมวิท 101 เขตพระโขนง อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "jacuzzi",
+        "name": {
+          "en": "Jacuzzi",
+          "zh": "Jacuzzi",
+          "th": "Jacuzzi"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "motorcycle-parking",
+        "name": {
+          "en": "Motorcycle parking",
+          "zh": "Motorcycle parking",
+          "th": "Motorcycle parking"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Bangna Commercial College",
+          "zh": "Bangna Commercial College",
+          "th": "Bangna Commercial College"
+        },
+        "distance_m": 2556,
+        "slug": "bangna-commercial-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bangkok University",
+          "zh": "Bangkok University",
+          "th": "Bangkok University"
+        },
+        "distance_m": 4439,
+        "slug": "bangkok-university--3",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Berkeley International School",
+          "zh": "Berkeley International School",
+          "th": "Berkeley International School"
+        },
+        "distance_m": 3102,
+        "slug": "berkeley-international-school",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Kluaynamthai 2 Hospital ",
+          "zh": "Kluaynamthai 2 Hospital ",
+          "th": "Kluaynamthai 2 Hospital "
+        },
+        "distance_m": 1920,
+        "slug": "kluaynamthai-2-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Samrong Hospital",
+          "zh": "Samrong Hospital",
+          "th": "Samrong Hospital"
+        },
+        "distance_m": 6760,
+        "slug": "samrong-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Sukhumvit 50",
+          "zh": "Tesco Lotus Superstore Sukhumvit 50",
+          "th": "Tesco Lotus Superstore Sukhumvit 50"
+        },
+        "distance_m": 1870,
+        "slug": "tesco-lotus-superstore-sukhumvit-50",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Bang Na",
+          "zh": "Big C Bang Na",
+          "th": "Big C Bang Na"
+        },
+        "distance_m": 4978,
+        "slug": "big-c-bang-na",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra On Nut",
+          "zh": "Big C Extra On Nut",
+          "th": "Big C Extra On Nut"
+        },
+        "distance_m": 2330,
+        "slug": "big-c-extra-on-nut",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Plaza Bang Na",
+          "zh": "Central Plaza Bang Na",
+          "th": "Central Plaza Bang Na"
+        },
+        "distance_m": 5072,
+        "slug": "central-plaza-bang-na",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "True Digital Park",
+          "zh": "True Digital Park",
+          "th": "True Digital Park"
+        },
+        "distance_m": null,
+        "slug": "true-digital-park",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Sukhumvit 50",
+          "zh": "Tesco Lotus Superstore Sukhumvit 50",
+          "th": "Tesco Lotus Superstore Sukhumvit 50"
+        },
+        "distance_m": 1870,
+        "slug": "tesco-lotus-superstore-sukhumvit-50",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Bang Na",
+          "zh": "Big C Bang Na",
+          "th": "Big C Bang Na"
+        },
+        "distance_m": 4978,
+        "slug": "big-c-bang-na",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Extra On Nut",
+          "zh": "Big C Extra On Nut",
+          "th": "Big C Extra On Nut"
+        },
+        "distance_m": 2330,
+        "slug": "big-c-extra-on-nut",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Central Plaza Bang Na",
+          "zh": "Central Plaza Bang Na",
+          "th": "Central Plaza Bang Na"
+        },
+        "distance_m": 5072,
+        "slug": "central-plaza-bang-na",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "True Digital Park",
+          "zh": "True Digital Park",
+          "th": "True Digital Park"
+        },
+        "distance_m": null,
+        "slug": "true-digital-park",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2020.",
+          "zh": "PropertyHub 记载完工年份为 2020。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2020"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 778 total units.",
+          "zh": "PropertyHub 记载总套数为 778。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 778"
+        }
+      }
+    ]
   }
 }

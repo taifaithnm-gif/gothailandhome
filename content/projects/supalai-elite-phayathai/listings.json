@@ -1,0 +1,908 @@
+{
+  "project_slug": "supalai-elite-phayathai",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-5876841",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 61,
+      "floor_label": "27",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR 61 Sqm Condo At Supalai Elite Phayathai, 300m to ARL Ratchaprarop (ID 2715462)",
+        "zh": "1-BR 61 Sqm Condo At Supalai Elite Phayathai, 300m to ARL Ratchaprarop (ID 2715462)",
+        "th": "1-BR 61 Sqm Condo At Supalai Elite Phayathai, 300m to ARL Ratchaprarop (ID 2715462)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 61 sq.m., 7,990,000 THB. Source PropertyHub #5876841.",
+        "zh": "出售：1卧，61㎡，7,990,000 泰铢。来源 PropertyHub #5876841。",
+        "th": "ขาย: 1 นอน 61 ตร.ม. ราคา 7,990,000 บาท (PropertyHub #5876841)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5876841. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5876841。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5876841 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-2715462--9c6808ae---5876841",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "9f58ea993fb057e024433ab3ffa3a21caaa924225ec32f10b90d44c0c33dba9b"
+    },
+    {
+      "external_ref": "propertyhub-6036450",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8290000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 61,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR 61 Sqm, Floor 18 At Supalai Elite Phayathai Near ARL Ratchaprarop (300m) (ID 2873608)",
+        "zh": "1-BR 61 Sqm, Floor 18 At Supalai Elite Phayathai Near ARL Ratchaprarop (300m) (ID 2873608)",
+        "th": "1-BR 61 Sqm, Floor 18 At Supalai Elite Phayathai Near ARL Ratchaprarop (300m) (ID 2873608)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 61 sq.m., 8,290,000 THB. Source PropertyHub #6036450.",
+        "zh": "出售：1卧，61㎡，8,290,000 泰铢。来源 PropertyHub #6036450。",
+        "th": "ขาย: 1 นอน 61 ตร.ม. ราคา 8,290,000 บาท (PropertyHub #6036450)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6036450. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6036450。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6036450 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-2873608--a2eb090f---6036450",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "f320d21da5a7733602bcc5b0c11121ede532631b54e345e62984ee268fb1e64c"
+    },
+    {
+      "external_ref": "propertyhub-4635114",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 12300000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 106.03,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "High-Floor 2-BR 106 Sqm Supalai Elite Phayathai Near ARL Ratchaprarop (300m) (ID 1760314)",
+        "zh": "High-Floor 2-BR 106 Sqm Supalai Elite Phayathai Near ARL Ratchaprarop (300m) (ID 1760314)",
+        "th": "High-Floor 2-BR 106 Sqm Supalai Elite Phayathai Near ARL Ratchaprarop (300m) (ID 1760314)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 106.03 sq.m., 12,300,000 THB. Source PropertyHub #4635114.",
+        "zh": "出售：2卧，106.03㎡，12,300,000 泰铢。来源 PropertyHub #4635114。",
+        "th": "ขาย: 2 นอน 106.03 ตร.ม. ราคา 12,300,000 บาท (PropertyHub #4635114)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4635114. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4635114。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4635114 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-1760314--b18d09b0---4635114",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "36ebc446ae01d535e0ff034dfb96115b47f354fdad510aee9c91bde9ce58b531"
+    },
+    {
+      "external_ref": "propertyhub-4987179",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 60,
+      "floor_label": "27",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR 60 Sqm At 27th Floor, Supalai Elite Phayathai Near ARL Ratchaprarop (ID 2057960)",
+        "zh": "1-BR 60 Sqm At 27th Floor, Supalai Elite Phayathai Near ARL Ratchaprarop (ID 2057960)",
+        "th": "1-BR 60 Sqm At 27th Floor, Supalai Elite Phayathai Near ARL Ratchaprarop (ID 2057960)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 60 sq.m., 9,500,000 THB. Source PropertyHub #4987179.",
+        "zh": "出售：1卧，60㎡，9,500,000 泰铢。来源 PropertyHub #4987179。",
+        "th": "ขาย: 1 นอน 60 ตร.ม. ราคา 9,500,000 บาท (PropertyHub #4987179)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4987179. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4987179。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4987179 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-2057960---4987179",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "e2277958530c22b7ea0896a14603c5c1dbb17cf56f600e054d4349a9251825d9"
+    },
+    {
+      "external_ref": "propertyhub-5967809",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 12000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 106.03,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "Well-Priced 2-BR 106 Sqm High-Floor Condo at Supalai Elite Phayathai, 300m to ARL Ratchaprarop (ID 2799942)",
+        "zh": "Well-Priced 2-BR 106 Sqm High-Floor Condo at Supalai Elite Phayathai, 300m to ARL Ratchaprarop (ID 2799942)",
+        "th": "Well-Priced 2-BR 106 Sqm High-Floor Condo at Supalai Elite Phayathai, 300m to ARL Ratchaprarop (ID 2799942)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 106.03 sq.m., 12,000,000 THB. Source PropertyHub #5967809.",
+        "zh": "出售：2卧，106.03㎡，12,000,000 泰铢。来源 PropertyHub #5967809。",
+        "th": "ขาย: 2 นอน 106.03 ตร.ม. ราคา 12,000,000 บาท (PropertyHub #5967809)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5967809. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5967809。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5967809 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-2799942--a1400919---5967809",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "38ec9b56ce3324c1fcd0f8c2a973b416f8c3e71f194fe5a224f1c1c5f59d5366"
+    },
+    {
+      "external_ref": "propertyhub-5239773",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 62,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR 62 Sqm High-Floor Condo At Supalai Elite Phayathai, 300m to ARL Ratchaprarop (ID 2063493)",
+        "zh": "1-BR 62 Sqm High-Floor Condo At Supalai Elite Phayathai, 300m to ARL Ratchaprarop (ID 2063493)",
+        "th": "1-BR 62 Sqm High-Floor Condo At Supalai Elite Phayathai, 300m to ARL Ratchaprarop (ID 2063493)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 62 sq.m., 6,900,000 THB. Source PropertyHub #5239773.",
+        "zh": "出售：1卧，62㎡，6,900,000 泰铢。来源 PropertyHub #5239773。",
+        "th": "ขาย: 1 นอน 62 ตร.ม. ราคา 6,900,000 บาท (PropertyHub #5239773)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5239773. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5239773。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5239773 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-2063493--c43b0a5d---5239773",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "5f530079b2956a51895a1f15622b637781a061372c809c6d26be526dc9b141f0"
+    },
+    {
+      "external_ref": "propertyhub-3769725",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 70,
+      "floor_label": "1x+",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "Supalai Elite Phayathai 1 bedroom, for sale",
+        "zh": "Supalai Elite Phayathai 1 bedroom, for sale",
+        "th": "Supalai Elite Phayathai 1 bedroom, for sale"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 70 sq.m., 10,600,000 THB. Source PropertyHub #3769725.",
+        "zh": "出售：1卧，70㎡，10,600,000 泰铢。来源 PropertyHub #3769725。",
+        "th": "ขาย: 1 นอน 70 ตร.ม. ราคา 10,600,000 บาท (PropertyHub #3769725)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3769725. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3769725。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3769725 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/supalai-elite-phayathai-1-bedroom-for-sale---3769725",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "7d3f0b29b648d6ade0d47075539c64ca1ebafb283f4b0930d367b91cdef37b8a"
+    },
+    {
+      "external_ref": "propertyhub-6225843",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5370000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "25+",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1 Bed Large Room High Fl. 25+ City View Fully furnished Good Location Close to BTS Phaya Thai 650 m.  @ Supalai Elite Phayathai",
+        "zh": "1 Bed Large Room High Fl. 25+ City View Fully furnished Good Location Close to BTS Phaya Thai 650 m.  @ Supalai Elite Phayathai",
+        "th": "1 Bed Large Room High Fl. 25+ City View Fully furnished Good Location Close to BTS Phaya Thai 650 m.  @ Supalai Elite Phayathai"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 45 sq.m., 5,370,000 THB. Source PropertyHub #6225843.",
+        "zh": "出售：1卧，45㎡，5,370,000 泰铢。来源 PropertyHub #6225843。",
+        "th": "ขาย: 1 นอน 45 ตร.ม. ราคา 5,370,000 บาท (PropertyHub #6225843)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6225843. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6225843。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6225843 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bed-large-room-high-fl-25-city-view-fully-furnished-good-location-close-to-bts-phaya-thai-650-m-supalai-elite-phayathai---6225843",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "edc0923a9547617e243d101064c32c656ad2d17cdbadc8ceb540cd803e1f8d7f"
+    },
+    {
+      "external_ref": "propertyhub-3933597",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6890000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 61,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR SALE condo , Supalai Elite Phayathai , BTS-Phaya Thai , Thung Phaya Thai , Rat Thewi , Bangkok , CX-50488 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR SALE condo , Supalai Elite Phayathai , BTS-Phaya Thai , Thung Phaya Thai , Rat Thewi , Bangkok , CX-50488 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR SALE condo , Supalai Elite Phayathai , BTS-Phaya Thai , Thung Phaya Thai , Rat Thewi , Bangkok , CX-50488 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 61 sq.m., 6,890,000 THB. Source PropertyHub #3933597.",
+        "zh": "出售：1卧，61㎡，6,890,000 泰铢。来源 PropertyHub #3933597。",
+        "th": "ขาย: 1 นอน 61 ตร.ม. ราคา 6,890,000 บาท (PropertyHub #3933597)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3933597. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3933597。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3933597 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-supalai-elite-phayathai-bts-phaya-thai-thung-phaya-thai-rat-thewi-bangkok-cx-50488-live-chat-with-us-add-line-connexproperty--b3630966---3933597",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "4ae3fe533ace9852b737df4fc9677daf079baf1c02122802ea0ac7e2f1c54464"
+    },
+    {
+      "external_ref": "propertyhub-5429604",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 11500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 90.03,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "Supalai Elite Phayathai, BTS Phayathai 5697104",
+        "zh": "Supalai Elite Phayathai, BTS Phayathai 5697104",
+        "th": "Supalai Elite Phayathai, BTS Phayathai 5697104"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 90.03 sq.m., 11,500,000 THB. Source PropertyHub #5429604.",
+        "zh": "出售：2卧，90.03㎡，11,500,000 泰铢。来源 PropertyHub #5429604。",
+        "th": "ขาย: 2 นอน 90.03 ตร.ม. ราคา 11,500,000 บาท (PropertyHub #5429604)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5429604. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5429604。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5429604 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/supalai-elite-phayathai-bts-phayathai-5697104--b8e80986---5429604",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "699dafca220446add4db0ad3fc5f0b387e9e013b9c11fb9971e9b71e41d764b8"
+    },
+    {
+      "external_ref": "propertyhub-4308069",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": "27",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR 44 Sqm, High-Floor at Supalai Elite Phayathai near ARL Ratchaprarop (ID 924361)",
+        "zh": "1-BR 44 Sqm, High-Floor at Supalai Elite Phayathai near ARL Ratchaprarop (ID 924361)",
+        "th": "1-BR 44 Sqm, High-Floor at Supalai Elite Phayathai near ARL Ratchaprarop (ID 924361)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 27,000 THB. Source PropertyHub #4308069.",
+        "zh": "出租：1卧，44㎡，27,000 泰铢。来源 PropertyHub #4308069。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 27,000 บาท (PropertyHub #4308069)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4308069. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4308069。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4308069 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-924361--97fb0864---4308069",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "2cbae2dae5a2b5dda2abe8fdba92d6e3c53af412821a1dd05c8801909be7494b"
+    },
+    {
+      "external_ref": "propertyhub-4723494",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": "27",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR 44 Sqm High-Floor At Supalai Elite Phayathai Near ARL Ratchaprarop (ID 511660)",
+        "zh": "1-BR 44 Sqm High-Floor At Supalai Elite Phayathai Near ARL Ratchaprarop (ID 511660)",
+        "th": "1-BR 44 Sqm High-Floor At Supalai Elite Phayathai Near ARL Ratchaprarop (ID 511660)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 27,000 THB. Source PropertyHub #4723494.",
+        "zh": "出租：1卧，44㎡，27,000 泰铢。来源 PropertyHub #4723494。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 27,000 บาท (PropertyHub #4723494)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4723494. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4723494。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4723494 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-511660--aad1098c---4723494",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "7f0de9b876b5de8d6c5ea47647a62ff3db50e897f822a50fe6274e00a737a5da"
+    },
+    {
+      "external_ref": "propertyhub-5671560",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 48000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 94,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "2-BR 94 Sqm Condo At Supalai Elite Phayathai near ARL Ratchaprarop (300m) (ID 2501284)",
+        "zh": "2-BR 94 Sqm Condo At Supalai Elite Phayathai near ARL Ratchaprarop (300m) (ID 2501284)",
+        "th": "2-BR 94 Sqm Condo At Supalai Elite Phayathai near ARL Ratchaprarop (300m) (ID 2501284)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 94 sq.m., 48,000 THB. Source PropertyHub #5671560.",
+        "zh": "出租：2卧，94㎡，48,000 泰铢。来源 PropertyHub #5671560。",
+        "th": "เช่า: 2 นอน 94 ตร.ม. ราคา 48,000 บาท (PropertyHub #5671560)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5671560. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5671560。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5671560 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-2501284---5671560",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "6c28be2007eb95a339022ae97c82fff3f50615b405a7e85ea6b3222fd38f3c1e"
+    },
+    {
+      "external_ref": "propertyhub-6056962",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1-BR 44 Sqm High-Floor Condo at Supalai Elite Phayathai, 300m to ARL Ratchaprarop (ID 2897648)",
+        "zh": "1-BR 44 Sqm High-Floor Condo at Supalai Elite Phayathai, 300m to ARL Ratchaprarop (ID 2897648)",
+        "th": "1-BR 44 Sqm High-Floor Condo at Supalai Elite Phayathai, 300m to ARL Ratchaprarop (ID 2897648)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 25,000 THB. Source PropertyHub #6056962.",
+        "zh": "出租：1卧，44㎡，25,000 泰铢。来源 PropertyHub #6056962。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 25,000 บาท (PropertyHub #6056962)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6056962. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6056962。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6056962 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-2897648--b66609a6---6056962",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "e6248442130edfb41610452f30bd64468101f8aab37cef7818765dcba66da470"
+    },
+    {
+      "external_ref": "propertyhub-5544612",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 34000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 60.89,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "High-Floor 1-BR 61 Sqm Supalai Elite Phayathai Near ARL Ratchaprarop (ID 2391526)",
+        "zh": "High-Floor 1-BR 61 Sqm Supalai Elite Phayathai Near ARL Ratchaprarop (ID 2391526)",
+        "th": "High-Floor 1-BR 61 Sqm Supalai Elite Phayathai Near ARL Ratchaprarop (ID 2391526)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 60.89 sq.m., 34,000 THB. Source PropertyHub #5544612.",
+        "zh": "出租：1卧，60.89㎡，34,000 泰铢。来源 PropertyHub #5544612。",
+        "th": "เช่า: 1 นอน 60.89 ตร.ม. ราคา 34,000 บาท (PropertyHub #5544612)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5544612. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5544612。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5544612 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-2391526---5544612",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "5f24257ed6fa7ded66cffada5603ac6c49c1f97f8d2894ca4e6620048623514d"
+    },
+    {
+      "external_ref": "propertyhub-5740195",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "🍀🍀🍀 Exclusive Unit for Rent 🌹🌹 📌 Supalai Elite Phayathai 🌸 (Line: @rent2022) ✨ Ready to move in | Property Code: A06115",
+        "zh": "🍀🍀🍀 Exclusive Unit for Rent 🌹🌹 📌 Supalai Elite Phayathai 🌸 (Line: @rent2022) ✨ Ready to move in | Property Code: A06115",
+        "th": "🍀🍀🍀 Exclusive Unit for Rent 🌹🌹 📌 Supalai Elite Phayathai 🌸 (Line: @rent2022) ✨ Ready to move in | Property Code: A06115"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 23,000 THB. Source PropertyHub #5740195.",
+        "zh": "出租：1卧，44㎡，23,000 泰铢。来源 PropertyHub #5740195。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 23,000 บาท (PropertyHub #5740195)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5740195. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5740195。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5740195 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/exclusive-unit-for-rent-supalai-elite-phayathai-line-rent2022-ready-to-move-in-property-code-a06115---5740195",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "80e72d542d62787f52b848f5f59bef49e47891f5c1583e8b1c487b51b96a6de8"
+    },
+    {
+      "external_ref": "propertyhub-5740269",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": "-",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "🍀🍀🍀 Exclusive Unit for Rent 🌹🌹 📌 Supalai Elite Phayathai 🌸 (Line: @rent2022) ✨ Ready to move in | Property Code: A06114",
+        "zh": "🍀🍀🍀 Exclusive Unit for Rent 🌹🌹 📌 Supalai Elite Phayathai 🌸 (Line: @rent2022) ✨ Ready to move in | Property Code: A06114",
+        "th": "🍀🍀🍀 Exclusive Unit for Rent 🌹🌹 📌 Supalai Elite Phayathai 🌸 (Line: @rent2022) ✨ Ready to move in | Property Code: A06114"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 23,000 THB. Source PropertyHub #5740269.",
+        "zh": "出租：1卧，44㎡，23,000 泰铢。来源 PropertyHub #5740269。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 23,000 บาท (PropertyHub #5740269)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5740269. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5740269。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5740269 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/exclusive-unit-for-rent-supalai-elite-phayathai-line-rent2022-ready-to-move-in-property-code-a06114---5740269",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "2cf1461c5b5d4b198dcb121c009a1d66849749b583d810ce441b4d2b6e2ceebc"
+    },
+    {
+      "external_ref": "propertyhub-6100475",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "🌹✨ Exclusive Unit For Rent 📌 Supalai Elite Phayathai  (Line: @rent2022) | Prime Phaya Thai Location  ✨Premium Location ✨  📌 Ref Code: A11028",
+        "zh": "🌹✨ Exclusive Unit For Rent 📌 Supalai Elite Phayathai  (Line: @rent2022) | Prime Phaya Thai Location  ✨Premium Location ✨  📌 Ref Code: A11028",
+        "th": "🌹✨ Exclusive Unit For Rent 📌 Supalai Elite Phayathai  (Line: @rent2022) | Prime Phaya Thai Location  ✨Premium Location ✨  📌 Ref Code: A11028"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 22,000 THB. Source PropertyHub #6100475.",
+        "zh": "出租：1卧，44㎡，22,000 泰铢。来源 PropertyHub #6100475。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 22,000 บาท (PropertyHub #6100475)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6100475. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6100475。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6100475 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/exclusive-unit-for-rent-supalai-elite-phayathai-line-rent2022-prime-phaya-thai-location-premium-location-ref-code-a11028---6100475",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "e3621b16760f90c5e632680c3bf4a0474a69ad03fad687b52181d200c3e47441"
+    },
+    {
+      "external_ref": "propertyhub-5877351",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": "xx",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1 Bed Large Room City View Fully furnished Good Location Close To BTS Phaya Thai 650 m.  @  Supalai Elite Phayathai ",
+        "zh": "1 Bed Large Room City View Fully furnished Good Location Close To BTS Phaya Thai 650 m.  @  Supalai Elite Phayathai ",
+        "th": "1 Bed Large Room City View Fully furnished Good Location Close To BTS Phaya Thai 650 m.  @  Supalai Elite Phayathai "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 25,000 THB. Source PropertyHub #5877351.",
+        "zh": "出租：1卧，44㎡，25,000 泰铢。来源 PropertyHub #5877351。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 25,000 บาท (PropertyHub #5877351)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5877351. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5877351。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5877351 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bed-large-room-city-view-fully-furnished-good-location-close-to-bts-phaya-thai-650-m-supalai-elite-phayathai--bba80a36---5877351",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "3a9053e044504693427ca56fa5fc343fd70842c319cdab3b118b96cc50eb0870"
+    },
+    {
+      "external_ref": "propertyhub-6214519",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": "25+",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "title": {
+        "en": "1 Bed Large Room Super High Fl. 25+ Fully furnished Good Location Close To BTS Phaya Thai 650 m. @ Supalai Elite Phayathai",
+        "zh": "1 Bed Large Room Super High Fl. 25+ Fully furnished Good Location Close To BTS Phaya Thai 650 m. @ Supalai Elite Phayathai",
+        "th": "1 Bed Large Room Super High Fl. 25+ Fully furnished Good Location Close To BTS Phaya Thai 650 m. @ Supalai Elite Phayathai"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 23,000 THB. Source PropertyHub #6214519.",
+        "zh": "出租：1卧，44㎡，23,000 泰铢。来源 PropertyHub #6214519。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 23,000 บาท (PropertyHub #6214519)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6214519. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6214519。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6214519 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bed-large-room-super-high-fl-25-fully-furnished-good-location-close-to-bts-phaya-thai-650-m-supalai-elite-phayathai---6214519",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.756942125325995,
+      "longitude": 100.53916532630782,
+      "duplicate_fingerprint": "560a390ff00dca7485d7b588f43a2328bdd7f04df8dfab8059edf6b8261833dc"
+    }
+  ]
+}

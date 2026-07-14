@@ -1,0 +1,888 @@
+{
+  "project_slug": "whizdom-essence",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-4955782",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10300000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 52,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Condo 2-BR, 52 Sqm, 29th-Floor at Whizdom Essence Sukhumvit near BTS Punnawithi (ID 1874787)",
+        "zh": "Condo 2-BR, 52 Sqm, 29th-Floor at Whizdom Essence Sukhumvit near BTS Punnawithi (ID 1874787)",
+        "th": "Condo 2-BR, 52 Sqm, 29th-Floor at Whizdom Essence Sukhumvit near BTS Punnawithi (ID 1874787)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 52 sq.m., 10,300,000 THB. Source PropertyHub #4955782.",
+        "zh": "出售：2卧，52㎡，10,300,000 泰铢。来源 PropertyHub #4955782。",
+        "th": "ขาย: 2 นอน 52 ตร.ม. ราคา 10,300,000 บาท (PropertyHub #4955782)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4955782. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4955782。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4955782 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-whizdom-essence-sukhumvit-near-bts-punnawithi-id-1874787--b7c209e0---4955782",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "7c6a2613a652facabd7bbbf639cf57b16c3102ee64a216d30b526ce2ad4c9a1d"
+    },
+    {
+      "external_ref": "propertyhub-5496211",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 52.7,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR 53 Sqm On 17th Floor, Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 2350169)",
+        "zh": "2-BR 53 Sqm On 17th Floor, Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 2350169)",
+        "th": "2-BR 53 Sqm On 17th Floor, Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 2350169)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 52.7 sq.m., 8,500,000 THB. Source PropertyHub #5496211.",
+        "zh": "出售：2卧，52.7㎡，8,500,000 泰铢。来源 PropertyHub #5496211。",
+        "th": "ขาย: 2 นอน 52.7 ตร.ม. ราคา 8,500,000 บาท (PropertyHub #5496211)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5496211. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5496211。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5496211 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-whizdom-essence-sukhumvit-near-bts-punnawithi-id-2350169---5496211",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "f126e404a2a04ff04beb6d55729a582d032efcddc53881ede6b26e3899e02ec4"
+    },
+    {
+      "external_ref": "propertyhub-6099529",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 38,
+      "floor_label": "34",
+      "building_label": "-",
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "P-1569📣Sale Condo Whizdom Essence Sukhumvit price 6 M. // 0659174222 // ",
+        "zh": "P-1569📣Sale Condo Whizdom Essence Sukhumvit price 6 M. // 0659174222 // ",
+        "th": "P-1569📣Sale Condo Whizdom Essence Sukhumvit price 6 M. // 0659174222 // "
+      },
+      "summary": {
+        "en": "Sale: 1BR, 38 sq.m., 6,000,000 THB. Source PropertyHub #6099529.",
+        "zh": "出售：1卧，38㎡，6,000,000 泰铢。来源 PropertyHub #6099529。",
+        "th": "ขาย: 1 นอน 38 ตร.ม. ราคา 6,000,000 บาท (PropertyHub #6099529)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6099529. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6099529。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6099529 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/p-1569sale-condo-whizdom-essence-sukhumvit-price-6-m-0659174222---6099529",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "d72ae31c913c39c6e761a71e3ae79937ff8b9a24d49e594b4a6cabc214e69a09"
+    },
+    {
+      "external_ref": "propertyhub-5568728",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 53.01,
+      "floor_label": "30th+ floor(facing east)",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR 53 Sqm On 30th Floor, Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 2387710)",
+        "zh": "2-BR 53 Sqm On 30th Floor, Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 2387710)",
+        "th": "2-BR 53 Sqm On 30th Floor, Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 2387710)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 53.01 sq.m., 9,000,000 THB. Source PropertyHub #5568728.",
+        "zh": "出售：2卧，53.01㎡，9,000,000 泰铢。来源 PropertyHub #5568728。",
+        "th": "ขาย: 2 นอน 53.01 ตร.ม. ราคา 9,000,000 บาท (PropertyHub #5568728)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5568728. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5568728。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5568728 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-whizdom-essence-sukhumvit-near-bts-punnawithi-id-2387710--b11c09ac---5568728",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "e2209d3b1a33bf78e3243984090f585458ef655ce155cd74804d90e845318268"
+    },
+    {
+      "external_ref": "propertyhub-4807282",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7040000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34.48,
+      "floor_label": "30 - 40",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Sale Whizdom Essence 1 bedroom, width 34.48 sq.m., north direction, view of Bangkok city, closed kitchen @7.04MB",
+        "zh": "For Sale Whizdom Essence 1 bedroom, width 34.48 sq.m., north direction, view of Bangkok city, closed kitchen @7.04MB",
+        "th": "For Sale Whizdom Essence 1 bedroom, width 34.48 sq.m., north direction, view of Bangkok city, closed kitchen @7.04MB"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 34.48 sq.m., 7,040,000 THB. Source PropertyHub #4807282.",
+        "zh": "出售：1卧，34.48㎡，7,040,000 泰铢。来源 PropertyHub #4807282。",
+        "th": "ขาย: 1 นอน 34.48 ตร.ม. ราคา 7,040,000 บาท (PropertyHub #4807282)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4807282. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4807282。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4807282 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-whizdom-essence-1-bedroom-width-34-48-sq-m-north-direction-view-of-bangkok-city-closed-kitchen-7-04mb---4807282",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "5c5878210c44559fb3acdedf46e2d0b55f3b759b42f0bcf3d2ef40e2d7cf2ce6"
+    },
+    {
+      "external_ref": "propertyhub-4874618",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 48500000,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area_sqm": 202.46,
+      "floor_label": "40 - 50",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Condo for SALE *Whizdom Essence *Combine Room, spacious room 202.46 sq m., 40th floor+, corner position, 3-way view @@48.5  MB",
+        "zh": "Condo for SALE *Whizdom Essence *Combine Room, spacious room 202.46 sq m., 40th floor+, corner position, 3-way view @@48.5  MB",
+        "th": "Condo for SALE *Whizdom Essence *Combine Room, spacious room 202.46 sq m., 40th floor+, corner position, 3-way view @@48.5  MB"
+      },
+      "summary": {
+        "en": "Sale: 4BR, 202.46 sq.m., 48,500,000 THB. Source PropertyHub #4874618.",
+        "zh": "出售：4卧，202.46㎡，48,500,000 泰铢。来源 PropertyHub #4874618。",
+        "th": "ขาย: 4 นอน 202.46 ตร.ม. ราคา 48,500,000 บาท (PropertyHub #4874618)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4874618. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4874618。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4874618 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-sale-whizdom-essence-combine-room-spacious-room-202-46-sq-m-40th-floor-corner-position-3-way-view-48-5-mb---4874618",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "43bd5d7d414b678ee6937eb37c70e446ec58a5279a6ac725bfeec8cad063a77a"
+    },
+    {
+      "external_ref": "propertyhub-5871940",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 13800000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 78.21,
+      "floor_label": "10 - 20",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For sale Whizdom Essence, a spacious corner unit with a bright and airy feel, offering unobstructed city views, close to a lifestyle hub,",
+        "zh": "For sale Whizdom Essence, a spacious corner unit with a bright and airy feel, offering unobstructed city views, close to a lifestyle hub,",
+        "th": "For sale Whizdom Essence, a spacious corner unit with a bright and airy feel, offering unobstructed city views, close to a lifestyle hub,"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 78.21 sq.m., 13,800,000 THB. Source PropertyHub #5871940.",
+        "zh": "出售：2卧，78.21㎡，13,800,000 泰铢。来源 PropertyHub #5871940。",
+        "th": "ขาย: 2 นอน 78.21 ตร.ม. ราคา 13,800,000 บาท (PropertyHub #5871940)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5871940. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5871940。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5871940 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-whizdom-essence-a-spacious-corner-unit-with-a-bright-and-airy-feel-offering-unobstructed-city-views-close-to-a-lifestyle-hub---5871940",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "33ef263144747dd7b1eb3d863bb802a9b7251cc4a09f009ee7ed813d3ee0e260"
+    },
+    {
+      "external_ref": "propertyhub-5122192",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5190000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34.03,
+      "floor_label": "5 - 10",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For sale Whizdom Essence Garden and pool view, only one wall is adjacent to neighbor, 34.03 sq.m. 1 bedroom @5.19MB",
+        "zh": "For sale Whizdom Essence Garden and pool view, only one wall is adjacent to neighbor, 34.03 sq.m. 1 bedroom @5.19MB",
+        "th": "For sale Whizdom Essence Garden and pool view, only one wall is adjacent to neighbor, 34.03 sq.m. 1 bedroom @5.19MB"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 34.03 sq.m., 5,190,000 THB. Source PropertyHub #5122192.",
+        "zh": "出售：1卧，34.03㎡，5,190,000 泰铢。来源 PropertyHub #5122192。",
+        "th": "ขาย: 1 นอน 34.03 ตร.ม. ราคา 5,190,000 บาท (PropertyHub #5122192)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5122192. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5122192。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5122192 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-whizdom-essence-garden-and-pool-view-only-one-wall-is-adjacent-to-neighbor-34-03-sq-m-1-bedroom-5-19mb---5122192",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "37ab733a38ca1fbac2626b09e1a408f4383d64f54afc2e0b79306140059ce0a6"
+    },
+    {
+      "external_ref": "propertyhub-6102965",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5066000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33.84,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR 34 Sqm Condo At Whizdom Essence Sukhumvit, 14th-Floor Near BTS Punnawithi (ID 2521781)",
+        "zh": "1-BR 34 Sqm Condo At Whizdom Essence Sukhumvit, 14th-Floor Near BTS Punnawithi (ID 2521781)",
+        "th": "1-BR 34 Sqm Condo At Whizdom Essence Sukhumvit, 14th-Floor Near BTS Punnawithi (ID 2521781)"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 33.84 sq.m., 5,066,000 THB. Source PropertyHub #6102965.",
+        "zh": "出售：1卧，33.84㎡，5,066,000 泰铢。来源 PropertyHub #6102965。",
+        "th": "ขาย: 1 นอน 33.84 ตร.ม. ราคา 5,066,000 บาท (PropertyHub #6102965)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6102965. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6102965。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6102965 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-whizdom-essence-sukhumvit-near-bts-punnawithi-id-2521781--bb360980---6102965",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "083ac1b7345bce552c708cb52ecebc04075926a59fa32e9cab9df4b0c9245f17"
+    },
+    {
+      "external_ref": "propertyhub-6103034",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 52,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR Condo 52 Sqm Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 2721244)",
+        "zh": "2-BR Condo 52 Sqm Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 2721244)",
+        "th": "2-BR Condo 52 Sqm Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 2721244)"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 52 sq.m., 7,500,000 THB. Source PropertyHub #6103034.",
+        "zh": "出售：2卧，52㎡，7,500,000 泰铢。来源 PropertyHub #6103034。",
+        "th": "ขาย: 2 นอน 52 ตร.ม. ราคา 7,500,000 บาท (PropertyHub #6103034)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6103034. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6103034。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6103034 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-whizdom-essence-sukhumvit-near-bts-punnawithi-id-2721244--c5ce0a1f---6103034",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "d9503aec901eb7ab75bb8b90af55bfed635d10ce8dfe857df771bee333008f5b"
+    },
+    {
+      "external_ref": "propertyhub-6210496",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 155000,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area_sqm": 202,
+      "floor_label": "48",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "4-BR 202 Sqm High-Floor Condo At Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 3069547)",
+        "zh": "4-BR 202 Sqm High-Floor Condo At Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 3069547)",
+        "th": "4-BR 202 Sqm High-Floor Condo At Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 3069547)"
+      },
+      "summary": {
+        "en": "Rent: 4BR, 202 sq.m., 155,000 THB. Source PropertyHub #6210496.",
+        "zh": "出租：4卧，202㎡，155,000 泰铢。来源 PropertyHub #6210496。",
+        "th": "เช่า: 4 นอน 202 ตร.ม. ราคา 155,000 บาท (PropertyHub #6210496)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6210496. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6210496。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6210496 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/4-br-202-sqm-high-floor-condo-at-whizdom-essence-sukhumvit-400m-to-bts-punnawithi-id-3069547---6210496",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "e644f5baa94ca65d60716f1231c52317c62062668290f0b77e00110bb70e92b1"
+    },
+    {
+      "external_ref": "propertyhub-5766646",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 47500,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 78,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR 78 Sqm Condo In Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 2603216)",
+        "zh": "2-BR 78 Sqm Condo In Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 2603216)",
+        "th": "2-BR 78 Sqm Condo In Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 2603216)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 78 sq.m., 47,500 THB. Source PropertyHub #5766646.",
+        "zh": "出租：2卧，78㎡，47,500 泰铢。来源 PropertyHub #5766646。",
+        "th": "เช่า: 2 นอน 78 ตร.ม. ราคา 47,500 บาท (PropertyHub #5766646)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5766646. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5766646。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5766646 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-whizdom-essence-sukhumvit-near-bts-punnawithi-id-2603216--a00b08ee---5766646",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "346a1d9ff41efdc23fd5220539d1d167a96ebe4c777794e02faf95e801f7aac2"
+    },
+    {
+      "external_ref": "propertyhub-6216869",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 140000,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area_sqm": 202,
+      "floor_label": "48",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "4-BR 202 Sqm Condo At Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 2942870)",
+        "zh": "4-BR 202 Sqm Condo At Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 2942870)",
+        "th": "4-BR 202 Sqm Condo At Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 2942870)"
+      },
+      "summary": {
+        "en": "Rent: 4BR, 202 sq.m., 140,000 THB. Source PropertyHub #6216869.",
+        "zh": "出租：4卧，202㎡，140,000 泰铢。来源 PropertyHub #6216869。",
+        "th": "เช่า: 4 นอน 202 ตร.ม. ราคา 140,000 บาท (PropertyHub #6216869)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6216869. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6216869。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6216869 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/4-br-202-sqm-condo-at-whizdom-essence-sukhumvit-400m-to-bts-punnawithi-id-2942870---6216869",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "d4fef41bf94151ef13eeffa75e6cc72b3bdd1886b861b2465ff4fcf3c28d6c4a"
+    },
+    {
+      "external_ref": "propertyhub-4448392",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 32000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "28",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "1-BR Condo At Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 1530429)",
+        "zh": "1-BR Condo At Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 1530429)",
+        "th": "1-BR Condo At Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 1530429)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 32,000 THB. Source PropertyHub #4448392.",
+        "zh": "出租：1卧，45㎡，32,000 泰铢。来源 PropertyHub #4448392。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 32,000 บาท (PropertyHub #4448392)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4448392. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4448392。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4448392 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-whizdom-essence-sukhumvit-near-bts-punnawithi-id-1530429--b7140974---4448392",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "f35f6a5dc7baa65c93f2b70b951c31d81725f14599dc25ce334ee440d1891f36"
+    },
+    {
+      "external_ref": "propertyhub-4431998",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 26000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "26th-Floor 1-BR 35 Sqm Condo At Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 731285)",
+        "zh": "26th-Floor 1-BR 35 Sqm Condo At Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 731285)",
+        "th": "26th-Floor 1-BR 35 Sqm Condo At Whizdom Essence Sukhumvit, 400m to BTS Punnawithi (ID 731285)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 26,000 THB. Source PropertyHub #4431998.",
+        "zh": "出租：1卧，35㎡，26,000 泰铢。来源 PropertyHub #4431998。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 26,000 บาท (PropertyHub #4431998)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4431998. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4431998。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4431998 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/high-floor-1-br-35-sqm-whizdom-essence-sukhumvit-bts-punnawithi-id-731285---4431998",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "8a7f3cee5013fda52ce90a4d84bd29119df9c75da7d5f99cfd2c0f8a7d104bd4"
+    },
+    {
+      "external_ref": "propertyhub-4508551",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 34000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 51.9,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR Condo On 20th Floor, Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 1543927)",
+        "zh": "2-BR Condo On 20th Floor, Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 1543927)",
+        "th": "2-BR Condo On 20th Floor, Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 1543927)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 51.9 sq.m., 34,000 THB. Source PropertyHub #4508551.",
+        "zh": "出租：2卧，51.9㎡，34,000 泰铢。来源 PropertyHub #4508551。",
+        "th": "เช่า: 2 นอน 51.9 ตร.ม. ราคา 34,000 บาท (PropertyHub #4508551)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4508551. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4508551。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4508551 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-whizdom-essence-sukhumvit-near-bts-punnawithi-id-1543927--ad5709cc---4508551",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "c794746d59552529a3c744b89b1177094184059e8f5247e340da6b8d2a5e3dbf"
+    },
+    {
+      "external_ref": "propertyhub-6222730",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 50000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 77,
+      "floor_label": "35",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "2-BR 77 Sqm, 35th-Floor Condo At Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 3083175)",
+        "zh": "2-BR 77 Sqm, 35th-Floor Condo At Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 3083175)",
+        "th": "2-BR 77 Sqm, 35th-Floor Condo At Whizdom Essence Sukhumvit, 400m To BTS Punnawithi (ID 3083175)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 77 sq.m., 50,000 THB. Source PropertyHub #6222730.",
+        "zh": "出租：2卧，77㎡，50,000 泰铢。来源 PropertyHub #6222730。",
+        "th": "เช่า: 2 นอน 77 ตร.ม. ราคา 50,000 บาท (PropertyHub #6222730)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6222730. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6222730。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6222730 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-br-77-sqm-35th-floor-condo-at-whizdom-essence-sukhumvit-400m-to-bts-punnawithi-id-3083175---6222730",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "06fe47b13e69811b3f8b2db899a63526dbec5c7387cb9744176c68cc1d62eeb4"
+    },
+    {
+      "external_ref": "propertyhub-6090376",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33.7,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "🔸🔷🔶E011405 Whizdom Essence 📲LINE: @theagentpro 🔶🔷🔸",
+        "zh": "🔸🔷🔶E011405 Whizdom Essence 📲LINE: @theagentpro 🔶🔷🔸",
+        "th": "🔸🔷🔶E011405 Whizdom Essence 📲LINE: @theagentpro 🔶🔷🔸"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 33.7 sq.m., 24,000 THB. Source PropertyHub #6090376.",
+        "zh": "出租：1卧，33.7㎡，24,000 泰铢。来源 PropertyHub #6090376。",
+        "th": "เช่า: 1 นอน 33.7 ตร.ม. ราคา 24,000 บาท (PropertyHub #6090376)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6090376. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6090376。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6090376 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/e011405-whizdom-essence-line-theagentpro---6090376",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "a0967f99b833c5d00547c236b2a137fe133e2c18e133034447d0c6e203904d8c"
+    },
+    {
+      "external_ref": "propertyhub-6054986",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "31",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "For Rent: Whizdom Essence Sukhumvit, 20,000 THB/month [OMN0028]",
+        "zh": "For Rent: Whizdom Essence Sukhumvit, 20,000 THB/month [OMN0028]",
+        "th": "For Rent: Whizdom Essence Sukhumvit, 20,000 THB/month [OMN0028]"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 20,000 THB. Source PropertyHub #6054986.",
+        "zh": "出租：1卧，35㎡，20,000 泰铢。来源 PropertyHub #6054986。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 20,000 บาท (PropertyHub #6054986)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6054986. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6054986。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6054986 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-whizdom-essence-sukhumvit-20-000-thb-month-omn0028---6054986",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "68bfc344f25ba669bb47982a817a95a58f3dd42d555d3e658164ae5346ab864a"
+    },
+    {
+      "external_ref": "propertyhub-5713053",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 53.01,
+      "floor_label": "10 - 20",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [
+        "bts"
+      ],
+      "title": {
+        "en": "Condo for Rent: Whizdom Essence - Don't Miss Out!!! High Floor Unit with Great Views and Beautiful Decoration ",
+        "zh": "Condo for Rent: Whizdom Essence - Don't Miss Out!!! High Floor Unit with Great Views and Beautiful Decoration ",
+        "th": "Condo for Rent: Whizdom Essence - Don't Miss Out!!! High Floor Unit with Great Views and Beautiful Decoration "
+      },
+      "summary": {
+        "en": "Rent: 2BR, 53.01 sq.m., 35,000 THB. Source PropertyHub #5713053.",
+        "zh": "出租：2卧，53.01㎡，35,000 泰铢。来源 PropertyHub #5713053。",
+        "th": "เช่า: 2 นอน 53.01 ตร.ม. ราคา 35,000 บาท (PropertyHub #5713053)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5713053. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5713053。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5713053 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-whizdom-essence-don-t-miss-out-high-floor-unit-with-great-views-and-beautiful-decoration---5713053",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.68653619084634,
+      "longitude": 100.6120060205224,
+      "duplicate_fingerprint": "86da72c42c3bdabe4e4389d22c6390552fa2c45d31c6f8237579c1945a9534d4"
+    }
+  ]
+}

@@ -1,0 +1,888 @@
+{
+  "project_slug": "noble-revolve-ratchada",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-4595998",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26.65,
+      "floor_label": "xx",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "1 Bed Super High Fl Good View Next to MRT Thailand Cultural Centre Station @ Noble Revolve Ratchada",
+        "zh": "1 Bed Super High Fl Good View Next to MRT Thailand Cultural Centre Station @ Noble Revolve Ratchada",
+        "th": "1 Bed Super High Fl Good View Next to MRT Thailand Cultural Centre Station @ Noble Revolve Ratchada"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 26.65 sq.m., 3,400,000 THB. Source PropertyHub #4595998.",
+        "zh": "出售：1卧，26.65㎡，3,400,000 泰铢。来源 PropertyHub #4595998。",
+        "th": "ขาย: 1 นอน 26.65 ตร.ม. ราคา 3,400,000 บาท (PropertyHub #4595998)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4595998. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4595998。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4595998 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bed-super-high-fl-good-view-next-to-mrt-thailand-cultural-centre-station-noble-revolve-ratchada--b3be0952---4595998",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "9f56558e53a96fea6e8bee61b7b222a3280c12ca26e75694d5f37b5cb089999e"
+    },
+    {
+      "external_ref": "propertyhub-5114158",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25.99,
+      "floor_label": "xx",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "Best Deal 3.2MB !! 1 Bed Nice Decorate High Floor Good Location MRT Thailand Cultural Centre 80 m. @  Noble Revolve Ratchada ",
+        "zh": "Best Deal 3.2MB !! 1 Bed Nice Decorate High Floor Good Location MRT Thailand Cultural Centre 80 m. @  Noble Revolve Ratchada ",
+        "th": "Best Deal 3.2MB !! 1 Bed Nice Decorate High Floor Good Location MRT Thailand Cultural Centre 80 m. @  Noble Revolve Ratchada "
+      },
+      "summary": {
+        "en": "Sale: 1BR, 25.99 sq.m., 3,200,000 THB. Source PropertyHub #5114158.",
+        "zh": "出售：1卧，25.99㎡，3,200,000 泰铢。来源 PropertyHub #5114158。",
+        "th": "ขาย: 1 นอน 25.99 ตร.ม. ราคา 3,200,000 บาท (PropertyHub #5114158)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5114158. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5114158。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5114158 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/best-deal-3-2mb-1-bed-nice-decorate-high-floor-good-location-mrt-thailand-cultural-centre-80-m-noble-revolve-ratchada---5114158",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "be43f1b96a2c011eaa835014f75b3505300f5035008704c731bdc71240828f0a"
+    },
+    {
+      "external_ref": "propertyhub-5904510",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25.99,
+      "floor_label": "xx",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "1 Bed Large Room City view Fully furnished Good Location Close To MRT Thailand Cultural Centre Station @ Noble Revolve Ratchada",
+        "zh": "1 Bed Large Room City view Fully furnished Good Location Close To MRT Thailand Cultural Centre Station @ Noble Revolve Ratchada",
+        "th": "1 Bed Large Room City view Fully furnished Good Location Close To MRT Thailand Cultural Centre Station @ Noble Revolve Ratchada"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 25.99 sq.m., 3,300,000 THB. Source PropertyHub #5904510.",
+        "zh": "出售：1卧，25.99㎡，3,300,000 泰铢。来源 PropertyHub #5904510。",
+        "th": "ขาย: 1 นอน 25.99 ตร.ม. ราคา 3,300,000 บาท (PropertyHub #5904510)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5904510. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5904510。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5904510 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bed-large-room-city-view-fully-furnished-good-location-close-to-mrt-thailand-cultural-centre-station-noble-revolve-ratchada--ab21094d---5904510",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "97c866ed83767659ad5a27d7f8cf861427634ec1629fa4f0dd8000fc1d8c5230"
+    },
+    {
+      "external_ref": "propertyhub-5169784",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25.99,
+      "floor_label": "xx",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "Large Room Studio with Partition Good Location MRT Thailand Cultural Centre 80 m. @ Noble Revolve Ratchada ",
+        "zh": "Large Room Studio with Partition Good Location MRT Thailand Cultural Centre 80 m. @ Noble Revolve Ratchada ",
+        "th": "Large Room Studio with Partition Good Location MRT Thailand Cultural Centre 80 m. @ Noble Revolve Ratchada "
+      },
+      "summary": {
+        "en": "Sale: 1BR, 25.99 sq.m., 3,400,000 THB. Source PropertyHub #5169784.",
+        "zh": "出售：1卧，25.99㎡，3,400,000 泰铢。来源 PropertyHub #5169784。",
+        "th": "ขาย: 1 นอน 25.99 ตร.ม. ราคา 3,400,000 บาท (PropertyHub #5169784)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5169784. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5169784。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5169784 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/large-room-studio-with-partition-good-location-mrt-thailand-cultural-centre-80-m-noble-revolve-ratchada--b2790972---5169784",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "cd5e99f9822b6fcf2b1b2e3de4511d5e99366eaeb21613f6afa1fb568b5b8084"
+    },
+    {
+      "external_ref": "propertyhub-6217229",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 22,
+      "floor_label": "xx",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "Studio High Floor City View Fully furnished Good Location Close To MRT Thailand Cultural Centre Station, 80 m. @ Noble Revolve Ratchada 1 ",
+        "zh": "Studio High Floor City View Fully furnished Good Location Close To MRT Thailand Cultural Centre Station, 80 m. @ Noble Revolve Ratchada 1 ",
+        "th": "Studio High Floor City View Fully furnished Good Location Close To MRT Thailand Cultural Centre Station, 80 m. @ Noble Revolve Ratchada 1 "
+      },
+      "summary": {
+        "en": "Sale: 1BR, 22 sq.m., 2,500,000 THB. Source PropertyHub #6217229.",
+        "zh": "出售：1卧，22㎡，2,500,000 泰铢。来源 PropertyHub #6217229。",
+        "th": "ขาย: 1 นอน 22 ตร.ม. ราคา 2,500,000 บาท (PropertyHub #6217229)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6217229. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6217229。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6217229 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/studio-high-floor-city-view-fully-furnished-good-location-close-to-mrt-thailand-cultural-centre-station-80-m-noble-revolve-ratchada-1---6217229",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "abd38326fbd114eee985e610bebb2ede934613b9d463ed755acdc45278b2ab04"
+    },
+    {
+      "external_ref": "propertyhub-5114083",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26.65,
+      "floor_label": "xx",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "Best Price 1 Bed City View High Floor Good Location MRT Thailand Cultural Centre 80 m.@  Noble Revolve Ratchada ",
+        "zh": "Best Price 1 Bed City View High Floor Good Location MRT Thailand Cultural Centre 80 m.@  Noble Revolve Ratchada ",
+        "th": "Best Price 1 Bed City View High Floor Good Location MRT Thailand Cultural Centre 80 m.@  Noble Revolve Ratchada "
+      },
+      "summary": {
+        "en": "Sale: 1BR, 26.65 sq.m., 3,200,000 THB. Source PropertyHub #5114083.",
+        "zh": "出售：1卧，26.65㎡，3,200,000 泰铢。来源 PropertyHub #5114083。",
+        "th": "ขาย: 1 นอน 26.65 ตร.ม. ราคา 3,200,000 บาท (PropertyHub #5114083)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5114083. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5114083。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5114083 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/best-price-1-bed-city-view-high-floor-good-location-mrt-thailand-cultural-centre-80-m-noble-revolve-ratchada---5114083",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "f98d1ecf621ed3edb9cb768779c75b87743b98956a09adc47306a01d7bf4dfaa"
+    },
+    {
+      "external_ref": "propertyhub-5832704",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3800000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25.31,
+      "floor_label": "xx",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "1 Bed Large Room  City View  Fully furnished Good Location Close to MRT Thailand Cultural Center Station @ Noble Revolve Ratchada",
+        "zh": "1 Bed Large Room  City View  Fully furnished Good Location Close to MRT Thailand Cultural Center Station @ Noble Revolve Ratchada",
+        "th": "1 Bed Large Room  City View  Fully furnished Good Location Close to MRT Thailand Cultural Center Station @ Noble Revolve Ratchada"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 25.31 sq.m., 3,800,000 THB. Source PropertyHub #5832704.",
+        "zh": "出售：1卧，25.31㎡，3,800,000 泰铢。来源 PropertyHub #5832704。",
+        "th": "ขาย: 1 นอน 25.31 ตร.ม. ราคา 3,800,000 บาท (PropertyHub #5832704)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5832704. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5832704。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5832704 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bed-large-room-city-view-fully-furnished-good-location-close-to-mrt-thailand-cultural-center-station-noble-revolve-ratchada---5832704",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "7a19554be6340e259cf544979d22290a195c62dd559e27f505cc51bf7b6555fc"
+    },
+    {
+      "external_ref": "propertyhub-5680422",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2550000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 21.67,
+      "floor_label": "13",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Sale Condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-105344 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Sale Condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-105344 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Sale Condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-105344 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 21.67 sq.m., 2,550,000 THB. Source PropertyHub #5680422.",
+        "zh": "出售：1卧，21.67㎡，2,550,000 泰铢。来源 PropertyHub #5680422。",
+        "th": "ขาย: 1 นอน 21.67 ตร.ม. ราคา 2,550,000 บาท (PropertyHub #5680422)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5680422. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5680422。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5680422 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-noble-revolve-ratchada-mrt-thailand-cultural-centre-huai-khwang-huai-khwang-bangkok-cx-105344-live-chat-with-us-add-line-connexproperty--9c5008d6---5680422",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "27f5bb9e7101466e3281f6a9e3d4cf2f6a23ef30bc3f11cb5285f21df3db9054"
+    },
+    {
+      "external_ref": "propertyhub-5497863",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7800000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 53.8,
+      "floor_label": "34",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Noble Revolve Ratchada  648160",
+        "zh": "1 Bedroom Condo for sale at Noble Revolve Ratchada  648160",
+        "th": "1 Bedroom Condo for sale at Noble Revolve Ratchada  648160"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 53.8 sq.m., 7,800,000 THB. Source PropertyHub #5497863.",
+        "zh": "出售：1卧，53.8㎡，7,800,000 泰铢。来源 PropertyHub #5497863。",
+        "th": "ขาย: 1 นอน 53.8 ตร.ม. ราคา 7,800,000 บาท (PropertyHub #5497863)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5497863. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5497863。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5497863 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bedroom-condo-for-sale-at-noble-revolve-ratchada-648160---5497863",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "c90bd193b25c9d53c79da1ab62a450f00a766fa94dab3c5df0e9d93ade2bd26b"
+    },
+    {
+      "external_ref": "propertyhub-6217064",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10400000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 54,
+      "floor_label": "13",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "Room for sale at Noble Revolve Ratchada 6572745",
+        "zh": "Room for sale at Noble Revolve Ratchada 6572745",
+        "th": "Room for sale at Noble Revolve Ratchada 6572745"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 54 sq.m., 10,400,000 THB. Source PropertyHub #6217064.",
+        "zh": "出售：2卧，54㎡，10,400,000 泰铢。来源 PropertyHub #6217064。",
+        "th": "ขาย: 2 นอน 54 ตร.ม. ราคา 10,400,000 บาท (PropertyHub #6217064)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6217064. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6217064。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6217064 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/room-for-sale-at-noble-revolve-ratchada-6572745---6217064",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "718dc8a963e3d1458aacab300f4d3eda9cd9ad28f2496123b13c9fbc7cec61c4"
+    },
+    {
+      "external_ref": "propertyhub-6217646",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26,
+      "floor_label": "30+",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "1 Bed Super High Floor 30+ City View Fully furnished Good Location Close To MRT Thailand Cultural Centre Station, 80 m. @ Noble Revolve Ratchada 1 ",
+        "zh": "1 Bed Super High Floor 30+ City View Fully furnished Good Location Close To MRT Thailand Cultural Centre Station, 80 m. @ Noble Revolve Ratchada 1 ",
+        "th": "1 Bed Super High Floor 30+ City View Fully furnished Good Location Close To MRT Thailand Cultural Centre Station, 80 m. @ Noble Revolve Ratchada 1 "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26 sq.m., 14,000 THB. Source PropertyHub #6217646.",
+        "zh": "出租：1卧，26㎡，14,000 泰铢。来源 PropertyHub #6217646。",
+        "th": "เช่า: 1 นอน 26 ตร.ม. ราคา 14,000 บาท (PropertyHub #6217646)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6217646. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6217646。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6217646 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bed-super-high-floor-30-city-view-fully-furnished-good-location-close-to-mrt-thailand-cultural-centre-station-80-m-noble-revolve-ratchada-1---6217646",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "4b868239aa5d1aae58a9ebbcd5906345bbd8d5937b6080de6e255d325a3360b1"
+    },
+    {
+      "external_ref": "propertyhub-4966242",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 26000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 50,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "G 4098💖中国客户，请加微信。(在联系方式的旁边) For rent NOBLE REVOLVE RATCHADA 🅻🅸🅽🅴❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛",
+        "zh": "G 4098💖中国客户，请加微信。(在联系方式的旁边) For rent NOBLE REVOLVE RATCHADA 🅻🅸🅽🅴❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛",
+        "th": "G 4098💖中国客户，请加微信。(在联系方式的旁边) For rent NOBLE REVOLVE RATCHADA 🅻🅸🅽🅴❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 50 sq.m., 26,000 THB. Source PropertyHub #4966242.",
+        "zh": "出租：2卧，50㎡，26,000 泰铢。来源 PropertyHub #4966242。",
+        "th": "เช่า: 2 นอน 50 ตร.ม. ราคา 26,000 บาท (PropertyHub #4966242)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4966242. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4966242。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4966242 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/4966242",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "b19a8a5b6ad35886e9d2872ab5110d9bb515656ea84f01f99d9a8b8e0afc6437"
+    },
+    {
+      "external_ref": "propertyhub-5959875",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "35",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "G8893💛中国客户，请加微信。(在联系方式的旁边) 🅵🅾🆁  🆁🅴🅽🆃 Noble Revolve Ratchada   🅻🅸🅽🅴 ❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛",
+        "zh": "G8893💛中国客户，请加微信。(在联系方式的旁边) 🅵🅾🆁  🆁🅴🅽🆃 Noble Revolve Ratchada   🅻🅸🅽🅴 ❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛",
+        "th": "G8893💛中国客户，请加微信。(在联系方式的旁边) 🅵🅾🆁  🆁🅴🅽🆃 Noble Revolve Ratchada   🅻🅸🅽🅴 ❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 17,000 THB. Source PropertyHub #5959875.",
+        "zh": "出租：1卧，27㎡，17,000 泰铢。来源 PropertyHub #5959875。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 17,000 บาท (PropertyHub #5959875)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5959875. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5959875。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5959875 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/5959875",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "bad255401a9d25b6406102a3d7ca35d8c2308d287a1e4e0177746d8a601c0f07"
+    },
+    {
+      "external_ref": "propertyhub-934328",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "G 2739💖 中国客户，请加微信。(在联系方式的旁边)For rent NOBLE REVOLVE RATCHADA Line❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛",
+        "zh": "G 2739💖 中国客户，请加微信。(在联系方式的旁边)For rent NOBLE REVOLVE RATCHADA Line❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛",
+        "th": "G 2739💖 中国客户，请加微信。(在联系方式的旁边)For rent NOBLE REVOLVE RATCHADA Line❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26 sq.m., 23,000 THB. Source PropertyHub #934328.",
+        "zh": "出租：1卧，26㎡，23,000 泰铢。来源 PropertyHub #934328。",
+        "th": "เช่า: 1 นอน 26 ตร.ม. ราคา 23,000 บาท (PropertyHub #934328)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 934328. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 934328。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 934328 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/934328",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "2da4cfdb88f85fbe7f0134252902eadf5ea902f2d36ed68a5fc31696ddda6c83"
+    },
+    {
+      "external_ref": "propertyhub-950176",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 26000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 51,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "G 2860💖 中国客户，请加微信。(在联系方式的旁边) For rent NOBLE REVOLVE RATCHADA Line❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛",
+        "zh": "G 2860💖 中国客户，请加微信。(在联系方式的旁边) For rent NOBLE REVOLVE RATCHADA Line❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛",
+        "th": "G 2860💖 中国客户，请加微信。(在联系方式的旁边) For rent NOBLE REVOLVE RATCHADA Line❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 51 sq.m., 26,000 THB. Source PropertyHub #950176.",
+        "zh": "出租：2卧，51㎡，26,000 泰铢。来源 PropertyHub #950176。",
+        "th": "เช่า: 2 นอน 51 ตร.ม. ราคา 26,000 บาท (PropertyHub #950176)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 950176. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 950176。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 950176 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/950176",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "f76e7a8fe9840abe91f5fd14d13c13a7259805d54fac4489eae7c2ad32ba0959"
+    },
+    {
+      "external_ref": "propertyhub-1335050",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 28000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 53,
+      "floor_label": "53",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "G 3984💖 中国客户，请加微信。(在联系方式的旁边) For rent NOBLE REVOLVE RATCHADA Line❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛",
+        "zh": "G 3984💖 中国客户，请加微信。(在联系方式的旁边) For rent NOBLE REVOLVE RATCHADA Line❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛",
+        "th": "G 3984💖 中国客户，请加微信。(在联系方式的旁边) For rent NOBLE REVOLVE RATCHADA Line❤️💜@condopremium💜❤️Ready to move in ⬛🟨 📞 065 695 3645🟨⬛"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 53 sq.m., 28,000 THB. Source PropertyHub #1335050.",
+        "zh": "出租：2卧，53㎡，28,000 泰铢。来源 PropertyHub #1335050。",
+        "th": "เช่า: 2 นอน 53 ตร.ม. ราคา 28,000 บาท (PropertyHub #1335050)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 1335050. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 1335050。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 1335050 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1335050",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "6c4df244c5fe85010aa5397b954c5ed4c802ab5fc8a93d4c4e4a9bc0bd3c1bd8"
+    },
+    {
+      "external_ref": "propertyhub-4109925",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 22,
+      "floor_label": "30",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-88161 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-88161 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-88161 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 22 sq.m., 13,000 THB. Source PropertyHub #4109925.",
+        "zh": "出租：1卧，22㎡，13,000 泰铢。来源 PropertyHub #4109925。",
+        "th": "เช่า: 1 นอน 22 ตร.ม. ราคา 13,000 บาท (PropertyHub #4109925)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4109925. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4109925。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4109925 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-noble-revolve-ratchada-mrt-thailand-cultural-centre-huai-khwang-huai-khwang-bangkok-cx-88161-live-chat-with-us-add-line-connexproperty--98dc08ee---4109925",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "6b64eef5fb7cb39070aaf9fb1fd14764e8e52b558ad83e03fc6305606b07060f"
+    },
+    {
+      "external_ref": "propertyhub-5707405",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "30",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-72198 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-72198 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-72198 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 18,500 THB. Source PropertyHub #5707405.",
+        "zh": "出租：1卧，27㎡，18,500 泰铢。来源 PropertyHub #5707405。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 18,500 บาท (PropertyHub #5707405)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5707405. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5707405。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5707405 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-noble-revolve-ratchada-mrt-thailand-cultural-centre-huai-khwang-huai-khwang-bangkok-cx-72198-live-chat-with-us-add-line-connexproperty--a27f09a9---5707405",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "7212671a3bb35111eeba7a1cf66c53fcc6beb8d3a649047b5f92efa78b9661c1"
+    },
+    {
+      "external_ref": "propertyhub-6018362",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "For Rent Condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-152078 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-152078 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-152078 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26 sq.m., 17,000 THB. Source PropertyHub #6018362.",
+        "zh": "出租：1卧，26㎡，17,000 泰铢。来源 PropertyHub #6018362。",
+        "th": "เช่า: 1 นอน 26 ตร.ม. ราคา 17,000 บาท (PropertyHub #6018362)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6018362. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6018362。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6018362 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-noble-revolve-ratchada-mrt-thailand-cultural-centre-huai-khwang-huai-khwang-bangkok-cx-152078-live-chat-with-us-add-line-connexproperty---6018362",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "ff9a6b5bf5d129950d66499111f6a4b386df86d4568f1c0d66258611456174ba"
+    },
+    {
+      "external_ref": "propertyhub-6164840",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 54,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [
+        "mrt"
+      ],
+      "title": {
+        "en": "FOR RENT condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-74140 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-74140 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo , Noble Revolve Ratchada , MRT-Thailand Cultural Centre , Huai Khwang , Huai Khwang , Bangkok , CX-74140 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 54 sq.m., 30,000 THB. Source PropertyHub #6164840.",
+        "zh": "出租：2卧，54㎡，30,000 泰铢。来源 PropertyHub #6164840。",
+        "th": "เช่า: 2 นอน 54 ตร.ม. ราคา 30,000 บาท (PropertyHub #6164840)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6164840. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6164840。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6164840 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-noble-revolve-ratchada-mrt-thailand-cultural-centre-huai-khwang-huai-khwang-bangkok-cx-74140-live-chat-with-us-add-line-connexproperty---6164840",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.763839800592379,
+      "longitude": 100.56933720153559,
+      "duplicate_fingerprint": "54683ade38cd6f4462fdec22c867fe28b1fc0c31d6880ab2c74e7553064e513d"
+    }
+  ]
+}

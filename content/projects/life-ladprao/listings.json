@@ -1,0 +1,908 @@
+{
+  "project_slug": "life-ladprao",
+  "collected_at": "2026-07-14",
+  "source": "propertyhub",
+  "notes": "Harvested from PropertyHub public listing detail __NEXT_DATA__. verification_status=verified only when price present on detail page.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-5510201",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4690000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.67,
+      "floor_label": "11",
+      "building_label": "A",
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥 SALE 🔥 Life Ladprao / 1 Bedroom AON220",
+        "zh": "🔥 SALE 🔥 Life Ladprao / 1 Bedroom AON220",
+        "th": "🔥 SALE 🔥 Life Ladprao / 1 Bedroom AON220"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35.67 sq.m., 4,690,000 THB. Source PropertyHub #5510201.",
+        "zh": "出售：1卧，35.67㎡，4,690,000 泰铢。来源 PropertyHub #5510201。",
+        "th": "ขาย: 1 นอน 35.67 ตร.ม. ราคา 4,690,000 บาท (PropertyHub #5510201)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5510201. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5510201。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5510201 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/sale-life-ladprao-1-bedroom-aon220---5510201",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "426739a42b2a23c0a5ce240266608dff62d62d8b7a4ad697f0f2bb8ff8e24be9"
+    },
+    {
+      "external_ref": "propertyhub-6123680",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "xx",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "1 Bed Large Room City View Fully furnished Good Location Close To BTS Ha Yaek Lat Phrao 10 m. @  Life Ladprao",
+        "zh": "1 Bed Large Room City View Fully furnished Good Location Close To BTS Ha Yaek Lat Phrao 10 m. @  Life Ladprao",
+        "th": "1 Bed Large Room City View Fully furnished Good Location Close To BTS Ha Yaek Lat Phrao 10 m. @  Life Ladprao"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 4,900,000 THB. Source PropertyHub #6123680.",
+        "zh": "出售：1卧，35㎡，4,900,000 泰铢。来源 PropertyHub #6123680。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 4,900,000 บาท (PropertyHub #6123680)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6123680. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6123680。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6123680 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/1-bed-large-room-city-view-fully-furnished-good-location-close-to-bts-ha-yaek-lat-phrao-10-m-life-ladprao--a68f0934---6123680",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "f79b926046a89601a3f128479d4e3cb4ed0ce94b38799f94f5356cb43f923680"
+    },
+    {
+      "external_ref": "propertyhub-5694644",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3450000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25.89,
+      "floor_label": "xx",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Studio with Partition Nice Room Good Location BTS Ha Yaek Lat Phrao & MRT Phahon Yothin @ Life Ladprao",
+        "zh": "Studio with Partition Nice Room Good Location BTS Ha Yaek Lat Phrao & MRT Phahon Yothin @ Life Ladprao",
+        "th": "Studio with Partition Nice Room Good Location BTS Ha Yaek Lat Phrao & MRT Phahon Yothin @ Life Ladprao"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 25.89 sq.m., 3,450,000 THB. Source PropertyHub #5694644.",
+        "zh": "出售：1卧，25.89㎡，3,450,000 泰铢。来源 PropertyHub #5694644。",
+        "th": "ขาย: 1 นอน 25.89 ตร.ม. ราคา 3,450,000 บาท (PropertyHub #5694644)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5694644. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5694644。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5694644 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/studio-with-partition-nice-room-good-location-bts-ha-yaek-lat-phrao-mrt-phahon-yothin-life-ladprao--b37509b2---5694644",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "5e0c2487468cc36fb998003daecc7a31b09d75c7ecb58975096c590bc82c48da"
+    },
+    {
+      "external_ref": "propertyhub-3934389",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3605000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "FOR SALE condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-74993 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR SALE condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-74993 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR SALE condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-74993 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 26 sq.m., 3,605,000 THB. Source PropertyHub #3934389.",
+        "zh": "出售：1卧，26㎡，3,605,000 泰铢。来源 PropertyHub #3934389。",
+        "th": "ขาย: 1 นอน 26 ตร.ม. ราคา 3,605,000 บาท (PropertyHub #3934389)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3934389. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3934389。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3934389 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-life-ladprao-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-74993-live-chat-with-us-add-line-connexproperty--c7cd0a6e---3934389",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "9f18d83e7185f77a8a551b59b52059b4c334e7b0b2357337119183da3de65b6e"
+    },
+    {
+      "external_ref": "propertyhub-5866998",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8290000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 55,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Sale Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-89135 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Sale Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-89135 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Sale Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-89135 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 55 sq.m., 8,290,000 THB. Source PropertyHub #5866998.",
+        "zh": "出售：2卧，55㎡，8,290,000 泰铢。来源 PropertyHub #5866998。",
+        "th": "ขาย: 2 นอน 55 ตร.ม. ราคา 8,290,000 บาท (PropertyHub #5866998)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5866998. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5866998。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5866998 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-life-ladprao-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-89135-live-chat-with-us-add-line-connexproperty---5866998",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "3e366f4695fd844ad863ea6a75d2b3abc25f49b710ff085cbafc1dd65e86ef1c"
+    },
+    {
+      "external_ref": "propertyhub-4794243",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5670000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "35",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "For sell condo LIFE LADPRAO Building A, Floor 35,1 bed room, Room size 35 sqm",
+        "zh": "For sell condo LIFE LADPRAO Building A, Floor 35,1 bed room, Room size 35 sqm",
+        "th": "For sell condo LIFE LADPRAO Building A, Floor 35,1 bed room, Room size 35 sqm"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 5,670,000 THB. Source PropertyHub #4794243.",
+        "zh": "出售：1卧，35㎡，5,670,000 泰铢。来源 PropertyHub #4794243。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 5,670,000 บาท (PropertyHub #4794243)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4794243. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4794243。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4794243 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-life-ladprao-building-a-floor-35-1-bed-room-room-size-35-sqm--bdc40a02---4794243",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "000668302e148ad74813916a7c842b9c5100bd63e7f4a3e78ba4fae399caa237"
+    },
+    {
+      "external_ref": "propertyhub-6225961",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "XX",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "✨ Own the Ultimate Lifestyle at the Best Interchange Hub! Stunning High-Floor Unit Opposite Central Ladprao, Just Steps to BTS & MRT  ✨",
+        "zh": "✨ Own the Ultimate Lifestyle at the Best Interchange Hub! Stunning High-Floor Unit Opposite Central Ladprao, Just Steps to BTS & MRT  ✨",
+        "th": "✨ Own the Ultimate Lifestyle at the Best Interchange Hub! Stunning High-Floor Unit Opposite Central Ladprao, Just Steps to BTS & MRT  ✨"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 4,600,000 THB. Source PropertyHub #6225961.",
+        "zh": "出售：1卧，35㎡，4,600,000 泰铢。来源 PropertyHub #6225961。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 4,600,000 บาท (PropertyHub #6225961)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6225961. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6225961。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6225961 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/own-the-ultimate-lifestyle-at-the-best-interchange-hub-stunning-high-floor-unit-opposite-central-ladprao-just-steps-to-bts-mrt---6225961",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "c1217b0e71c41b1a1d052e03ad7da433916dad66f87dc9e5a3be5041f13465b1"
+    },
+    {
+      "external_ref": "propertyhub-5849072",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8000000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 49.19,
+      "floor_label": "33",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Life Ladprao – High-Floor Corner Unit with City Views 6075029",
+        "zh": "Life Ladprao – High-Floor Corner Unit with City Views 6075029",
+        "th": "Life Ladprao – High-Floor Corner Unit with City Views 6075029"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 49.19 sq.m., 8,000,000 THB. Source PropertyHub #5849072.",
+        "zh": "出售：2卧，49.19㎡，8,000,000 泰铢。来源 PropertyHub #5849072。",
+        "th": "ขาย: 2 นอน 49.19 ตร.ม. ราคา 8,000,000 บาท (PropertyHub #5849072)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5849072. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5849072。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5849072 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/life-ladprao-high-floor-corner-unit-with-city-views-6075029--bf7b09ff---5849072",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "1389fb959a255a00c57559d04d7469078a681ed60a0cb4a134aaa87ae61db3a0"
+    },
+    {
+      "external_ref": "propertyhub-6198540",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9790000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "2 Bedroom for sale tab Life ladprao 6547182",
+        "zh": "2 Bedroom for sale tab Life ladprao 6547182",
+        "th": "2 Bedroom for sale tab Life ladprao 6547182"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 66 sq.m., 9,790,000 THB. Source PropertyHub #6198540.",
+        "zh": "出售：2卧，66㎡，9,790,000 泰铢。来源 PropertyHub #6198540。",
+        "th": "ขาย: 2 นอน 66 ตร.ม. ราคา 9,790,000 บาท (PropertyHub #6198540)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6198540. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6198540。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6198540 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/2-bedroom-for-sale-tab-life-ladprao-6547182---6198540",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "7ddebb8fd3a460c52608a25e6b54c6e66ef926390402ecfd1c4401b8caf78fd5"
+    },
+    {
+      "external_ref": "propertyhub-6207594",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5155555,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "13",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "Studio Condo for sale at Life Ladprao  6507488",
+        "zh": "Studio Condo for sale at Life Ladprao  6507488",
+        "th": "Studio Condo for sale at Life Ladprao  6507488"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 29 sq.m., 5,155,555 THB. Source PropertyHub #6207594.",
+        "zh": "出售：1卧，29㎡，5,155,555 泰铢。来源 PropertyHub #6207594。",
+        "th": "ขาย: 1 นอน 29 ตร.ม. ราคา 5,155,555 บาท (PropertyHub #6207594)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6207594. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6207594。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6207594 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/studio-condo-for-sale-at-life-ladprao-6507488---6207594",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "ca7468f7645fe2edca3d961bedeceaf51c261b239d29f34a7a8e3e6917e75fd4"
+    },
+    {
+      "external_ref": "propertyhub-4941266",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "For Rent ✨ Life Ladprao ✨ Fully furniture , Nicely decorated   >>LineOA : @moov-pp",
+        "zh": "For Rent ✨ Life Ladprao ✨ Fully furniture , Nicely decorated   >>LineOA : @moov-pp",
+        "th": "For Rent ✨ Life Ladprao ✨ Fully furniture , Nicely decorated   >>LineOA : @moov-pp"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 19,000 THB. Source PropertyHub #4941266.",
+        "zh": "出租：1卧，35㎡，19,000 泰铢。来源 PropertyHub #4941266。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 19,000 บาท (PropertyHub #4941266)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 4941266. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 4941266。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 4941266 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-life-ladprao-fully-furniture-nicely-decorated-lineoa-moov-pp---4941266",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "2dbcfaab8ab249be0998cb1c22a490dc2ea7f135825d39ad2bf669e1ea7e16f9"
+    },
+    {
+      "external_ref": "propertyhub-6147827",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28.55,
+      "floor_label": "39",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 FOR RENT condo , Life Ladprao , Duplex , wide frontage , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-02932 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 FOR RENT condo , Life Ladprao , Duplex , wide frontage , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-02932 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 FOR RENT condo , Life Ladprao , Duplex , wide frontage , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-02932 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28.55 sq.m., 19,000 THB. Source PropertyHub #6147827.",
+        "zh": "出租：1卧，28.55㎡，19,000 泰铢。来源 PropertyHub #6147827。",
+        "th": "เช่า: 1 นอน 28.55 ตร.ม. ราคา 19,000 บาท (PropertyHub #6147827)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6147827. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6147827。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6147827 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-ladprao-duplex-wide-frontage-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-02932-live-chat-with-us-add-line-connexproperty--b589097d---6147827",
+      "source_updated_at": "2026-07-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "a11f12cc7e17b2c515637e2e3ad87633f237e13a1822e89020b7eec352d65be1"
+    },
+    {
+      "external_ref": "propertyhub-3898939",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "35 sq m, 20th floor (1 bedroom) next to central ladprao and next to BTS and subway stations.  Fully furnished, @Life Ladprao",
+        "zh": "35 sq m, 20th floor (1 bedroom) next to central ladprao and next to BTS and subway stations.  Fully furnished, @Life Ladprao",
+        "th": "35 sq m, 20th floor (1 bedroom) next to central ladprao and next to BTS and subway stations.  Fully furnished, @Life Ladprao"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 20,000 THB. Source PropertyHub #3898939.",
+        "zh": "出租：1卧，35㎡，20,000 泰铢。来源 PropertyHub #3898939。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 20,000 บาท (PropertyHub #3898939)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 3898939. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 3898939。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 3898939 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/35-sq-m-20th-floor-1-bedroom-next-to-central-ladprao-and-next-to-bts-and-subway-stations-fully-furnished-life-ladprao---3898939",
+      "source_updated_at": "2026-07-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "c3a31a7ce2b483c26ba72fc531517c712a0a53bf3fb1382949ff3c08dd1ad7ac"
+    },
+    {
+      "external_ref": "propertyhub-5080159",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 32000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 51.5,
+      "floor_label": "44",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-120254 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-120254 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-120254 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 51.5 sq.m., 32,000 THB. Source PropertyHub #5080159.",
+        "zh": "出租：2卧，51.5㎡，32,000 泰铢。来源 PropertyHub #5080159。",
+        "th": "เช่า: 2 นอน 51.5 ตร.ม. ราคา 32,000 บาท (PropertyHub #5080159)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5080159. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5080159。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5080159 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-ladprao-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-120254-live-chat-with-us-add-line-connexproperty--ad16094d---5080159",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "57b876f68546c5405e90ab5aa2770744d5730947361f03cce9d3bc00312c642c"
+    },
+    {
+      "external_ref": "propertyhub-5324016",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "44",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-127640 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-127640 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-127640 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 18,000 THB. Source PropertyHub #5324016.",
+        "zh": "出租：1卧，28㎡，18,000 泰铢。来源 PropertyHub #5324016。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 18,000 บาท (PropertyHub #5324016)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5324016. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5324016。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5324016 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-ladprao-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-127640-live-chat-with-us-add-line-connexproperty---5324016",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "a863026cc994e7c154b074af0435926152a5c9cb192835a30c2ce648b775fbd8"
+    },
+    {
+      "external_ref": "propertyhub-5643039",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 50000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-139576 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-139576 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-139576 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 66 sq.m., 50,000 THB. Source PropertyHub #5643039.",
+        "zh": "出租：2卧，66㎡，50,000 泰铢。来源 PropertyHub #5643039。",
+        "th": "เช่า: 2 นอน 66 ตร.ม. ราคา 50,000 บาท (PropertyHub #5643039)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5643039. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5643039。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5643039 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-ladprao-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-139576-live-chat-with-us-add-line-connexproperty--c3dd0ab7---5643039",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "04b2062fd6d891511f5b5286f0271eca9098dac19cea2a45fae4435bf403fad7"
+    },
+    {
+      "external_ref": "propertyhub-5949082",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Life Ladprao , nice view , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-151006 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Life Ladprao , nice view , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-151006 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Life Ladprao , nice view , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-151006 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26 sq.m., 18,000 THB. Source PropertyHub #5949082.",
+        "zh": "出租：1卧，26㎡，18,000 泰铢。来源 PropertyHub #5949082。",
+        "th": "เช่า: 1 นอน 26 ตร.ม. ราคา 18,000 บาท (PropertyHub #5949082)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 5949082. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 5949082。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 5949082 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-ladprao-nice-view-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-151006-live-chat-with-us-add-line-connexproperty---5949082",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "93b19dc9410991a072dd11b01159a0bb055332b939c5c3252dacc13ca158c820"
+    },
+    {
+      "external_ref": "propertyhub-6076424",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27.5,
+      "floor_label": "42",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-156230 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-156230 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-156230 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27.5 sq.m., 18,000 THB. Source PropertyHub #6076424.",
+        "zh": "出租：1卧，27.5㎡，18,000 泰铢。来源 PropertyHub #6076424。",
+        "th": "เช่า: 1 นอน 27.5 ตร.ม. ราคา 18,000 บาท (PropertyHub #6076424)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6076424. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6076424。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6076424 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-ladprao-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-156230-live-chat-with-us-add-line-connexproperty---6076424",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "43e295748066144cb2532b065d745ec4846cb9cacad31bfd49a6c3967a5257bf"
+    },
+    {
+      "external_ref": "propertyhub-6164863",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "FOR RENT condo Life Ladprao , nice view , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-05814 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "zh": "FOR RENT condo Life Ladprao , nice view , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-05814 ✅ Live chat with us ADD LINE @connexproperty ✅",
+        "th": "FOR RENT condo Life Ladprao , nice view , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-05814 ✅ Live chat with us ADD LINE @connexproperty ✅"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 23,000 THB. Source PropertyHub #6164863.",
+        "zh": "出租：1卧，35㎡，23,000 泰铢。来源 PropertyHub #6164863。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 23,000 บาท (PropertyHub #6164863)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6164863. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6164863。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6164863 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-ladprao-nice-view-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-05814-live-chat-with-us-add-line-connexproperty---6164863",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "9e1e391c294ad443f5c6b2dcafd080ca855eaf1b05cd8edc4429d94931083fba"
+    },
+    {
+      "external_ref": "propertyhub-6164890",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 49.5,
+      "floor_label": "33",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "title": {
+        "en": "🔥🔥🔥 For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-159643 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "zh": "🔥🔥🔥 For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-159643 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥",
+        "th": "🔥🔥🔥 For Rent Condo , Life Ladprao , BTS-Ha Yaek Lat Phrao , Chomphon , Chatuchak , Bangkok , CX-159643 ✅ Live chat with us ADD LINE @connexproperty ✅ 🔥🔥🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 49.5 sq.m., 35,000 THB. Source PropertyHub #6164890.",
+        "zh": "出租：1卧，49.5㎡，35,000 泰铢。来源 PropertyHub #6164890。",
+        "th": "เช่า: 1 นอน 49.5 ตร.ม. ราคา 35,000 บาท (PropertyHub #6164890)"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing 6164890. Specs and price from detail __NEXT_DATA__. Availability subject to source page.",
+        "zh": "来自 PropertyHub 挂牌 6164890。规格与价格取自详情页 JSON；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub 6164890 สเปกและราคาจากหน้าต้นทาง สถานะให้ยึดแหล่งต้นทาง"
+      },
+      "featured": false,
+      "source": "propertyhub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-life-ladprao-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-159643-live-chat-with-us-add-line-connexproperty---6164890",
+      "source_updated_at": "2026-07-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "latitude": 13.817115444456586,
+      "longitude": 100.56358951228296,
+      "duplicate_fingerprint": "bca171362aa2466f72dec3e88c3c4ab6ed71c7cafbe18420dbb88e00e924e242"
+    }
+  ]
+}

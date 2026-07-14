@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "Noble Around Ari official / developer page",
       "url": "https://www.noblehome.com/"
+    },
+    {
+      "type": "propertyhub",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/noble-around-ari"
     }
   ],
   "developer": {
@@ -55,13 +60,15 @@
       "th": "พญาไท กรุงเทพฯ"
     },
     "postal_code": "10400",
-    "latitude": null,
-    "longitude": null,
-    "google_maps_url": null,
+    "latitude": 13.778012358807468,
+    "longitude": 100.54423048297679,
+    "google_maps_url": "https://www.google.com/maps?q=13.778012358807468,100.54423048297679",
     "official_website": "https://www.noblehome.com/",
-    "facebook_url": null,
-    "completion_year": null,
-    "transit_tags": ["bts"],
+    "facebook_url": "https://www.facebook.com/NobleDevelopment",
+    "completion_year": 2023,
+    "transit_tags": [
+      "bts"
+    ],
     "seo": {
       "title": {
         "en": "Noble Around Ari Condo in Phaya Thai, Bangkok | GoThailandHome",
@@ -73,6 +80,373 @@
         "zh": "Noble Around 阿里项目页（曼谷帕亚泰），来源为开发商官方站点。",
         "th": "หน้าโครงการ โนเบิล อราวน์ อารีย์ เขตพญาไท อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
-    }
+    },
+    "construction_status": "completed",
+    "facilities": [
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness / gym",
+          "zh": "Fitness / gym",
+          "th": "Fitness / gym"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "park",
+        "name": {
+          "en": "Garden / courtyard",
+          "zh": "Garden / courtyard",
+          "th": "Garden / courtyard"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "library",
+        "name": {
+          "en": "Library",
+          "zh": "Library",
+          "th": "Library"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "lift",
+        "name": {
+          "en": "Elevator",
+          "zh": "Elevator",
+          "th": "Elevator"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "cctv",
+        "name": {
+          "en": "CCTV",
+          "zh": "CCTV",
+          "th": "CCTV"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "keycard",
+        "name": {
+          "en": "Keycard access",
+          "zh": "Keycard access",
+          "th": "Keycard access"
+        },
+        "source": "propertyhub"
+      },
+      {
+        "key": "meeting-room",
+        "name": {
+          "en": "Meeting room",
+          "zh": "Meeting room",
+          "th": "Meeting room"
+        },
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Suan Dusit University",
+          "zh": "Suan Dusit University",
+          "th": "Suan Dusit University"
+        },
+        "distance_m": 5009,
+        "slug": "suan-dusit-university",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "University of the Thai Chamber of Commerce",
+          "zh": "University of the Thai Chamber of Commerce",
+          "th": "University of the Thai Chamber of Commerce"
+        },
+        "distance_m": 4115,
+        "slug": "university-of-the-thai-chamber-of-commerce",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Mahidol University Phaya Thai",
+          "zh": "Mahidol University Phaya Thai",
+          "th": "Mahidol University Phaya Thai"
+        },
+        "distance_m": 3394,
+        "slug": "mahidol-university-phaya-thai",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Borom Ratchachonnani Bangkok Nursing College",
+          "zh": "Borom Ratchachonnani Bangkok Nursing College",
+          "th": "Borom Ratchachonnani Bangkok Nursing College"
+        },
+        "distance_m": 2077,
+        "slug": "borom-ratchachonnani-bangkok-nursing-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Suan Sunandha University ",
+          "zh": "Suan Sunandha University ",
+          "th": "Suan Sunandha University "
+        },
+        "distance_m": 5417,
+        "slug": "suan-sunandha-university",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phramongkutklao College of Medicine",
+          "zh": "Phramongkutklao College of Medicine",
+          "th": "Phramongkutklao College of Medicine"
+        },
+        "distance_m": 2519,
+        "slug": "phramongkutklao-college-of-medicine",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Royal Thai Army Nursing College",
+          "zh": "Royal Thai Army Nursing College",
+          "th": "Royal Thai Army Nursing College"
+        },
+        "distance_m": 2553,
+        "slug": "royal-thai-army-nursing-college",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Command And General Staff College",
+          "zh": "Command And General Staff College",
+          "th": "Command And General Staff College"
+        },
+        "distance_m": 2779,
+        "slug": "command-and-general-staff-college",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Phramongkutklao Hospital",
+          "zh": "Phramongkutklao Hospital",
+          "th": "Phramongkutklao Hospital"
+        },
+        "distance_m": 2267,
+        "slug": "phramongkutklao-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phyathai 2 Hospital",
+          "zh": "Phyathai 2 Hospital",
+          "th": "Phyathai 2 Hospital"
+        },
+        "distance_m": 998,
+        "slug": "phyathai-2-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Vichaiyut Hospital ",
+          "zh": "Vichaiyut Hospital ",
+          "th": "Vichaiyut Hospital "
+        },
+        "distance_m": 1859,
+        "slug": "vichaiyut-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Phyathai Phaholyothin Hospital",
+          "zh": "Phyathai Phaholyothin Hospital",
+          "th": "Phyathai Phaholyothin Hospital"
+        },
+        "distance_m": 1996,
+        "slug": "phyathai-phaholyothin-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "‎Rajavithi Hospital",
+          "zh": "‎Rajavithi Hospital",
+          "th": "‎Rajavithi Hospital"
+        },
+        "distance_m": 1829,
+        "slug": "‎rajavithi-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Hua Chiao Hospital",
+          "zh": "Hua Chiao Hospital",
+          "th": "Hua Chiao Hospital"
+        },
+        "distance_m": 5560,
+        "slug": "hua-chiao-hospital",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Hospital for Tropical Diseases Mahidol University",
+          "zh": "Hospital for Tropical Diseases Mahidol University",
+          "th": "Hospital for Tropical Diseases Mahidol University"
+        },
+        "distance_m": 2247,
+        "slug": "hospital-for-tropical-diseases-mahidol-university",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Bhumirajanagarindra Kidney Institute Hospital",
+          "zh": "Bhumirajanagarindra Kidney Institute Hospital",
+          "th": "Bhumirajanagarindra Kidney Institute Hospital"
+        },
+        "distance_m": 2363,
+        "slug": "bhumirajanagarindra-kidney-institute-hospital",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Big C Extra Ratchadaphisek",
+          "zh": "Big C Extra Ratchadaphisek",
+          "th": "Big C Extra Ratchadaphisek"
+        },
+        "distance_m": 6056,
+        "slug": "big-c-extra-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Pracha Chuen",
+          "zh": "Tesco Lotus Superstore Pracha Chuen",
+          "th": "Tesco Lotus Superstore Pracha Chuen"
+        },
+        "distance_m": 4424,
+        "slug": "tesco-lotus-superstore-pracha-chuen",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Saphan Khwai",
+          "zh": "Big C Super Center Saphan Khwai",
+          "th": "Big C Super Center Saphan Khwai"
+        },
+        "distance_m": 1744,
+        "slug": "big-c-super-center-saphan-khwai",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Chatuchak Weekend Market",
+          "zh": "Chatuchak Weekend Market",
+          "th": "Chatuchak Weekend Market"
+        },
+        "distance_m": 2983,
+        "slug": "chatuchak-weekend-market",
+        "source": "propertyhub"
+      }
+    ],
+    "nearby_shopping": [
+      {
+        "name": {
+          "en": "Big C Extra Ratchadaphisek",
+          "zh": "Big C Extra Ratchadaphisek",
+          "th": "Big C Extra Ratchadaphisek"
+        },
+        "distance_m": 6056,
+        "slug": "big-c-extra-ratchadaphisek",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Tesco Lotus Superstore Pracha Chuen",
+          "zh": "Tesco Lotus Superstore Pracha Chuen",
+          "th": "Tesco Lotus Superstore Pracha Chuen"
+        },
+        "distance_m": 4424,
+        "slug": "tesco-lotus-superstore-pracha-chuen",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Big C Super Center Saphan Khwai",
+          "zh": "Big C Super Center Saphan Khwai",
+          "th": "Big C Super Center Saphan Khwai"
+        },
+        "distance_m": 1744,
+        "slug": "big-c-super-center-saphan-khwai",
+        "source": "propertyhub"
+      },
+      {
+        "name": {
+          "en": "Chatuchak Weekend Market",
+          "zh": "Chatuchak Weekend Market",
+          "th": "Chatuchak Weekend Market"
+        },
+        "distance_m": 2983,
+        "slug": "chatuchak-weekend-market",
+        "source": "propertyhub"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "When was the project completed?",
+          "zh": "项目何时完工？",
+          "th": "โครงการเสร็จเมื่อใด?"
+        },
+        "answer": {
+          "en": "PropertyHub lists completion year as 2023.",
+          "zh": "PropertyHub 记载完工年份为 2023。",
+          "th": "PropertyHub ระบุปีที่แล้วเสร็จเป็น 2023"
+        }
+      },
+      {
+        "question": {
+          "en": "How many units are in the project?",
+          "zh": "项目共有多少套？",
+          "th": "โครงการมีกี่ยูนิต?"
+        },
+        "answer": {
+          "en": "PropertyHub lists 611 total units.",
+          "zh": "PropertyHub 记载总套数为 611。",
+          "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 611"
+        }
+      }
+    ]
   }
 }
