@@ -33,7 +33,18 @@ export type DeveloperRow = {
   name_zh: string;
   name_th: string;
   website: string | null;
+  legal_name_en: string | null;
+  legal_name_zh: string | null;
+  legal_name_th: string | null;
+  description_en: string | null;
+  description_zh: string | null;
+  description_th: string | null;
+  facebook_url: string | null;
+  logo_url: string | null;
+  phone: string | null;
+  email: string | null;
   created_at: string;
+  updated_at: string;
 };
 
 export type AgentRow = {
@@ -57,13 +68,50 @@ export type PropertyProjectRow = {
   developer_id: string | null;
   location_id: string | null;
   slug: string;
+  status: PropertyStatus;
   name_en: string;
   name_zh: string;
   name_th: string;
   description_en: string | null;
   description_zh: string | null;
   description_th: string | null;
+  address_en: string | null;
+  address_zh: string | null;
+  address_th: string | null;
+  postal_code: string | null;
+  latitude: number | null;
+  longitude: number | null;
+  google_maps_url: string | null;
+  official_website: string | null;
+  facebook_url: string | null;
+  completion_year: number | null;
+  total_floors: number | null;
+  total_units: number | null;
+  building_count: number | null;
+  land_area_rai: string | null;
+  parking_spaces: number | null;
+  ceiling_height_m: number | null;
+  common_fee_thb_per_sqm: number | null;
+  specifications: Record<string, unknown>;
+  unit_types: unknown[];
+  facilities: unknown[];
+  transportation: unknown[];
+  nearby_schools: unknown[];
+  nearby_hospitals: unknown[];
+  nearby_malls: unknown[];
+  faq: unknown[];
+  seo_title_en: string | null;
+  seo_title_zh: string | null;
+  seo_title_th: string | null;
+  seo_description_en: string | null;
+  seo_description_zh: string | null;
+  seo_description_th: string | null;
+  og_image_path: string | null;
+  hero_image_path: string | null;
+  published_at: string | null;
+  source_notes: string | null;
   created_at: string;
+  updated_at: string;
 };
 
 export type PropertyRow = {
@@ -92,6 +140,12 @@ export type PropertyRow = {
   featured: boolean;
   published_at: string | null;
   created_by: string | null;
+  source: string | null;
+  listing_url: string | null;
+  source_updated_at: string | null;
+  external_ref: string | null;
+  floor_label: string | null;
+  building_label: string | null;
   created_at: string;
   updated_at: string;
 };
@@ -132,12 +186,22 @@ export type AdminUserRow = {
 export type InquiryRow = {
   id: string;
   property_id: string | null;
+  project_id: string | null;
   name: string;
   email: string;
   phone: string | null;
+  phone_normalized: string | null;
   message: string;
   locale: string;
   status: "new" | "reviewed" | "closed";
+  utm_source: string | null;
+  utm_medium: string | null;
+  utm_campaign: string | null;
+  utm_content: string | null;
+  utm_term: string | null;
+  gclid: string | null;
+  fbclid: string | null;
+  conversion_event: string | null;
   created_at: string;
 };
 

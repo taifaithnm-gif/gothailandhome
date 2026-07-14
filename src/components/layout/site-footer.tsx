@@ -14,6 +14,7 @@ export function SiteFooter({ locale, dict }: SiteFooterProps) {
 
   const explore = [
     { href: localePath(locale, "/properties"), label: dict.nav.properties },
+    { href: localePath(locale, "/projects"), label: dict.nav.projects },
     { href: localePath(locale, "/search"), label: dict.nav.search },
   ];
 

@@ -1,0 +1,635 @@
+{
+  "slug": "the-livin-ramkhamhaeng",
+  "collected_at": "2026-07-14",
+  "sources": [
+    {
+      "type": "official_website",
+      "name": "The Livin Ramkhamhaeng official site",
+      "url": "https://www.livinram.com/en"
+    },
+    {
+      "type": "official_website",
+      "name": "The Livin Ramkhamhaeng official site (TH)",
+      "url": "https://www.livinram.com/th"
+    },
+    {
+      "type": "facebook",
+      "name": "Rislandthailand (developer Facebook)",
+      "url": "https://www.facebook.com/Rislandthailand"
+    },
+    {
+      "type": "facebook",
+      "name": "The Livin Ramkhamhaeng Facebook (cited on postupnews)",
+      "url": "https://www.facebook.com/TheLivinRamkhamhaeng"
+    },
+    {
+      "type": "google_maps",
+      "name": "Google Maps place / short link cited for project address",
+      "url": "https://g.co/kgs/q1r96u"
+    },
+    {
+      "type": "public_portal",
+      "name": "PropertyHub project page",
+      "url": "https://propertyhub.in.th/en/projects/the-livin-ramkhamhaeng"
+    },
+    {
+      "type": "public_portal",
+      "name": "Zmyhome project page",
+      "url": "https://zmyhome.com/project/V17585"
+    }
+  ],
+  "developer": {
+    "slug": "risland-thailand",
+    "name": {
+      "en": "RISLAND Thailand",
+      "zh": "瑞思兰泰国（RISLAND Thailand）",
+      "th": "ริสแลนด์ ประเทศไทย"
+    },
+    "legal_name": {
+      "en": "RISLAND (Thailand) Co., Ltd.",
+      "zh": "RISLAND (Thailand) Co., Ltd.",
+      "th": "บริษัท ริสแลนด์ (ประเทศไทย) จำกัด"
+    },
+    "description": {
+      "en": "RISLAND (Thailand) Co., Ltd. is the developer of The Livin Ramkhamhaeng. The official project website lead form also names River 21 Co., Ltd. for personal-data consent related to promotions.",
+      "zh": "The Livin Ramkhamhaeng 由 RISLAND (Thailand) Co., Ltd. 开发。官方项目网站线索表单的个保同意对象亦出现 River 21 Co., Ltd.。",
+      "th": "บริษัท ริสแลนด์ (ประเทศไทย) จำกัด เป็นผู้พัฒนาโครงการเดอะ ลิฟวิ่น รามคำแหง แบบฟอร์มรับสิทธิพิเศษบนเว็บไซต์อย่างเป็นทางการระบุความยินยอมข้อมูลต่อ บริษัท ริเวอร์ 21 จำกัด"
+    },
+    "website": "https://www.livinram.com/en",
+    "facebook_url": "https://www.facebook.com/Rislandthailand",
+    "phone": "02-026-6888",
+    "sources": [
+      "https://www.livinram.com/en",
+      "https://zmyhome.com/project/V17585",
+      "https://th.postupnews.com/2020/08/the-livin-ramkhamhaeng.html"
+    ]
+  },
+  "location": {
+    "slug": "hua-mak-bang-kapi-bangkok",
+    "name": {
+      "en": "Hua Mak, Bang Kapi",
+      "zh": "华目（Hua Mak），挽甲必",
+      "th": "หัวหมาก บางกะปิ"
+    },
+    "city": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "province": {
+      "en": "Bangkok",
+      "zh": "曼谷",
+      "th": "กรุงเทพมหานคร"
+    },
+    "country_code": "TH"
+  },
+  "project": {
+    "name": {
+      "en": "The Livin Ramkhamhaeng",
+      "zh": "The Livin Ramkhamhaeng（德利温·蓝康恒）",
+      "th": "เดอะ ลิฟวิ่น รามคำแหง"
+    },
+    "description": {
+      "en": "The Livin Ramkhamhaeng is a completed high-rise condominium in Hua Mak, Bang Kapi, Bangkok, marketed under the concept “Livin Beyond Boundary”. Official project materials position it at the Lam Sali multi-line transport node.",
+      "zh": "The Livin Ramkhamhaeng 位于曼谷挽甲必华目，是已完工的高层共管公寓，官方定位于兰萨利（Lam Sali）多线路交通节点，理念为 “Livin Beyond Boundary”。",
+      "th": "เดอะ ลิฟวิ่น รามคำแหง เป็นคอนโดมิเนียมสูงในย่านหัวหมาก บางกะปิ กรุงเทพฯ ภายใต้แนวคิด “Livin Beyond Boundary” และตั้งอยู่ใกล้จุดเชื่อมต่อคมนาคมแยกลำสาลี"
+    },
+    "address": {
+      "en": "Soi Ramkhamhaeng 97/2, Hua Mak, Bang Kapi, Bangkok 10240",
+      "zh": "Soi Ramkhamhaeng 97/2，华目，挽甲必，曼谷 10240",
+      "th": "ซอยรามคำแหง 97/2 แขวงหัวหมาก เขตบางกะปิ กรุงเทพมหานคร 10240"
+    },
+    "postal_code": "10240",
+    "latitude": 13.763,
+    "longitude": 100.647,
+    "google_maps_url": "https://g.co/kgs/q1r96u",
+    "coordinate_note": "Google Maps place payload for “The Livin Ramkhamhaeng” resolves to approx. lat 13.763, lng 100.647. PropertyHub project map markers in the same cluster include 13.763383, 100.649367.",
+    "official_website": "https://www.livinram.com/en",
+    "facebook_url": "https://www.facebook.com/TheLivinRamkhamhaeng",
+    "completion_year": 2024,
+    "total_floors": 42,
+    "total_units": 1938,
+    "building_count": 1,
+    "land_area_rai": "8-3-33",
+    "parking_spaces": 755,
+    "ceiling_height_m": 2.6,
+    "common_fee_thb_per_sqm": 45,
+    "specifications": {
+      "property_type": "condominium",
+      "concept": "Livin Beyond Boundary",
+      "progress_note": "Official site progress bars show piling/foundation, structure, architecture, and MEP marked 100%.",
+      "sources": [
+        "https://www.livinram.com/en",
+        "https://propertyhub.in.th/en/projects/the-livin-ramkhamhaeng",
+        "https://zmyhome.com/project/V17585"
+      ]
+    },
+    "unit_types": [
+      {
+        "code": "22",
+        "area_sqm": 22,
+        "label": {
+          "en": "22 sq.m. unit plan",
+          "zh": "22 平方米户型",
+          "th": "แปลนห้อง 22 ตร.ม."
+        },
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "code": "28",
+        "area_sqm": 28,
+        "label": {
+          "en": "28 sq.m. unit plan",
+          "zh": "28 平方米户型",
+          "th": "แปลนห้อง 28 ตร.ม."
+        },
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "code": "32",
+        "area_sqm": 32,
+        "label": {
+          "en": "32 sq.m. unit plan",
+          "zh": "32 平方米户型",
+          "th": "แปลนห้อง 32 ตร.ม."
+        },
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "code": "38",
+        "area_sqm": 38,
+        "label": {
+          "en": "38 sq.m. unit plan",
+          "zh": "38 平方米户型",
+          "th": "แปลนห้อง 38 ตร.ม."
+        },
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "code": "55",
+        "area_sqm": 55,
+        "label": {
+          "en": "55 sq.m. unit plan",
+          "zh": "55 平方米户型",
+          "th": "แปลนห้อง 55 ตร.ม."
+        },
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "code": "61.5",
+        "area_sqm": 61.5,
+        "label": {
+          "en": "61.5 sq.m. unit plan",
+          "zh": "61.5 平方米户型",
+          "th": "แปลนห้อง 61.5 ตร.ม."
+        },
+        "source": "https://www.livinram.com/en"
+      }
+    ],
+    "facilities": [
+      {
+        "zone": {
+          "en": "Ground floor",
+          "zh": "一楼",
+          "th": "ชั้นล่าง"
+        },
+        "items": [
+          {
+            "en": "Lobby",
+            "zh": "大堂",
+            "th": "ล็อบบี้"
+          },
+          {
+            "en": "Livin Park",
+            "zh": "Livin Park",
+            "th": "ลิฟวิ่นพาร์ค"
+          }
+        ],
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "zone": {
+          "en": "7th floor",
+          "zh": "7 楼",
+          "th": "ชั้น 7"
+        },
+        "items": [
+          {
+            "en": "LIVIN Edge Lap Pool",
+            "zh": "无边泳池",
+            "th": "สระว่ายน้ำขอบinfinity"
+          },
+          {
+            "en": "LIVIN Gym",
+            "zh": "健身房",
+            "th": "ฟิตเนส"
+          },
+          {
+            "en": "LIVIN Boxing Hit",
+            "zh": "拳击区",
+            "th": "โซนมวย"
+          },
+          {
+            "en": "LIVIN Lounge",
+            "zh": "休闲廊",
+            "th": "เลานจ์"
+          },
+          {
+            "en": "LIVIN Yoga",
+            "zh": "瑜伽区",
+            "th": "โซนโยคะ"
+          },
+          {
+            "en": "LIVIN Kids Planet",
+            "zh": "儿童区",
+            "th": "โซนเด็ก"
+          }
+        ],
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "zone": {
+          "en": "42nd floor",
+          "zh": "42 楼",
+          "th": "ชั้น 42"
+        },
+        "items": [
+          {
+            "en": "LIVIN Co-kitchen Studio",
+            "zh": "共用厨房工作室",
+            "th": "ครัวร่วม / โค-คิทเช่น"
+          },
+          {
+            "en": "LIVIN Board Game Center",
+            "zh": "桌游中心",
+            "th": "บอร์ดเกมเซ็นเตอร์"
+          },
+          {
+            "en": "LIVIN Game Club",
+            "zh": "游戏俱乐部",
+            "th": "เกมคลับ"
+          },
+          {
+            "en": "LIVIN E-Sport Entertainment",
+            "zh": "电竞娱乐",
+            "th": "อีสปอร์ต"
+          },
+          {
+            "en": "LIVIN Theater Room",
+            "zh": "影音室",
+            "th": "โรงภาพยนตร์ส่วนกลาง"
+          },
+          {
+            "en": "LIVIN Co-Working Space",
+            "zh": "联合办公",
+            "th": "โคเวิร์กกิ้งสเปซ"
+          },
+          {
+            "en": "LIVIN Work Shop Studio",
+            "zh": "工坊工作室",
+            "th": "เวิร์กช็อปสตูดิโอ"
+          },
+          {
+            "en": "LIVIN Business Center",
+            "zh": "商务中心",
+            "th": "บิสซิเนสเซ็นเตอร์"
+          },
+          {
+            "en": "LIVIN Meeting Room",
+            "zh": "会议室",
+            "th": "ห้องประชุม"
+          }
+        ],
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "zone": {
+          "en": "Rooftop",
+          "zh": "天台",
+          "th": "ดาดฟ้า"
+        },
+        "items": [
+          {
+            "en": "LIVIN Jogging Track",
+            "zh": "慢跑道",
+            "th": "ลู่วิ่งดาดฟ้า"
+          },
+          {
+            "en": "Roof Top Garden",
+            "zh": "屋顶花园",
+            "th": "สวนดาดฟ้า"
+          }
+        ],
+        "source": "https://www.livinram.com/en"
+      }
+    ],
+    "transportation": [
+      {
+        "name": {
+          "en": "MRT Brown Line (under planning)",
+          "zh": "棕线地铁（规划中）",
+          "th": "รถไฟฟ้าสายสีน้ำตาล (อยู่ระหว่างวางแผน)"
+        },
+        "distance": "50 m",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "MRT Orange Line Lam Sali Station",
+          "zh": "橙线地铁兰萨利站",
+          "th": "MRT สายสีส้ม สถานีลำสาลี"
+        },
+        "distance": "180 m",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Bang Kapi boat pier",
+          "zh": "挽甲必码头",
+          "th": "ท่าเรือบางกะปิ"
+        },
+        "distance": "200 m",
+        "note": {
+          "en": "Official site notes 1 stop to The Mall Bangkapi.",
+          "zh": "官方注明可 1 站至 The Mall Bangkapi。",
+          "th": "เว็บไซต์โครงการระบุ 1 ป้ายถึงเดอะมอลล์บางกะปิ"
+        },
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "MRT Yellow Line Lam Sali Station",
+          "zh": "黄线地铁兰萨利站",
+          "th": "MRT สายสีเหลือง สถานีลำสาลี"
+        },
+        "distance": "350 m",
+        "source": "https://www.livinram.com/en"
+      }
+    ],
+    "nearby_schools": [
+      {
+        "name": {
+          "en": "Hua Mak Kindergarten",
+          "zh": "华目幼儿园",
+          "th": "โรงเรียนอนุบาลหัวหมาก"
+        },
+        "distance": "200 m",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Ramkhamhaeng Advent International School",
+          "zh": "蓝康恒复临国际学校",
+          "th": "โรงเรียนนานาชาติแอดเวนทิสต์ รามคำแหง"
+        },
+        "distance": "1.2 km",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Mandarin International School (MIS)",
+          "zh": "曼德林国际学校（MIS）",
+          "th": "โรงเรียนนานาชาติแมนดาริน"
+        },
+        "distance": "1.4 km",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "National Institute of Development Administration (NIDA)",
+          "zh": "国家发展行政学院（NIDA）",
+          "th": "สถาบันบัณฑิตพัฒนบริหารศาสตร์ (นิด้า)"
+        },
+        "distance": "1.8 km",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Ramkhamhaeng University",
+          "zh": "蓝康恒大学",
+          "th": "มหาวิทยาลัยรามคำแหง"
+        },
+        "distance": "3.7 km",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Wellington College International School",
+          "zh": "惠灵顿国际学校",
+          "th": "โรงเรียนนานาชาติเวลลิงตันคอลเลจ"
+        },
+        "distance": "4 km",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Assumption University (Huamark)",
+          "zh": "易三仓大学（华目校区）",
+          "th": "มหาวิทยาลัยอัสสัมชัญ (หัวหมาก)"
+        },
+        "distance": "4.4 km",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Bodindecha (Sing Singhaseni) School",
+          "zh": "博丁德查学校",
+          "th": "โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี)"
+        },
+        "distance": "4.8 km",
+        "source": "https://www.livinram.com/en"
+      }
+    ],
+    "nearby_hospitals": [
+      {
+        "name": {
+          "en": "Ramkhamhaeng Hospital",
+          "zh": "蓝康恒医院",
+          "th": "โรงพยาบาลรามคำแหง"
+        },
+        "distance": "1.4 km",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Vejthani Hospital",
+          "zh": "威塔尼医院",
+          "th": "โรงพยาบาลเวชธานี"
+        },
+        "distance": "2 km",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Kasemrad Hospital",
+          "zh": "加森拉德医院",
+          "th": "โรงพยาบาลเกษมราษฎร์"
+        },
+        "distance": "3.5 km",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Samitivej Srinakarin Hospital",
+          "zh": "三美医院诗丽吉分院",
+          "th": "โรงพยาบาลสมิติเวช ศรีนครินทร์"
+        },
+        "distance": "4 km",
+        "source": "https://www.livinram.com/en"
+      }
+    ],
+    "nearby_malls": [
+      {
+        "name": {
+          "en": "Tesco Lotus Bangkapi",
+          "zh": "Tesco Lotus 挽甲必",
+          "th": "เทสโก้ โลตัส บางกะปิ"
+        },
+        "distance": "800 m",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "The Mall Bangkapi",
+          "zh": "The Mall 挽甲必",
+          "th": "เดอะมอลล์บางกะปิ"
+        },
+        "distance": "950 m",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Makro Bangkapi",
+          "zh": "Makro 挽甲必",
+          "th": "แม็คโครบางกะปิ"
+        },
+        "distance": "1.2 km",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Big C Extra",
+          "zh": "Big C Extra",
+          "th": "บิ๊กซี เอ็กซ์ตร้า"
+        },
+        "distance": "1.2 km",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "HomePro",
+          "zh": "HomePro",
+          "th": "โฮมโปร"
+        },
+        "distance": "1.3 km",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "Paseo Town",
+          "zh": "Paseo Town",
+          "th": "พาซิโอ ทาวน์"
+        },
+        "distance": "2.3 km",
+        "source": "https://www.livinram.com/en"
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "Where is The Livin Ramkhamhaeng?",
+          "zh": "The Livin Ramkhamhaeng 在哪里？",
+          "th": "เดอะ ลิฟวิ่น รามคำแหง อยู่ที่ไหน?"
+        },
+        "answer": {
+          "en": "Official address: Soi Ramkhamhaeng 97/2, Hua Mak, Bang Kapi, Bangkok 10240.",
+          "zh": "官方地址：曼谷挽甲必华目 Soi Ramkhamhaeng 97/2，邮编 10240。",
+          "th": "ที่อยู่ตามเว็บไซต์โครงการ: ซอยรามคำแหง 97/2 หัวหมาก บางกะปิ กรุงเทพฯ 10240"
+        }
+      },
+      {
+        "question": {
+          "en": "Who developed the project?",
+          "zh": "开发商是谁？",
+          "th": "ใครเป็นผู้พัฒนาโครงการ?"
+        },
+        "answer": {
+          "en": "RISLAND (Thailand) Co., Ltd. Public portals and press coverage also refer to Risland Thailand; the official lead form mentions River 21 Co., Ltd. for promotion consent.",
+          "zh": "开发商为 RISLAND (Thailand) Co., Ltd.；公开门户与新闻亦写作 Risland Thailand；官网线索表单独数据同意对象为 River 21 Co., Ltd.。",
+          "th": "ผู้พัฒนาคือ บริษัท ริสแลนด์ (ประเทศไทย) จำกัด และแบบฟอร์มบนเว็บไซต์โครงการระบุความยินยอมการตลาดต่อ บริษัท ริเวอร์ 21 จำกัด"
+        }
+      },
+      {
+        "question": {
+          "en": "How large is the project?",
+          "zh": "项目规模多大？",
+          "th": "โครงการมีขนาดเท่าไร?"
+        },
+        "answer": {
+          "en": "Public portals list about 42 floors, 1,938 units, land area 8-3-33 rai, and about 755 parking spaces, with completion listed as 2024.",
+          "zh": "公开门户资料约为 42 层、1,938 套、用地 8-3-33 莱、约 755 个车位，完工年份 2024。",
+          "th": "ข้อมูลพอร์ทัลสาธารณะระบุประมาณ 42 ชั้น 1,938 ยูนิต พื้นที่โครงการ 8-3-33 ไร่ ที่จอดรถราว 755 คัน ปีที่สร้างเสร็จ 2567/2024"
+        }
+      },
+      {
+        "question": {
+          "en": "Which unit sizes are shown on the official site?",
+          "zh": "官网展示哪些户型面积？",
+          "th": "เว็บไซต์อย่างเป็นทางการแสดงขนาดห้องอะไรบ้าง?"
+        },
+        "answer": {
+          "en": "Official unit plans: 22 / 28 / 32 / 38 / 55 / 61.5 sq.m.",
+          "zh": "官网户型平面：22 / 28 / 32 / 38 / 55 / 61.5 平方米。",
+          "th": "แปลนยูนิตบนเว็บไซต์โครงการ: 22 / 28 / 32 / 38 / 55 / 61.5 ตร.ม."
+        }
+      },
+      {
+        "question": {
+          "en": "How close is it to rail transit?",
+          "zh": "距离轨道交通有多近？",
+          "th": "ใกล้รถไฟฟ้าแค่ไหน?"
+        },
+        "answer": {
+          "en": "Official distances: Brown Line (planned) 50 m, Orange Line Lam Sali 180 m, Yellow Line Lam Sali 350 m, plus Bang Kapi boat pier 200 m.",
+          "zh": "官方距离：棕线（规划）50 米、橙线兰萨利 180 米、黄线兰萨利 350 米，挽甲必码头 200 米。",
+          "th": "ระยะทางตามเว็บไซต์โครงการ: สายสีน้ำตาล (วางแผน) 50 ม., สายสีส้มลำสาลี 180 ม., สายสีเหลืองลำสาลี 350 ม., ท่าเรือบางกะปิ 200 ม."
+        }
+      },
+      {
+        "question": {
+          "en": "Are sale and rental prices on GoThailandHome guaranteed?",
+          "zh": "本站标价是否保证成交？",
+          "th": "ราคาบน GoThailandHome รับประกันหรือไม่?"
+        },
+        "answer": {
+          "en": "No. Unit prices are copied from public listing pages with source URL and update/capture date. Always re-confirm with the listing source or an agent before acting.",
+          "zh": "否。单价来自公开挂牌页并保留来源链接与更新日期/采集日，成交前请向来源或中介复核。",
+          "th": "ไม่รับประกัน ราคาถูกคัดลอกจากหน้าประกาศสาธารณะพร้อมลิงก์แหล่งที่มาและวันอัปเดต/วันเก็บข้อมูล ควรยืนยันกับแหล่งประกาศหรือเอเจนซีอีกครั้ง"
+        }
+      }
+    ],
+    "seo": {
+      "title": {
+        "en": "The Livin Ramkhamhaeng Condo | Hua Mak Bang Kapi Bangkok",
+        "zh": "The Livin Ramkhamhaeng 公寓｜曼谷华目挽甲必",
+        "th": "คอนโดเดอะ ลิฟวิ่น รามคำแหง | หัวหมาก บางกะปิ"
+      },
+      "description": {
+        "en": "Real project profile for The Livin Ramkhamhaeng near Lam Sali interchange: facilities, unit plans, nearby schools, hospitals, malls, and verified public sale/rent listings.",
+        "zh": "The Livin Ramkhamhaeng 真实项目资料：兰萨利交通节点、设施、户型、周边学校医院商场，以及已核对的公开买卖/租赁挂牌。",
+        "th": "โปรไฟล์โครงการจริงเดอะ ลิฟวิ่น รามคำแหง ใกล้แยกลำสาลี สิ่งอำนวยความสะดวก แปลนห้อง โรงเรียน โรงพยาบาล ห้าง และประกาศขาย/เช่าจากแหล่งสาธารณะ"
+      }
+    },
+    "og_image_path": "/og/projects/the-livin-ramkhamhaeng.svg",
+    "hero_image_path": "/projects/the-livin-ramkhamhaeng/hero-placeholder.svg",
+    "source_notes": "Distances and facility names are taken from the official project website. Building counts/units/parking/year from PropertyHub and Zmyhome public project pages."
+  },
+  "ads": {
+    "landing_path": "/projects/the-livin-ramkhamhaeng",
+    "meta_pixel_placeholder_id": "META_PIXEL_ID_PLACEHOLDER",
+    "google_ads_conversion_placeholder_id": "AW-CONVERSION_ID_PLACEHOLDER",
+    "google_ads_conversion_label_placeholder": "CONVERSION_LABEL_PLACEHOLDER",
+    "lead_form_event": "generate_lead",
+    "og_image_placeholder": "/og/projects/the-livin-ramkhamhaeng.svg"
+  }
+}

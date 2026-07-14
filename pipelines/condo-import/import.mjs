@@ -1,0 +1,292 @@
+#!/usr/bin/env node
+/**
+ * Upserts a condo project package (manifest.json + listings.json) into Supabase.
+ * Usage: node pipelines/condo-import/import.mjs content/projects/<slug> [--dry-run]
+ */
+import { readFileSync, existsSync } from "node:fs";
+import { resolve } from "node:path";
+import { createClient } from "@supabase/supabase-js";
+
+function loadEnvLocal() {
+  try {
+    const text = readFileSync(resolve(process.cwd(), ".env.local"), "utf8");
+    for (const line of text.split("\n")) {
+      if (!line || line.startsWith("#") || !line.includes("=")) continue;
+      const i = line.indexOf("=");
+      const key = line.slice(0, i);
+      let value = line.slice(i + 1);
+      if (
+        (value.startsWith('"') && value.endsWith('"')) ||
+        (value.startsWith("'") && value.endsWith("'"))
+      ) {
+        value = value.slice(1, -1);
+      }
+      if (!process.env[key]) process.env[key] = value;
+    }
+  } catch {
+    // ignore
+  }
+}
+
+loadEnvLocal();
+
+const packageDir = resolve(process.cwd(), process.argv[2] || "");
+const dryRun = process.argv.includes("--dry-run");
+
+if (!packageDir || !existsSync(packageDir)) {
+  console.error(
+    "Usage: node pipelines/condo-import/import.mjs content/projects/<slug> [--dry-run]",
+  );
+  process.exit(1);
+}
+
+const manifestPath = resolve(packageDir, "manifest.json");
+const listingsPath = resolve(packageDir, "listings.json");
+const manifest = JSON.parse(readFileSync(manifestPath, "utf8"));
+const listingsPkg = JSON.parse(readFileSync(listingsPath, "utf8"));
+
+function requireFields(obj, fields, label) {
+  for (const field of fields) {
+    if (obj[field] == null || obj[field] === "") {
+      throw new Error(`${label} missing required field: ${field}`);
+    }
+  }
+}
+
+requireFields(
+  manifest,
+  ["slug", "developer", "location", "project"],
+  "manifest",
+);
+requireFields(manifest.developer, ["slug", "name"], "developer");
+requireFields(manifest.project, ["name", "address"], "project");
+
+for (const listing of listingsPkg.listings || []) {
+  requireFields(
+    listing,
+    [
+      "external_ref",
+      "listing_type",
+      "price_thb",
+      "source",
+      "listing_url",
+      "source_updated_at",
+      "title",
+      "summary",
+      "description",
+    ],
+    `listing ${listing.external_ref || "?"}`,
+  );
+}
+
+console.log(`Package: ${manifest.slug}`);
+console.log(`Listings: ${(listingsPkg.listings || []).length}`);
+if (dryRun) {
+  console.log("Dry run OK — no database writes.");
+  process.exit(0);
+}
+
+const supabaseUrl =
+  process.env.NEXT_PUBLIC_SUPABASE_URL || process.env.SUPABASE_URL;
+const serviceKey =
+  process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.SUPABASE_SECRET_KEY;
+
+if (!supabaseUrl || !serviceKey) {
+  console.error("Missing Supabase URL / service role key");
+  process.exit(1);
+}
+
+const supabase = createClient(supabaseUrl, serviceKey, {
+  auth: { persistSession: false, autoRefreshToken: false },
+});
+
+const loc = manifest.location;
+const { data: location, error: locErr } = await supabase
+  .from("locations")
+  .upsert(
+    {
+      slug: loc.slug,
+      name_en: loc.name.en,
+      name_zh: loc.name.zh,
+      name_th: loc.name.th,
+      city_en: loc.city.en,
+      city_zh: loc.city.zh,
+      city_th: loc.city.th,
+      province_en: loc.province.en,
+      province_zh: loc.province.zh,
+      province_th: loc.province.th,
+      country_code: loc.country_code || "TH",
+    },
+    { onConflict: "slug" },
+  )
+  .select("*")
+  .single();
+if (locErr) throw locErr;
+
+const dev = manifest.developer;
+const { data: developer, error: devErr } = await supabase
+  .from("developers")
+  .upsert(
+    {
+      slug: dev.slug,
+      name_en: dev.name.en,
+      name_zh: dev.name.zh,
+      name_th: dev.name.th,
+      legal_name_en: dev.legal_name?.en ?? null,
+      legal_name_zh: dev.legal_name?.zh ?? null,
+      legal_name_th: dev.legal_name?.th ?? null,
+      description_en: dev.description?.en ?? null,
+      description_zh: dev.description?.zh ?? null,
+      description_th: dev.description?.th ?? null,
+      website: dev.website ?? null,
+      facebook_url: dev.facebook_url ?? null,
+      phone: dev.phone ?? null,
+      email: dev.email ?? null,
+      logo_url: dev.logo_url ?? null,
+    },
+    { onConflict: "slug" },
+  )
+  .select("*")
+  .single();
+if (devErr) throw devErr;
+
+const p = manifest.project;
+const now = new Date().toISOString();
+const { data: project, error: projErr } = await supabase
+  .from("property_projects")
+  .upsert(
+    {
+      slug: manifest.slug,
+      developer_id: developer.id,
+      location_id: location.id,
+      status: "published",
+      name_en: p.name.en,
+      name_zh: p.name.zh,
+      name_th: p.name.th,
+      description_en: p.description?.en ?? null,
+      description_zh: p.description?.zh ?? null,
+      description_th: p.description?.th ?? null,
+      address_en: p.address.en,
+      address_zh: p.address.zh,
+      address_th: p.address.th,
+      postal_code: p.postal_code ?? null,
+      latitude: p.latitude ?? null,
+      longitude: p.longitude ?? null,
+      google_maps_url: p.google_maps_url ?? null,
+      official_website: p.official_website ?? null,
+      facebook_url: p.facebook_url ?? null,
+      completion_year: p.completion_year ?? null,
+      total_floors: p.total_floors ?? null,
+      total_units: p.total_units ?? null,
+      building_count: p.building_count ?? null,
+      land_area_rai: p.land_area_rai ?? null,
+      parking_spaces: p.parking_spaces ?? null,
+      ceiling_height_m: p.ceiling_height_m ?? null,
+      common_fee_thb_per_sqm: p.common_fee_thb_per_sqm ?? null,
+      specifications: p.specifications ?? {},
+      unit_types: p.unit_types ?? [],
+      facilities: p.facilities ?? [],
+      transportation: p.transportation ?? [],
+      nearby_schools: p.nearby_schools ?? [],
+      nearby_hospitals: p.nearby_hospitals ?? [],
+      nearby_malls: p.nearby_malls ?? [],
+      faq: p.faq ?? [],
+      seo_title_en: p.seo?.title?.en ?? null,
+      seo_title_zh: p.seo?.title?.zh ?? null,
+      seo_title_th: p.seo?.title?.th ?? null,
+      seo_description_en: p.seo?.description?.en ?? null,
+      seo_description_zh: p.seo?.description?.zh ?? null,
+      seo_description_th: p.seo?.description?.th ?? null,
+      og_image_path: p.og_image_path ?? null,
+      hero_image_path: p.hero_image_path ?? null,
+      source_notes: p.source_notes ?? null,
+      published_at: now,
+    },
+    { onConflict: "slug" },
+  )
+  .select("*")
+  .single();
+if (projErr) throw projErr;
+
+let listingCount = 0;
+for (const listing of listingsPkg.listings || []) {
+  const slugBase =
+    `${manifest.slug}-${listing.listing_type}-${listing.external_ref}`
+      .toLowerCase()
+      .replace(/[^a-z0-9-]+/g, "-")
+      .replace(/-+/g, "-")
+      .slice(0, 80);
+
+  const payload = {
+    slug: slugBase,
+    status: "published",
+    listing_type: listing.listing_type,
+    property_type: listing.property_type || "condo",
+    project_id: project.id,
+    location_id: location.id,
+    price_thb: listing.price_thb,
+    bedrooms: listing.bedrooms ?? null,
+    bathrooms: listing.bathrooms ?? null,
+    area_sqm: listing.area_sqm ?? null,
+    title_en: listing.title.en,
+    title_zh: listing.title.zh,
+    title_th: listing.title.th,
+    summary_en: listing.summary.en,
+    summary_zh: listing.summary.zh,
+    summary_th: listing.summary.th,
+    description_en: listing.description.en,
+    description_zh: listing.description.zh,
+    description_th: listing.description.th,
+    featured: Boolean(listing.featured),
+    published_at: now,
+    source: listing.source,
+    listing_url: listing.listing_url,
+    source_updated_at: listing.source_updated_at,
+    external_ref: listing.external_ref,
+    floor_label: listing.floor_label ?? null,
+    building_label: listing.building_label ?? null,
+  };
+
+  const { data: existingByRef } = await supabase
+    .from("properties")
+    .select("id")
+    .eq("external_ref", listing.external_ref)
+    .maybeSingle();
+
+  let existing = existingByRef;
+  if (!existing) {
+    const { data: existingByUrl } = await supabase
+      .from("properties")
+      .select("id")
+      .eq("listing_url", listing.listing_url)
+      .maybeSingle();
+    existing = existingByUrl;
+  }
+
+  let error;
+  if (existing?.id) {
+    ({ error } = await supabase
+      .from("properties")
+      .update(payload)
+      .eq("id", existing.id));
+  } else {
+    ({ error } = await supabase.from("properties").insert(payload));
+  }
+  if (error) throw error;
+  listingCount += 1;
+}
+
+console.log(
+  JSON.stringify(
+    {
+      ok: true,
+      project_slug: project.slug,
+      project_id: project.id,
+      developer_id: developer.id,
+      location_id: location.id,
+      listings_upserted: listingCount,
+    },
+    null,
+    2,
+  ),
+);

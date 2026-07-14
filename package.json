@@ -11,6 +11,8 @@
     "format:check": "prettier --check .",
     "db:provision": "node scripts/provision-supabase.mjs",
     "db:apply": "NODE_TLS_REJECT_UNAUTHORIZED=0 node scripts/apply-supabase-sql.mjs",
+    "db:migrate:phase4": "NODE_TLS_REJECT_UNAUTHORIZED=0 node scripts/apply-migration.mjs supabase/migrations/20260714183000_project_content_system.sql",
+    "content:import": "node pipelines/condo-import/import.mjs",
     "db:verify-workflow": "node scripts/verify-admin-workflow.mjs"
   },
   "dependencies": {

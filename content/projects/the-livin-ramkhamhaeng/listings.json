@@ -1,0 +1,162 @@
+{
+  "project_slug": "the-livin-ramkhamhaeng",
+  "collected_at": "2026-07-14",
+  "notes": "Only listings with a verified detail-page price and URL are included. Portal Last Update was blank ('-') on fetched pages; source_updated_at uses capture date.",
+  "listings": [
+    {
+      "external_ref": "propertyhub-5640526",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3510062,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32.94,
+      "floor_label": "22",
+      "building_label": null,
+      "title": {
+        "en": "The Livin Ramkhamhaeng — 1BR sale MD-25085544",
+        "zh": "The Livin Ramkhamhaeng — 一居室出售 MD-25085544",
+        "th": "เดอะ ลิฟวิ่น รามคำแหง — ขาย 1 ห้องนอน MD-25085544"
+      },
+      "summary": {
+        "en": "Public sale listing: 1 bedroom, 32.94 sq.m., floor 22, price 3,510,062 THB.",
+        "zh": "公开出售挂牌：1 卧，32.94 ㎡，22 楼，价格 3,510,062 泰铢。",
+        "th": "ประกาศขายสาธารณะ: 1 ห้องนอน 32.94 ตร.ม. ชั้น 22 ราคา 3,510,062 บาท"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing MD-25085544 / number 5640526. Price and specs taken from the listing detail page. Availability not independently verified beyond the public page.",
+        "zh": "来自 PropertyHub 挂牌 MD-25085544（编号 5640526）。价格与规格取自详情页；是否仍可售以来源页为准。",
+        "th": "แปลงจากประกาศ PropertyHub MD-25085544 เลขที่ 5640526 ราคาและสเปกจากหน้ารายละเอียด สถานะว่าง/จองให้ยึดแหล่งต้นทาง"
+      },
+      "featured": true,
+      "source": "PropertyHub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-the-livin-ramkhamhaeng-md-25085544---5640526",
+      "source_updated_at": "2026-07-14",
+      "source_update_note": "Portal showed Last Update as '-' on capture date 2026-07-14."
+    },
+    {
+      "external_ref": "propertyhub-5640540",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2860962,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32.94,
+      "floor_label": "15",
+      "building_label": null,
+      "title": {
+        "en": "The Livin Ramkhamhaeng — 1BR sale MD-25085543",
+        "zh": "The Livin Ramkhamhaeng — 一居室出售 MD-25085543",
+        "th": "เดอะ ลิฟวิ่น รามคำแหง — ขาย 1 ห้องนอน MD-25085543"
+      },
+      "summary": {
+        "en": "Public sale listing: 1 bedroom, 32.94 sq.m., floor 15, price 2,860,962 THB.",
+        "zh": "公开出售挂牌：1 卧，32.94 ㎡，15 楼，价格 2,860,962 泰铢。",
+        "th": "ประกาศขายสาธารณะ: 1 ห้องนอน 32.94 ตร.ม. ชั้น 15 ราคา 2,860,962 บาท"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing MD-25085543 / number 5640540. Price and specs taken from the listing detail page.",
+        "zh": "来自 PropertyHub 挂牌 MD-25085543（编号 5640540）。价格与规格取自详情页。",
+        "th": "แปลงจากประกาศ PropertyHub MD-25085543 เลขที่ 5640540 ราคาและสเปกจากหน้ารายละเอียด"
+      },
+      "featured": true,
+      "source": "PropertyHub",
+      "listing_url": "https://propertyhub.in.th/en/listings/urgent-sale-brand-new-condo-first-owner-special-price-the-livin-ramkhamhaeng-md-25085543---5640540",
+      "source_updated_at": "2026-07-14",
+      "source_update_note": "Portal showed Last Update as '-' on capture date 2026-07-14."
+    },
+    {
+      "external_ref": "propertyhub-5329310",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33,
+      "floor_label": "29",
+      "building_label": "B",
+      "title": {
+        "en": "The Livin Ramkhamhaeng — 1BR rent near MRT Lam Sali",
+        "zh": "The Livin Ramkhamhaeng — 一居室出租（近 MRT Lam Sali）",
+        "th": "เดอะ ลิฟวิ่น รามคำแหง — เช่า 1 ห้องนอน ใกล้ MRT ลำสาลี"
+      },
+      "summary": {
+        "en": "Public rent listing: 1 bedroom, 33 sq.m., floor 29, Building B, 14,000 THB/month.",
+        "zh": "公开出租挂牌：1 卧，33 ㎡，29 楼 B 栋，14,000 泰铢/月。",
+        "th": "ประกาศเช่าสาธารณะ: 1 ห้องนอน 33 ตร.ม. ชั้น 29 อาคาร B 14,000 บาท/เดือน"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing number 5329310. Monthly rent and unit specs taken from the listing detail page.",
+        "zh": "来自 PropertyHub 编号 5329310。月租与单位规格取自详情页。",
+        "th": "แปลงจากประกาศ PropertyHub เลขที่ 5329310 ค่าเช่ารายเดือนและสเปกจากหน้ารายละเอียด"
+      },
+      "featured": true,
+      "source": "PropertyHub",
+      "listing_url": "https://propertyhub.in.th/en/listings/for-rent-the-livin-ramkhamhaeng-fully-furnished-and-equipped-near-mrt-lam-sali---5329310",
+      "source_updated_at": "2026-07-14",
+      "source_update_note": "Portal showed Last Update as '-' on capture date 2026-07-14."
+    },
+    {
+      "external_ref": "propertyhub-5886141",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 33,
+      "floor_label": "29",
+      "building_label": null,
+      "title": {
+        "en": "The Livin Ramkhamhaeng — 2BR rent floor 29",
+        "zh": "The Livin Ramkhamhaeng — 两居室出租（29 楼）",
+        "th": "เดอะ ลิฟวิ่น รามคำแหง — เช่า 2 ห้องนอน ชั้น 29"
+      },
+      "summary": {
+        "en": "Public rent listing: 2 bedrooms, 33 sq.m., floor 29, 18,000 THB/month.",
+        "zh": "公开出租挂牌：2 卧，33 ㎡，29 楼，18,000 泰铢/月。",
+        "th": "ประกาศเช่าสาธารณะ: 2 ห้องนอน 33 ตร.ม. ชั้น 29 18,000 บาท/เดือน"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing number 5886141. Monthly rent and unit specs taken from the listing detail page.",
+        "zh": "来自 PropertyHub 编号 5886141。月租与单位规格取自详情页。",
+        "th": "แปลงจากประกาศ PropertyHub เลขที่ 5886141 ค่าเช่ารายเดือนและสเปกจากหน้ารายละเอียด"
+      },
+      "featured": true,
+      "source": "PropertyHub",
+      "listing_url": "https://propertyhub.in.th/en/listings/tehs6g-the-livin-ramkhamhaeng-for-rent-18-000-thb-2-beds-33-sq-m-floor-29---5886141",
+      "source_updated_at": "2026-07-14",
+      "source_update_note": "Portal showed Last Update as '-' on capture date 2026-07-14."
+    },
+    {
+      "external_ref": "propertyhub-5813509",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 10000,
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "area_sqm": 22.4,
+      "floor_label": "8",
+      "building_label": null,
+      "title": {
+        "en": "The Livin Ramkhamhaeng — studio rent 22.4 sq.m.",
+        "zh": "The Livin Ramkhamhaeng — 工作室公寓出租 22.4 ㎡",
+        "th": "เดอะ ลิฟวิ่น รามคำแหง — เช่าสตูดิโอ 22.4 ตร.ม."
+      },
+      "summary": {
+        "en": "Public rent listing: studio, 22.4 sq.m., floor 8, 10,000 THB/month.",
+        "zh": "公开出租挂牌：工作室，22.4 ㎡，8 楼，10,000 泰铢/月。",
+        "th": "ประกาศเช่าสาธารณะ: สตูดิโอ 22.4 ตร.ม. ชั้น 8 10,000 บาท/เดือน"
+      },
+      "description": {
+        "en": "Normalized from PropertyHub listing number 5813509. Listing information table shows Room type Studio, size 22.4 sq.m., rent 10,000 THB/month.",
+        "zh": "来自 PropertyHub 编号 5813509；详情表为 Studio、22.4 ㎡、月租 10,000 泰铢。",
+        "th": "แปลงจากประกาศ PropertyHub เลขที่ 5813509 ตารางข้อมูลระบุประเภทสตูดิโอ ขนาด 22.4 ตร.ม. ค่าเช่า 10,000 บาท/เดือน"
+      },
+      "featured": false,
+      "source": "PropertyHub",
+      "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-the-livin-ramkhamhaeng-brand-new-unfurnished-thb-8-000-month---5813509",
+      "source_updated_at": "2026-07-14",
+      "source_update_note": "URL slug mentions 8,000 but detail page Listed price is 10,000 THB/month; stored portal detail price. Last Update was '-' on capture date 2026-07-14."
+    }
+  ]
+}

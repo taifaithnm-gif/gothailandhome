@@ -3,12 +3,23 @@ import type { MetadataRoute } from "next";
 import { locales } from "@/config/locales";
 import { siteConfig } from "@/config/site";
 import { listPublishedProperties } from "@/lib/data/properties";
+import { listPublishedProjects } from "@/lib/data/projects";
 
-const staticPaths = ["", "/properties", "/search", "/about", "/contact"];
+const staticPaths = [
+  "",
+  "/properties",
+  "/projects",
+  "/search",
+  "/about",
+  "/contact",
+];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const lastModified = new Date();
-  const properties = await listPublishedProperties();
+  const [properties, projects] = await Promise.all([
+    listPublishedProperties(),
+    listPublishedProjects(),
+  ]);
 
   const pages = locales.flatMap((locale) =>
     staticPaths.map((path) => ({
@@ -28,5 +39,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     })),
   );
 
-  return [...pages, ...propertyPages];
+  const projectPages = locales.flatMap((locale) =>
+    projects.map((project) => ({
+      url: `${siteConfig.url}/${locale}/projects/${project.slug}`,
+      lastModified,
+      changeFrequency: "weekly" as const,
+      priority: 0.8,
+    })),
+  );
+
+  return [...pages, ...projectPages, ...propertyPages];
 }

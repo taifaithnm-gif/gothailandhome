@@ -31,6 +31,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
   const links = [
     { href: localePath(locale), label: dict.nav.home },
     { href: localePath(locale, "/properties"), label: dict.nav.properties },
+    { href: localePath(locale, "/projects"), label: dict.nav.projects },
     { href: localePath(locale, "/search"), label: dict.nav.search },
     { href: localePath(locale, "/about"), label: dict.nav.about },
     { href: localePath(locale, "/contact"), label: dict.nav.contact },
