@@ -4,9 +4,11 @@ import { notFound } from "next/navigation";
 import { PropertyGrid } from "@/components/property/property-grid";
 import { SearchForm } from "@/components/search/search-form";
 import { isLocale } from "@/config/locales";
+import { listPublishedProperties } from "@/lib/data/properties";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
-import { getFeaturedProperties } from "@/lib/properties";
+
+export const revalidate = 60;
 
 export async function generateMetadata({ params }: PageProps<"/[lang]">) {
   const { lang } = await params;
@@ -25,7 +27,7 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
   if (!isLocale(lang)) notFound();
 
   const dict = await getDictionary(lang);
-  const featured = getFeaturedProperties();
+  const featured = await listPublishedProperties({ featuredOnly: true });
 
   const destinations = [
     { label: dict.home.bangkok, query: "Bangkok" },

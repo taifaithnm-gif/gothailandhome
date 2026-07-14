@@ -58,7 +58,8 @@ export function SearchForm({ locale, dict, defaults }: SearchFormProps) {
           <option value="condo">{dict.common.condo}</option>
           <option value="house">{dict.common.house}</option>
           <option value="villa">{dict.common.villa}</option>
-          <option value="townhouse">{dict.common.townhouse}</option>
+          <option value="land">{dict.common.land}</option>
+          <option value="commercial">{dict.common.commercial}</option>
         </select>
       </label>
 

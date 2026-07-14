@@ -3,9 +3,11 @@ import { notFound } from "next/navigation";
 import { PageShell } from "@/components/layout/page-shell";
 import { PropertyGrid } from "@/components/property/property-grid";
 import { isLocale } from "@/config/locales";
+import { listPublishedProperties } from "@/lib/data/properties";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata } from "@/lib/i18n/metadata";
-import { properties } from "@/lib/properties";
+
+export const revalidate = 60;
 
 export async function generateMetadata({
   params,
@@ -29,6 +31,7 @@ export default async function PropertiesPage({
   if (!isLocale(lang)) notFound();
 
   const dict = await getDictionary(lang);
+  const properties = await listPublishedProperties();
 
   return (
     <PageShell

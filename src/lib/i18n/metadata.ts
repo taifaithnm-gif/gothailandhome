@@ -79,8 +79,10 @@ export function propertyTypeLabel(dict: Dictionary, type: string): string {
       return dict.common.house;
     case "villa":
       return dict.common.villa;
-    case "townhouse":
-      return dict.common.townhouse;
+    case "land":
+      return dict.common.land;
+    case "commercial":
+      return dict.common.commercial;
     default:
       return type;
   }

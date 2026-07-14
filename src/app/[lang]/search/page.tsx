@@ -4,9 +4,11 @@ import { PageShell } from "@/components/layout/page-shell";
 import { PropertyGrid } from "@/components/property/property-grid";
 import { SearchForm } from "@/components/search/search-form";
 import { isLocale } from "@/config/locales";
+import { listPublishedProperties } from "@/lib/data/properties";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, fillTemplate } from "@/lib/i18n/metadata";
-import { searchProperties } from "@/lib/properties";
+
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,
@@ -36,7 +38,11 @@ export default async function SearchPage({
   const location = typeof query.location === "string" ? query.location : "";
   const type = typeof query.type === "string" ? query.type : "all";
 
-  const results = searchProperties({ query: q, location, type });
+  const results = await listPublishedProperties({
+    query: q,
+    location,
+    type,
+  });
 
   return (
     <PageShell

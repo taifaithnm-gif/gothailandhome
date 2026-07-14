@@ -1,12 +1,12 @@
 import type { Locale } from "@/config/locales";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
-import type { Property } from "@/lib/properties";
+import type { PropertyView } from "@/lib/data/properties";
 import { PropertyCard } from "@/components/property/property-card";
 
 type PropertyGridProps = {
   locale: Locale;
   dict: Dictionary;
-  properties: Property[];
+  properties: PropertyView[];
 };
 
 export function PropertyGrid({ locale, dict, properties }: PropertyGridProps) {

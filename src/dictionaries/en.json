@@ -47,7 +47,10 @@
     "condo": "Condo",
     "house": "House",
     "villa": "Villa",
-    "townhouse": "Townhouse"
+    "land": "Land",
+    "commercial": "Commercial",
+    "sale": "Sale",
+    "rent": "Rent"
   },
   "home": {
     "headline": "Find your next home in Thailand",

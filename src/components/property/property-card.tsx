@@ -3,13 +3,13 @@ import Link from "next/link";
 import type { Locale } from "@/config/locales";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { localePath, propertyTypeLabel } from "@/lib/i18n/metadata";
-import { formatPrice, type Property } from "@/lib/properties";
+import { formatPrice, type PropertyView } from "@/lib/data/properties";
 import { cn } from "@/lib/utils";
 
 type PropertyCardProps = {
   locale: Locale;
   dict: Dictionary;
-  property: Property;
+  property: PropertyView;
   className?: string;
 };
 
@@ -27,12 +27,26 @@ export function PropertyCard({
       )}
     >
       <div className="relative aspect-[16/10] overflow-hidden bg-[linear-gradient(135deg,#0a5c54_0%,#147a6f_45%,#c9a227_160%)]">
-        <div className="absolute inset-0 [background-image:radial-gradient(circle_at_20%_20%,white_0,transparent_45%),radial-gradient(circle_at_80%_10%,#e8b84a_0,transparent_35%)] opacity-30" />
+        {property.coverUrl ? (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            src={property.coverUrl}
+            alt={property.title[locale]}
+            className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]"
+          />
+        ) : (
+          <div className="absolute inset-0 [background-image:radial-gradient(circle_at_20%_20%,white_0,transparent_45%),radial-gradient(circle_at_80%_10%,#e8b84a_0,transparent_35%)] opacity-30" />
+        )}
         {property.featured ? (
           <span className="absolute top-3 left-3 rounded-md bg-white/90 px-2 py-1 text-xs font-medium text-[var(--brand-deep)]">
             {dict.common.featured}
           </span>
         ) : null}
+        <span className="absolute top-3 right-3 rounded-md bg-[var(--brand-deep)]/85 px-2 py-1 text-xs font-medium text-white">
+          {property.listingType === "rent"
+            ? dict.common.rent
+            : dict.common.sale}
+        </span>
       </div>
 
       <div className="flex flex-1 flex-col gap-4 p-5">
@@ -53,29 +67,33 @@ export function PropertyCard({
           <div>
             <dt>{dict.common.bedrooms}</dt>
             <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
-              {property.bedrooms}
+              {property.bedrooms ?? "—"}
             </dd>
           </div>
           <div>
             <dt>{dict.common.bathrooms}</dt>
             <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
-              {property.bathrooms}
+              {property.bathrooms ?? "—"}
             </dd>
           </div>
           <div>
             <dt>{dict.common.area}</dt>
             <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
-              {property.areaSqm} {dict.common.sqm}
+              {property.areaSqm != null
+                ? `${property.areaSqm} ${dict.common.sqm}`
+                : property.landAreaSqm != null
+                  ? `${property.landAreaSqm} ${dict.common.sqm}`
+                  : "—"}
             </dd>
           </div>
         </dl>
 
         <div className="flex items-center justify-between gap-3">
           <p className="text-base font-semibold text-[var(--brand-deep)]">
-            {formatPrice(property.priceThb, locale)}
+            {formatPrice(property.priceThb, locale, property.listingType)}
           </p>
           <Link
-            href={localePath(locale, `/properties/${property.id}`)}
+            href={localePath(locale, `/properties/${property.slug}`)}
             className="text-sm font-medium text-[var(--brand)] underline-offset-4 transition hover:underline"
           >
             {dict.common.viewProperty}

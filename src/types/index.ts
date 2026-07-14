@@ -1,2 +1,6 @@
 export type { Locale } from "@/config/locales";
-export type { Property, PropertyType } from "@/lib/properties";
+export type {
+  PropertyView as Property,
+  PropertyType,
+  ListingType,
+} from "@/lib/data/properties";
