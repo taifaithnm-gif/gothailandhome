@@ -1,0 +1,733 @@
+{
+  "source": "livinginsider",
+  "dry_run": false,
+  "started_at": "2026-07-14T14:58:47.035Z",
+  "per_project": 8,
+  "projects": [
+    {
+      "slug": "ashton-asoke",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 8,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/ashton-asoke/listings-livinginsider.json"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 7,
+      "rejected": 1,
+      "rejected_sample": [
+        {
+          "id": "3041828",
+          "reason": "missing_price_or_type",
+          "price": null,
+          "listing_type": null
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/casa-condo-asoke-dindaeng/listings-livinginsider.json"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 8,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/chapter-one-midtown-ladprao-24/listings-livinginsider.json"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 8,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/ideo-mobi-sukhumvit-66/listings-livinginsider.json"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 8,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/ideo-q-sukhumvit-36/listings-livinginsider.json"
+    },
+    {
+      "slug": "kave-town-space",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 8,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/kave-town-space/listings-livinginsider.json"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 8,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/knightsbridge-prime-sathorn/listings-livinginsider.json"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 7,
+      "rejected": 1,
+      "rejected_sample": [
+        {
+          "id": "3093376",
+          "reason": "missing_price_or_type",
+          "price": null,
+          "listing_type": null
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/life-asoke-rama-9/listings-livinginsider.json"
+    },
+    {
+      "slug": "life-ladprao",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 8,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/life-ladprao/listings-livinginsider.json"
+    },
+    {
+      "slug": "life-one-wireless",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 7,
+      "rejected": 1,
+      "rejected_sample": [
+        {
+          "id": "3077492",
+          "reason": "missing_price_or_type",
+          "price": null,
+          "listing_type": null
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/life-one-wireless/listings-livinginsider.json"
+    },
+    {
+      "slug": "m-silom",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 8,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/m-silom/listings-livinginsider.json"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 8,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/maestro-03-ratchada-rama-9/listings-livinginsider.json"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 8,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/modiz-rhyme-ramkhamhaeng/listings-livinginsider.json"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "status": "ok",
+      "ids_found": 8,
+      "listings": 8,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/niche-pride-thonglor-phetchaburi/listings-livinginsider.json"
+    },
+    {
+      "slug": "noble-around-ari",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "3140990",
+          "reason": "http_429"
+        },
+        {
+          "id": "2997952",
+          "reason": "http_429"
+        },
+        {
+          "id": "3144356",
+          "reason": "http_429"
+        },
+        {
+          "id": "2812800",
+          "reason": "http_429"
+        },
+        {
+          "id": "2976676",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/noble-around-ari/listings-livinginsider.json"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "3109213",
+          "reason": "http_429"
+        },
+        {
+          "id": "2096287",
+          "reason": "http_429"
+        },
+        {
+          "id": "2856233",
+          "reason": "http_429"
+        },
+        {
+          "id": "1529840",
+          "reason": "http_429"
+        },
+        {
+          "id": "3075992",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/noble-revolve-ratchada/listings-livinginsider.json"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "2716164",
+          "reason": "http_429"
+        },
+        {
+          "id": "3033428",
+          "reason": "http_429"
+        },
+        {
+          "id": "1854040",
+          "reason": "http_429"
+        },
+        {
+          "id": "2030467",
+          "reason": "http_429"
+        },
+        {
+          "id": "2003564",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/rhythm-ekkamai/listings-livinginsider.json"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "2866204",
+          "reason": "http_429"
+        },
+        {
+          "id": "3147948",
+          "reason": "http_429"
+        },
+        {
+          "id": "2789920",
+          "reason": "http_429"
+        },
+        {
+          "id": "3147745",
+          "reason": "http_429"
+        },
+        {
+          "id": "2132543",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/supalai-elite-phayathai/listings-livinginsider.json"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "2453151",
+          "reason": "http_429"
+        },
+        {
+          "id": "3117486",
+          "reason": "http_429"
+        },
+        {
+          "id": "3147559",
+          "reason": "http_429"
+        },
+        {
+          "id": "2493237",
+          "reason": "http_429"
+        },
+        {
+          "id": "2888319",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/supalai-lite-sathorn-charoenrat/listings-livinginsider.json"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "3009064",
+          "reason": "http_429"
+        },
+        {
+          "id": "1824294",
+          "reason": "http_429"
+        },
+        {
+          "id": "2870006",
+          "reason": "http_429"
+        },
+        {
+          "id": "1143656",
+          "reason": "http_429"
+        },
+        {
+          "id": "2986502",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/supalai-oriental-sukhumvit-39/listings-livinginsider.json"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "3118294",
+          "reason": "http_429"
+        },
+        {
+          "id": "3118099",
+          "reason": "http_429"
+        },
+        {
+          "id": "3033007",
+          "reason": "http_429"
+        },
+        {
+          "id": "2735264",
+          "reason": "http_429"
+        },
+        {
+          "id": "3142406",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/supalai-veranda-rama-9/listings-livinginsider.json"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "2033335",
+          "reason": "http_429"
+        },
+        {
+          "id": "1964591",
+          "reason": "http_429"
+        },
+        {
+          "id": "2489572",
+          "reason": "http_429"
+        },
+        {
+          "id": "1636763",
+          "reason": "http_429"
+        },
+        {
+          "id": "2718333",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-base-sukhumvit-77/listings-livinginsider.json"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "2459160",
+          "reason": "http_429"
+        },
+        {
+          "id": "3118244",
+          "reason": "http_429"
+        },
+        {
+          "id": "3118257",
+          "reason": "http_429"
+        },
+        {
+          "id": "2309116",
+          "reason": "http_429"
+        },
+        {
+          "id": "2157395",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-esse-asoke/listings-livinginsider.json"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "2639760",
+          "reason": "http_429"
+        },
+        {
+          "id": "3053012",
+          "reason": "http_429"
+        },
+        {
+          "id": "3145098",
+          "reason": "http_429"
+        },
+        {
+          "id": "3002064",
+          "reason": "http_429"
+        },
+        {
+          "id": "3112824",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-esse-sukhumvit-36/listings-livinginsider.json"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "3146403",
+          "reason": "http_429"
+        },
+        {
+          "id": "1622974",
+          "reason": "http_429"
+        },
+        {
+          "id": "1831341",
+          "reason": "http_429"
+        },
+        {
+          "id": "1955465",
+          "reason": "http_429"
+        },
+        {
+          "id": "1955447",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-line-sukhumvit-101/listings-livinginsider.json"
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "2987003",
+          "reason": "http_429"
+        },
+        {
+          "id": "3113821",
+          "reason": "http_429"
+        },
+        {
+          "id": "3111325",
+          "reason": "http_429"
+        },
+        {
+          "id": "3141139",
+          "reason": "http_429"
+        },
+        {
+          "id": "3147163",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-livin-ramkhamhaeng/listings-livinginsider.json"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "3148044",
+          "reason": "http_429"
+        },
+        {
+          "id": "1586258",
+          "reason": "http_429"
+        },
+        {
+          "id": "765959",
+          "reason": "http_429"
+        },
+        {
+          "id": "3013622",
+          "reason": "http_429"
+        },
+        {
+          "id": "2790485",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-lofts-silom/listings-livinginsider.json"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "2868269",
+          "reason": "http_429"
+        },
+        {
+          "id": "2932583",
+          "reason": "http_429"
+        },
+        {
+          "id": "3051265",
+          "reason": "http_429"
+        },
+        {
+          "id": "2998664",
+          "reason": "http_429"
+        },
+        {
+          "id": "3091502",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-privacy-rama-9/listings-livinginsider.json"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "3148079",
+          "reason": "http_429"
+        },
+        {
+          "id": "3090051",
+          "reason": "http_429"
+        },
+        {
+          "id": "3096631",
+          "reason": "http_429"
+        },
+        {
+          "id": "3106719",
+          "reason": "http_429"
+        },
+        {
+          "id": "2230259",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-room-sathorn-taksin/listings-livinginsider.json"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "1935214",
+          "reason": "http_429"
+        },
+        {
+          "id": "2777568",
+          "reason": "http_429"
+        },
+        {
+          "id": "2943203",
+          "reason": "http_429"
+        },
+        {
+          "id": "3142295",
+          "reason": "http_429"
+        },
+        {
+          "id": "2885011",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-room-sukhumvit-62/listings-livinginsider.json"
+    },
+    {
+      "slug": "xt-phayathai",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "3136758",
+          "reason": "http_429"
+        },
+        {
+          "id": "3126407",
+          "reason": "http_429"
+        },
+        {
+          "id": "3127229",
+          "reason": "http_429"
+        },
+        {
+          "id": "3143977",
+          "reason": "http_429"
+        },
+        {
+          "id": "3131174",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/xt-phayathai/listings-livinginsider.json"
+    },
+    {
+      "slug": "whizdom-essence",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "1502721",
+          "reason": "http_429"
+        },
+        {
+          "id": "3148063",
+          "reason": "http_429"
+        },
+        {
+          "id": "2706866",
+          "reason": "http_429"
+        },
+        {
+          "id": "1630926",
+          "reason": "http_429"
+        },
+        {
+          "id": "2642690",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/whizdom-essence/listings-livinginsider.json"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "status": "empty",
+      "ids_found": 8,
+      "listings": 0,
+      "rejected": 8,
+      "rejected_sample": [
+        {
+          "id": "3129444",
+          "reason": "http_429"
+        },
+        {
+          "id": "2800161",
+          "reason": "http_429"
+        },
+        {
+          "id": "3093862",
+          "reason": "http_429"
+        },
+        {
+          "id": "2003019",
+          "reason": "http_429"
+        },
+        {
+          "id": "3117322",
+          "reason": "http_429"
+        }
+      ],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/xt-huai-khwang/listings-livinginsider.json"
+    }
+  ],
+  "totals": {
+    "projects": 33,
+    "detail_ids_seen": 264,
+    "parsed_ok": 109,
+    "validated": 109,
+    "rejected": 3
+  },
+  "finished_at": "2026-07-14T15:03:11.510Z"
+}

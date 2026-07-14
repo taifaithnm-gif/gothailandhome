@@ -1,0 +1,243 @@
+{
+  "generated_at": "2026-07-14T15:25:17.384Z",
+  "source": "livinginsider",
+  "bangkok_only": true,
+  "projects_mapped": 33,
+  "projects_with_listings": 33,
+  "listings_total": 316,
+  "sale": 200,
+  "rent": 116,
+  "projects": [
+    {
+      "slug": "ashton-asoke",
+      "listings": 14,
+      "sale": 6,
+      "rent": 8,
+      "li_project_id": "182"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "listings": 7,
+      "sale": 5,
+      "rent": 2,
+      "li_project_id": "1124"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "listings": 8,
+      "sale": 7,
+      "rent": 1,
+      "li_project_id": "50"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "listings": 13,
+      "sale": 6,
+      "rent": 7,
+      "li_project_id": "2566"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "listings": 12,
+      "sale": 6,
+      "rent": 6,
+      "li_project_id": "2683"
+    },
+    {
+      "slug": "kave-town-space",
+      "listings": 10,
+      "sale": 6,
+      "rent": 4,
+      "li_project_id": "2937"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "listings": 10,
+      "sale": 6,
+      "rent": 4,
+      "li_project_id": "2563"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "listings": 10,
+      "sale": 6,
+      "rent": 4,
+      "li_project_id": "2743"
+    },
+    {
+      "slug": "life-ladprao",
+      "listings": 14,
+      "sale": 6,
+      "rent": 8,
+      "li_project_id": "2668"
+    },
+    {
+      "slug": "life-one-wireless",
+      "listings": 11,
+      "sale": 6,
+      "rent": 5,
+      "li_project_id": "2579"
+    },
+    {
+      "slug": "m-silom",
+      "listings": 12,
+      "sale": 6,
+      "rent": 6,
+      "li_project_id": "144"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "listings": 8,
+      "sale": 8,
+      "rent": 0,
+      "li_project_id": "3093"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "listings": 8,
+      "sale": 7,
+      "rent": 1,
+      "li_project_id": "3873"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "listings": 9,
+      "sale": 6,
+      "rent": 3,
+      "li_project_id": "1109"
+    },
+    {
+      "slug": "noble-around-ari",
+      "listings": 8,
+      "sale": 6,
+      "rent": 2,
+      "li_project_id": "2682"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "listings": 9,
+      "sale": 6,
+      "rent": 3,
+      "li_project_id": "935"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "listings": 7,
+      "sale": 6,
+      "rent": 1,
+      "li_project_id": "2556"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "listings": 7,
+      "sale": 6,
+      "rent": 1,
+      "li_project_id": "752"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "listings": 7,
+      "sale": 6,
+      "rent": 1,
+      "li_project_id": "259"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "listings": 9,
+      "sale": 5,
+      "rent": 4,
+      "li_project_id": "2582"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "listings": 10,
+      "sale": 6,
+      "rent": 4,
+      "li_project_id": "2568"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "listings": 8,
+      "sale": 6,
+      "rent": 2,
+      "li_project_id": "468"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "listings": 8,
+      "sale": 6,
+      "rent": 2,
+      "li_project_id": "1138"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "listings": 9,
+      "sale": 6,
+      "rent": 3,
+      "li_project_id": "2774"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "listings": 7,
+      "sale": 6,
+      "rent": 1,
+      "li_project_id": "2588"
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "listings": 11,
+      "sale": 6,
+      "rent": 5,
+      "li_project_id": "3869"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "listings": 9,
+      "sale": 6,
+      "rent": 3,
+      "li_project_id": "2719"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "listings": 10,
+      "sale": 6,
+      "rent": 4,
+      "li_project_id": "2769"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "listings": 9,
+      "sale": 6,
+      "rent": 3,
+      "li_project_id": "896"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "listings": 10,
+      "sale": 6,
+      "rent": 4,
+      "li_project_id": "490"
+    },
+    {
+      "slug": "whizdom-essence",
+      "listings": 10,
+      "sale": 6,
+      "rent": 4,
+      "li_project_id": "2531"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "listings": 10,
+      "sale": 6,
+      "rent": 4,
+      "li_project_id": "2906"
+    },
+    {
+      "slug": "xt-phayathai",
+      "listings": 12,
+      "sale": 6,
+      "rent": 6,
+      "li_project_id": "2905"
+    }
+  ]
+}

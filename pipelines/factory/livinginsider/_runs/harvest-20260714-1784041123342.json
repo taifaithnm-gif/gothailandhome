@@ -1,0 +1,34 @@
+{
+  "source": "livinginsider",
+  "dry_run": false,
+  "started_at": "2026-07-14T14:58:32.154Z",
+  "per_project": 3,
+  "projects": [
+    {
+      "slug": "ashton-asoke",
+      "status": "ok",
+      "ids_found": 3,
+      "listings": 3,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/ashton-asoke/listings-livinginsider.json"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "status": "ok",
+      "ids_found": 3,
+      "listings": 3,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/casa-condo-asoke-dindaeng/listings-livinginsider.json"
+    }
+  ],
+  "totals": {
+    "projects": 2,
+    "detail_ids_seen": 6,
+    "parsed_ok": 6,
+    "validated": 6,
+    "rejected": 0
+  },
+  "finished_at": "2026-07-14T14:58:43.342Z"
+}

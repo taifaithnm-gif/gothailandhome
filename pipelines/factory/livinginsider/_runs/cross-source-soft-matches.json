@@ -1,0 +1,390 @@
+{
+  "generated_at": "2026-07-14T15:25:04.728Z",
+  "livinginsider_listings": 316,
+  "propertyhub_listings": 617,
+  "candidate_pairs": 19,
+  "candidates": [
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-2650784",
+        "source_listing_id": "2650784",
+        "listing_url": "https://www.livinginsider.com/re/en_2650784",
+        "price_thb": 12000,
+        "project_slug": "casa-condo-asoke-dindaeng"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-4911836",
+        "source_listing_id": "4911836",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-rent-casa-asoke-1-bedroom-fully-furnished-ready-to-move-in---4911836",
+        "price_thb": 12000,
+        "project_slug": "casa-condo-asoke-dindaeng"
+      },
+      "soft_match_fingerprint": "39b420bd94f91f46d4e6878da6f37929f2753858dee522f3b6e5f84e59e51cd5",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-2650782",
+        "source_listing_id": "2650782",
+        "listing_url": "https://www.livinginsider.com/re/en_2650782",
+        "price_thb": 10000,
+        "project_slug": "casa-condo-asoke-dindaeng"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-4911833",
+        "source_listing_id": "4911833",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-rent-casa-asoke-studio-fully-furnished-ready-to-move-in---4911833",
+        "price_thb": 10000,
+        "project_slug": "casa-condo-asoke-dindaeng"
+      },
+      "soft_match_fingerprint": "0d2451e61953554dedb3575cfc8303c5984f51e0f6edf44a094329042bc55fb6",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-2563481",
+        "source_listing_id": "2563481",
+        "listing_url": "https://www.livinginsider.com/re/en_2563481",
+        "price_thb": 2390000,
+        "project_slug": "casa-condo-asoke-dindaeng"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-5429067",
+        "source_listing_id": "5429067",
+        "listing_url": "https://propertyhub.in.th/en/listings/casa-condo-asoke-dindaeng-5695602---5429067",
+        "price_thb": 2690000,
+        "project_slug": "casa-condo-asoke-dindaeng"
+      },
+      "soft_match_fingerprint": "0d3550a40f57e2a4cdbd55f6432645d9c3bb6a7e8209c39c0d9af116f9cacc7c",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-3019477",
+        "source_listing_id": "3019477",
+        "listing_url": "https://www.livinginsider.com/re/en_3019477",
+        "price_thb": 2380000,
+        "project_slug": "casa-condo-asoke-dindaeng"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-5647221",
+        "source_listing_id": "5647221",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-casa-condo-asoke-dindaeng-building-1-floor-7-1-bed-room-room-size-30-sqm---5647221",
+        "price_thb": 2490000,
+        "project_slug": "casa-condo-asoke-dindaeng"
+      },
+      "soft_match_fingerprint": "1e1d5e9d274f3331de18168d946a9e61f6091231fe873d74f3a184645d0ff594",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-3019477",
+        "source_listing_id": "3019477",
+        "listing_url": "https://www.livinginsider.com/re/en_3019477",
+        "price_thb": 2380000,
+        "project_slug": "casa-condo-asoke-dindaeng"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-6185374",
+        "source_listing_id": "6185374",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-casa-condo-asoke-dindaeng-building-1-floor-7-1-bed-room-room-size-30-sqm--af870994---6185374",
+        "price_thb": 2490000,
+        "project_slug": "casa-condo-asoke-dindaeng"
+      },
+      "soft_match_fingerprint": "1e1d5e9d274f3331de18168d946a9e61f6091231fe873d74f3a184645d0ff594",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-3127271",
+        "source_listing_id": "3127271",
+        "listing_url": "https://www.livinginsider.com/re/en_3127271",
+        "price_thb": 37000,
+        "project_slug": "ideo-mobi-sukhumvit-66"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-4539442",
+        "source_listing_id": "4539442",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-99742-live-chat-with-us-add-line-connexproperty--aa06097d---4539442",
+        "price_thb": 37000,
+        "project_slug": "ideo-mobi-sukhumvit-66"
+      },
+      "soft_match_fingerprint": "66cbcf2f36af15d9c1a1e89126fd7128daa5891220fbe66a5e01e7a47b748e01",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-3058768",
+        "source_listing_id": "3058768",
+        "listing_url": "https://www.livinginsider.com/re/en_3058768",
+        "price_thb": 40000,
+        "project_slug": "ideo-mobi-sukhumvit-66"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-4539442",
+        "source_listing_id": "4539442",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-99742-live-chat-with-us-add-line-connexproperty--aa06097d---4539442",
+        "price_thb": 37000,
+        "project_slug": "ideo-mobi-sukhumvit-66"
+      },
+      "soft_match_fingerprint": "66cbcf2f36af15d9c1a1e89126fd7128daa5891220fbe66a5e01e7a47b748e01",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-3050508",
+        "source_listing_id": "3050508",
+        "listing_url": "https://www.livinginsider.com/re/en_3050508",
+        "price_thb": 40000,
+        "project_slug": "ideo-mobi-sukhumvit-66"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-4539442",
+        "source_listing_id": "4539442",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-ideo-mobi-sukhumvit-66-bts-udom-suk-bang-na-nuea-bang-na-bangkok-cx-99742-live-chat-with-us-add-line-connexproperty--aa06097d---4539442",
+        "price_thb": 37000,
+        "project_slug": "ideo-mobi-sukhumvit-66"
+      },
+      "soft_match_fingerprint": "66cbcf2f36af15d9c1a1e89126fd7128daa5891220fbe66a5e01e7a47b748e01",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-3114241",
+        "source_listing_id": "3114241",
+        "listing_url": "https://www.livinginsider.com/re/en_3114241",
+        "price_thb": 7800000,
+        "project_slug": "life-asoke-rama-9"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-6155866",
+        "source_listing_id": "6155866",
+        "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-life-asoke-rama-9-near-mrt-phra-ram-9-id-3008697---6155866",
+        "price_thb": 7800000,
+        "project_slug": "life-asoke-rama-9"
+      },
+      "soft_match_fingerprint": "aaa4ea1916869d2b154781eefacdfb06b289365221278dfc919604decfb577c4",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-2733761",
+        "source_listing_id": "2733761",
+        "listing_url": "https://www.livinginsider.com/re/en_2733761",
+        "price_thb": 4690000,
+        "project_slug": "life-ladprao"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-5510201",
+        "source_listing_id": "5510201",
+        "listing_url": "https://propertyhub.in.th/en/listings/sale-life-ladprao-1-bedroom-aon220---5510201",
+        "price_thb": 4690000,
+        "project_slug": "life-ladprao"
+      },
+      "soft_match_fingerprint": "26e4e8208547793451951c4c65fd7ab60d5af59e3ea585e0aafbab721b3ba622",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-3146325",
+        "source_listing_id": "3146325",
+        "listing_url": "https://www.livinginsider.com/re/en_3146325",
+        "price_thb": 8600000,
+        "project_slug": "maestro-03-ratchada-rama-9"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-5854586",
+        "source_listing_id": "5854586",
+        "listing_url": "https://propertyhub.in.th/en/listings/maestro-03-ratchada-rama-9-din-daeng-bangkok-6083033---5854586",
+        "price_thb": 8600000,
+        "project_slug": "maestro-03-ratchada-rama-9"
+      },
+      "soft_match_fingerprint": "86b104fb9d6cceb2c3c237aeed340dac660bfb266bb87a4441fe79347ee9fc4c",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-3100032",
+        "source_listing_id": "3100032",
+        "listing_url": "https://www.livinginsider.com/re/en_3100032",
+        "price_thb": 23500000,
+        "project_slug": "supalai-oriental-sukhumvit-39"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-5866936",
+        "source_listing_id": "5866936",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-sale-condo-supalai-oriental-sukhumvit-39-penthouse-nice-view-high-floor-corner-unit-mrt-phetchaburi-khlong-tan-nuea-watthana-bangkok-cx-99491-live-chat-with-us-add-line-connexproperty---5866936",
+        "price_thb": 23000000,
+        "project_slug": "supalai-oriental-sukhumvit-39"
+      },
+      "soft_match_fingerprint": "b58fd0e4837be4781e4cdcf3e945490a2fe71bbb963e109a2894bfbadf1c72b4",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-3118294",
+        "source_listing_id": "3118294",
+        "listing_url": "https://www.livinginsider.com/re/en_3118294",
+        "price_thb": 27000,
+        "project_slug": "supalai-veranda-rama-9"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-6164809",
+        "source_listing_id": "6164809",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-supalai-veranda-rama-9-mrt-phra-ram-9-bang-kapi-huai-khwang-bangkok-cx-77402-live-chat-with-us-add-line-connexproperty---6164809",
+        "price_thb": 27000,
+        "project_slug": "supalai-veranda-rama-9"
+      },
+      "soft_match_fingerprint": "bd4540082c57bd5df192dfc304f7e1ee6e7f0c9131426661bb34f01ab1e0988c",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-3033007",
+        "source_listing_id": "3033007",
+        "listing_url": "https://www.livinginsider.com/re/en_3033007",
+        "price_thb": 33000,
+        "project_slug": "supalai-veranda-rama-9"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-5947613",
+        "source_listing_id": "5947613",
+        "listing_url": "https://propertyhub.in.th/en/listings/owner-post-for-rent-supalai-veranda-rama-9-corner-unit-newly-renovated-and-never-rented-before-2-bed-2-bath-65-5-sqm-city-view-16th-floor--b1220910---5947613",
+        "price_thb": 33000,
+        "project_slug": "supalai-veranda-rama-9"
+      },
+      "soft_match_fingerprint": "c3a983780ad0c0d6772e346d48df1c96fd77925c529acbee782ed23c7a32ca6d",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-2896546",
+        "source_listing_id": "2896546",
+        "listing_url": "https://www.livinginsider.com/re/en_2896546",
+        "price_thb": 3190000,
+        "project_slug": "the-base-sukhumvit-77"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-5428727",
+        "source_listing_id": "5428727",
+        "listing_url": "https://propertyhub.in.th/en/listings/the-base-sukhumvit-77-near-bts-on-nut-5720514---5428727",
+        "price_thb": 3350000,
+        "project_slug": "the-base-sukhumvit-77"
+      },
+      "soft_match_fingerprint": "db91e7c317b0d9cb39e7479098835db523dbcd6845844ee8639ec2e521008738",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-2998664",
+        "source_listing_id": "2998664",
+        "listing_url": "https://www.livinginsider.com/re/en_2998664",
+        "price_thb": 17500,
+        "project_slug": "the-privacy-rama-9"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-3216917",
+        "source_listing_id": "3216917",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-rent-the-privacy-rama-9-beautifully-decorated-room-2-bedrooms-36-sqm-line-bkkproperty8---3216917",
+        "price_thb": 17500,
+        "project_slug": "the-privacy-rama-9"
+      },
+      "soft_match_fingerprint": "143fc768493923e13e4177605dd621b64925eeffd27b9b7e158e6988e9170e35",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-3090051",
+        "source_listing_id": "3090051",
+        "listing_url": "https://www.livinginsider.com/re/en_3090051",
+        "price_thb": 24000,
+        "project_slug": "the-room-sathorn-taksin"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-6083475",
+        "source_listing_id": "6083475",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-room-sathorn-taksin-building-1-floor-8-2-bed-room-room-size-77-00-sqm--ab610962---6083475",
+        "price_thb": 24000,
+        "project_slug": "the-room-sathorn-taksin"
+      },
+      "soft_match_fingerprint": "dfd541cebef1468086807440448ee8986d4a3d7bb78c6b03f1f19d8516e7387e",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-2943203",
+        "source_listing_id": "2943203",
+        "listing_url": "https://www.livinginsider.com/re/en_2943203",
+        "price_thb": 20000,
+        "project_slug": "the-room-sukhumvit-62"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-5324059",
+        "source_listing_id": "5324059",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-room-sukhumvit-62-bts-punnawithi-bang-chak-phra-khanong-bangkok-cx-23556-live-chat-with-us-add-line-connexproperty--9ecd08ec---5324059",
+        "price_thb": 20000,
+        "project_slug": "the-room-sukhumvit-62"
+      },
+      "soft_match_fingerprint": "e482c672b6dcd0c4c319dad0a0cbbcbc3ce4629313bc5537f1b511db6baa758e",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "confidence": 0.55,
+      "livinginsider": {
+        "external_ref": "livinginsider-3116442",
+        "source_listing_id": "3116442",
+        "listing_url": "https://www.livinginsider.com/re/en_3116442",
+        "price_thb": 5800000,
+        "project_slug": "the-room-sukhumvit-62"
+      },
+      "propertyhub": {
+        "external_ref": "propertyhub-5514007",
+        "source_listing_id": "5514007",
+        "listing_url": "https://propertyhub.in.th/en/listings/the-room-sukhumvit-62-condominium-near-bts-punnawithi---5514007",
+        "price_thb": 5800000,
+        "project_slug": "the-room-sukhumvit-62"
+      },
+      "soft_match_fingerprint": "a9172848c47c25873eba44d0e25c5720a4fd82475b699d9a690f6b7284f730db",
+      "note": "candidate only — never auto-merge"
+    }
+  ],
+  "db_inserted": 9,
+  "db_skipped": 10
+}

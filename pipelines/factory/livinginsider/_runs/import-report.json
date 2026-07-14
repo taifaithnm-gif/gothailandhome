@@ -1,0 +1,107 @@
+{
+  "dry_run": false,
+  "validated_listings": 109,
+  "attempted": 14,
+  "ok": 14,
+  "failed": [],
+  "results": [
+    {
+      "slug": "ashton-asoke",
+      "ok": true,
+      "status": 0,
+      "stdout": ": ashton-asoke\nListings: 28 (ph=20, li=8)\n{\n  \"ok\": true,\n  \"project_slug\": \"ashton-asoke\",\n  \"project_id\": \"de7296ed-5ca3-447b-9fef-dcbbf40accab\",\n  \"developer_id\": \"1c6a26f9-49cb-4ec3-9e26-2019f2cd4a8f\",\n  \"location_id\": \"cb4bcfe4-d63c-497a-a30f-d50d6664cec4\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"7ddf1e91-23f1-4859-962c-46cc8216de42\",\n  \"listings_upserted\": 28\n}",
+      "stderr": "(node:7999) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "ok": true,
+      "status": 0,
+      "stdout": "g\nListings: 27 (ph=20, li=7)\n{\n  \"ok\": true,\n  \"project_slug\": \"casa-condo-asoke-dindaeng\",\n  \"project_id\": \"bbd8a0d6-390a-4a4f-94dd-4d54d044b875\",\n  \"developer_id\": \"cc953ec7-d7c6-431d-8b08-4f1ad6202f69\",\n  \"location_id\": \"b6e68e9a-162e-499b-84ab-64dfc44b737e\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"cc674fc1-a562-4228-9f96-e3702cfb335e\",\n  \"listings_upserted\": 27\n}",
+      "stderr": "(node:8088) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "ok": true,
+      "status": 0,
+      "stdout": "tings: 28 (ph=20, li=8)\n{\n  \"ok\": true,\n  \"project_slug\": \"chapter-one-midtown-ladprao-24\",\n  \"project_id\": \"1d76b168-e999-4848-8797-4b91ed8815af\",\n  \"developer_id\": \"4c6b2e11-3392-46a2-9287-1dc47e84b20b\",\n  \"location_id\": \"8d8d6188-a934-4e76-a6f5-1cafa2a61fb2\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"8e8d911b-c1e7-4890-b86d-a661780aec46\",\n  \"listings_upserted\": 28\n}",
+      "stderr": "(node:8159) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "ok": true,
+      "status": 0,
+      "stdout": "t-66\nListings: 28 (ph=20, li=8)\n{\n  \"ok\": true,\n  \"project_slug\": \"ideo-mobi-sukhumvit-66\",\n  \"project_id\": \"b66492cf-7c66-416a-8f77-bff8133847d6\",\n  \"developer_id\": \"1c6a26f9-49cb-4ec3-9e26-2019f2cd4a8f\",\n  \"location_id\": \"43d1838a-a8fc-40ac-a294-b27590a2cae4\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"b5186505-2884-44ac-8662-23ddd3292002\",\n  \"listings_upserted\": 28\n}",
+      "stderr": "(node:8233) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "ok": true,
+      "status": 0,
+      "stdout": "mvit-36\nListings: 28 (ph=20, li=8)\n{\n  \"ok\": true,\n  \"project_slug\": \"ideo-q-sukhumvit-36\",\n  \"project_id\": \"2bf52113-2871-4099-830e-f0dcc3f36114\",\n  \"developer_id\": \"1c6a26f9-49cb-4ec3-9e26-2019f2cd4a8f\",\n  \"location_id\": \"6d9493a9-ee9b-423a-becd-063f9d42b66a\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"aa66ee05-98f4-4a9d-9803-4bab3a879e46\",\n  \"listings_upserted\": 28\n}",
+      "stderr": "(node:8287) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "kave-town-space",
+      "ok": true,
+      "status": 0,
+      "stdout": "e-town-space\nListings: 16 (ph=8, li=8)\n{\n  \"ok\": true,\n  \"project_slug\": \"kave-town-space\",\n  \"project_id\": \"14786ede-5e4a-4922-a59a-e24bea2719cb\",\n  \"developer_id\": \"fd33027b-1ff0-45f9-a430-5c635ba696d7\",\n  \"location_id\": \"3b7f2660-4e71-48ce-acbf-1537970e7da0\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"92b956fa-ec59-4094-9c28-b9c771267f06\",\n  \"listings_upserted\": 16\n}",
+      "stderr": "(node:8336) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "ok": true,
+      "status": 0,
+      "stdout": "Listings: 18 (ph=10, li=8)\n{\n  \"ok\": true,\n  \"project_slug\": \"knightsbridge-prime-sathorn\",\n  \"project_id\": \"74863f2c-823d-4de5-a502-9f06ab511144\",\n  \"developer_id\": \"d2b05d36-a019-4a5d-88d9-501d5bc6b7fa\",\n  \"location_id\": \"86c147d6-f135-4cf9-accc-df0b2d8263aa\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"7df27b04-e24a-4dad-b7d3-f24188b730ae\",\n  \"listings_upserted\": 18\n}",
+      "stderr": "(node:8385) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "ok": true,
+      "status": 0,
+      "stdout": "ke-rama-9\nListings: 27 (ph=20, li=7)\n{\n  \"ok\": true,\n  \"project_slug\": \"life-asoke-rama-9\",\n  \"project_id\": \"45462836-7f72-4e72-a983-e8d209558177\",\n  \"developer_id\": \"cf61b775-2fc6-4ec6-8257-053c3ad81d5e\",\n  \"location_id\": \"4960ebf6-4a45-48ec-a7ce-c0457b2a06cc\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"1b9db609-f25a-4a8e-b0fd-f9b4b54163b9\",\n  \"listings_upserted\": 27\n}",
+      "stderr": "(node:8465) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "life-ladprao",
+      "ok": true,
+      "status": 0,
+      "stdout": ": life-ladprao\nListings: 28 (ph=20, li=8)\n{\n  \"ok\": true,\n  \"project_slug\": \"life-ladprao\",\n  \"project_id\": \"39332f94-f394-44dc-9e5b-df9a22c5f963\",\n  \"developer_id\": \"cf61b775-2fc6-4ec6-8257-053c3ad81d5e\",\n  \"location_id\": \"9b85c8c8-7518-47ae-995f-d39e24828197\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"0705ab64-09cb-4544-9df6-35bba22f7a12\",\n  \"listings_upserted\": 28\n}",
+      "stderr": "(node:8555) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "life-one-wireless",
+      "ok": true,
+      "status": 0,
+      "stdout": "-wireless\nListings: 27 (ph=20, li=7)\n{\n  \"ok\": true,\n  \"project_slug\": \"life-one-wireless\",\n  \"project_id\": \"f5568aec-d751-4ea4-9dc1-52f1bbc4a7c4\",\n  \"developer_id\": \"cf61b775-2fc6-4ec6-8257-053c3ad81d5e\",\n  \"location_id\": \"8a2e49b9-5d54-4234-9210-9ab42d6badcb\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"adeca3be-6044-4cd8-b022-08fa6f5e4c19\",\n  \"listings_upserted\": 27\n}",
+      "stderr": "(node:8601) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "m-silom",
+      "ok": true,
+      "status": 0,
+      "stdout": "Package: m-silom\nListings: 28 (ph=20, li=8)\n{\n  \"ok\": true,\n  \"project_slug\": \"m-silom\",\n  \"project_id\": \"8d64f404-eb89-41c2-bbba-ccccdc6ce932\",\n  \"developer_id\": \"75022638-28d0-4a39-84ae-aefe5a453179\",\n  \"location_id\": \"2c74c9ff-c481-4091-b9bf-6c00b37289ae\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"dea7393a-12a0-416f-9cdb-b45f60a7adcc\",\n  \"listings_upserted\": 28\n}",
+      "stderr": "(node:8683) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "ok": true,
+      "status": 0,
+      "stdout": "\nListings: 28 (ph=20, li=8)\n{\n  \"ok\": true,\n  \"project_slug\": \"maestro-03-ratchada-rama-9\",\n  \"project_id\": \"cee1d29d-37a9-477b-aa5e-369f16cc580d\",\n  \"developer_id\": \"75022638-28d0-4a39-84ae-aefe5a453179\",\n  \"location_id\": \"4960ebf6-4a45-48ec-a7ce-c0457b2a06cc\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"1b9db609-f25a-4a8e-b0fd-f9b4b54163b9\",\n  \"listings_upserted\": 28\n}",
+      "stderr": "(node:8786) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "ok": true,
+      "status": 0,
+      "stdout": "ng\nListings: 28 (ph=20, li=8)\n{\n  \"ok\": true,\n  \"project_slug\": \"modiz-rhyme-ramkhamhaeng\",\n  \"project_id\": \"00218b5f-c2ba-4cff-b263-d98551e9240c\",\n  \"developer_id\": \"fd33027b-1ff0-45f9-a430-5c635ba696d7\",\n  \"location_id\": \"1c425db0-f9b1-4afe-b2cc-17351f2a30ad\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"eabd3090-9d06-4ced-a9d0-1e27199e85e0\",\n  \"listings_upserted\": 28\n}",
+      "stderr": "(node:8836) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "ok": true,
+      "status": 0,
+      "stdout": "ngs: 28 (ph=20, li=8)\n{\n  \"ok\": true,\n  \"project_slug\": \"niche-pride-thonglor-phetchaburi\",\n  \"project_id\": \"297cf46b-165e-4ad6-80ae-54ef50936300\",\n  \"developer_id\": \"7a6cde40-3c40-4549-9667-d612f9021a76\",\n  \"location_id\": \"cb4bcfe4-d63c-497a-a30f-d50d6664cec4\",\n  \"city_id\": \"1bdd48d2-988a-4d56-b1bd-9f253e5fa86c\",\n  \"district_id\": \"7ddf1e91-23f1-4859-962c-46cc8216de42\",\n  \"listings_upserted\": 28\n}",
+      "stderr": "(node:8874) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"
+    }
+  ]
+}

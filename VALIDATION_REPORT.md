@@ -1,66 +1,35 @@
 # VALIDATION_REPORT
 
-**Milestone:** Phase 6 — M2 Bangkok Property Factory
-**Date:** 2026-07-14
-**Validator:** `pipelines/factory/lib/validate.mjs` (AJV schemas + DATA_STANDARD rules)
+**Date:** 2026-07-14  
+**Milestone:** Phase 6 M3 LivingInsider Wave 1
 
-## Result: PASS — 153/153 packages, 0 failures, 0 warnings
+## Package validation
 
-| Package kind | Checked | Failures | Warnings |
-|--------------|--------:|---------:|---------:|
-| Developer manifests | 20 | 0 | 0 |
-| Project manifests | 50 | 0 | 0 |
-| Listing packages | 33 | 0 | 0 |
-| District SEO packages | 50 | 0 | 0 |
-| **Total** | **153** | **0** | **0** |
+| Check | Result |
+|-------|--------|
+| AJV / factory `validateListingRecord` on all LI DTOs before import | **PASS** (316 ok / 0 fail) |
+| Required provenance (`source`, `listing_url`, `external_ref`, `source_updated_at`, i18n fields) | PASS |
+| Positive `price_thb` only | PASS |
+| Canonical `source=livinginsider` | PASS |
 
-Run via each package's path through `validatePath()` (the same code the factory CLI
-uses), which auto-detects package kind and applies the matching schema + rule set.
+## Database guards
 
-## Rule checks exercised
+| Check | Result |
+|-------|--------|
+| PropertyHub count remains 617 | PASS |
+| PropertyHub prices match Wave1 packages | PASS (617/617) |
+| PropertyHub `updated_at` not advanced by LI-only import | PASS |
+| LivingInsider rows isolated (`source=livinginsider`) | PASS (316) |
+| Soft-match candidates open only (no merges) | PASS |
 
-- JSON Schema conformance (`schemas/{developer,project,district,listing,media,source,
-  i18n}.json`).
-- i18n completeness (EN/ZH/TH present where required).
-- Source allow-list (`SOURCE_ALLOW`) — every `source` is an approved value.
-- Capture-date validity (`collected_at` / `source_captured_at` parse as dates).
-- Coordinate bounds (lat/lng within valid ranges).
-- Transit-tag allow-list (`TRANSIT_TAGS`).
-- Listing duplicate detection (`duplicate_fingerprint` / `external_ref`).
+## Stop conditions
 
-## STEP 6 rejection gate (anti-fabrication)
+| Condition | Triggered? |
+|-----------|------------|
+| Schema change affecting PropertyHub | No (none applied) |
+| PropertyHub verified listings altered | No |
+| Fabricated prices / placeholders | No |
 
-STEP 6 requires rejecting any project missing Developer, Official source, Location,
-Published price, or Project status. Applied to the data set:
+## Status
 
-| Gate | Enforcement |
-|------|-------------|
-| Developer present | 50/50 projects link a real developer slug |
-| Official source present | 50/50 projects carry a `sources[]` entry |
-| Location present | 50/50 projects carry `city_slug` + `district_slug` |
-| Published price | Enforced at **listing** level — harvester drops any listing without `price_thb > 0`; 617/617 priced |
-| Project status | 33/50 have `construction_status`; 17 identity-only projects carry no *listings* and are excluded from the priced inventory rather than fabricated |
-
-**No fabricated record passed the gate.** The 17 projects without a resolvable
-priced source were left listing-less; no listing was attached to a project it could
-not be verified against.
-
-## Independent re-verification
-
-Beyond schema validation, one Wave-1 listing was re-fetched from its live source
-this milestone as an integrity spot-check:
-
-- `propertyhub-4590499` (ashton-asoke) → live page shows ฿8,500,000 / 1 bed /
-  34 sqm / floor 28 → **exact match** to the stored package.
-
-## Duplicate audit
-
-- 617 listings, 617 unique `external_ref` → **0 duplicate external references**.
-- `duplicate_fingerprint` present on every listing for cross-source dedup.
-
-## Conclusion
-
-The packaged Bangkok Property Factory data set is schema-valid, source-attributed,
-price-gated, duplicate-free, and free of detected fabrication. Open items (Sathon
-khet, 17 gap projects, media galleries, JSON-LD/keywords) are documented gaps, not
-validation failures.
+**PASS — LivingInsider Wave 1 validated for push**

@@ -1,0 +1,214 @@
+{
+  "dry_run": false,
+  "started_at": "2026-07-14T15:22:41.949Z",
+  "validated": 316,
+  "validation_failed": [],
+  "inserted": 96,
+  "updated": 220,
+  "skipped": 0,
+  "price_history": 96,
+  "source_rows": 316,
+  "events": 316,
+  "errors": [],
+  "projects": [
+    {
+      "slug": "ashton-asoke",
+      "listings": 14,
+      "inserted": 6,
+      "updated": 8
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "listings": 7,
+      "inserted": 0,
+      "updated": 7
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "listings": 8,
+      "inserted": 0,
+      "updated": 8
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "listings": 13,
+      "inserted": 5,
+      "updated": 8
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "listings": 12,
+      "inserted": 4,
+      "updated": 8
+    },
+    {
+      "slug": "kave-town-space",
+      "listings": 10,
+      "inserted": 2,
+      "updated": 8
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "listings": 10,
+      "inserted": 2,
+      "updated": 8
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "listings": 10,
+      "inserted": 3,
+      "updated": 7
+    },
+    {
+      "slug": "life-ladprao",
+      "listings": 14,
+      "inserted": 6,
+      "updated": 8
+    },
+    {
+      "slug": "life-one-wireless",
+      "listings": 11,
+      "inserted": 4,
+      "updated": 7
+    },
+    {
+      "slug": "m-silom",
+      "listings": 12,
+      "inserted": 4,
+      "updated": 8
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "listings": 8,
+      "inserted": 0,
+      "updated": 8
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "listings": 8,
+      "inserted": 0,
+      "updated": 8
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "listings": 9,
+      "inserted": 1,
+      "updated": 8
+    },
+    {
+      "slug": "noble-around-ari",
+      "listings": 8,
+      "inserted": 3,
+      "updated": 5
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "listings": 9,
+      "inserted": 3,
+      "updated": 6
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "listings": 7,
+      "inserted": 1,
+      "updated": 6
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "listings": 7,
+      "inserted": 1,
+      "updated": 6
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "listings": 7,
+      "inserted": 1,
+      "updated": 6
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "listings": 9,
+      "inserted": 3,
+      "updated": 6
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "listings": 10,
+      "inserted": 4,
+      "updated": 6
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "listings": 8,
+      "inserted": 2,
+      "updated": 6
+    },
+    {
+      "slug": "the-esse-asoke",
+      "listings": 8,
+      "inserted": 2,
+      "updated": 6
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "listings": 9,
+      "inserted": 3,
+      "updated": 6
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "listings": 7,
+      "inserted": 1,
+      "updated": 6
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "listings": 11,
+      "inserted": 6,
+      "updated": 5
+    },
+    {
+      "slug": "the-lofts-silom",
+      "listings": 9,
+      "inserted": 3,
+      "updated": 6
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "listings": 10,
+      "inserted": 4,
+      "updated": 6
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "listings": 9,
+      "inserted": 3,
+      "updated": 6
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "listings": 10,
+      "inserted": 4,
+      "updated": 6
+    },
+    {
+      "slug": "whizdom-essence",
+      "listings": 10,
+      "inserted": 4,
+      "updated": 6
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "listings": 10,
+      "inserted": 5,
+      "updated": 5
+    },
+    {
+      "slug": "xt-phayathai",
+      "listings": 12,
+      "inserted": 6,
+      "updated": 6
+    }
+  ],
+  "finished_at": "2026-07-14T15:24:51.440Z"
+}
