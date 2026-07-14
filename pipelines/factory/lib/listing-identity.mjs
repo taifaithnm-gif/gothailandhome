@@ -36,6 +36,17 @@ export function deriveSourceListingId(source, externalRef, listingUrl) {
   if (key === "propertyhub") {
     return extractPropertyHubListingId(externalRef, listingUrl);
   }
+  if (key === "livinginsider") {
+    const fromRef = String(externalRef || "").match(
+      /(?:^|-)(?:livinginsider-)?(\d{5,})$/i,
+    );
+    if (fromRef) return fromRef[1];
+    const fromUrl = String(listingUrl || "").match(
+      /(?:en_|LV|detail_en\/[^/]+-)(\d{5,})/i,
+    );
+    if (fromUrl) return fromUrl[1];
+    return null;
+  }
   if (externalRef) {
     const stripped = String(externalRef).replace(new RegExp(`^${key}-`, "i"), "");
     return stripped || String(externalRef);
@@ -71,6 +82,9 @@ export function normalizeSourceUrl(source, listingUrl, sourceListingId = null) {
   const key = normalizeSourceKey(source);
   if (key === "propertyhub" && sourceListingId) {
     return `https://propertyhub.in.th/en/listings/${sourceListingId}`;
+  }
+  if (key === "livinginsider" && sourceListingId) {
+    return `https://www.livinginsider.com/re/en_${sourceListingId}`;
   }
   u.hostname = u.hostname.toLowerCase();
   // Collapse default ports
