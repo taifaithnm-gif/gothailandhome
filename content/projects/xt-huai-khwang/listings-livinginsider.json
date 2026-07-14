@@ -1,0 +1,550 @@
+{
+  "project_slug": "xt-huai-khwang",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2906",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/13/2906/Condo/all/all/1/Condo-XT-Huaikhwang.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3129444",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17500,
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "🏙️✨ XT Huai Khwang | ห้องมุม ชั้น 25 วิวสวย 🌆 Walk-in Closet | 1 ห้องนอน 2 ห้องน้ำ พร้อมอยู่",
+        "zh": "🏙️✨ XT Huai Khwang | ห้องมุม ชั้น 25 วิวสวย 🌆 Walk-in Closet | 1 ห้องนอน 2 ห้องน้ำ พร้อมอยู่",
+        "th": "🏙️✨ XT Huai Khwang | ห้องมุม ชั้น 25 วิวสวย 🌆 Walk-in Closet | 1 ห้องนอน 2 ห้องน้ำ พร้อมอยู่"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 17,500 THB. Source LivingInsider #3129444.",
+        "zh": "出租：1卧，30㎡，17,500 泰铢。来源 LivingInsider #3129444。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 17,500 บาท (LivingInsider #3129444)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3129444. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3129444。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3129444 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3129444",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3129444.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3129444",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3129444",
+      "source_url_hash": "cfaf27e7104f5fef6be7f3fa085100cd8af2821d21bcb7a9b15f4c4e201243eb",
+      "duplicate_fingerprint": "960cb35c8b272259c5f499dd9fe38462baf81eddcb60eefd4dd80e40e18d43b2",
+      "soft_match_fingerprint": "f878d8ae02f2357155ea0bc8eab9cb65aecfbbb8146d4ad7ee2831d6cc85d5c7",
+      "_computed_fingerprint": "c339c157127ff2f777d446374a631a61e423ae445ef94e8fe52e3af0b3590e4a"
+    },
+    {
+      "external_ref": "livinginsider-2800161",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4700000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "27",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "📍เจ้าของขายเอง คอนโดติดMRTห้วยขวาง 75 เมตร ชั้น27 วิวเมือง ไม่บล็อควิว คอนโดจากแสนสิริ",
+        "zh": "📍เจ้าของขายเอง คอนโดติดMRTห้วยขวาง 75 เมตร ชั้น27 วิวเมือง ไม่บล็อควิว คอนโดจากแสนสิริ",
+        "th": "📍เจ้าของขายเอง คอนโดติดMRTห้วยขวาง 75 เมตร ชั้น27 วิวเมือง ไม่บล็อควิว คอนโดจากแสนสิริ"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 4,700,000 THB. Source LivingInsider #2800161.",
+        "zh": "出租：1卧，30㎡，4,700,000 泰铢。来源 LivingInsider #2800161。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 4,700,000 บาท (LivingInsider #2800161)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2800161. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2800161。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2800161 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2800161",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2800161.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2800161",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2800161",
+      "source_url_hash": "6e26c5ad536eb0fab0dc40a7134fc3a8429993d4630bd32b04485d7f01504499",
+      "duplicate_fingerprint": "8a1eb65f16d8a7ae7409da6c0bcd5c89e75f2f6d1b7b15f8cdc300be8c22f9a5",
+      "soft_match_fingerprint": "d54ec0f15d0fb8b7d9df38af21562650d0e6e27b59746885c8224021b24cf37a",
+      "_computed_fingerprint": "d59c2f3185209c563ea2a00ce1d628364ac68f1300ee22352eebaa5aface0045"
+    },
+    {
+      "external_ref": "livinginsider-2003019",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 21000,
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "area_sqm": 31,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า!!!  (รับเช่าระยะสั้นรายเดือน/รายปี, รับต่างชาติ,จดทะเบียนบริษัทได้)  XT Huaikhwang ให้เช่า คอนโดตกแต่งใหม่พร้อมอยู่  ขนาด 31 ตร.ม. ชั้น 23, Tower A  วิวสวย      ราคา 21,000 ต่อเดือน ติดต่อคุณอำนาจ โทร 0882099559, 0812353999 Line ID: amnatchukhan",
+        "zh": "ให้เช่า!!!  (รับเช่าระยะสั้นรายเดือน/รายปี, รับต่างชาติ,จดทะเบียนบริษัทได้)  XT Huaikhwang ให้เช่า คอนโดตกแต่งใหม่พร้อมอยู่  ขนาด 31 ตร.ม. ชั้น 23, Tower A  วิวสวย      ราคา 21,000 ต่อเดือน ติดต่อคุณอำนาจ โทร 0882099559, 0812353999 Line ID: amnatchukhan",
+        "th": "ให้เช่า!!!  (รับเช่าระยะสั้นรายเดือน/รายปี, รับต่างชาติ,จดทะเบียนบริษัทได้)  XT Huaikhwang ให้เช่า คอนโดตกแต่งใหม่พร้อมอยู่  ขนาด 31 ตร.ม. ชั้น 23, Tower A  วิวสวย      ราคา 21,000 ต่อเดือน ติดต่อคุณอำนาจ โทร 0882099559, 0812353999 Line ID: amnatchukhan"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 21,000 THB. Source LivingInsider #2003019.",
+        "zh": "出租：1卧，31㎡，21,000 泰铢。来源 LivingInsider #2003019。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 21,000 บาท (LivingInsider #2003019)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2003019. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2003019。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2003019 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2003019",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2003019.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2003019",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2003019",
+      "source_url_hash": "203e2b93c7c5b3ca2768fd5b51e2fb9e1a96488672f3afa10506794d586ef9a0",
+      "duplicate_fingerprint": "760be7f63281016c33e55d0223d11d68319dcc8f0e18eb8e9a137ad35e9b2681",
+      "soft_match_fingerprint": "0c3fec837e22db43598e6f8e8ea0021311d674d6ab8afb47070c7c12e2fc6077",
+      "_computed_fingerprint": "9a3daf13462662efd194aa24bd705bc9b7f08aa5862c5ce9fdd502686693e86e"
+    },
+    {
+      "external_ref": "livinginsider-3117322",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "🌳✨ XT Huai Khwang | วิวสวน อาคาร A 🌿 เฟอร์ครบ พร้อมเข้าอยู่ ใกล้ MRT ห้วยขวาง 🚇💖",
+        "zh": "🌳✨ XT Huai Khwang | วิวสวน อาคาร A 🌿 เฟอร์ครบ พร้อมเข้าอยู่ ใกล้ MRT ห้วยขวาง 🚇💖",
+        "th": "🌳✨ XT Huai Khwang | วิวสวน อาคาร A 🌿 เฟอร์ครบ พร้อมเข้าอยู่ ใกล้ MRT ห้วยขวาง 🚇💖"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 29 sq.m., 16,500 THB. Source LivingInsider #3117322.",
+        "zh": "出租：1卧，29㎡，16,500 泰铢。来源 LivingInsider #3117322。",
+        "th": "เช่า: 1 นอน 29 ตร.ม. ราคา 16,500 บาท (LivingInsider #3117322)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3117322. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3117322。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3117322 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3117322",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3117322.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3117322",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3117322",
+      "source_url_hash": "1a78b5a3d3ed771da016bc9c8f1275fb7c37cda3e3227555d6052ce0d843d269",
+      "duplicate_fingerprint": "d046b9cfa4201bc6e6fd370a7b275ac6307ecbf4bcbedd5c4f9bacaba9b6030b",
+      "soft_match_fingerprint": "ae1928431dc73423cced91a35112184bb3204778ac227d7a70e307384a66c86b",
+      "_computed_fingerprint": "dd592b626287921087208abc683399be14eaa88841cc981b52e64803bacbc674"
+    },
+    {
+      "external_ref": "livinginsider-3072816",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 21000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "🌆 ให้เช่า XT Huaikhwang (เอ็กซ์ที ห้วยขวาง) ใกล้ MRT ห้วยขวาง 🚆✨",
+        "zh": "🌆 ให้เช่า XT Huaikhwang (เอ็กซ์ที ห้วยขวาง) ใกล้ MRT ห้วยขวาง 🚆✨",
+        "th": "🌆 ให้เช่า XT Huaikhwang (เอ็กซ์ที ห้วยขวาง) ใกล้ MRT ห้วยขวาง 🚆✨"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 21,000 THB. Source LivingInsider #3072816.",
+        "zh": "出租：1卧，35㎡，21,000 泰铢。来源 LivingInsider #3072816。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 21,000 บาท (LivingInsider #3072816)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3072816. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3072816。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3072816 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3072816",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3072816.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3072816",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3072816",
+      "source_url_hash": "1e9117417b326ef96a343babdb02f14407b376495047062e150d8a2d7eb17470",
+      "duplicate_fingerprint": "2668533436fe18efdf23c78e17b88d35094162c7b22cfa9677556e45048161a0",
+      "soft_match_fingerprint": "c6aa267ec051c9b572c013218e0c4d5f281c6cae8a96a086780ac11d29dfa841",
+      "_computed_fingerprint": "e9a36d595347fdd07a2ac60c9ab5263430fb8a385b0bb6fe8ccccc9d44be1400"
+    },
+    {
+      "external_ref": "livinginsider-2724284",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7980000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥ขายด่วน+🔥เอ็กซ์ที ห้วยขวาง ห้องเปล่า ยังไม่มีการทำบิ้วอิน แถมเครื่องใช้ไฟฟ้า ใจกลางห้วยขวาง",
+        "zh": "🔥ขายด่วน+🔥เอ็กซ์ที ห้วยขวาง ห้องเปล่า ยังไม่มีการทำบิ้วอิน แถมเครื่องใช้ไฟฟ้า ใจกลางห้วยขวาง",
+        "th": "🔥ขายด่วน+🔥เอ็กซ์ที ห้วยขวาง ห้องเปล่า ยังไม่มีการทำบิ้วอิน แถมเครื่องใช้ไฟฟ้า ใจกลางห้วยขวาง"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 7,980,000 THB. Source LivingInsider #2724284.",
+        "zh": "出租：2卧，30㎡，7,980,000 泰铢。来源 LivingInsider #2724284。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 7,980,000 บาท (LivingInsider #2724284)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2724284. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2724284。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2724284 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2724284",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2724284.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2724284",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2724284",
+      "source_url_hash": "a07721d254810ea069ee6cf6defcb6e5dc3084ed2d6fea9986e5c651ff3f4358",
+      "duplicate_fingerprint": "c270518201b792fe09b30e17eb0a4cb985e7534b6d02ab3ce71a0ac0e6ec4500",
+      "soft_match_fingerprint": "f763237f164bc8616c39f922dd37e6ed3730e2ecad33d84c1aeb2ced0ec78750",
+      "_computed_fingerprint": "51ce309947bed08f83d649feca406959199ec456bcfadee9bbafd8ae7abce9ee"
+    },
+    {
+      "external_ref": "livinginsider-2586183",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3526000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เอ็กซ์ที ห้วยขวาง MRT-ห้วยขวาง ห้วยขวาง เขต ห้วยขวาง กรุงเทพ  CX-132241",
+        "zh": "ขายคอนโด  เอ็กซ์ที ห้วยขวาง MRT-ห้วยขวาง ห้วยขวาง เขต ห้วยขวาง กรุงเทพ  CX-132241",
+        "th": "ขายคอนโด  เอ็กซ์ที ห้วยขวาง MRT-ห้วยขวาง ห้วยขวาง เขต ห้วยขวาง กรุงเทพ  CX-132241"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,526,000 THB. Source LivingInsider #2586183.",
+        "zh": "出租：1卧，30㎡，3,526,000 泰铢。来源 LivingInsider #2586183。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,526,000 บาท (LivingInsider #2586183)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2586183. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2586183。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2586183 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2586183",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2586183.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2586183",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2586183",
+      "source_url_hash": "22b6301b277a11a94f6fccc703ee57456014ecf8bbc0eaf226681e5dcf15e6f9",
+      "duplicate_fingerprint": "ead5e8665d1f1b10d1d71b2b7e0942c8322c9e0015689c062291936a7a4304d3",
+      "soft_match_fingerprint": "17cd1b577d2a428fb1c64e89a48b32f3290d8b30b0620592e90e12a4a002ccb9",
+      "_computed_fingerprint": "07e7eac463c72e5a5e213ef52b6969b3dd44d62a6c6127ac65bf45aa5d567dc6"
+    },
+    {
+      "external_ref": "livinginsider-2510571",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด เอ็กซ์ที ห้วยขวาง MRT-ห้วยขวาง ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-127075",
+        "zh": "ขายคอนโด เอ็กซ์ที ห้วยขวาง MRT-ห้วยขวาง ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-127075",
+        "th": "ขายคอนโด เอ็กซ์ที ห้วยขวาง MRT-ห้วยขวาง ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-127075"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 8,500,000 THB. Source LivingInsider #2510571.",
+        "zh": "出租：2卧，30㎡，8,500,000 泰铢。来源 LivingInsider #2510571。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 8,500,000 บาท (LivingInsider #2510571)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2510571. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2510571。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2510571 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2510571",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2510571.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2510571",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2510571",
+      "source_url_hash": "6b240e98eac3ba8fc4f92408b5ba3aaa90c886ffa5ca1a239e7661af82fb9ceb",
+      "duplicate_fingerprint": "09dbbafdd94d7ff1934581133ff5a58063fc0761ea7028af349a7043f7d36ca1",
+      "soft_match_fingerprint": "8d1636e054ff2a6943dde3b71457d16db23df61d1c3568568d90d740db85f68f",
+      "_computed_fingerprint": "49e26bc6e4cfb14a7328bb8aafa17a2fc8560c0933ef3d9e5ac52c6878edfb5c"
+    },
+    {
+      "external_ref": "livinginsider-2372667",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3790000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เอ็กซ์ที ห้วยขวาง MRT-ห้วยขวาง ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-107571",
+        "zh": "ขายคอนโด  เอ็กซ์ที ห้วยขวาง MRT-ห้วยขวาง ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-107571",
+        "th": "ขายคอนโด  เอ็กซ์ที ห้วยขวาง MRT-ห้วยขวาง ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-107571"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,790,000 THB. Source LivingInsider #2372667.",
+        "zh": "出租：1卧，30㎡，3,790,000 泰铢。来源 LivingInsider #2372667。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,790,000 บาท (LivingInsider #2372667)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2372667. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2372667。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2372667 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2372667",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2372667.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2372667",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2372667",
+      "source_url_hash": "681956f21487bb493c52d2911d462a722807e4f4be9877f9ed69fb6fb3eaf45e",
+      "duplicate_fingerprint": "a77291169eee57ab6a17229c39d383d13747c5cd23d7b85a4e3243ce504f69dd",
+      "soft_match_fingerprint": "6f84c0a849f9a5b09ce2453f65796f490f9f3c916485d51556a2f165fc9a3765",
+      "_computed_fingerprint": "0703dc44001e32428bfdb4d21e648627dbd92031d05345f29f0181bcb1a1d955"
+    },
+    {
+      "external_ref": "livinginsider-2840137",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3350000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เอ็กซ์ที ห้วยขวาง MRT-ห้วยขวาง ห้วยขวาง เขต ห้วยขวาง กรุงเทพ  CX-157445",
+        "zh": "ขายคอนโด  เอ็กซ์ที ห้วยขวาง MRT-ห้วยขวาง ห้วยขวาง เขต ห้วยขวาง กรุงเทพ  CX-157445",
+        "th": "ขายคอนโด  เอ็กซ์ที ห้วยขวาง MRT-ห้วยขวาง ห้วยขวาง เขต ห้วยขวาง กรุงเทพ  CX-157445"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,350,000 THB. Source LivingInsider #2840137.",
+        "zh": "出租：1卧，30㎡，3,350,000 泰铢。来源 LivingInsider #2840137。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,350,000 บาท (LivingInsider #2840137)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2840137. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2840137。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2840137 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2840137",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2840137.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2840137",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2840137",
+      "source_url_hash": "45c737ce9f8039db70b69ae79cdc2578bc4c852579acd16d438e8586237f5866",
+      "duplicate_fingerprint": "634150fd3624fca0e15fca37f51b7f5e80249b5d24e9cc14fef5792e5bcbf674",
+      "soft_match_fingerprint": "c0bfb3870aa00e6c97cea72e136cd8f0a1c51dbbfc8901c431c54575ba569a97",
+      "_computed_fingerprint": "a595af5cb5035fc32a2399c1cc033f82fded33f5b844305873491f83fb978cdb"
+    }
+  ]
+}

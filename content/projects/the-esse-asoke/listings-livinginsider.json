@@ -1,0 +1,442 @@
+{
+  "project_slug": "the-esse-asoke",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "1138",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/18/1138/Condo/all/all/1/Condo-The-ESSE-Asoke.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-2459160",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7690000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36.89,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "The Esse Asoke 1-bed 36.89 ตร.ม.ชั้นสูง วิวโล่ง Fully Furnished",
+        "zh": "The Esse Asoke 1-bed 36.89 ตร.ม.ชั้นสูง วิวโล่ง Fully Furnished",
+        "th": "The Esse Asoke 1-bed 36.89 ตร.ม.ชั้นสูง วิวโล่ง Fully Furnished"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 36.89 sq.m., 7,690,000 THB. Source LivingInsider #2459160.",
+        "zh": "出租：1卧，36.89㎡，7,690,000 泰铢。来源 LivingInsider #2459160。",
+        "th": "เช่า: 1 นอน 36.89 ตร.ม. ราคา 7,690,000 บาท (LivingInsider #2459160)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2459160. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2459160。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2459160 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2459160",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2459160.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2459160",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2459160",
+      "source_url_hash": "f568b30fa61e0852fec7bd113d5b44c75d285ea96ed760a8ea13155c8c275513",
+      "duplicate_fingerprint": "8c8d7d7392c05c0662b0f435113d575bc9cfa513052d27fc9139d99205fa9fbe",
+      "soft_match_fingerprint": "3a01781036c374babc040dce3daa4d24d96e8987ef5d5a61c7d6eec669409e33",
+      "_computed_fingerprint": "f492a6d70b3a939d4b22a233b5e4c7c28f3a00b90f48385df7f1e3f188366a7e"
+    },
+    {
+      "external_ref": "livinginsider-3118244",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 45000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "31",
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "!! ห้องสวย ให้เช่าคอนโด The Esse Asoke (ดิ เอส อโศก) ใกล้ MRT เพชรบุรี",
+        "zh": "!! ห้องสวย ให้เช่าคอนโด The Esse Asoke (ดิ เอส อโศก) ใกล้ MRT เพชรบุรี",
+        "th": "!! ห้องสวย ให้เช่าคอนโด The Esse Asoke (ดิ เอส อโศก) ใกล้ MRT เพชรบุรี"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 45,000 THB. Source LivingInsider #3118244.",
+        "zh": "出租：1卧，30㎡，45,000 泰铢。来源 LivingInsider #3118244。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 45,000 บาท (LivingInsider #3118244)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3118244. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3118244。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3118244 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3118244",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3118244.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3118244",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3118244",
+      "source_url_hash": "0211a53cf47e03bbc8515ad8363415db406a4c30738046c501a6b36901c66a8f",
+      "duplicate_fingerprint": "6dcfd569b40e4cf1ed39f17940a3661b3c60eeb1c6cfadcc3d9aa404839a2ce5",
+      "soft_match_fingerprint": "dff8ccedbf29dc1a30ad77fbf474e3008425165e369dd131b58affd74118c871",
+      "_computed_fingerprint": "d9ec077dea43eb44b51d594432e1bf6d37042303ecc63acbcf3cc062fc896637"
+    },
+    {
+      "external_ref": "livinginsider-3118257",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "!! ห้องสวย ให้เช่าคอนโด The Esse Asoke ใกล้ MRT เพชรบุรี",
+        "zh": "!! ห้องสวย ให้เช่าคอนโด The Esse Asoke ใกล้ MRT เพชรบุรี",
+        "th": "!! ห้องสวย ให้เช่าคอนโด The Esse Asoke ใกล้ MRT เพชรบุรี"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 35,000 THB. Source LivingInsider #3118257.",
+        "zh": "出租：1卧，30㎡，35,000 泰铢。来源 LivingInsider #3118257。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 35,000 บาท (LivingInsider #3118257)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3118257. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3118257。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3118257 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3118257",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3118257.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3118257",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3118257",
+      "source_url_hash": "91e01e6a7c3e7b8103ebdc93e06f0e8a18c97dce1e13aaec862b2ae4d25b0984",
+      "duplicate_fingerprint": "78d3791e50043fe6098b1d974097259ab39272e6aabfe424bb0fc95aebd797db",
+      "soft_match_fingerprint": "2778c819dcfa3dd99f6f0b15cbaee2851983b06070a4a30b9109c6241ac3f578",
+      "_computed_fingerprint": "43c1de91217ba9b0f5c28d5e039a760af03dfb9930e5010d8f3272de30736a09"
+    },
+    {
+      "external_ref": "livinginsider-2309116",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8480000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ   CX-21660",
+        "zh": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ   CX-21660",
+        "th": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ   CX-21660"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 8,480,000 THB. Source LivingInsider #2309116.",
+        "zh": "出租：1卧，30㎡，8,480,000 泰铢。来源 LivingInsider #2309116。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 8,480,000 บาท (LivingInsider #2309116)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2309116. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2309116。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2309116 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2309116",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2309116.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2309116",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2309116",
+      "source_url_hash": "1013a8784a2a080ce56ebf7b2258ad8a7c329f2e1c4e17d9e9153ef9aac8e796",
+      "duplicate_fingerprint": "7d564e53c3ea496f663063aa0d70a1f0c4d62243b795424f43142ea3014a8515",
+      "soft_match_fingerprint": "f7ce47edc243fa90289b034a8b38a6e0336aba9be88aa72fe19d8d9a4efe3539",
+      "_computed_fingerprint": "98ceeb203243d589e316328d68d9d09910b5f47895a2bdd2e0124bb486685c24"
+    },
+    {
+      "external_ref": "livinginsider-2157395",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6499000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-21681",
+        "zh": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-21681",
+        "th": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-21681"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 6,499,000 THB. Source LivingInsider #2157395.",
+        "zh": "出租：1卧，30㎡，6,499,000 泰铢。来源 LivingInsider #2157395。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 6,499,000 บาท (LivingInsider #2157395)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2157395. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2157395。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2157395 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2157395",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2157395.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2157395",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2157395",
+      "source_url_hash": "c021301128480d3b6e6126ea6a0b2680763eecd4fc73696cb943b502bb88332a",
+      "duplicate_fingerprint": "2980e4c3cd69b6952266d0e7f67bf9bfa8736393872ee3c89605fbaea00a274b",
+      "soft_match_fingerprint": "64d35d3e1d4dace1db03f7274d5f7625519c7af0ba225d9a827d879200f71613",
+      "_computed_fingerprint": "53736b4e7743114c5b930afb47865bd6eda9545fd6b2e9d5309de733e16d8eb5"
+    },
+    {
+      "external_ref": "livinginsider-1334531",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10599000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-80539",
+        "zh": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-80539",
+        "th": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-80539"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 10,599,000 THB. Source LivingInsider #1334531.",
+        "zh": "出租：1卧，30㎡，10,599,000 泰铢。来源 LivingInsider #1334531。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 10,599,000 บาท (LivingInsider #1334531)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1334531. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1334531。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1334531 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1334531",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1334531.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1334531",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1334531",
+      "source_url_hash": "1b5e7224fde5c1bf77e5a7475aef0b38b402e9b2f135ebdd7e8f64d37c220c2c",
+      "duplicate_fingerprint": "3d10982e7029d29d87d6c52dd715ceec93f87cdd33fb0e7c8044778e2d4e850d",
+      "soft_match_fingerprint": "f7ce47edc243fa90289b034a8b38a6e0336aba9be88aa72fe19d8d9a4efe3539",
+      "_computed_fingerprint": "cf1437765b4e392736063c9548e8ded938c6a280fdb602de829d6824a3b26e2b"
+    },
+    {
+      "external_ref": "livinginsider-1897803",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ  CX-91899",
+        "zh": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ  CX-91899",
+        "th": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ  CX-91899"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 8,500,000 THB. Source LivingInsider #1897803.",
+        "zh": "出租：1卧，30㎡，8,500,000 泰铢。来源 LivingInsider #1897803。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 8,500,000 บาท (LivingInsider #1897803)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1897803. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1897803。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1897803 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1897803",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1897803.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1897803",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1897803",
+      "source_url_hash": "2fd839f2144f9a1a6459dcee87c13e030aca152bd6c09e6e864b6f923d8cb1af",
+      "duplicate_fingerprint": "b496631144e052902064fb1cb732d20bd439ad05adc442540060fd9b8d017d18",
+      "soft_match_fingerprint": "f7ce47edc243fa90289b034a8b38a6e0336aba9be88aa72fe19d8d9a4efe3539",
+      "_computed_fingerprint": "972fcf332149ccc588531d244ba9bfacae3e727ff8af38b6236a9a33d2dfc66a"
+    },
+    {
+      "external_ref": "livinginsider-2526507",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 14800000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-21752",
+        "zh": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-21752",
+        "th": "ขายคอนโด  ดิ เอส อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-21752"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 14,800,000 THB. Source LivingInsider #2526507.",
+        "zh": "出租：2卧，30㎡，14,800,000 泰铢。来源 LivingInsider #2526507。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 14,800,000 บาท (LivingInsider #2526507)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2526507. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2526507。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2526507 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2526507",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2526507.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2526507",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2526507",
+      "source_url_hash": "cd38d4c2dfaf1c5de9eafccb64573cebfb02269ea2f22ae3e6991cb1d13a48c0",
+      "duplicate_fingerprint": "44058ece1424a9705d95fb4af026b8e0c1d746bb6f39289507ecca1fa93ac57c",
+      "soft_match_fingerprint": "ed3fc01b9c85dc72ae1ae46bc3842dc30b31786619e23f9a05a1a50c27573e48",
+      "_computed_fingerprint": "5104f6b0206ea26585ecceb0e1cb567b042f69aec719ab9a15d8a929048f4dc6"
+    }
+  ]
+}

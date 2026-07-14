@@ -1,0 +1,550 @@
+{
+  "project_slug": "the-privacy-rama-9",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2769",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/14/2769/Condo/all/all/1/Condo-The-Privacy-Rama-9.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-2868269",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "ลดราคา! เจ้าของขายเอง คอนโด เดอะ ไพรเวซี่ พระราม 9 | The Privacy Rama 9 รีโนเวทใหม่ครบ สไตล์ Modern ",
+        "zh": "ลดราคา! เจ้าของขายเอง คอนโด เดอะ ไพรเวซี่ พระราม 9 | The Privacy Rama 9 รีโนเวทใหม่ครบ สไตล์ Modern ",
+        "th": "ลดราคา! เจ้าของขายเอง คอนโด เดอะ ไพรเวซี่ พระราม 9 | The Privacy Rama 9 รีโนเวทใหม่ครบ สไตล์ Modern "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,300,000 THB. Source LivingInsider #2868269.",
+        "zh": "出租：1卧，30㎡，2,300,000 泰铢。来源 LivingInsider #2868269。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,300,000 บาท (LivingInsider #2868269)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2868269. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2868269。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2868269 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2868269",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2868269.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2868269",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2868269",
+      "source_url_hash": "a71318c0c4acf94557d7d5a7d5e4bfb543e49808432a40d25adbbcbaff41250a",
+      "duplicate_fingerprint": "7915ad43c7287435e18405a6c440648b372956cab4e8796416dbf583223412e1",
+      "soft_match_fingerprint": "eb005442ec50652a3ec6085f272f4f2e0f44373c7fffb344a6296bedf186620b",
+      "_computed_fingerprint": "8e04da191706cfdcb8deff0a8bbee620a67516e57c18ac5b4c73c37146526986"
+    },
+    {
+      "external_ref": "livinginsider-2932583",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 22.75,
+      "floor_label": "24",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "🟦🟩 [For Rent] The Privacy Rama 9 | Studio 22.75 sq.m | 24th Floor | 12,000 THB/Month | Ref: T2138 | LINE: @323gqmho 🟩🟦",
+        "zh": "🟦🟩 [For Rent] The Privacy Rama 9 | Studio 22.75 sq.m | 24th Floor | 12,000 THB/Month | Ref: T2138 | LINE: @323gqmho 🟩🟦",
+        "th": "🟦🟩 [For Rent] The Privacy Rama 9 | Studio 22.75 sq.m | 24th Floor | 12,000 THB/Month | Ref: T2138 | LINE: @323gqmho 🟩🟦"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 22.75 sq.m., 12,000 THB. Source LivingInsider #2932583.",
+        "zh": "出租：1卧，22.75㎡，12,000 泰铢。来源 LivingInsider #2932583。",
+        "th": "เช่า: 1 นอน 22.75 ตร.ม. ราคา 12,000 บาท (LivingInsider #2932583)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2932583. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2932583。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2932583 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2932583",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2932583.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2932583",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2932583",
+      "source_url_hash": "4f41490188dc66cd345f053f6616805691b7526af25f5ac771275f9455ff44cc",
+      "duplicate_fingerprint": "1b3c33492ce713d0bb0b125990348b8ceecb4d3bc9f4e4d89418188d29bb500c",
+      "soft_match_fingerprint": "9fe62c6683de0728d7ff95413906ae296c11e4ca88346c0b6c0b2f74f85cfa4b",
+      "_computed_fingerprint": "70e2d2ea624ea17b67d07deaac4fe6bc08f2ae349c351e1cfe3a215cde1b2d49"
+    },
+    {
+      "external_ref": "livinginsider-3051265",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14999,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "❗️พร้อมให้ชมทันที ไม่ต้องนัดล่วงหน้า❗️🔥Ready to View – No Appointment Needed🔥",
+        "zh": "❗️พร้อมให้ชมทันที ไม่ต้องนัดล่วงหน้า❗️🔥Ready to View – No Appointment Needed🔥",
+        "th": "❗️พร้อมให้ชมทันที ไม่ต้องนัดล่วงหน้า❗️🔥Ready to View – No Appointment Needed🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 14,999 THB. Source LivingInsider #3051265.",
+        "zh": "出租：1卧，30㎡，14,999 泰铢。来源 LivingInsider #3051265。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 14,999 บาท (LivingInsider #3051265)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3051265. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3051265。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3051265 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3051265",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3051265.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3051265",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3051265",
+      "source_url_hash": "c1f0465e47cbce8892c1367178d28ab0582de01515efcf4cb732906c71d146b2",
+      "duplicate_fingerprint": "7e074278380a4d23fd48c844d644b94984d32d921439a6b4f6121083ed1fb43b",
+      "soft_match_fingerprint": "1ab727fd4ecc51cf0faee382013b1d9f8efc27075d2e461f45fa5bc30c046c38",
+      "_computed_fingerprint": "da4f6d768dc1e866d704fa55dec56ff9961df667937700dc284cdff57865d637"
+    },
+    {
+      "external_ref": "livinginsider-2998664",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17500,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า เดอะ ไพรเวซี่ พระราม 9 🍁ห้องแต่งสวยเวอร์ 🍁2นอน 36 ตรม Line @bkkproperty8",
+        "zh": "ให้เช่า เดอะ ไพรเวซี่ พระราม 9 🍁ห้องแต่งสวยเวอร์ 🍁2นอน 36 ตรม Line @bkkproperty8",
+        "th": "ให้เช่า เดอะ ไพรเวซี่ พระราม 9 🍁ห้องแต่งสวยเวอร์ 🍁2นอน 36 ตรม Line @bkkproperty8"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 36 sq.m., 17,500 THB. Source LivingInsider #2998664.",
+        "zh": "出租：2卧，36㎡，17,500 泰铢。来源 LivingInsider #2998664。",
+        "th": "เช่า: 2 นอน 36 ตร.ม. ราคา 17,500 บาท (LivingInsider #2998664)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2998664. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2998664。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2998664 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2998664",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2998664.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2998664",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2998664",
+      "source_url_hash": "9bc3e500716fffaca98cbb6361f547874e1cbbf163533785131dcae5196b7a88",
+      "duplicate_fingerprint": "eb5e2e587c7b42d926e7db942671d91cfa07363fb4bdc23857697928cb373cc8",
+      "soft_match_fingerprint": "143fc768493923e13e4177605dd621b64925eeffd27b9b7e158e6988e9170e35",
+      "_computed_fingerprint": "2fd9bb344164628c9218cfef0401bd37cd18c1848c8228187786fbd0643f656f"
+    },
+    {
+      "external_ref": "livinginsider-3091502",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.45,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "คอนโดให้เช่า เดอะ ไพรเวซี่ พระราม 9",
+        "zh": "คอนโดให้เช่า เดอะ ไพรเวซี่ พระราม 9",
+        "th": "คอนโดให้เช่า เดอะ ไพรเวซี่ พระราม 9"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35.45 sq.m., 20,000 THB. Source LivingInsider #3091502.",
+        "zh": "出租：1卧，35.45㎡，20,000 泰铢。来源 LivingInsider #3091502。",
+        "th": "เช่า: 1 นอน 35.45 ตร.ม. ราคา 20,000 บาท (LivingInsider #3091502)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3091502. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3091502。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3091502 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3091502",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3091502.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3091502",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3091502",
+      "source_url_hash": "b9b7a9c230b652df28b4e3fb4c255f9b48bc1dc5d0eecb4b41dc6e0140e4cc9d",
+      "duplicate_fingerprint": "40bbdd3ad3eb108d1f0d351d25996f53314dae41ac7666ca51929865f1e6303d",
+      "soft_match_fingerprint": "68eeb2ff6184ac3c655a209f99e52f93634f7610346338e0e5e5ff0a7104777f",
+      "_computed_fingerprint": "c66a9eb1423cdb885e9f9c23326437ce0170359b5bf54e2af150d110e3fd6425"
+    },
+    {
+      "external_ref": "livinginsider-2139889",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4290000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขาย The Privacy Rama9 2นอน 1น้ำ ห้องสวย ตกแต่งครบ  ใกล้แอร์พอร์ตลิงค์รามคำแหง เดินทางสะดวก",
+        "zh": "ขาย The Privacy Rama9 2นอน 1น้ำ ห้องสวย ตกแต่งครบ  ใกล้แอร์พอร์ตลิงค์รามคำแหง เดินทางสะดวก",
+        "th": "ขาย The Privacy Rama9 2นอน 1น้ำ ห้องสวย ตกแต่งครบ  ใกล้แอร์พอร์ตลิงค์รามคำแหง เดินทางสะดวก"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 4,290,000 THB. Source LivingInsider #2139889.",
+        "zh": "出租：1卧，30㎡，4,290,000 泰铢。来源 LivingInsider #2139889。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 4,290,000 บาท (LivingInsider #2139889)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2139889. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2139889。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2139889 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2139889",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2139889.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2139889",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2139889",
+      "source_url_hash": "53164cf3f348392afd54b0f401da12a7bf9957dcd1d86e1fa44f1168c5341c12",
+      "duplicate_fingerprint": "5081f4ab28de81c14161146e799e9edb9f1e820eb126c94e1f517550135fb774",
+      "soft_match_fingerprint": "f17afcd1f0e01f31d0b0937b8eb517e817078e64584c29af9e25742af1c2ec2c",
+      "_computed_fingerprint": "5fedd3f726aadf658f1a71a8f0ff3714d6e9858dcebf208f18163410a8b0c4d1"
+    },
+    {
+      "external_ref": "livinginsider-3146905",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3700000,
+      "bedrooms": 9,
+      "bathrooms": 2,
+      "area_sqm": 38,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "(A050127) The Privacy Rama 9",
+        "zh": "(A050127) The Privacy Rama 9",
+        "th": "(A050127) The Privacy Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 9BR, 38 sq.m., 3,700,000 THB. Source LivingInsider #3146905.",
+        "zh": "出租：9卧，38㎡，3,700,000 泰铢。来源 LivingInsider #3146905。",
+        "th": "เช่า: 9 นอน 38 ตร.ม. ราคา 3,700,000 บาท (LivingInsider #3146905)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3146905. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3146905。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3146905 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3146905",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3146905.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3146905",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3146905",
+      "source_url_hash": "54fc842e4fedc9a6c5bca75a2ba37e87a3bdf0ccca412c75c5f4bea3e4531f02",
+      "duplicate_fingerprint": "c97c910fba493b756ef0c3ba7957e5399b9ea6c1234a78d655e8b4faf0947d2c",
+      "soft_match_fingerprint": "42ba6108af90aaebab5295f386526eafe551a4e179d4a92dbb9ece1cee3d5a04",
+      "_computed_fingerprint": "f5d1b4a6723dc7c269ebd1486067837f5f2eeb300e6b813b7c8cc3a5c13d1b2a"
+    },
+    {
+      "external_ref": "livinginsider-3012984",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4290000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 38.57,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "The Privacy Rama 9 / 2 Bedrooms (FOR SALE), เดอะ ไพรเวซี่ พระราม 9 / 2 ห้องนอน (ขาย) JSMN130",
+        "zh": "The Privacy Rama 9 / 2 Bedrooms (FOR SALE), เดอะ ไพรเวซี่ พระราม 9 / 2 ห้องนอน (ขาย) JSMN130",
+        "th": "The Privacy Rama 9 / 2 Bedrooms (FOR SALE), เดอะ ไพรเวซี่ พระราม 9 / 2 ห้องนอน (ขาย) JSMN130"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 38.57 sq.m., 4,290,000 THB. Source LivingInsider #3012984.",
+        "zh": "出租：2卧，38.57㎡，4,290,000 泰铢。来源 LivingInsider #3012984。",
+        "th": "เช่า: 2 นอน 38.57 ตร.ม. ราคา 4,290,000 บาท (LivingInsider #3012984)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3012984. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3012984。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3012984 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3012984",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3012984.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3012984",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3012984",
+      "source_url_hash": "c0c5983a525fa5e09bb5f08710f311d1b6205032afa49f22f62d435dda5c6cab",
+      "duplicate_fingerprint": "5abdf67e5e1a10c5017265f00dbe621b860f775f26bbdbb12269f01fb952765e",
+      "soft_match_fingerprint": "ffead3d69d1570c5c7b3c3b8e6d293989601d9d3ff11b72690b42128c1f899ff",
+      "_computed_fingerprint": "28489705ae627cf2440479f0b55f9f34c4c99e66fa4ddf05b46ef62ae0ded1d3"
+    },
+    {
+      "external_ref": "livinginsider-2970078",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.43,
+      "floor_label": "24",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "The Privacy Rama 9 / 1 Bedroom (FOR SALE), เดอะ ไพรเวซี่ พระราม 9 / 1 ห้องนอน (ขาย) JSMN389",
+        "zh": "The Privacy Rama 9 / 1 Bedroom (FOR SALE), เดอะ ไพรเวซี่ พระราม 9 / 1 ห้องนอน (ขาย) JSMN389",
+        "th": "The Privacy Rama 9 / 1 Bedroom (FOR SALE), เดอะ ไพรเวซี่ พระราม 9 / 1 ห้องนอน (ขาย) JSMN389"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35.43 sq.m., 3,900,000 THB. Source LivingInsider #2970078.",
+        "zh": "出租：1卧，35.43㎡，3,900,000 泰铢。来源 LivingInsider #2970078。",
+        "th": "เช่า: 1 นอน 35.43 ตร.ม. ราคา 3,900,000 บาท (LivingInsider #2970078)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2970078. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2970078。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2970078 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2970078",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2970078.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2970078",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2970078",
+      "source_url_hash": "190ad54db5f737cd36a6dce72dc8de0a108404f9815386f4c53726de669ec59e",
+      "duplicate_fingerprint": "a8d408f36441a2b81d769043d9ad111acf345d3cfc28b0b9496af9a5562bd507",
+      "soft_match_fingerprint": "5dc6d2d1998e6ac82c4a0548c07dbfd5878d084a67f77302a2549353ac4c959f",
+      "_computed_fingerprint": "9c514a3b1881bd2fd37f358fd4208f7de447d60e93977a042998a8497f50242a"
+    },
+    {
+      "external_ref": "livinginsider-2529025",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4350000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 47.32,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายด่วน!! ห้องขนาดใหญ่✨The Privacy Rama 9  (เดอะ ไพรเวซี่ พระราม 9)",
+        "zh": "ขายด่วน!! ห้องขนาดใหญ่✨The Privacy Rama 9  (เดอะ ไพรเวซี่ พระราม 9)",
+        "th": "ขายด่วน!! ห้องขนาดใหญ่✨The Privacy Rama 9  (เดอะ ไพรเวซี่ พระราม 9)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 47.32 sq.m., 4,350,000 THB. Source LivingInsider #2529025.",
+        "zh": "出租：2卧，47.32㎡，4,350,000 泰铢。来源 LivingInsider #2529025。",
+        "th": "เช่า: 2 นอน 47.32 ตร.ม. ราคา 4,350,000 บาท (LivingInsider #2529025)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2529025. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2529025。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2529025 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2529025",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2529025.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2529025",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2529025",
+      "source_url_hash": "ab29ef57e3d4cfb3d7fe79de6f10965048f3005d03c66ce5ed0d185318b30e88",
+      "duplicate_fingerprint": "d68fedeafe9eb8e03250b1bbdc8d5c3d873b37ecbe7e92be758c76675f82c293",
+      "soft_match_fingerprint": "b3b7c6d13cf2d3210d505e9cb58d1b9c350cf5f24c5c7f68cba3734d321e2806",
+      "_computed_fingerprint": "3e960333f37f76fcd2dd50629941fac20495d9b320b90c6183924fde8ae4177e"
+    }
+  ]
+}

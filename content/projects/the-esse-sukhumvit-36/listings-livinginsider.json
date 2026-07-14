@@ -1,0 +1,496 @@
+{
+  "project_slug": "the-esse-sukhumvit-36",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2774",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/18/2774/Condo/all/all/1/Condo-The-Esse-Sukhumvit-36.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-2639760",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 13800000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "The Esse Sukhumvit 36- Exclusive Sale !  ขายยูนิตสวย ตกแต่งด้วยหินอ่อน สัมผัสความสงบและความหรูหราสุดเอ็กซ์คลูซีฟ…ท่ามกลางหัวใจทองหล่อ",
+        "zh": "The Esse Sukhumvit 36- Exclusive Sale !  ขายยูนิตสวย ตกแต่งด้วยหินอ่อน สัมผัสความสงบและความหรูหราสุดเอ็กซ์คลูซีฟ…ท่ามกลางหัวใจทองหล่อ",
+        "th": "The Esse Sukhumvit 36- Exclusive Sale !  ขายยูนิตสวย ตกแต่งด้วยหินอ่อน สัมผัสความสงบและความหรูหราสุดเอ็กซ์คลูซีฟ…ท่ามกลางหัวใจทองหล่อ"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 13,800,000 THB. Source LivingInsider #2639760.",
+        "zh": "出租：1卧，30㎡，13,800,000 泰铢。来源 LivingInsider #2639760。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 13,800,000 บาท (LivingInsider #2639760)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2639760. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2639760。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2639760 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2639760",
+      "source_updated_at": "2026-08-31",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2639760.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2639760",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2639760",
+      "source_url_hash": "e7ae5770599bce0061baeef288c46b01586a021e1efe9f724e8ab658c49cb0e2",
+      "duplicate_fingerprint": "00ad3c494fc521bb3b4c2c07395128ac9e207955e0e7021e8349e58dcac0a098",
+      "soft_match_fingerprint": "bb6ca59666f4d981906097a812f661c36210bac8bd91e15b57c742c414ee2c81",
+      "_computed_fingerprint": "b0ea1e128ccab596fe15b52f2de473a3de94036f428cf7691596267acda74f91"
+    },
+    {
+      "external_ref": "livinginsider-3053012",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 74000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 73,
+      "floor_label": "31",
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "***(2 ห้องนอน 2 ห้องน้ำ) ให้เช่าคอนโด : ดิ เอส สุขุมวิท 36 (The Esse Sukhumvit 36)***",
+        "zh": "***(2 ห้องนอน 2 ห้องน้ำ) ให้เช่าคอนโด : ดิ เอส สุขุมวิท 36 (The Esse Sukhumvit 36)***",
+        "th": "***(2 ห้องนอน 2 ห้องน้ำ) ให้เช่าคอนโด : ดิ เอส สุขุมวิท 36 (The Esse Sukhumvit 36)***"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 73 sq.m., 74,000 THB. Source LivingInsider #3053012.",
+        "zh": "出租：2卧，73㎡，74,000 泰铢。来源 LivingInsider #3053012。",
+        "th": "เช่า: 2 นอน 73 ตร.ม. ราคา 74,000 บาท (LivingInsider #3053012)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3053012. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3053012。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3053012 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3053012",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3053012.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3053012",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3053012",
+      "source_url_hash": "975915b3988ec7f045c1b1d4d7bd75781c0d46347c58ee71fe8cdf9dc84b5c59",
+      "duplicate_fingerprint": "14d2cfed2c789d9f819315eb7db1a1541fd83c3f868eb6f0668f6d51e6c20b98",
+      "soft_match_fingerprint": "1ced605557fec8cdbf29d956ff7f1edf47e3d52ee10cbe177ef186dcd5d3fed8",
+      "_computed_fingerprint": "61f716e281ff1e4c63cb9c60cc3a9a5c18ac7030d71c6b800e8f887093541f0f"
+    },
+    {
+      "external_ref": "livinginsider-3145098",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 42000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "🏙️ The ESSE Sukhumvit 36 | Super Luxury Residence ติด BTS ทองหล่อเพียง 20 เมตร ✨",
+        "zh": "🏙️ The ESSE Sukhumvit 36 | Super Luxury Residence ติด BTS ทองหล่อเพียง 20 เมตร ✨",
+        "th": "🏙️ The ESSE Sukhumvit 36 | Super Luxury Residence ติด BTS ทองหล่อเพียง 20 เมตร ✨"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 42,000 THB. Source LivingInsider #3145098.",
+        "zh": "出租：1卧，30㎡，42,000 泰铢。来源 LivingInsider #3145098。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 42,000 บาท (LivingInsider #3145098)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3145098. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3145098。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3145098 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3145098",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3145098.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3145098",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3145098",
+      "source_url_hash": "cab5d75aa26778a4ffc852e5fb2a9d52febc9134e7be928430aa1bb951ee6575",
+      "duplicate_fingerprint": "2f29c0c4662ea15eae9849aee52b5be02623ac3ca197408cfdf37c026b170d25",
+      "soft_match_fingerprint": "864750464c6ca6b1259f77e8df7aa16a0bfaf64c974d1e6f9fa09235deccb4e9",
+      "_computed_fingerprint": "278820c1ef71f5e77f31f5b72f7b1529c3733387641841af248cf27e749ce55c"
+    },
+    {
+      "external_ref": "livinginsider-3002064",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 80000,
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "area_sqm": 80,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่าคอนโด The Esse 36 ห้องสวยใหม่ 1 ห้องนอน พร้อมเฟอร์ ใกล้ BTS ทองหล่อ ราคาพิเศษ",
+        "zh": "ให้เช่าคอนโด The Esse 36 ห้องสวยใหม่ 1 ห้องนอน พร้อมเฟอร์ ใกล้ BTS ทองหล่อ ราคาพิเศษ",
+        "th": "ให้เช่าคอนโด The Esse 36 ห้องสวยใหม่ 1 ห้องนอน พร้อมเฟอร์ ใกล้ BTS ทองหล่อ ราคาพิเศษ"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 80 sq.m., 80,000 THB. Source LivingInsider #3002064.",
+        "zh": "出租：1卧，80㎡，80,000 泰铢。来源 LivingInsider #3002064。",
+        "th": "เช่า: 1 นอน 80 ตร.ม. ราคา 80,000 บาท (LivingInsider #3002064)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3002064. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3002064。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3002064 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3002064",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3002064.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3002064",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3002064",
+      "source_url_hash": "c93543e28f16a2ddd587bf1483b8528e0f8063c3df33b825ce857516be95c7f0",
+      "duplicate_fingerprint": "c4b922416b1cc78007d0ea420c4c480d6a0eab0597fdfd12abedc70aef7c6d5a",
+      "soft_match_fingerprint": "19e6c62dbabfc94ccede809e8ffc45443b01bcc1f987b598f2e6fcebe94baabf",
+      "_computed_fingerprint": "f367cf469a19d9272c3e90070392e5c4228cd73f5a57edc4dfa681b85d21f222"
+    },
+    {
+      "external_ref": "livinginsider-3112824",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ดิ เอส สุขุมวิท 36 BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ CX-134767",
+        "zh": "ขายคอนโด  ดิ เอส สุขุมวิท 36 BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ CX-134767",
+        "th": "ขายคอนโด  ดิ เอส สุขุมวิท 36 BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ CX-134767"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 9,900,000 THB. Source LivingInsider #3112824.",
+        "zh": "出租：1卧，30㎡，9,900,000 泰铢。来源 LivingInsider #3112824。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 9,900,000 บาท (LivingInsider #3112824)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3112824. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3112824。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3112824 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3112824",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3112824.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3112824",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3112824",
+      "source_url_hash": "2c11d942f3085c5e77a05b56fcca663c3b247a4209c69ebb37c885d21a6c8f3b",
+      "duplicate_fingerprint": "adbd030279d9e3917c2cbd075cbdef66369f752c95998815f9507c6c447b4081",
+      "soft_match_fingerprint": "bb6ca59666f4d981906097a812f661c36210bac8bd91e15b57c742c414ee2c81",
+      "_computed_fingerprint": "27c737957285c82423cf091d1d337bad3c2bf004607c02cb4d165c3f6f2dba56"
+    },
+    {
+      "external_ref": "livinginsider-2839884",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 13490000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด ดิ เอส สุขุมวิท 36 BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ  CX-147021",
+        "zh": "ขายคอนโด ดิ เอส สุขุมวิท 36 BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ  CX-147021",
+        "th": "ขายคอนโด ดิ เอส สุขุมวิท 36 BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ  CX-147021"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 13,490,000 THB. Source LivingInsider #2839884.",
+        "zh": "出租：1卧，30㎡，13,490,000 泰铢。来源 LivingInsider #2839884。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 13,490,000 บาท (LivingInsider #2839884)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2839884. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2839884。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2839884 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2839884",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2839884.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2839884",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2839884",
+      "source_url_hash": "4eeb55d8c866506eaa52c3fb2105905ac10af281e90ac1d7a944600c98adc3ec",
+      "duplicate_fingerprint": "19bb8737f738248ca2f2c2dd07744fba4731bc749330b3ae4803c32430d20fb7",
+      "soft_match_fingerprint": "6003da034e46727d6e05a3ae3511475c06834a91036a1ed35c020b1299bc5dbd",
+      "_computed_fingerprint": "fc89999c74ff0e1d54987ab98337b1be66c832166ab8b4a2674df6d36d411371"
+    },
+    {
+      "external_ref": "livinginsider-2582837",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 45800000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ดิ เอส สุขุมวิท 36 วิวสวย ชั้นสูง BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ CX-118990",
+        "zh": "ขายคอนโด  ดิ เอส สุขุมวิท 36 วิวสวย ชั้นสูง BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ CX-118990",
+        "th": "ขายคอนโด  ดิ เอส สุขุมวิท 36 วิวสวย ชั้นสูง BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ CX-118990"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 30 sq.m., 45,800,000 THB. Source LivingInsider #2582837.",
+        "zh": "出租：3卧，30㎡，45,800,000 泰铢。来源 LivingInsider #2582837。",
+        "th": "เช่า: 3 นอน 30 ตร.ม. ราคา 45,800,000 บาท (LivingInsider #2582837)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2582837. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2582837。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2582837 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2582837",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2582837.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2582837",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2582837",
+      "source_url_hash": "7c59efa79f6c6ecf605793145d11202cde49b07bea566c922ccabc3f69da088c",
+      "duplicate_fingerprint": "ef367ecbf14b0b93511f207db36881c233d57e42f8cd1cad4f34416853375393",
+      "soft_match_fingerprint": "6e3c6c5a4b7df4e352a1e8785a4639729788399f0396003a2f95f5daa2cfe2d9",
+      "_computed_fingerprint": "22c70fbed08b4bef1e8e769ae9c48f72f359ea57fde3f6fbf72cf6a8127a94b1"
+    },
+    {
+      "external_ref": "livinginsider-2185808",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 26000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ดิ เอส สุขุมวิท 36 ชั้นสูง BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ CX-106650",
+        "zh": "ขายคอนโด  ดิ เอส สุขุมวิท 36 ชั้นสูง BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ CX-106650",
+        "th": "ขายคอนโด  ดิ เอส สุขุมวิท 36 ชั้นสูง BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ CX-106650"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 26,000,000 THB. Source LivingInsider #2185808.",
+        "zh": "出租：2卧，30㎡，26,000,000 泰铢。来源 LivingInsider #2185808。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 26,000,000 บาท (LivingInsider #2185808)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2185808. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2185808。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2185808 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2185808",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2185808.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2185808",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2185808",
+      "source_url_hash": "45742977d68ed5f7fcc9e149e450fc179d5a4768c0d894a854232e515ca4eeea",
+      "duplicate_fingerprint": "11b6f5c85c6955dac2a7d78f065ff070568fb171681aa71143448a6990f0b21a",
+      "soft_match_fingerprint": "1357e8e37fdfbc2146654832375551a490fe02175e9602b5f7f3809560002f56",
+      "_computed_fingerprint": "764da03adb1586eed2d52c859fb916a2e75f6c03784f2eb1f06972cfc7926d4f"
+    },
+    {
+      "external_ref": "livinginsider-2812690",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 110000000,
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ดิ เอส สุขุมวิท 36 เพนท์เฮ้าส์ วิวสวย ชั้นสูง BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ CX-132534",
+        "zh": "ขายคอนโด  ดิ เอส สุขุมวิท 36 เพนท์เฮ้าส์ วิวสวย ชั้นสูง BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ CX-132534",
+        "th": "ขายคอนโด  ดิ เอส สุขุมวิท 36 เพนท์เฮ้าส์ วิวสวย ชั้นสูง BTS-ทองหล่อ พระโขนง เขต คลองเตย กรุงเทพ CX-132534"
+      },
+      "summary": {
+        "en": "Rent: 4BR, 30 sq.m., 110,000,000 THB. Source LivingInsider #2812690.",
+        "zh": "出租：4卧，30㎡，110,000,000 泰铢。来源 LivingInsider #2812690。",
+        "th": "เช่า: 4 นอน 30 ตร.ม. ราคา 110,000,000 บาท (LivingInsider #2812690)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2812690. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2812690。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2812690 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2812690",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2812690.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2812690",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2812690",
+      "source_url_hash": "b067e58956c7f10bb7fc9818a0c43b1eeab4a7afd1e7b23486d31bc749af3a48",
+      "duplicate_fingerprint": "09f8b77c58990700798e6fd20b4eaac8c5d5d5c1f36d13cdb625c493a500972b",
+      "soft_match_fingerprint": "06e41ac0510b69b8d96c13e7b6ed6e54ebd44ec84447ac0dc3cd14354c7843f8",
+      "_computed_fingerprint": "04843af2c7415c96a69e24ea390dbcf64f73d5097226974a43763695e2bc9c56"
+    }
+  ]
+}

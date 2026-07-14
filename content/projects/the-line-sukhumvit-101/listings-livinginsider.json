@@ -1,0 +1,388 @@
+{
+  "project_slug": "the-line-sukhumvit-101",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2588",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/19/2588/Condo/all/all/1/Condo-The-Line-Sukhumvit-101.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3146403",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 The Line Sukhumvit 101 | วิวแม่น้ำ ชั้นสูง ใกล้ BTS ปุณณวิถี พร้อมรถรับส่ง 🚆🌿",
+        "zh": "🔥 The Line Sukhumvit 101 | วิวแม่น้ำ ชั้นสูง ใกล้ BTS ปุณณวิถี พร้อมรถรับส่ง 🚆🌿",
+        "th": "🔥 The Line Sukhumvit 101 | วิวแม่น้ำ ชั้นสูง ใกล้ BTS ปุณณวิถี พร้อมรถรับส่ง 🚆🌿"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 24,000 THB. Source LivingInsider #3146403.",
+        "zh": "出租：1卧，30㎡，24,000 泰铢。来源 LivingInsider #3146403。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 24,000 บาท (LivingInsider #3146403)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3146403. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3146403。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3146403 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3146403",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3146403.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3146403",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3146403",
+      "source_url_hash": "fa8f6dc49f7d31088f33a9a3cb367a284bbdb2a64b92f1c90e92b9e278ee3fbf",
+      "duplicate_fingerprint": "aeaa0a780bf1aebc1143991e91cecf4200305a8cc8212046b963d571a5d695e2",
+      "soft_match_fingerprint": "de5cad5ab0eca1db65134d575a9669898c200c88af8b9b4dc441b00f95aa12ab",
+      "_computed_fingerprint": "e1fe2ce1a13094c9379fec47c5ecc77fd6a7edc0e7d5e395d77c53d115b1986e"
+    },
+    {
+      "external_ref": "livinginsider-1622974",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3750000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-136395",
+        "zh": "ขายคอนโด เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-136395",
+        "th": "ขายคอนโด เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-136395"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,750,000 THB. Source LivingInsider #1622974.",
+        "zh": "出租：1卧，30㎡，3,750,000 泰铢。来源 LivingInsider #1622974。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,750,000 บาท (LivingInsider #1622974)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1622974. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1622974。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1622974 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1622974",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1622974.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1622974",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1622974",
+      "source_url_hash": "29cc3fb69b50450bdc248b5c0d7e8ec138cde7235b98f10e1a02306c320417f6",
+      "duplicate_fingerprint": "933e30fb30e3984fa598e143c3a439ed697a0bcc5638c0d73f7e95eed21d2cdf",
+      "soft_match_fingerprint": "4fe60fb0ed3c8d5cfb08726d53472c5db56543a99e8a76aca6ab806a8a509f24",
+      "_computed_fingerprint": "4d0389960495a3c4b0abeebf16edbf9d4a86db1d09bbc491e376140b19c30491"
+    },
+    {
+      "external_ref": "livinginsider-1831341",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3450000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-89810",
+        "zh": "ขายคอนโด  เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-89810",
+        "th": "ขายคอนโด  เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-89810"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,450,000 THB. Source LivingInsider #1831341.",
+        "zh": "出租：1卧，30㎡，3,450,000 泰铢。来源 LivingInsider #1831341。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,450,000 บาท (LivingInsider #1831341)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1831341. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1831341。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1831341 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1831341",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1831341.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1831341",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1831341",
+      "source_url_hash": "43c422b8dca2994de685d32c78374e92d2d1960f3ae2d82a07d715f6f6107ba3",
+      "duplicate_fingerprint": "887f0a44e6ba6f71d2423f00599c9675cf207f05884f683b76fb0d60462e95f6",
+      "soft_match_fingerprint": "a648c2673d27e3eb7e6a83f0d016d3d23b92eadf2e9cdfd3f56f07ee54fcb161",
+      "_computed_fingerprint": "9003545d2e8dbf5ae423f88d90b7fb097ad9f3421f8b4f74fac93a71036dfcbe"
+    },
+    {
+      "external_ref": "livinginsider-1955465",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด เดอะไลน์ สุขุมวิท 101 ดูเพล็กซ์ BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-101683",
+        "zh": "ขายคอนโด เดอะไลน์ สุขุมวิท 101 ดูเพล็กซ์ BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-101683",
+        "th": "ขายคอนโด เดอะไลน์ สุขุมวิท 101 ดูเพล็กซ์ BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-101683"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 6,000,000 THB. Source LivingInsider #1955465.",
+        "zh": "出租：1卧，30㎡，6,000,000 泰铢。来源 LivingInsider #1955465。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 6,000,000 บาท (LivingInsider #1955465)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1955465. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1955465。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1955465 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1955465",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1955465.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1955465",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1955465",
+      "source_url_hash": "08a8fab91034d7a35ade58adca847d73f56910364d2f1d0174287d9a79261f52",
+      "duplicate_fingerprint": "a13e1db047b395695efa629f325ecb1b36dc432ed9bdfeb4140245a3a6ba973c",
+      "soft_match_fingerprint": "4fe60fb0ed3c8d5cfb08726d53472c5db56543a99e8a76aca6ab806a8a509f24",
+      "_computed_fingerprint": "4fe7a141a446c7bf5409d168f64167ff6e1a4dc3eca1cd4780bb455fa70c9da9"
+    },
+    {
+      "external_ref": "livinginsider-1955447",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ  CX-156296",
+        "zh": "ขายคอนโด  เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ  CX-156296",
+        "th": "ขายคอนโด  เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ  CX-156296"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,300,000 THB. Source LivingInsider #1955447.",
+        "zh": "出租：1卧，30㎡，5,300,000 泰铢。来源 LivingInsider #1955447。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,300,000 บาท (LivingInsider #1955447)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1955447. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1955447。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1955447 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1955447",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1955447.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1955447",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1955447",
+      "source_url_hash": "ecaa44c4f9d44b93558f72ae105108fb2049ad26e5ce64ca25dc28985b362945",
+      "duplicate_fingerprint": "be9db99eadd12e1155dbb3df8e1eb2ff42fd482353f91147e4043b9f87248444",
+      "soft_match_fingerprint": "4fe60fb0ed3c8d5cfb08726d53472c5db56543a99e8a76aca6ab806a8a509f24",
+      "_computed_fingerprint": "99e56d98c02b5f9aeb87ecfb1a144f2f5f486c49127e80942bc07e89a11f27a3"
+    },
+    {
+      "external_ref": "livinginsider-1844646",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-80785",
+        "zh": "ขายคอนโด  เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-80785",
+        "th": "ขายคอนโด  เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-80785"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,500,000 THB. Source LivingInsider #1844646.",
+        "zh": "出租：1卧，30㎡，5,500,000 泰铢。来源 LivingInsider #1844646。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,500,000 บาท (LivingInsider #1844646)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1844646. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1844646。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1844646 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1844646",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1844646.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1844646",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1844646",
+      "source_url_hash": "1253df92a02c15f0ea786d35f245ab2b86bf44631867867e611fd7f6ed7b2008",
+      "duplicate_fingerprint": "72315284efc7709d8b43eb69d03a045a4910736dd6101b07c51cb0d23a2687dc",
+      "soft_match_fingerprint": "4fe60fb0ed3c8d5cfb08726d53472c5db56543a99e8a76aca6ab806a8a509f24",
+      "_computed_fingerprint": "a79ba525fd0219abb20dd35e63513ce63c0d8094685d9cb04529d0f65b67da25"
+    },
+    {
+      "external_ref": "livinginsider-1636273",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-77058",
+        "zh": "ขายคอนโด  เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-77058",
+        "th": "ขายคอนโด  เดอะไลน์ สุขุมวิท 101 BTS-ปุณณวิถี บางจาก เขต พระโขนง กรุงเทพ CX-77058"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 6,500,000 THB. Source LivingInsider #1636273.",
+        "zh": "出租：2卧，30㎡，6,500,000 泰铢。来源 LivingInsider #1636273。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 6,500,000 บาท (LivingInsider #1636273)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1636273. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1636273。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1636273 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1636273",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1636273.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1636273",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1636273",
+      "source_url_hash": "1d48c46103d6142b88aa0bd68bd66bf5646d6953fde1077a947995d75903657f",
+      "duplicate_fingerprint": "bbc98f49999576603b3b5b4cfdb16c87e2dee47c9abfa8582c63cde75b6529d4",
+      "soft_match_fingerprint": "9ffd3ab6a2c68e731b526fb79a77630ac031da66b17d0f84d62f281aec60a72f",
+      "_computed_fingerprint": "6063243e97a019c06d2ba5c4e3911b71ab41db0863383fbb8cc2903cde762d31"
+    }
+  ]
+}

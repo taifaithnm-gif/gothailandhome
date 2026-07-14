@@ -1,0 +1,388 @@
+{
+  "project_slug": "supalai-lite-sathorn-charoenrat",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "259",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/24/259/Condo/all/all/1/Condo-Supalai-Lite-Sathorn-Charoenrat.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-2453151",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "🧨ห้องวิวสวย ชั้นสูง คอนโดพร้อมอยู่ ศุภาลัยไลท์ สาทร-เจริญราษฎร์💥",
+        "zh": "🧨ห้องวิวสวย ชั้นสูง คอนโดพร้อมอยู่ ศุภาลัยไลท์ สาทร-เจริญราษฎร์💥",
+        "th": "🧨ห้องวิวสวย ชั้นสูง คอนโดพร้อมอยู่ ศุภาลัยไลท์ สาทร-เจริญราษฎร์💥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 4,500,000 THB. Source LivingInsider #2453151.",
+        "zh": "出租：1卧，30㎡，4,500,000 泰铢。来源 LivingInsider #2453151。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 4,500,000 บาท (LivingInsider #2453151)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2453151. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2453151。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2453151 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2453151",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2453151.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2453151",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2453151",
+      "source_url_hash": "35d6598b2f97ae544273cce110d69796503bab432612420138107979b471e621",
+      "duplicate_fingerprint": "93561d7d5a3352ff7d2af8b897099d4a66a5ed09707b664360935c12eec60741",
+      "soft_match_fingerprint": "5d72ef0121def01931962e8b5a5946a0dec7bf39da17a89a3acad17a622ce0a1",
+      "_computed_fingerprint": "23353785449c07a5de4f6fe549d6949ba96ac0e9e94589f0435bf243630a0c01"
+    },
+    {
+      "external_ref": "livinginsider-3117486",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "Best Price ✨ขาย Supalai Lite Sathorn-Charoenrat ห้องสวย ตกแต่งครบ ราคาดีมาก พร้อมเข้าอยู่ ",
+        "zh": "Best Price ✨ขาย Supalai Lite Sathorn-Charoenrat ห้องสวย ตกแต่งครบ ราคาดีมาก พร้อมเข้าอยู่ ",
+        "th": "Best Price ✨ขาย Supalai Lite Sathorn-Charoenrat ห้องสวย ตกแต่งครบ ราคาดีมาก พร้อมเข้าอยู่ "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 2,400,000 THB. Source LivingInsider #3117486.",
+        "zh": "出租：1卧，35㎡，2,400,000 泰铢。来源 LivingInsider #3117486。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 2,400,000 บาท (LivingInsider #3117486)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3117486. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3117486。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3117486 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3117486",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3117486.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3117486",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3117486",
+      "source_url_hash": "32fc8c2c7f8523a36d9e6833071afe593db99bbbf0f6115d04e120a3a1dcbcd4",
+      "duplicate_fingerprint": "d00b00c01d9267fd15fdbf773794c4f06805b56579d6c3c1b09b28062c5adf7c",
+      "soft_match_fingerprint": "a1554f945b7d6078bb99524035d20d95f87f63ab916239d797a843ac22978e5f",
+      "_computed_fingerprint": "8a372434e6138a2b662e08fd83e7596c519432df85352273de2ee17804853195"
+    },
+    {
+      "external_ref": "livinginsider-3147559",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 50,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥ให้เช่าศุภาลัย ไลท์ เจริญราษฎร์ สาทร 🔥พื้นที่ 50 ตร.ม (เคยเป็น 1 ห้องนอน แต่ทุบเป็นสตูดิโอ) มีระเบียง ทำเป็นห้องทำงานเล็กๆ ได้ อยู่ชั้น 20🔥ค่าเช่า 15,000/เดือน ประกัน 2เดือน ล่วงหน้า1เดือน💚Tel/Line  085 484 8586 Ag.https://line.me/ti/p/z3lDLPPyvI",
+        "zh": "🔥ให้เช่าศุภาลัย ไลท์ เจริญราษฎร์ สาทร 🔥พื้นที่ 50 ตร.ม (เคยเป็น 1 ห้องนอน แต่ทุบเป็นสตูดิโอ) มีระเบียง ทำเป็นห้องทำงานเล็กๆ ได้ อยู่ชั้น 20🔥ค่าเช่า 15,000/เดือน ประกัน 2เดือน ล่วงหน้า1เดือน💚Tel/Line  085 484 8586 Ag.https://line.me/ti/p/z3lDLPPyvI",
+        "th": "🔥ให้เช่าศุภาลัย ไลท์ เจริญราษฎร์ สาทร 🔥พื้นที่ 50 ตร.ม (เคยเป็น 1 ห้องนอน แต่ทุบเป็นสตูดิโอ) มีระเบียง ทำเป็นห้องทำงานเล็กๆ ได้ อยู่ชั้น 20🔥ค่าเช่า 15,000/เดือน ประกัน 2เดือน ล่วงหน้า1เดือน💚Tel/Line  085 484 8586 Ag.https://line.me/ti/p/z3lDLPPyvI"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 50 sq.m., 15,000 THB. Source LivingInsider #3147559.",
+        "zh": "出租：1卧，50㎡，15,000 泰铢。来源 LivingInsider #3147559。",
+        "th": "เช่า: 1 นอน 50 ตร.ม. ราคา 15,000 บาท (LivingInsider #3147559)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3147559. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3147559。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3147559 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3147559",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3147559.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3147559",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3147559",
+      "source_url_hash": "524616d404071b6a9f8082d121d8242a6c987229bf893afca9586ea9367cf422",
+      "duplicate_fingerprint": "efb62ed7f9d00e15162f40ccd67f0f5fd8d3090be3b2aea36a01c0cac18de7cc",
+      "soft_match_fingerprint": "cfe4925e89bc8d66901e046333f51e1e88b51852e6d9edfe7ea81d64292462da",
+      "_computed_fingerprint": "71ec90836efb143be8a9b789ade028c1f9b6e2b7bb804255cc5083d71c8824a9"
+    },
+    {
+      "external_ref": "livinginsider-2493237",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7390000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 91.07,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด ศุภาลัย ไลท์ สาทร-เจริญราษฎร์ พื้นที่รวม 91.07ตรม. ตกแต่งอย่างดีบิ้วอินอย่างดี แบบ 2ห้องนอน 2ห้องน้ำ Fixที่จอดรถ",
+        "zh": "ขายคอนโด ศุภาลัย ไลท์ สาทร-เจริญราษฎร์ พื้นที่รวม 91.07ตรม. ตกแต่งอย่างดีบิ้วอินอย่างดี แบบ 2ห้องนอน 2ห้องน้ำ Fixที่จอดรถ",
+        "th": "ขายคอนโด ศุภาลัย ไลท์ สาทร-เจริญราษฎร์ พื้นที่รวม 91.07ตรม. ตกแต่งอย่างดีบิ้วอินอย่างดี แบบ 2ห้องนอน 2ห้องน้ำ Fixที่จอดรถ"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 91.07 sq.m., 7,390,000 THB. Source LivingInsider #2493237.",
+        "zh": "出租：2卧，91.07㎡，7,390,000 泰铢。来源 LivingInsider #2493237。",
+        "th": "เช่า: 2 นอน 91.07 ตร.ม. ราคา 7,390,000 บาท (LivingInsider #2493237)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2493237. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2493237。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2493237 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2493237",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2493237.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2493237",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2493237",
+      "source_url_hash": "076e2c3637f349e4629684d6ddb23a1c4d1932e52ba414c89cc68f019d0cddf1",
+      "duplicate_fingerprint": "938274a06f1015eedc0050b53085200f7ce7caae65e27b6b4d5bfa2f84ba614c",
+      "soft_match_fingerprint": "c8e7a094fcfe37d4e949917d68f082f3cee9bbd4d9c5d6374853dab743d90446",
+      "_computed_fingerprint": "0150a5f52cbc668e62c6f099053eb3c2e7b30b1826ff2bf739ff1bb095e5417f"
+    },
+    {
+      "external_ref": "livinginsider-2888319",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3500000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 49.09,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด Supalai Lite Sathorn-Charoenrat ราคา 3,500,000 บาท [NCs251109]",
+        "zh": "ขายคอนโด Supalai Lite Sathorn-Charoenrat ราคา 3,500,000 บาท [NCs251109]",
+        "th": "ขายคอนโด Supalai Lite Sathorn-Charoenrat ราคา 3,500,000 บาท [NCs251109]"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 49.09 sq.m., 3,500,000 THB. Source LivingInsider #2888319.",
+        "zh": "出租：2卧，49.09㎡，3,500,000 泰铢。来源 LivingInsider #2888319。",
+        "th": "เช่า: 2 นอน 49.09 ตร.ม. ราคา 3,500,000 บาท (LivingInsider #2888319)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2888319. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2888319。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2888319 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2888319",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2888319.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2888319",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2888319",
+      "source_url_hash": "7659a577ae5a3f7569eef160ee2b8983e59a2c9f286b3e9983ee52a1ea7d7945",
+      "duplicate_fingerprint": "9e5b97d73ad40ea9cfc4d07c4dd85f4018e87ab954adccdd41521f9ca4462a02",
+      "soft_match_fingerprint": "c1feda875a2c9be4976edb80b05748bcc61b712bd95607e33738a21432e685f7",
+      "_computed_fingerprint": "76de7cca9b287afc752407d1bb329a55212b342d6cbe94bd548a96256432366e"
+    },
+    {
+      "external_ref": "livinginsider-3017211",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3650000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥ขายขาดทุน !! วิวสวย, Supalai Lite Sathorn Charoenrat, 1 ห้องนอน, 1 ห้องน้ำ, ห้องอยู่ทางทิศเหนือ, ชั้นสูง 18++ !!🔥 Code C20221203128 ตกแต่งบางส่วน 📣📣",
+        "zh": "🔥ขายขาดทุน !! วิวสวย, Supalai Lite Sathorn Charoenrat, 1 ห้องนอน, 1 ห้องน้ำ, ห้องอยู่ทางทิศเหนือ, ชั้นสูง 18++ !!🔥 Code C20221203128 ตกแต่งบางส่วน 📣📣",
+        "th": "🔥ขายขาดทุน !! วิวสวย, Supalai Lite Sathorn Charoenrat, 1 ห้องนอน, 1 ห้องน้ำ, ห้องอยู่ทางทิศเหนือ, ชั้นสูง 18++ !!🔥 Code C20221203128 ตกแต่งบางส่วน 📣📣"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,650,000 THB. Source LivingInsider #3017211.",
+        "zh": "出租：1卧，30㎡，3,650,000 泰铢。来源 LivingInsider #3017211。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,650,000 บาท (LivingInsider #3017211)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3017211. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3017211。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3017211 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3017211",
+      "source_updated_at": "2026-08-11",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3017211.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3017211",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3017211",
+      "source_url_hash": "618840a7ad92c453ed10f017e085e1df51a4295f58c0137f0701a8bb79c2a9c2",
+      "duplicate_fingerprint": "8d17938e25e85f9b1c9160bcf7949214f106c9095b2404b2a5e3b24d92de4330",
+      "soft_match_fingerprint": "6f80f4354793fb1fceb0d0868acd24a333442f0ac3f4f72d8ee417d1b86c51f7",
+      "_computed_fingerprint": "40a66c6ec8479b39572cf1ba6759fc06b23c8cba7c6a9165b284d55b9197a59f"
+    },
+    {
+      "external_ref": "livinginsider-3064526",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 53.27,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายพร้อมผู้เช่า!!! คอนโด ศุภาลัยไลท์ สาทร-เจริญราษฎร์ ใกล้สถานีรถไฟฟ้าสุรศักดิ์",
+        "zh": "ขายพร้อมผู้เช่า!!! คอนโด ศุภาลัยไลท์ สาทร-เจริญราษฎร์ ใกล้สถานีรถไฟฟ้าสุรศักดิ์",
+        "th": "ขายพร้อมผู้เช่า!!! คอนโด ศุภาลัยไลท์ สาทร-เจริญราษฎร์ ใกล้สถานีรถไฟฟ้าสุรศักดิ์"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 53.27 sq.m., 4,400,000 THB. Source LivingInsider #3064526.",
+        "zh": "出租：1卧，53.27㎡，4,400,000 泰铢。来源 LivingInsider #3064526。",
+        "th": "เช่า: 1 นอน 53.27 ตร.ม. ราคา 4,400,000 บาท (LivingInsider #3064526)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3064526. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3064526。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3064526 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3064526",
+      "source_updated_at": "2026-08-10",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3064526.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3064526",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3064526",
+      "source_url_hash": "65a626956b3505eaf73cce74fcf4f224789018d212e298cda8155ed1b99c8b0e",
+      "duplicate_fingerprint": "e0bf6128f471a7ef047dd22ba2801d51c9ce8fff01ea9b9132eccf3149561325",
+      "soft_match_fingerprint": "c72a2f4d690deed255900d16be6951bd867d7dade99fbbef73ab5a607d775e13",
+      "_computed_fingerprint": "6552f3e851c13e37a9791fea7f0e6212ca4ce5959c4ccec34200dfafaf721842"
+    }
+  ]
+}

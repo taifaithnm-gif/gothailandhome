@@ -1,0 +1,550 @@
+{
+  "project_slug": "the-room-sukhumvit-62",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "490",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/19/490/Condo/all/all/1/Condo-The-Room-Sukhumvit-62.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-1935214",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "The Room Sukhumvit 62 🔥 (2 ห้องนอน ห้องมุม! ราคาดีที่สุดในโครงการ พร้อมแต่งสวย Built-in และเฟอร์นิเจอร์วัสดุอย่างดี ในบรรยากาศสุดน่าอยู่ ) ทำให้ได้ผู้เช่าง่ายหรือจะอยู่เองก็ลงตัว ติดรถไฟฟ้า สถานีปุณณวิถี 0 เมตร",
+        "zh": "The Room Sukhumvit 62 🔥 (2 ห้องนอน ห้องมุม! ราคาดีที่สุดในโครงการ พร้อมแต่งสวย Built-in และเฟอร์นิเจอร์วัสดุอย่างดี ในบรรยากาศสุดน่าอยู่ ) ทำให้ได้ผู้เช่าง่ายหรือจะอยู่เองก็ลงตัว ติดรถไฟฟ้า สถานีปุณณวิถี 0 เมตร",
+        "th": "The Room Sukhumvit 62 🔥 (2 ห้องนอน ห้องมุม! ราคาดีที่สุดในโครงการ พร้อมแต่งสวย Built-in และเฟอร์นิเจอร์วัสดุอย่างดี ในบรรยากาศสุดน่าอยู่ ) ทำให้ได้ผู้เช่าง่ายหรือจะอยู่เองก็ลงตัว ติดรถไฟฟ้า สถานีปุณณวิถี 0 เมตร"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 9,000,000 THB. Source LivingInsider #1935214.",
+        "zh": "出租：2卧，30㎡，9,000,000 泰铢。来源 LivingInsider #1935214。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 9,000,000 บาท (LivingInsider #1935214)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1935214. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1935214。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1935214 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1935214",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1935214.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1935214",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1935214",
+      "source_url_hash": "b5e4e36774fd4d2f5fa022e435eb71eaac9355c9d0a8dff8a111f07f97fe45db",
+      "duplicate_fingerprint": "51b26b3da3fb2e1f268903628aecd2a196802a380d572ac7cc489db695d292b2",
+      "soft_match_fingerprint": "72553f103aa98436d8eb323dfb15c674c90648512ddbf9009f918d297aa73792",
+      "_computed_fingerprint": "2332cc313324274dcf62180a03b8a4f42b1dee864619dcd2acf126a6310ae767"
+    },
+    {
+      "external_ref": "livinginsider-2777568",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "The Room Sukhumvit 62 (45 ตร.ม. 1 ห้องนอน ราคาดี! ที่สุดในโครงการ ตร.ม. ละเพียง  (111,xxx Baht/sq.m.) ",
+        "zh": "The Room Sukhumvit 62 (45 ตร.ม. 1 ห้องนอน ราคาดี! ที่สุดในโครงการ ตร.ม. ละเพียง  (111,xxx Baht/sq.m.) ",
+        "th": "The Room Sukhumvit 62 (45 ตร.ม. 1 ห้องนอน ราคาดี! ที่สุดในโครงการ ตร.ม. ละเพียง  (111,xxx Baht/sq.m.) "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 4,990,000 THB. Source LivingInsider #2777568.",
+        "zh": "出租：1卧，45㎡，4,990,000 泰铢。来源 LivingInsider #2777568。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 4,990,000 บาท (LivingInsider #2777568)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2777568. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2777568。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2777568 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2777568",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2777568.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2777568",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2777568",
+      "source_url_hash": "54db15754966bab56a7266aeb8c0fc7ebe5f2095d294151dbdbef706cec99593",
+      "duplicate_fingerprint": "cb95ce40aabf840dd95e21ab02df5479b8142a316e33267515135e0c68e2964d",
+      "soft_match_fingerprint": "71acdf9a5f1481b8f1d258ef990a8dae9102be000653eca1c9cf0f1fccd9959c",
+      "_computed_fingerprint": "a9e03bee899c7fceceab493fb22ceef7023bd446bbe7be38f4ce7cb63fe380f5"
+    },
+    {
+      "external_ref": "livinginsider-2943203",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "The Room สุขุมวิท 62 ให้เช่า | 1BR 45 ตร.ม. ห้องกว้าง รีโนเวทใหม่ ติด BTSปุณณวิถี พร้อมอยู่ทันที",
+        "zh": "The Room สุขุมวิท 62 ให้เช่า | 1BR 45 ตร.ม. ห้องกว้าง รีโนเวทใหม่ ติด BTSปุณณวิถี พร้อมอยู่ทันที",
+        "th": "The Room สุขุมวิท 62 ให้เช่า | 1BR 45 ตร.ม. ห้องกว้าง รีโนเวทใหม่ ติด BTSปุณณวิถี พร้อมอยู่ทันที"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 20,000 THB. Source LivingInsider #2943203.",
+        "zh": "出租：1卧，45㎡，20,000 泰铢。来源 LivingInsider #2943203。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 20,000 บาท (LivingInsider #2943203)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2943203. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2943203。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2943203 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2943203",
+      "source_updated_at": "2026-08-17",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2943203.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2943203",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2943203",
+      "source_url_hash": "4ebfa8045241342009efe1376ae22d6ea72599099fd5773d14ea213a36556959",
+      "duplicate_fingerprint": "bb3fd4e34ddbb18be4c0ae9c40e7e9463c1ee290f662423b9ab7e4eec638a15b",
+      "soft_match_fingerprint": "e482c672b6dcd0c4c319dad0a0cbbcbc3ce4629313bc5537f1b511db6baa758e",
+      "_computed_fingerprint": "7f61b132275bdc31484e1962b879e01f4062af54ca834e27fdc4d1c864b9263f"
+    },
+    {
+      "external_ref": "livinginsider-3142295",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า คอนโด เดอะรูม สุขุมวิท 62 ติดรถไฟฟ้า ปุณณวิถี ",
+        "zh": "ให้เช่า คอนโด เดอะรูม สุขุมวิท 62 ติดรถไฟฟ้า ปุณณวิถี ",
+        "th": "ให้เช่า คอนโด เดอะรูม สุขุมวิท 62 ติดรถไฟฟ้า ปุณณวิถี "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 16,000 THB. Source LivingInsider #3142295.",
+        "zh": "出租：1卧，30㎡，16,000 泰铢。来源 LivingInsider #3142295。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 16,000 บาท (LivingInsider #3142295)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3142295. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3142295。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3142295 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3142295",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3142295.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3142295",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3142295",
+      "source_url_hash": "1c01b4818467a0d69276153c000c9b42bd3621e4f316755418cbdf5f18ba5608",
+      "duplicate_fingerprint": "ceb7bed2304f63617975cec3486b0c6d93963d0938686c007514595ea6cb20c0",
+      "soft_match_fingerprint": "8d61acbb2464df23f61a50202e9e08a2b122e49298b99514c192dad33a6da8ec",
+      "_computed_fingerprint": "2f9e4d4ba30721c9ec6af120d1440993d8419b7b16efc823fa57483d4ee014f2"
+    },
+    {
+      "external_ref": "livinginsider-2885011",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า – 1 ห้องนอนใหญ่ ติด BTS  ที่ เดอะ รูม สุขุมวิท 62",
+        "zh": "ให้เช่า – 1 ห้องนอนใหญ่ ติด BTS  ที่ เดอะ รูม สุขุมวิท 62",
+        "th": "ให้เช่า – 1 ห้องนอนใหญ่ ติด BTS  ที่ เดอะ รูม สุขุมวิท 62"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 19,000 THB. Source LivingInsider #2885011.",
+        "zh": "出租：1卧，30㎡，19,000 泰铢。来源 LivingInsider #2885011。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 19,000 บาท (LivingInsider #2885011)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2885011. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2885011。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2885011 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2885011",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2885011.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2885011",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2885011",
+      "source_url_hash": "67a160ef0bf7a33e00d3c9e1cb792c52c34d3133880c28e4eabb141ba1d91e1f",
+      "duplicate_fingerprint": "7bae3f810581973d20fc41989ba26ef242130ac5321a9ff88f8ee4c249d56bdf",
+      "soft_match_fingerprint": "8d61acbb2464df23f61a50202e9e08a2b122e49298b99514c192dad33a6da8ec",
+      "_computed_fingerprint": "c60a72fb19394497474c14c0df3619ec48db67a120bd51901dd5e519d1c3b829"
+    },
+    {
+      "external_ref": "livinginsider-3113900",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ปล่อยเช่าด่วน!! ใกล้ BTS ปุณณวิถี พร้อมเข้าอยู่ 18 มิ.ย. 69 นี้ / จองก่อนได้ก่อน✨The Room Sukhumvit 62",
+        "zh": "ปล่อยเช่าด่วน!! ใกล้ BTS ปุณณวิถี พร้อมเข้าอยู่ 18 มิ.ย. 69 นี้ / จองก่อนได้ก่อน✨The Room Sukhumvit 62",
+        "th": "ปล่อยเช่าด่วน!! ใกล้ BTS ปุณณวิถี พร้อมเข้าอยู่ 18 มิ.ย. 69 นี้ / จองก่อนได้ก่อน✨The Room Sukhumvit 62"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 18,000 THB. Source LivingInsider #3113900.",
+        "zh": "出租：1卧，30㎡，18,000 泰铢。来源 LivingInsider #3113900。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 18,000 บาท (LivingInsider #3113900)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3113900. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3113900。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3113900 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3113900",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3113900.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3113900",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3113900",
+      "source_url_hash": "8eb56935038bf35e9278b493da863223b620ef3245286a7952214cc7f64dd362",
+      "duplicate_fingerprint": "94968abe0be40b1a67c32946110575ff7c344fe18e138ad16aff011584de3b47",
+      "soft_match_fingerprint": "c9d14bf93290df69720e0d284b1a80a2586f2038c8668886a12dd1e20c8ebdcd",
+      "_computed_fingerprint": "a68ad7e37cb5ea4199bf1b3a84eb2eca2c24f499284c8dfb2d2f97dc59a1de83"
+    },
+    {
+      "external_ref": "livinginsider-2448570",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "คอนโดติดBTS ใกล้ทางด่วน (ห้องมุม) วิวเมืองสวย",
+        "zh": "คอนโดติดBTS ใกล้ทางด่วน (ห้องมุม) วิวเมืองสวย",
+        "th": "คอนโดติดBTS ใกล้ทางด่วน (ห้องมุม) วิวเมืองสวย"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 10,000,000 THB. Source LivingInsider #2448570.",
+        "zh": "出租：2卧，30㎡，10,000,000 泰铢。来源 LivingInsider #2448570。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 10,000,000 บาท (LivingInsider #2448570)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2448570. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2448570。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2448570 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2448570",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2448570.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2448570",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2448570",
+      "source_url_hash": "2a659099fd721c416a24069b09016500c0a4824c6c34fddf84b4ae04e77aa490",
+      "duplicate_fingerprint": "ddc7defb414a5a54b014efcb926c7a16832e3689dfe04d9e9332b97f5f2e4754",
+      "soft_match_fingerprint": "878bfbf340c605c085bf242bddf84cd4ffe4e9cb3adb7ca05e1f2c45e73f1c7e",
+      "_computed_fingerprint": "4adf74cb5100271c7a8749bf4709cdd2714466f813597b48636fc80640ec299f"
+    },
+    {
+      "external_ref": "livinginsider-3116442",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5800000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "For sale!!! คอนโด THE ROOM สุขุมวิท 62 - ติดรถไฟฟ้า BTS ปุณณวิถี - วิวสระว่ายน้ำ",
+        "zh": "For sale!!! คอนโด THE ROOM สุขุมวิท 62 - ติดรถไฟฟ้า BTS ปุณณวิถี - วิวสระว่ายน้ำ",
+        "th": "For sale!!! คอนโด THE ROOM สุขุมวิท 62 - ติดรถไฟฟ้า BTS ปุณณวิถี - วิวสระว่ายน้ำ"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 5,800,000 THB. Source LivingInsider #3116442.",
+        "zh": "出租：1卧，45㎡，5,800,000 泰铢。来源 LivingInsider #3116442。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 5,800,000 บาท (LivingInsider #3116442)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3116442. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3116442。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3116442 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3116442",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3116442.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3116442",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3116442",
+      "source_url_hash": "0006a8ee9bdaae95d09bd5a5f69fbd530c02e66fcaaf038435f72b6b6d069806",
+      "duplicate_fingerprint": "eed00c59920b1de443398d2d55c219d3ae2ec2b8d38472539dcf59e09be9f6c5",
+      "soft_match_fingerprint": "a9172848c47c25873eba44d0e25c5720a4fd82475b699d9a690f6b7284f730db",
+      "_computed_fingerprint": "6bdad192a9770569f6a05049e8c282b38f5bbaba8ee7e9c414fa5cbc5fcfcdf3"
+    },
+    {
+      "external_ref": "livinginsider-3111547",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด The Room Sukhumvit 62 ใกล้ BTS ปุณณวิถี",
+        "zh": "ขายคอนโด The Room Sukhumvit 62 ใกล้ BTS ปุณณวิถี",
+        "th": "ขายคอนโด The Room Sukhumvit 62 ใกล้ BTS ปุณณวิถี"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 5,000,000 THB. Source LivingInsider #3111547.",
+        "zh": "出租：1卧，45㎡，5,000,000 泰铢。来源 LivingInsider #3111547。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 5,000,000 บาท (LivingInsider #3111547)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3111547. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3111547。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3111547 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3111547",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3111547.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3111547",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3111547",
+      "source_url_hash": "8893ad53d6a5e1ee7df7297c089793d20bac5925766e266bab3d3cbf090999c3",
+      "duplicate_fingerprint": "644bf45bdb748a739c3a92b8d570329ee4cb866613c9643638635a1dd2fe8e07",
+      "soft_match_fingerprint": "43e287e36fad1fdeb575a2e02c06d63e369e4f2987d625a746621f82236e62f9",
+      "_computed_fingerprint": "a13f61179447b672da67744a3c0418fb82bc35c2854f4aaed8ac569fecec3d07"
+    },
+    {
+      "external_ref": "livinginsider-1679143",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8950000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 76,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 ขายด่วน!! คอนโด The Room สุขุมวิท 62",
+        "zh": "🔥 ขายด่วน!! คอนโด The Room สุขุมวิท 62",
+        "th": "🔥 ขายด่วน!! คอนโด The Room สุขุมวิท 62"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 76 sq.m., 8,950,000 THB. Source LivingInsider #1679143.",
+        "zh": "出租：2卧，76㎡，8,950,000 泰铢。来源 LivingInsider #1679143。",
+        "th": "เช่า: 2 นอน 76 ตร.ม. ราคา 8,950,000 บาท (LivingInsider #1679143)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1679143. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1679143。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1679143 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1679143",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1679143.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1679143",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1679143",
+      "source_url_hash": "0e32e197fdcf1080bc02ff952a8fd6e81144b7f68f172cdef44dde81d3243ce3",
+      "duplicate_fingerprint": "68e8a3094ecb13be52e77199520ca01add9173aaf6b6cb2403c13b1c63b8e274",
+      "soft_match_fingerprint": "d4c23218d9bd0119250ede08969a37180b54eda3bf6e61eada4f1e6fec38dc5c",
+      "_computed_fingerprint": "477932c2afa67c898c1c1c468c5f49ece2a827d2d5f2a52674d3c00ca4595ccd"
+    }
+  ]
+}

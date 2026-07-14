@@ -1,0 +1,442 @@
+{
+  "project_slug": "modiz-rhyme-ramkhamhaeng",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "3873",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/31/3873/Condo/all/all/1/Condo-Modiz-Rhyme-Ramkhamhaeng.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-2051514",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2920000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥🔥 𝐒𝐔𝐏𝐄𝐑 𝐃𝐄𝐀𝐋  𝐌𝐎𝐃𝐈𝐙 𝐑𝐇𝐘𝐌𝐄 𝟏นอน 𝟐.𝟗𝟐 ล้าน 𝟑𝟎 ตร.ม. ขีดสุดของข้อเสนอสุดพิเศษ สอบถามข้อมูลเพิ่มเติมได้ค่า😊 โทร📱𝟬𝟲𝟲𝟭𝟭𝟲𝟴𝟬𝟬𝟰",
+        "zh": "🔥🔥 𝐒𝐔𝐏𝐄𝐑 𝐃𝐄𝐀𝐋  𝐌𝐎𝐃𝐈𝐙 𝐑𝐇𝐘𝐌𝐄 𝟏นอน 𝟐.𝟗𝟐 ล้าน 𝟑𝟎 ตร.ม. ขีดสุดของข้อเสนอสุดพิเศษ สอบถามข้อมูลเพิ่มเติมได้ค่า😊 โทร📱𝟬𝟲𝟲𝟭𝟭𝟲𝟴𝟬𝟬𝟰",
+        "th": "🔥🔥 𝐒𝐔𝐏𝐄𝐑 𝐃𝐄𝐀𝐋  𝐌𝐎𝐃𝐈𝐙 𝐑𝐇𝐘𝐌𝐄 𝟏นอน 𝟐.𝟗𝟐 ล้าน 𝟑𝟎 ตร.ม. ขีดสุดของข้อเสนอสุดพิเศษ สอบถามข้อมูลเพิ่มเติมได้ค่า😊 โทร📱𝟬𝟲𝟲𝟭𝟭𝟲𝟴𝟬𝟬𝟰"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,920,000 THB. Source LivingInsider #2051514.",
+        "zh": "出租：1卧，30㎡，2,920,000 泰铢。来源 LivingInsider #2051514。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,920,000 บาท (LivingInsider #2051514)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2051514. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2051514。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2051514 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2051514",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2051514.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2051514",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2051514",
+      "source_url_hash": "bb155f430b051c9d8546a892be48eb3c884f761aa91d675b69f742eccf56476a",
+      "duplicate_fingerprint": "3109d0bc215251ab8a22b5946349ec8b7abe4f90207fd68ad5e8ade78a233a3e",
+      "soft_match_fingerprint": "237bf5a3cade14d0b3eb1b1b85e11ec0b59001bab9d6e936257ada96e3e36b6e",
+      "_computed_fingerprint": "2e4c1e6efd05442b800232cd98fa452d03f052120f156e86b03acd05f085bcde"
+    },
+    {
+      "external_ref": "livinginsider-2051880",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2490000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 23.5,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥🔥  𝙎𝙃𝙊𝘾𝙆 𝘿𝙀𝘼𝙇 🔥🔥MODIZ RHYME  รามคำแหง ราคาพิเศษ1 ห้องนอน 23.5 ตรม. เพียง 𝟐.𝟒𝟗 ล้านบาท ราคาดีขนาดนี้ โทรเลย 𝟎𝟔𝟔-𝟏𝟏𝟔𝟖𝟎𝟎𝟑ลงทะเบียนวันนี้รับโปรโมชั่นพิเศษก่อนใคร",
+        "zh": "🔥🔥  𝙎𝙃𝙊𝘾𝙆 𝘿𝙀𝘼𝙇 🔥🔥MODIZ RHYME  รามคำแหง ราคาพิเศษ1 ห้องนอน 23.5 ตรม. เพียง 𝟐.𝟒𝟗 ล้านบาท ราคาดีขนาดนี้ โทรเลย 𝟎𝟔𝟔-𝟏𝟏𝟔𝟖𝟎𝟎𝟑ลงทะเบียนวันนี้รับโปรโมชั่นพิเศษก่อนใคร",
+        "th": "🔥🔥  𝙎𝙃𝙊𝘾𝙆 𝘿𝙀𝘼𝙇 🔥🔥MODIZ RHYME  รามคำแหง ราคาพิเศษ1 ห้องนอน 23.5 ตรม. เพียง 𝟐.𝟒𝟗 ล้านบาท ราคาดีขนาดนี้ โทรเลย 𝟎𝟔𝟔-𝟏𝟏𝟔𝟖𝟎𝟎𝟑ลงทะเบียนวันนี้รับโปรโมชั่นพิเศษก่อนใคร"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 23.5 sq.m., 2,490,000 THB. Source LivingInsider #2051880.",
+        "zh": "出租：1卧，23.5㎡，2,490,000 泰铢。来源 LivingInsider #2051880。",
+        "th": "เช่า: 1 นอน 23.5 ตร.ม. ราคา 2,490,000 บาท (LivingInsider #2051880)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2051880. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2051880。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2051880 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2051880",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2051880.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2051880",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2051880",
+      "source_url_hash": "89cdb224c3c1eaf85b6f6d1166edfce3bac36509ef0d1b3b5b68d36364439c3e",
+      "duplicate_fingerprint": "7b95065b81b036fc4fd95f38b910ced86c0a9e17c416ef54a4efb856f5fa0862",
+      "soft_match_fingerprint": "0ddcbea338610fd574bc465b1195b7dcda7fe09fdb7544405f9cf2e71fce8fe4",
+      "_computed_fingerprint": "1f496282832998bc9902f3681077996bb20a90a0a987d9968051f32f597e63fe"
+    },
+    {
+      "external_ref": "livinginsider-2983066",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2930000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "𝐌𝐎𝐃𝐈𝐙 𝐑𝐇𝐘𝐌𝐄 𝐑𝐀𝐌𝐊𝐇𝐀𝐌𝐇𝐀𝐄𝐍𝐆 ห้องใหม่จากโครงการ ผ่อนสบายๆ 𝟗,𝟗𝟎𝟎/เดือน ไม่ต้องจ่ายเงินดาวน์ 𝐎 บาท ดอกเบี้ยถูกมาก 𝟐.𝟑% ฟรีทุกค่าใช่จ่าย ",
+        "zh": "𝐌𝐎𝐃𝐈𝐙 𝐑𝐇𝐘𝐌𝐄 𝐑𝐀𝐌𝐊𝐇𝐀𝐌𝐇𝐀𝐄𝐍𝐆 ห้องใหม่จากโครงการ ผ่อนสบายๆ 𝟗,𝟗𝟎𝟎/เดือน ไม่ต้องจ่ายเงินดาวน์ 𝐎 บาท ดอกเบี้ยถูกมาก 𝟐.𝟑% ฟรีทุกค่าใช่จ่าย ",
+        "th": "𝐌𝐎𝐃𝐈𝐙 𝐑𝐇𝐘𝐌𝐄 𝐑𝐀𝐌𝐊𝐇𝐀𝐌𝐇𝐀𝐄𝐍𝐆 ห้องใหม่จากโครงการ ผ่อนสบายๆ 𝟗,𝟗𝟎𝟎/เดือน ไม่ต้องจ่ายเงินดาวน์ 𝐎 บาท ดอกเบี้ยถูกมาก 𝟐.𝟑% ฟรีทุกค่าใช่จ่าย "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,930,000 THB. Source LivingInsider #2983066.",
+        "zh": "出租：1卧，30㎡，2,930,000 泰铢。来源 LivingInsider #2983066。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,930,000 บาท (LivingInsider #2983066)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2983066. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2983066。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2983066 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2983066",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2983066.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2983066",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2983066",
+      "source_url_hash": "2b5ef0a49cbd93f43af3e579f8f2368390c2a8595c227bc44bfcdb4eb61dfadb",
+      "duplicate_fingerprint": "493dd687d42630d1db040973070f18271453f1de75075859abe8aac5d9cad840",
+      "soft_match_fingerprint": "237bf5a3cade14d0b3eb1b1b85e11ec0b59001bab9d6e936257ada96e3e36b6e",
+      "_computed_fingerprint": "41d8d6bfaae6b6ebc4f878b18a55106e7c254815832d7bd832d9efa3d87b7f83"
+    },
+    {
+      "external_ref": "livinginsider-2983072",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2490000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "𝐌𝐎𝐃𝐈𝐙 𝐑𝐀𝐌𝐊𝐇𝐀𝐌𝐇𝐀𝐄𝐍𝐆 ห้องใหม่มือ 1 ผ่อนสบายๆ 𝟔,𝟗𝟗𝟎/เดือน ห้องใหญ่ 𝐅𝐫𝐞𝐞 เงินดาวน์ 𝐎 บาท ",
+        "zh": "𝐌𝐎𝐃𝐈𝐙 𝐑𝐀𝐌𝐊𝐇𝐀𝐌𝐇𝐀𝐄𝐍𝐆 ห้องใหม่มือ 1 ผ่อนสบายๆ 𝟔,𝟗𝟗𝟎/เดือน ห้องใหญ่ 𝐅𝐫𝐞𝐞 เงินดาวน์ 𝐎 บาท ",
+        "th": "𝐌𝐎𝐃𝐈𝐙 𝐑𝐀𝐌𝐊𝐇𝐀𝐌𝐇𝐀𝐄𝐍𝐆 ห้องใหม่มือ 1 ผ่อนสบายๆ 𝟔,𝟗𝟗𝟎/เดือน ห้องใหญ่ 𝐅𝐫𝐞𝐞 เงินดาวน์ 𝐎 บาท "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,490,000 THB. Source LivingInsider #2983072.",
+        "zh": "出租：1卧，30㎡，2,490,000 泰铢。来源 LivingInsider #2983072。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,490,000 บาท (LivingInsider #2983072)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2983072. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2983072。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2983072 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2983072",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2983072.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2983072",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2983072",
+      "source_url_hash": "824bc9ef651e8c6bdb2fcc2299d7927b0b34e93a7b6bedfc19543bcafaf4bade",
+      "duplicate_fingerprint": "7b3d381eabefb469e60cfd9ad3a6a8d5d277dd0be7137afdf9f014459d219cfe",
+      "soft_match_fingerprint": "237bf5a3cade14d0b3eb1b1b85e11ec0b59001bab9d6e936257ada96e3e36b6e",
+      "_computed_fingerprint": "b22ebe00643e1d1de99c78591d95cf68c95c8d78a510debd16a8b04bb6624328"
+    },
+    {
+      "external_ref": "livinginsider-2970840",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 ขายคอนโดคุณภาพดี มือหนึ่ง ติดมหาลัยรามคำแหง เดินทางสะดวก และสิทธิ์พิเศษเฉพาะตอนนี้!! ⭐ ซื้อตอนนี้รับ Voucher มูลค่า 30,000 บาท ถึงแค่ 15 ก.พ. 69 นี้ ",
+        "zh": "🔥 ขายคอนโดคุณภาพดี มือหนึ่ง ติดมหาลัยรามคำแหง เดินทางสะดวก และสิทธิ์พิเศษเฉพาะตอนนี้!! ⭐ ซื้อตอนนี้รับ Voucher มูลค่า 30,000 บาท ถึงแค่ 15 ก.พ. 69 นี้ ",
+        "th": "🔥 ขายคอนโดคุณภาพดี มือหนึ่ง ติดมหาลัยรามคำแหง เดินทางสะดวก และสิทธิ์พิเศษเฉพาะตอนนี้!! ⭐ ซื้อตอนนี้รับ Voucher มูลค่า 30,000 บาท ถึงแค่ 15 ก.พ. 69 นี้ "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,590,000 THB. Source LivingInsider #2970840.",
+        "zh": "出租：1卧，30㎡，2,590,000 泰铢。来源 LivingInsider #2970840。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,590,000 บาท (LivingInsider #2970840)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2970840. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2970840。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2970840 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2970840",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2970840.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2970840",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2970840",
+      "source_url_hash": "8560e190026e20169c0caed82dd4fe98c6528ad1854859af78ed8a128cb06287",
+      "duplicate_fingerprint": "e712ebc5aae616406d35230545a6e055644e4aa22d9f177c12537b5c10f3ca55",
+      "soft_match_fingerprint": "cbae1bdb1c1839af00d031620c88ee60a018875f2645ac3b7ff97f2fb2badc05",
+      "_computed_fingerprint": "c5ed2c6bc732279bb5f5c3b992b3fffb90a569257dcbb9ebaf00388513f072e0"
+    },
+    {
+      "external_ref": "livinginsider-2970848",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3190000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 ขายคอนโดติดม.รามคำแหง มือหนึ่ง คุณภาพดี เครื่องใช้ไฟฟ้าอัดแน่น! ⭐ ซื้อตอนนี้รับ Voucher มูลค่า 30,000 บาท ถึงแค่ 15 ก.พ. 69 นี้ ",
+        "zh": "🔥 ขายคอนโดติดม.รามคำแหง มือหนึ่ง คุณภาพดี เครื่องใช้ไฟฟ้าอัดแน่น! ⭐ ซื้อตอนนี้รับ Voucher มูลค่า 30,000 บาท ถึงแค่ 15 ก.พ. 69 นี้ ",
+        "th": "🔥 ขายคอนโดติดม.รามคำแหง มือหนึ่ง คุณภาพดี เครื่องใช้ไฟฟ้าอัดแน่น! ⭐ ซื้อตอนนี้รับ Voucher มูลค่า 30,000 บาท ถึงแค่ 15 ก.พ. 69 นี้ "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,190,000 THB. Source LivingInsider #2970848.",
+        "zh": "出租：1卧，30㎡，3,190,000 泰铢。来源 LivingInsider #2970848。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,190,000 บาท (LivingInsider #2970848)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2970848. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2970848。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2970848 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2970848",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2970848.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2970848",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2970848",
+      "source_url_hash": "ad1804d3281614b2aceb0c94d6907a051e9ccde3d075ec4dfb547e2b7b7ab1ff",
+      "duplicate_fingerprint": "a6982b908df1b12797587c594f09f5de574611f182a5846d950e9e36681d079e",
+      "soft_match_fingerprint": "cbae1bdb1c1839af00d031620c88ee60a018875f2645ac3b7ff97f2fb2badc05",
+      "_computed_fingerprint": "8ef2a4afcfa539e1cf236ec066c3505614e6302e86dc071f28016171346ce181"
+    },
+    {
+      "external_ref": "livinginsider-2970844",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2890000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "⭐ ขายคอนโดมือหนึ่ง พรีเมียม ติดมหาลัยรามคำแหง เดินทางสะดวก และสิทธิ์พิเศษเฉพาะตอนนี้!! 🔥 ซื้อตอนนี้รับ Voucher มูลค่า 30,000 บาท ถึงแค่ 15 ก.พ. 69 นี้ ",
+        "zh": "⭐ ขายคอนโดมือหนึ่ง พรีเมียม ติดมหาลัยรามคำแหง เดินทางสะดวก และสิทธิ์พิเศษเฉพาะตอนนี้!! 🔥 ซื้อตอนนี้รับ Voucher มูลค่า 30,000 บาท ถึงแค่ 15 ก.พ. 69 นี้ ",
+        "th": "⭐ ขายคอนโดมือหนึ่ง พรีเมียม ติดมหาลัยรามคำแหง เดินทางสะดวก และสิทธิ์พิเศษเฉพาะตอนนี้!! 🔥 ซื้อตอนนี้รับ Voucher มูลค่า 30,000 บาท ถึงแค่ 15 ก.พ. 69 นี้ "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,890,000 THB. Source LivingInsider #2970844.",
+        "zh": "出租：1卧，30㎡，2,890,000 泰铢。来源 LivingInsider #2970844。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,890,000 บาท (LivingInsider #2970844)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2970844. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2970844。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2970844 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2970844",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2970844.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2970844",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2970844",
+      "source_url_hash": "aee4afcd1788f01486bfbe63b20a5a1c1810e7e339a0fe46b9fe0888a6b05f72",
+      "duplicate_fingerprint": "c69a9e70f4138c45bb5384feeade8ab2e86e2e97301ab1ff898c51af16ac848b",
+      "soft_match_fingerprint": "cbae1bdb1c1839af00d031620c88ee60a018875f2645ac3b7ff97f2fb2badc05",
+      "_computed_fingerprint": "a83320f8ad83e1561f70d0227d2f0427956354b53563f2ae6cb6699112ecefde"
+    },
+    {
+      "external_ref": "livinginsider-3146341",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 37,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "Modiz Rhyme Ramkhamhaeng 💫",
+        "zh": "Modiz Rhyme Ramkhamhaeng 💫",
+        "th": "Modiz Rhyme Ramkhamhaeng 💫"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 37 sq.m., 20,000 THB. Source LivingInsider #3146341.",
+        "zh": "出租：1卧，37㎡，20,000 泰铢。来源 LivingInsider #3146341。",
+        "th": "เช่า: 1 นอน 37 ตร.ม. ราคา 20,000 บาท (LivingInsider #3146341)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3146341. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3146341。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3146341 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3146341",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3146341.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3146341",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3146341",
+      "source_url_hash": "efcf804a5b562c7c0419abd0f3b164e222304cce2a5de9dffe001455e752c287",
+      "duplicate_fingerprint": "6e078b2d0e933df34cb43ab9d23a2a5c66e4d768882d9942b8fc56c68a727e76",
+      "soft_match_fingerprint": "57042fe8d4c88070a4e242d6d8ec8da243df4cc81e03cc7d332eec7ce97fd59b",
+      "_computed_fingerprint": "623d63f63c60890223624c806a76323047ff3d3a176915b5145e1eca00400298"
+    }
+  ]
+}

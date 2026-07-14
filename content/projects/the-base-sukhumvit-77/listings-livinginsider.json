@@ -1,0 +1,442 @@
+{
+  "project_slug": "the-base-sukhumvit-77",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "468",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/19/468/Condo/all/all/1/Condo-The-Base-Sukhumvit-77.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-2033335",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4990000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เดอะ เบส สุขุมวิท 77 BTS-อ่อนนุช พระโขนงเหนือ เขต วัฒนา กรุงเทพ CX-113936",
+        "zh": "ขายคอนโด  เดอะ เบส สุขุมวิท 77 BTS-อ่อนนุช พระโขนงเหนือ เขต วัฒนา กรุงเทพ CX-113936",
+        "th": "ขายคอนโด  เดอะ เบส สุขุมวิท 77 BTS-อ่อนนุช พระโขนงเหนือ เขต วัฒนา กรุงเทพ CX-113936"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 4,990,000 THB. Source LivingInsider #2033335.",
+        "zh": "出租：2卧，30㎡，4,990,000 泰铢。来源 LivingInsider #2033335。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 4,990,000 บาท (LivingInsider #2033335)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2033335. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2033335。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2033335 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2033335",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2033335.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2033335",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2033335",
+      "source_url_hash": "c39ed6cc79a62a9e31e690106c5e67a68da110e58cb636942cef43635e852813",
+      "duplicate_fingerprint": "9c94694a2110247b901f1a866703aea45db48a246d6c43b6ffb2297eb8678b38",
+      "soft_match_fingerprint": "83ace5ee9ef16fa9727080a2166055727fea5bf9970154d1936d08b1a6181fb6",
+      "_computed_fingerprint": "762aca8ba939bac5609e472a17cd9ca2a89ab59f1e6926b3522ca090d26c88b8"
+    },
+    {
+      "external_ref": "livinginsider-1964591",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เดอะ เบส สุขุมวิท 77 BTS-อ่อนนุช พระโขนงเหนือ เขต วัฒนา กรุงเทพ CX-68931",
+        "zh": "ขายคอนโด  เดอะ เบส สุขุมวิท 77 BTS-อ่อนนุช พระโขนงเหนือ เขต วัฒนา กรุงเทพ CX-68931",
+        "th": "ขายคอนโด  เดอะ เบส สุขุมวิท 77 BTS-อ่อนนุช พระโขนงเหนือ เขต วัฒนา กรุงเทพ CX-68931"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,200,000 THB. Source LivingInsider #1964591.",
+        "zh": "出租：1卧，30㎡，3,200,000 泰铢。来源 LivingInsider #1964591。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,200,000 บาท (LivingInsider #1964591)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1964591. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1964591。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1964591 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1964591",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1964591.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1964591",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1964591",
+      "source_url_hash": "988450477409eedc25270854b77cb8404731f413eb1c72acc8c8bf6d385ca80e",
+      "duplicate_fingerprint": "ed8df5997c8c9450cea05455c91ac6cb8d12ac79c27fd45178d3328d48183b69",
+      "soft_match_fingerprint": "fe6feeed0fa74b535f27b3257972f47b4b8ba27f9179642b5ecc9fa56c2a2810",
+      "_computed_fingerprint": "fdeae817e03c7431aa7a9bf450f098135268617d42d04c7b9ed101f044ec704f"
+    },
+    {
+      "external_ref": "livinginsider-2489572",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3550000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": "2",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายพร้อมผู้เช่า The Base Sukhumvit 77  1 ห้องนอน 1 ห้องน้ำ 31 ตรม. ชั้น 2x ตึก B เพียง 3.55 ล้านบาท *ค่าธรรมเนียมการโอนฯ 1% (ผู้ซื้อและผู้ขายชำระคนละครึ่ง)*",
+        "zh": "ขายพร้อมผู้เช่า The Base Sukhumvit 77  1 ห้องนอน 1 ห้องน้ำ 31 ตรม. ชั้น 2x ตึก B เพียง 3.55 ล้านบาท *ค่าธรรมเนียมการโอนฯ 1% (ผู้ซื้อและผู้ขายชำระคนละครึ่ง)*",
+        "th": "ขายพร้อมผู้เช่า The Base Sukhumvit 77  1 ห้องนอน 1 ห้องน้ำ 31 ตรม. ชั้น 2x ตึก B เพียง 3.55 ล้านบาท *ค่าธรรมเนียมการโอนฯ 1% (ผู้ซื้อและผู้ขายชำระคนละครึ่ง)*"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 3,550,000 THB. Source LivingInsider #2489572.",
+        "zh": "出租：1卧，31㎡，3,550,000 泰铢。来源 LivingInsider #2489572。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 3,550,000 บาท (LivingInsider #2489572)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2489572. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2489572。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2489572 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2489572",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2489572.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2489572",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2489572",
+      "source_url_hash": "050f9094f5ec95158e4bcc4d708f7ebacfba6ccefe027e689daf1e0cc749e96f",
+      "duplicate_fingerprint": "0d9d24b376a4371d4d369f2452db3fda26969a710a7d9b977622e8b1bb5520e1",
+      "soft_match_fingerprint": "84b49eefb4ca1f4748cb394dd96e887eb25965ab611f0bc01f9d99415a952be4",
+      "_computed_fingerprint": "98c8b99848532cb970f442c5f655ea149bc21c6cfce5b65a9127f7d1416faa0b"
+    },
+    {
+      "external_ref": "livinginsider-1636763",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": "1",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า The Base Sukhumvit 77, 1 ห้องนอน 1 ห้องน้ำ ขนาด 31 ตร.ม ชั้น 1x เฟอร์ครบ ตกแต่งพร้อมอยู่ ลดพิเศษจาก 18,000 เหลือเพียง 16,000 บาท/เดือน เท่านั้น!! (สัญญา 1 ปีเท่านั้น)",
+        "zh": "ให้เช่า The Base Sukhumvit 77, 1 ห้องนอน 1 ห้องน้ำ ขนาด 31 ตร.ม ชั้น 1x เฟอร์ครบ ตกแต่งพร้อมอยู่ ลดพิเศษจาก 18,000 เหลือเพียง 16,000 บาท/เดือน เท่านั้น!! (สัญญา 1 ปีเท่านั้น)",
+        "th": "ให้เช่า The Base Sukhumvit 77, 1 ห้องนอน 1 ห้องน้ำ ขนาด 31 ตร.ม ชั้น 1x เฟอร์ครบ ตกแต่งพร้อมอยู่ ลดพิเศษจาก 18,000 เหลือเพียง 16,000 บาท/เดือน เท่านั้น!! (สัญญา 1 ปีเท่านั้น)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 16,000 THB. Source LivingInsider #1636763.",
+        "zh": "出租：1卧，31㎡，16,000 泰铢。来源 LivingInsider #1636763。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 16,000 บาท (LivingInsider #1636763)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1636763. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1636763。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1636763 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1636763",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1636763.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1636763",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1636763",
+      "source_url_hash": "66255fa6b6bfd42ad14e0a09432fffee972727b3e2dd444b91cff5b5fe0e67b7",
+      "duplicate_fingerprint": "8539ac4d1f27d372ec52fa2d18b51f0cbfce90855442a1b8b1ed57f4c733472b",
+      "soft_match_fingerprint": "6d6fbf0147fcd3bb2ebd26f03478a156b05091db9aae1fdcc95cb12deb93d2d2",
+      "_computed_fingerprint": "e1cba181d93cc39212d4fd2c3aa10b4c891523cc17711a9c57e00248d1d3b6db"
+    },
+    {
+      "external_ref": "livinginsider-2718333",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2700000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "34",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "เจ้าของโพสต์ข้อตกลง 2.7 MB (ทั้งหมดใน) 🔥สูง fl ขาย 1 ห้อง ที่ฐาน Sukhumvit 77",
+        "zh": "เจ้าของโพสต์ข้อตกลง 2.7 MB (ทั้งหมดใน) 🔥สูง fl ขาย 1 ห้อง ที่ฐาน Sukhumvit 77",
+        "th": "เจ้าของโพสต์ข้อตกลง 2.7 MB (ทั้งหมดใน) 🔥สูง fl ขาย 1 ห้อง ที่ฐาน Sukhumvit 77"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,700,000 THB. Source LivingInsider #2718333.",
+        "zh": "出租：1卧，30㎡，2,700,000 泰铢。来源 LivingInsider #2718333。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,700,000 บาท (LivingInsider #2718333)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2718333. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2718333。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2718333 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2718333",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2718333.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2718333",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2718333",
+      "source_url_hash": "a81ad3164395f2232787aaf30c93e5d9b5da504509e1b97fcbb3dbd4b067d99c",
+      "duplicate_fingerprint": "ce14880c03c4cf2677ffddaae4d8fa0ebf0318cf85c0752eab54b89d8a87445a",
+      "soft_match_fingerprint": "6f07ae085433d2546a2414cb0345df3b0f2c9eab063ae9cf4779145f2d0726bf",
+      "_computed_fingerprint": "ae28c7fc8f00180201cb1ebf4b3dd103540c077e2cb107413dbf3d0b30962918"
+    },
+    {
+      "external_ref": "livinginsider-3011329",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥Rent at The Base 77 🔥1BR 1BR 🔥13,000🔥32sqm 🔥Floor17",
+        "zh": "🔥Rent at The Base 77 🔥1BR 1BR 🔥13,000🔥32sqm 🔥Floor17",
+        "th": "🔥Rent at The Base 77 🔥1BR 1BR 🔥13,000🔥32sqm 🔥Floor17"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 32 sq.m., 13,000 THB. Source LivingInsider #3011329.",
+        "zh": "出租：1卧，32㎡，13,000 泰铢。来源 LivingInsider #3011329。",
+        "th": "เช่า: 1 นอน 32 ตร.ม. ราคา 13,000 บาท (LivingInsider #3011329)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3011329. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3011329。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3011329 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3011329",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3011329.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3011329",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3011329",
+      "source_url_hash": "ca7703c6321542c9c745840998eb3b2bf69cc78c3ecbed66e88c9e0ce6066af8",
+      "duplicate_fingerprint": "872df1263d0ae7586515a30a6cfa89d9575cd3ef01bdad34d4420ff264184c3d",
+      "soft_match_fingerprint": "bdcc6b43880912ec75eb5971bef314246ba0e0bb4cc7b93cf2b4c5d63da9f646",
+      "_computed_fingerprint": "5acea8412cbb41d0de064332edd82de559730d785cfb5c136dbd5a3e0dee2335"
+    },
+    {
+      "external_ref": "livinginsider-2896546",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3190000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30.34,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥Sale at The Base 77 🔥1BR 1BR.🔥3.19M 🔥30.34sqm. Floor18",
+        "zh": "🔥Sale at The Base 77 🔥1BR 1BR.🔥3.19M 🔥30.34sqm. Floor18",
+        "th": "🔥Sale at The Base 77 🔥1BR 1BR.🔥3.19M 🔥30.34sqm. Floor18"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30.34 sq.m., 3,190,000 THB. Source LivingInsider #2896546.",
+        "zh": "出租：1卧，30.34㎡，3,190,000 泰铢。来源 LivingInsider #2896546。",
+        "th": "เช่า: 1 นอน 30.34 ตร.ม. ราคา 3,190,000 บาท (LivingInsider #2896546)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2896546. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2896546。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2896546 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2896546",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2896546.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2896546",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2896546",
+      "source_url_hash": "c3844e8740afc85bedadf438e122139ad1afd5e6f42df64d811881877ada5d4d",
+      "duplicate_fingerprint": "beb82aa646e7e78062c14909fa16ac59b95e605bd444e6da6ba581076e19ce01",
+      "soft_match_fingerprint": "db91e7c317b0d9cb39e7479098835db523dbcd6845844ee8639ec2e521008738",
+      "_computed_fingerprint": "879352bffa50790720110575bc8121102c7846377ec1822d40c1d3a7a6de744c"
+    },
+    {
+      "external_ref": "livinginsider-2892102",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3190000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 Sale at The Base  Sukhumvit 77 🔥1BR 1BR.🔥3.19M 🔥31sqm. Floor19",
+        "zh": "🔥 Sale at The Base  Sukhumvit 77 🔥1BR 1BR.🔥3.19M 🔥31sqm. Floor19",
+        "th": "🔥 Sale at The Base  Sukhumvit 77 🔥1BR 1BR.🔥3.19M 🔥31sqm. Floor19"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 3,190,000 THB. Source LivingInsider #2892102.",
+        "zh": "出租：1卧，31㎡，3,190,000 泰铢。来源 LivingInsider #2892102。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 3,190,000 บาท (LivingInsider #2892102)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2892102. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2892102。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2892102 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2892102",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2892102.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2892102",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2892102",
+      "source_url_hash": "8eaec60d1112cfed60662f9747d2bac2169eb8738720d1619447116e01a28d3b",
+      "duplicate_fingerprint": "39c3e5443e29a55ac3e81498e1b9924d58bd764d9f48baa4f1bb7552d0ec9de7",
+      "soft_match_fingerprint": "378b033dd3df4586a0863ac71f9325e447023f6a868888607201cbfdd2e49040",
+      "_computed_fingerprint": "d0075f53d3f1f8229a98e1fdd9cf7e1163572dc0c2a10dce7d9cf3050972b460"
+    }
+  ]
+}

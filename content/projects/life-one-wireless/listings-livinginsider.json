@@ -1,0 +1,604 @@
+{
+  "project_slug": "life-one-wireless",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2579",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/6/2579/Condo/all/all/1/Condo-life-one-wireless.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3142391",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "🏙️ Life One Wireless | คอนโดใจกลางเมือง ใกล้ BTS เพลินจิต พร้อมเข้าอยู่ ",
+        "zh": "🏙️ Life One Wireless | คอนโดใจกลางเมือง ใกล้ BTS เพลินจิต พร้อมเข้าอยู่ ",
+        "th": "🏙️ Life One Wireless | คอนโดใจกลางเมือง ใกล้ BTS เพลินจิต พร้อมเข้าอยู่ "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 18,000 THB. Source LivingInsider #3142391.",
+        "zh": "出租：1卧，28㎡，18,000 泰铢。来源 LivingInsider #3142391。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 18,000 บาท (LivingInsider #3142391)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3142391. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3142391。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3142391 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3142391",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3142391.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3142391",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3142391",
+      "source_url_hash": "7f1a7435f87a2566449cf7569448d84b7fe138a487e016d0ae88775a831dc390",
+      "duplicate_fingerprint": "7bfef4830a8bdc23f74bea18ec3453c8063c8b8b773424664bd6f6524874708e",
+      "soft_match_fingerprint": "6b94b6cb2e9023dc7d1cf65effbfbf2939372e149104b737d64baa439444643d",
+      "_computed_fingerprint": "3f11a46596c9108b2018099ea62b589a05ec4e13db4c4246e83237546a7e07b0"
+    },
+    {
+      "external_ref": "livinginsider-3148251",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "เช่า/ขายด่วน!   Life One Wireless",
+        "zh": "เช่า/ขายด่วน!   Life One Wireless",
+        "th": "เช่า/ขายด่วน!   Life One Wireless"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 6,000,000 THB. Source LivingInsider #3148251.",
+        "zh": "出租：1卧，30㎡，6,000,000 泰铢。来源 LivingInsider #3148251。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 6,000,000 บาท (LivingInsider #3148251)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3148251. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3148251。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3148251 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3148251",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3148251.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3148251",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3148251",
+      "source_url_hash": "e799db44bed532b865267530b040adaa6cfe583e1c7af4e8eb04df1d4a3726ee",
+      "duplicate_fingerprint": "0bd1901922b5f004175e3b1d7cc77da4fe01a8a6b4d8c9faccd38f8da610558f",
+      "soft_match_fingerprint": "1e06db46d53896488ce2f070df4201f17817f1541157c9ffc8dfae2ab23e9de6",
+      "_computed_fingerprint": "b83a4f2210fcbcffbe8abe6ef2fa94f8f108bf47603c236ece67636287e30657"
+    },
+    {
+      "external_ref": "livinginsider-796787",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่าคอนโด Life วิทยุ ใกล้ BTS เพลินจิต Central Embassy",
+        "zh": "ให้เช่าคอนโด Life วิทยุ ใกล้ BTS เพลินจิต Central Embassy",
+        "th": "ให้เช่าคอนโด Life วิทยุ ใกล้ BTS เพลินจิต Central Embassy"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 19,000 THB. Source LivingInsider #796787.",
+        "zh": "出租：1卧，28㎡，19,000 泰铢。来源 LivingInsider #796787。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 19,000 บาท (LivingInsider #796787)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 796787. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 796787。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 796787 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_796787",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/796787.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "796787",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_796787",
+      "source_url_hash": "348c9357cb33d81375c40d40c2d55bc5bacc0c3426be96b003550c2ddcb81908",
+      "duplicate_fingerprint": "42e94de9308f685b0898af6d6535c1c893ab582e65df41aee6ee93fd50065cf1",
+      "soft_match_fingerprint": "15cd7243a01605827c63158d0377b80ecf2d436efa38ba493282a039e4e17e12",
+      "_computed_fingerprint": "394522d91cd1f8303a92de4ed91445b5ded3b206f09c6997e631231759e62dd3"
+    },
+    {
+      "external_ref": "livinginsider-3138282",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "39",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "Special Discount Life One Wireless ห้องสวยแต่งครบ ชั้นสูง พร้อมอยู่ วิวเมืองสวย ใจกลาง ถนนวิทยุ",
+        "zh": "Special Discount Life One Wireless ห้องสวยแต่งครบ ชั้นสูง พร้อมอยู่ วิวเมืองสวย ใจกลาง ถนนวิทยุ",
+        "th": "Special Discount Life One Wireless ห้องสวยแต่งครบ ชั้นสูง พร้อมอยู่ วิวเมืองสวย ใจกลาง ถนนวิทยุ"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 8,900,000 THB. Source LivingInsider #3138282.",
+        "zh": "出租：1卧，35㎡，8,900,000 泰铢。来源 LivingInsider #3138282。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 8,900,000 บาท (LivingInsider #3138282)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3138282. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3138282。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3138282 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3138282",
+      "source_updated_at": "2026-09-07",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3138282.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3138282",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3138282",
+      "source_url_hash": "f12fa30f00e5b948c6d116c3f29d9755bfec054bd781406d6f66bef3d13765b7",
+      "duplicate_fingerprint": "2d164514f5d337eaa1e782b0fa67df8333b1019ab9229bad0545c5f8aa2f5211",
+      "soft_match_fingerprint": "25cde21f6dbe7c66e875820e3420c00724aa4f5c79e1ace70a37bae44a04bb8c",
+      "_computed_fingerprint": "8d8f56030e2215f3a5f5694562c5edd81fb62909f66153c10f7b45980c759f43"
+    },
+    {
+      "external_ref": "livinginsider-1052564",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18888,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "35",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "Female only,For rent! Life One Wireless 18,888 Baht/month, 24  sqm  วิว Central Embassy ชั้น 35  เเถม HISPEED internet, contact (landlord) 0954935293 (24 ชม)",
+        "zh": "Female only,For rent! Life One Wireless 18,888 Baht/month, 24  sqm  วิว Central Embassy ชั้น 35  เเถม HISPEED internet, contact (landlord) 0954935293 (24 ชม)",
+        "th": "Female only,For rent! Life One Wireless 18,888 Baht/month, 24  sqm  วิว Central Embassy ชั้น 35  เเถม HISPEED internet, contact (landlord) 0954935293 (24 ชม)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 24 sq.m., 18,888 THB. Source LivingInsider #1052564.",
+        "zh": "出租：1卧，24㎡，18,888 泰铢。来源 LivingInsider #1052564。",
+        "th": "เช่า: 1 นอน 24 ตร.ม. ราคา 18,888 บาท (LivingInsider #1052564)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1052564. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1052564。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1052564 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1052564",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1052564.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1052564",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1052564",
+      "source_url_hash": "6bc0c9e94aafa07ed355580fdaf8187e096f453b2ec58562902097eb23a2ca7e",
+      "duplicate_fingerprint": "f120f3f31b3c5ffac41af6c99bbbaa64b2f71e4325a1f76c9a27783af97c892a",
+      "soft_match_fingerprint": "1eba3f8365c62082680195af357e1515d1b97f23d40fd92f7f96f74c394cbc36",
+      "_computed_fingerprint": "01bde6514dd38bfb2cd0d71db1e9aee999263dc9a21e6db3d262276df114c2e9"
+    },
+    {
+      "external_ref": "livinginsider-3141467",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 45000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 63,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "Life One Wireless | 2 Bedroom Condo for Rent | 63 sqm | THB 45,000",
+        "zh": "Life One Wireless | 2 Bedroom Condo for Rent | 63 sqm | THB 45,000",
+        "th": "Life One Wireless | 2 Bedroom Condo for Rent | 63 sqm | THB 45,000"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 63 sq.m., 45,000 THB. Source LivingInsider #3141467.",
+        "zh": "出租：2卧，63㎡，45,000 泰铢。来源 LivingInsider #3141467。",
+        "th": "เช่า: 2 นอน 63 ตร.ม. ราคา 45,000 บาท (LivingInsider #3141467)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3141467. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3141467。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3141467 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3141467",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3141467.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3141467",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3141467",
+      "source_url_hash": "3f7ad357f2c21cbeafbdda7f70f55801dcfb8e6a93b2cad85451e81fda8903c3",
+      "duplicate_fingerprint": "576996e0819a36b9f83fe248141f68f827ffcc2c56b3aebb8f9a2d2c2c3b8d66",
+      "soft_match_fingerprint": "d140c84bf2fc21121b294a45100f1fe72011e0bbaef5cfc124d5b16c5b30f07f",
+      "_computed_fingerprint": "5a2c396e0d917fd64676cc4c78f7a8c9fd7e80404565a3cfbde841d3783e2df6"
+    },
+    {
+      "external_ref": "livinginsider-3148223",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 52000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "35",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่าคอนโด Life One Wireless ",
+        "zh": "ให้เช่าคอนโด Life One Wireless ",
+        "th": "ให้เช่าคอนโด Life One Wireless "
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 52,000 THB. Source LivingInsider #3148223.",
+        "zh": "出租：2卧，30㎡，52,000 泰铢。来源 LivingInsider #3148223。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 52,000 บาท (LivingInsider #3148223)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3148223. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3148223。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3148223 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3148223",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3148223.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3148223",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3148223",
+      "source_url_hash": "91a33d9eb9f1faafb8143b4d94545248c2a6d066cb348f0be4630a7b691d1d2a",
+      "duplicate_fingerprint": "3c854c4cb07e4dfea2c7bcfcd3636543255ab168233883b7af9a007b566d1691",
+      "soft_match_fingerprint": "e0e40ef27f351a1455bdac841e41c0929174a95d28634f2c5d0a49cf50f0a92b",
+      "_computed_fingerprint": "68275c7930d4a22aaed74761bcc05ce75b68f487941bbaff71cbd89efd59e065"
+    },
+    {
+      "external_ref": "livinginsider-2943819",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 38,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "ถูกสุดในตึก Life one wireless ตำแหน่งพิเศษ: ห้องมุมตรงข้ามบันไดหนีไฟ เงียบสงบ",
+        "zh": "ถูกสุดในตึก Life one wireless ตำแหน่งพิเศษ: ห้องมุมตรงข้ามบันไดหนีไฟ เงียบสงบ",
+        "th": "ถูกสุดในตึก Life one wireless ตำแหน่งพิเศษ: ห้องมุมตรงข้ามบันไดหนีไฟ เงียบสงบ"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 38 sq.m., 5,990,000 THB. Source LivingInsider #2943819.",
+        "zh": "出租：1卧，38㎡，5,990,000 泰铢。来源 LivingInsider #2943819。",
+        "th": "เช่า: 1 นอน 38 ตร.ม. ราคา 5,990,000 บาท (LivingInsider #2943819)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2943819. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2943819。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2943819 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2943819",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2943819.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2943819",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2943819",
+      "source_url_hash": "9b8e814a2436ad5f4d7231fef1141a3feae96eacc680526b28099490d4f9105a",
+      "duplicate_fingerprint": "8d8cc44c172a056f5c2be13ed3bfcaa5ce86bf7a4c935f5fcf871de34437785f",
+      "soft_match_fingerprint": "02b70da1d67160ac709a9c22d25031c4bcfb746cb01e75c0743dece6e6d3c06c",
+      "_computed_fingerprint": "4cccf7a154bcd310932feba833ad1a5375a83504714e4f063daf9a11c7fa4bc1"
+    },
+    {
+      "external_ref": "livinginsider-1767079",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ไลฟ์ วัน ไวร์เลส BTS-เพลินจิต ลุมพินี เขต ปทุมวัน กรุงเทพ CX-111909",
+        "zh": "ขายคอนโด  ไลฟ์ วัน ไวร์เลส BTS-เพลินจิต ลุมพินี เขต ปทุมวัน กรุงเทพ CX-111909",
+        "th": "ขายคอนโด  ไลฟ์ วัน ไวร์เลส BTS-เพลินจิต ลุมพินี เขต ปทุมวัน กรุงเทพ CX-111909"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,990,000 THB. Source LivingInsider #1767079.",
+        "zh": "出租：1卧，30㎡，5,990,000 泰铢。来源 LivingInsider #1767079。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,990,000 บาท (LivingInsider #1767079)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1767079. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1767079。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1767079 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1767079",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1767079.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1767079",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1767079",
+      "source_url_hash": "126e61d7dc176c1ed5da1b14a26f4013136b728c794138ac15bee4fad196a2c6",
+      "duplicate_fingerprint": "c618cd4bc993230c3ad224c5d02ff84595bdd4ce8ce2e8f22ec0d338724e74b4",
+      "soft_match_fingerprint": "e474c5f6bac4108cc360c286bd2d30b3c366e46ac1bbd69433817133bc2add55",
+      "_computed_fingerprint": "e996daa776ea5e87392c869966fe56475cb395c8410f7b34cd81b3e386637a1d"
+    },
+    {
+      "external_ref": "livinginsider-3063813",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4935000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ไลฟ์ วัน ไวร์เลส รีโนเวทใหม่ BTS-เพลินจิต ลุมพินี เขต ปทุมวัน กรุงเทพ CX-144266",
+        "zh": "ขายคอนโด  ไลฟ์ วัน ไวร์เลส รีโนเวทใหม่ BTS-เพลินจิต ลุมพินี เขต ปทุมวัน กรุงเทพ CX-144266",
+        "th": "ขายคอนโด  ไลฟ์ วัน ไวร์เลส รีโนเวทใหม่ BTS-เพลินจิต ลุมพินี เขต ปทุมวัน กรุงเทพ CX-144266"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 4,935,000 THB. Source LivingInsider #3063813.",
+        "zh": "出租：1卧，30㎡，4,935,000 泰铢。来源 LivingInsider #3063813。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 4,935,000 บาท (LivingInsider #3063813)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3063813. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3063813。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3063813 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3063813",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3063813.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3063813",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3063813",
+      "source_url_hash": "eab822155ea36267ed2eb9fd98e16a153bc6fb69bc9a6f12fd1676aca9328d20",
+      "duplicate_fingerprint": "97a752fe09c01fc392e831db4a885005f9ee6163e3fee967b95cb3533c7c6393",
+      "soft_match_fingerprint": "e474c5f6bac4108cc360c286bd2d30b3c366e46ac1bbd69433817133bc2add55",
+      "_computed_fingerprint": "c401ca8e2b7ea299c561e043811bd0657e444b8672d908ec9d8a18610f9bc791"
+    },
+    {
+      "external_ref": "livinginsider-1936571",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5190000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ไลฟ์ วัน ไวร์เลส BTS-เพลินจิต ลุมพินี เขต ปทุมวัน กรุงเทพ CX-147863",
+        "zh": "ขายคอนโด  ไลฟ์ วัน ไวร์เลส BTS-เพลินจิต ลุมพินี เขต ปทุมวัน กรุงเทพ CX-147863",
+        "th": "ขายคอนโด  ไลฟ์ วัน ไวร์เลส BTS-เพลินจิต ลุมพินี เขต ปทุมวัน กรุงเทพ CX-147863"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,190,000 THB. Source LivingInsider #1936571.",
+        "zh": "出租：1卧，30㎡，5,190,000 泰铢。来源 LivingInsider #1936571。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,190,000 บาท (LivingInsider #1936571)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1936571. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1936571。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1936571 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1936571",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1936571.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1936571",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1936571",
+      "source_url_hash": "43606369608c209cdcf8762000b654a7ac7b5570d7a5ad726e89b4247fa7ce34",
+      "duplicate_fingerprint": "8818b0570e3e862bbf488fa642af13b86733d893642280a8b7aea1f202b64cd0",
+      "soft_match_fingerprint": "7496ab60326829c15a3f1572c2901cb2bfa7a319bbb8de0b8a9c9ad6aecb2850",
+      "_computed_fingerprint": "1f3fedf988996faa2a70c533372e0d57d161c92548164fa27be1ddf83ea67168"
+    }
+  ]
+}

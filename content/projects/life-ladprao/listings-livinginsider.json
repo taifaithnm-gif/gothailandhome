@@ -1,0 +1,766 @@
+{
+  "project_slug": "life-ladprao",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2668",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/10/2668/Condo/all/all/1/Condo-Life-Ladprao.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3035100",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14999,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "35",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "ห้องสวย อยู่สบาย ออกแบบลงตัว วิวดีส่วนตัว Life Ladprao 2493",
+        "zh": "ห้องสวย อยู่สบาย ออกแบบลงตัว วิวดีส่วนตัว Life Ladprao 2493",
+        "th": "ห้องสวย อยู่สบาย ออกแบบลงตัว วิวดีส่วนตัว Life Ladprao 2493"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 14,999 THB. Source LivingInsider #3035100.",
+        "zh": "出租：1卧，30㎡，14,999 泰铢。来源 LivingInsider #3035100。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 14,999 บาท (LivingInsider #3035100)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3035100. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3035100。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3035100 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3035100",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3035100.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3035100",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3035100",
+      "source_url_hash": "77fcb5fc46267d459a76d56e3d92160ee467ea39d7a585a34086de3aabb73590",
+      "duplicate_fingerprint": "ec4e51ed04939fb8a541df803583a46d919cd8f0e3aea501d0245f4f47c3e1a2",
+      "soft_match_fingerprint": "bbc54f960b6f363c27173293873c2ef5615569619b4631558429af28284d3a27",
+      "_computed_fingerprint": "1623a5f292ad8fec0198344a74aa128fb8277fe9221b10e617ed6758a4c5b44a"
+    },
+    {
+      "external_ref": "livinginsider-2641502",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "For Rent / ให้เช่าคอนโดตรงข้ามเซ็นทรัลลาดพร้าว 🏡 Life Ladprao 🏡 ห้องมุมวิวพาโนรามา ",
+        "zh": "For Rent / ให้เช่าคอนโดตรงข้ามเซ็นทรัลลาดพร้าว 🏡 Life Ladprao 🏡 ห้องมุมวิวพาโนรามา ",
+        "th": "For Rent / ให้เช่าคอนโดตรงข้ามเซ็นทรัลลาดพร้าว 🏡 Life Ladprao 🏡 ห้องมุมวิวพาโนรามา "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 23,500 THB. Source LivingInsider #2641502.",
+        "zh": "出租：1卧，35㎡，23,500 泰铢。来源 LivingInsider #2641502。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 23,500 บาท (LivingInsider #2641502)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2641502. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2641502。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2641502 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2641502",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2641502.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2641502",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2641502",
+      "source_url_hash": "dee0cea3333c16afa766df989292edd8e10ec9ca6906ca7ba08e1c1d5a5ad122",
+      "duplicate_fingerprint": "935d0129dddd7f0a90d97a1d500d5bcba2f46695e445b23e2479d1083277c8c3",
+      "soft_match_fingerprint": "b8d8f35bdbb8acce6db52e2aa766059b7e9ea979cf7417e31985c9a59d2e742c",
+      "_computed_fingerprint": "f04b4bb7ab6dfd8835a6b70b8688e7ba6715c94d0c21160919f105f205037ec8"
+    },
+    {
+      "external_ref": "livinginsider-2936194",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "✨หรูหรา อบอุ่น✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว",
+        "zh": "✨หรูหรา อบอุ่น✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว",
+        "th": "✨หรูหรา อบอุ่น✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 18,000 THB. Source LivingInsider #2936194.",
+        "zh": "出租：1卧，28㎡，18,000 泰铢。来源 LivingInsider #2936194。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 18,000 บาท (LivingInsider #2936194)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2936194. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2936194。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2936194 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2936194",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2936194.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2936194",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2936194",
+      "source_url_hash": "b87078e1788543f697fac67604e3c94c0cae79345cb76ad76113bacd81774964",
+      "duplicate_fingerprint": "31d792c086d783ef9e6de4179055956aec179517839a4f849028616eaa57883e",
+      "soft_match_fingerprint": "b7e1bc2d1f1b0b393f49fbec9c480a0c63b852dfb6e7593ff841d46c2914207d",
+      "_computed_fingerprint": "53aa23ea75b17bb74554bc591acfcb9084769b43f575a426d5aac2a19adbf739"
+    },
+    {
+      "external_ref": "livinginsider-3116423",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "✨2 นอน ติด BTS✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว",
+        "zh": "✨2 นอน ติด BTS✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว",
+        "th": "✨2 นอน ติด BTS✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 29 sq.m., 30,000 THB. Source LivingInsider #3116423.",
+        "zh": "出租：2卧，29㎡，30,000 泰铢。来源 LivingInsider #3116423。",
+        "th": "เช่า: 2 นอน 29 ตร.ม. ราคา 30,000 บาท (LivingInsider #3116423)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3116423. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3116423。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3116423 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3116423",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3116423.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3116423",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3116423",
+      "source_url_hash": "a51dd0e9ba50a41b7a118a9df9c847807cfde63081c4be79d9ca0ea43b79c529",
+      "duplicate_fingerprint": "63f00b436263f7f7af77a20e9bb329511ee1985abefef729dff8a6534061b0fd",
+      "soft_match_fingerprint": "0718f4a061b97a530b3980ea1ccb17c85f8577d479cdd5c1eee68e72e480c15a",
+      "_computed_fingerprint": "3064db95564979d84c4f4ea8e73b0679b340008be7ebc3fd217fd9358f66dbb1"
+    },
+    {
+      "external_ref": "livinginsider-3145825",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "✨ห้องสวย ติดแกลม✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว",
+        "zh": "✨ห้องสวย ติดแกลม✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว",
+        "th": "✨ห้องสวย ติดแกลม✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 29 sq.m., 17,000 THB. Source LivingInsider #3145825.",
+        "zh": "出租：1卧，29㎡，17,000 泰铢。来源 LivingInsider #3145825。",
+        "th": "เช่า: 1 นอน 29 ตร.ม. ราคา 17,000 บาท (LivingInsider #3145825)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3145825. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3145825。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3145825 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3145825",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3145825.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3145825",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3145825",
+      "source_url_hash": "c121830bc6840cf723143651e5177741c0b70f5ca79b21599a6de8c2638c209f",
+      "duplicate_fingerprint": "9de69f1f3bcfaa46542d760c1a446a6ba071d03e3f2fb194e76196f63cc3d93f",
+      "soft_match_fingerprint": "c27f16884a7cf3e1ea915adeef9aec82894418515894207c91094f683ea135f4",
+      "_computed_fingerprint": "54451ed5dc0f4074aeaa160507d282b00f997ab4e6d7765a878e9b93b7bdd222"
+    },
+    {
+      "external_ref": "livinginsider-3128324",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "✨สวยปัง ติด BTS✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว",
+        "zh": "✨สวยปัง ติด BTS✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว",
+        "th": "✨สวยปัง ติด BTS✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 22,000 THB. Source LivingInsider #3128324.",
+        "zh": "出租：1卧，30㎡，22,000 泰铢。来源 LivingInsider #3128324。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 22,000 บาท (LivingInsider #3128324)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3128324. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3128324。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3128324 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3128324",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3128324.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3128324",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3128324",
+      "source_url_hash": "64724378224abfcde2bd025beab08b26d3069118c65c925bf5faddc0ac69d6da",
+      "duplicate_fingerprint": "15fbbc408c6ae580aacedc0e1fc045b29f5dd6b090648ba51285d8963f664c03",
+      "soft_match_fingerprint": "8b4fd2d1cd32c32e826c6414220908c1c023058ed031a5d722e4afbdfc46721b",
+      "_computed_fingerprint": "091a36069f9679a32bfe810abe078e0980fdc1a56dce46d5ce2f665bc1615d96"
+    },
+    {
+      "external_ref": "livinginsider-3047517",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "✨สวยหรู ฟังก์ชันครบ✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว",
+        "zh": "✨สวยหรู ฟังก์ชันครบ✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว",
+        "th": "✨สวยหรู ฟังก์ชันครบ✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26 sq.m., 20,000 THB. Source LivingInsider #3047517.",
+        "zh": "出租：1卧，26㎡，20,000 泰铢。来源 LivingInsider #3047517。",
+        "th": "เช่า: 1 นอน 26 ตร.ม. ราคา 20,000 บาท (LivingInsider #3047517)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3047517. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3047517。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3047517 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3047517",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3047517.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3047517",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3047517",
+      "source_url_hash": "a4e900c9231c99e9e7101382ac943f8808500a5a23101e45513c12cb28228305",
+      "duplicate_fingerprint": "e598446d415ab9a21059506d7858383a45324b706fdc03eff9ec115718252f34",
+      "soft_match_fingerprint": "1feb1c0f0e9b7808c6716349330859a565d0b88effd76d75cf8b47d808d2e80d",
+      "_computed_fingerprint": "ffaa0fba6d867910d7fd5c7b09a0f5b89643831dc03031ec81c9dfe000d17d27"
+    },
+    {
+      "external_ref": "livinginsider-2989251",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 21000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "✨ห้องสวย ติด BTS✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว",
+        "zh": "✨ห้องสวย ติด BTS✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว",
+        "th": "✨ห้องสวย ติด BTS✨ให้เช่า Life Ladprao ติด BTS ห้าแยกลาดพร้าว"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 21,000 THB. Source LivingInsider #2989251.",
+        "zh": "出租：1卧，35㎡，21,000 泰铢。来源 LivingInsider #2989251。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 21,000 บาท (LivingInsider #2989251)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2989251. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2989251。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2989251 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2989251",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2989251.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2989251",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2989251",
+      "source_url_hash": "33997e3ad53474c7a79c8fa0916eeefd84bdbb875569ccbeb4ce93e42faba132",
+      "duplicate_fingerprint": "d95968aace7438b8e00f8be72953a4a6f7b5a690f39cc3b29a51f5584a15aa09",
+      "soft_match_fingerprint": "c363c088dd2ea5ae2b07496ba2b4802ee34a1fb88c4f6857765664b925a6f589",
+      "_computed_fingerprint": "e547d5b5c3717f6619a2ad90b3951e2d92e241a864c6b199f983c761dfc70045"
+    },
+    {
+      "external_ref": "livinginsider-2733761",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4690000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.67,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "✨Flash Deal ✨Life Ladprao (1Bed1Bath35.67SQM.) พร้อมอยู่ ! เพียง 4,690,000 บาท Tel.0981315848 @propmatch",
+        "zh": "✨Flash Deal ✨Life Ladprao (1Bed1Bath35.67SQM.) พร้อมอยู่ ! เพียง 4,690,000 บาท Tel.0981315848 @propmatch",
+        "th": "✨Flash Deal ✨Life Ladprao (1Bed1Bath35.67SQM.) พร้อมอยู่ ! เพียง 4,690,000 บาท Tel.0981315848 @propmatch"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35.67 sq.m., 4,690,000 THB. Source LivingInsider #2733761.",
+        "zh": "出租：1卧，35.67㎡，4,690,000 泰铢。来源 LivingInsider #2733761。",
+        "th": "เช่า: 1 นอน 35.67 ตร.ม. ราคา 4,690,000 บาท (LivingInsider #2733761)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2733761. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2733761。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2733761 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2733761",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2733761.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2733761",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2733761",
+      "source_url_hash": "068d6bc72bbac49b106be9fbe802f52197fc0bb2b4d8ee5af405e97452fed65a",
+      "duplicate_fingerprint": "33cf33e3b8e06e5befb76d53a9b1e550ee3600e39eae800ed4f1e24b1b8c19f0",
+      "soft_match_fingerprint": "26e4e8208547793451951c4c65fd7ab60d5af59e3ea585e0aafbab721b3ba622",
+      "_computed_fingerprint": "80fc56c67bce8cc901d73543dfd3d9cb89bbaa2b37d08b47b014ce311532bd2e"
+    },
+    {
+      "external_ref": "livinginsider-3148042",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "✨ Own the Ultimate Lifestyle at the Best Interchange Hub! Stunning High-Floor Unit Opposite Central Ladprao, Just Steps to BTS &amp; MRT  ✨",
+        "zh": "✨ Own the Ultimate Lifestyle at the Best Interchange Hub! Stunning High-Floor Unit Opposite Central Ladprao, Just Steps to BTS &amp; MRT  ✨",
+        "th": "✨ Own the Ultimate Lifestyle at the Best Interchange Hub! Stunning High-Floor Unit Opposite Central Ladprao, Just Steps to BTS &amp; MRT  ✨"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 4,600,000 THB. Source LivingInsider #3148042.",
+        "zh": "出租：1卧，35㎡，4,600,000 泰铢。来源 LivingInsider #3148042。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 4,600,000 บาท (LivingInsider #3148042)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3148042. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3148042。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3148042 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3148042",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3148042.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3148042",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3148042",
+      "source_url_hash": "cbec7d17b666a33dba625fc7302f52053c11bc79da3bc5f8884c00727148b21e",
+      "duplicate_fingerprint": "c4e04c6e49ac9399d706e6a11618476f4b6cae923b3ea2133e7ff0b4110a5af3",
+      "soft_match_fingerprint": "7a6ca580fcbdeb35831e855133ccb1aadda9bce0de5ca1f5056f861e8aca4668",
+      "_computed_fingerprint": "b1d22f6209c2ca8089c3f97e9cc0ed8525e66ce20fda52fea49f0bc37edd72a4"
+    },
+    {
+      "external_ref": "livinginsider-1889862",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4640000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ไลฟ์ ลาดพร้าว BTS-ห้าแยกลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ CX-151283",
+        "zh": "ขายคอนโด  ไลฟ์ ลาดพร้าว BTS-ห้าแยกลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ CX-151283",
+        "th": "ขายคอนโด  ไลฟ์ ลาดพร้าว BTS-ห้าแยกลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ CX-151283"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 4,640,000 THB. Source LivingInsider #1889862.",
+        "zh": "出租：1卧，30㎡，4,640,000 泰铢。来源 LivingInsider #1889862。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 4,640,000 บาท (LivingInsider #1889862)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1889862. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1889862。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1889862 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1889862",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1889862.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1889862",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1889862",
+      "source_url_hash": "a171f0b13aba58db43384532edde132a82f5f7eb179e5d44b012b50dc435f42a",
+      "duplicate_fingerprint": "788fabab18d68e0f061983ac935f346b3fb0e58d2ddd04da7341b4c65cf76fc2",
+      "soft_match_fingerprint": "728432b14fcdaa4c027fab9b0fa53bb7c371ecf1cc622d80ad3875cf3533b482",
+      "_computed_fingerprint": "f9a921d3fb5fc3462b6ecc210e93a37e9ff1a2a27b2b4ed87f79e6cd8a9e3870"
+    },
+    {
+      "external_ref": "livinginsider-3037145",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5150000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด ไลฟ์ ลาดพร้าว BTS-ห้าแยกลาดพร้าว จอมพล เขต จตุจักร กรุงเทพ CX-39518",
+        "zh": "ขายคอนโด ไลฟ์ ลาดพร้าว BTS-ห้าแยกลาดพร้าว จอมพล เขต จตุจักร กรุงเทพ CX-39518",
+        "th": "ขายคอนโด ไลฟ์ ลาดพร้าว BTS-ห้าแยกลาดพร้าว จอมพล เขต จตุจักร กรุงเทพ CX-39518"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,150,000 THB. Source LivingInsider #3037145.",
+        "zh": "出租：1卧，30㎡，5,150,000 泰铢。来源 LivingInsider #3037145。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,150,000 บาท (LivingInsider #3037145)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3037145. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3037145。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3037145 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3037145",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3037145.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3037145",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3037145",
+      "source_url_hash": "8d91582620b7bf8f4ed8b9d82c2342a5a1b4f8a3873ad6372f44f7145402c59d",
+      "duplicate_fingerprint": "d0c2fc8d8fab44605f7f5a56000b0b801588e2c0e1fc418bdd5155a405a56fe7",
+      "soft_match_fingerprint": "2dbdf3fca67fde68e6850a1088d04ab5dc16fb748112c1cc7ca1f0b8a8690407",
+      "_computed_fingerprint": "4cc34a23fc2d374350c23603d4a4ec66518fa45c820a617ac1aa49b1f8bb8e71"
+    },
+    {
+      "external_ref": "livinginsider-2362169",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3490000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "24",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ไลฟ์ ลาดพร้าว BTS-ห้าแยกลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ  CX-147599",
+        "zh": "ขายคอนโด  ไลฟ์ ลาดพร้าว BTS-ห้าแยกลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ  CX-147599",
+        "th": "ขายคอนโด  ไลฟ์ ลาดพร้าว BTS-ห้าแยกลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ  CX-147599"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,490,000 THB. Source LivingInsider #2362169.",
+        "zh": "出租：1卧，30㎡，3,490,000 泰铢。来源 LivingInsider #2362169。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,490,000 บาท (LivingInsider #2362169)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2362169. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2362169。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2362169 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2362169",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2362169.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2362169",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2362169",
+      "source_url_hash": "372592c112b305ce5c6a6eb52b55d73eafd3ea597915cb4780e5dbc446dbeda5",
+      "duplicate_fingerprint": "c03faa2fbb34fea09b8167b034442ed682a38ace2dc003f2abccf8669a30878d",
+      "soft_match_fingerprint": "f3fee0344adc8456b3f72696b1edd923073ead6b9d59a4c02a92011f985ed2f8",
+      "_computed_fingerprint": "a9d45fac70f7c66fcc6bf1d3cf3cd490847a9774199c8bad2cd0b83e0c3aa047"
+    },
+    {
+      "external_ref": "livinginsider-2843987",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7600000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "24",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด ไลฟ์ ลาดพร้าว ชั้นสูง BTS-ห้าแยกลาดพร้าว จอมพล เขต จตุจักร กรุงเทพ CX-74990",
+        "zh": "ขายคอนโด ไลฟ์ ลาดพร้าว ชั้นสูง BTS-ห้าแยกลาดพร้าว จอมพล เขต จตุจักร กรุงเทพ CX-74990",
+        "th": "ขายคอนโด ไลฟ์ ลาดพร้าว ชั้นสูง BTS-ห้าแยกลาดพร้าว จอมพล เขต จตุจักร กรุงเทพ CX-74990"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 7,600,000 THB. Source LivingInsider #2843987.",
+        "zh": "出租：2卧，30㎡，7,600,000 泰铢。来源 LivingInsider #2843987。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 7,600,000 บาท (LivingInsider #2843987)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2843987. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2843987。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2843987 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2843987",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2843987.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2843987",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2843987",
+      "source_url_hash": "3a9d99a1fbff1e50731387af784c0e1691b017d75c3a6ed712af6c0490dac320",
+      "duplicate_fingerprint": "84288f141f2a21d837abf438d333930cb08244b31be23a5d6c10f73fe9774bda",
+      "soft_match_fingerprint": "9d7cd015a740ee4f68f5fd2be4b9bbfc9872efa975881f5f7e0e56e15b18d053",
+      "_computed_fingerprint": "5638206a37a60c683b43deaceafa3b84f1dd0447a75e2b6d5a791d0878997e81"
+    }
+  ]
+}

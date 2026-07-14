@@ -1,0 +1,496 @@
+{
+  "project_slug": "noble-revolve-ratchada",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "935",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/13/935/Condo/all/all/1/Condo-Noble-Revolve-Ratchada-2.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3109213",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "32",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ปล่อยเช่าคอนโดใกล้MRT",
+        "zh": "ปล่อยเช่าคอนโดใกล้MRT",
+        "th": "ปล่อยเช่าคอนโดใกล้MRT"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 25,000 THB. Source LivingInsider #3109213.",
+        "zh": "出租：2卧，30㎡，25,000 泰铢。来源 LivingInsider #3109213。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 25,000 บาท (LivingInsider #3109213)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3109213. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3109213。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3109213 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3109213",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3109213.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3109213",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3109213",
+      "source_url_hash": "501b8ec67c7ebcd99c5cf41742351a34a97d2b2f1b75d18d621ceee71c3eeabe",
+      "duplicate_fingerprint": "c408955f3c19b68f4afde627ef14bf76e08d4afd718e5ec990f89fd333bd5036",
+      "soft_match_fingerprint": "3b97e5d9ba3a68cc41f0ddcddab41c407c0d214afb7758e17c528d0fa615ee43",
+      "_computed_fingerprint": "50566ac1a469b9b3ce6a2a434467c69c67854c84727b9dece3112145febef375"
+    },
+    {
+      "external_ref": "livinginsider-2096287",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  โนเบิล รีวอลฟ์ รัชดา 2 MRT-ศูนย์วัฒนธรรมแห่งประเทศไทย ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-94454",
+        "zh": "ขายคอนโด  โนเบิล รีวอลฟ์ รัชดา 2 MRT-ศูนย์วัฒนธรรมแห่งประเทศไทย ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-94454",
+        "th": "ขายคอนโด  โนเบิล รีวอลฟ์ รัชดา 2 MRT-ศูนย์วัฒนธรรมแห่งประเทศไทย ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-94454"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,400,000 THB. Source LivingInsider #2096287.",
+        "zh": "出租：1卧，30㎡，3,400,000 泰铢。来源 LivingInsider #2096287。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,400,000 บาท (LivingInsider #2096287)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2096287. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2096287。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2096287 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2096287",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2096287.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2096287",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2096287",
+      "source_url_hash": "6ad80f1fdfa635af119e97034af6db07ece750d561433f97675e4f5f33aabd39",
+      "duplicate_fingerprint": "a3d6d742a0e7fef82074f892ffa28b76d0a397ecd006b524f001694e8d9b7df3",
+      "soft_match_fingerprint": "3b00758885b44eb6173ee9664d795066158fe247ab41c8656cb203e822e79adc",
+      "_computed_fingerprint": "591d0544aa5889866afd97ec7030b093845cdc8f1f6527921d22cb4f7dd86a72"
+    },
+    {
+      "external_ref": "livinginsider-2856233",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5690000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  โนเบิล รีวอลฟ์ รัชดา 2 MRT-ศูนย์วัฒนธรรมแห่งประเทศไทย ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-134104",
+        "zh": "ขายคอนโด  โนเบิล รีวอลฟ์ รัชดา 2 MRT-ศูนย์วัฒนธรรมแห่งประเทศไทย ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-134104",
+        "th": "ขายคอนโด  โนเบิล รีวอลฟ์ รัชดา 2 MRT-ศูนย์วัฒนธรรมแห่งประเทศไทย ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-134104"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 5,690,000 THB. Source LivingInsider #2856233.",
+        "zh": "出租：2卧，30㎡，5,690,000 泰铢。来源 LivingInsider #2856233。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 5,690,000 บาท (LivingInsider #2856233)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2856233. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2856233。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2856233 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2856233",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2856233.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2856233",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2856233",
+      "source_url_hash": "2928a8838b360af25ec9ca8351229e9d340c3fb64dd432a26ab083ece98a7c33",
+      "duplicate_fingerprint": "dcf4e9a4b87cae90c111ad0639c890a3b5f3f48f092cf10527547730c868dbbe",
+      "soft_match_fingerprint": "fae34bc66d73bb2a4148bd40b8f3b7839fb51f4d37aaf6c3dc54dd149d1f8074",
+      "_computed_fingerprint": "ffdaf017889febb07da5188809c56fc0464df88431d16e916d78a0ef52df46ae"
+    },
+    {
+      "external_ref": "livinginsider-1529840",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8700000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  โนเบิล รีวอลฟ์ รัชดา 2 MRT-ศูนย์วัฒนธรรมแห่งประเทศไทย ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-74115",
+        "zh": "ขายคอนโด  โนเบิล รีวอลฟ์ รัชดา 2 MRT-ศูนย์วัฒนธรรมแห่งประเทศไทย ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-74115",
+        "th": "ขายคอนโด  โนเบิล รีวอลฟ์ รัชดา 2 MRT-ศูนย์วัฒนธรรมแห่งประเทศไทย ห้วยขวาง เขต ห้วยขวาง กรุงเทพ CX-74115"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 8,700,000 THB. Source LivingInsider #1529840.",
+        "zh": "出租：2卧，30㎡，8,700,000 泰铢。来源 LivingInsider #1529840。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 8,700,000 บาท (LivingInsider #1529840)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1529840. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1529840。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1529840 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1529840",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1529840.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1529840",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1529840",
+      "source_url_hash": "49a2d9966d3ee16bd5e9865cbfbd67fa292907492c88d409b2fe2236efac0fd8",
+      "duplicate_fingerprint": "04887932ef39a00ffa889e82b9c0e5a7c28022a7704f98dd5647d48967d9823e",
+      "soft_match_fingerprint": "9124e651be9ca1954c3672c6554ef564266c63a14fed5025453f2d093198573f",
+      "_computed_fingerprint": "23e11d27c63f22092bff6a9531740031b44cf13b7d414258e54327516fcca651"
+    },
+    {
+      "external_ref": "livinginsider-3075992",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "51",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "09/07/2026, 🔥 Studio ใจกลางเมือง วิวสวย เพียง 14,000/ด! 🌆 Noble Revolve Ratchada 2 ใกล้ MRT ศูนย์วัฒนธรรม เริ่มต้นแค่นี้! 0642748883",
+        "zh": "09/07/2026, 🔥 Studio ใจกลางเมือง วิวสวย เพียง 14,000/ด! 🌆 Noble Revolve Ratchada 2 ใกล้ MRT ศูนย์วัฒนธรรม เริ่มต้นแค่นี้! 0642748883",
+        "th": "09/07/2026, 🔥 Studio ใจกลางเมือง วิวสวย เพียง 14,000/ด! 🌆 Noble Revolve Ratchada 2 ใกล้ MRT ศูนย์วัฒนธรรม เริ่มต้นแค่นี้! 0642748883"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 14,000 THB. Source LivingInsider #3075992.",
+        "zh": "出租：1卧，30㎡，14,000 泰铢。来源 LivingInsider #3075992。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 14,000 บาท (LivingInsider #3075992)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3075992. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3075992。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3075992 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3075992",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3075992.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3075992",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3075992",
+      "source_url_hash": "ed1cc490ff1bb0078bcd02ac3bdb2d4db88dd765fafc637677ad0b1135432613",
+      "duplicate_fingerprint": "ceab884e9804e4e943b7686eb710fb5b8375f82bcaf42e17d35ac4f0b29a085c",
+      "soft_match_fingerprint": "4af420c4fba12b27077c62ae61798a1a16fd4039d4f4af439d07452cbacb219c",
+      "_computed_fingerprint": "bf44e4a9e6349a91c33ce0287d4ea06f573e53020cf23710ddbbf5d027ba7369"
+    },
+    {
+      "external_ref": "livinginsider-3147884",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26,
+      "floor_label": "40",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า Noble Revolve Ratchada 2 ราคา 16,000 บาท [MKr260729]",
+        "zh": "ให้เช่า Noble Revolve Ratchada 2 ราคา 16,000 บาท [MKr260729]",
+        "th": "ให้เช่า Noble Revolve Ratchada 2 ราคา 16,000 บาท [MKr260729]"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26 sq.m., 16,000 THB. Source LivingInsider #3147884.",
+        "zh": "出租：1卧，26㎡，16,000 泰铢。来源 LivingInsider #3147884。",
+        "th": "เช่า: 1 นอน 26 ตร.ม. ราคา 16,000 บาท (LivingInsider #3147884)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3147884. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3147884。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3147884 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3147884",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3147884.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3147884",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3147884",
+      "source_url_hash": "ef83a67232bb9b78406ba5e678cdc96421265e3f1d83f5fab4212cccc4efbdc1",
+      "duplicate_fingerprint": "d56862c6b19bebd3852a04a33ac2a8347fc387822cd44a0469246fe2ef08b358",
+      "soft_match_fingerprint": "5faa50003825bc55bfb07e651417da187f00765ad142b3c92ed5712ec1ad0fc9",
+      "_computed_fingerprint": "d8f15c887d71b90166e08701aa14c3df14379efea07a00d75afeec6c8ae7937a"
+    },
+    {
+      "external_ref": "livinginsider-2969775",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5690000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 38.72,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥Sell 2BR🔥38.72sqm🔥Floor12A🔥Ready to Move🔥5.69M.🔥",
+        "zh": "🔥Sell 2BR🔥38.72sqm🔥Floor12A🔥Ready to Move🔥5.69M.🔥",
+        "th": "🔥Sell 2BR🔥38.72sqm🔥Floor12A🔥Ready to Move🔥5.69M.🔥"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 38.72 sq.m., 5,690,000 THB. Source LivingInsider #2969775.",
+        "zh": "出租：2卧，38.72㎡，5,690,000 泰铢。来源 LivingInsider #2969775。",
+        "th": "เช่า: 2 นอน 38.72 ตร.ม. ราคา 5,690,000 บาท (LivingInsider #2969775)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2969775. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2969775。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2969775 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2969775",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2969775.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2969775",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2969775",
+      "source_url_hash": "91f43bbd790b404c37f7d95df49d1ac4ab52248cc52d8b24acc1f224add6706f",
+      "duplicate_fingerprint": "0df55134a73da53dd178a1d3d8a917ba86dba806c1a13bb70083d6d4f58ff6e4",
+      "soft_match_fingerprint": "4861e5d8a7189d21246f8adf6a971b12fdf3aea271f75c4b3bfe4a5db9f486e3",
+      "_computed_fingerprint": "97a2998790660e37df4e5265339762964853af707e116e6fa2852e2eb26eea44"
+    },
+    {
+      "external_ref": "livinginsider-665075",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3490000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥ราคาถูกมาก🔥ขาย 1 ห้องนอน 25ตรม ชั้น 16 🔥ห้องสวยมาก🔥ราคา 3.49 ล้าน🔥",
+        "zh": "🔥ราคาถูกมาก🔥ขาย 1 ห้องนอน 25ตรม ชั้น 16 🔥ห้องสวยมาก🔥ราคา 3.49 ล้าน🔥",
+        "th": "🔥ราคาถูกมาก🔥ขาย 1 ห้องนอน 25ตรม ชั้น 16 🔥ห้องสวยมาก🔥ราคา 3.49 ล้าน🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 25 sq.m., 3,490,000 THB. Source LivingInsider #665075.",
+        "zh": "出租：1卧，25㎡，3,490,000 泰铢。来源 LivingInsider #665075。",
+        "th": "เช่า: 1 นอน 25 ตร.ม. ราคา 3,490,000 บาท (LivingInsider #665075)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 665075. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 665075。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 665075 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_665075",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/665075.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "665075",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_665075",
+      "source_url_hash": "1d926b3152a9e72ba0d141d2c0df113e419c100726afeaf695ae38e21ebc8ff6",
+      "duplicate_fingerprint": "4e5086169d8509b3e748fdb1e2494f2eb29c190ffaa99af127f41bac329d7eed",
+      "soft_match_fingerprint": "8bacb0d3af294511323bdf6d4e5ba6b8d92006643bafe23e39c5411f5345aac9",
+      "_computed_fingerprint": "e6bdef70dbd02e11cb1760b6094f871d82f59487d9592b9e838d5f85e34d6a14"
+    },
+    {
+      "external_ref": "livinginsider-1293275",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥3.4MB ราคาสุดคุ้ม 1นอน ห้องแต่งสวย ตำแหน่งดี ชั้นสูง วิวดีมาก เฟอร์แน่น พร้อมอยู่ คอนโดทำเลดีมาก ติด MRTศูนย์วัฒนธรรม @ Noble Revolve Ratchada 2",
+        "zh": "🔥3.4MB ราคาสุดคุ้ม 1นอน ห้องแต่งสวย ตำแหน่งดี ชั้นสูง วิวดีมาก เฟอร์แน่น พร้อมอยู่ คอนโดทำเลดีมาก ติด MRTศูนย์วัฒนธรรม @ Noble Revolve Ratchada 2",
+        "th": "🔥3.4MB ราคาสุดคุ้ม 1นอน ห้องแต่งสวย ตำแหน่งดี ชั้นสูง วิวดีมาก เฟอร์แน่น พร้อมอยู่ คอนโดทำเลดีมาก ติด MRTศูนย์วัฒนธรรม @ Noble Revolve Ratchada 2"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26 sq.m., 3,400,000 THB. Source LivingInsider #1293275.",
+        "zh": "出租：1卧，26㎡，3,400,000 泰铢。来源 LivingInsider #1293275。",
+        "th": "เช่า: 1 นอน 26 ตร.ม. ราคา 3,400,000 บาท (LivingInsider #1293275)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1293275. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1293275。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1293275 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1293275",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1293275.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1293275",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1293275",
+      "source_url_hash": "2f1bf4ff606ecdfd0f95f2c23daf77880cbdaff7c64736cc2363c3a1309b371f",
+      "duplicate_fingerprint": "6d04c04961b75f9c622a73836bde741310a77b8a26be0633446b88ba80e1c920",
+      "soft_match_fingerprint": "78adda385f5366ec833ea943ea803f82ab86183c7c8f39678d4f7af253c1b5a8",
+      "_computed_fingerprint": "ab9e8021b49253c0996d3f627e64b1f3bb2327b6586939a887c0f41323a78da3"
+    }
+  ]
+}

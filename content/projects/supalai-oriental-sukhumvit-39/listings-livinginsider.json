@@ -1,0 +1,496 @@
+{
+  "project_slug": "supalai-oriental-sukhumvit-39",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2582",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/18/2582/Condo/all/all/1/Condo-Supalai-Oriental-Sukhumvit-39.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3009064",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายด่วน ห้องเปล่า 2 นอน ชั้น 12 ตึก D Supalai Oriental Sukhumvit 39",
+        "zh": "ขายด่วน ห้องเปล่า 2 นอน ชั้น 12 ตึก D Supalai Oriental Sukhumvit 39",
+        "th": "ขายด่วน ห้องเปล่า 2 นอน ชั้น 12 ตึก D Supalai Oriental Sukhumvit 39"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 10,000,000 THB. Source LivingInsider #3009064.",
+        "zh": "出租：2卧，30㎡，10,000,000 泰铢。来源 LivingInsider #3009064。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 10,000,000 บาท (LivingInsider #3009064)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3009064. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3009064。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3009064 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3009064",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3009064.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3009064",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3009064",
+      "source_url_hash": "9b2a0a70830a5326b6bf5231b095b9c9e1ef48a2d67ee21ba46366548b68196c",
+      "duplicate_fingerprint": "5c2c13261717d06bc4c5cb878f47e9482e632f9a2f5a628bfa6406b1e83f190d",
+      "soft_match_fingerprint": "34fe89c0c31542029c11cc408568909cbe7abfa7bfdfbccdd1a7f23b4fe0e406",
+      "_computed_fingerprint": "42bde1161f8a3c96b585c5508482fcdf8a2174aad64527f7ef722c02561a571a"
+    },
+    {
+      "external_ref": "livinginsider-1824294",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 11000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "layout พิเศษสำหรับ 2ห้องนอน 2 ห้องน้ำ 1 ห้องทำงาน ระบบเติมอากาศหมุนเวียน positive pressure ไร้ฝุ่น PM2.5 Minimal, Craft &amp; Cozy",
+        "zh": "layout พิเศษสำหรับ 2ห้องนอน 2 ห้องน้ำ 1 ห้องทำงาน ระบบเติมอากาศหมุนเวียน positive pressure ไร้ฝุ่น PM2.5 Minimal, Craft &amp; Cozy",
+        "th": "layout พิเศษสำหรับ 2ห้องนอน 2 ห้องน้ำ 1 ห้องทำงาน ระบบเติมอากาศหมุนเวียน positive pressure ไร้ฝุ่น PM2.5 Minimal, Craft &amp; Cozy"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 11,000,000 THB. Source LivingInsider #1824294.",
+        "zh": "出租：2卧，30㎡，11,000,000 泰铢。来源 LivingInsider #1824294。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 11,000,000 บาท (LivingInsider #1824294)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1824294. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1824294。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1824294 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1824294",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1824294.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1824294",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1824294",
+      "source_url_hash": "15b64a613b3cece0825c6b36cec644e838f956ce5f36275949d3a6ccc2cf2291",
+      "duplicate_fingerprint": "a6713e85ac8695362d0cf88fb4db22fc1de87a5b1cfdc435306e129f887476e2",
+      "soft_match_fingerprint": "1cd23804f3f62d73aea69cf40b6ad4499387c53a7f1f39c0c0d814b3dafd391a",
+      "_computed_fingerprint": "9304a42ff478051f246cfd995b4d32c7a8d2834e25b3012ccd869d0ebb5b774d"
+    },
+    {
+      "external_ref": "livinginsider-2870006",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25999,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "❗️พร้อมให้ชมทันที ไม่ต้องนัดล่วงหน้า❗️🔥Ready to View – No Appointment Needed🔥",
+        "zh": "❗️พร้อมให้ชมทันที ไม่ต้องนัดล่วงหน้า❗️🔥Ready to View – No Appointment Needed🔥",
+        "th": "❗️พร้อมให้ชมทันที ไม่ต้องนัดล่วงหน้า❗️🔥Ready to View – No Appointment Needed🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 25,999 THB. Source LivingInsider #2870006.",
+        "zh": "出租：1卧，30㎡，25,999 泰铢。来源 LivingInsider #2870006。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 25,999 บาท (LivingInsider #2870006)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2870006. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2870006。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2870006 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2870006",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2870006.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2870006",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2870006",
+      "source_url_hash": "1045ce6d154866319b9d89b566f498e293369162024ce10bca1232e65f154135",
+      "duplicate_fingerprint": "d088144802b9f57e54282e53c8f6463b5ae00a340509d834876256c7562b8324",
+      "soft_match_fingerprint": "7533704951e3f7fe64e25cae15319b3415d865c86f31540e0f9782b6e317ac18",
+      "_computed_fingerprint": "071d718da2ed611fe30047e9d9995cc636c47aa40cf0720ee0be5ac8baea55b0"
+    },
+    {
+      "external_ref": "livinginsider-1143656",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 39000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 77,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "2 ห้องนอน 2 ห้องน้ำ ให้เช่าที่ ศุภาลัย โอเรียนทัล สุขุมวิท39 เฟอร์ครบ เครื่องใช้ไฟฟ้าครบ พร้อมอยู่",
+        "zh": "2 ห้องนอน 2 ห้องน้ำ ให้เช่าที่ ศุภาลัย โอเรียนทัล สุขุมวิท39 เฟอร์ครบ เครื่องใช้ไฟฟ้าครบ พร้อมอยู่",
+        "th": "2 ห้องนอน 2 ห้องน้ำ ให้เช่าที่ ศุภาลัย โอเรียนทัล สุขุมวิท39 เฟอร์ครบ เครื่องใช้ไฟฟ้าครบ พร้อมอยู่"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 77 sq.m., 39,000 THB. Source LivingInsider #1143656.",
+        "zh": "出租：2卧，77㎡，39,000 泰铢。来源 LivingInsider #1143656。",
+        "th": "เช่า: 2 นอน 77 ตร.ม. ราคา 39,000 บาท (LivingInsider #1143656)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1143656. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1143656。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1143656 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1143656",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1143656.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1143656",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1143656",
+      "source_url_hash": "1b4f62f826472f087cce7d07dac4df263154b81121213eecc66e17f4f7fd9a96",
+      "duplicate_fingerprint": "5b55fbbaa0ff3ff06a7b2462a69bdf536538d47c5f944f3960e4dd60cb6040ff",
+      "soft_match_fingerprint": "85229f2461df3ab63e6e9672839eaa8013a7041ab0905958abad411fd19044d8",
+      "_computed_fingerprint": "66ce035b979c04ad10354da9344ee190a66f9c0540e6017199f92a661059fae4"
+    },
+    {
+      "external_ref": "livinginsider-2986502",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 60000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 101,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "Best room 💗ให้เช่า Supalai Oriental Sukhumvit 39 ห้องสวย น่าอยู่มาก ชั้นสูง วิวเมือง ตกแต่งครบพร้อมเข้าอยู่ ",
+        "zh": "Best room 💗ให้เช่า Supalai Oriental Sukhumvit 39 ห้องสวย น่าอยู่มาก ชั้นสูง วิวเมือง ตกแต่งครบพร้อมเข้าอยู่ ",
+        "th": "Best room 💗ให้เช่า Supalai Oriental Sukhumvit 39 ห้องสวย น่าอยู่มาก ชั้นสูง วิวเมือง ตกแต่งครบพร้อมเข้าอยู่ "
+      },
+      "summary": {
+        "en": "Rent: 2BR, 101 sq.m., 60,000 THB. Source LivingInsider #2986502.",
+        "zh": "出租：2卧，101㎡，60,000 泰铢。来源 LivingInsider #2986502。",
+        "th": "เช่า: 2 นอน 101 ตร.ม. ราคา 60,000 บาท (LivingInsider #2986502)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2986502. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2986502。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2986502 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2986502",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2986502.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2986502",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2986502",
+      "source_url_hash": "01af119dc2d9a71286c8a559344dfca14e97aae06fa2b519445da1459aba5d8a",
+      "duplicate_fingerprint": "cfdc745301e1ddb4c36fdaae0c2f50c84ab491618c6d5b8bde5802dd755809d6",
+      "soft_match_fingerprint": "649e88680e93fd0c51e447c2f764299a843ce0b3dbbec98482fe354014c13024",
+      "_computed_fingerprint": "14631848bb837a210b060c4c3d311f26a4dfcf63653f73a37f52fe07652f1aae"
+    },
+    {
+      "external_ref": "livinginsider-3140287",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 130000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqm": 156,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "For Rent | Supalai Oriental Sukhumvit 39 3 Beds",
+        "zh": "For Rent | Supalai Oriental Sukhumvit 39 3 Beds",
+        "th": "For Rent | Supalai Oriental Sukhumvit 39 3 Beds"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 156 sq.m., 130,000 THB. Source LivingInsider #3140287.",
+        "zh": "出租：3卧，156㎡，130,000 泰铢。来源 LivingInsider #3140287。",
+        "th": "เช่า: 3 นอน 156 ตร.ม. ราคา 130,000 บาท (LivingInsider #3140287)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3140287. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3140287。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3140287 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3140287",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3140287.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3140287",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3140287",
+      "source_url_hash": "55e06f0fc80c8582b38c599e1f5a1ba951dbd929b5a5ec820dcbf53ac0dfa0a6",
+      "duplicate_fingerprint": "046b72c34e3f4c72374e73659c8eb0378e5091e31924efd466af70cf2dac7859",
+      "soft_match_fingerprint": "c17ddf1a8a2d291df6c05ea71319d153a8904d8ac22b584149c6383d6bcc8655",
+      "_computed_fingerprint": "41d672e55a02d0d24a108a7d3b1ee980e479251222123959d4c8e83a9079580c"
+    },
+    {
+      "external_ref": "livinginsider-3100032",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 23500000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqm": 145.01,
+      "floor_label": "28",
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด Supalai Oriental Sukhumvit 39 ราคา 23,500,000 บาท [MKs260601]",
+        "zh": "ขายคอนโด Supalai Oriental Sukhumvit 39 ราคา 23,500,000 บาท [MKs260601]",
+        "th": "ขายคอนโด Supalai Oriental Sukhumvit 39 ราคา 23,500,000 บาท [MKs260601]"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 145.01 sq.m., 23,500,000 THB. Source LivingInsider #3100032.",
+        "zh": "出租：3卧，145.01㎡，23,500,000 泰铢。来源 LivingInsider #3100032。",
+        "th": "เช่า: 3 นอน 145.01 ตร.ม. ราคา 23,500,000 บาท (LivingInsider #3100032)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3100032. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3100032。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3100032 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3100032",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3100032.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3100032",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3100032",
+      "source_url_hash": "80ddc9bbc8d00f59e02f1cb01bd0aa6a90b0b537c48155371b57f31a28811d76",
+      "duplicate_fingerprint": "c0ea28ba819b70f753be619a610dbe8aeca3c2f253f0005e075f589798777118",
+      "soft_match_fingerprint": "b58fd0e4837be4781e4cdcf3e945490a2fe71bbb963e109a2894bfbadf1c72b4",
+      "_computed_fingerprint": "0c42d45423f41c88c5883e45df8fc7e514b740e04e26b12c42ebc63711467378"
+    },
+    {
+      "external_ref": "livinginsider-3145449",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44.33,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายพร้อมผู้เช่า Supalai Oriental Sukhumvit 39 ห้อง 1 ห้องนอน 44.33 ตร.ม. ชั้น 11 อาคาร A เพียง 5.6 ล้านบาท",
+        "zh": "ขายพร้อมผู้เช่า Supalai Oriental Sukhumvit 39 ห้อง 1 ห้องนอน 44.33 ตร.ม. ชั้น 11 อาคาร A เพียง 5.6 ล้านบาท",
+        "th": "ขายพร้อมผู้เช่า Supalai Oriental Sukhumvit 39 ห้อง 1 ห้องนอน 44.33 ตร.ม. ชั้น 11 อาคาร A เพียง 5.6 ล้านบาท"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44.33 sq.m., 5,600,000 THB. Source LivingInsider #3145449.",
+        "zh": "出租：1卧，44.33㎡，5,600,000 泰铢。来源 LivingInsider #3145449。",
+        "th": "เช่า: 1 นอน 44.33 ตร.ม. ราคา 5,600,000 บาท (LivingInsider #3145449)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3145449. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3145449。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3145449 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3145449",
+      "source_updated_at": "2026-08-10",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3145449.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3145449",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3145449",
+      "source_url_hash": "993b20098ae294d41a81a97746a01d7514580eceaa8826f639d4a40294965c3a",
+      "duplicate_fingerprint": "56acae75f500022d13988d099b90927a4823a32aff52e39fb9570a8af057772d",
+      "soft_match_fingerprint": "32fd4b89bf64e77c300080a156b13cd6070ecc7a687e0ae326d255091731a10a",
+      "_computed_fingerprint": "162d7ec5386597d9cbe65b596dc7318d18890e1dbff6d38341059625a2efc146"
+    },
+    {
+      "external_ref": "livinginsider-3144488",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "Supalai Oriental สุขุมวิท 39 ศุภาลัย โอเรียนทัล สุขุมวิท 39",
+        "zh": "Supalai Oriental สุขุมวิท 39 ศุภาลัย โอเรียนทัล สุขุมวิท 39",
+        "th": "Supalai Oriental สุขุมวิท 39 ศุภาลัย โอเรียนทัล สุขุมวิท 39"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 9,500,000 THB. Source LivingInsider #3144488.",
+        "zh": "出租：2卧，30㎡，9,500,000 泰铢。来源 LivingInsider #3144488。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 9,500,000 บาท (LivingInsider #3144488)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3144488. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3144488。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3144488 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3144488",
+      "source_updated_at": "2026-08-10",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3144488.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3144488",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3144488",
+      "source_url_hash": "4fa21e65bed00026e4a68cfd019a255f18bc952583acacc72771e3128ba9c8b5",
+      "duplicate_fingerprint": "10c0565e051e4e39a2104b1e2d79f9d665ec9de7b4a642a41db5f02c038a08d9",
+      "soft_match_fingerprint": "9efa5c49e136f709fb7b73c782b8bfd057098c3adb0479848e9bcda57553389f",
+      "_computed_fingerprint": "45b182e1786d7c75a58a880dac0a263c6d62b98de8717e9aa6947623ae5dbb7d"
+    }
+  ]
+}

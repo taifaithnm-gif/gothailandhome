@@ -1,0 +1,442 @@
+{
+  "project_slug": "chapter-one-midtown-ladprao-24",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "50",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/10/50/Condo/all/all/1/Condo-Chapter-one-Mid-Town-Ladprao-24.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-506263",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "🔆คอนโดใกล้รถไฟฟ้า🔆♨️🔥ขายคอนโดChapter One Midtown24 ♨️ 💥ติดถนน ทำเลทอง ใกล้สถานีรถไฟฟ้า 2 สาย 💥 รถไฟฟ้าสายสีน้ำเงิน MRT ลาดพร้าว และรถไฟฟ้าสายสีเหลือง สถานีต้นทาง สถานีลาดพร้าว ทำเลดีเยี่ยม 🙏🏻ไม่มีผลกระทบจากแผ่นดินไหว 🙏🏻💢💢ห้องสวย ทำเลเด่น💢💢",
+        "zh": "🔆คอนโดใกล้รถไฟฟ้า🔆♨️🔥ขายคอนโดChapter One Midtown24 ♨️ 💥ติดถนน ทำเลทอง ใกล้สถานีรถไฟฟ้า 2 สาย 💥 รถไฟฟ้าสายสีน้ำเงิน MRT ลาดพร้าว และรถไฟฟ้าสายสีเหลือง สถานีต้นทาง สถานีลาดพร้าว ทำเลดีเยี่ยม 🙏🏻ไม่มีผลกระทบจากแผ่นดินไหว 🙏🏻💢💢ห้องสวย ทำเลเด่น💢💢",
+        "th": "🔆คอนโดใกล้รถไฟฟ้า🔆♨️🔥ขายคอนโดChapter One Midtown24 ♨️ 💥ติดถนน ทำเลทอง ใกล้สถานีรถไฟฟ้า 2 สาย 💥 รถไฟฟ้าสายสีน้ำเงิน MRT ลาดพร้าว และรถไฟฟ้าสายสีเหลือง สถานีต้นทาง สถานีลาดพร้าว ทำเลดีเยี่ยม 🙏🏻ไม่มีผลกระทบจากแผ่นดินไหว 🙏🏻💢💢ห้องสวย ทำเลเด่น💢💢"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 24 sq.m., 3,000,000 THB. Source LivingInsider #506263.",
+        "zh": "出租：1卧，24㎡，3,000,000 泰铢。来源 LivingInsider #506263。",
+        "th": "เช่า: 1 นอน 24 ตร.ม. ราคา 3,000,000 บาท (LivingInsider #506263)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 506263. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 506263。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 506263 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_506263",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/506263.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "506263",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_506263",
+      "source_url_hash": "c8ba9b0d788b7ed389965ccdf5d46895201b0f2f10f9c5207600141816439c51",
+      "duplicate_fingerprint": "8ed0ed45864dffb36441a974513c251e75f5ccdaaaa1ed4777df6cacb40fe310",
+      "soft_match_fingerprint": "f2a14f0ac67f7f1375a5711a036338cce8a8b17bd57766bebbc063c2c9d81717",
+      "_computed_fingerprint": "b8c389669f7bda2e908be135a7acc03ddd2f9b8fd3dc8c075287118f4474b670"
+    },
+    {
+      "external_ref": "livinginsider-1928367",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  แชปเตอร์ วัน มิดทาวน์ ลาดพร้าว24 BTS-ห้าแยกลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ CX-36344",
+        "zh": "ขายคอนโด  แชปเตอร์ วัน มิดทาวน์ ลาดพร้าว24 BTS-ห้าแยกลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ CX-36344",
+        "th": "ขายคอนโด  แชปเตอร์ วัน มิดทาวน์ ลาดพร้าว24 BTS-ห้าแยกลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ CX-36344"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,600,000 THB. Source LivingInsider #1928367.",
+        "zh": "出租：1卧，30㎡，2,600,000 泰铢。来源 LivingInsider #1928367。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,600,000 บาท (LivingInsider #1928367)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1928367. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1928367。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1928367 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1928367",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1928367.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1928367",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1928367",
+      "source_url_hash": "22f3f227c0b0749f9e89e79d30e7ddd8691b2c3360b0504064b0470f0f3a886a",
+      "duplicate_fingerprint": "5bd922e5d4941e0fd460d0ae1b282ef886de4c273c639482416c65fdf34d1316",
+      "soft_match_fingerprint": "bb494bbf3079f83d99284391856d30bb023b179fef2d330ea52a6a1f1d55e078",
+      "_computed_fingerprint": "1f821d611bb28f525f933368d9b6bc81c9c8b7303640fc6c660951abf526ffa8"
+    },
+    {
+      "external_ref": "livinginsider-3060587",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  แชปเตอร์ วัน มิดทาวน์ ลาดพร้าว24 BTS-ห้าแยกลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ CX-36471",
+        "zh": "ขายคอนโด  แชปเตอร์ วัน มิดทาวน์ ลาดพร้าว24 BTS-ห้าแยกลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ CX-36471",
+        "th": "ขายคอนโด  แชปเตอร์ วัน มิดทาวน์ ลาดพร้าว24 BTS-ห้าแยกลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ CX-36471"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,200,000 THB. Source LivingInsider #3060587.",
+        "zh": "出租：1卧，30㎡，3,200,000 泰铢。来源 LivingInsider #3060587。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,200,000 บาท (LivingInsider #3060587)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3060587. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3060587。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3060587 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3060587",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3060587.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3060587",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3060587",
+      "source_url_hash": "412d0886fcf0677e710cf51da02e3cc6fca6c77e30775b53fcd1db089ef60804",
+      "duplicate_fingerprint": "d34de1c5f79da58f47fcd86d401dad08a5a0917b01dceba43aef2ad4634a2198",
+      "soft_match_fingerprint": "26100cddfd188ea2d67d95120dbd8b985c20e52e1b26baf580f7983e46ff74df",
+      "_computed_fingerprint": "c839f29633397cc38d54351d64f3267b663d5516acfa0ae4209f84d06d2cd98a"
+    },
+    {
+      "external_ref": "livinginsider-2801906",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6300000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  แชปเตอร์ วัน มิดทาวน์ ลาดพร้าว24 วิวสวย ชั้นสูง ห้องมุม MRT-ลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ CX-125748",
+        "zh": "ขายคอนโด  แชปเตอร์ วัน มิดทาวน์ ลาดพร้าว24 วิวสวย ชั้นสูง ห้องมุม MRT-ลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ CX-125748",
+        "th": "ขายคอนโด  แชปเตอร์ วัน มิดทาวน์ ลาดพร้าว24 วิวสวย ชั้นสูง ห้องมุม MRT-ลาดพร้าว จอมพล  เขต จตุจักร กรุงเทพ CX-125748"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 6,300,000 THB. Source LivingInsider #2801906.",
+        "zh": "出租：2卧，30㎡，6,300,000 泰铢。来源 LivingInsider #2801906。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 6,300,000 บาท (LivingInsider #2801906)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2801906. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2801906。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2801906 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2801906",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2801906.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2801906",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2801906",
+      "source_url_hash": "9e2a1ee6224587700ba6d869da51467975620f47f1e4a7200205c0493e7dafd2",
+      "duplicate_fingerprint": "db9b559770739dec8a66872adcbafe8e59696d0bd95df0ad49c81b1d6701c894",
+      "soft_match_fingerprint": "c9136b46a003abc7143cd0679f23a9a1cf58dfc3987ce1a1d846bccb57134982",
+      "_computed_fingerprint": "4e7d46c3b68e6ba12e619b53d1c3b68f58be2d4f2aa8906a61f261966424448c"
+    },
+    {
+      "external_ref": "livinginsider-2800083",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31.65,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "Chapter one Mid Town Ladprao 24 / 1 Bedroom (SALE WITH TENANT), แชปเตอร์วัน มิดทาวน์ ลาดพร้าว 24 / 1 ห้องนอน (ขายพร้อมผู้เช่า) JSMN245",
+        "zh": "Chapter one Mid Town Ladprao 24 / 1 Bedroom (SALE WITH TENANT), แชปเตอร์วัน มิดทาวน์ ลาดพร้าว 24 / 1 ห้องนอน (ขายพร้อมผู้เช่า) JSMN245",
+        "th": "Chapter one Mid Town Ladprao 24 / 1 Bedroom (SALE WITH TENANT), แชปเตอร์วัน มิดทาวน์ ลาดพร้าว 24 / 1 ห้องนอน (ขายพร้อมผู้เช่า) JSMN245"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31.65 sq.m., 3,900,000 THB. Source LivingInsider #2800083.",
+        "zh": "出租：1卧，31.65㎡，3,900,000 泰铢。来源 LivingInsider #2800083。",
+        "th": "เช่า: 1 นอน 31.65 ตร.ม. ราคา 3,900,000 บาท (LivingInsider #2800083)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2800083. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2800083。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2800083 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2800083",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2800083.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2800083",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2800083",
+      "source_url_hash": "55b177d48e0d746c50b2204e3f9d75ca353b8a03d6d88ad7b8e25bcfac8e562c",
+      "duplicate_fingerprint": "e327a58203ce324ce5bcb7e17b8a44700e3224b0a5b848d485b83d8c840db8ef",
+      "soft_match_fingerprint": "d70c837c1f5d42b757fadb2275662ccc4f1fdc03b634a0748db1d74fed1b2a06",
+      "_computed_fingerprint": "6a66900909e93e280a5769af2dddbebb589fd9819be82e2a7cd47c3864a34e33"
+    },
+    {
+      "external_ref": "livinginsider-3033656",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5800000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 59,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 ขายด่วน 🔥  ถูกสุด ห้องสวย กว้าง  ขายหลายห้อง  Call : 0619824959 Line ID :  elegant.289",
+        "zh": "🔥 ขายด่วน 🔥  ถูกสุด ห้องสวย กว้าง  ขายหลายห้อง  Call : 0619824959 Line ID :  elegant.289",
+        "th": "🔥 ขายด่วน 🔥  ถูกสุด ห้องสวย กว้าง  ขายหลายห้อง  Call : 0619824959 Line ID :  elegant.289"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 59 sq.m., 5,800,000 THB. Source LivingInsider #3033656.",
+        "zh": "出租：2卧，59㎡，5,800,000 泰铢。来源 LivingInsider #3033656。",
+        "th": "เช่า: 2 นอน 59 ตร.ม. ราคา 5,800,000 บาท (LivingInsider #3033656)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3033656. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3033656。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3033656 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3033656",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3033656.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3033656",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3033656",
+      "source_url_hash": "036d7cb10867828312436ff405bd772d42ce68bc2b6c815ce63ca22a2d56fbc4",
+      "duplicate_fingerprint": "46575e93c9d33768807c30a509a0683848dc37bf60070da2ed4c77e3463ab00a",
+      "soft_match_fingerprint": "2dbb16a4ed7d1765116a62c0e92857a5e8964d998d2cb849e55780fd8762efb7",
+      "_computed_fingerprint": "d84b06f00cd24ef3d2a1cf659339df0f1eea75f493f44f9b22e0a52b7507a052"
+    },
+    {
+      "external_ref": "livinginsider-3085433",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2750000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 ขายด่วน 🔥 ขาดทุน  ไม่เคยมีราคานี้ ถูกสุด ห้องสวย    Call : 0619824959 Line ID :  elegant.289",
+        "zh": "🔥 ขายด่วน 🔥 ขาดทุน  ไม่เคยมีราคานี้ ถูกสุด ห้องสวย    Call : 0619824959 Line ID :  elegant.289",
+        "th": "🔥 ขายด่วน 🔥 ขาดทุน  ไม่เคยมีราคานี้ ถูกสุด ห้องสวย    Call : 0619824959 Line ID :  elegant.289"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,750,000 THB. Source LivingInsider #3085433.",
+        "zh": "出租：1卧，30㎡，2,750,000 泰铢。来源 LivingInsider #3085433。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,750,000 บาท (LivingInsider #3085433)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3085433. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3085433。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3085433 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3085433",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3085433.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3085433",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3085433",
+      "source_url_hash": "ee1d2777825f7299bda0cba1211591c75b40bb0a40ae72611d6293907d21603c",
+      "duplicate_fingerprint": "7aade34060ac3d0c1a564b29747c39bb84f099ac7f3f93647ddf6943f344d535",
+      "soft_match_fingerprint": "35b8decf2a0a6eecf21265cd0c7459088ddf39372c7069d93c4371bdf241b359",
+      "_computed_fingerprint": "f5b8c0b9a7239d776bce5ea401a79e85530b26c5855f5b98cf0d0753fa6b8e1e"
+    },
+    {
+      "external_ref": "livinginsider-3088957",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 39,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 ปล่อยเช่าด่วน 🔥ถูกสุด โครงการสุดฮอต  กว้าง ห้องมุม  Call : 0619824959 Line ID :  elegant.289",
+        "zh": "🔥 ปล่อยเช่าด่วน 🔥ถูกสุด โครงการสุดฮอต  กว้าง ห้องมุม  Call : 0619824959 Line ID :  elegant.289",
+        "th": "🔥 ปล่อยเช่าด่วน 🔥ถูกสุด โครงการสุดฮอต  กว้าง ห้องมุม  Call : 0619824959 Line ID :  elegant.289"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 39 sq.m., 18,000 THB. Source LivingInsider #3088957.",
+        "zh": "出租：1卧，39㎡，18,000 泰铢。来源 LivingInsider #3088957。",
+        "th": "เช่า: 1 นอน 39 ตร.ม. ราคา 18,000 บาท (LivingInsider #3088957)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3088957. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3088957。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3088957 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3088957",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3088957.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3088957",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3088957",
+      "source_url_hash": "c48730a3405bc8db15e82e10855189536a63e459a783bdbe93ea26878adfef74",
+      "duplicate_fingerprint": "1a79adebb4cf0d1fa4a05c517b8f03ddea74fc9b297a8784aef916eeb6c428b9",
+      "soft_match_fingerprint": "5cb6af471143a17599ebce4a4d9e430681507cbf68a24055ec0607eaf8150bf4",
+      "_computed_fingerprint": "2b545a2d3ce1051efc619deb6c6f5e4bfa09f83713cc08b4b0748861af48d08a"
+    }
+  ]
+}

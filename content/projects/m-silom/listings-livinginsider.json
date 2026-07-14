@@ -1,0 +1,658 @@
+{
+  "project_slug": "m-silom",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "144",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/22/144/Condo/all/all/1/Condo-M-Silom.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3109606",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 55000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 61,
+      "floor_label": "51",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "09/07/2026, 🔥 เปิดใหม่! คอนโดหรู M Silom สุดปัง ใจกลางเมือง✨ 2 นอน 61 ตร.ม. เริ่มเพียง 55,000 บาท/เดือน! 0642748883",
+        "zh": "09/07/2026, 🔥 เปิดใหม่! คอนโดหรู M Silom สุดปัง ใจกลางเมือง✨ 2 นอน 61 ตร.ม. เริ่มเพียง 55,000 บาท/เดือน! 0642748883",
+        "th": "09/07/2026, 🔥 เปิดใหม่! คอนโดหรู M Silom สุดปัง ใจกลางเมือง✨ 2 นอน 61 ตร.ม. เริ่มเพียง 55,000 บาท/เดือน! 0642748883"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 61 sq.m., 55,000 THB. Source LivingInsider #3109606.",
+        "zh": "出租：2卧，61㎡，55,000 泰铢。来源 LivingInsider #3109606。",
+        "th": "เช่า: 2 นอน 61 ตร.ม. ราคา 55,000 บาท (LivingInsider #3109606)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3109606. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3109606。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3109606 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3109606",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3109606.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3109606",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3109606",
+      "source_url_hash": "2896c27f630d83bb844f7819ef70cc736b9a74f49aac78cd9ea5070934ad4963",
+      "duplicate_fingerprint": "8aa20a05f13e0b8090a7ff6f5a417e2052f86a34194747880b4dc0a3b6b50ce7",
+      "soft_match_fingerprint": "b09fa74a62105b9cd317feec4159733140c436c45efb2fbf6cde62f8c7a4da49",
+      "_computed_fingerprint": "b0d6f5f7e3bb10b126f50b36e524fda47c27d9a3666a68755ab1ad5f45a412f0"
+    },
+    {
+      "external_ref": "livinginsider-2850915",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 53,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "09/07/2026, เช่าคอนโด M Silom 1 ห้องนอน ใกล้ BTS Chong Nonsi ตกแต่งพร้อม อยู่สบาย ฟรีสิ่งอำนวยความสะดวกครบ! 0642748883",
+        "zh": "09/07/2026, เช่าคอนโด M Silom 1 ห้องนอน ใกล้ BTS Chong Nonsi ตกแต่งพร้อม อยู่สบาย ฟรีสิ่งอำนวยความสะดวกครบ! 0642748883",
+        "th": "09/07/2026, เช่าคอนโด M Silom 1 ห้องนอน ใกล้ BTS Chong Nonsi ตกแต่งพร้อม อยู่สบาย ฟรีสิ่งอำนวยความสะดวกครบ! 0642748883"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 53 sq.m., 35,000 THB. Source LivingInsider #2850915.",
+        "zh": "出租：1卧，53㎡，35,000 泰铢。来源 LivingInsider #2850915。",
+        "th": "เช่า: 1 นอน 53 ตร.ม. ราคา 35,000 บาท (LivingInsider #2850915)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2850915. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2850915。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2850915 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2850915",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2850915.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2850915",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2850915",
+      "source_url_hash": "3d6deba21fc5476de35e22acba91f25feca016fae211e0913786b77265eb6ec5",
+      "duplicate_fingerprint": "82dd080ff790e521e61f53f21630f064abea58ba893ec17419b36aa288008b80",
+      "soft_match_fingerprint": "dd04920b26030ffa6f07133729b0e8d5fdb2289896c8283c01ceaccbe84726a2",
+      "_computed_fingerprint": "4d4419df209fd2c63261c151eb45711ae20531e1cb6a8101ce20a27ed13b1216"
+    },
+    {
+      "external_ref": "livinginsider-3038159",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 55000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 61.16,
+      "floor_label": "51",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "09/07/2026, 0642748883",
+        "zh": "09/07/2026, 0642748883",
+        "th": "09/07/2026, 0642748883"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 61.16 sq.m., 55,000 THB. Source LivingInsider #3038159.",
+        "zh": "出租：2卧，61.16㎡，55,000 泰铢。来源 LivingInsider #3038159。",
+        "th": "เช่า: 2 นอน 61.16 ตร.ม. ราคา 55,000 บาท (LivingInsider #3038159)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3038159. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3038159。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3038159 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3038159",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3038159.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3038159",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3038159",
+      "source_url_hash": "ae8c9b4c40916e84e6b3088c994ca070dd3ec81e9d6fff8dd656af61a201ff28",
+      "duplicate_fingerprint": "02b7ebad9b5c2906273eaf5c1011b65d7fd37e629b3acacff5e6494ee1aa7a49",
+      "soft_match_fingerprint": "cfeac12161e0e0e20abb150ccc5b08d4aa0195b777c42a201d00cc4328d48ece",
+      "_computed_fingerprint": "ee96d00b4a2f1b80aede93930b2545dd52f5e3afe4f5e692ebd71f0812d866fd"
+    },
+    {
+      "external_ref": "livinginsider-2997812",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 119000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 160,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥Rent 2BR🔥160sqm🔥Big Balconi with Jacuzzi🔥119,000/month🔥M Silom🔥",
+        "zh": "🔥Rent 2BR🔥160sqm🔥Big Balconi with Jacuzzi🔥119,000/month🔥M Silom🔥",
+        "th": "🔥Rent 2BR🔥160sqm🔥Big Balconi with Jacuzzi🔥119,000/month🔥M Silom🔥"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 160 sq.m., 119,000 THB. Source LivingInsider #2997812.",
+        "zh": "出租：2卧，160㎡，119,000 泰铢。来源 LivingInsider #2997812。",
+        "th": "เช่า: 2 นอน 160 ตร.ม. ราคา 119,000 บาท (LivingInsider #2997812)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2997812. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2997812。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2997812 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2997812",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2997812.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2997812",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2997812",
+      "source_url_hash": "8c98b30190b0de68a7d9078b1efe44af15d54fb787d8b5d48265cc2977b2747d",
+      "duplicate_fingerprint": "7e9b5b35ac6d9f9e81fd8eceb541e31605be157f984a58a0b8385efe723e1154",
+      "soft_match_fingerprint": "0f10b2574ae9ff2332f18a042cb7c59add60decc22938df6d2e65c6a2af494c5",
+      "_computed_fingerprint": "438399db645ecb1d833f6963d4893930b22f456205df559d5c94505045623bf2"
+    },
+    {
+      "external_ref": "livinginsider-2921752",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 120000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqm": 150,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า 3 ห้องนอน 3 น้ำ ขนาด 150ตรม ราคา 120,000 บาท สนใจนัดชม 0808144488",
+        "zh": "ให้เช่า 3 ห้องนอน 3 น้ำ ขนาด 150ตรม ราคา 120,000 บาท สนใจนัดชม 0808144488",
+        "th": "ให้เช่า 3 ห้องนอน 3 น้ำ ขนาด 150ตรม ราคา 120,000 บาท สนใจนัดชม 0808144488"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 150 sq.m., 120,000 THB. Source LivingInsider #2921752.",
+        "zh": "出租：3卧，150㎡，120,000 泰铢。来源 LivingInsider #2921752。",
+        "th": "เช่า: 3 นอน 150 ตร.ม. ราคา 120,000 บาท (LivingInsider #2921752)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2921752. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2921752。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2921752 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2921752",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2921752.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2921752",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2921752",
+      "source_url_hash": "08e5fc43b6dd5dad6e3a1f9910b8ba240efe6f31466dd50ef8ccd322edc5b4a1",
+      "duplicate_fingerprint": "472ab015fd4c4f234699c94e703b2c6f91be3ab6162e6f9e96ab2558c41f108d",
+      "soft_match_fingerprint": "720a487ae27e47ef6ccafef86fff3042e0d059cf76cfff7bd87e1f125122ca85",
+      "_computed_fingerprint": "0f51416d49b2d4932271fb18be648090d27d9125a8247e1328706f3fc27ebce7"
+    },
+    {
+      "external_ref": "livinginsider-2393037",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 55000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 88,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "🟢M SILOM 🐶#Petfriendly🐱เอ็ม สีลม #เลี้ยงสัตว์ได้ยูนิตน้อย(5-6units/floor)",
+        "zh": "🟢M SILOM 🐶#Petfriendly🐱เอ็ม สีลม #เลี้ยงสัตว์ได้ยูนิตน้อย(5-6units/floor)",
+        "th": "🟢M SILOM 🐶#Petfriendly🐱เอ็ม สีลม #เลี้ยงสัตว์ได้ยูนิตน้อย(5-6units/floor)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 88 sq.m., 55,000 THB. Source LivingInsider #2393037.",
+        "zh": "出租：2卧，88㎡，55,000 泰铢。来源 LivingInsider #2393037。",
+        "th": "เช่า: 2 นอน 88 ตร.ม. ราคา 55,000 บาท (LivingInsider #2393037)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2393037. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2393037。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2393037 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2393037",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2393037.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2393037",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2393037",
+      "source_url_hash": "48021f3dad1af124f99b71f0591cb5280faff8d48ce2e05442e40069b37a6b3b",
+      "duplicate_fingerprint": "f0e605f0b78581b7a2ceddff7e703957596f2acf203b063508793deeccb10bc0",
+      "soft_match_fingerprint": "df94a28a6d7befd1da9c169e06535374cee030888c2f42a9e49be67f77929c14",
+      "_computed_fingerprint": "e6edcc46c3438ab694cc02d2a4f10570bc75cc9291c0bde3669249ea70b649d8"
+    },
+    {
+      "external_ref": "livinginsider-3146371",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8789000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥MD-26066387 Rare Item ห้องสวย ราคาต่ำกว่าตลาด เอ็ม สีลม รีบจองก่อนหลุด 🔥",
+        "zh": "🔥MD-26066387 Rare Item ห้องสวย ราคาต่ำกว่าตลาด เอ็ม สีลม รีบจองก่อนหลุด 🔥",
+        "th": "🔥MD-26066387 Rare Item ห้องสวย ราคาต่ำกว่าตลาด เอ็ม สีลม รีบจองก่อนหลุด 🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 8,789,000 THB. Source LivingInsider #3146371.",
+        "zh": "出租：1卧，30㎡，8,789,000 泰铢。来源 LivingInsider #3146371。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 8,789,000 บาท (LivingInsider #3146371)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3146371. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3146371。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3146371 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3146371",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3146371.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3146371",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3146371",
+      "source_url_hash": "f3a87181261264fe83d8abf7c0f6a5e3070003d56c5f428332eb1cea0ba4bf41",
+      "duplicate_fingerprint": "47ae04dff76229cd0a96d88d8aa7b70458311a8f27b9ddce7460668b8870450e",
+      "soft_match_fingerprint": "867d0c99f48a9d6823ef06dd5ba106e12599658a2c4dc2b680f6d02e78277eb4",
+      "_computed_fingerprint": "de3c7b6abdc92636fdd66b0881b6b65f3db4c1db398f25b553ee384b83420363"
+    },
+    {
+      "external_ref": "livinginsider-3146362",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8789000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥MD-26066387 Rare Item ห้องสวย ราคาต่ำกว่าตลาด เอ็ม สีลม รีบจองก่อนหลุด 🔥",
+        "zh": "🔥MD-26066387 Rare Item ห้องสวย ราคาต่ำกว่าตลาด เอ็ม สีลม รีบจองก่อนหลุด 🔥",
+        "th": "🔥MD-26066387 Rare Item ห้องสวย ราคาต่ำกว่าตลาด เอ็ม สีลม รีบจองก่อนหลุด 🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 8,789,000 THB. Source LivingInsider #3146362.",
+        "zh": "出租：1卧，30㎡，8,789,000 泰铢。来源 LivingInsider #3146362。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 8,789,000 บาท (LivingInsider #3146362)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3146362. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3146362。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3146362 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3146362",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3146362.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3146362",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3146362",
+      "source_url_hash": "c56838fdb567f39095403e1976ea1d443c8ce05a38d1b9111d7d5a42a7a6aaec",
+      "duplicate_fingerprint": "4b4bafc3fb4a4477bb0c4e8c77acec9ac5fb07e40e5248e3f1e9e79f085dc25f",
+      "soft_match_fingerprint": "867d0c99f48a9d6823ef06dd5ba106e12599658a2c4dc2b680f6d02e78277eb4",
+      "_computed_fingerprint": "4f54fd2a23879d7a683a6c1de99f312ea41e5af77a56443d2f45165c9410a421"
+    },
+    {
+      "external_ref": "livinginsider-3146361",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8789000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥MD-26066387 Rare Item ห้องสวย ราคาต่ำกว่าตลาด เอ็ม สีลม รีบจองก่อนหลุด 🔥",
+        "zh": "🔥MD-26066387 Rare Item ห้องสวย ราคาต่ำกว่าตลาด เอ็ม สีลม รีบจองก่อนหลุด 🔥",
+        "th": "🔥MD-26066387 Rare Item ห้องสวย ราคาต่ำกว่าตลาด เอ็ม สีลม รีบจองก่อนหลุด 🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 8,789,000 THB. Source LivingInsider #3146361.",
+        "zh": "出租：1卧，30㎡，8,789,000 泰铢。来源 LivingInsider #3146361。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 8,789,000 บาท (LivingInsider #3146361)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3146361. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3146361。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3146361 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3146361",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3146361.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3146361",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3146361",
+      "source_url_hash": "7e2829bf816066765b8f2a940aa7c77dd71f58d7655c98dcf69d9e205bc801d4",
+      "duplicate_fingerprint": "c5403a2ce8e150e769fb5d6ce94962b7610c6be449d0c4b15c41ca6678484cb0",
+      "soft_match_fingerprint": "867d0c99f48a9d6823ef06dd5ba106e12599658a2c4dc2b680f6d02e78277eb4",
+      "_computed_fingerprint": "c2ee05966ebe5d7284ea1880ecc215a59facafb8f183e212a237249c0d34eb56"
+    },
+    {
+      "external_ref": "livinginsider-2105980",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 38500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 120,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "For Sale📍m silom🛀2 bed 2 bath📞0639399665",
+        "zh": "For Sale📍m silom🛀2 bed 2 bath📞0639399665",
+        "th": "For Sale📍m silom🛀2 bed 2 bath📞0639399665"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 120 sq.m., 38,500,000 THB. Source LivingInsider #2105980.",
+        "zh": "出租：2卧，120㎡，38,500,000 泰铢。来源 LivingInsider #2105980。",
+        "th": "เช่า: 2 นอน 120 ตร.ม. ราคา 38,500,000 บาท (LivingInsider #2105980)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2105980. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2105980。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2105980 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2105980",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2105980.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2105980",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2105980",
+      "source_url_hash": "4b92e940920435495eae2cc57dc79115a80a7582081aca0d1e13647780930ab8",
+      "duplicate_fingerprint": "0e7ee1af84f9d3075e98f4c9c0e98fcc294f864f35fdbc9ef3339386bc89e74b",
+      "soft_match_fingerprint": "f4a7d4f0a8a30da8fa973cc909cd3a36eb0bfa371557118e572d97b1c87bb021",
+      "_computed_fingerprint": "34f35e3549610b614132e4a04029f61f65094abfba7f3c3336e7f0db9c3f01a5"
+    },
+    {
+      "external_ref": "livinginsider-1743089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8789000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 51.7,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "ถูกสุดในตึก - ขาย M Silom 1 ห้องนอน 53 ตรม. ชั้นสูงเฟอร์ครบ พร้อมผู้เช่าผลตอบแทน 5%",
+        "zh": "ถูกสุดในตึก - ขาย M Silom 1 ห้องนอน 53 ตรม. ชั้นสูงเฟอร์ครบ พร้อมผู้เช่าผลตอบแทน 5%",
+        "th": "ถูกสุดในตึก - ขาย M Silom 1 ห้องนอน 53 ตรม. ชั้นสูงเฟอร์ครบ พร้อมผู้เช่าผลตอบแทน 5%"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 51.7 sq.m., 8,789,000 THB. Source LivingInsider #1743089.",
+        "zh": "出租：1卧，51.7㎡，8,789,000 泰铢。来源 LivingInsider #1743089。",
+        "th": "เช่า: 1 นอน 51.7 ตร.ม. ราคา 8,789,000 บาท (LivingInsider #1743089)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1743089. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1743089。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1743089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1743089",
+      "source_updated_at": "2026-08-25",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1743089.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1743089",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1743089",
+      "source_url_hash": "037822e37880cf8d29c818da1995114a44f479cdfbb1bfa8471fc047c9975ef6",
+      "duplicate_fingerprint": "54faa4b9dfbdc1c3978ad13b28e9fcba2ee8e5d47e231c7b92e0bbd201942556",
+      "soft_match_fingerprint": "29dc0ff5e5a87beb600fd44d8ac9b1e596f349621c91fc5ee2e8a08e3866435b",
+      "_computed_fingerprint": "0047dd7d1e16aab6fb5d7c901cae8d8f31bca8efb670d93682b5d19353e872f1"
+    },
+    {
+      "external_ref": "livinginsider-2079481",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เอ็ม สีลม BTS-ช่องนนทรี สุริยวงศ์ เขต บางรัก กรุงเทพ CX-93472",
+        "zh": "ขายคอนโด  เอ็ม สีลม BTS-ช่องนนทรี สุริยวงศ์ เขต บางรัก กรุงเทพ CX-93472",
+        "th": "ขายคอนโด  เอ็ม สีลม BTS-ช่องนนทรี สุริยวงศ์ เขต บางรัก กรุงเทพ CX-93472"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 8,590,000 THB. Source LivingInsider #2079481.",
+        "zh": "出租：1卧，30㎡，8,590,000 泰铢。来源 LivingInsider #2079481。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 8,590,000 บาท (LivingInsider #2079481)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2079481. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2079481。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2079481 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2079481",
+      "source_updated_at": "2026-08-08",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2079481.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2079481",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2079481",
+      "source_url_hash": "8f7509181073c178fa45050ec7a4839e06caeb236669dd87c0bf141981c2688b",
+      "duplicate_fingerprint": "972248094c3297490cf4933625561aad9000d64fe93e4d039630eaf6ffefb13a",
+      "soft_match_fingerprint": "46a60bca2dd1a6f66df555518585f2691b98125b43a7aa7a4acc4c575af1c890",
+      "_computed_fingerprint": "46621d04cc389078c6315d826a327c19f116aaf778204aace30f5612ea8c09b3"
+    }
+  ]
+}

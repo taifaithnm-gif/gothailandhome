@@ -1,0 +1,496 @@
+{
+  "project_slug": "the-lofts-silom",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2719",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/22/2719/Condo/all/all/1/Condo-The-Lofts-Silom.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3148044",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 33500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "3",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "ขาย The Lofts Silom, (Duplex) 2 ห้องนอน 2 ห้องน้ำ 118* ตรม. ชั้น 3x ราคาพิเศษเพียง 33.5 ล้านบาท (ค่าโอนฝ่ายละ 1%)",
+        "zh": "ขาย The Lofts Silom, (Duplex) 2 ห้องนอน 2 ห้องน้ำ 118* ตรม. ชั้น 3x ราคาพิเศษเพียง 33.5 ล้านบาท (ค่าโอนฝ่ายละ 1%)",
+        "th": "ขาย The Lofts Silom, (Duplex) 2 ห้องนอน 2 ห้องน้ำ 118* ตรม. ชั้น 3x ราคาพิเศษเพียง 33.5 ล้านบาท (ค่าโอนฝ่ายละ 1%)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 33,500,000 THB. Source LivingInsider #3148044.",
+        "zh": "出租：2卧，30㎡，33,500,000 泰铢。来源 LivingInsider #3148044。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 33,500,000 บาท (LivingInsider #3148044)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3148044. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3148044。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3148044 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3148044",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3148044.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3148044",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3148044",
+      "source_url_hash": "6eb0a39565a43d009ec4f86253f04cb64bbbef187f20147be23574e38d0bc4fb",
+      "duplicate_fingerprint": "8cbab25270b89218e1952e8047f7db06ce71a4494c71b622e729125f73784695",
+      "soft_match_fingerprint": "4bc491009e034be2d035f53e060d198fe725c18e44f928e4567f60d874c588ec",
+      "_computed_fingerprint": "e30ab90ce493fce00e3ea52389f70f4a823e9d33661fce4ab55aabdd0ba155e2"
+    },
+    {
+      "external_ref": "livinginsider-1586258",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9980000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด เดอะ ลอฟท์ สีลม BTS-สุรศักดิ์ สีลม เขต บางรัก กรุงเทพ CX-122125",
+        "zh": "ขายคอนโด เดอะ ลอฟท์ สีลม BTS-สุรศักดิ์ สีลม เขต บางรัก กรุงเทพ CX-122125",
+        "th": "ขายคอนโด เดอะ ลอฟท์ สีลม BTS-สุรศักดิ์ สีลม เขต บางรัก กรุงเทพ CX-122125"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 9,980,000 THB. Source LivingInsider #1586258.",
+        "zh": "出租：1卧，30㎡，9,980,000 泰铢。来源 LivingInsider #1586258。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 9,980,000 บาท (LivingInsider #1586258)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1586258. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1586258。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1586258 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1586258",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1586258.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1586258",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1586258",
+      "source_url_hash": "bc6c5f3ea3f961d73605b3f92e9085e6287e5a566f3061fbf1be57112171d90f",
+      "duplicate_fingerprint": "3cc7610cc80848380194e0d768e229264fe742c93377f3f8500ce7cb035c2904",
+      "soft_match_fingerprint": "1275d9c296d0918c051704fce937242b2c156d1c1d7edfafce9a9934b1b88872",
+      "_computed_fingerprint": "23d94f85ccc775a08497de98d5486d13bf6be9afd70c7ebb7581661852d55d26"
+    },
+    {
+      "external_ref": "livinginsider-765959",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 140000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 122,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "+++เช่าด่วน +++  The Loft Silom** 2 ห้องนอน 122 ตร.ม. แต่งครบพร้อมอยู่",
+        "zh": "+++เช่าด่วน +++  The Loft Silom** 2 ห้องนอน 122 ตร.ม. แต่งครบพร้อมอยู่",
+        "th": "+++เช่าด่วน +++  The Loft Silom** 2 ห้องนอน 122 ตร.ม. แต่งครบพร้อมอยู่"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 122 sq.m., 140,000 THB. Source LivingInsider #765959.",
+        "zh": "出租：2卧，122㎡，140,000 泰铢。来源 LivingInsider #765959。",
+        "th": "เช่า: 2 นอน 122 ตร.ม. ราคา 140,000 บาท (LivingInsider #765959)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 765959. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 765959。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 765959 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_765959",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/765959.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "765959",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_765959",
+      "source_url_hash": "3fcb1cf692060cbd809ef524833462ca6f083c44fe50ac25b3c1d1032b060ff5",
+      "duplicate_fingerprint": "d8ed8b15529c164c8af2a9b3706a3b9aedaf972c333cbe29762cc129060819b6",
+      "soft_match_fingerprint": "b3540f2c7395ace999e3fa9ae3f7cf20790e534faf3b206e23ed74e97bec3f23",
+      "_computed_fingerprint": "d0f53d1d3a29f303f21d9f9a08406f44495d6debbbb8ac2556754bcda29ca04c"
+    },
+    {
+      "external_ref": "livinginsider-3013622",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 140000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "(ว่างมีนาคม 2570) 🌟 出租曼谷豪华公寓 The Lofts Silom",
+        "zh": "(ว่างมีนาคม 2570) 🌟 出租曼谷豪华公寓 The Lofts Silom",
+        "th": "(ว่างมีนาคม 2570) 🌟 出租曼谷豪华公寓 The Lofts Silom"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 140,000 THB. Source LivingInsider #3013622.",
+        "zh": "出租：2卧，30㎡，140,000 泰铢。来源 LivingInsider #3013622。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 140,000 บาท (LivingInsider #3013622)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3013622. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3013622。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3013622 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3013622",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3013622.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3013622",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3013622",
+      "source_url_hash": "85ae982a682e0790b2b782caf01ba0b2dca28f5ea63b55ef1398a0bf2171837b",
+      "duplicate_fingerprint": "4dbcf2296675f484d867dcc51433c9303f303ddb0147b8ccfdd04a543a900fc1",
+      "soft_match_fingerprint": "aeb88a98b3a4e906a7af27aec880645fd675d8471e5b9fb3c114c98215670cdc",
+      "_computed_fingerprint": "ecf2cfe4bf303748173eff57475b82be63238e56002366dd6ea19a70801537bf"
+    },
+    {
+      "external_ref": "livinginsider-2790485",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 32000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "เช่าคอนโด  เดอะ ลอฟท์ สีลม BTS-สุรศักดิ์ สีลม เขต บางรัก กรุงเทพ CX-32029",
+        "zh": "เช่าคอนโด  เดอะ ลอฟท์ สีลม BTS-สุรศักดิ์ สีลม เขต บางรัก กรุงเทพ CX-32029",
+        "th": "เช่าคอนโด  เดอะ ลอฟท์ สีลม BTS-สุรศักดิ์ สีลม เขต บางรัก กรุงเทพ CX-32029"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 32,000 THB. Source LivingInsider #2790485.",
+        "zh": "出租：1卧，30㎡，32,000 泰铢。来源 LivingInsider #2790485。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 32,000 บาท (LivingInsider #2790485)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2790485. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2790485。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2790485 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2790485",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2790485.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2790485",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2790485",
+      "source_url_hash": "f2a94345570e6ef880dd0a1eba71fe8e38b994935ef2b3a52a75edb26db82f30",
+      "duplicate_fingerprint": "38fbd44b13d17a64fc00122f5c669b485ac832bf2de796964a56be13bb1f996f",
+      "soft_match_fingerprint": "b4906a08c53e3b7293f3667ee75a4a5e8a68442a8d57edde4750f906784bfe5d",
+      "_computed_fingerprint": "e1a225f6856ea5315473599d2b516f65274ad1b1d12ede1ac466f440b8c97970"
+    },
+    {
+      "external_ref": "livinginsider-2753536",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6950000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33.69,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥Hot deal🔥The Loft Silom ห้องสุดท้าย 1bed1bath 33.69Sq.m. 📲 𝟎𝟔𝟒-𝟕𝟗𝟒𝟒𝟐𝟔𝟑(คุณน้ำ) ",
+        "zh": "🔥Hot deal🔥The Loft Silom ห้องสุดท้าย 1bed1bath 33.69Sq.m. 📲 𝟎𝟔𝟒-𝟕𝟗𝟒𝟒𝟐𝟔𝟑(คุณน้ำ) ",
+        "th": "🔥Hot deal🔥The Loft Silom ห้องสุดท้าย 1bed1bath 33.69Sq.m. 📲 𝟎𝟔𝟒-𝟕𝟗𝟒𝟒𝟐𝟔𝟑(คุณน้ำ) "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 33.69 sq.m., 6,950,000 THB. Source LivingInsider #2753536.",
+        "zh": "出租：1卧，33.69㎡，6,950,000 泰铢。来源 LivingInsider #2753536。",
+        "th": "เช่า: 1 นอน 33.69 ตร.ม. ราคา 6,950,000 บาท (LivingInsider #2753536)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2753536. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2753536。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2753536 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2753536",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2753536.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2753536",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2753536",
+      "source_url_hash": "80d05722fd07ee1e49c57a885121040480234107ecbe42738ae88ba694ba1e74",
+      "duplicate_fingerprint": "dbf86ff78fdf0c01a17b5697a0455ae7018241a3e10e71b5a30d6867b4f5283d",
+      "soft_match_fingerprint": "e55b2c3fc19ee22633ac2b8d1bca880f983cc857aeece32d62d5122e70c30243",
+      "_computed_fingerprint": "b95c1deead3fcf002efa57a9c77b903ba085f58f3dd30bb58bcd24288867f349"
+    },
+    {
+      "external_ref": "livinginsider-2301151",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 14983000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 78,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "ขาย คอนโด เดอะ ลอฟท์ สีลม ถนนประมวญชั้น14, พื้นที่78 ตรม. ขาย14, 983,000บาท",
+        "zh": "ขาย คอนโด เดอะ ลอฟท์ สีลม ถนนประมวญชั้น14, พื้นที่78 ตรม. ขาย14, 983,000บาท",
+        "th": "ขาย คอนโด เดอะ ลอฟท์ สีลม ถนนประมวญชั้น14, พื้นที่78 ตรม. ขาย14, 983,000บาท"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 78 sq.m., 14,983,000 THB. Source LivingInsider #2301151.",
+        "zh": "出租：2卧，78㎡，14,983,000 泰铢。来源 LivingInsider #2301151。",
+        "th": "เช่า: 2 นอน 78 ตร.ม. ราคา 14,983,000 บาท (LivingInsider #2301151)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2301151. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2301151。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2301151 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2301151",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2301151.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2301151",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2301151",
+      "source_url_hash": "a875b2fe3016921d3c1c2f37112377e2de8e2e64d371860f5fe885c92a5c172f",
+      "duplicate_fingerprint": "b2b671014ac5af4e958a48c698585b304b8158780f0a68ad3f62f02cb013f7b1",
+      "soft_match_fingerprint": "7e9be6d6043a6cd2d7551c1320c8f511385779dab3272650f0cc55518561b880",
+      "_computed_fingerprint": "09544c94e6ff1d9877386a97b7bb8674448dbb16e19058086a3244e3f904a866"
+    },
+    {
+      "external_ref": "livinginsider-2777618",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 16700000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "The Lofts Silom : 2 ห้องนอน  Modern Style ",
+        "zh": "The Lofts Silom : 2 ห้องนอน  Modern Style ",
+        "th": "The Lofts Silom : 2 ห้องนอน  Modern Style "
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 16,700,000 THB. Source LivingInsider #2777618.",
+        "zh": "出租：2卧，30㎡，16,700,000 泰铢。来源 LivingInsider #2777618。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 16,700,000 บาท (LivingInsider #2777618)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2777618. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2777618。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2777618 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2777618",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2777618.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2777618",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2777618",
+      "source_url_hash": "f56b3f40bedeb2ed90a6bd16a4c361bef50735d0f8c93d52485d8e8b55121b25",
+      "duplicate_fingerprint": "73f4f394e07d320842aafa5631cbb2099a4e7fde35b150586a836c841c7b3afc",
+      "soft_match_fingerprint": "f51c461789c1bbcd8bc282970de83109ae091eafcac35ce2c045c615d7c1841b",
+      "_computed_fingerprint": "6b948a633ac19f4480063736d882dc8c32aa2608d09eb8e7b5857f82bf00f8ea"
+    },
+    {
+      "external_ref": "livinginsider-2753519",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6950000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33.69,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥Hot deal🔥🪜The Loft Silom 1 ห้องนอน 1 ห้องน้ำ 33.69 ตร.ม.ซื้อตรงโครงการ 📲 𝟎𝟔𝟒-𝟕𝟗𝟒𝟒𝟐𝟔𝟑(คุณน้ำ) ",
+        "zh": "🔥Hot deal🔥🪜The Loft Silom 1 ห้องนอน 1 ห้องน้ำ 33.69 ตร.ม.ซื้อตรงโครงการ 📲 𝟎𝟔𝟒-𝟕𝟗𝟒𝟒𝟐𝟔𝟑(คุณน้ำ) ",
+        "th": "🔥Hot deal🔥🪜The Loft Silom 1 ห้องนอน 1 ห้องน้ำ 33.69 ตร.ม.ซื้อตรงโครงการ 📲 𝟎𝟔𝟒-𝟕𝟗𝟒𝟒𝟐𝟔𝟑(คุณน้ำ) "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 33.69 sq.m., 6,950,000 THB. Source LivingInsider #2753519.",
+        "zh": "出租：1卧，33.69㎡，6,950,000 泰铢。来源 LivingInsider #2753519。",
+        "th": "เช่า: 1 นอน 33.69 ตร.ม. ราคา 6,950,000 บาท (LivingInsider #2753519)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2753519. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2753519。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2753519 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2753519",
+      "source_updated_at": "2026-08-11",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2753519.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2753519",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2753519",
+      "source_url_hash": "c247617dfe67a456e5191889e0fcd56d4bdef246f0d34ca65ef6fd06797e730a",
+      "duplicate_fingerprint": "4b137e6fbf6163180d5c2a05af7624c033480c4047f6df590308226818357f1b",
+      "soft_match_fingerprint": "e55b2c3fc19ee22633ac2b8d1bca880f983cc857aeece32d62d5122e70c30243",
+      "_computed_fingerprint": "52509ad107f8726d768eea7a9e1d650e67fb29d77c22ce9e4966e42bd31268a5"
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "project_slug": "kave-town-space",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2937",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/35/2937/Condo/all/all/1/Condo-Kave-Town-Space-Rangsit-BU.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-2615264",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28.4,
+      "floor_label": "2",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "💙 ห้องสวยวิวสระ Kave Town Space | แต่งครบ พร้อมอยู่ ใกล้ ม.กรุงเทพ 🔥",
+        "zh": "💙 ห้องสวยวิวสระ Kave Town Space | แต่งครบ พร้อมอยู่ ใกล้ ม.กรุงเทพ 🔥",
+        "th": "💙 ห้องสวยวิวสระ Kave Town Space | แต่งครบ พร้อมอยู่ ใกล้ ม.กรุงเทพ 🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28.4 sq.m., 13,500 THB. Source LivingInsider #2615264.",
+        "zh": "出租：1卧，28.4㎡，13,500 泰铢。来源 LivingInsider #2615264。",
+        "th": "เช่า: 1 นอน 28.4 ตร.ม. ราคา 13,500 บาท (LivingInsider #2615264)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2615264. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2615264。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2615264 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2615264",
+      "source_updated_at": "2027-07-23",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2615264.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2615264",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2615264",
+      "source_url_hash": "77a037f0492f07d604db5b3704fe00f248d6579789cf22d879dccf635cf4a172",
+      "duplicate_fingerprint": "6ff9da9f8de80119a7cdf3b03ac1c99d0d34adf22164bd46942b30951c532d52",
+      "soft_match_fingerprint": "a319ac92e9a040af91a9471853521a87cbc3a4781181ae88b9205271b92066ad",
+      "_computed_fingerprint": "166294f5fe63bb8cd3a6eb020193ab425ea962a526e6167f1e8d3a74561d3c43"
+    },
+    {
+      "external_ref": "livinginsider-1928441",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2650000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "1",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เคฟ ทาวน์ สเปซ คลองหนึ่ง คลองหลวง ปทุมธานี CX-87364",
+        "zh": "ขายคอนโด  เคฟ ทาวน์ สเปซ คลองหนึ่ง คลองหลวง ปทุมธานี CX-87364",
+        "th": "ขายคอนโด  เคฟ ทาวน์ สเปซ คลองหนึ่ง คลองหลวง ปทุมธานี CX-87364"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,650,000 THB. Source LivingInsider #1928441.",
+        "zh": "出租：1卧，30㎡，2,650,000 泰铢。来源 LivingInsider #1928441。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,650,000 บาท (LivingInsider #1928441)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1928441. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1928441。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1928441 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1928441",
+      "source_updated_at": "2026-08-09",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1928441.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1928441",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1928441",
+      "source_url_hash": "2045bf41a8dfbc84d884de5651f7819264142ddbc4771c999c77554ceedebfcd",
+      "duplicate_fingerprint": "76da86a2ddcaa065542921b3e2daabafaf61f9d280bb3bb6ebb793db7e46b02c",
+      "soft_match_fingerprint": "50229426719721fe8e0fa3177497a680268a5e645b3299f80a5d802023e34647",
+      "_computed_fingerprint": "fc23adb5ed6adcd1efd8ec0b427b759c3393193c1a1f12da6ec924721b655a9b"
+    },
+    {
+      "external_ref": "livinginsider-2925133",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 1900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายด่วน! คอนโดเคฟ ทาวน์ สเปซ (Kave Town Space) ใกล้ ม.กรุงเทพ รังสิต ชั้น 8 วิวโล่ง ทิศเหนือเย็นสบายตลอดวัน พร้อมอยู่ ตกแต่งครบพร้อมอยู่หรือปล่อยเช่า Yield ดี ห้ามพลาด!",
+        "zh": "ขายด่วน! คอนโดเคฟ ทาวน์ สเปซ (Kave Town Space) ใกล้ ม.กรุงเทพ รังสิต ชั้น 8 วิวโล่ง ทิศเหนือเย็นสบายตลอดวัน พร้อมอยู่ ตกแต่งครบพร้อมอยู่หรือปล่อยเช่า Yield ดี ห้ามพลาด!",
+        "th": "ขายด่วน! คอนโดเคฟ ทาวน์ สเปซ (Kave Town Space) ใกล้ ม.กรุงเทพ รังสิต ชั้น 8 วิวโล่ง ทิศเหนือเย็นสบายตลอดวัน พร้อมอยู่ ตกแต่งครบพร้อมอยู่หรือปล่อยเช่า Yield ดี ห้ามพลาด!"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 1,900,000 THB. Source LivingInsider #2925133.",
+        "zh": "出租：1卧，30㎡，1,900,000 泰铢。来源 LivingInsider #2925133。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 1,900,000 บาท (LivingInsider #2925133)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2925133. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2925133。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2925133 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2925133",
+      "source_updated_at": "2026-08-08",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2925133.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2925133",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2925133",
+      "source_url_hash": "f9cec7ee1b9c556dcdc54432127b240ba0de5092caa6e502b834fe15b523979a",
+      "duplicate_fingerprint": "78962d261a96307b3917916d0f2b98401d3c1dbebc5ccfd1c71d7bfc2b95f206",
+      "soft_match_fingerprint": "e4a6700e905d0db1e8fc0d195d1ecc70b17102cdadc523353585be13114e7f32",
+      "_computed_fingerprint": "b22a8d659d89be2d6e04f900c1d6253aeddeab8b08fb9de76c48ddd761ae94e7"
+    },
+    {
+      "external_ref": "livinginsider-2695645",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "3",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า ‼️ KAVE Town Space (*มีราคาพิเศษสำหรับเช่า 2 ปีขึ้นไป)",
+        "zh": "ให้เช่า ‼️ KAVE Town Space (*มีราคาพิเศษสำหรับเช่า 2 ปีขึ้นไป)",
+        "th": "ให้เช่า ‼️ KAVE Town Space (*มีราคาพิเศษสำหรับเช่า 2 ปีขึ้นไป)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 12,000 THB. Source LivingInsider #2695645.",
+        "zh": "出租：1卧，30㎡，12,000 泰铢。来源 LivingInsider #2695645。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 12,000 บาท (LivingInsider #2695645)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2695645. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2695645。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2695645 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2695645",
+      "source_updated_at": "2026-08-07",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2695645.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2695645",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2695645",
+      "source_url_hash": "e021f12a2c3b85c52044de607234ffb9ea5a28773b4aa75d2980198ef5de17d4",
+      "duplicate_fingerprint": "161ad77b2fad92d1b0777a00766851192305e2cb767b2665e4c984817a3524aa",
+      "soft_match_fingerprint": "13096e192c59a85d00f1f7c3a9264a3090c2443daa9f85dd040866626d875e2a",
+      "_computed_fingerprint": "a39e5c67c0c0b7b86bff0557ce997b70aae930a7d70613024c917ca97c11904a"
+    },
+    {
+      "external_ref": "livinginsider-3135819",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 11000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25,
+      "floor_label": "1",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 ปล่อยเช่า Kave Town Space (โครงการหน้าสุด เดินไปเรียนได้)",
+        "zh": "🔥 ปล่อยเช่า Kave Town Space (โครงการหน้าสุด เดินไปเรียนได้)",
+        "th": "🔥 ปล่อยเช่า Kave Town Space (โครงการหน้าสุด เดินไปเรียนได้)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 25 sq.m., 11,000 THB. Source LivingInsider #3135819.",
+        "zh": "出租：1卧，25㎡，11,000 泰铢。来源 LivingInsider #3135819。",
+        "th": "เช่า: 1 นอน 25 ตร.ม. ราคา 11,000 บาท (LivingInsider #3135819)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3135819. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3135819。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3135819 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3135819",
+      "source_updated_at": "2026-08-03",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3135819.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3135819",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3135819",
+      "source_url_hash": "12606c2210611b137aa79c0af823ede003cc8d355e34e46f91f16170bec964a7",
+      "duplicate_fingerprint": "79c5d2afb2dab21ab4c2f901cd696d95f1d0fbbc1a8dd69d5a55cae4a29d393d",
+      "soft_match_fingerprint": "5a76a0f0b41550815d7aa22df41e92ed75920816a56835cee415766335d31ed9",
+      "_computed_fingerprint": "522300ae3d6a1b5a0251b1fb35c2042249a42e8766523c26df57f661ff680b65"
+    },
+    {
+      "external_ref": "livinginsider-2980951",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2050000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "1",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เคฟ ทาวน์ สเปซ คลองหนึ่ง คลองหลวง ปทุมธานี CX-146728",
+        "zh": "ขายคอนโด  เคฟ ทาวน์ สเปซ คลองหนึ่ง คลองหลวง ปทุมธานี CX-146728",
+        "th": "ขายคอนโด  เคฟ ทาวน์ สเปซ คลองหนึ่ง คลองหลวง ปทุมธานี CX-146728"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,050,000 THB. Source LivingInsider #2980951.",
+        "zh": "出租：1卧，30㎡，2,050,000 泰铢。来源 LivingInsider #2980951。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,050,000 บาท (LivingInsider #2980951)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2980951. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2980951。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2980951 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2980951",
+      "source_updated_at": "2026-08-02",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2980951.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2980951",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2980951",
+      "source_url_hash": "377d339cd748d71f74ca8377ce27a4375376acf95098e5864f47d3a59b49c335",
+      "duplicate_fingerprint": "e3ebc1ff28298261f1870e1869cf9ab02300d6d306d1ab728009421c01073fd2",
+      "soft_match_fingerprint": "50229426719721fe8e0fa3177497a680268a5e645b3299f80a5d802023e34647",
+      "_computed_fingerprint": "832c0fa28b60b672540d78857a5e76dd33f19290fd04bf92d6bef069b91d802c"
+    },
+    {
+      "external_ref": "livinginsider-2736395",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28.4,
+      "floor_label": "3",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥ขาย คอนโดหรูพร้อมเข้าอยู่ KAVE Town Space 28.40 ตรม ใกล้ ม.กรุงเทพ 🔥#ลดราคาต้อนรับปีใหม่✨️",
+        "zh": "🔥ขาย คอนโดหรูพร้อมเข้าอยู่ KAVE Town Space 28.40 ตรม ใกล้ ม.กรุงเทพ 🔥#ลดราคาต้อนรับปีใหม่✨️",
+        "th": "🔥ขาย คอนโดหรูพร้อมเข้าอยู่ KAVE Town Space 28.40 ตรม ใกล้ ม.กรุงเทพ 🔥#ลดราคาต้อนรับปีใหม่✨️"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28.4 sq.m., 2,500,000 THB. Source LivingInsider #2736395.",
+        "zh": "出租：1卧，28.4㎡，2,500,000 泰铢。来源 LivingInsider #2736395。",
+        "th": "เช่า: 1 นอน 28.4 ตร.ม. ราคา 2,500,000 บาท (LivingInsider #2736395)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2736395. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2736395。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2736395 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2736395",
+      "source_updated_at": "2026-08-01",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2736395.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2736395",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2736395",
+      "source_url_hash": "24bcee14b12d47669cc05c7f6b2e2c29583ee8ee3f68062f5833d1aaaa3e33e8",
+      "duplicate_fingerprint": "f265877127fb18205a990ae7ebfd02c4018327995061ed4d39b83aab39eba3ed",
+      "soft_match_fingerprint": "d0ba052069c4b3205c0db8880f8071b1e1f955a75c8d417ad22dbbf0f7263542",
+      "_computed_fingerprint": "cabf1989c11fd05f3c82a4bc0d7aec10906c5812348876fff530dd6b0eb746c8"
+    },
+    {
+      "external_ref": "livinginsider-3119612",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 11000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 Kave Town Space | ห้องแต่งสวย แสงดี พร้อมอยู่เลยจ้า! 🔥",
+        "zh": "🔥 Kave Town Space | ห้องแต่งสวย แสงดี พร้อมอยู่เลยจ้า! 🔥",
+        "th": "🔥 Kave Town Space | ห้องแต่งสวย แสงดี พร้อมอยู่เลยจ้า! 🔥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 11,000 THB. Source LivingInsider #3119612.",
+        "zh": "出租：1卧，30㎡，11,000 泰铢。来源 LivingInsider #3119612。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 11,000 บาท (LivingInsider #3119612)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3119612. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3119612。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3119612 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3119612",
+      "source_updated_at": "2026-07-30",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3119612.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3119612",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3119612",
+      "source_url_hash": "b2ae829803c32f3caf609c3d5c377f3878caef36e7f6b3fd68b617a7a0ae9285",
+      "duplicate_fingerprint": "0550bdb819f483d2a613fe45ff43b32187f656499fdfe01dbbb4cd5fd988453a",
+      "soft_match_fingerprint": "df16041664004f7bbf9b62a3015df142370232a4cb368de2c70924e8a4fd4124",
+      "_computed_fingerprint": "ba5bb8003a27fb64df01b5734056f10c19f7ce29db7d58d6f39cd1ec83b64c2d"
+    },
+    {
+      "external_ref": "livinginsider-2857943",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2450000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27.29,
+      "floor_label": "1",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด Kave Town Space ตึก C ติดมหาวิทยาลัยกรุงเทพ ",
+        "zh": "ขายคอนโด Kave Town Space ตึก C ติดมหาวิทยาลัยกรุงเทพ ",
+        "th": "ขายคอนโด Kave Town Space ตึก C ติดมหาวิทยาลัยกรุงเทพ "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27.29 sq.m., 2,450,000 THB. Source LivingInsider #2857943.",
+        "zh": "出租：1卧，27.29㎡，2,450,000 泰铢。来源 LivingInsider #2857943。",
+        "th": "เช่า: 1 นอน 27.29 ตร.ม. ราคา 2,450,000 บาท (LivingInsider #2857943)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2857943. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2857943。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2857943 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2857943",
+      "source_updated_at": "2026-07-30",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2857943.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2857943",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2857943",
+      "source_url_hash": "18c5b85d5b16ec8936166967e6e857a1b572ae9973e2c63f95b90bf2ce43a03a",
+      "duplicate_fingerprint": "992bb1b81e49fd5c7fda8ce8d003097e545e2bb27a8271bc15ed83c95475d6dd",
+      "soft_match_fingerprint": "eea72f8534e72265c5a92a9751dfe818668ab28c09a789a38f8cffde3cdab0e6",
+      "_computed_fingerprint": "c0fa2b2fbc8ef964460f8b7f9448936487f00f47aeadcaeaed8a73ffb1ac8f8a"
+    },
+    {
+      "external_ref": "livinginsider-2456023",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2650000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "1",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "ด่วนๆ ห้องระเบียงยื่น วิวสระ โครงการหน้าสุด ติด Mingle Mall เดินไปเรียนได้เลย !!!!",
+        "zh": "ด่วนๆ ห้องระเบียงยื่น วิวสระ โครงการหน้าสุด ติด Mingle Mall เดินไปเรียนได้เลย !!!!",
+        "th": "ด่วนๆ ห้องระเบียงยื่น วิวสระ โครงการหน้าสุด ติด Mingle Mall เดินไปเรียนได้เลย !!!!"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,650,000 THB. Source LivingInsider #2456023.",
+        "zh": "出租：1卧，30㎡，2,650,000 泰铢。来源 LivingInsider #2456023。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,650,000 บาท (LivingInsider #2456023)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2456023. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2456023。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2456023 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2456023",
+      "source_updated_at": "2026-07-26",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2456023.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2456023",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2456023",
+      "source_url_hash": "a2f1dc6c7d13302dbd090ff6dbfa45376c55e970ec3a036312bd0bc8cd5dd391",
+      "duplicate_fingerprint": "f8a199c7f43d76d66fcd3512899fb20eab9c8c341517b8be48b757c55d98ea45",
+      "soft_match_fingerprint": "50229426719721fe8e0fa3177497a680268a5e645b3299f80a5d802023e34647",
+      "_computed_fingerprint": "e9a6214f755de62376ead6c7b2b8a020102c9214fd88a72fcb57f240102a5c02"
+    }
+  ]
+}

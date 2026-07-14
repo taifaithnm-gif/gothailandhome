@@ -1,0 +1,496 @@
+{
+  "project_slug": "niche-pride-thonglor-phetchaburi",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "1109",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/14/1109/Condo/all/all/1/Condo-The-Niche-Pride-Thonglor-Phetchaburi.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3076565",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "✨ให้เช่า คอนโด The Niche Pride ทองหล่อ–เพชรบุรี 🌊 วิวสระติดชิด | เงียบสงบ เป็นส่วนตัว | บิ้วอินครบ พร้อมอยู่",
+        "zh": "✨ให้เช่า คอนโด The Niche Pride ทองหล่อ–เพชรบุรี 🌊 วิวสระติดชิด | เงียบสงบ เป็นส่วนตัว | บิ้วอินครบ พร้อมอยู่",
+        "th": "✨ให้เช่า คอนโด The Niche Pride ทองหล่อ–เพชรบุรี 🌊 วิวสระติดชิด | เงียบสงบ เป็นส่วนตัว | บิ้วอินครบ พร้อมอยู่"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 36 sq.m., 19,500 THB. Source LivingInsider #3076565.",
+        "zh": "出租：1卧，36㎡，19,500 泰铢。来源 LivingInsider #3076565。",
+        "th": "เช่า: 1 นอน 36 ตร.ม. ราคา 19,500 บาท (LivingInsider #3076565)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3076565. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3076565。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3076565 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3076565",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3076565.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3076565",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3076565",
+      "source_url_hash": "330ead8e4068fe26f0f9660407546253e1e07376b4346e98b091d52cd912c2d0",
+      "duplicate_fingerprint": "4eb71a15a7bf62ab2e8982beecae950b816071943e92267933cc773ab7b491ca",
+      "soft_match_fingerprint": "a95d5ca13f56e34b9276dc634176073d0a0fdb08e4d9233d115cab195d1a7144",
+      "_computed_fingerprint": "1d8dd745826b1bd9aba9510b4f2b6dd10a38cb565fbac181a760d0630710f3eb"
+    },
+    {
+      "external_ref": "livinginsider-2986687",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "คอนโดพร้อมอยู่ ",
+        "zh": "คอนโดพร้อมอยู่ ",
+        "th": "คอนโดพร้อมอยู่ "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 17,000 THB. Source LivingInsider #2986687.",
+        "zh": "出租：1卧，31㎡，17,000 泰铢。来源 LivingInsider #2986687。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 17,000 บาท (LivingInsider #2986687)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2986687. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2986687。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2986687 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2986687",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2986687.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2986687",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2986687",
+      "source_url_hash": "3bdc01862e83258427858a1be45c0f1ab4097fa92724c23a1da1ac33032dfae9",
+      "duplicate_fingerprint": "0aa516b05652c95e76ba9aa2e6b17b727246ef07af838ebb120c9eb057cbb876",
+      "soft_match_fingerprint": "4dc254c8a07c69a185387124800e0a3e9daf0864b4a5ccfd5d9eb5e030d99832",
+      "_computed_fingerprint": "283d3877693e598b754e734f9b1180edfa9e6467d401873254dab4b5ad339353"
+    },
+    {
+      "external_ref": "livinginsider-2952059",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-136075",
+        "zh": "ขายคอนโด นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-136075",
+        "th": "ขายคอนโด นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-136075"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,000,000 THB. Source LivingInsider #2952059.",
+        "zh": "出租：1卧，30㎡，3,000,000 泰铢。来源 LivingInsider #2952059。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,000,000 บาท (LivingInsider #2952059)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2952059. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2952059。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2952059 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2952059",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2952059.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2952059",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2952059",
+      "source_url_hash": "fe2aa2349a8ca97a0990b7f6c058b346d05f43d29aba421665c6211197decc7f",
+      "duplicate_fingerprint": "d6a0272594fb0bb32645d5445d68df33675e4bce798f90d4e0821442fee297ac",
+      "soft_match_fingerprint": "54d9efca1c42e2a029a730b4f2da164dece5d800ae8863ab0d1b61c3f1373c33",
+      "_computed_fingerprint": "2b737ef4e043e7e39ca916e4db869d786cf183690f3a26b870a2387c30ee0fc1"
+    },
+    {
+      "external_ref": "livinginsider-2928229",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2790000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-140260",
+        "zh": "ขายคอนโด นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-140260",
+        "th": "ขายคอนโด นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-140260"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,790,000 THB. Source LivingInsider #2928229.",
+        "zh": "出租：1卧，30㎡，2,790,000 泰铢。来源 LivingInsider #2928229。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,790,000 บาท (LivingInsider #2928229)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2928229. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2928229。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2928229 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2928229",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2928229.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2928229",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2928229",
+      "source_url_hash": "888389834ac90d8d8327c1666a0bbeb68056497867488fb9a290093554ee881a",
+      "duplicate_fingerprint": "953634aaf1b2f13ec09f1edd7bfaa3575c413bc9e10fd4496e996d6b2c9b44fd",
+      "soft_match_fingerprint": "4328589ef04197fde99bf541f8dca7fc19e92c15c4110ec074825be33101759c",
+      "_computed_fingerprint": "3d6d3dd6ff4d003712c6b6a53fcc001392e05fa2088dd365dba5cc86b64fee4f"
+    },
+    {
+      "external_ref": "livinginsider-2953829",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2800000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-79465",
+        "zh": "ขายคอนโด นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-79465",
+        "th": "ขายคอนโด นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-79465"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,800,000 THB. Source LivingInsider #2953829.",
+        "zh": "出租：1卧，30㎡，2,800,000 泰铢。来源 LivingInsider #2953829。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,800,000 บาท (LivingInsider #2953829)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2953829. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2953829。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2953829 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2953829",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2953829.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2953829",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2953829",
+      "source_url_hash": "e9719455e114e6ef54c077cc87e89d904d4172c67509dd22e9387d6774ea0921",
+      "duplicate_fingerprint": "3dd5217fea079bb9ec717077e7c3420526f40a099d9a4950bbb20abe13a98e49",
+      "soft_match_fingerprint": "54d9efca1c42e2a029a730b4f2da164dece5d800ae8863ab0d1b61c3f1373c33",
+      "_computed_fingerprint": "595d0335dd5710b9d42cf3828a0c1ad472c4e0becf364e5b0fca8390dab472d1"
+    },
+    {
+      "external_ref": "livinginsider-2234681",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6100000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-114349",
+        "zh": "ขายคอนโด  นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-114349",
+        "th": "ขายคอนโด  นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-114349"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 6,100,000 THB. Source LivingInsider #2234681.",
+        "zh": "出租：2卧，30㎡，6,100,000 泰铢。来源 LivingInsider #2234681。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 6,100,000 บาท (LivingInsider #2234681)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2234681. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2234681。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2234681 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2234681",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2234681.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2234681",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2234681",
+      "source_url_hash": "1c0b984d538dd53a21fde5fee63997604eda1f930f970f31907d9549af50866c",
+      "duplicate_fingerprint": "3e116606194c06f2214d6d8f997f52a3dc61eef4195410c8a1ace4ffdaeed778",
+      "soft_match_fingerprint": "c54af8996aabd8f8d891f14f0adf6c7bcc42dc4279dd26510fea3675ffbc89c0",
+      "_computed_fingerprint": "220a472e3c2f0db2a686cb56a61f24183f4311c30c27856db5c70e2054da4139"
+    },
+    {
+      "external_ref": "livinginsider-2653330",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3490000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "💕The Niche Pride Thonglor - Phetchaburi ",
+        "zh": "💕The Niche Pride Thonglor - Phetchaburi ",
+        "th": "💕The Niche Pride Thonglor - Phetchaburi "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,490,000 THB. Source LivingInsider #2653330.",
+        "zh": "出租：1卧，30㎡，3,490,000 泰铢。来源 LivingInsider #2653330。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,490,000 บาท (LivingInsider #2653330)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2653330. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2653330。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2653330 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2653330",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2653330.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2653330",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2653330",
+      "source_url_hash": "40f89a975fe8ea2e4c32b5c557039c8c63b14e1138ebec5d42ccf144b8808893",
+      "duplicate_fingerprint": "de3b3c12fee96848409c0fec9498c4a35edc8d474d44b1a9288bdb132f93b9f8",
+      "soft_match_fingerprint": "54d9efca1c42e2a029a730b4f2da164dece5d800ae8863ab0d1b61c3f1373c33",
+      "_computed_fingerprint": "a747f5da7a015328e0b0f1f620eab4aeec1a80445bb7e4d16ddd4e9ef3c04bd0"
+    },
+    {
+      "external_ref": "livinginsider-2790495",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "เช่าคอนโด  นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-76638",
+        "zh": "เช่าคอนโด  นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-76638",
+        "th": "เช่าคอนโด  นิช ไพรด์ ทองหล่อ-เพชรบุรี BTS-ทองหล่อ บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-76638"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 17,500 THB. Source LivingInsider #2790495.",
+        "zh": "出租：1卧，30㎡，17,500 泰铢。来源 LivingInsider #2790495。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 17,500 บาท (LivingInsider #2790495)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2790495. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2790495。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2790495 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2790495",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2790495.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2790495",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2790495",
+      "source_url_hash": "69e7e474a26bf1579d93b1043b913e9ebe8d2cab08e4742d02832af70d79af49",
+      "duplicate_fingerprint": "b87f2baa46cef041c032898e9642b08e6f3b1ee522f69c9264e6ca2a844766df",
+      "soft_match_fingerprint": "bc36a9a1751882a9f290777038c47193a9044c2c08450ebcbff2b0f9679f7c87",
+      "_computed_fingerprint": "d630da6e0efa0aafa08ff5d8f6d44298971dec7c3b1e22a3e2f101f805979b04"
+    },
+    {
+      "external_ref": "livinginsider-3119846",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโดสวย The Niche Pride เพชรบุรี ทองหล่อ 3.6 ล้านบาท yield 6.7%",
+        "zh": "ขายคอนโดสวย The Niche Pride เพชรบุรี ทองหล่อ 3.6 ล้านบาท yield 6.7%",
+        "th": "ขายคอนโดสวย The Niche Pride เพชรบุรี ทองหล่อ 3.6 ล้านบาท yield 6.7%"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,600,000 THB. Source LivingInsider #3119846.",
+        "zh": "出租：1卧，30㎡，3,600,000 泰铢。来源 LivingInsider #3119846。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,600,000 บาท (LivingInsider #3119846)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3119846. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3119846。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3119846 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3119846",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3119846.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3119846",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3119846",
+      "source_url_hash": "a6769941dba4d509e17bbb547561240d6f10cb52f604ff3ef217a4c4ff6bb8f3",
+      "duplicate_fingerprint": "558b04ba00251efbbe1d79a82631ef1600d4128f40add043c326760965b10729",
+      "soft_match_fingerprint": "54d9efca1c42e2a029a730b4f2da164dece5d800ae8863ab0d1b61c3f1373c33",
+      "_computed_fingerprint": "f45f161ce7dadfd5ac9ef54af72ed91c32b4b8cc695e02befdfe570ed06bcbc6"
+    }
+  ]
+}

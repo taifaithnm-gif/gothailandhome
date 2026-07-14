@@ -1,0 +1,550 @@
+{
+  "project_slug": "life-asoke-rama-9",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2743",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/14/2743/Condo/all/all/1/Condo-Life-Asoke-Rama-9.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3130805",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33.07,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด Life Asoke Rama 9 1bed room (Owner) คุยได้พร้อมจบครับ",
+        "zh": "ขายคอนโด Life Asoke Rama 9 1bed room (Owner) คุยได้พร้อมจบครับ",
+        "th": "ขายคอนโด Life Asoke Rama 9 1bed room (Owner) คุยได้พร้อมจบครับ"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 33.07 sq.m., 4,200,000 THB. Source LivingInsider #3130805.",
+        "zh": "出租：1卧，33.07㎡，4,200,000 泰铢。来源 LivingInsider #3130805。",
+        "th": "เช่า: 1 นอน 33.07 ตร.ม. ราคา 4,200,000 บาท (LivingInsider #3130805)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3130805. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3130805。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3130805 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3130805",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3130805.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3130805",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3130805",
+      "source_url_hash": "48139097cfc4ab9612ad6987886f92c3d6175eec5cac882288df3d8cc9eafc6a",
+      "duplicate_fingerprint": "f268fbe0fc32b5cf91119da9d8cfa64d36621f836060d127dc76a4626ec771bb",
+      "soft_match_fingerprint": "a8346c7432e316d359430c8cbd0082262229d7c0be0ab34c728f6dd902d7526d",
+      "_computed_fingerprint": "8962957d083913ae86a19c98b8434ae8a5302e348b5ffffc595b26d266523ae1"
+    },
+    {
+      "external_ref": "livinginsider-3112172",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "พร้อมเข้าอยู่ทันที ราคาดี ชั้นสูง ห้องกว้าง Life Asoke Rama9 ",
+        "zh": "พร้อมเข้าอยู่ทันที ราคาดี ชั้นสูง ห้องกว้าง Life Asoke Rama9 ",
+        "th": "พร้อมเข้าอยู่ทันที ราคาดี ชั้นสูง ห้องกว้าง Life Asoke Rama9 "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 36 sq.m., 20,000 THB. Source LivingInsider #3112172.",
+        "zh": "出租：1卧，36㎡，20,000 泰铢。来源 LivingInsider #3112172。",
+        "th": "เช่า: 1 นอน 36 ตร.ม. ราคา 20,000 บาท (LivingInsider #3112172)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3112172. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3112172。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3112172 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3112172",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3112172.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3112172",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3112172",
+      "source_url_hash": "f889b36d22101e33b4355077faa61eabe088b55c435c4e14c37e088e327ca1be",
+      "duplicate_fingerprint": "ff8f84c09dc9f1c114a02a3fa1e76ffe993224b4a141a589e138e2779030b7dd",
+      "soft_match_fingerprint": "e320a0d697f7f21ab5e333a9ce3fdb5a17856df3fc0ef61df70675bdd9c81b81",
+      "_computed_fingerprint": "05eabe8bcf2769bd8ab1a57a031605e82d7c4f645100988a63d2c458b4cccd94"
+    },
+    {
+      "external_ref": "livinginsider-3118322",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32,
+      "floor_label": "40",
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 ให้เช่า/ขาย Life Asoke - Rama 9 (ไลฟ์ อโศก - พระราม 9) | ชั้น 40 วิวเมืองสวย | 1 ห้องนอน 32 ตร.ม. | เช่า 22,000 บาท/เดือน | ขาย 4.15 ลบ. | ฟรีค่าโอน* | ใกล้ MRT พระราม 9 | UE0012 | Line @944hjngx",
+        "zh": "🔥 ให้เช่า/ขาย Life Asoke - Rama 9 (ไลฟ์ อโศก - พระราม 9) | ชั้น 40 วิวเมืองสวย | 1 ห้องนอน 32 ตร.ม. | เช่า 22,000 บาท/เดือน | ขาย 4.15 ลบ. | ฟรีค่าโอน* | ใกล้ MRT พระราม 9 | UE0012 | Line @944hjngx",
+        "th": "🔥 ให้เช่า/ขาย Life Asoke - Rama 9 (ไลฟ์ อโศก - พระราม 9) | ชั้น 40 วิวเมืองสวย | 1 ห้องนอน 32 ตร.ม. | เช่า 22,000 บาท/เดือน | ขาย 4.15 ลบ. | ฟรีค่าโอน* | ใกล้ MRT พระราม 9 | UE0012 | Line @944hjngx"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 32 sq.m., 22,000 THB. Source LivingInsider #3118322.",
+        "zh": "出租：1卧，32㎡，22,000 泰铢。来源 LivingInsider #3118322。",
+        "th": "เช่า: 1 นอน 32 ตร.ม. ราคา 22,000 บาท (LivingInsider #3118322)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3118322. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3118322。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3118322 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3118322",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3118322.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3118322",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3118322",
+      "source_url_hash": "e95bb53946d3e586878be8a22e7a764c5151122b2785da879aed7d8d52ac86a1",
+      "duplicate_fingerprint": "39e93ceeb50fbfb569e59c503481c935700e4f171a91330fd9607112e48d62d9",
+      "soft_match_fingerprint": "d31dc3bef59398197ca54ba4e4825a289c7f007aaa3035cc31648413fff357e2",
+      "_computed_fingerprint": "cff7799aa144c506a575024bbf69a18aaf331b17b105cfa001cc3f30bef9cd34"
+    },
+    {
+      "external_ref": "livinginsider-3118354",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 41,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 ให้เช่า Life Asoke - Rama 9 (ไลฟ์ อโศก - พระราม 9) | 2 ห้องนอน 41 ตร.ม. | ชั้น 25 วิวสวย | ใกล้ MRT พระราม 9 และ Central Rama 9 | เฟอร์ครบ พร้อมอยู่ | 25,000 บาท/เดือน | UE0016 | Line @944hjngx",
+        "zh": "🔥 ให้เช่า Life Asoke - Rama 9 (ไลฟ์ อโศก - พระราม 9) | 2 ห้องนอน 41 ตร.ม. | ชั้น 25 วิวสวย | ใกล้ MRT พระราม 9 และ Central Rama 9 | เฟอร์ครบ พร้อมอยู่ | 25,000 บาท/เดือน | UE0016 | Line @944hjngx",
+        "th": "🔥 ให้เช่า Life Asoke - Rama 9 (ไลฟ์ อโศก - พระราม 9) | 2 ห้องนอน 41 ตร.ม. | ชั้น 25 วิวสวย | ใกล้ MRT พระราม 9 และ Central Rama 9 | เฟอร์ครบ พร้อมอยู่ | 25,000 บาท/เดือน | UE0016 | Line @944hjngx"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 41 sq.m., 25,000 THB. Source LivingInsider #3118354.",
+        "zh": "出租：2卧，41㎡，25,000 泰铢。来源 LivingInsider #3118354。",
+        "th": "เช่า: 2 นอน 41 ตร.ม. ราคา 25,000 บาท (LivingInsider #3118354)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3118354. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3118354。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3118354 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3118354",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3118354.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3118354",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3118354",
+      "source_url_hash": "eea353832b04fad28c4a1410a0b6e9e4b86f6775a2e433720d076f8358842243",
+      "duplicate_fingerprint": "0ef62046aca2d80f1dcde8f389ce4579468f9dcdbad89d84db90107181b59749",
+      "soft_match_fingerprint": "9a79787ba16aff679bd3718ced948171fd6c8c7092664f4836d93e962a48c691",
+      "_computed_fingerprint": "c33a3e9f7a042f2418e8502a530dca717246f8afc020378691c953939ce92e6e"
+    },
+    {
+      "external_ref": "livinginsider-2907373",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4490000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32.27,
+      "floor_label": "24",
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "For Sale คอนโด: Life Asoke Rama9 * ห้องพร้อมขายไม่ปล่อยเช่า",
+        "zh": "For Sale คอนโด: Life Asoke Rama9 * ห้องพร้อมขายไม่ปล่อยเช่า",
+        "th": "For Sale คอนโด: Life Asoke Rama9 * ห้องพร้อมขายไม่ปล่อยเช่า"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 32.27 sq.m., 4,490,000 THB. Source LivingInsider #2907373.",
+        "zh": "出租：1卧，32.27㎡，4,490,000 泰铢。来源 LivingInsider #2907373。",
+        "th": "เช่า: 1 นอน 32.27 ตร.ม. ราคา 4,490,000 บาท (LivingInsider #2907373)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2907373. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2907373。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2907373 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2907373",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2907373.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2907373",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2907373",
+      "source_url_hash": "707b87e57e4c18837cbf3b6efab7d16212d436832e58c138d8121154dfefc178",
+      "duplicate_fingerprint": "db234f2a6dbf39ad035b2c82b8e2a7a3e9c2afae83a8231fc2558c7ae72c1cbf",
+      "soft_match_fingerprint": "3d1cbd041224ea86e2bdb0124cbd9561d1e001dcf6ab797668ea8bd64b4196a8",
+      "_computed_fingerprint": "48c140d052c7b636aa8e181401f9bdc79e0e9b7c840c32923ba4702029aa3b5c"
+    },
+    {
+      "external_ref": "livinginsider-2938693",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4190000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "life asoke rama 9 For Sale ( Available to move in-no tenant)",
+        "zh": "life asoke rama 9 For Sale ( Available to move in-no tenant)",
+        "th": "life asoke rama 9 For Sale ( Available to move in-no tenant)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 4,190,000 THB. Source LivingInsider #2938693.",
+        "zh": "出租：1卧，30㎡，4,190,000 泰铢。来源 LivingInsider #2938693。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 4,190,000 บาท (LivingInsider #2938693)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2938693. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2938693。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2938693 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2938693",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2938693.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2938693",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2938693",
+      "source_url_hash": "c393d2cc2c9260809ea73f72eb128574032a090fab2593eda8cc71ea67625592",
+      "duplicate_fingerprint": "ff81a3b0379e26b3d92e234c3765cd3d0ea2abfb40f0a22c1c241f4e9d569b08",
+      "soft_match_fingerprint": "03d5d038eb2829e3e4bc2bfb67ced97e551c768a08a8c62525bc01195aae7340",
+      "_computed_fingerprint": "3900ebcf66cf6da54146311c40367f6ebadb0792d233e62afb60b53b7cdbcbaf"
+    },
+    {
+      "external_ref": "livinginsider-2993841",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ปล่อยเช่าเริ่มต้น 2 เดือน | ไลฟ์ อโศก - พระราม 9 1 ห้องนอน | ประกันเพียง 1 เดือน พร้อมเข้าอยู่",
+        "zh": "ปล่อยเช่าเริ่มต้น 2 เดือน | ไลฟ์ อโศก - พระราม 9 1 ห้องนอน | ประกันเพียง 1 เดือน พร้อมเข้าอยู่",
+        "th": "ปล่อยเช่าเริ่มต้น 2 เดือน | ไลฟ์ อโศก - พระราม 9 1 ห้องนอน | ประกันเพียง 1 เดือน พร้อมเข้าอยู่"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 32 sq.m., 27,000 THB. Source LivingInsider #2993841.",
+        "zh": "出租：1卧，32㎡，27,000 泰铢。来源 LivingInsider #2993841。",
+        "th": "เช่า: 1 นอน 32 ตร.ม. ราคา 27,000 บาท (LivingInsider #2993841)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2993841. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2993841。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2993841 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2993841",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2993841.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2993841",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2993841",
+      "source_url_hash": "2253299e5a6986c633edb705e26053228a48ee21bf0c9a037807b1ff86e05552",
+      "duplicate_fingerprint": "95c239623e880474dcfc576f1f3246c69400515160c51dba72e2178cc2d2b2c3",
+      "soft_match_fingerprint": "9c8e115e63072b73ed8c0142d170190d0d9779b0b71c830b8df54bf1a895f6d9",
+      "_computed_fingerprint": "45c68433157bf5771953968147ee5199f4891f6f0c6a71d395dd8834972c3e71"
+    },
+    {
+      "external_ref": "livinginsider-3114188",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4290000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.49,
+      "floor_label": "34",
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ราคาดีที่สุด 🔥 35 ตร.ม. มีห้องกั้นทำ 2 นอนได้ ขาย/SALE : Life Asoke Rama 9 (ไลฟ์ อโศก พระราม 9) - 1 ห้องนอน LC217",
+        "zh": "ราคาดีที่สุด 🔥 35 ตร.ม. มีห้องกั้นทำ 2 นอนได้ ขาย/SALE : Life Asoke Rama 9 (ไลฟ์ อโศก พระราม 9) - 1 ห้องนอน LC217",
+        "th": "ราคาดีที่สุด 🔥 35 ตร.ม. มีห้องกั้นทำ 2 นอนได้ ขาย/SALE : Life Asoke Rama 9 (ไลฟ์ อโศก พระราม 9) - 1 ห้องนอน LC217"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35.49 sq.m., 4,290,000 THB. Source LivingInsider #3114188.",
+        "zh": "出租：1卧，35.49㎡，4,290,000 泰铢。来源 LivingInsider #3114188。",
+        "th": "เช่า: 1 นอน 35.49 ตร.ม. ราคา 4,290,000 บาท (LivingInsider #3114188)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3114188. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3114188。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3114188 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3114188",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3114188.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3114188",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3114188",
+      "source_url_hash": "0f477337ca6d3434915eb4e633bd786f14672c8ae4f374dc4edd5b04811c99bc",
+      "duplicate_fingerprint": "df004c3f09a3b872cc10f1d1a1a162e816cb4f6ca6f099a5f18cb91da65b4e13",
+      "soft_match_fingerprint": "ddc3c18c21af34988a553ff5c9ffe77f7250e3ffb9961885e998bcfb13c8364a",
+      "_computed_fingerprint": "6d625c32b16cfd0e1fb154fc244ccb01f03dff589454a459b00ec33b0038bb87"
+    },
+    {
+      "external_ref": "livinginsider-3114220",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3490000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27.6,
+      "floor_label": "34",
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "🔑  สภาพใหม่กริบ ซ่อมแล้ว พร้อมอยู่ ราคาดีที่สุด ขาย/SALE : Life Asoke Rama 9 (ไลฟ์ อโศก พระราม 9) - 1 ห้องนอน LC218",
+        "zh": "🔑  สภาพใหม่กริบ ซ่อมแล้ว พร้อมอยู่ ราคาดีที่สุด ขาย/SALE : Life Asoke Rama 9 (ไลฟ์ อโศก พระราม 9) - 1 ห้องนอน LC218",
+        "th": "🔑  สภาพใหม่กริบ ซ่อมแล้ว พร้อมอยู่ ราคาดีที่สุด ขาย/SALE : Life Asoke Rama 9 (ไลฟ์ อโศก พระราม 9) - 1 ห้องนอน LC218"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27.6 sq.m., 3,490,000 THB. Source LivingInsider #3114220.",
+        "zh": "出租：1卧，27.6㎡，3,490,000 泰铢。来源 LivingInsider #3114220。",
+        "th": "เช่า: 1 นอน 27.6 ตร.ม. ราคา 3,490,000 บาท (LivingInsider #3114220)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3114220. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3114220。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3114220 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3114220",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3114220.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3114220",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3114220",
+      "source_url_hash": "7c2310a9799457348b4eb097292c4909f15439e3817d1770c4e038d13e46e8c1",
+      "duplicate_fingerprint": "29069491cb8533c76fb0c1908bbded26ce00704f288d3e67ef7347fc140bd255",
+      "soft_match_fingerprint": "183a886efbf587bfeb5c3c502bf2daaf4a52ca894d8b80623c88b9d85bc6b4ed",
+      "_computed_fingerprint": "8c6ca306e139732f77cefd96036198993c82decefca103f06ccb863ab141e5b0"
+    },
+    {
+      "external_ref": "livinginsider-3114241",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7800000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 63.09,
+      "floor_label": "34",
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "✨ 2 นอน Combine ราคาถูกที่สุด 🔥 จอดรถ 2 คัน ขาย/SALE : Life Asoke Rama 9 (ไลฟ์ อโศก พระราม 9) - 2 ห้องนอน LC219",
+        "zh": "✨ 2 นอน Combine ราคาถูกที่สุด 🔥 จอดรถ 2 คัน ขาย/SALE : Life Asoke Rama 9 (ไลฟ์ อโศก พระราม 9) - 2 ห้องนอน LC219",
+        "th": "✨ 2 นอน Combine ราคาถูกที่สุด 🔥 จอดรถ 2 คัน ขาย/SALE : Life Asoke Rama 9 (ไลฟ์ อโศก พระราม 9) - 2 ห้องนอน LC219"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 63.09 sq.m., 7,800,000 THB. Source LivingInsider #3114241.",
+        "zh": "出租：2卧，63.09㎡，7,800,000 泰铢。来源 LivingInsider #3114241。",
+        "th": "เช่า: 2 นอน 63.09 ตร.ม. ราคา 7,800,000 บาท (LivingInsider #3114241)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3114241. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3114241。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3114241 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3114241",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3114241.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3114241",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3114241",
+      "source_url_hash": "a1802c6fb4f4d390849532bfdc936be112cbc86e7fc2f33561d3b573d49da773",
+      "duplicate_fingerprint": "d7252fe5f4c33540b1145961160a503dfe435ab3fcde582dec72df64cfe94112",
+      "soft_match_fingerprint": "aaa4ea1916869d2b154781eefacdfb06b289365221278dfc919604decfb577c4",
+      "_computed_fingerprint": "79127ab3b6c7be2b587332334e99c8d6e7e65805a696f1c97100ea3790216a36"
+    }
+  ]
+}

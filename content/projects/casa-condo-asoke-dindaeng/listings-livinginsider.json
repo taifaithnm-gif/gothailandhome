@@ -1,0 +1,388 @@
+{
+  "project_slug": "casa-condo-asoke-dindaeng",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "1124",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/14/1124/Condo/all/all/1/Casa-Condo-Asoke-Dindaeng.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-2654022",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 1890000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายด่วน! คอนโด  ห้องสตูดิโอ Casa Asoke ใจกลางอโศก",
+        "zh": "ขายด่วน! คอนโด  ห้องสตูดิโอ Casa Asoke ใจกลางอโศก",
+        "th": "ขายด่วน! คอนโด  ห้องสตูดิโอ Casa Asoke ใจกลางอโศก"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26 sq.m., 1,890,000 THB. Source LivingInsider #2654022.",
+        "zh": "出租：1卧，26㎡，1,890,000 泰铢。来源 LivingInsider #2654022。",
+        "th": "เช่า: 1 นอน 26 ตร.ม. ราคา 1,890,000 บาท (LivingInsider #2654022)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2654022. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2654022。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2654022 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2654022",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2654022.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2654022",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2654022",
+      "source_url_hash": "df977e11f186b91a19ebc91cfef2540fdfe6da083f57fc6a8422127c6c3f6e7b",
+      "duplicate_fingerprint": "75793c4afa392b87f233ed2e6c70903bc52cfc0f1e9835329b48e6a0c7677bba",
+      "soft_match_fingerprint": "2cc234e86b2c0a3d6815ce463ceab0e4445c28874ba503817a1c0b603313381a",
+      "_computed_fingerprint": "566325546ce08e043a0fca6ae0381623add5508634b86c226adb0ec6e60a7b20"
+    },
+    {
+      "external_ref": "livinginsider-2654028",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายด่วน! คอนโด 1 ห้องนอน Casa Asoke ใจกลางอโศก",
+        "zh": "ขายด่วน! คอนโด 1 ห้องนอน Casa Asoke ใจกลางอโศก",
+        "th": "ขายด่วน! คอนโด 1 ห้องนอน Casa Asoke ใจกลางอโศก"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,300,000 THB. Source LivingInsider #2654028.",
+        "zh": "出租：1卧，30㎡，2,300,000 泰铢。来源 LivingInsider #2654028。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,300,000 บาท (LivingInsider #2654028)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2654028. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2654028。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2654028 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2654028",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2654028.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2654028",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2654028",
+      "source_url_hash": "2556d635367b3da1f237840ae1543adf38db8f8d2c6a6ab871fcd47ab8de838c",
+      "duplicate_fingerprint": "a7f589bdedae0d51fc28692c46cbc91867e39d637ac13bc92a5a021b2e5c9367",
+      "soft_match_fingerprint": "96465f7ba040b97c421ad0fc7822a21ad8fc52d8cbf68130f64be36a5a46db99",
+      "_computed_fingerprint": "7546d8d9302fc1f3a83feaee54519e0b38ca6deba6a9e7b4e3ac51c21eee34b7"
+    },
+    {
+      "external_ref": "livinginsider-2650784",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "Casa Asoke เดินทางสะดวก พร้อมเฟอร์ครบ ราคาดีสุด !",
+        "zh": "Casa Asoke เดินทางสะดวก พร้อมเฟอร์ครบ ราคาดีสุด !",
+        "th": "Casa Asoke เดินทางสะดวก พร้อมเฟอร์ครบ ราคาดีสุด !"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 12,000 THB. Source LivingInsider #2650784.",
+        "zh": "出租：1卧，30㎡，12,000 泰铢。来源 LivingInsider #2650784。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 12,000 บาท (LivingInsider #2650784)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2650784. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2650784。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2650784 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2650784",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2650784.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2650784",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2650784",
+      "source_url_hash": "23d546c23ef82e6bfc8dea6b36fad6ff22219bc2bcd74fd2724c2c2423e159df",
+      "duplicate_fingerprint": "53a33cc4358f09c5feba300607de9856f6dda43b60899797b4f8b68116e87362",
+      "soft_match_fingerprint": "39b420bd94f91f46d4e6878da6f37929f2753858dee522f3b6e5f84e59e51cd5",
+      "_computed_fingerprint": "449549a56659f3798b3d8d4a1122f4e9e5ed6d500e0f408e1d8b4b7a9a677715"
+    },
+    {
+      "external_ref": "livinginsider-2650782",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 10000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "ห้องว่าง! Casa Asoke  ให้เช่า ราคาดี ทำเลเทพ ใจกลางเมือง",
+        "zh": "ห้องว่าง! Casa Asoke  ให้เช่า ราคาดี ทำเลเทพ ใจกลางเมือง",
+        "th": "ห้องว่าง! Casa Asoke  ให้เช่า ราคาดี ทำเลเทพ ใจกลางเมือง"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26 sq.m., 10,000 THB. Source LivingInsider #2650782.",
+        "zh": "出租：1卧，26㎡，10,000 泰铢。来源 LivingInsider #2650782。",
+        "th": "เช่า: 1 นอน 26 ตร.ม. ราคา 10,000 บาท (LivingInsider #2650782)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2650782. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2650782。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2650782 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2650782",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2650782.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2650782",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2650782",
+      "source_url_hash": "6eaf9aa39946baf5ee9c916da940b19bf2ac51dbca6b49ff80af190b0e59a0a9",
+      "duplicate_fingerprint": "df8eaa164939008d263270c6bcf47c2ddb06a05c04228f5c69e4a59660679c5d",
+      "soft_match_fingerprint": "0d2451e61953554dedb3575cfc8303c5984f51e0f6edf44a094329042bc55fb6",
+      "_computed_fingerprint": "06e1fa5ff84d80fa85811dee1210f20186d2d9a569d7cf890c130be340420d57"
+    },
+    {
+      "external_ref": "livinginsider-2975079",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2799000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "Casa Condo Asoke - Dindaeng / 1 Bedroom (FOR SALE), คาซ่า คอนโด อโศก - ดินแดง / 1 ห้องนอน (ขาย) AMP011  ",
+        "zh": "Casa Condo Asoke - Dindaeng / 1 Bedroom (FOR SALE), คาซ่า คอนโด อโศก - ดินแดง / 1 ห้องนอน (ขาย) AMP011  ",
+        "th": "Casa Condo Asoke - Dindaeng / 1 Bedroom (FOR SALE), คาซ่า คอนโด อโศก - ดินแดง / 1 ห้องนอน (ขาย) AMP011  "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,799,000 THB. Source LivingInsider #2975079.",
+        "zh": "出租：1卧，30㎡，2,799,000 泰铢。来源 LivingInsider #2975079。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,799,000 บาท (LivingInsider #2975079)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2975079. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2975079。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2975079 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2975079",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2975079.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2975079",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2975079",
+      "source_url_hash": "416849c8cf6510320499ce28e4334aa8a8371301012a9ece41633a055a3c42a1",
+      "duplicate_fingerprint": "feac3abef228054dbd74d421080965d73cadf9670550f80c4aba25ed6a6b07c6",
+      "soft_match_fingerprint": "bf230d425c215e63ed605c1ec0fd2f91162029d2da2af666739f9ee08f142913",
+      "_computed_fingerprint": "2481c5ea1c025d4801424f3df890b0e93b497ba2df7a934d7e114794bd134c6c"
+    },
+    {
+      "external_ref": "livinginsider-2563481",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2390000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายด่วน!! ทำเลติดถนนใหญ่ วิวสวยมาก ใกล้ MRT พระราม 9 / ยินดีให้คำปรึกษาครับ✨คาซ่า อโศก-ดินแดง (Casa Condo Asoke-Dindaeng)",
+        "zh": "ขายด่วน!! ทำเลติดถนนใหญ่ วิวสวยมาก ใกล้ MRT พระราม 9 / ยินดีให้คำปรึกษาครับ✨คาซ่า อโศก-ดินแดง (Casa Condo Asoke-Dindaeng)",
+        "th": "ขายด่วน!! ทำเลติดถนนใหญ่ วิวสวยมาก ใกล้ MRT พระราม 9 / ยินดีให้คำปรึกษาครับ✨คาซ่า อโศก-ดินแดง (Casa Condo Asoke-Dindaeng)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,390,000 THB. Source LivingInsider #2563481.",
+        "zh": "出租：1卧，30㎡，2,390,000 泰铢。来源 LivingInsider #2563481。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,390,000 บาท (LivingInsider #2563481)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2563481. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2563481。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2563481 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2563481",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2563481.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2563481",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2563481",
+      "source_url_hash": "72fcc3de5a3975fc984e89ffa3a13c758cd937cd4d88099c7424c9d0465cb2b1",
+      "duplicate_fingerprint": "7f30159354e4e470dc442a81b780867ab079ee45dd05eb920c302365db1d444f",
+      "soft_match_fingerprint": "0d3550a40f57e2a4cdbd55f6432645d9c3bb6a7e8209c39c0d9af116f9cacc7c",
+      "_computed_fingerprint": "41f3af1af7a952c3fdeb73144673c9eab022f8c96cb926199e91eeaa995d325c"
+    },
+    {
+      "external_ref": "livinginsider-3019477",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2380000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "(รหัส S5454) ขายคอนโด โครงการ Casa Condo Asoke - Dindaeng : คาซ่า คอนโด อโศก - ดินแดง",
+        "zh": "(รหัส S5454) ขายคอนโด โครงการ Casa Condo Asoke - Dindaeng : คาซ่า คอนโด อโศก - ดินแดง",
+        "th": "(รหัส S5454) ขายคอนโด โครงการ Casa Condo Asoke - Dindaeng : คาซ่า คอนโด อโศก - ดินแดง"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 2,380,000 THB. Source LivingInsider #3019477.",
+        "zh": "出租：1卧，30㎡，2,380,000 泰铢。来源 LivingInsider #3019477。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 2,380,000 บาท (LivingInsider #3019477)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3019477. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3019477。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3019477 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3019477",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3019477.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3019477",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3019477",
+      "source_url_hash": "fd3feb69fc4fc4af00d9bc0eafd3a2748ce049affe31e9b402655333a8a7b4ee",
+      "duplicate_fingerprint": "61b06279ec82b6250cf77ff850bb8cb8ff8dc8675daf037b272e5466c7ca50d8",
+      "soft_match_fingerprint": "1e1d5e9d274f3331de18168d946a9e61f6091231fe873d74f3a184645d0ff594",
+      "_computed_fingerprint": "cffac000a28d4f02d80303c450adc1e4e99870636628055b0cad36346c1b7a9a"
+    }
+  ]
+}

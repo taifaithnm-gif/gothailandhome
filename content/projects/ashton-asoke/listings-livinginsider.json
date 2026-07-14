@@ -1,0 +1,766 @@
+{
+  "project_slug": "ashton-asoke",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "182",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/18/182/Condo/all/all/1/Condo-Ashton-Asoke.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-1742718",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "Condo for rent. 1 bedroom unit 34 sq.m. on 26th floor.",
+        "zh": "Condo for rent. 1 bedroom unit 34 sq.m. on 26th floor.",
+        "th": "Condo for rent. 1 bedroom unit 34 sq.m. on 26th floor."
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 30,000 THB. Source LivingInsider #1742718.",
+        "zh": "出租：1卧，34㎡，30,000 泰铢。来源 LivingInsider #1742718。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 30,000 บาท (LivingInsider #1742718)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1742718. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1742718。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1742718 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1742718",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1742718.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1742718",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1742718",
+      "source_url_hash": "c2b0b97babf6fe5d7c01ffaf831192cd0a0207630cd3e0b0c0bf343faf4273b7",
+      "duplicate_fingerprint": "c45cbf65d831ec428fce166ee70e41f6130800594e32acced17f477defe2483b",
+      "soft_match_fingerprint": "3500eafcd1270f81c0097b209eddf4eac229e9357470cf21ccc2331d3987e266",
+      "_computed_fingerprint": "db2a6301313eef7d0c4b764f2144230dcf9bf3bbedc496f3e324f30592e2b0fe"
+    },
+    {
+      "external_ref": "livinginsider-1478979",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 26500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "🅵🅾️🆁 🆁🅴🅽🆃  𝗔𝘀𝗵𝘁𝗼𝗻 𝗔𝘀𝗼𝗸𝗲 |  size 35 sq.m. | 1 bedroom | 1 bathroom |",
+        "zh": "🅵🅾️🆁 🆁🅴🅽🆃  𝗔𝘀𝗵𝘁𝗼𝗻 𝗔𝘀𝗼𝗸𝗲 |  size 35 sq.m. | 1 bedroom | 1 bathroom |",
+        "th": "🅵🅾️🆁 🆁🅴🅽🆃  𝗔𝘀𝗵𝘁𝗼𝗻 𝗔𝘀𝗼𝗸𝗲 |  size 35 sq.m. | 1 bedroom | 1 bathroom |"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 26,500 THB. Source LivingInsider #1478979.",
+        "zh": "出租：1卧，35㎡，26,500 泰铢。来源 LivingInsider #1478979。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 26,500 บาท (LivingInsider #1478979)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1478979. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1478979。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1478979 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1478979",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1478979.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1478979",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1478979",
+      "source_url_hash": "e359cfb401b4030563b335e4fa1f488f089a597619ad4331670e0cde86f82901",
+      "duplicate_fingerprint": "a47fc2afb474a7b1c07b6c3be1a3775a4d0f30ca9e3adbfd2dcb4b2f134c2361",
+      "soft_match_fingerprint": "007e9ea2060cf9c1e6904b9a5ec7e1b79d35e00c2ee11283e36e1772697cdbda",
+      "_computed_fingerprint": "38b261e0871c850eb644e90f3fa7a203842f63cc64511197e71c6e95f3173f38"
+    },
+    {
+      "external_ref": "livinginsider-2072554",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "เช่าถูกกว่าซื้อรีบจอง ห้องกว้างอยู่สบาย ติดบีทีเอสอโศก ใกล้mrtสุขุมวิท ใจกลางเมือง",
+        "zh": "เช่าถูกกว่าซื้อรีบจอง ห้องกว้างอยู่สบาย ติดบีทีเอสอโศก ใกล้mrtสุขุมวิท ใจกลางเมือง",
+        "th": "เช่าถูกกว่าซื้อรีบจอง ห้องกว้างอยู่สบาย ติดบีทีเอสอโศก ใกล้mrtสุขุมวิท ใจกลางเมือง"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 25,000 THB. Source LivingInsider #2072554.",
+        "zh": "出租：1卧，35㎡，25,000 泰铢。来源 LivingInsider #2072554。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 25,000 บาท (LivingInsider #2072554)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2072554. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2072554。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2072554 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2072554",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2072554.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2072554",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2072554",
+      "source_url_hash": "dd1a99730e287d2ec3f5c26705a888f9dee6bc9dd0f404bad5af85a73f7a4c3b",
+      "duplicate_fingerprint": "0cd6fa72b8aa58e80ce07414a7ce393dabfbbce609b7a89f4770ce7f656578df",
+      "soft_match_fingerprint": "007e9ea2060cf9c1e6904b9a5ec7e1b79d35e00c2ee11283e36e1772697cdbda",
+      "_computed_fingerprint": "711283432acf8a8e96ff695abfbeba4dd16a055904977bb122dc9066c7f148e5"
+    },
+    {
+      "external_ref": "livinginsider-2049485",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "🅵🅾️🆁 🆁🅴🅽🆃 𝗔𝘀𝗵𝘁𝗼𝗻 𝗔𝘀𝗼𝗸𝗲 | 1 ห้องนอน 1 ห้องน้ำ | ขนาด 35 ตร.ม. |  24,000 บาท / เดือน |",
+        "zh": "🅵🅾️🆁 🆁🅴🅽🆃 𝗔𝘀𝗵𝘁𝗼𝗻 𝗔𝘀𝗼𝗸𝗲 | 1 ห้องนอน 1 ห้องน้ำ | ขนาด 35 ตร.ม. |  24,000 บาท / เดือน |",
+        "th": "🅵🅾️🆁 🆁🅴🅽🆃 𝗔𝘀𝗵𝘁𝗼𝗻 𝗔𝘀𝗼𝗸𝗲 | 1 ห้องนอน 1 ห้องน้ำ | ขนาด 35 ตร.ม. |  24,000 บาท / เดือน |"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 24,000 THB. Source LivingInsider #2049485.",
+        "zh": "出租：1卧，35㎡，24,000 泰铢。来源 LivingInsider #2049485。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 24,000 บาท (LivingInsider #2049485)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2049485. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2049485。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2049485 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2049485",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2049485.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2049485",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2049485",
+      "source_url_hash": "c639fdd9101275ecaa4d3774c2e673cd9e798f5faff690e5c6969c7fd8743504",
+      "duplicate_fingerprint": "9a112bba52ca6bba326910551559cf59d9de4426bd4019496fa2424eb7f833ff",
+      "soft_match_fingerprint": "007e9ea2060cf9c1e6904b9a5ec7e1b79d35e00c2ee11283e36e1772697cdbda",
+      "_computed_fingerprint": "7713378600726e8049841b649d348f1867257b1618aba32dcb9a4e3b0445bcd8"
+    },
+    {
+      "external_ref": "livinginsider-3141679",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ห้องสวยตรงปก ติดบีทีเอส อโศก ห้องกว้างอยู่สบาย ราคาแบบนี้รีบจอง",
+        "zh": "ห้องสวยตรงปก ติดบีทีเอส อโศก ห้องกว้างอยู่สบาย ราคาแบบนี้รีบจอง",
+        "th": "ห้องสวยตรงปก ติดบีทีเอส อโศก ห้องกว้างอยู่สบาย ราคาแบบนี้รีบจอง"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 27,000 THB. Source LivingInsider #3141679.",
+        "zh": "出租：1卧，30㎡，27,000 泰铢。来源 LivingInsider #3141679。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 27,000 บาท (LivingInsider #3141679)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3141679. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3141679。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3141679 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3141679",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3141679.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3141679",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3141679",
+      "source_url_hash": "ca4e8a009caac90dda1680612a98b32e2aac8e0d09a9e078b76af1c720fa956c",
+      "duplicate_fingerprint": "0f302240a7e3f9e7a9ebbf06d7bceb8db3c4461ab7b9160687f632e9d11e4d47",
+      "soft_match_fingerprint": "d18d258f443f3f11b1191440e2320359f45738f198162591792de7daee6bb787",
+      "_computed_fingerprint": "657cff3bee3d71c3c79e08aba6399683c885768a3be0b02845ef6fa0659456d8"
+    },
+    {
+      "external_ref": "livinginsider-2767182",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "37",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "🏙️ LUXURY CONDO FOR RENT: Ashton Asoke (37th Floor, Stunning City View)",
+        "zh": "🏙️ LUXURY CONDO FOR RENT: Ashton Asoke (37th Floor, Stunning City View)",
+        "th": "🏙️ LUXURY CONDO FOR RENT: Ashton Asoke (37th Floor, Stunning City View)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 27,000 THB. Source LivingInsider #2767182.",
+        "zh": "出租：1卧，30㎡，27,000 泰铢。来源 LivingInsider #2767182。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 27,000 บาท (LivingInsider #2767182)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2767182. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2767182。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2767182 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2767182",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2767182.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2767182",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2767182",
+      "source_url_hash": "62209b196611b5b140012cde6bc98137a1584601fdf83ac3647e5131ea032562",
+      "duplicate_fingerprint": "79726dc6ce838591171c609c49d0a50e642bd9eae938b7e2a990c31ee47d8f4d",
+      "soft_match_fingerprint": "11efdb3f82a44f9a5ae3cd2b0b0a9ad1117279eb6f8e20c77af17c5105bc4287",
+      "_computed_fingerprint": "78ca1dd3327565e0a319b39390c819d98da0d33924b52bf412a4fd92a96aaf64"
+    },
+    {
+      "external_ref": "livinginsider-1492059",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "Ashton Asoke Condo for RENT ให้เช่า ** Ashton Asoke  @ 25,000บาท/month Call 096-2615656  ห้องกว้างมาก 35 ตรม. 1 นอน 1 น้ำ เฟอร์ครบ พร้อมอยู่    Location : Asoke - Sukhumvit  Rental Price : 25,000 Baht/Month  Condominium",
+        "zh": "Ashton Asoke Condo for RENT ให้เช่า ** Ashton Asoke  @ 25,000บาท/month Call 096-2615656  ห้องกว้างมาก 35 ตรม. 1 นอน 1 น้ำ เฟอร์ครบ พร้อมอยู่    Location : Asoke - Sukhumvit  Rental Price : 25,000 Baht/Month  Condominium",
+        "th": "Ashton Asoke Condo for RENT ให้เช่า ** Ashton Asoke  @ 25,000บาท/month Call 096-2615656  ห้องกว้างมาก 35 ตรม. 1 นอน 1 น้ำ เฟอร์ครบ พร้อมอยู่    Location : Asoke - Sukhumvit  Rental Price : 25,000 Baht/Month  Condominium"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 25,000 THB. Source LivingInsider #1492059.",
+        "zh": "出租：1卧，35㎡，25,000 泰铢。来源 LivingInsider #1492059。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 25,000 บาท (LivingInsider #1492059)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1492059. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1492059。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1492059 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1492059",
+      "source_updated_at": "2026-09-06",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1492059.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1492059",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1492059",
+      "source_url_hash": "31c511fa5f0c7e005049bdb5ca0dadb36564c1ff2dc81ce1b89d111b3c87c180",
+      "duplicate_fingerprint": "f4d156ae981652586cb57043e2aded64490888b911fd69f9848f93686f75f6ee",
+      "soft_match_fingerprint": "007e9ea2060cf9c1e6904b9a5ec7e1b79d35e00c2ee11283e36e1772697cdbda",
+      "_computed_fingerprint": "630f3476aff6c7cb23fb56f1903cbd82d1a722900e1ef173357ab61610a0ac28"
+    },
+    {
+      "external_ref": "livinginsider-3109998",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 32000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": "38",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "🏙️ ให้เช่า ASHTON Asoke | ชั้น 38 วิวสูง ใจกลางอโศก",
+        "zh": "🏙️ ให้เช่า ASHTON Asoke | ชั้น 38 วิวสูง ใจกลางอโศก",
+        "th": "🏙️ ให้เช่า ASHTON Asoke | ชั้น 38 วิวสูง ใจกลางอโศก"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 32,000 THB. Source LivingInsider #3109998.",
+        "zh": "出租：1卧，31㎡，32,000 泰铢。来源 LivingInsider #3109998。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 32,000 บาท (LivingInsider #3109998)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3109998. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3109998。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3109998 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3109998",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3109998.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3109998",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3109998",
+      "source_url_hash": "ecb8b25b7664932a492bcb90edcec145901cf49c5b5cd1db5bcccb31e593471c",
+      "duplicate_fingerprint": "c6155ad10f8d1ee42656a95b1d6ca81dd6b5c353d3ac7c0f363e99357dc3e1a6",
+      "soft_match_fingerprint": "46a95dc48238e006e032ac415d30b2ab69c5be5b60ac1b6b3c78ac4056e850c2",
+      "_computed_fingerprint": "ab09041a1dae72f9f9d320adb31e6bdc0f9e19861e3f45432d212434e0a91870"
+    },
+    {
+      "external_ref": "livinginsider-2003557",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  แอชตัน อโศก วิวสวย ชั้นสูง รีโนเวทใหม่ BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-90305",
+        "zh": "ขายคอนโด  แอชตัน อโศก วิวสวย ชั้นสูง รีโนเวทใหม่ BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-90305",
+        "th": "ขายคอนโด  แอชตัน อโศก วิวสวย ชั้นสูง รีโนเวทใหม่ BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-90305"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 6,600,000 THB. Source LivingInsider #2003557.",
+        "zh": "出租：1卧，30㎡，6,600,000 泰铢。来源 LivingInsider #2003557。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 6,600,000 บาท (LivingInsider #2003557)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2003557. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2003557。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2003557 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2003557",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2003557.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2003557",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2003557",
+      "source_url_hash": "0373d2e12b318e019b14897a433e7f4c3bf5bca6d018e1135c4e178234c4bea3",
+      "duplicate_fingerprint": "08fcbc48284778f5e7437267666c059e51ad44e1560c5b45778d83b1cf345cd1",
+      "soft_match_fingerprint": "862ca52d18fdee19a0bffda13a512670c0978d0a715327bbbc0a43bca5791b81",
+      "_computed_fingerprint": "cdce9d788c91938ab0dea829408fcbc470eeaa8b3dfd8add206460d06621d609"
+    },
+    {
+      "external_ref": "livinginsider-2079589",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 19950000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  แอชตัน อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-07632",
+        "zh": "ขายคอนโด  แอชตัน อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-07632",
+        "th": "ขายคอนโด  แอชตัน อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-07632"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 19,950,000 THB. Source LivingInsider #2079589.",
+        "zh": "出租：2卧，30㎡，19,950,000 泰铢。来源 LivingInsider #2079589。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 19,950,000 บาท (LivingInsider #2079589)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2079589. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2079589。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2079589 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2079589",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2079589.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2079589",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2079589",
+      "source_url_hash": "90b00a9f1473fd49b6edec4969578652c576e2eb0eed88063ea947a6834c4e22",
+      "duplicate_fingerprint": "0a274ca6926d88b1fc52b69ed803c0d85233005dd631fb8d54e8bdb912097057",
+      "soft_match_fingerprint": "ed9400b5ad6e1ad0471c0fcd3fd9c1d508a9e157cdaffcff577f27a9a7398eab",
+      "_computed_fingerprint": "7b411db6c548cabe46a7f3e1c84a520415efed6657cc9e1ea9d6eca32988ac05"
+    },
+    {
+      "external_ref": "livinginsider-2106901",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  แอชตัน อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ    CX-94724",
+        "zh": "ขายคอนโด  แอชตัน อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ    CX-94724",
+        "th": "ขายคอนโด  แอชตัน อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ    CX-94724"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 6,300,000 THB. Source LivingInsider #2106901.",
+        "zh": "出租：1卧，30㎡，6,300,000 泰铢。来源 LivingInsider #2106901。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 6,300,000 บาท (LivingInsider #2106901)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2106901. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2106901。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2106901 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2106901",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2106901.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2106901",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2106901",
+      "source_url_hash": "6278e16f5074575657d21cdc8c056fd1b4678bfa3b1ed6aee35b801d2e354e95",
+      "duplicate_fingerprint": "aa5028bdd6cedd74f505409fb643e30c11d4417d33751ed940b468dfe711ca58",
+      "soft_match_fingerprint": "862ca52d18fdee19a0bffda13a512670c0978d0a715327bbbc0a43bca5791b81",
+      "_computed_fingerprint": "37bc28b30845411474e3f94c3cbf301e9ad0f7f218cc87c062f0fc6ccd0ac4f8"
+    },
+    {
+      "external_ref": "livinginsider-3069328",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  แอชตัน อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-154752",
+        "zh": "ขายคอนโด  แอชตัน อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-154752",
+        "th": "ขายคอนโด  แอชตัน อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ CX-154752"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 10,900,000 THB. Source LivingInsider #3069328.",
+        "zh": "出租：1卧，30㎡，10,900,000 泰铢。来源 LivingInsider #3069328。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 10,900,000 บาท (LivingInsider #3069328)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3069328. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3069328。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3069328 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3069328",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3069328.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3069328",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3069328",
+      "source_url_hash": "698f569e938d6794ca689dd05da745693d8c93e8e28ceb48395c65895998f2b1",
+      "duplicate_fingerprint": "db45272cff77d61c5c2b54ba0bf12c7fbfbba6e485ee50dec3d10d571b256578",
+      "soft_match_fingerprint": "862ca52d18fdee19a0bffda13a512670c0978d0a715327bbbc0a43bca5791b81",
+      "_computed_fingerprint": "5d120ca5f2bf3feafbd00f7d7ae08f9e7348da6924e6640bb51290cd2f0e02d1"
+    },
+    {
+      "external_ref": "livinginsider-2606016",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 19900000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  แอชตัน อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ  CX-07634",
+        "zh": "ขายคอนโด  แอชตัน อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ  CX-07634",
+        "th": "ขายคอนโด  แอชตัน อโศก BTS-อโศก คลองเตยเหนือ เขต วัฒนา กรุงเทพ  CX-07634"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 19,900,000 THB. Source LivingInsider #2606016.",
+        "zh": "出租：2卧，30㎡，19,900,000 泰铢。来源 LivingInsider #2606016。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 19,900,000 บาท (LivingInsider #2606016)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2606016. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2606016。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2606016 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2606016",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2606016.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2606016",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2606016",
+      "source_url_hash": "4b0523ce391a1338bf5f6d21dd76663bbb86b9fa47f65a617acf8a627977153e",
+      "duplicate_fingerprint": "1811ce99fa52d36d1d91a29fcbdaa6e09add7e2223b0c86b36058db884d6a7c6",
+      "soft_match_fingerprint": "d4a7f72db253c7257736115f67ab83dcad78c277a4291a75eaccaddbffb3dcff",
+      "_computed_fingerprint": "abd04924aa028131e63fed0eb4f2828c29efea27cce58ba4f30d7ef3b61a2fca"
+    },
+    {
+      "external_ref": "livinginsider-3011226",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "30",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ปล่อยเช่าและขาย Ashton Asoke ราคาดีที่สุดในตึก 23k! ตกแต่งเฟอร์ครบ พร้อมเข้าอยู่!",
+        "zh": "ปล่อยเช่าและขาย Ashton Asoke ราคาดีที่สุดในตึก 23k! ตกแต่งเฟอร์ครบ พร้อมเข้าอยู่!",
+        "th": "ปล่อยเช่าและขาย Ashton Asoke ราคาดีที่สุดในตึก 23k! ตกแต่งเฟอร์ครบ พร้อมเข้าอยู่!"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 7,000,000 THB. Source LivingInsider #3011226.",
+        "zh": "出租：1卧，30㎡，7,000,000 泰铢。来源 LivingInsider #3011226。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 7,000,000 บาท (LivingInsider #3011226)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3011226. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3011226。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3011226 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3011226",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3011226.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3011226",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3011226",
+      "source_url_hash": "43e11b3f517ad256a4a29dca94ccb0b355a41be04f25bcf0abc1af5a0a545f49",
+      "duplicate_fingerprint": "27489d897ef538ca5c4dd0952fad951acd2177fbdb5217095f7a41fe7b525810",
+      "soft_match_fingerprint": "fe643681aeae043e55213c5aad049000101ea727db15d8185e05071e23d2eecc",
+      "_computed_fingerprint": "54b9d13d8efba0df3828895b580f55737e344e74272f27b635c3982e22c8d7ea"
+    }
+  ]
+}

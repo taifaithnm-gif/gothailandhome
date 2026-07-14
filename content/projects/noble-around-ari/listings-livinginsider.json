@@ -1,0 +1,442 @@
+{
+  "project_slug": "noble-around-ari",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2682",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/8/2682/Condo/all/all/1/Condo-Noble-Around-Ari.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-2997952",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "4",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "ปล่อยเช่าเริ่มต้น 1 เดือน | โนเบิล อราวน์ อารีย์ 1 ห้องนอน | ประกันเพียง 1 เดือน พร้อมเข้าอยู่",
+        "zh": "ปล่อยเช่าเริ่มต้น 1 เดือน | โนเบิล อราวน์ อารีย์ 1 ห้องนอน | ประกันเพียง 1 เดือน พร้อมเข้าอยู่",
+        "th": "ปล่อยเช่าเริ่มต้น 1 เดือน | โนเบิล อราวน์ อารีย์ 1 ห้องนอน | ประกันเพียง 1 เดือน พร้อมเข้าอยู่"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 27,000 THB. Source LivingInsider #2997952.",
+        "zh": "出租：1卧，27㎡，27,000 泰铢。来源 LivingInsider #2997952。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 27,000 บาท (LivingInsider #2997952)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2997952. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2997952。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2997952 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2997952",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2997952.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2997952",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2997952",
+      "source_url_hash": "0ef965e87ed2c17d6ce77cf088b666b708b181621ec9954b6f10bec9c687d608",
+      "duplicate_fingerprint": "69f5c393942905971edf4e3ef409a415293558d55f58b89afeb607f97937cf84",
+      "soft_match_fingerprint": "48185987c87ea25d5b6775cde13325f4976a0aa457b931606eea2a7f8e6528bd",
+      "_computed_fingerprint": "f40656a894e59a4e1750d1a9c3adb67a57f9984081523363c961a3fb3f1f8bdd"
+    },
+    {
+      "external_ref": "livinginsider-3144356",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "4",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "🏙️ Noble Around Ari | ห้องใหม่ตกแต่งสวย เพียง 80 ม. จาก BTS อารีย์ ✨",
+        "zh": "🏙️ Noble Around Ari | ห้องใหม่ตกแต่งสวย เพียง 80 ม. จาก BTS อารีย์ ✨",
+        "th": "🏙️ Noble Around Ari | ห้องใหม่ตกแต่งสวย เพียง 80 ม. จาก BTS อารีย์ ✨"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 24,000 THB. Source LivingInsider #3144356.",
+        "zh": "出租：1卧，30㎡，24,000 泰铢。来源 LivingInsider #3144356。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 24,000 บาท (LivingInsider #3144356)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3144356. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3144356。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3144356 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3144356",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3144356.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3144356",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3144356",
+      "source_url_hash": "eefb8072bacec2ec394e45bb1d78b2595316391275ce2014af6261d28d75f714",
+      "duplicate_fingerprint": "e53fb092c35335132a1b0ae39fe9f99be3d6ee9777ace053292b7a89bd3386ae",
+      "soft_match_fingerprint": "d214c29179153974ddf0af9eae9822b1b96bbb0c9a85259599aa8d0138feec8f",
+      "_computed_fingerprint": "bbefc4cbe59086e37e882e2316dc7478efa1dad4ff34d30aaf7a75b8e71ad990"
+    },
+    {
+      "external_ref": "livinginsider-2812800",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  โนเบิล อราวน์ อารีย์ ชั้นสูง BTS-อารีย์ สามเสนใน เขต พญาไท กรุงเทพ  CX-114596",
+        "zh": "ขายคอนโด  โนเบิล อราวน์ อารีย์ ชั้นสูง BTS-อารีย์ สามเสนใน เขต พญาไท กรุงเทพ  CX-114596",
+        "th": "ขายคอนโด  โนเบิล อราวน์ อารีย์ ชั้นสูง BTS-อารีย์ สามเสนใน เขต พญาไท กรุงเทพ  CX-114596"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 4,500,000 THB. Source LivingInsider #2812800.",
+        "zh": "出租：1卧，30㎡，4,500,000 泰铢。来源 LivingInsider #2812800。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 4,500,000 บาท (LivingInsider #2812800)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2812800. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2812800。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2812800 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2812800",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2812800.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2812800",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2812800",
+      "source_url_hash": "6afbf75be5490ce2ab59a806f3cca13aa5e13cb545c39a8c16ffd7f340d37641",
+      "duplicate_fingerprint": "58ba2aabaf30bad5f019dc0f4951fde7e0b686ed996bca318a7dab8c723e5be8",
+      "soft_match_fingerprint": "8087931cf7cfef4dd201d889523cb5ad1a47a2895c6482582789c1cc28ed1bd0",
+      "_computed_fingerprint": "53a817dbcbbce1dcff1e964ed9fb0a781598ea111085960c1008ef2ab7fce210"
+    },
+    {
+      "external_ref": "livinginsider-2976676",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด โนเบิล อราวน์ อารีย์ ชั้นสูง BTS-อารีย์ สามเสนใน เขต พญาไท กรุงเทพ CX-149808",
+        "zh": "ขายคอนโด โนเบิล อราวน์ อารีย์ ชั้นสูง BTS-อารีย์ สามเสนใน เขต พญาไท กรุงเทพ CX-149808",
+        "th": "ขายคอนโด โนเบิล อราวน์ อารีย์ ชั้นสูง BTS-อารีย์ สามเสนใน เขต พญาไท กรุงเทพ CX-149808"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 4,500,000 THB. Source LivingInsider #2976676.",
+        "zh": "出租：1卧，30㎡，4,500,000 泰铢。来源 LivingInsider #2976676。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 4,500,000 บาท (LivingInsider #2976676)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2976676. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2976676。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2976676 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2976676",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2976676.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2976676",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2976676",
+      "source_url_hash": "ce6855f644b9ac7dccddb8a2b65e10db9fedf216fc25b38ed031d3ac37aacebc",
+      "duplicate_fingerprint": "74f9a3dfeb725dfaef760cb0f34773a2da8cf8062be022d8680d207f0c761121",
+      "soft_match_fingerprint": "d30350eaa236a62b14c4276cd139e47633345aaacd4230a5e65ac5851ae8ce61",
+      "_computed_fingerprint": "1fe596b3cbc43b1dcde2300b07178367d063b239eaa2c07874ab672a695464dc"
+    },
+    {
+      "external_ref": "livinginsider-2309163",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5767000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  โนเบิล อราวน์ อารีย์ BTS-อารีย์ สามเสนใน เขต พญาไท กรุงเทพ CX-103857",
+        "zh": "ขายคอนโด  โนเบิล อราวน์ อารีย์ BTS-อารีย์ สามเสนใน เขต พญาไท กรุงเทพ CX-103857",
+        "th": "ขายคอนโด  โนเบิล อราวน์ อารีย์ BTS-อารีย์ สามเสนใน เขต พญาไท กรุงเทพ CX-103857"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,767,000 THB. Source LivingInsider #2309163.",
+        "zh": "出租：1卧，30㎡，5,767,000 泰铢。来源 LivingInsider #2309163。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,767,000 บาท (LivingInsider #2309163)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2309163. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2309163。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2309163 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2309163",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2309163.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2309163",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2309163",
+      "source_url_hash": "b3439a1569e5f15811bfe4e6c8a064ae69ad564477e2a4b71f2557bc4695726e",
+      "duplicate_fingerprint": "622e48bc302dea0be5e3d1c60fb3790503233f4b24fdea465c2b09a49c86ab4e",
+      "soft_match_fingerprint": "30cfe0cf38a252761c8dab0a94431ed8346243dbd12b40e9218d9196eb872071",
+      "_computed_fingerprint": "e08e6a2ead5f1c51ac09718e89ed3b272d9f4c19a17832073a84cebe7a6329c1"
+    },
+    {
+      "external_ref": "livinginsider-3140990",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4690000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "1",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥ขายด่วนห้องหลุด ราคาดีที่สุดในโครงการ🔥Noble Around Ari (1 ห้องนอน ,34 ตร.ม.) เพียง 4.69 MB เท่านั้น!! Tel.0922635410 (เอิร์ธ)",
+        "zh": "🔥ขายด่วนห้องหลุด ราคาดีที่สุดในโครงการ🔥Noble Around Ari (1 ห้องนอน ,34 ตร.ม.) เพียง 4.69 MB เท่านั้น!! Tel.0922635410 (เอิร์ธ)",
+        "th": "🔥ขายด่วนห้องหลุด ราคาดีที่สุดในโครงการ🔥Noble Around Ari (1 ห้องนอน ,34 ตร.ม.) เพียง 4.69 MB เท่านั้น!! Tel.0922635410 (เอิร์ธ)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 4,690,000 THB. Source LivingInsider #3140990.",
+        "zh": "出租：1卧，34㎡，4,690,000 泰铢。来源 LivingInsider #3140990。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 4,690,000 บาท (LivingInsider #3140990)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3140990. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3140990。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3140990 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3140990",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3140990.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3140990",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3140990",
+      "source_url_hash": "d5a4cab526c4b3ae70969336f1fe80dbd480d557f6d252f7c04cb2701087e512",
+      "duplicate_fingerprint": "c1a3c08083211414b2ae978272f0c3b93013a512e9cbace3959f6a564ee8e019",
+      "soft_match_fingerprint": "58b5edf1cb25db45413c296f75f13e3a46a603e3f79430c28fd6bd40e7b0c9d1",
+      "_computed_fingerprint": "ad15e56b1e3308b19eb7df8881fe8ceeb63f6d41716adc9242a304bfc7ca958a"
+    },
+    {
+      "external_ref": "livinginsider-2982731",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด โนเบิล อราวน์ อารีย์ BTS-อารีย์ สามเสนใน เขต พญาไท สมุทรปราการ CX-49227",
+        "zh": "ขายคอนโด โนเบิล อราวน์ อารีย์ BTS-อารีย์ สามเสนใน เขต พญาไท สมุทรปราการ CX-49227",
+        "th": "ขายคอนโด โนเบิล อราวน์ อารีย์ BTS-อารีย์ สามเสนใน เขต พญาไท สมุทรปราการ CX-49227"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 9,600,000 THB. Source LivingInsider #2982731.",
+        "zh": "出租：1卧，30㎡，9,600,000 泰铢。来源 LivingInsider #2982731。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 9,600,000 บาท (LivingInsider #2982731)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2982731. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2982731。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2982731 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2982731",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2982731.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2982731",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2982731",
+      "source_url_hash": "eb9247b70bbfaec82a7f7c2c7ec2036bcf0faed437cef89f7aaab2a250a8ce3e",
+      "duplicate_fingerprint": "ed8e5ad80f16e518ab14ce19539728981a23ca2894ffeb9e497bace97f7eb9b6",
+      "soft_match_fingerprint": "b4913a162e2b9a449ecf92e5da4666619185e0a309ba45f9123f799c9416de52",
+      "_computed_fingerprint": "92dd3a3c41a8cc6ff0c0b86fbec7f5b376807af0f6b046f0c4793ce9a551c120"
+    },
+    {
+      "external_ref": "livinginsider-2124549",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  โนเบิล อราวน์ อารีย์ BTS-อารีย์ สามเสนใน เขต พญาไท กรุงเทพ  CX-87450",
+        "zh": "ขายคอนโด  โนเบิล อราวน์ อารีย์ BTS-อารีย์ สามเสนใน เขต พญาไท กรุงเทพ  CX-87450",
+        "th": "ขายคอนโด  โนเบิล อราวน์ อารีย์ BTS-อารีย์ สามเสนใน เขต พญาไท กรุงเทพ  CX-87450"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 10,000,000 THB. Source LivingInsider #2124549.",
+        "zh": "出租：1卧，30㎡，10,000,000 泰铢。来源 LivingInsider #2124549。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 10,000,000 บาท (LivingInsider #2124549)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2124549. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2124549。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2124549 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2124549",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2124549.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2124549",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2124549",
+      "source_url_hash": "0234e1a857987b0b41abe1edfc765091b8820545e6f2d8450c8cd5aa27864562",
+      "duplicate_fingerprint": "ac95af2992727887c7df4e70f39bec163a729fd13a953b0759bbbb6f4c93fd3a",
+      "soft_match_fingerprint": "8087931cf7cfef4dd201d889523cb5ad1a47a2895c6482582789c1cc28ed1bd0",
+      "_computed_fingerprint": "0bdb5944c325084b34fe5de3abbdf3ea92ede018fc9510d52a8c04da592e181f"
+    }
+  ]
+}

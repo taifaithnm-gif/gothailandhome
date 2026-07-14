@@ -1,0 +1,712 @@
+{
+  "project_slug": "ideo-mobi-sukhumvit-66",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2566",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/19/2566/Condo/all/all/1/Condo-Ideo-Mobi-Sukhumvit-66.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3127271",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 37000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 54,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "🏙️🔥 Ideo Mobi Sukhumvit 66 | ปรับลดราคาเหลือเพียง 37,000 บาท/เดือน 🚆 ติด Skywalk เชื่อม BTS อุดมสุข | 2 ห้องนอน ห้องใหญ่ พร้อมอ่างอาบน้ำ",
+        "zh": "🏙️🔥 Ideo Mobi Sukhumvit 66 | ปรับลดราคาเหลือเพียง 37,000 บาท/เดือน 🚆 ติด Skywalk เชื่อม BTS อุดมสุข | 2 ห้องนอน ห้องใหญ่ พร้อมอ่างอาบน้ำ",
+        "th": "🏙️🔥 Ideo Mobi Sukhumvit 66 | ปรับลดราคาเหลือเพียง 37,000 บาท/เดือน 🚆 ติด Skywalk เชื่อม BTS อุดมสุข | 2 ห้องนอน ห้องใหญ่ พร้อมอ่างอาบน้ำ"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 54 sq.m., 37,000 THB. Source LivingInsider #3127271.",
+        "zh": "出租：2卧，54㎡，37,000 泰铢。来源 LivingInsider #3127271。",
+        "th": "เช่า: 2 นอน 54 ตร.ม. ราคา 37,000 บาท (LivingInsider #3127271)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3127271. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3127271。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3127271 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3127271",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3127271.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3127271",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3127271",
+      "source_url_hash": "2aa7c58e6fa7343b8b87f1a0362105475c685b4b002a7653fe502135486f6457",
+      "duplicate_fingerprint": "8468705434b0938e1f4a22c63d4c942ec7e822c439016cf54c42264896b2d9a2",
+      "soft_match_fingerprint": "66cbcf2f36af15d9c1a1e89126fd7128daa5891220fbe66a5e01e7a47b748e01",
+      "_computed_fingerprint": "16f73d8f0340fb584a5bdb77ffe9f6f2a7626b348d92adae6993f4277417f41d"
+    },
+    {
+      "external_ref": "livinginsider-3078964",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": " Ideo Mobi Sukhumvit 66 ห้องสวยวิวโล่ง ชั้นสูง อยู่สบาย Mood ดี ✨ ใกล้ BTS Udom Suk เฟอร์ครบ พร้อมอยู่ เจ้าของใจดีมาก 💖",
+        "zh": " Ideo Mobi Sukhumvit 66 ห้องสวยวิวโล่ง ชั้นสูง อยู่สบาย Mood ดี ✨ ใกล้ BTS Udom Suk เฟอร์ครบ พร้อมอยู่ เจ้าของใจดีมาก 💖",
+        "th": " Ideo Mobi Sukhumvit 66 ห้องสวยวิวโล่ง ชั้นสูง อยู่สบาย Mood ดี ✨ ใกล้ BTS Udom Suk เฟอร์ครบ พร้อมอยู่ เจ้าของใจดีมาก 💖"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 18,000 THB. Source LivingInsider #3078964.",
+        "zh": "出租：1卧，34㎡，18,000 泰铢。来源 LivingInsider #3078964。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 18,000 บาท (LivingInsider #3078964)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3078964. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3078964。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3078964 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3078964",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3078964.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3078964",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3078964",
+      "source_url_hash": "0de4ac39ab2b7cf9536f294c1108d23873d6079019040015f5fdbb6e0916fdde",
+      "duplicate_fingerprint": "0319a974d82022a271cb8975ccd18d209fb3d94a403e060b1e9c6c7396b53a12",
+      "soft_match_fingerprint": "476a0e2ff79bf91c06a98ad3b9f311bce01548e9e74106068fe2a0e1509f1260",
+      "_computed_fingerprint": "bb8a3b39263a62cde280c1794c34f012ec67f2bcc94b837ed2abe55d3a92a335"
+    },
+    {
+      "external_ref": "livinginsider-1928496",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ไอดีโอ โมบิ สุขุมวิท 66 BTS-อุดมสุข บางนาเหนือ เขต บางนา กรุงเทพ CX-118422",
+        "zh": "ขายคอนโด  ไอดีโอ โมบิ สุขุมวิท 66 BTS-อุดมสุข บางนาเหนือ เขต บางนา กรุงเทพ CX-118422",
+        "th": "ขายคอนโด  ไอดีโอ โมบิ สุขุมวิท 66 BTS-อุดมสุข บางนาเหนือ เขต บางนา กรุงเทพ CX-118422"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 6,600,000 THB. Source LivingInsider #1928496.",
+        "zh": "出租：1卧，30㎡，6,600,000 泰铢。来源 LivingInsider #1928496。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 6,600,000 บาท (LivingInsider #1928496)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1928496. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1928496。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1928496 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1928496",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1928496.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1928496",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1928496",
+      "source_url_hash": "cdcc077a6bce5446c98919768633c51fc24663d94e9a02d491e42c032713973e",
+      "duplicate_fingerprint": "707832dd3137a80724a91bdaf79457ccc3498222af43651e846720f89121a569",
+      "soft_match_fingerprint": "14f7aaab562adc8885eaa478b54f5e8688899e9de82d3eb1220635af7b90369e",
+      "_computed_fingerprint": "b6665a44b9a41cee09529705fd8a64aa503d1eacbec03d97cba80d19d9a7d8ab"
+    },
+    {
+      "external_ref": "livinginsider-2790257",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "เช่าคอนโด  ไอดีโอ โมบิ สุขุมวิท 66 BTS-อุดมสุข บางนาเหนือ เขต บางนา กรุงเทพ  CX-11049",
+        "zh": "เช่าคอนโด  ไอดีโอ โมบิ สุขุมวิท 66 BTS-อุดมสุข บางนาเหนือ เขต บางนา กรุงเทพ  CX-11049",
+        "th": "เช่าคอนโด  ไอดีโอ โมบิ สุขุมวิท 66 BTS-อุดมสุข บางนาเหนือ เขต บางนา กรุงเทพ  CX-11049"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 25,000 THB. Source LivingInsider #2790257.",
+        "zh": "出租：1卧，30㎡，25,000 泰铢。来源 LivingInsider #2790257。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 25,000 บาท (LivingInsider #2790257)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2790257. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2790257。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2790257 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2790257",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2790257.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2790257",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2790257",
+      "source_url_hash": "a2c72817f477dbe70cf93936d951fbfbb6763b23e22d5a4866b4d9e942039e8c",
+      "duplicate_fingerprint": "24d7b29e684c2898e8335355470a422be0eb241d23f04eddf0367e5ae94f3bd7",
+      "soft_match_fingerprint": "788d339b22e77f34ea00edecf2b31fb28dd7eec225608c60be7fc72ae490b7eb",
+      "_computed_fingerprint": "d9df5c042533cb4158fa6a7bfd193843db6231b13b86337e746bcb1a40215dd4"
+    },
+    {
+      "external_ref": "livinginsider-3097130",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 60000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 80,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥Rent 2BR🔥Floor26🔥80sqm🔥60,000/month🔥Ideo Mobi 66🔥",
+        "zh": "🔥Rent 2BR🔥Floor26🔥80sqm🔥60,000/month🔥Ideo Mobi 66🔥",
+        "th": "🔥Rent 2BR🔥Floor26🔥80sqm🔥60,000/month🔥Ideo Mobi 66🔥"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 80 sq.m., 60,000 THB. Source LivingInsider #3097130.",
+        "zh": "出租：2卧，80㎡，60,000 泰铢。来源 LivingInsider #3097130。",
+        "th": "เช่า: 2 นอน 80 ตร.ม. ราคา 60,000 บาท (LivingInsider #3097130)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3097130. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3097130。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3097130 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3097130",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3097130.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3097130",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3097130",
+      "source_url_hash": "47492ea0f8eb5abdee729795ea466b30e1459a8bfd4796a1a671571598611e7d",
+      "duplicate_fingerprint": "e9ece274191d7a3900324d8813a6fc37be2f922eea288af2ce115b8cc6b9b1b1",
+      "soft_match_fingerprint": "5ca66f16842d4e04620a2249655022cb313a916af7a597177397b40b2ef16936",
+      "_computed_fingerprint": "21779198c38dfbdb98a8c6778ec4609a534b7e03c359ef45f144ecbd8e3b1dc9"
+    },
+    {
+      "external_ref": "livinginsider-3061727",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 60000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 81,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥Rent at  Ideo mobi Sukhumvit 66  🔥2BR 2BR 🔥60,000🔥81sqm 🔥Floor8",
+        "zh": "🔥Rent at  Ideo mobi Sukhumvit 66  🔥2BR 2BR 🔥60,000🔥81sqm 🔥Floor8",
+        "th": "🔥Rent at  Ideo mobi Sukhumvit 66  🔥2BR 2BR 🔥60,000🔥81sqm 🔥Floor8"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 81 sq.m., 60,000 THB. Source LivingInsider #3061727.",
+        "zh": "出租：2卧，81㎡，60,000 泰铢。来源 LivingInsider #3061727。",
+        "th": "เช่า: 2 นอน 81 ตร.ม. ราคา 60,000 บาท (LivingInsider #3061727)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3061727. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3061727。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3061727 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3061727",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3061727.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3061727",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3061727",
+      "source_url_hash": "9ef27fe93765049af4483432e3d6c9b7ed84cae0bc74afac7a4b6a30e4c817a2",
+      "duplicate_fingerprint": "6a17bdc3097413ad31399a4a56e939093dc2a52b9675b3c498ade408f7682bbc",
+      "soft_match_fingerprint": "7946b7fe7ed9ceebb529f836101185a14c360b995136adcda97bb880172623d8",
+      "_computed_fingerprint": "4d2efe92462af34045bd5b517d583d10cc60b8bf43b1fe3387fbed3cd2b94cef"
+    },
+    {
+      "external_ref": "livinginsider-3058768",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 40000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 54,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥Rent at  Ideo Mobi Sukhumvit 66   🔥2BR 1BR 🔥40,000🔥54sqm 🔥Floor15",
+        "zh": "🔥Rent at  Ideo Mobi Sukhumvit 66   🔥2BR 1BR 🔥40,000🔥54sqm 🔥Floor15",
+        "th": "🔥Rent at  Ideo Mobi Sukhumvit 66   🔥2BR 1BR 🔥40,000🔥54sqm 🔥Floor15"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 54 sq.m., 40,000 THB. Source LivingInsider #3058768.",
+        "zh": "出租：2卧，54㎡，40,000 泰铢。来源 LivingInsider #3058768。",
+        "th": "เช่า: 2 นอน 54 ตร.ม. ราคา 40,000 บาท (LivingInsider #3058768)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3058768. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3058768。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3058768 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3058768",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3058768.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3058768",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3058768",
+      "source_url_hash": "5d4af037f09a2ab8deb429d941db724de8051b245005f65886bcb174be632fc4",
+      "duplicate_fingerprint": "b323f4920c92dcfa7edde4210e278e348dc72ff1288e9d95b267eef80eb64bbf",
+      "soft_match_fingerprint": "66cbcf2f36af15d9c1a1e89126fd7128daa5891220fbe66a5e01e7a47b748e01",
+      "_computed_fingerprint": "b975772483306bac72e349a1395eafa547cf7c95717a38fc70276b234b89f5fc"
+    },
+    {
+      "external_ref": "livinginsider-3050508",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 40000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 54,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥Rent at Ideo Mobi Sukhumvit66 🔥2BR 1BR 🔥40,000🔥54sqm 🔥Floor15",
+        "zh": "🔥Rent at Ideo Mobi Sukhumvit66 🔥2BR 1BR 🔥40,000🔥54sqm 🔥Floor15",
+        "th": "🔥Rent at Ideo Mobi Sukhumvit66 🔥2BR 1BR 🔥40,000🔥54sqm 🔥Floor15"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 54 sq.m., 40,000 THB. Source LivingInsider #3050508.",
+        "zh": "出租：2卧，54㎡，40,000 泰铢。来源 LivingInsider #3050508。",
+        "th": "เช่า: 2 นอน 54 ตร.ม. ราคา 40,000 บาท (LivingInsider #3050508)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3050508. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3050508。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3050508 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3050508",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3050508.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3050508",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3050508",
+      "source_url_hash": "9da16618d68dcac23fa6e7717c05c2bca9a6cf30820032c7490b40fa93254557",
+      "duplicate_fingerprint": "085719eb40bec0c320b9e26f106e2f129429c7f6df73f97061e6f91d2d0a705d",
+      "soft_match_fingerprint": "66cbcf2f36af15d9c1a1e89126fd7128daa5891220fbe66a5e01e7a47b748e01",
+      "_computed_fingerprint": "188c1698d296eb0cbbea3d3277fd1c56d6aef28d772ec2a8f6d2ff8ca286cc4a"
+    },
+    {
+      "external_ref": "livinginsider-3059801",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 12600000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 85,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "[ขายคอนโด] ไอดีโอ โมบิ สุขุมวิท 66 ✨85 ตรม 2ห้องนอน 2ห้องน้ำ (พร้อม 2 อ่างอาบน้ำ) ใกล้ True Digital Park | ที่จอดรถ 3 คัน | 200 ม. ถึง BTS อุดมสุข ",
+        "zh": "[ขายคอนโด] ไอดีโอ โมบิ สุขุมวิท 66 ✨85 ตรม 2ห้องนอน 2ห้องน้ำ (พร้อม 2 อ่างอาบน้ำ) ใกล้ True Digital Park | ที่จอดรถ 3 คัน | 200 ม. ถึง BTS อุดมสุข ",
+        "th": "[ขายคอนโด] ไอดีโอ โมบิ สุขุมวิท 66 ✨85 ตรม 2ห้องนอน 2ห้องน้ำ (พร้อม 2 อ่างอาบน้ำ) ใกล้ True Digital Park | ที่จอดรถ 3 คัน | 200 ม. ถึง BTS อุดมสุข "
+      },
+      "summary": {
+        "en": "Rent: 2BR, 85 sq.m., 12,600,000 THB. Source LivingInsider #3059801.",
+        "zh": "出租：2卧，85㎡，12,600,000 泰铢。来源 LivingInsider #3059801。",
+        "th": "เช่า: 2 นอน 85 ตร.ม. ราคา 12,600,000 บาท (LivingInsider #3059801)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3059801. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3059801。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3059801 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3059801",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3059801.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3059801",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3059801",
+      "source_url_hash": "77454408663eae3c091406d83996b2e2df870290d55e60fb78e2871c1d3fd481",
+      "duplicate_fingerprint": "7b439afc18a27ee78cce925383c485fb3ee0b31a88979a2a44e1a1a442a7e99d",
+      "soft_match_fingerprint": "1c529cf90d144d65ef98c6a69b7a9f1e480fde0799e44449eac4cc088dee841b",
+      "_computed_fingerprint": "17fbde7cda548753e3dbf7278c11ef547b24da191102413a42357bc8124c1a91"
+    },
+    {
+      "external_ref": "livinginsider-3062295",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34.4,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "[ขายคอนโด] 🏙️ Ideo Mobi สุขุมวิท 66 ✨ชั้นสูง วิวไม่บล็อค | 1ห้องนอน 34.4ตรม 200 ม. ถึง BTS อุดมสุข",
+        "zh": "[ขายคอนโด] 🏙️ Ideo Mobi สุขุมวิท 66 ✨ชั้นสูง วิวไม่บล็อค | 1ห้องนอน 34.4ตรม 200 ม. ถึง BTS อุดมสุข",
+        "th": "[ขายคอนโด] 🏙️ Ideo Mobi สุขุมวิท 66 ✨ชั้นสูง วิวไม่บล็อค | 1ห้องนอน 34.4ตรม 200 ม. ถึง BTS อุดมสุข"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34.4 sq.m., 5,000,000 THB. Source LivingInsider #3062295.",
+        "zh": "出租：1卧，34.4㎡，5,000,000 泰铢。来源 LivingInsider #3062295。",
+        "th": "เช่า: 1 นอน 34.4 ตร.ม. ราคา 5,000,000 บาท (LivingInsider #3062295)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3062295. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3062295。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3062295 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3062295",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3062295.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3062295",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3062295",
+      "source_url_hash": "caea264f1b9553f31fd1b83f1bb8456de5fd1ed60d018f73ed8f295680ac552b",
+      "duplicate_fingerprint": "1cae94d7b4b4f2fbdf8cae3d2db260dc385a2a1ae021aeb30d6afef35a35e41c",
+      "soft_match_fingerprint": "e85d8d32a952f942e7e39488be011ffdc72a1c2ac0c0c49244dc6415bf6f710e",
+      "_computed_fingerprint": "9eebcdfacdc4a8cc2f52aa82582ddaa99471065bcbcb8ab7426d6850cd704404"
+    },
+    {
+      "external_ref": "livinginsider-2154186",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 ขายด่วน! ห้องราคาดี ติดรถไฟฟ้า BTS อุดมสุข",
+        "zh": "🔥 ขายด่วน! ห้องราคาดี ติดรถไฟฟ้า BTS อุดมสุข",
+        "th": "🔥 ขายด่วน! ห้องราคาดี ติดรถไฟฟ้า BTS อุดมสุข"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 4,900,000 THB. Source LivingInsider #2154186.",
+        "zh": "出租：1卧，35㎡，4,900,000 泰铢。来源 LivingInsider #2154186。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 4,900,000 บาท (LivingInsider #2154186)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2154186. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2154186。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2154186 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2154186",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2154186.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2154186",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2154186",
+      "source_url_hash": "9f74acbb9822dc0136db429659aa21accc52dc7e3b393484f3087de027fe2211",
+      "duplicate_fingerprint": "f8611107a02b4d8949a48ee10f4eced993977e4ca34fd1bb80443be07c7ba3bd",
+      "soft_match_fingerprint": "5d6d9e1d47772ec574a85528e5847a6fba98981c118e08ddaefd3409339c9db6",
+      "_computed_fingerprint": "c48dc99a536a3f9735f7d3e5d13565d41ab200bad300122af25439015422660e"
+    },
+    {
+      "external_ref": "livinginsider-2785542",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4700000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35.5,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "Ideo Mobi Sukhumvit 66 🏙️ ห้องเปล่า ✨ ไม่มีเฟอร์นิเจอร์ ตกแต่งได้ตามใจ 🎨 ไม่เคยปล่อยเช่า อยู่เองมาตลอด 🏡 🪟 วิวโล่ง โปร่งสบาย มองเห็น BTS 🚆",
+        "zh": "Ideo Mobi Sukhumvit 66 🏙️ ห้องเปล่า ✨ ไม่มีเฟอร์นิเจอร์ ตกแต่งได้ตามใจ 🎨 ไม่เคยปล่อยเช่า อยู่เองมาตลอด 🏡 🪟 วิวโล่ง โปร่งสบาย มองเห็น BTS 🚆",
+        "th": "Ideo Mobi Sukhumvit 66 🏙️ ห้องเปล่า ✨ ไม่มีเฟอร์นิเจอร์ ตกแต่งได้ตามใจ 🎨 ไม่เคยปล่อยเช่า อยู่เองมาตลอด 🏡 🪟 วิวโล่ง โปร่งสบาย มองเห็น BTS 🚆"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35.5 sq.m., 4,700,000 THB. Source LivingInsider #2785542.",
+        "zh": "出租：1卧，35.5㎡，4,700,000 泰铢。来源 LivingInsider #2785542。",
+        "th": "เช่า: 1 นอน 35.5 ตร.ม. ราคา 4,700,000 บาท (LivingInsider #2785542)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2785542. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2785542。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2785542 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2785542",
+      "source_updated_at": "2026-08-08",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2785542.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2785542",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2785542",
+      "source_url_hash": "a0141c1afa63b9a992d16f2d817eb047ce580ee9d8e2ae4ab1b7909e0de69652",
+      "duplicate_fingerprint": "235b55013c68ba067b1e1e36e1720c81da58e292f7ff0ec84ca0130706c7b983",
+      "soft_match_fingerprint": "f13d41e0709c6871cb6376b66d558b0e94f7936ba844101ba0080c279256092c",
+      "_computed_fingerprint": "8ef03881ab3d8736537fb790b5a05c3c44103d67eb19c1636117a2da64f429a3"
+    },
+    {
+      "external_ref": "livinginsider-2812670",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 12100000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขาย คอนโด ชั้นสูง Ideo mobi sukhumvit 66 BTS-อุดมสุข สุขุมวิท บางนาเหนือ บางนา กรุงเทพ CX-17390",
+        "zh": "ขาย คอนโด ชั้นสูง Ideo mobi sukhumvit 66 BTS-อุดมสุข สุขุมวิท บางนาเหนือ บางนา กรุงเทพ CX-17390",
+        "th": "ขาย คอนโด ชั้นสูง Ideo mobi sukhumvit 66 BTS-อุดมสุข สุขุมวิท บางนาเหนือ บางนา กรุงเทพ CX-17390"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 12,100,000 THB. Source LivingInsider #2812670.",
+        "zh": "出租：2卧，30㎡，12,100,000 泰铢。来源 LivingInsider #2812670。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 12,100,000 บาท (LivingInsider #2812670)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2812670. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2812670。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2812670 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2812670",
+      "source_updated_at": "2026-08-08",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2812670.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2812670",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2812670",
+      "source_url_hash": "4a53a70892de1c02718cada54ef73ce1be46f328d3007a8b79b17096ef5b58e4",
+      "duplicate_fingerprint": "0747bc743337672c66bb68d833158f6107107e821de6abca948b7295bf608793",
+      "soft_match_fingerprint": "6d8a9cc1e49746a594c301a7beb7fb96fa5d2e03d5e14d6874bc22a99bd8700b",
+      "_computed_fingerprint": "a9cddae3ca424e1f069df9cdf8bac57783b16b827747b65dfc652cbb60097871"
+    }
+  ]
+}

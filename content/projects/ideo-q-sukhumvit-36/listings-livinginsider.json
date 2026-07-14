@@ -1,0 +1,658 @@
+{
+  "project_slug": "ideo-q-sukhumvit-36",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2683",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/18/2683/Condo/all/all/1/Condo-Ideo-Q-Sukhumvit-36.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3077880",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "45",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "✨🌃 ชั้นสูงวิวแม่น้ำสุดอลังการ | Ideo Q Sukhumvit 36 ใกล้ BTS ทองหล่อ 💎🚆",
+        "zh": "✨🌃 ชั้นสูงวิวแม่น้ำสุดอลังการ | Ideo Q Sukhumvit 36 ใกล้ BTS ทองหล่อ 💎🚆",
+        "th": "✨🌃 ชั้นสูงวิวแม่น้ำสุดอลังการ | Ideo Q Sukhumvit 36 ใกล้ BTS ทองหล่อ 💎🚆"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 29 sq.m., 27,000 THB. Source LivingInsider #3077880.",
+        "zh": "出租：1卧，29㎡，27,000 泰铢。来源 LivingInsider #3077880。",
+        "th": "เช่า: 1 นอน 29 ตร.ม. ราคา 27,000 บาท (LivingInsider #3077880)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3077880. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3077880。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3077880 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3077880",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3077880.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3077880",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3077880",
+      "source_url_hash": "c4f88da2d021cc5bb33b19bbc48927014498d7fd463d7b818fc0d20a0115eefb",
+      "duplicate_fingerprint": "04cdc6c7ffca3fcbc995349de189d6d4ccdaf0c23128a96c8777a8e0d5077845",
+      "soft_match_fingerprint": "bf4a66a73af27990148b8333038b5fad900f081de724885f04d6d3bb4f325bc9",
+      "_computed_fingerprint": "afcdc1911410f6dcc255c2fd5f79a705af3b41efd732afaac73dcf65bbd2a0e9"
+    },
+    {
+      "external_ref": "livinginsider-3138038",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 38000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "✨ ห้องใหม่แกะกล่อง! บิ้วอินใหม่ทั้งห้อง พร้อมเข้าอยู่ | Ideo Q Sukhumvit 36 ใกล้ BTS ทองหล่อ",
+        "zh": "✨ ห้องใหม่แกะกล่อง! บิ้วอินใหม่ทั้งห้อง พร้อมเข้าอยู่ | Ideo Q Sukhumvit 36 ใกล้ BTS ทองหล่อ",
+        "th": "✨ ห้องใหม่แกะกล่อง! บิ้วอินใหม่ทั้งห้อง พร้อมเข้าอยู่ | Ideo Q Sukhumvit 36 ใกล้ BTS ทองหล่อ"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 46 sq.m., 38,000 THB. Source LivingInsider #3138038.",
+        "zh": "出租：1卧，46㎡，38,000 泰铢。来源 LivingInsider #3138038。",
+        "th": "เช่า: 1 นอน 46 ตร.ม. ราคา 38,000 บาท (LivingInsider #3138038)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3138038. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3138038。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3138038 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3138038",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3138038.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3138038",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3138038",
+      "source_url_hash": "922b8930a3ee2919c4381ef3ab85af23c40275d980cfbdf0d1ed2514698c51f8",
+      "duplicate_fingerprint": "49796ef5d85861b01c5f583cb55b913e1af36a349f3225324647ecd1686e6363",
+      "soft_match_fingerprint": "f86a3f05cb977f0c214f1d955bf749dfb27a3d4e5cfaaccea3ab9d9a94cacdc5",
+      "_computed_fingerprint": "145eb075e78cce509a980d5b673811df8cd8305bed74a597c772a70836b43c2a"
+    },
+    {
+      "external_ref": "livinginsider-2800993",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "1 ห้องนอน แต่งครบ พร้อมเครื่องไช้ไฟฟ้า 3 รายการ ชั้น20 + พื้นที่ 46 ตรม. วิวสวย ราคาเพียง 6.9 พร้อมข้อเสนอพิเศษอีกมากมาย ติดต่อ ฝ่ายขาย 088-2389494 พิม",
+        "zh": "1 ห้องนอน แต่งครบ พร้อมเครื่องไช้ไฟฟ้า 3 รายการ ชั้น20 + พื้นที่ 46 ตรม. วิวสวย ราคาเพียง 6.9 พร้อมข้อเสนอพิเศษอีกมากมาย ติดต่อ ฝ่ายขาย 088-2389494 พิม",
+        "th": "1 ห้องนอน แต่งครบ พร้อมเครื่องไช้ไฟฟ้า 3 รายการ ชั้น20 + พื้นที่ 46 ตรม. วิวสวย ราคาเพียง 6.9 พร้อมข้อเสนอพิเศษอีกมากมาย ติดต่อ ฝ่ายขาย 088-2389494 พิม"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 46 sq.m., 6,900,000 THB. Source LivingInsider #2800993.",
+        "zh": "出租：1卧，46㎡，6,900,000 泰铢。来源 LivingInsider #2800993。",
+        "th": "เช่า: 1 นอน 46 ตร.ม. ราคา 6,900,000 บาท (LivingInsider #2800993)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2800993. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2800993。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2800993 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2800993",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2800993.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2800993",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2800993",
+      "source_url_hash": "fc57460399f3378602f2169e1b6fd6514596efba9f2bb52ad1e8a7ac22b46b7e",
+      "duplicate_fingerprint": "97dca24914514592c7ec0dad159d8549dc82be5b52b8f668dd3edcf6fcd97969",
+      "soft_match_fingerprint": "63fc38976757955ce402c8056e9b4871c155316429c42eb0ec9829e4389f9eca",
+      "_computed_fingerprint": "077bfd2f5669c5b4a4b3f54133d7d602d41c6086fbd8f3bbe48bcd8c36d9ceb9"
+    },
+    {
+      "external_ref": "livinginsider-3098310",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 46000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "🌇คอนโดหรูใจกลางสุขุมวิท ใกล้ BTS ทองหล่อ เพียง 450 เมตร ห้องสวย โปร่ง รับแสงธรรมชาติ พร้อมอ่างอาบน้ำและครัวครบชุด💎✨ ให้เช่า Ideo Q Sukhumvit 36 ✨",
+        "zh": "🌇คอนโดหรูใจกลางสุขุมวิท ใกล้ BTS ทองหล่อ เพียง 450 เมตร ห้องสวย โปร่ง รับแสงธรรมชาติ พร้อมอ่างอาบน้ำและครัวครบชุด💎✨ ให้เช่า Ideo Q Sukhumvit 36 ✨",
+        "th": "🌇คอนโดหรูใจกลางสุขุมวิท ใกล้ BTS ทองหล่อ เพียง 450 เมตร ห้องสวย โปร่ง รับแสงธรรมชาติ พร้อมอ่างอาบน้ำและครัวครบชุด💎✨ ให้เช่า Ideo Q Sukhumvit 36 ✨"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 46,000 THB. Source LivingInsider #3098310.",
+        "zh": "出租：1卧，45㎡，46,000 泰铢。来源 LivingInsider #3098310。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 46,000 บาท (LivingInsider #3098310)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3098310. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3098310。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3098310 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3098310",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3098310.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3098310",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3098310",
+      "source_url_hash": "48114107ba038d0345f272aaa7bf24af2d85fe9387a94b419a84996a178f7a6c",
+      "duplicate_fingerprint": "236835201195b1271a69317d9413b9ca8fe1a1e0e5fef7cb7fc4d0f9e6570489",
+      "soft_match_fingerprint": "d4a1b245c857fdd3d467629743bc31d9c85e5cc9c664387321cbb3173d324b7d",
+      "_computed_fingerprint": "eaeec4f9ca4cc79897b0d6652989fc97f9777f81226348825f466bc0217c7a11"
+    },
+    {
+      "external_ref": "livinginsider-3134797",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 43000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46.5,
+      "floor_label": "35",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า Ideo Q Sukhumvit 36 ราคา 43,000 บาท [MKr260704]",
+        "zh": "ให้เช่า Ideo Q Sukhumvit 36 ราคา 43,000 บาท [MKr260704]",
+        "th": "ให้เช่า Ideo Q Sukhumvit 36 ราคา 43,000 บาท [MKr260704]"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 46.5 sq.m., 43,000 THB. Source LivingInsider #3134797.",
+        "zh": "出租：1卧，46.5㎡，43,000 泰铢。来源 LivingInsider #3134797。",
+        "th": "เช่า: 1 นอน 46.5 ตร.ม. ราคา 43,000 บาท (LivingInsider #3134797)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3134797. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3134797。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3134797 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3134797",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3134797.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3134797",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3134797",
+      "source_url_hash": "2fe39e0cfb2bcc681c929fe4382aa0e8bb1c50a41d63bb902b3bb62ddcec2435",
+      "duplicate_fingerprint": "2a3c0b3e484ce36e07072b4c95bbd22dbc9ed3333ce4917c975682e55c7d2836",
+      "soft_match_fingerprint": "80f980f677815d8cb647cefe4a7037457d48d68933ee887d4a41601a7ee6eb92",
+      "_computed_fingerprint": "85ac172857ce74a267519b24c6e6f396528819e527464565f65adb9c5f42240a"
+    },
+    {
+      "external_ref": "livinginsider-2988826",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 63000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "63",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "2BEDROOM 2BATH HIGH FLOOR  63,000 ",
+        "zh": "2BEDROOM 2BATH HIGH FLOOR  63,000 ",
+        "th": "2BEDROOM 2BATH HIGH FLOOR  63,000 "
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 63,000 THB. Source LivingInsider #2988826.",
+        "zh": "出租：2卧，30㎡，63,000 泰铢。来源 LivingInsider #2988826。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 63,000 บาท (LivingInsider #2988826)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2988826. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2988826。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2988826 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2988826",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2988826.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2988826",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2988826",
+      "source_url_hash": "1ec5e76c5a1802490dd009259813c0987d2088a39de5903e98bf600662dec50e",
+      "duplicate_fingerprint": "5b25cae4ddb95cc93f15ea8cc1255f7f96643e3a4ab723dc53e3cc404a46ed80",
+      "soft_match_fingerprint": "f63cf04d9a05df834a02c7f31165dd6b823c14a35633d048f8475a0594826a11",
+      "_computed_fingerprint": "e7319851ef500d42ea7ec861e2943512741e2d175dd94c59201cb13e17b26e12"
+    },
+    {
+      "external_ref": "livinginsider-3050704",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 68000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 64,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "Ideo Q Sukhumvit 36 ready to move in 2Bed 2bath Fully Furnished 17 Floor",
+        "zh": "Ideo Q Sukhumvit 36 ready to move in 2Bed 2bath Fully Furnished 17 Floor",
+        "th": "Ideo Q Sukhumvit 36 ready to move in 2Bed 2bath Fully Furnished 17 Floor"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 64 sq.m., 68,000 THB. Source LivingInsider #3050704.",
+        "zh": "出租：2卧，64㎡，68,000 泰铢。来源 LivingInsider #3050704。",
+        "th": "เช่า: 2 นอน 64 ตร.ม. ราคา 68,000 บาท (LivingInsider #3050704)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3050704. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3050704。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3050704 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3050704",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3050704.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3050704",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3050704",
+      "source_url_hash": "119a52dd4c23086ca4fc358a9a65567fbd04d940d67ffcc362ad51bdde146b0e",
+      "duplicate_fingerprint": "13ba0a95d426fad31d303b150b18939d9a295a221dd324e4ac88c4a693d978d3",
+      "soft_match_fingerprint": "0d301e28c98207e284abdb1305560d230e6f749d605c80284ab1861e5758f9ff",
+      "_computed_fingerprint": "a4b4578422f647933ee1f026c8fa77ebaa01645ce394d1c0cda1eb8b5d08412d"
+    },
+    {
+      "external_ref": "livinginsider-2644333",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5290000,
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥𝐇𝐎𝐓 𝐃𝐄𝐀𝐋🔥𝐈𝐃𝐄𝐎 𝐐 สุขุมวิท 𝟑𝟔 ราคานี้ไม่มีอีกแล้ว ! 𝟏นอน 𝟯𝟱 ตรม รับประกันการันตีราคาดีที่สุด💯📱𝟬𝟵𝟮-𝟴𝟬𝟴𝟴𝟴𝟵𝟵",
+        "zh": "🔥𝐇𝐎𝐓 𝐃𝐄𝐀𝐋🔥𝐈𝐃𝐄𝐎 𝐐 สุขุมวิท 𝟑𝟔 ราคานี้ไม่มีอีกแล้ว ! 𝟏นอน 𝟯𝟱 ตรม รับประกันการันตีราคาดีที่สุด💯📱𝟬𝟵𝟮-𝟴𝟬𝟴𝟴𝟴𝟵𝟵",
+        "th": "🔥𝐇𝐎𝐓 𝐃𝐄𝐀𝐋🔥𝐈𝐃𝐄𝐎 𝐐 สุขุมวิท 𝟑𝟔 ราคานี้ไม่มีอีกแล้ว ! 𝟏นอน 𝟯𝟱 ตรม รับประกันการันตีราคาดีที่สุด💯📱𝟬𝟵𝟮-𝟴𝟬𝟴𝟴𝟴𝟵𝟵"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,290,000 THB. Source LivingInsider #2644333.",
+        "zh": "出租：1卧，30㎡，5,290,000 泰铢。来源 LivingInsider #2644333。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,290,000 บาท (LivingInsider #2644333)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2644333. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2644333。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2644333 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2644333",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2644333.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2644333",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2644333",
+      "source_url_hash": "68cf2e876dab4e7090f2df1acb3ecece2548c60c7167422f68f4c6ca18f729e3",
+      "duplicate_fingerprint": "3c1c77a7e8fdb4140777623848638b3e9d3759b8d67cb7cdb81929bac5dd256c",
+      "soft_match_fingerprint": "6deb06b0a731c23e9f5b5abd30ea5864a8bb280751a0ac92735bb035583ba75e",
+      "_computed_fingerprint": "08c4f5ee893be8941806b895696d64ccec57f92f3dd254cd8ab845fe85414e13"
+    },
+    {
+      "external_ref": "livinginsider-2644329",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5290000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "𝐈𝐃𝐄𝐎 𝐐 สุขุมวิท 𝟑𝟔 รับประกันการันตีราคาดีที่สุด💯 𝟏นอน𝟯𝟱 ตรม 📱𝟬𝟵𝟮-𝟴𝟬𝟴𝟴𝟴𝟵𝟵",
+        "zh": "𝐈𝐃𝐄𝐎 𝐐 สุขุมวิท 𝟑𝟔 รับประกันการันตีราคาดีที่สุด💯 𝟏นอน𝟯𝟱 ตรม 📱𝟬𝟵𝟮-𝟴𝟬𝟴𝟴𝟴𝟵𝟵",
+        "th": "𝐈𝐃𝐄𝐎 𝐐 สุขุมวิท 𝟑𝟔 รับประกันการันตีราคาดีที่สุด💯 𝟏นอน𝟯𝟱 ตรม 📱𝟬𝟵𝟮-𝟴𝟬𝟴𝟴𝟴𝟵𝟵"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,290,000 THB. Source LivingInsider #2644329.",
+        "zh": "出租：1卧，30㎡，5,290,000 泰铢。来源 LivingInsider #2644329。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,290,000 บาท (LivingInsider #2644329)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2644329. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2644329。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2644329 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2644329",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2644329.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2644329",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2644329",
+      "source_url_hash": "d02b928b4f68153eba519ee62759ce70f93e236bb0ac2b9f736c847ea0a1f303",
+      "duplicate_fingerprint": "50fb33c6420ba22869256965b64125b094d29391f18d96042cb1ea56f6c290fd",
+      "soft_match_fingerprint": "6deb06b0a731c23e9f5b5abd30ea5864a8bb280751a0ac92735bb035583ba75e",
+      "_computed_fingerprint": "a10bfdb6e5bad16dbebd4187c26c2e661123fab5d6a94a23491d5805fcb36e45"
+    },
+    {
+      "external_ref": "livinginsider-2586243",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ไอดีโอ คิว สุขุมวิท 36 ห้องมุม BTS-ทองหล่อ คลองตัน เขต คลองเตย กรุงเทพ CX-119929",
+        "zh": "ขายคอนโด  ไอดีโอ คิว สุขุมวิท 36 ห้องมุม BTS-ทองหล่อ คลองตัน เขต คลองเตย กรุงเทพ CX-119929",
+        "th": "ขายคอนโด  ไอดีโอ คิว สุขุมวิท 36 ห้องมุม BTS-ทองหล่อ คลองตัน เขต คลองเตย กรุงเทพ CX-119929"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 6,300,000 THB. Source LivingInsider #2586243.",
+        "zh": "出租：1卧，30㎡，6,300,000 泰铢。来源 LivingInsider #2586243。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 6,300,000 บาท (LivingInsider #2586243)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2586243. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2586243。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2586243 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2586243",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2586243.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2586243",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2586243",
+      "source_url_hash": "5dd09bc9acb6472ffca507bcaab4e4efc71e6236c21011ae8dafcd4024a8d3b1",
+      "duplicate_fingerprint": "aedfb9b14f58bad8d681c6bf0a67ba3a227b4048a84083dfec3a0b89bf67f7c7",
+      "soft_match_fingerprint": "bfc72141ab2335d2923c75b8fe9e601e938a9d0fafe755859084e7f0c9cb2746",
+      "_computed_fingerprint": "c7c9070639503169d961fd8d85cf826c61f4edf9b013e7525da935d17db31840"
+    },
+    {
+      "external_ref": "livinginsider-1936626",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ไอดีโอ คิว สุขุมวิท 36 BTS-ทองหล่อ คลองตัน เขต คลองเตย กรุงเทพ CX-137672",
+        "zh": "ขายคอนโด  ไอดีโอ คิว สุขุมวิท 36 BTS-ทองหล่อ คลองตัน เขต คลองเตย กรุงเทพ CX-137672",
+        "th": "ขายคอนโด  ไอดีโอ คิว สุขุมวิท 36 BTS-ทองหล่อ คลองตัน เขต คลองเตย กรุงเทพ CX-137672"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 7,590,000 THB. Source LivingInsider #1936626.",
+        "zh": "出租：1卧，30㎡，7,590,000 泰铢。来源 LivingInsider #1936626。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 7,590,000 บาท (LivingInsider #1936626)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1936626. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1936626。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1936626 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1936626",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1936626.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1936626",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1936626",
+      "source_url_hash": "2c4c472ff3715d3948b606352304a6d29c5b84b63f1d56c258b3b2efa4c02d0a",
+      "duplicate_fingerprint": "6b2fdf4a86f3c756be1350f438ecda2b06a8a92c71747f5ea8f93a2b2b416fb2",
+      "soft_match_fingerprint": "bfc72141ab2335d2923c75b8fe9e601e938a9d0fafe755859084e7f0c9cb2746",
+      "_computed_fingerprint": "d8b788e10e10d9c59602cd9f12aaa047232cd44a87bc3560527e38b1a6a27bd9"
+    },
+    {
+      "external_ref": "livinginsider-3125293",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 13500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "ขาย/เช่า คอนโดหรู ไอดิโอ คิว สุขุมวิท 36 (Ideo Q Sukhumvit 36) แต่งเต็มสวย พร้อมอยู่",
+        "zh": "ขาย/เช่า คอนโดหรู ไอดิโอ คิว สุขุมวิท 36 (Ideo Q Sukhumvit 36) แต่งเต็มสวย พร้อมอยู่",
+        "th": "ขาย/เช่า คอนโดหรู ไอดิโอ คิว สุขุมวิท 36 (Ideo Q Sukhumvit 36) แต่งเต็มสวย พร้อมอยู่"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 13,500,000 THB. Source LivingInsider #3125293.",
+        "zh": "出租：2卧，30㎡，13,500,000 泰铢。来源 LivingInsider #3125293。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 13,500,000 บาท (LivingInsider #3125293)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3125293. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3125293。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3125293 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3125293",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3125293.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3125293",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3125293",
+      "source_url_hash": "7b7615f5cc6cd15608803a3dd328df675d550c441363ffc74ac445b291b6b748",
+      "duplicate_fingerprint": "3e56774fe8d1f970b015a176c7c5e1c908cf0a01648d0e1c32112900db0ad6a3",
+      "soft_match_fingerprint": "ca3104332f9ea493b817b0fcb82b582d66dca1a517092f04cfd16ab48fff5d32",
+      "_computed_fingerprint": "27c6ef268958c62f4c2fd6789735cda5a2e8186c0831f25e9f8bb9628f6fc147"
+    }
+  ]
+}

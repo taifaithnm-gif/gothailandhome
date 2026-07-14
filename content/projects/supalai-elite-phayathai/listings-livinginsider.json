@@ -1,0 +1,388 @@
+{
+  "project_slug": "supalai-elite-phayathai",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "752",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/7/752/Condo/all/all/1/Supalai-Elite-Phayathai.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-2866204",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "✨Flash Deal ✨Supalai Elite Phayathai ( 1Bed 1Bath 45SQM.) พร้อมอยู่ ! เพียง 5,500,000 บาท Tel.0981315848 @propmatch",
+        "zh": "✨Flash Deal ✨Supalai Elite Phayathai ( 1Bed 1Bath 45SQM.) พร้อมอยู่ ! เพียง 5,500,000 บาท Tel.0981315848 @propmatch",
+        "th": "✨Flash Deal ✨Supalai Elite Phayathai ( 1Bed 1Bath 45SQM.) พร้อมอยู่ ! เพียง 5,500,000 บาท Tel.0981315848 @propmatch"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 5,500,000 THB. Source LivingInsider #2866204.",
+        "zh": "出租：1卧，45㎡，5,500,000 泰铢。来源 LivingInsider #2866204。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 5,500,000 บาท (LivingInsider #2866204)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2866204. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2866204。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2866204 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2866204",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2866204.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2866204",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2866204",
+      "source_url_hash": "8feb5c2f758b25c3f9cd647d6b74d6ee59fd8e7c88214f27cbdeb72f40bd06b1",
+      "duplicate_fingerprint": "5859166090b86e5c7cb38efaed0ed63f7ee79cb62d1b05382b64c24f14f227aa",
+      "soft_match_fingerprint": "18062c1773f043e66fd1da89279ab09d625a29cc9c07c0bc8647a2954e8dfc47",
+      "_computed_fingerprint": "7c1e524ea3edafcfb3d78b553792527e991fc90aa7baa90624292e99d452412d"
+    },
+    {
+      "external_ref": "livinginsider-3147948",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5370000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥ราคานี้มีห้องเดียวเท่านั้น!5.37MB.-ห้องกว้าง 1นอน ตกแต่งดี ชั้นสูงสุด 25+ วิวดี ลงทุนหรืออยู่เอง ก็คุ้มสุดๆ ทำเลดีใกล้ BTSพญาไท @ Supalai Elite Phayathai ",
+        "zh": "🔥ราคานี้มีห้องเดียวเท่านั้น!5.37MB.-ห้องกว้าง 1นอน ตกแต่งดี ชั้นสูงสุด 25+ วิวดี ลงทุนหรืออยู่เอง ก็คุ้มสุดๆ ทำเลดีใกล้ BTSพญาไท @ Supalai Elite Phayathai ",
+        "th": "🔥ราคานี้มีห้องเดียวเท่านั้น!5.37MB.-ห้องกว้าง 1นอน ตกแต่งดี ชั้นสูงสุด 25+ วิวดี ลงทุนหรืออยู่เอง ก็คุ้มสุดๆ ทำเลดีใกล้ BTSพญาไท @ Supalai Elite Phayathai "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 5,370,000 THB. Source LivingInsider #3147948.",
+        "zh": "出租：1卧，45㎡，5,370,000 泰铢。来源 LivingInsider #3147948。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 5,370,000 บาท (LivingInsider #3147948)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3147948. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3147948。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3147948 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3147948",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3147948.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3147948",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3147948",
+      "source_url_hash": "c16a909d1f26754ba852c99ec0e4cb1a3aed793274dc220ae4af1941810fe0a1",
+      "duplicate_fingerprint": "87c7706cf3b22951472965011eea5907a97f1662e75941733d69ea2016a27719",
+      "soft_match_fingerprint": "18062c1773f043e66fd1da89279ab09d625a29cc9c07c0bc8647a2954e8dfc47",
+      "_computed_fingerprint": "4586ac73f922600704e7147a12afb756eb88aae7c5c5b63ed38bf9722b878004"
+    },
+    {
+      "external_ref": "livinginsider-2789920",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5390000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "51",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "09/07/2026, รวมค่าโอน🌟 ขายด่วน! คอนโดย่านพญาไท ทำเลทอง ใกล้ BTS เพียง 1 ก้าว🏢 Supalai Elite พญาไท เริ่มเพียง 5.39 ล้าน ห้องสวย พร้อมอยู่! 0642748883",
+        "zh": "09/07/2026, รวมค่าโอน🌟 ขายด่วน! คอนโดย่านพญาไท ทำเลทอง ใกล้ BTS เพียง 1 ก้าว🏢 Supalai Elite พญาไท เริ่มเพียง 5.39 ล้าน ห้องสวย พร้อมอยู่! 0642748883",
+        "th": "09/07/2026, รวมค่าโอน🌟 ขายด่วน! คอนโดย่านพญาไท ทำเลทอง ใกล้ BTS เพียง 1 ก้าว🏢 Supalai Elite พญาไท เริ่มเพียง 5.39 ล้าน ห้องสวย พร้อมอยู่! 0642748883"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,390,000 THB. Source LivingInsider #2789920.",
+        "zh": "出租：1卧，30㎡，5,390,000 泰铢。来源 LivingInsider #2789920。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,390,000 บาท (LivingInsider #2789920)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2789920. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2789920。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2789920 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2789920",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2789920.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2789920",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2789920",
+      "source_url_hash": "83722067c8f7c730cd0c2027ccd0b1643a16df2a45b890765d6ffbea319b4e92",
+      "duplicate_fingerprint": "8e0fdb856e49a702876df360297d32e592dcd416cc763595305264421edee85a",
+      "soft_match_fingerprint": "c359d4153eaa74260b6f344446820bdb012a08182cf30c252fb5bed1366bc01a",
+      "_computed_fingerprint": "aa0f4c4df718b4e91c010cb79dd56a65f8e8f12791d538fcf77003eff6931977"
+    },
+    {
+      "external_ref": "livinginsider-3147745",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "✨Flash Deal ✨ Supalai Elite Phayathai (1Bed 1Bath 45SQM.) พร้อมอยู่ ! เพียง 18,000 บาทต่อเดือน Tel.0981315848 @propmatch",
+        "zh": "✨Flash Deal ✨ Supalai Elite Phayathai (1Bed 1Bath 45SQM.) พร้อมอยู่ ! เพียง 18,000 บาทต่อเดือน Tel.0981315848 @propmatch",
+        "th": "✨Flash Deal ✨ Supalai Elite Phayathai (1Bed 1Bath 45SQM.) พร้อมอยู่ ! เพียง 18,000 บาทต่อเดือน Tel.0981315848 @propmatch"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 18,000 THB. Source LivingInsider #3147745.",
+        "zh": "出租：1卧，45㎡，18,000 泰铢。来源 LivingInsider #3147745。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 18,000 บาท (LivingInsider #3147745)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3147745. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3147745。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3147745 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3147745",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3147745.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3147745",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3147745",
+      "source_url_hash": "36d8d8c0b4f535dc5871cead901e4cdc81a007655086450679c42125c67fc313",
+      "duplicate_fingerprint": "1545c2a0abf41fdd0212c49151c28d5b045be920548585321db2d95e37a60f05",
+      "soft_match_fingerprint": "17751c5e71d5664dcd8ff2f608931bbfc72530bae0312daa9456e23e6bf7c8a9",
+      "_computed_fingerprint": "922c4d23d8391651ac24620b719957863260a5fa69b37a795c776d62f67bfa1c"
+    },
+    {
+      "external_ref": "livinginsider-2132543",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 16500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 94,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "✅ S-SAPYT101 ✅ Line : @p2nproperty",
+        "zh": "✅ S-SAPYT101 ✅ Line : @p2nproperty",
+        "th": "✅ S-SAPYT101 ✅ Line : @p2nproperty"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 94 sq.m., 16,500,000 THB. Source LivingInsider #2132543.",
+        "zh": "出租：2卧，94㎡，16,500,000 泰铢。来源 LivingInsider #2132543。",
+        "th": "เช่า: 2 นอน 94 ตร.ม. ราคา 16,500,000 บาท (LivingInsider #2132543)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2132543. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2132543。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2132543 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2132543",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2132543.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2132543",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2132543",
+      "source_url_hash": "cb9372f3be24a1aaba79da5d7a311ec3f92bf862946eb19ed69a90417bc63522",
+      "duplicate_fingerprint": "75193a982bbf6e804793c22d1e12402b43aad58c639e0892759ffb7cfe16b3b6",
+      "soft_match_fingerprint": "e9bf3182499bfbe06b974298e0badb0921c096b2c34ec2ca8f4e24e2dc98b406",
+      "_computed_fingerprint": "66c841b384e1d8952b030b1bb9e388ecd9e018e958aa912572d8a9419bf576d1"
+    },
+    {
+      "external_ref": "livinginsider-2132749",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9740000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 70,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "✅ S-SAPYT102 ✅ Line : @p2nproperty",
+        "zh": "✅ S-SAPYT102 ✅ Line : @p2nproperty",
+        "th": "✅ S-SAPYT102 ✅ Line : @p2nproperty"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 70 sq.m., 9,740,000 THB. Source LivingInsider #2132749.",
+        "zh": "出租：1卧，70㎡，9,740,000 泰铢。来源 LivingInsider #2132749。",
+        "th": "เช่า: 1 นอน 70 ตร.ม. ราคา 9,740,000 บาท (LivingInsider #2132749)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2132749. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2132749。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2132749 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2132749",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2132749.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2132749",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2132749",
+      "source_url_hash": "fbbabefcbfc25d66bc7cfbca6628f8bc064463d694c0a212dfc353167d999237",
+      "duplicate_fingerprint": "9b8ccb8b0315e8460f962ca43f92da272c0c4ca91891597f366d05cc34cfb801",
+      "soft_match_fingerprint": "d6ffbdf8026d7e11be38a1e39c1eccf35295f98114fbe3e33131851ceb86cd9e",
+      "_computed_fingerprint": "03c688a91a37f8d29f5383b2b49b5f38c0885561fa21c977d6b4619d68d334f5"
+    },
+    {
+      "external_ref": "livinginsider-349212",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "💥💥ขายพร้อมผู้เช่า!! Supalai Elite Phayathai 1 Bed ขนาด 44 ตารางเมตร ชั้น 23 ตกแต่งสวย สนใจ Tel.086-557-9898💥💥",
+        "zh": "💥💥ขายพร้อมผู้เช่า!! Supalai Elite Phayathai 1 Bed ขนาด 44 ตารางเมตร ชั้น 23 ตกแต่งสวย สนใจ Tel.086-557-9898💥💥",
+        "th": "💥💥ขายพร้อมผู้เช่า!! Supalai Elite Phayathai 1 Bed ขนาด 44 ตารางเมตร ชั้น 23 ตกแต่งสวย สนใจ Tel.086-557-9898💥💥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,990,000 THB. Source LivingInsider #349212.",
+        "zh": "出租：1卧，30㎡，5,990,000 泰铢。来源 LivingInsider #349212。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,990,000 บาท (LivingInsider #349212)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 349212. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 349212。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 349212 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_349212",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/349212.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "349212",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_349212",
+      "source_url_hash": "96b1f32f854566258473e72d9130b73e03a2f7ca809e69ebb2a0738cfe3c07db",
+      "duplicate_fingerprint": "b3ba4cc006ab6277ca0b2c533733f6cfd83a33835568ba37992aa15168c86a18",
+      "soft_match_fingerprint": "1be90f699bb90fe02e05185043457c19cbd5f02d66bf76adb713347a61c27bb9",
+      "_computed_fingerprint": "cf9fe20fbba2da2d31dbf57f4552db090ca32110ab516aa08e9db796c0da20ea"
+    }
+  ]
+}

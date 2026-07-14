@@ -1,0 +1,496 @@
+{
+  "project_slug": "the-room-sathorn-taksin",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "896",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/27/896/Condo/all/all/1/Condo-The-Room-Sathorn-Taksin.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3148079",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "✨ Smart Choice for Urban Professionals! Premium Luxury Living Near Sathorn CBD at a Price You Can’t Resist ✨",
+        "zh": "✨ Smart Choice for Urban Professionals! Premium Luxury Living Near Sathorn CBD at a Price You Can’t Resist ✨",
+        "th": "✨ Smart Choice for Urban Professionals! Premium Luxury Living Near Sathorn CBD at a Price You Can’t Resist ✨"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 42 sq.m., 17,500 THB. Source LivingInsider #3148079.",
+        "zh": "出租：1卧，42㎡，17,500 泰铢。来源 LivingInsider #3148079。",
+        "th": "เช่า: 1 นอน 42 ตร.ม. ราคา 17,500 บาท (LivingInsider #3148079)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3148079. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3148079。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3148079 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3148079",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3148079.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3148079",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3148079",
+      "source_url_hash": "c998c7c75b450adf2e93449a7d74eab4ef5911cd3a958edff7025629e05d0793",
+      "duplicate_fingerprint": "42c662afb1e790ef16800845dd8bc58f02a7b184da9a6a0f4c8bda2df60fed02",
+      "soft_match_fingerprint": "e398bb74d3bd0065223b5eb08beaeffcec2e4052ce6b7103d6bfcedbfa6d36ee",
+      "_computed_fingerprint": "102f806447f7015ee4777bba5172ea972e1d169201025e2efe8aff8897ae5edc"
+    },
+    {
+      "external_ref": "livinginsider-3090051",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 77,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥Rent at  The Room สาทร-ตากสิน 🔥2BR 2BR 🔥24,000🔥77sqm 🔥Floor8",
+        "zh": "🔥Rent at  The Room สาทร-ตากสิน 🔥2BR 2BR 🔥24,000🔥77sqm 🔥Floor8",
+        "th": "🔥Rent at  The Room สาทร-ตากสิน 🔥2BR 2BR 🔥24,000🔥77sqm 🔥Floor8"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 77 sq.m., 24,000 THB. Source LivingInsider #3090051.",
+        "zh": "出租：2卧，77㎡，24,000 泰铢。来源 LivingInsider #3090051。",
+        "th": "เช่า: 2 นอน 77 ตร.ม. ราคา 24,000 บาท (LivingInsider #3090051)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3090051. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3090051。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3090051 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3090051",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3090051.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3090051",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3090051",
+      "source_url_hash": "4520e7c4dd269177e677755a8160099202da3b2959737008c6584d617612ba3c",
+      "duplicate_fingerprint": "65cfe1e1c3d68e9d50f4fdaa5aeec902aeaadf109d3356d35e58fbf09524e8f6",
+      "soft_match_fingerprint": "dfd541cebef1468086807440448ee8986d4a3d7bb78c6b03f1f19d8516e7387e",
+      "_computed_fingerprint": "548caaa6cff174ab001fc2b608df9ad213d493a1cbf05dab6b96080546556cb6"
+    },
+    {
+      "external_ref": "livinginsider-3096631",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "🏠✨ เดอะ รูม สาทร - ตากสิน (The Room Sathorn - Taksin) | ขายคอนโด 1 ห้องนอน (HBH-ST-293)",
+        "zh": "🏠✨ เดอะ รูม สาทร - ตากสิน (The Room Sathorn - Taksin) | ขายคอนโด 1 ห้องนอน (HBH-ST-293)",
+        "th": "🏠✨ เดอะ รูม สาทร - ตากสิน (The Room Sathorn - Taksin) | ขายคอนโด 1 ห้องนอน (HBH-ST-293)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,500,000 THB. Source LivingInsider #3096631.",
+        "zh": "出租：1卧，30㎡，3,500,000 泰铢。来源 LivingInsider #3096631。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,500,000 บาท (LivingInsider #3096631)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3096631. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3096631。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3096631 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3096631",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3096631.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3096631",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3096631",
+      "source_url_hash": "cbb9aa0f2555fc2721aa72a479208909ac74be96e615ae3ed4b22c6e47cc4d61",
+      "duplicate_fingerprint": "f30471e8ba38a570d7ee2f1599aafcd3f1610cec584b06ba038947eeacec5125",
+      "soft_match_fingerprint": "565be1c25e32f59b905571901ed00668ada870ff23b421c034e0a5c3df25aebd",
+      "_computed_fingerprint": "7cdf42dc5388541c1d027330743f949f1a166faed7555ab05a3748b496fc9e1a"
+    },
+    {
+      "external_ref": "livinginsider-3106719",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "เดอะ รูม สาทร - ตากสิน / The Room Sathorn - Taksin",
+        "zh": "เดอะ รูม สาทร - ตากสิน / The Room Sathorn - Taksin",
+        "th": "เดอะ รูม สาทร - ตากสิน / The Room Sathorn - Taksin"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 30,000 THB. Source LivingInsider #3106719.",
+        "zh": "出租：2卧，30㎡，30,000 泰铢。来源 LivingInsider #3106719。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 30,000 บาท (LivingInsider #3106719)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3106719. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3106719。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3106719 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3106719",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3106719.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3106719",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3106719",
+      "source_url_hash": "229ad75c68d499cd9c17d13c5bde3f650041bcb8002e18b93e49a242a156a72e",
+      "duplicate_fingerprint": "d27518c5c761c82a27a64fcdb494209c21d3424788f5cdb3dff57cb7bd025be1",
+      "soft_match_fingerprint": "cabe185add2fac87f10650a5d268ac7d4bd7c76dbd7ad415595b653184c8f011",
+      "_computed_fingerprint": "e6be1c151522516389a3830d94c9c1767e1e06ad45c1a05a252f9467fa3d44e2"
+    },
+    {
+      "external_ref": "livinginsider-2230259",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6490000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 68,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด 2 ห้องนอน The Room Sathorn Taksin เหมาะแก่การอยู่อาศัยและลงทุน โลเคชั่นดีมาก ใกล้รถไฟฟ้า",
+        "zh": "ขายคอนโด 2 ห้องนอน The Room Sathorn Taksin เหมาะแก่การอยู่อาศัยและลงทุน โลเคชั่นดีมาก ใกล้รถไฟฟ้า",
+        "th": "ขายคอนโด 2 ห้องนอน The Room Sathorn Taksin เหมาะแก่การอยู่อาศัยและลงทุน โลเคชั่นดีมาก ใกล้รถไฟฟ้า"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 68 sq.m., 6,490,000 THB. Source LivingInsider #2230259.",
+        "zh": "出租：2卧，68㎡，6,490,000 泰铢。来源 LivingInsider #2230259。",
+        "th": "เช่า: 2 นอน 68 ตร.ม. ราคา 6,490,000 บาท (LivingInsider #2230259)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2230259. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2230259。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2230259 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2230259",
+      "source_updated_at": "2026-08-11",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2230259.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2230259",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2230259",
+      "source_url_hash": "be0dd4c7d669036c71c46d511b12c8e1ab91236b9b8a1b3d59058928bcc8755b",
+      "duplicate_fingerprint": "65b63275d1a2fab7d2935d59599e7e03a633cb956e775d0ec272c8e889dc8065",
+      "soft_match_fingerprint": "8dce663eb4122ace7d46dc61307d936d7a0f02e77cc864a85d0c94abb8cba43c",
+      "_computed_fingerprint": "8b09b0cf77cd432d55a817e80c024de90012135fc8cfefb12a81d9ccd9dce3c6"
+    },
+    {
+      "external_ref": "livinginsider-2867751",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5700000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 67.91,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥5.7 MB(All in)🔥- 2 นอน 2 น้ำ 67.91 ตร.ม. ชั้นสูง 10+ บนทำเลดีๆ คอนโดใกล้ BTS โพธิ์นิมิตร 200 ม. ที่ The Room Sathorn-Taksin  / ขายคอนโด",
+        "zh": "🔥5.7 MB(All in)🔥- 2 นอน 2 น้ำ 67.91 ตร.ม. ชั้นสูง 10+ บนทำเลดีๆ คอนโดใกล้ BTS โพธิ์นิมิตร 200 ม. ที่ The Room Sathorn-Taksin  / ขายคอนโด",
+        "th": "🔥5.7 MB(All in)🔥- 2 นอน 2 น้ำ 67.91 ตร.ม. ชั้นสูง 10+ บนทำเลดีๆ คอนโดใกล้ BTS โพธิ์นิมิตร 200 ม. ที่ The Room Sathorn-Taksin  / ขายคอนโด"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 67.91 sq.m., 5,700,000 THB. Source LivingInsider #2867751.",
+        "zh": "出租：2卧，67.91㎡，5,700,000 泰铢。来源 LivingInsider #2867751。",
+        "th": "เช่า: 2 นอน 67.91 ตร.ม. ราคา 5,700,000 บาท (LivingInsider #2867751)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2867751. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2867751。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2867751 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2867751",
+      "source_updated_at": "2026-08-10",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2867751.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2867751",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2867751",
+      "source_url_hash": "731c884d71f4f9ee7ca5ae5dea079be50792c860515e43a7e1fca1581f59fc27",
+      "duplicate_fingerprint": "2e02a3bd3796fde76e3491c86f4eed2ca15b9cc15684d238666c94cb69400d9b",
+      "soft_match_fingerprint": "96da700e2adff99ad297dbbde1a39f71b66d2b8aaf7550b6b481c679f5eb8018",
+      "_computed_fingerprint": "a1897f8790b719d3f1ac434dcb1bc1e2dd1a76d15e4d69c02b9a31b99b031ef8"
+    },
+    {
+      "external_ref": "livinginsider-1888884",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46.35,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥ลดราคาแบบปังๆ เหลือ 3.9 ลบ🔥- 1 นอน ห้องกว้าง 46.35 ตร.ม. บนทำเลดีๆ คอนโดใกล้ BTS โพธิ์นิมิตร 200 ม. ที่ The Room Sathorn-Taksin / ขายคอนโด",
+        "zh": "🔥ลดราคาแบบปังๆ เหลือ 3.9 ลบ🔥- 1 นอน ห้องกว้าง 46.35 ตร.ม. บนทำเลดีๆ คอนโดใกล้ BTS โพธิ์นิมิตร 200 ม. ที่ The Room Sathorn-Taksin / ขายคอนโด",
+        "th": "🔥ลดราคาแบบปังๆ เหลือ 3.9 ลบ🔥- 1 นอน ห้องกว้าง 46.35 ตร.ม. บนทำเลดีๆ คอนโดใกล้ BTS โพธิ์นิมิตร 200 ม. ที่ The Room Sathorn-Taksin / ขายคอนโด"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 46.35 sq.m., 3,900,000 THB. Source LivingInsider #1888884.",
+        "zh": "出租：1卧，46.35㎡，3,900,000 泰铢。来源 LivingInsider #1888884。",
+        "th": "เช่า: 1 นอน 46.35 ตร.ม. ราคา 3,900,000 บาท (LivingInsider #1888884)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1888884. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1888884。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1888884 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1888884",
+      "source_updated_at": "2026-08-10",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1888884.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1888884",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1888884",
+      "source_url_hash": "52a133d6c465706b9f05653f0f8ad343ad2ecdcfa0f1d18c1a1ef5ae447d403b",
+      "duplicate_fingerprint": "34a1703e5a1fdd256a1ffbc2e225492284545d7715348afca93fce98ce184ff5",
+      "soft_match_fingerprint": "3cc0e5888cc84c9328ddffb934809ee40cadf8b62cbde3cd818856bda5773a40",
+      "_computed_fingerprint": "70a52f71497435a93c3ead0424b4f85e248e6925fbec673f29213df9f5eb979f"
+    },
+    {
+      "external_ref": "livinginsider-1936550",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เดอะ รูม สาทร - ตากสิน รีโนเวทใหม่ BTS-โพธิ์นิมิตร บางยี่เรือ เขต ธนบุรี กรุงเทพ CX-102365",
+        "zh": "ขายคอนโด  เดอะ รูม สาทร - ตากสิน รีโนเวทใหม่ BTS-โพธิ์นิมิตร บางยี่เรือ เขต ธนบุรี กรุงเทพ CX-102365",
+        "th": "ขายคอนโด  เดอะ รูม สาทร - ตากสิน รีโนเวทใหม่ BTS-โพธิ์นิมิตร บางยี่เรือ เขต ธนบุรี กรุงเทพ CX-102365"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,900,000 THB. Source LivingInsider #1936550.",
+        "zh": "出租：1卧，30㎡，3,900,000 泰铢。来源 LivingInsider #1936550。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,900,000 บาท (LivingInsider #1936550)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1936550. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1936550。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1936550 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1936550",
+      "source_updated_at": "2026-08-08",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1936550.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1936550",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1936550",
+      "source_url_hash": "ec039fd65003e809e9fb55b9c42575ecc0274ae82ddf9a82b4bea9503402de42",
+      "duplicate_fingerprint": "d87c09674f077aa23e33f685db01d85bad34e905f31829199fd0a61a22678694",
+      "soft_match_fingerprint": "3c8d5ee9c786414cc91c116809f355f36d3ce8f32e4ccc76dd6279b4cd4064c4",
+      "_computed_fingerprint": "c73bd0d46e8d83dbd48db0600660fe197d9a29589263d49a670c5c5575e0b3fa"
+    },
+    {
+      "external_ref": "livinginsider-2948587",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6600000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 75.2,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "🏠✨ The Room Sathorn–Taksin | 2 Bedrooms for Sale (HBH-ST-67)",
+        "zh": "🏠✨ The Room Sathorn–Taksin | 2 Bedrooms for Sale (HBH-ST-67)",
+        "th": "🏠✨ The Room Sathorn–Taksin | 2 Bedrooms for Sale (HBH-ST-67)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 75.2 sq.m., 6,600,000 THB. Source LivingInsider #2948587.",
+        "zh": "出租：2卧，75.2㎡，6,600,000 泰铢。来源 LivingInsider #2948587。",
+        "th": "เช่า: 2 นอน 75.2 ตร.ม. ราคา 6,600,000 บาท (LivingInsider #2948587)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2948587. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2948587。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2948587 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2948587",
+      "source_updated_at": "2026-08-07",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2948587.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2948587",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2948587",
+      "source_url_hash": "50163a973d0d1b3deb889f41c808c750e803cdaed0219887727ace664eb5b271",
+      "duplicate_fingerprint": "0d191fddaa97c2dad48a41f07e0a602e4b1332f0353bf8bb6c530c2e8387a7bd",
+      "soft_match_fingerprint": "d83125d035a2972f1f326bda13a4a10f946ab2a6ec4ad243a07341d8c6d2705f",
+      "_computed_fingerprint": "71a3e3d60354da655c7e812483025b21e476dd5fb9f575327b35c78db58b312a"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "project_slug": "xt-phayathai",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2905",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/7/2905/Condo/all/all/1/Condo-XT-Phayathai.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3066773",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42.5,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "🌟 ปล่อยเช่า XT Phayathai 🏙️ ห้องกว้าง 42.5 ตร.ม. ชั้น 12 วิวดี บรรยากาศน่าอยู่",
+        "zh": "🌟 ปล่อยเช่า XT Phayathai 🏙️ ห้องกว้าง 42.5 ตร.ม. ชั้น 12 วิวดี บรรยากาศน่าอยู่",
+        "th": "🌟 ปล่อยเช่า XT Phayathai 🏙️ ห้องกว้าง 42.5 ตร.ม. ชั้น 12 วิวดี บรรยากาศน่าอยู่"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 42.5 sq.m., 24,000 THB. Source LivingInsider #3066773.",
+        "zh": "出租：1卧，42.5㎡，24,000 泰铢。来源 LivingInsider #3066773。",
+        "th": "เช่า: 1 นอน 42.5 ตร.ม. ราคา 24,000 บาท (LivingInsider #3066773)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3066773. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3066773。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3066773 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3066773",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3066773.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3066773",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3066773",
+      "source_url_hash": "f9d07527d43c69b8a49e03862dc873d82f4f943d6a1d8dccce28618bcae0b77d",
+      "duplicate_fingerprint": "90a8e4b4fdcae24c70175aadf158c97da38f74aad401629da0ece38ab68b05d3",
+      "soft_match_fingerprint": "184e9fdc1601587522d0eda0703b8ced5c370ccd4bedf9ad51d30ab8eb7fa10a",
+      "_computed_fingerprint": "3d86cbfff453c22fdb3a79a804a061bf88b976a7670cd461c3c6f4ccaa040320"
+    },
+    {
+      "external_ref": "livinginsider-3127229",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 41.5,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "🏙️✨ XT Phayathai | ห้องใหญ่ 41.5 ตร.ม. 🛋️ ใจกลางพญาไท พร้อมเข้าอยู่ ",
+        "zh": "🏙️✨ XT Phayathai | ห้องใหญ่ 41.5 ตร.ม. 🛋️ ใจกลางพญาไท พร้อมเข้าอยู่ ",
+        "th": "🏙️✨ XT Phayathai | ห้องใหญ่ 41.5 ตร.ม. 🛋️ ใจกลางพญาไท พร้อมเข้าอยู่ "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 41.5 sq.m., 23,000 THB. Source LivingInsider #3127229.",
+        "zh": "出租：1卧，41.5㎡，23,000 泰铢。来源 LivingInsider #3127229。",
+        "th": "เช่า: 1 นอน 41.5 ตร.ม. ราคา 23,000 บาท (LivingInsider #3127229)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3127229. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3127229。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3127229 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3127229",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3127229.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3127229",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3127229",
+      "source_url_hash": "6418252160c42b14d53ae8f7449761610f5bf440b5360a3b4334b0059e1988c8",
+      "duplicate_fingerprint": "ec8bcdc9f6580793fca42beef174f9fa5a724ef926de5220d7a5d2aefa108a1d",
+      "soft_match_fingerprint": "c8924bfa2db4fa9d1c3da1c0c6f7f4311d8de580f39d212137d49a9256d0559e",
+      "_computed_fingerprint": "ad3bbd59eaab6975f7913a3e1353580e2a2b487e8023b75aa5e4aa344c0664c8"
+    },
+    {
+      "external_ref": "livinginsider-3136758",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "🏡 ให้เช่า XT Phayathai พร้อมเข้าอยู่ | ห้องใหม่ วิวสวย ใจกลางเมือง",
+        "zh": "🏡 ให้เช่า XT Phayathai พร้อมเข้าอยู่ | ห้องใหม่ วิวสวย ใจกลางเมือง",
+        "th": "🏡 ให้เช่า XT Phayathai พร้อมเข้าอยู่ | ห้องใหม่ วิวสวย ใจกลางเมือง"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 42 sq.m., 24,000 THB. Source LivingInsider #3136758.",
+        "zh": "出租：1卧，42㎡，24,000 泰铢。来源 LivingInsider #3136758。",
+        "th": "เช่า: 1 นอน 42 ตร.ม. ราคา 24,000 บาท (LivingInsider #3136758)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3136758. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3136758。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3136758 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3136758",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3136758.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3136758",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3136758",
+      "source_url_hash": "429192c723e876916f48bf0ab5b90dba58db428e9e84afdbb39a30ce72ea7f5e",
+      "duplicate_fingerprint": "ec94ef0520dc8db1ed66134a43727cf426d8efc531e4f1a4a6f9ac0bd108440f",
+      "soft_match_fingerprint": "677e66638001122146f556c8fca4632042d35de10b1ffbd4b24046989b94ce89",
+      "_computed_fingerprint": "74ea2a386dfbef681ee43a686aef2f93711d82847f7297ba99c1442c5015ec92"
+    },
+    {
+      "external_ref": "livinginsider-3126407",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 21000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "ปล่อยเช่า XT Phayathai ราคาดีมาก ห้องกว้าง 42 ตร.ม. ห้องใหม่ไปเร็วมาก ส่วนกลางดี เดินทางสะดวก",
+        "zh": "ปล่อยเช่า XT Phayathai ราคาดีมาก ห้องกว้าง 42 ตร.ม. ห้องใหม่ไปเร็วมาก ส่วนกลางดี เดินทางสะดวก",
+        "th": "ปล่อยเช่า XT Phayathai ราคาดีมาก ห้องกว้าง 42 ตร.ม. ห้องใหม่ไปเร็วมาก ส่วนกลางดี เดินทางสะดวก"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 42 sq.m., 21,000 THB. Source LivingInsider #3126407.",
+        "zh": "出租：1卧，42㎡，21,000 泰铢。来源 LivingInsider #3126407。",
+        "th": "เช่า: 1 นอน 42 ตร.ม. ราคา 21,000 บาท (LivingInsider #3126407)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3126407. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3126407。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3126407 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3126407",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3126407.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3126407",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3126407",
+      "source_url_hash": "553c4b4390d7be826aead4ce780febfe6042dc810a555d9ee8bffa869d9e5696",
+      "duplicate_fingerprint": "6609da8d768abcd4f73d308d92194bbb50778a6ea465bc11c1b5250bb3e7d7f9",
+      "soft_match_fingerprint": "619260879dca9e731f4996994d1a1639fe09a67ae12f4c317259ff3b540d725d",
+      "_computed_fingerprint": "899d1dee16efec3fab69cbc55dcdb911979c21cbe330e8722cff5a225e86f4fd"
+    },
+    {
+      "external_ref": "livinginsider-3143977",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 55000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "3 Bedroom XT Phayathai near Cenral World",
+        "zh": "3 Bedroom XT Phayathai near Cenral World",
+        "th": "3 Bedroom XT Phayathai near Cenral World"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 30 sq.m., 55,000 THB. Source LivingInsider #3143977.",
+        "zh": "出租：3卧，30㎡，55,000 泰铢。来源 LivingInsider #3143977。",
+        "th": "เช่า: 3 นอน 30 ตร.ม. ราคา 55,000 บาท (LivingInsider #3143977)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3143977. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3143977。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3143977 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3143977",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3143977.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3143977",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3143977",
+      "source_url_hash": "aa03a9718d72df51e4b40b4d96536d6532f04ae1cdb1477c6049314871198a81",
+      "duplicate_fingerprint": "15aa40cafdb9f2d0668062b11ef0853939bd0da7b95a3b70a3c42f561b0ceb39",
+      "soft_match_fingerprint": "d90bbeabe436f4cfa1ac554b305117dbf722bc7ef387833b57b7bbac03f35e6c",
+      "_computed_fingerprint": "7c3e7a1a0d6515c8d747d7ebfd0035c687787e32f4eb53db10c426c6d5e0130f"
+    },
+    {
+      "external_ref": "livinginsider-3131174",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 29000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42,
+      "floor_label": "13",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "🚆 เดินเพียง 10 นาทีถึง BTS พญาไท ห้องใหญ่ 42 ตร.ม. ตรงข้าม รพ.พญาไท 1 – XT Phayathai ✨",
+        "zh": "🚆 เดินเพียง 10 นาทีถึง BTS พญาไท ห้องใหญ่ 42 ตร.ม. ตรงข้าม รพ.พญาไท 1 – XT Phayathai ✨",
+        "th": "🚆 เดินเพียง 10 นาทีถึง BTS พญาไท ห้องใหญ่ 42 ตร.ม. ตรงข้าม รพ.พญาไท 1 – XT Phayathai ✨"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 42 sq.m., 29,000 THB. Source LivingInsider #3131174.",
+        "zh": "出租：1卧，42㎡，29,000 泰铢。来源 LivingInsider #3131174。",
+        "th": "เช่า: 1 นอน 42 ตร.ม. ราคา 29,000 บาท (LivingInsider #3131174)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3131174. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3131174。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3131174 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3131174",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3131174.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3131174",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3131174",
+      "source_url_hash": "b421bc279370f1cadb5f427082db01ecd84a81bdc4736073d3bba17e58ab2a24",
+      "duplicate_fingerprint": "d3c4db90a34b380f3d675ca768e597b140ac37341179a66b31aac218fc14a303",
+      "soft_match_fingerprint": "7c17632018862b12294a20dd9fc04341cbc80856b4c867f434d1345181ef96de",
+      "_computed_fingerprint": "eb04152a5b5dad129892ccc290fbfefa9bbe65e2467713e45c284e8bf939b97e"
+    },
+    {
+      "external_ref": "livinginsider-1902682",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5690000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "🚀𝙎𝙐𝙋𝙀𝙍 𝘿𝙀𝘼𝙇 𝙓𝙏 𝙋𝙃𝘼𝙔𝘼𝙏𝙃𝘼𝙄🚀𝟏นอน  𝟒𝟔 ตร.ม. ราคาดีที่สุด บนขีดสุดของข้อเสนอสุดพิเศษ สนใจโทร📱𝟬𝟲𝟲𝟭𝟭𝟲𝟴𝟬𝟬𝟰",
+        "zh": "🚀𝙎𝙐𝙋𝙀𝙍 𝘿𝙀𝘼𝙇 𝙓𝙏 𝙋𝙃𝘼𝙔𝘼𝙏𝙃𝘼𝙄🚀𝟏นอน  𝟒𝟔 ตร.ม. ราคาดีที่สุด บนขีดสุดของข้อเสนอสุดพิเศษ สนใจโทร📱𝟬𝟲𝟲𝟭𝟭𝟲𝟴𝟬𝟬𝟰",
+        "th": "🚀𝙎𝙐𝙋𝙀𝙍 𝘿𝙀𝘼𝙇 𝙓𝙏 𝙋𝙃𝘼𝙔𝘼𝙏𝙃𝘼𝙄🚀𝟏นอน  𝟒𝟔 ตร.ม. ราคาดีที่สุด บนขีดสุดของข้อเสนอสุดพิเศษ สนใจโทร📱𝟬𝟲𝟲𝟭𝟭𝟲𝟴𝟬𝟬𝟰"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,690,000 THB. Source LivingInsider #1902682.",
+        "zh": "出租：1卧，30㎡，5,690,000 泰铢。来源 LivingInsider #1902682。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,690,000 บาท (LivingInsider #1902682)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1902682. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1902682。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1902682 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1902682",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1902682.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1902682",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1902682",
+      "source_url_hash": "dd5ff2b19fa122ef31273d9c3508319977ca964f2c72b47948c883817e827aae",
+      "duplicate_fingerprint": "96e8cd11b0ebb8043fd808e411fefafd19bd677341857d2cea717c48c84e701f",
+      "soft_match_fingerprint": "535c0a4c645cdc73dc67d0dd101e07f36e2c52ce75ac3618d9750c382d1f3e1f",
+      "_computed_fingerprint": "9b4121c649104c643dc9ba79ae89ce13f8e42903c9651fb1ac333ef06c074756"
+    },
+    {
+      "external_ref": "livinginsider-2724266",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5700000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥ขายด่วน+🔥เอ็กซ์ที พญาไท  High Rise  ใกล้รถไฟฟ้า BTS และ Airport Link",
+        "zh": "🔥ขายด่วน+🔥เอ็กซ์ที พญาไท  High Rise  ใกล้รถไฟฟ้า BTS และ Airport Link",
+        "th": "🔥ขายด่วน+🔥เอ็กซ์ที พญาไท  High Rise  ใกล้รถไฟฟ้า BTS และ Airport Link"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 46 sq.m., 5,700,000 THB. Source LivingInsider #2724266.",
+        "zh": "出租：1卧，46㎡，5,700,000 泰铢。来源 LivingInsider #2724266。",
+        "th": "เช่า: 1 นอน 46 ตร.ม. ราคา 5,700,000 บาท (LivingInsider #2724266)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2724266. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2724266。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2724266 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2724266",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2724266.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2724266",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2724266",
+      "source_url_hash": "db853951415a4d2b916200c7658254bf007476079aee3deeac1452f72f0f525b",
+      "duplicate_fingerprint": "93e56b982d97b6ea1848e6f014436aa6522f367407cf9d89738e7da8747e5ce2",
+      "soft_match_fingerprint": "74f4046de7cc85e37f82f50b4148db2c36062d4ecb82a907e6860e1368cbcd26",
+      "_computed_fingerprint": "c62ce789ece01df217c8c5f584fa51bd023acbc0c881cfc08a10986560bdb135"
+    },
+    {
+      "external_ref": "livinginsider-2748012",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เอ็กซ์ที พญาไท BTS-พญาไท ถนนพญาไท เขต ราชเทวี กรุงเทพ CX-127414",
+        "zh": "ขายคอนโด  เอ็กซ์ที พญาไท BTS-พญาไท ถนนพญาไท เขต ราชเทวี กรุงเทพ CX-127414",
+        "th": "ขายคอนโด  เอ็กซ์ที พญาไท BTS-พญาไท ถนนพญาไท เขต ราชเทวี กรุงเทพ CX-127414"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 6,000,000 THB. Source LivingInsider #2748012.",
+        "zh": "出租：1卧，30㎡，6,000,000 泰铢。来源 LivingInsider #2748012。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 6,000,000 บาท (LivingInsider #2748012)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2748012. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2748012。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2748012 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2748012",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2748012.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2748012",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2748012",
+      "source_url_hash": "ca22fbaf5eaebe424bb027d7d183371b673fc9804ff8c950b0581b09070a6720",
+      "duplicate_fingerprint": "8ce39d3399adbe0ed23364b7dec02a12875d22b09d314f80a6b566475c181801",
+      "soft_match_fingerprint": "8491c11035026038e5fd6da69fb5874efede15349c8a3620a40c4a5b84282af7",
+      "_computed_fingerprint": "0819e1124d47b6b1dec31d57af7e203b5c6bc30bd490dbe485c7222c70494c37"
+    },
+    {
+      "external_ref": "livinginsider-3119732",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เอ็กซ์ที พญาไท BTS-พญาไท ถนนพญาไท เขต ราชเทวี กรุงเทพ CX-160837",
+        "zh": "ขายคอนโด  เอ็กซ์ที พญาไท BTS-พญาไท ถนนพญาไท เขต ราชเทวี กรุงเทพ CX-160837",
+        "th": "ขายคอนโด  เอ็กซ์ที พญาไท BTS-พญาไท ถนนพญาไท เขต ราชเทวี กรุงเทพ CX-160837"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,590,000 THB. Source LivingInsider #3119732.",
+        "zh": "出租：1卧，30㎡，5,590,000 泰铢。来源 LivingInsider #3119732。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,590,000 บาท (LivingInsider #3119732)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3119732. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3119732。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3119732 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3119732",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3119732.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3119732",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3119732",
+      "source_url_hash": "d6a7f2770f3ee6439a75389c3ded588b6620a5834bf18094b383df6f89c2e609",
+      "duplicate_fingerprint": "7f5f8cf826cc393738a78ae3f840f7fcc5d578a3f06bbaa2975249d91168f6a6",
+      "soft_match_fingerprint": "8491c11035026038e5fd6da69fb5874efede15349c8a3620a40c4a5b84282af7",
+      "_computed_fingerprint": "1d3b15e8061cf619cad9adbde3200cfcf8ee422cd85658f45ea86b164a377914"
+    },
+    {
+      "external_ref": "livinginsider-3106343",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 14890000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เอ็กซ์ที พญาไท BTS-พญาไท ถนนพญาไท เขต ราชเทวี กรุงเทพ CX-158298",
+        "zh": "ขายคอนโด  เอ็กซ์ที พญาไท BTS-พญาไท ถนนพญาไท เขต ราชเทวี กรุงเทพ CX-158298",
+        "th": "ขายคอนโด  เอ็กซ์ที พญาไท BTS-พญาไท ถนนพญาไท เขต ราชเทวี กรุงเทพ CX-158298"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 14,890,000 THB. Source LivingInsider #3106343.",
+        "zh": "出租：2卧，30㎡，14,890,000 泰铢。来源 LivingInsider #3106343。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 14,890,000 บาท (LivingInsider #3106343)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3106343. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3106343。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3106343 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3106343",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3106343.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3106343",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3106343",
+      "source_url_hash": "706f37c7c939e0df7f072ce045d96aaf516abe7ea5cffb921c39fa57e63d3da4",
+      "duplicate_fingerprint": "f1d837c89457f082833b95e5985ff6f383958466d4ca6d86d1e91d5a7432662f",
+      "soft_match_fingerprint": "464cc25ac91d8fc1bab314abf580b83498c22f300b7777d4ccf44e431821989c",
+      "_computed_fingerprint": "d40c316c80286b45bfc7f2210c64b783a41906ab878fe42c6c2c1ca6c8b64de8"
+    },
+    {
+      "external_ref": "livinginsider-2432691",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 15500000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "xt-phayathai",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เอ็กซ์ที พญาไท BTS-พญาไท ถนนพญาไท เขต ราชเทวี กรุงเทพ    CX-144420",
+        "zh": "ขายคอนโด  เอ็กซ์ที พญาไท BTS-พญาไท ถนนพญาไท เขต ราชเทวี กรุงเทพ    CX-144420",
+        "th": "ขายคอนโด  เอ็กซ์ที พญาไท BTS-พญาไท ถนนพญาไท เขต ราชเทวี กรุงเทพ    CX-144420"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 30 sq.m., 15,500,000 THB. Source LivingInsider #2432691.",
+        "zh": "出租：3卧，30㎡，15,500,000 泰铢。来源 LivingInsider #2432691。",
+        "th": "เช่า: 3 นอน 30 ตร.ม. ราคา 15,500,000 บาท (LivingInsider #2432691)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2432691. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2432691。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2432691 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2432691",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2432691.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2432691",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2432691",
+      "source_url_hash": "4ce46eb658b657fa72039c6d3190e91b0d5c5188b5d978f98d1f998adf7de761",
+      "duplicate_fingerprint": "51eecfe4822048140d9869777c3db2f32a319a05576dd0f912ed90ea5b556f96",
+      "soft_match_fingerprint": "c7479202224ec1695a573516dcf7c2e234413324e09aa9baa6d2a6a58255a592",
+      "_computed_fingerprint": "8524a7a35996dc9e50e4cdf9452c19159f51dca06429b805554fd3c147695932"
+    }
+  ]
+}

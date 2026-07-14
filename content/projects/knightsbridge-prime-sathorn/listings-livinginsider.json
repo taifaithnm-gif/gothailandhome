@@ -1,0 +1,550 @@
+{
+  "project_slug": "knightsbridge-prime-sathorn",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2563",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/24/2563/Condo/all/all/1/Condo-KnightsBridge-Prime-Sathorn.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3148208",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 28000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "🏙 ให้เช่า Knightbridge Prime Sathorn  ห้องสวย เพดานสูง วิวเมือง ",
+        "zh": "🏙 ให้เช่า Knightbridge Prime Sathorn  ห้องสวย เพดานสูง วิวเมือง ",
+        "th": "🏙 ให้เช่า Knightbridge Prime Sathorn  ห้องสวย เพดานสูง วิวเมือง "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 28,000 THB. Source LivingInsider #3148208.",
+        "zh": "出租：1卧，30㎡，28,000 泰铢。来源 LivingInsider #3148208。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 28,000 บาท (LivingInsider #3148208)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3148208. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3148208。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3148208 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3148208",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3148208.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3148208",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3148208",
+      "source_url_hash": "2c084c9da9d5a1c1f6dba82989ace48091de8a0f91376a35810a9d38a06449fb",
+      "duplicate_fingerprint": "bad09b07311d8988042c876e48b92e1c1a404c5c52d8fee960048c626c65ccc6",
+      "soft_match_fingerprint": "8e580f1a7ba98f57aa6ee2930e65edc7d287dc0466605763badb4d54ffdbdda9",
+      "_computed_fingerprint": "8ff6087829645e0dfaf6ada354ee15aa6b8f54e9a5c1a57630ce194dc398a8ea"
+    },
+    {
+      "external_ref": "livinginsider-2785087",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 Knightsbridge Prime Sathorn | 1 Bedroom ชั้น 22 วิวเมือง ใกล้ BTS ช่องนนทรี เพียง 20,000 บ./เดือน",
+        "zh": "🔥 Knightsbridge Prime Sathorn | 1 Bedroom ชั้น 22 วิวเมือง ใกล้ BTS ช่องนนทรี เพียง 20,000 บ./เดือน",
+        "th": "🔥 Knightsbridge Prime Sathorn | 1 Bedroom ชั้น 22 วิวเมือง ใกล้ BTS ช่องนนทรี เพียง 20,000 บ./เดือน"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 25 sq.m., 20,000 THB. Source LivingInsider #2785087.",
+        "zh": "出租：1卧，25㎡，20,000 泰铢。来源 LivingInsider #2785087。",
+        "th": "เช่า: 1 นอน 25 ตร.ม. ราคา 20,000 บาท (LivingInsider #2785087)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2785087. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2785087。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2785087 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2785087",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2785087.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2785087",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2785087",
+      "source_url_hash": "faab7c601ac578643c2cee56e9eee84c8252f279204c112568d1162208533654",
+      "duplicate_fingerprint": "f3a0389b87db168ff631cdbf571047a203990ac51638e1f782e5b19dad557a49",
+      "soft_match_fingerprint": "0ffb5619e05a4f20521ed720b8b271806f5808c29935011d3ecd99eb855014fd",
+      "_computed_fingerprint": "38b99030c86c74bfbba9f272a47f6185991ca03c94030d000bbfcace7ed1c876"
+    },
+    {
+      "external_ref": "livinginsider-3132715",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "42",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "!! ห้องสวย ให้เช่าคอนโด Knightsbridge Prime Sathorn ใกล้ BTS ช่องนนทรี",
+        "zh": "!! ห้องสวย ให้เช่าคอนโด Knightsbridge Prime Sathorn ใกล้ BTS ช่องนนทรี",
+        "th": "!! ห้องสวย ให้เช่าคอนโด Knightsbridge Prime Sathorn ใกล้ BTS ช่องนนทรี"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 24,500 THB. Source LivingInsider #3132715.",
+        "zh": "出租：1卧，30㎡，24,500 泰铢。来源 LivingInsider #3132715。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 24,500 บาท (LivingInsider #3132715)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3132715. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3132715。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3132715 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3132715",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3132715.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3132715",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3132715",
+      "source_url_hash": "c04c1c901df90cc25b4c4dcacd37054a12414403c809bcd529eaac795ac76392",
+      "duplicate_fingerprint": "21eef129a337b1c634c124fb5c53ad99d1a2870c53bd78e2dc58ba9ac75fac2f",
+      "soft_match_fingerprint": "2581789b8aae8efe50d022491fdfe30875088e44f8657930012f827232dd26a2",
+      "_computed_fingerprint": "5618ffc26407448b5b9eebdf1521c1596ea373545da700271107331d9c86be50"
+    },
+    {
+      "external_ref": "livinginsider-3093684",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "27",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "!! ห้องสวย ให้เช่าคอนโด Knightsbridge Prime Sathorn ใกล้ BTS ช่องนนทรี",
+        "zh": "!! ห้องสวย ให้เช่าคอนโด Knightsbridge Prime Sathorn ใกล้ BTS ช่องนนทรี",
+        "th": "!! ห้องสวย ให้เช่าคอนโด Knightsbridge Prime Sathorn ใกล้ BTS ช่องนนทรี"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 25,000 THB. Source LivingInsider #3093684.",
+        "zh": "出租：1卧，30㎡，25,000 泰铢。来源 LivingInsider #3093684。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 25,000 บาท (LivingInsider #3093684)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3093684. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3093684。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3093684 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3093684",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3093684.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3093684",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3093684",
+      "source_url_hash": "5c36d5aac76e48b31ebe8b676317df67a3ee0a98fd5d04e579a0e518598c5d0f",
+      "duplicate_fingerprint": "807e4103680b914aef281dc47ad6433376ee0afd38804ccc322ae6775847caa4",
+      "soft_match_fingerprint": "fc66b75b67a80e5738d2a3a55e95b674dac28f6b6b582dd0b40d0adba8959276",
+      "_computed_fingerprint": "59efebf30ff9a5c8b967878aa3a33948abd53944df9b25828f1f79d079acdeb7"
+    },
+    {
+      "external_ref": "livinginsider-2988208",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 55,
+      "floor_label": "33",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥 ราคาพิเศษ! 📍 KnightsBridge Prime Sathorn | ใกล้ BTS ช่องนนทรี | แต่งครบ 💸 เริ่ม 7.9 ลบ*",
+        "zh": "🔥 ราคาพิเศษ! 📍 KnightsBridge Prime Sathorn | ใกล้ BTS ช่องนนทรี | แต่งครบ 💸 เริ่ม 7.9 ลบ*",
+        "th": "🔥 ราคาพิเศษ! 📍 KnightsBridge Prime Sathorn | ใกล้ BTS ช่องนนทรี | แต่งครบ 💸 เริ่ม 7.9 ลบ*"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 55 sq.m., 7,000,000 THB. Source LivingInsider #2988208.",
+        "zh": "出租：1卧，55㎡，7,000,000 泰铢。来源 LivingInsider #2988208。",
+        "th": "เช่า: 1 นอน 55 ตร.ม. ราคา 7,000,000 บาท (LivingInsider #2988208)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2988208. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2988208。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2988208 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2988208",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2988208.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2988208",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2988208",
+      "source_url_hash": "7b7f94ea5485a6b663aae2ed834ffa41b286ba6cd4cefe722e4f06f0e2110102",
+      "duplicate_fingerprint": "39248eb62cff4a55efc82eec62f80ce8f90d80568acafc177c577a6d76bb76e4",
+      "soft_match_fingerprint": "a22fad197343fa43e34f4f9c9a720755742ebaf8ee0f3c1a8982afe3422904a3",
+      "_computed_fingerprint": "6db0f3ee46829ffe5042e86b280cde5dda835cbcea4fed910faf096448258760"
+    },
+    {
+      "external_ref": "livinginsider-1330805",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8000000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ไนท์บริดจ์ ไพร์ม สาทร BTS-ช่องนนทรี ทุ่งมหาเมฆ เขต สาทร กรุงเทพ  CX-130547",
+        "zh": "ขายคอนโด  ไนท์บริดจ์ ไพร์ม สาทร BTS-ช่องนนทรี ทุ่งมหาเมฆ เขต สาทร กรุงเทพ  CX-130547",
+        "th": "ขายคอนโด  ไนท์บริดจ์ ไพร์ม สาทร BTS-ช่องนนทรี ทุ่งมหาเมฆ เขต สาทร กรุงเทพ  CX-130547"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 8,000,000 THB. Source LivingInsider #1330805.",
+        "zh": "出租：2卧，30㎡，8,000,000 泰铢。来源 LivingInsider #1330805。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 8,000,000 บาท (LivingInsider #1330805)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1330805. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1330805。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1330805 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1330805",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1330805.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1330805",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1330805",
+      "source_url_hash": "78e1fc6b3b07f9b78be46ad1db8694beedf11e5002e2f9f8d09dcdcafb86bf8f",
+      "duplicate_fingerprint": "0a6c36be17d2c1cee53e3aaebc2a9f9c88bccda3c46c193fb2924b083d4c9926",
+      "soft_match_fingerprint": "7a104eef2d4da5ab0382caf79b553819752c5468389004f0afc5bbafcca860be",
+      "_computed_fingerprint": "b20e655fdcc9ed192ced27da39ba2fcf7280cd0de0be1f80922eeb38d69e5897"
+    },
+    {
+      "external_ref": "livinginsider-2079685",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6100000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ไนท์บริดจ์ ไพร์ม สาทร BTS-ช่องนนทรี ทุ่งมหาเมฆ เขต สาทร กรุงเทพ CX-27874",
+        "zh": "ขายคอนโด  ไนท์บริดจ์ ไพร์ม สาทร BTS-ช่องนนทรี ทุ่งมหาเมฆ เขต สาทร กรุงเทพ CX-27874",
+        "th": "ขายคอนโด  ไนท์บริดจ์ ไพร์ม สาทร BTS-ช่องนนทรี ทุ่งมหาเมฆ เขต สาทร กรุงเทพ CX-27874"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 6,100,000 THB. Source LivingInsider #2079685.",
+        "zh": "出租：1卧，30㎡，6,100,000 泰铢。来源 LivingInsider #2079685。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 6,100,000 บาท (LivingInsider #2079685)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2079685. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2079685。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2079685 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2079685",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2079685.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2079685",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2079685",
+      "source_url_hash": "795172eec93ebdf334b264d56cfc75d25c1f1a9c85dca4a738204b2e6f2370b7",
+      "duplicate_fingerprint": "514ce1ecf0bd1f1bcce8c3c8ae9b40d86eed61c86d47d21e72ee2e92c6e8806a",
+      "soft_match_fingerprint": "f3eed9503084961585c0fd52980975bda22f0240064a6ba6183d76eb8c4148b0",
+      "_computed_fingerprint": "72f5ee9ef5a39f0744bf056ff452453c99fefd2c38044766b4bde0f8155944c9"
+    },
+    {
+      "external_ref": "livinginsider-3077887",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ไนท์บริดจ์ ไพร์ม สาทร BTS-ช่องนนทรี ทุ่งมหาเมฆ เขต สาทร กรุงเทพ CX-155501",
+        "zh": "ขายคอนโด  ไนท์บริดจ์ ไพร์ม สาทร BTS-ช่องนนทรี ทุ่งมหาเมฆ เขต สาทร กรุงเทพ CX-155501",
+        "th": "ขายคอนโด  ไนท์บริดจ์ ไพร์ม สาทร BTS-ช่องนนทรี ทุ่งมหาเมฆ เขต สาทร กรุงเทพ CX-155501"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 4,990,000 THB. Source LivingInsider #3077887.",
+        "zh": "出租：1卧，30㎡，4,990,000 泰铢。来源 LivingInsider #3077887。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 4,990,000 บาท (LivingInsider #3077887)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3077887. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3077887。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3077887 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3077887",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3077887.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3077887",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3077887",
+      "source_url_hash": "31409e8d6bf51e67bc11da383d948438cebe9f276d2c08b1b48dda7743c43fcb",
+      "duplicate_fingerprint": "85948d8c2f89d069b885c3f93c213745c5e02178f58fcdd1c770dd405fe2eaf4",
+      "soft_match_fingerprint": "1450a06dcd4c27d0c9bab057f39d25d2139950db140426e0dd39bdb70cd192c9",
+      "_computed_fingerprint": "dc257b571e2df9c6162a0bb3530ec5bddbb5ed69399759829301ff69046028a3"
+    },
+    {
+      "external_ref": "livinginsider-1087752",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด ไนท์บริดจ์ ไพร์ม สาทร ดูเพล็กซ์ BTS-ช่องนนทรี ทุ่งมหาเมฆ เขต สาทร กรุงเทพ CX-148789",
+        "zh": "ขายคอนโด ไนท์บริดจ์ ไพร์ม สาทร ดูเพล็กซ์ BTS-ช่องนนทรี ทุ่งมหาเมฆ เขต สาทร กรุงเทพ CX-148789",
+        "th": "ขายคอนโด ไนท์บริดจ์ ไพร์ม สาทร ดูเพล็กซ์ BTS-ช่องนนทรี ทุ่งมหาเมฆ เขต สาทร กรุงเทพ CX-148789"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,400,000 THB. Source LivingInsider #1087752.",
+        "zh": "出租：1卧，30㎡，5,400,000 泰铢。来源 LivingInsider #1087752。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,400,000 บาท (LivingInsider #1087752)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1087752. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1087752。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1087752 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1087752",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1087752.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1087752",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1087752",
+      "source_url_hash": "cc59352a4a5a661918a49de91e79f357d4d5bd7cd0b17a26af679fcbf8764f18",
+      "duplicate_fingerprint": "1b4d91a42a3def267c05b5cf9e1935990bb02aa89d584b90de55a9087477d572",
+      "soft_match_fingerprint": "f3eed9503084961585c0fd52980975bda22f0240064a6ba6183d76eb8c4148b0",
+      "_computed_fingerprint": "33edd9c4d648f4e0163317f8cb5e4c1eed5e1bf1fce0b26d549de975ed4977d0"
+    },
+    {
+      "external_ref": "livinginsider-1866985",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ไนท์​บริดจ์​ ไ​พ​ร์ม​ รัชโยธิน BTS-พหลโยธิน 24 จตุจักร เขต จตุจักร กรุงเทพ   CX-134619",
+        "zh": "ขายคอนโด  ไนท์​บริดจ์​ ไ​พ​ร์ม​ รัชโยธิน BTS-พหลโยธิน 24 จตุจักร เขต จตุจักร กรุงเทพ   CX-134619",
+        "th": "ขายคอนโด  ไนท์​บริดจ์​ ไ​พ​ร์ม​ รัชโยธิน BTS-พหลโยธิน 24 จตุจักร เขต จตุจักร กรุงเทพ   CX-134619"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,590,000 THB. Source LivingInsider #1866985.",
+        "zh": "出租：1卧，30㎡，5,590,000 泰铢。来源 LivingInsider #1866985。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,590,000 บาท (LivingInsider #1866985)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1866985. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1866985。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1866985 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1866985",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1866985.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1866985",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1866985",
+      "source_url_hash": "1dfe552da12754f2d7ef4c9a232733f4904ee62818fbc23445eababa0960ea10",
+      "duplicate_fingerprint": "eba629cfde96d03f6cf7356891bfb3290feb48e6583b41ce65f323a02f0cb890",
+      "soft_match_fingerprint": "f3eed9503084961585c0fd52980975bda22f0240064a6ba6183d76eb8c4148b0",
+      "_computed_fingerprint": "98932dc7a249ad90fb3ee688e42e4ead2cfb722a62afbf227089a1c9c457cdd1"
+    }
+  ]
+}

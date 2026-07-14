@@ -1,0 +1,388 @@
+{
+  "project_slug": "rhythm-ekkamai",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2556",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/18/2556/Condo/all/all/1/Condo-RHYTHM-Ekkamai.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-2716164",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 32000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "!! ห้องสวย ให้เช่าคอนโด Rhythm Ekkamai ใกล้ BTS เอกมัย ",
+        "zh": "!! ห้องสวย ให้เช่าคอนโด Rhythm Ekkamai ใกล้ BTS เอกมัย ",
+        "th": "!! ห้องสวย ให้เช่าคอนโด Rhythm Ekkamai ใกล้ BTS เอกมัย "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 32,000 THB. Source LivingInsider #2716164.",
+        "zh": "出租：1卧，30㎡，32,000 泰铢。来源 LivingInsider #2716164。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 32,000 บาท (LivingInsider #2716164)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2716164. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2716164。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2716164 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2716164",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2716164.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2716164",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2716164",
+      "source_url_hash": "2948bc58882748b3c4e9f2cb3b36f34ee5420c2d00a34ec2208b95411f70fe5f",
+      "duplicate_fingerprint": "40ad5e6b253a67b6cdbb077b4d270af346bf8d152ffbdb7c6e8b7cebf6b48d2e",
+      "soft_match_fingerprint": "b7fbd85ffdb079b2f6c3f7eb0ba9936ce8a4beba79d7f36ff49bd3af36102081",
+      "_computed_fingerprint": "02be5ca55fe53354b785654d099f40eeff9304aca2edeb8ac6355f71462469be"
+    },
+    {
+      "external_ref": "livinginsider-3033428",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 11000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-90018",
+        "zh": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-90018",
+        "th": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-90018"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 11,000,000 THB. Source LivingInsider #3033428.",
+        "zh": "出租：2卧，30㎡，11,000,000 泰铢。来源 LivingInsider #3033428。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 11,000,000 บาท (LivingInsider #3033428)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3033428. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3033428。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3033428 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3033428",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3033428.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3033428",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3033428",
+      "source_url_hash": "42be72999a9e5b7a029a52114fdfb34dcc8ddc08d7120e9d5346adedc5f800ed",
+      "duplicate_fingerprint": "69bdcb4e2e092c9f238e1789079576d2568bf158943a0de6262bfa2b3f945cea",
+      "soft_match_fingerprint": "e98d953ffce169650e42cf317649619a1ae3a70b410c4237ce08df4005ba42c2",
+      "_computed_fingerprint": "3f35fad14774016862df757cef7a16e0aba032fc2904cce70753ce2fccabdfa4"
+    },
+    {
+      "external_ref": "livinginsider-1854040",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 28500000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-137967",
+        "zh": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-137967",
+        "th": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-137967"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 30 sq.m., 28,500,000 THB. Source LivingInsider #1854040.",
+        "zh": "出租：3卧，30㎡，28,500,000 泰铢。来源 LivingInsider #1854040。",
+        "th": "เช่า: 3 นอน 30 ตร.ม. ราคา 28,500,000 บาท (LivingInsider #1854040)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1854040. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1854040。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1854040 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1854040",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1854040.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1854040",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1854040",
+      "source_url_hash": "4f41a52239c857eeea6cd397b90db0ff1cb4ef3f79e99c268fb3c0c5c728b6ed",
+      "duplicate_fingerprint": "33ce6634eac9fc009a415ff15db484f43247d83aa1efe3494431b3de5c6dd440",
+      "soft_match_fingerprint": "20431dc94fae86bca3821b0ce92aae61ef7883173665bed63cb90c71db9b6896",
+      "_computed_fingerprint": "fa363b5d368acabe1f2980be5f09b29213da5f0e91323d4af27af72f0edda76f"
+    },
+    {
+      "external_ref": "livinginsider-2030467",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-90120",
+        "zh": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-90120",
+        "th": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-90120"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,000,000 THB. Source LivingInsider #2030467.",
+        "zh": "出租：1卧，30㎡，5,000,000 泰铢。来源 LivingInsider #2030467。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,000,000 บาท (LivingInsider #2030467)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2030467. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2030467。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2030467 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2030467",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2030467.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2030467",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2030467",
+      "source_url_hash": "d6831270b43d5b486ee4b5bd98f1f49d8e7b324f2768354e209e22cd4a8185ad",
+      "duplicate_fingerprint": "ecbfa4a839c2e05a8371436fa008782184d09b530695f603dda988391f768931",
+      "soft_match_fingerprint": "1641fd0c20abd9d64113ca739acfabf62048d7111f979a5ea9b1b362f77c9268",
+      "_computed_fingerprint": "c19a9ebf26603a194f9896300b864d73dca467fd513659856ccee47adfb21805"
+    },
+    {
+      "external_ref": "livinginsider-2003564",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9900000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-111381",
+        "zh": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-111381",
+        "th": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-111381"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 9,900,000 THB. Source LivingInsider #2003564.",
+        "zh": "出租：2卧，30㎡，9,900,000 泰铢。来源 LivingInsider #2003564。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 9,900,000 บาท (LivingInsider #2003564)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2003564. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2003564。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2003564 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2003564",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2003564.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2003564",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2003564",
+      "source_url_hash": "045e7e7d221292089817ecc6a829c02f33ea44e769186acaf139383c1c2dd981",
+      "duplicate_fingerprint": "4ea4d3bad512c742f2945e5870bdf1262cf4b9c305207a8f444734931a544564",
+      "soft_match_fingerprint": "e98d953ffce169650e42cf317649619a1ae3a70b410c4237ce08df4005ba42c2",
+      "_computed_fingerprint": "43bd1e3875046d576dc9e603d4c979b2ff44aa4f283bbf0dcc6cf4df1a5cde46"
+    },
+    {
+      "external_ref": "livinginsider-1854055",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-103717",
+        "zh": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-103717",
+        "th": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ CX-103717"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 4,990,000 THB. Source LivingInsider #1854055.",
+        "zh": "出租：1卧，30㎡，4,990,000 泰铢。来源 LivingInsider #1854055。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 4,990,000 บาท (LivingInsider #1854055)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1854055. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1854055。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1854055 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1854055",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1854055.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1854055",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1854055",
+      "source_url_hash": "8816dc0389869d629be0e3c490197150f50df26e0ed8284e6c4905f7269d0713",
+      "duplicate_fingerprint": "ea328b520291409c77d3686434e6b363054efbc004080929829273428a679067",
+      "soft_match_fingerprint": "7ad0e9e72f074385da770eb782c9976b5b9ff9044e1f65693d4fd7c4da16ea78",
+      "_computed_fingerprint": "0deb57feda576d81335607c9c2000cf7b51ab1543bc005b8d792cbe2dff264fd"
+    },
+    {
+      "external_ref": "livinginsider-1883341",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 12500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ  CX-125321",
+        "zh": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ  CX-125321",
+        "th": "ขายคอนโด  รึทึ่ม เอกมัย BTS-เอกมัย คลองตันเหนือ เขต วัฒนา กรุงเทพ  CX-125321"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 12,500,000 THB. Source LivingInsider #1883341.",
+        "zh": "出租：2卧，30㎡，12,500,000 泰铢。来源 LivingInsider #1883341。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 12,500,000 บาท (LivingInsider #1883341)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1883341. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1883341。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1883341 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1883341",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1883341.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1883341",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1883341",
+      "source_url_hash": "9cd6869f0b2d6db65ce3caf23350198c00c7f579a94eedcd438205d1496f0909",
+      "duplicate_fingerprint": "53b550916eaf95a0a92768a665b4e633d4d684d2d2322096e9eeb63e33217424",
+      "soft_match_fingerprint": "e98d953ffce169650e42cf317649619a1ae3a70b410c4237ce08df4005ba42c2",
+      "_computed_fingerprint": "920c7026c98b98ec401b754a8f7ca7484fc66f77ccbe8194f0b74735dc479d45"
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "project_slug": "whizdom-essence",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2531",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/19/2531/Condo/all/all/1/Condo-Whizdom-Essence.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-1502721",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33.84,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า Whizdom Essence Sukumvit 101 ห้องขนาด 33.84 ตร.ม ชั้น 11 TV 65&#039; พร้อมอยู่",
+        "zh": "ให้เช่า Whizdom Essence Sukumvit 101 ห้องขนาด 33.84 ตร.ม ชั้น 11 TV 65&#039; พร้อมอยู่",
+        "th": "ให้เช่า Whizdom Essence Sukumvit 101 ห้องขนาด 33.84 ตร.ม ชั้น 11 TV 65&#039; พร้อมอยู่"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 33.84 sq.m., 19,000 THB. Source LivingInsider #1502721.",
+        "zh": "出租：1卧，33.84㎡，19,000 泰铢。来源 LivingInsider #1502721。",
+        "th": "เช่า: 1 นอน 33.84 ตร.ม. ราคา 19,000 บาท (LivingInsider #1502721)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1502721. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1502721。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1502721 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1502721",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1502721.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1502721",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1502721",
+      "source_url_hash": "6545d161650939c304ba440c97058dbfdfc6234aaa350416b214128fb51a98d0",
+      "duplicate_fingerprint": "6ea174d822acf4512814c21732329b6cfa337b4957d1df74a640f239037c4067",
+      "soft_match_fingerprint": "2d3dfe3e98250a596f7d4509546f6b69edadd87cf203f63191afd9cbf879e711",
+      "_computed_fingerprint": "50fb49bb13918544deef2a6b1208bb0f458d7497751ff29ea448414507db2dfb"
+    },
+    {
+      "external_ref": "livinginsider-3148063",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 49000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 78.21,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า Whizdom Essence Sukhumvit 101, 2 ห้องนอน 2 ห้องน้ำ 78.21* ตรม. เฟอร์ครบ ใกล้ BTS ปุณณวิถี ราคาลดพิเศษจาก 75,000 คงเหลือเพียง 49,000 บาท สัญญา 1 ปีเท่านั้น",
+        "zh": "ให้เช่า Whizdom Essence Sukhumvit 101, 2 ห้องนอน 2 ห้องน้ำ 78.21* ตรม. เฟอร์ครบ ใกล้ BTS ปุณณวิถี ราคาลดพิเศษจาก 75,000 คงเหลือเพียง 49,000 บาท สัญญา 1 ปีเท่านั้น",
+        "th": "ให้เช่า Whizdom Essence Sukhumvit 101, 2 ห้องนอน 2 ห้องน้ำ 78.21* ตรม. เฟอร์ครบ ใกล้ BTS ปุณณวิถี ราคาลดพิเศษจาก 75,000 คงเหลือเพียง 49,000 บาท สัญญา 1 ปีเท่านั้น"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 78.21 sq.m., 49,000 THB. Source LivingInsider #3148063.",
+        "zh": "出租：2卧，78.21㎡，49,000 泰铢。来源 LivingInsider #3148063。",
+        "th": "เช่า: 2 นอน 78.21 ตร.ม. ราคา 49,000 บาท (LivingInsider #3148063)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3148063. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3148063。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3148063 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3148063",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3148063.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3148063",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3148063",
+      "source_url_hash": "0fa8914077e25644fa1216ccafd1f77fb38b0924fd82fb8d24c1c5a25ed1d043",
+      "duplicate_fingerprint": "64336d448e26f78c7500050cd1f54f0178dbd1df5f4da92d1725b26e964c43dd",
+      "soft_match_fingerprint": "10cedd312a6185514c0e2a9866f54a3a0bf678c16c07346a046b699c72451dca",
+      "_computed_fingerprint": "5fa2f7f8b556a2ea7a231893168e18da45edf1c497817b43b7ee5cdca2800387"
+    },
+    {
+      "external_ref": "livinginsider-2706866",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5100000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  วิสดอม เอสเซ้นส์ BTS-ปุณณวิถี พระโขนง เขต คลองเตย กรุงเทพ CX-111188",
+        "zh": "ขายคอนโด  วิสดอม เอสเซ้นส์ BTS-ปุณณวิถี พระโขนง เขต คลองเตย กรุงเทพ CX-111188",
+        "th": "ขายคอนโด  วิสดอม เอสเซ้นส์ BTS-ปุณณวิถี พระโขนง เขต คลองเตย กรุงเทพ CX-111188"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,100,000 THB. Source LivingInsider #2706866.",
+        "zh": "出租：1卧，30㎡，5,100,000 泰铢。来源 LivingInsider #2706866。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,100,000 บาท (LivingInsider #2706866)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2706866. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2706866。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2706866 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2706866",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2706866.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2706866",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2706866",
+      "source_url_hash": "f6f5d008d475af9ee0ea7b8e052565558dd7f61d26b02385d0ec742020802493",
+      "duplicate_fingerprint": "46313e245fa64802a53aa26e005a517e74433edbca6a1a647093e53ed1c59e64",
+      "soft_match_fingerprint": "2b9cc5c79b95d32828ff18eba306c0d06cd1b4cf973ebaf474965a02a4afad96",
+      "_computed_fingerprint": "812b27011745c4542d6061687170f1626f4d4f201e1573b61988b0594bdaa9dc"
+    },
+    {
+      "external_ref": "livinginsider-1630926",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  วิสดอม เอสเซ้นส์ BTS-ปุณณวิถี พระโขนง เขต คลองเตย กรุงเทพ CX-76819",
+        "zh": "ขายคอนโด  วิสดอม เอสเซ้นส์ BTS-ปุณณวิถี พระโขนง เขต คลองเตย กรุงเทพ CX-76819",
+        "th": "ขายคอนโด  วิสดอม เอสเซ้นส์ BTS-ปุณณวิถี พระโขนง เขต คลองเตย กรุงเทพ CX-76819"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,300,000 THB. Source LivingInsider #1630926.",
+        "zh": "出租：1卧，30㎡，5,300,000 泰铢。来源 LivingInsider #1630926。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,300,000 บาท (LivingInsider #1630926)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1630926. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1630926。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1630926 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1630926",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1630926.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1630926",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1630926",
+      "source_url_hash": "d89e7d9665fb1a513cbe82bbeabadbcf7c8179a09559f019fe5a44fbc8fcecd8",
+      "duplicate_fingerprint": "25bbe318e497a3955760bf79d65866fee4aaa414736360d9ecd6cd3960a70d63",
+      "soft_match_fingerprint": "ddbb3a5b5706cba9520b606ebc821e531e3c7e7b49ee94dce7536d6e14cc9148",
+      "_computed_fingerprint": "5c57cac4b0fd353a32b32bb92a027d1e7df3d271211d6da51ceba263029305b9"
+    },
+    {
+      "external_ref": "livinginsider-2642690",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ondo for RENT *Whizdom Essence ห้องพร้อมอยู่ WFHสะดวกสบาย ตกแต่งสวย ราคาพิเศษ@22,000 Baht",
+        "zh": "ondo for RENT *Whizdom Essence ห้องพร้อมอยู่ WFHสะดวกสบาย ตกแต่งสวย ราคาพิเศษ@22,000 Baht",
+        "th": "ondo for RENT *Whizdom Essence ห้องพร้อมอยู่ WFHสะดวกสบาย ตกแต่งสวย ราคาพิเศษ@22,000 Baht"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 22,000 THB. Source LivingInsider #2642690.",
+        "zh": "出租：1卧，30㎡，22,000 泰铢。来源 LivingInsider #2642690。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 22,000 บาท (LivingInsider #2642690)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2642690. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2642690。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2642690 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2642690",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2642690.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2642690",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2642690",
+      "source_url_hash": "fe28e9e06369d3b124cce22b21f241fc438af71b0bce3f82f80b4a5c1729ee0b",
+      "duplicate_fingerprint": "bbe14d58930ec02fa6a3ca63a1a6ccbf08a8cac2c4afc13cf7a86c11115a06de",
+      "soft_match_fingerprint": "6eb70ae7497c38cd8b45e8a6d1da09c3ca5a7801b3cfc83e2606bd7d7618d0ca",
+      "_computed_fingerprint": "39644f0729ba887195c205c70f781e29e0af358bd144b56b634cb3e0f8a5b242"
+    },
+    {
+      "external_ref": "livinginsider-2987560",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "🔥Rent at Whizdom Essence Sukhumvit101 🔥1BR 1BR 🔥23,000🔥35sqm 🔥Floor12",
+        "zh": "🔥Rent at Whizdom Essence Sukhumvit101 🔥1BR 1BR 🔥23,000🔥35sqm 🔥Floor12",
+        "th": "🔥Rent at Whizdom Essence Sukhumvit101 🔥1BR 1BR 🔥23,000🔥35sqm 🔥Floor12"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 23,000 THB. Source LivingInsider #2987560.",
+        "zh": "出租：1卧，35㎡，23,000 泰铢。来源 LivingInsider #2987560。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 23,000 บาท (LivingInsider #2987560)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2987560. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2987560。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2987560 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2987560",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2987560.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2987560",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2987560",
+      "source_url_hash": "8fa26481b34fa09bb35413afe66c968a8704f095fbcb1a8b8f5adabe05542caf",
+      "duplicate_fingerprint": "9fabc9ded2f4b6094932f8da2614b56075ff2dac52cb86c25fb93091a088996b",
+      "soft_match_fingerprint": "39608d2854f5ab05aec1576f394e4b6b81d8c9de714f16b262ca469f95567da4",
+      "_computed_fingerprint": "132cb90e7007ba9ef6312b505663ae2dd3cb71d867841dd404660a5147eb6b3f"
+    },
+    {
+      "external_ref": "livinginsider-3069784",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8200000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "LTH15840OP-  Condo for Sale Punnawithi | Best Value Prime Location | Near BTS Punnawithi | 8.2 MB | คอนโดขาย ปุณณวิถี ทำเลดี คุ้มค่า ใกล้ BTS ปุณณวิถี",
+        "zh": "LTH15840OP-  Condo for Sale Punnawithi | Best Value Prime Location | Near BTS Punnawithi | 8.2 MB | คอนโดขาย ปุณณวิถี ทำเลดี คุ้มค่า ใกล้ BTS ปุณณวิถี",
+        "th": "LTH15840OP-  Condo for Sale Punnawithi | Best Value Prime Location | Near BTS Punnawithi | 8.2 MB | คอนโดขาย ปุณณวิถี ทำเลดี คุ้มค่า ใกล้ BTS ปุณณวิถี"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 8,200,000 THB. Source LivingInsider #3069784.",
+        "zh": "出租：2卧，30㎡，8,200,000 泰铢。来源 LivingInsider #3069784。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 8,200,000 บาท (LivingInsider #3069784)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3069784. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3069784。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3069784 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3069784",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3069784.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3069784",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3069784",
+      "source_url_hash": "7d517c88a9a7aef271ebb4bfa2dd2793e15d6264ef776396f759c71629405777",
+      "duplicate_fingerprint": "fedd96e2fb7b2fa3d9c845ba3d526fced598a321f612ae83a7eaae50df6fb12d",
+      "soft_match_fingerprint": "f32b29c4fe38024885dbebf12608b51d8da787287665c8029790c6e897eec5e3",
+      "_computed_fingerprint": "977c674dbe2704ead50ebccb9f31dc0a9d0e5e99f2b213688b525ffca24e5cbd"
+    },
+    {
+      "external_ref": "livinginsider-2877591",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "40",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด 🏙️ Whizdom Essence สุขุมวิท 101 @ True Digital Park ยูนิตชั้น 40 ✨ราคาพิเศษเฉพาะยูนิตนี้💥",
+        "zh": "ขายคอนโด 🏙️ Whizdom Essence สุขุมวิท 101 @ True Digital Park ยูนิตชั้น 40 ✨ราคาพิเศษเฉพาะยูนิตนี้💥",
+        "th": "ขายคอนโด 🏙️ Whizdom Essence สุขุมวิท 101 @ True Digital Park ยูนิตชั้น 40 ✨ราคาพิเศษเฉพาะยูนิตนี้💥"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 5,590,000 THB. Source LivingInsider #2877591.",
+        "zh": "出租：1卧，30㎡，5,590,000 泰铢。来源 LivingInsider #2877591。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 5,590,000 บาท (LivingInsider #2877591)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2877591. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2877591。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2877591 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2877591",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2877591.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2877591",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2877591",
+      "source_url_hash": "9eb0a255793d312129d4ae844a90821874aed6255da6ce3313f359c62e22aaa4",
+      "duplicate_fingerprint": "0dc46b1a2766bb942de4fd6a2f5fee41d8b7f1e45ebe54e80f9a24891720b7fc",
+      "soft_match_fingerprint": "f8f25036c46fc71fb039601c8b915d34a6aab3b664d88edf293b9285590db8f2",
+      "_computed_fingerprint": "1b4eea6b97645188a68b0afb57d19f1b7662ae22029933cd0d04367bf12c1981"
+    },
+    {
+      "external_ref": "livinginsider-1993938",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5250000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34.48,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "Whizdom Essence Sukhumvit 101 for sale with tenantNear Punnawithi BTS1 bedroom",
+        "zh": "Whizdom Essence Sukhumvit 101 for sale with tenantNear Punnawithi BTS1 bedroom",
+        "th": "Whizdom Essence Sukhumvit 101 for sale with tenantNear Punnawithi BTS1 bedroom"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34.48 sq.m., 5,250,000 THB. Source LivingInsider #1993938.",
+        "zh": "出租：1卧，34.48㎡，5,250,000 泰铢。来源 LivingInsider #1993938。",
+        "th": "เช่า: 1 นอน 34.48 ตร.ม. ราคา 5,250,000 บาท (LivingInsider #1993938)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1993938. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1993938。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1993938 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1993938",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1993938.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1993938",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1993938",
+      "source_url_hash": "8331da8eec7d4af228395151aa544a77f64843806d36f0141f3da7a79a6b84b2",
+      "duplicate_fingerprint": "7733c44cf96de4adc7881730a78b85be327b8a8f18a468ccd46e0b99248fb40b",
+      "soft_match_fingerprint": "82cabc864fdf7dc4f1b6797515f6c9b261b8586dde35abab757ee0ea9c7f0975",
+      "_computed_fingerprint": "15f4669b2deb4de9480ebb5eb01c8936fc490c0f09ff7e21f820c4057f2aeb2a"
+    },
+    {
+      "external_ref": "livinginsider-2880039",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5850000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "40",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด Whizdom Essence สุขุมวิท 101 @True Digital Park ขนาด 34 ตร.ม.",
+        "zh": "ขายคอนโด Whizdom Essence สุขุมวิท 101 @True Digital Park ขนาด 34 ตร.ม.",
+        "th": "ขายคอนโด Whizdom Essence สุขุมวิท 101 @True Digital Park ขนาด 34 ตร.ม."
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 5,850,000 THB. Source LivingInsider #2880039.",
+        "zh": "出租：1卧，34㎡，5,850,000 泰铢。来源 LivingInsider #2880039。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 5,850,000 บาท (LivingInsider #2880039)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2880039. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2880039。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2880039 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2880039",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2880039.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2880039",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2880039",
+      "source_url_hash": "300fbbd7c5584ab2931745743e6b32c12f323cce0e56b5fcb6c49abb654da071",
+      "duplicate_fingerprint": "12fe2f907f3fec0f2dbedc6b2d99dde57f1790bd5c2ac44fb64aaa1fb09bd97b",
+      "soft_match_fingerprint": "ffc8337f26a399a12c1d1bb19cefade5c155d724da22e7996098ff2b1b6d5f29",
+      "_computed_fingerprint": "331d5974b9789a4735b2ab2e7f2642d902a8ae582fc45f49e85ae3dd680d65a3"
+    }
+  ]
+}

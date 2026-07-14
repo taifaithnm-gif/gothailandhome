@@ -1,0 +1,442 @@
+{
+  "project_slug": "maestro-03-ratchada-rama-9",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "3093",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/14/3093/Condo/all/all/1/Condo-Maestro-03-Ratchada-Rama-9.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-2916512",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "💰 ขายพร้อมผู้เช่า ซื้อปุ๊บรับค่าเช่าทันที! Yield 5.3%* 🔥 โอกาสทองของนักลงทุนมาแล้ว! คอนโดทำเล CBD รัชดา-พระราม 9 ",
+        "zh": "💰 ขายพร้อมผู้เช่า ซื้อปุ๊บรับค่าเช่าทันที! Yield 5.3%* 🔥 โอกาสทองของนักลงทุนมาแล้ว! คอนโดทำเล CBD รัชดา-พระราม 9 ",
+        "th": "💰 ขายพร้อมผู้เช่า ซื้อปุ๊บรับค่าเช่าทันที! Yield 5.3%* 🔥 โอกาสทองของนักลงทุนมาแล้ว! คอนโดทำเล CBD รัชดา-พระราม 9 "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,590,000 THB. Source LivingInsider #2916512.",
+        "zh": "出租：1卧，30㎡，3,590,000 泰铢。来源 LivingInsider #2916512。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,590,000 บาท (LivingInsider #2916512)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2916512. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2916512。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2916512 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2916512",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2916512.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2916512",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2916512",
+      "source_url_hash": "9f246c476eb24d960054350f2c39c7ff87af18ab8eeb963bc1a38adc1a0fce2e",
+      "duplicate_fingerprint": "aa29ff651e640fc3664f4f6b3819c71602e700a9ba8574dd356a3bff8b901bab",
+      "soft_match_fingerprint": "6e78f4ee98bf041adc15ac19075760159e2cf3d52734e548ed0afdeb63b105c9",
+      "_computed_fingerprint": "5901989e60aa951620274a6fa1b5638c0e3fc170c5925d7d9777b848e50df328"
+    },
+    {
+      "external_ref": "livinginsider-2423956",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "(รหัสทรัพย์HUB-474)🦮Maestro 03 - Pet Friendly (รัชดา-พระราม 9)",
+        "zh": "(รหัสทรัพย์HUB-474)🦮Maestro 03 - Pet Friendly (รัชดา-พระราม 9)",
+        "th": "(รหัสทรัพย์HUB-474)🦮Maestro 03 - Pet Friendly (รัชดา-พระราม 9)"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,600,000 THB. Source LivingInsider #2423956.",
+        "zh": "出租：1卧，30㎡，3,600,000 泰铢。来源 LivingInsider #2423956。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,600,000 บาท (LivingInsider #2423956)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2423956. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2423956。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2423956 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2423956",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2423956.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2423956",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2423956",
+      "source_url_hash": "6c6171d89dabeb9981eb36839e6ee729929b0d2b02b1e97a522d13890f30dde2",
+      "duplicate_fingerprint": "0c6e0238da6274ebdd0864bc5975f60da4a339369657f00a28d348566fc1c9cc",
+      "soft_match_fingerprint": "df8f970b57d5df5589ce0a9c2d806bdb267805c5233b40c1bde5e6799fdc9e32",
+      "_computed_fingerprint": "12427119618d0206f0169c9083e36ced03408ebef7cbfc79bab387465ad5159e"
+    },
+    {
+      "external_ref": "livinginsider-3085460",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29.01,
+      "floor_label": "4",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขาย/SALE : Maestro 03 Ratchada - Rama 9 (มาเอสโตร 03 รัชดา-พระราม 9) - 1 ห้องนอน LC198",
+        "zh": "ขาย/SALE : Maestro 03 Ratchada - Rama 9 (มาเอสโตร 03 รัชดา-พระราม 9) - 1 ห้องนอน LC198",
+        "th": "ขาย/SALE : Maestro 03 Ratchada - Rama 9 (มาเอสโตร 03 รัชดา-พระราม 9) - 1 ห้องนอน LC198"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 29.01 sq.m., 3,590,000 THB. Source LivingInsider #3085460.",
+        "zh": "出租：1卧，29.01㎡，3,590,000 泰铢。来源 LivingInsider #3085460。",
+        "th": "เช่า: 1 นอน 29.01 ตร.ม. ราคา 3,590,000 บาท (LivingInsider #3085460)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3085460. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3085460。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3085460 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3085460",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3085460.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3085460",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3085460",
+      "source_url_hash": "3073b9a871611af278089cb2e108a776cd3990bc3fddf8e501197409ffc57605",
+      "duplicate_fingerprint": "ecccaa50b6abc9d9e57fdf88fd6dbc7bfbdac20f4a5d11146c003352e8e5e914",
+      "soft_match_fingerprint": "941299e3624de5f54f72a5182d8aa93afc19a7cb81c81ecda9ad067b7dc6101f",
+      "_computed_fingerprint": "1ced930be562e3cca5afe1678092bfa4fa945329155d5d0265390c07b4113bd2"
+    },
+    {
+      "external_ref": "livinginsider-3084854",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": "4",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "💰 รับค่าเช่าทันที! ขายพร้อมผู้เช่า/Sale With Tenant : Maestro 03 Ratchada - Rama 9 (มาเอสโตร 03 รัชดา-พระราม 9)  - 1 ห้องนอน LC191",
+        "zh": "💰 รับค่าเช่าทันที! ขายพร้อมผู้เช่า/Sale With Tenant : Maestro 03 Ratchada - Rama 9 (มาเอสโตร 03 รัชดา-พระราม 9)  - 1 ห้องนอน LC191",
+        "th": "💰 รับค่าเช่าทันที! ขายพร้อมผู้เช่า/Sale With Tenant : Maestro 03 Ratchada - Rama 9 (มาเอสโตร 03 รัชดา-พระราม 9)  - 1 ห้องนอน LC191"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 29 sq.m., 3,300,000 THB. Source LivingInsider #3084854.",
+        "zh": "出租：1卧，29㎡，3,300,000 泰铢。来源 LivingInsider #3084854。",
+        "th": "เช่า: 1 นอน 29 ตร.ม. ราคา 3,300,000 บาท (LivingInsider #3084854)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3084854. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3084854。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3084854 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3084854",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3084854.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3084854",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3084854",
+      "source_url_hash": "9e25237e9c1eb4fb50424659548dbb53bfa208d16c6dcc4b1687beaafa260d80",
+      "duplicate_fingerprint": "08a529a0fc0214285cce6692a5b8bfd0c02b326fc41b660c5aee458fcd5a77aa",
+      "soft_match_fingerprint": "941299e3624de5f54f72a5182d8aa93afc19a7cb81c81ecda9ad067b7dc6101f",
+      "_computed_fingerprint": "c7202b19b41df49f4e9e45d87e1d45841e7b550b3604bdf24c6356eb6e02d928"
+    },
+    {
+      "external_ref": "livinginsider-3141895",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3390000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "Maestro 03 Ratchada Soi 3",
+        "zh": "Maestro 03 Ratchada Soi 3",
+        "th": "Maestro 03 Ratchada Soi 3"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,390,000 THB. Source LivingInsider #3141895.",
+        "zh": "出租：1卧，30㎡，3,390,000 泰铢。来源 LivingInsider #3141895。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,390,000 บาท (LivingInsider #3141895)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3141895. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3141895。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3141895 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3141895",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3141895.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3141895",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3141895",
+      "source_url_hash": "40c11842c37aab0b14bcf6fcb26edcf78d75a652db96ac77431f1b00d149cd72",
+      "duplicate_fingerprint": "183e8135bc077809b869c78644cd446b965d2b4eba98aebbc7d6b18afe1502f5",
+      "soft_match_fingerprint": "6e78f4ee98bf041adc15ac19075760159e2cf3d52734e548ed0afdeb63b105c9",
+      "_computed_fingerprint": "4043b2bdb951959dab5088f2605ee869bf000327edce991385c9f8e0b2b602f7"
+    },
+    {
+      "external_ref": "livinginsider-3147261",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3390000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายด่วน ✨ Maestro 03 Ratchada - Rama 9 ✨ เฟอร์นิเจอร์ และ เครื่องใช้ไฟฟ้าครบ ใกล้ MRT ศูนย์วัฒนธรรม",
+        "zh": "ขายด่วน ✨ Maestro 03 Ratchada - Rama 9 ✨ เฟอร์นิเจอร์ และ เครื่องใช้ไฟฟ้าครบ ใกล้ MRT ศูนย์วัฒนธรรม",
+        "th": "ขายด่วน ✨ Maestro 03 Ratchada - Rama 9 ✨ เฟอร์นิเจอร์ และ เครื่องใช้ไฟฟ้าครบ ใกล้ MRT ศูนย์วัฒนธรรม"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,390,000 THB. Source LivingInsider #3147261.",
+        "zh": "出租：1卧，30㎡，3,390,000 泰铢。来源 LivingInsider #3147261。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,390,000 บาท (LivingInsider #3147261)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3147261. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3147261。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3147261 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3147261",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3147261.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3147261",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3147261",
+      "source_url_hash": "18c9d5120e201617c09bcf18c5f45227ffd963d55935d82b8a362d335e3546ba",
+      "duplicate_fingerprint": "5962ba6de6c8fb69c5ec1802cdf02695f75a23f8e973104f97aaccdca35090c4",
+      "soft_match_fingerprint": "8eb79d22c62c7030082ea66f88d9a220b50fe557fd9aadf663a14fcdaac56d48",
+      "_computed_fingerprint": "25850acfcbdd5d8d748a25ebbdd9bb128efe45cd4fe8d1de6c319c51ec6c3231"
+    },
+    {
+      "external_ref": "livinginsider-3146325",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8600000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 57.2,
+      "floor_label": "2",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": " 🔥 ขาย 🔥 มาเอสโตร 03 รัชดา - พระราม 9 - Maestro 03 Ratchada - Rama 9 / 2 ห้องนอน ZC295 ",
+        "zh": " 🔥 ขาย 🔥 มาเอสโตร 03 รัชดา - พระราม 9 - Maestro 03 Ratchada - Rama 9 / 2 ห้องนอน ZC295 ",
+        "th": " 🔥 ขาย 🔥 มาเอสโตร 03 รัชดา - พระราม 9 - Maestro 03 Ratchada - Rama 9 / 2 ห้องนอน ZC295 "
+      },
+      "summary": {
+        "en": "Rent: 2BR, 57.2 sq.m., 8,600,000 THB. Source LivingInsider #3146325.",
+        "zh": "出租：2卧，57.2㎡，8,600,000 泰铢。来源 LivingInsider #3146325。",
+        "th": "เช่า: 2 นอน 57.2 ตร.ม. ราคา 8,600,000 บาท (LivingInsider #3146325)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3146325. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3146325。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3146325 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3146325",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3146325.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3146325",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3146325",
+      "source_url_hash": "7388439402c2a57b1b7a23fef3bc2c2077f698a04563895a3dff29b448a61c59",
+      "duplicate_fingerprint": "e2096ea7c06ec544c221294e9ceda75371f620b549bf0ae3f0b46e160cb4c9ff",
+      "soft_match_fingerprint": "86b104fb9d6cceb2c3c237aeed340dac660bfb266bb87a4441fe79347ee9fc4c",
+      "_computed_fingerprint": "e644ce208fec1103af2311fe70d327a3d4dcedeacf494b0abeffda20bdc8909e"
+    },
+    {
+      "external_ref": "livinginsider-3146168",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3390000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "มาเอสโตร 03 รัชดา - พระราม 9 - Maestro 03 Ratchada - Rama 9",
+        "zh": "มาเอสโตร 03 รัชดา - พระราม 9 - Maestro 03 Ratchada - Rama 9",
+        "th": "มาเอสโตร 03 รัชดา - พระราม 9 - Maestro 03 Ratchada - Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,390,000 THB. Source LivingInsider #3146168.",
+        "zh": "出租：1卧，30㎡，3,390,000 泰铢。来源 LivingInsider #3146168。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,390,000 บาท (LivingInsider #3146168)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3146168. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3146168。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3146168 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3146168",
+      "source_updated_at": "2026-08-12",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3146168.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3146168",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3146168",
+      "source_url_hash": "f835f2192ef045121a4a5bb55043af2d5ac83bc708d9cc8b870445fd88489b7e",
+      "duplicate_fingerprint": "5a64b451c856b451daf7de99eb56f6668c25ffc37552b4559c6a957acd47ea2c",
+      "soft_match_fingerprint": "8eb79d22c62c7030082ea66f88d9a220b50fe557fd9aadf663a14fcdaac56d48",
+      "_computed_fingerprint": "5e8b0056f2b01124edb1d812f13c235a00067f07e4e9a04cfa4617a650009b6f"
+    }
+  ]
+}

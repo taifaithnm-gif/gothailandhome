@@ -1,0 +1,550 @@
+{
+  "project_slug": "supalai-veranda-rama-9",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "2568",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/14/2568/Condo/all/all/1/Condo-Supalai-Veranda-Rama-9.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3034706",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4600000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 57.5,
+      "floor_label": "26",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "🌟 2 นอน 57 ตร.ม. พร้อมอยู่ ราคาดีที่สุด 🔥 ขาย/SALE : Supalai Veranda Rama 9 (ศุภาลัย เวอเรนด้า พระราม 9) - 2 ห้องนอน LC158",
+        "zh": "🌟 2 นอน 57 ตร.ม. พร้อมอยู่ ราคาดีที่สุด 🔥 ขาย/SALE : Supalai Veranda Rama 9 (ศุภาลัย เวอเรนด้า พระราม 9) - 2 ห้องนอน LC158",
+        "th": "🌟 2 นอน 57 ตร.ม. พร้อมอยู่ ราคาดีที่สุด 🔥 ขาย/SALE : Supalai Veranda Rama 9 (ศุภาลัย เวอเรนด้า พระราม 9) - 2 ห้องนอน LC158"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 57.5 sq.m., 4,600,000 THB. Source LivingInsider #3034706.",
+        "zh": "出租：2卧，57.5㎡，4,600,000 泰铢。来源 LivingInsider #3034706。",
+        "th": "เช่า: 2 นอน 57.5 ตร.ม. ราคา 4,600,000 บาท (LivingInsider #3034706)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3034706. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3034706。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3034706 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3034706",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3034706.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3034706",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3034706",
+      "source_url_hash": "2dc3b8e4fc372e8484f28d7e5c457ed2577632fe84bf6cba682d55390bbc77ae",
+      "duplicate_fingerprint": "d3e633028ca44392e9bb73dbfc9d99db5ac90f06f19649fa2e6f88306a1928ed",
+      "soft_match_fingerprint": "251becf57718a2e7e8a096a3281fa4161d47972d275c6d4f48910093067bb4a9",
+      "_computed_fingerprint": "67ce8ed3a3f580c60637754d95478c9c3acafdfe058865172e637c3f227469d5"
+    },
+    {
+      "external_ref": "livinginsider-3118294",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 27000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 62.5,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "Condo for Rent – Supalai Veranda Rama 9 | 2 Bed 2 Bath | 62.5 sqm | 12th Floor | Building B | Rama 9 | 27,000 THB/month | LINE: @500vvzzy | Ref: TR0058",
+        "zh": "Condo for Rent – Supalai Veranda Rama 9 | 2 Bed 2 Bath | 62.5 sqm | 12th Floor | Building B | Rama 9 | 27,000 THB/month | LINE: @500vvzzy | Ref: TR0058",
+        "th": "Condo for Rent – Supalai Veranda Rama 9 | 2 Bed 2 Bath | 62.5 sqm | 12th Floor | Building B | Rama 9 | 27,000 THB/month | LINE: @500vvzzy | Ref: TR0058"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 62.5 sq.m., 27,000 THB. Source LivingInsider #3118294.",
+        "zh": "出租：2卧，62.5㎡，27,000 泰铢。来源 LivingInsider #3118294。",
+        "th": "เช่า: 2 นอน 62.5 ตร.ม. ราคา 27,000 บาท (LivingInsider #3118294)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3118294. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3118294。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3118294 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3118294",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3118294.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3118294",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3118294",
+      "source_url_hash": "c6525f6641e57905100223aa086b7556643ebe8d0053d95ab05ac8f1dc869267",
+      "duplicate_fingerprint": "c09a6b959b7d72c64ed3bbe3eee9f12fdfaad09357cf6b3c218b49aadf319c5c",
+      "soft_match_fingerprint": "bd4540082c57bd5df192dfc304f7e1ee6e7f0c9131426661bb34f01ab1e0988c",
+      "_computed_fingerprint": "6650219d88ca42c528b9e753a00fe8940847ca3e850659ac4b85757a89ba5621"
+    },
+    {
+      "external_ref": "livinginsider-3118099",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 95000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqm": 120,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "Condo for Rent – Supalai Veranda Rama 9 (ศุภาลัย เวอเรนด้า พระราม 9) | 3 Bed 3 Bath | 120 sqm | 2 Parking Spaces | Rama 9 | 95,000 THB/month | LINE: @500vvzzy | Ref: TR0053",
+        "zh": "Condo for Rent – Supalai Veranda Rama 9 (ศุภาลัย เวอเรนด้า พระราม 9) | 3 Bed 3 Bath | 120 sqm | 2 Parking Spaces | Rama 9 | 95,000 THB/month | LINE: @500vvzzy | Ref: TR0053",
+        "th": "Condo for Rent – Supalai Veranda Rama 9 (ศุภาลัย เวอเรนด้า พระราม 9) | 3 Bed 3 Bath | 120 sqm | 2 Parking Spaces | Rama 9 | 95,000 THB/month | LINE: @500vvzzy | Ref: TR0053"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 120 sq.m., 95,000 THB. Source LivingInsider #3118099.",
+        "zh": "出租：3卧，120㎡，95,000 泰铢。来源 LivingInsider #3118099。",
+        "th": "เช่า: 3 นอน 120 ตร.ม. ราคา 95,000 บาท (LivingInsider #3118099)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3118099. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3118099。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3118099 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3118099",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3118099.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3118099",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3118099",
+      "source_url_hash": "b427a53d3111ca4378915f9c2ae8d88378aa743843190087fbb1767508a32698",
+      "duplicate_fingerprint": "42919162ba6485d45df1e0d13efd5dbb5185a30b73ab9d2519538ac7bb324984",
+      "soft_match_fingerprint": "e1b3bb1574455167ff16fc65f6f6f3a04c7774085f564f2970a6c2dff9300f8a",
+      "_computed_fingerprint": "f5ccea0751e4560b8a636046b1f015140e520c927e1f84ed032c466f33643f5f"
+    },
+    {
+      "external_ref": "livinginsider-3033007",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 33000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 65.5,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "[Owner Post] ให้เช่า Supalai Veranda Rama 9 | ห้องมุม รีโนเวทใหม่ ไม่เคยปล่อยเช่า | 2 นอน 2 นํ้า 65.5 ตร.ม. วิวเมืองเต็มตา ชั้น 16 พร้อมที่จอดรถส่วนตัวแบบ Fixed (ระบุในโฉนด)",
+        "zh": "[Owner Post] ให้เช่า Supalai Veranda Rama 9 | ห้องมุม รีโนเวทใหม่ ไม่เคยปล่อยเช่า | 2 นอน 2 นํ้า 65.5 ตร.ม. วิวเมืองเต็มตา ชั้น 16 พร้อมที่จอดรถส่วนตัวแบบ Fixed (ระบุในโฉนด)",
+        "th": "[Owner Post] ให้เช่า Supalai Veranda Rama 9 | ห้องมุม รีโนเวทใหม่ ไม่เคยปล่อยเช่า | 2 นอน 2 นํ้า 65.5 ตร.ม. วิวเมืองเต็มตา ชั้น 16 พร้อมที่จอดรถส่วนตัวแบบ Fixed (ระบุในโฉนด)"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 65.5 sq.m., 33,000 THB. Source LivingInsider #3033007.",
+        "zh": "出租：2卧，65.5㎡，33,000 泰铢。来源 LivingInsider #3033007。",
+        "th": "เช่า: 2 นอน 65.5 ตร.ม. ราคา 33,000 บาท (LivingInsider #3033007)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3033007. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3033007。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3033007 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3033007",
+      "source_updated_at": "2026-10-05",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3033007.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3033007",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3033007",
+      "source_url_hash": "1908d0241d0363cb1943bc267c19306499468b04a4b86440f0baf3ae2f43de9a",
+      "duplicate_fingerprint": "75e97669f46b5f68866c13f3a68c2f0b07bd5e2d1c99dd400857028361595b0d",
+      "soft_match_fingerprint": "c3a983780ad0c0d6772e346d48df1c96fd77925c529acbee782ed23c7a32ca6d",
+      "_computed_fingerprint": "d196ca85a70de6b838baeae351b0c513f661df781ac9f0d9d90cc9b16586cedb"
+    },
+    {
+      "external_ref": "livinginsider-2735264",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 15500000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqm": 30,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด ศุภาลัย เวอเรนด้า พระราม 9 MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-144455",
+        "zh": "ขายคอนโด ศุภาลัย เวอเรนด้า พระราม 9 MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-144455",
+        "th": "ขายคอนโด ศุภาลัย เวอเรนด้า พระราม 9 MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-144455"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 30 sq.m., 15,500,000 THB. Source LivingInsider #2735264.",
+        "zh": "出租：3卧，30㎡，15,500,000 泰铢。来源 LivingInsider #2735264。",
+        "th": "เช่า: 3 นอน 30 ตร.ม. ราคา 15,500,000 บาท (LivingInsider #2735264)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2735264. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2735264。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2735264 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2735264",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2735264.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2735264",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2735264",
+      "source_url_hash": "6bbbe04e97afbcaff54bc8bc105d3542108233f985c4a3e1e300fcd2e7d87fdd",
+      "duplicate_fingerprint": "69e0a37991365a8b655bc814ec35b2bb0236316011ba9eeaa0e9770734a0afd5",
+      "soft_match_fingerprint": "04b6a59d453de3f922120255727e8b8d5b3c6ad044c676bdd5204c4aa6fec4a3",
+      "_computed_fingerprint": "30de629f7b3dc0ea5bec321345f1d939f4413f8bec47655636efa372474c1f28"
+    },
+    {
+      "external_ref": "livinginsider-3142406",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 41.4,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "🌟คอนโดศุภาลัยเวอเรนด้าพระราม9ชั้น16ตึกA ขนาด41.4ตรม.  1ห้องนอนห้องใหม่ไม่เคยปล่อยเช่า 🌟",
+        "zh": "🌟คอนโดศุภาลัยเวอเรนด้าพระราม9ชั้น16ตึกA ขนาด41.4ตรม.  1ห้องนอนห้องใหม่ไม่เคยปล่อยเช่า 🌟",
+        "th": "🌟คอนโดศุภาลัยเวอเรนด้าพระราม9ชั้น16ตึกA ขนาด41.4ตรม.  1ห้องนอนห้องใหม่ไม่เคยปล่อยเช่า 🌟"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 41.4 sq.m., 16,000 THB. Source LivingInsider #3142406.",
+        "zh": "出租：1卧，41.4㎡，16,000 泰铢。来源 LivingInsider #3142406。",
+        "th": "เช่า: 1 นอน 41.4 ตร.ม. ราคา 16,000 บาท (LivingInsider #3142406)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3142406. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3142406。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3142406 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3142406",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3142406.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3142406",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3142406",
+      "source_url_hash": "98bc4cd7b03a9063e3823c1cbb1a5b034137f8b6b9e47d6f786a17e9acc1d363",
+      "duplicate_fingerprint": "a4feec3e5ecd0f95711c2e000a2f06f764fdba5e02ee3eb2aecf5a85c79a2dc3",
+      "soft_match_fingerprint": "74ccb980e3b269181750d3c1cc538f34306fee13d2bd0801b0f91bb432a3baab",
+      "_computed_fingerprint": "9b7acb6cfd680314b0330996c21a1d5c0ae0f047559d17ec5e7adc6c608c4d87"
+    },
+    {
+      "external_ref": "livinginsider-2887482",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5700000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ศุภาลัย เวอเรนด้า พระราม 9 วิวสวย ชั้นสูง MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ   CX-114154",
+        "zh": "ขายคอนโด  ศุภาลัย เวอเรนด้า พระราม 9 วิวสวย ชั้นสูง MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ   CX-114154",
+        "th": "ขายคอนโด  ศุภาลัย เวอเรนด้า พระราม 9 วิวสวย ชั้นสูง MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ   CX-114154"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 5,700,000 THB. Source LivingInsider #2887482.",
+        "zh": "出租：2卧，30㎡，5,700,000 泰铢。来源 LivingInsider #2887482。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 5,700,000 บาท (LivingInsider #2887482)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2887482. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2887482。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2887482 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2887482",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2887482.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2887482",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2887482",
+      "source_url_hash": "cfaae993de2df699c8d7ce10cf7d024fbad304d7afee2a9449b486f2144816d5",
+      "duplicate_fingerprint": "1711c6b35442548ef54f47f2bcdc8c11d3d288f67832c4713a41a4eed6320a9a",
+      "soft_match_fingerprint": "fc71618ea6b0a02a25c471220ba3020ed880ed1ca82fdb0ef914fba73756f4f7",
+      "_computed_fingerprint": "c8405bfabbc420233e976ea53579fa8759b2e9ceb3d0e18640f14d13c480a4d1"
+    },
+    {
+      "external_ref": "livinginsider-2360857",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9500000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area_sqm": 30,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด ศุภาลัย เวอเรนด้า พระราม 9 MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-113065",
+        "zh": "ขายคอนโด ศุภาลัย เวอเรนด้า พระราม 9 MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-113065",
+        "th": "ขายคอนโด ศุภาลัย เวอเรนด้า พระราม 9 MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-113065"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 30 sq.m., 9,500,000 THB. Source LivingInsider #2360857.",
+        "zh": "出租：3卧，30㎡，9,500,000 泰铢。来源 LivingInsider #2360857。",
+        "th": "เช่า: 3 นอน 30 ตร.ม. ราคา 9,500,000 บาท (LivingInsider #2360857)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2360857. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2360857。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2360857 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2360857",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2360857.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2360857",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2360857",
+      "source_url_hash": "b6726f521b8716d169104dd7003fc5e1f17572ce2b8662d2d916b4402f4f4f3a",
+      "duplicate_fingerprint": "aa88387fded68671467087f172ba0412010fbf56a8dcb9702463449b45e8174f",
+      "soft_match_fingerprint": "6dc8277b32d26fc55cadd16438c20c81d0b0c79e0b8c6f986bb21b6e328a0d47",
+      "_computed_fingerprint": "86cb8cc5fa77a6bfa2acc535f5da00081966724c5251a94ac27d4b18b5175625"
+    },
+    {
+      "external_ref": "livinginsider-3077970",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 16050000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqm": 30,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ศุภาลัย เวอเรนด้า พระราม 9 MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-155006",
+        "zh": "ขายคอนโด  ศุภาลัย เวอเรนด้า พระราม 9 MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-155006",
+        "th": "ขายคอนโด  ศุภาลัย เวอเรนด้า พระราม 9 MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ CX-155006"
+      },
+      "summary": {
+        "en": "Rent: 3BR, 30 sq.m., 16,050,000 THB. Source LivingInsider #3077970.",
+        "zh": "出租：3卧，30㎡，16,050,000 泰铢。来源 LivingInsider #3077970。",
+        "th": "เช่า: 3 นอน 30 ตร.ม. ราคา 16,050,000 บาท (LivingInsider #3077970)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3077970. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3077970。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3077970 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3077970",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3077970.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3077970",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3077970",
+      "source_url_hash": "771e599ccba1cc746656d0a0315e57005dc9ac66280ff95398f097d1af861057",
+      "duplicate_fingerprint": "27214bb10992c7d371d1ddc3c8a51f0c75a2a633555911c32d24095d38f90d85",
+      "soft_match_fingerprint": "cfaed20d8286af133beb0ee1e900a0ef7955a8f5b34868fdb8517a2f7017955a",
+      "_computed_fingerprint": "e831add81b2e3799c3637d72c42fff9e4ad1f2dfad1483f4a59d9507c50ef912"
+    },
+    {
+      "external_ref": "livinginsider-1520898",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3150000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  ศุภาลัย เวอเรนด้า พระราม 9 MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ  CX-43364",
+        "zh": "ขายคอนโด  ศุภาลัย เวอเรนด้า พระราม 9 MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ  CX-43364",
+        "th": "ขายคอนโด  ศุภาลัย เวอเรนด้า พระราม 9 MRT-พระราม 9 บางกะปิ เขต ห้วยขวาง กรุงเทพ  CX-43364"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 3,150,000 THB. Source LivingInsider #1520898.",
+        "zh": "出租：1卧，30㎡，3,150,000 泰铢。来源 LivingInsider #1520898。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 3,150,000 บาท (LivingInsider #1520898)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 1520898. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 1520898。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 1520898 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_1520898",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/1520898.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1520898",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_1520898",
+      "source_url_hash": "3ddc8ebcea8e7f70fecb6788b0d2a97939932082fda92c4023b55748a0aae411",
+      "duplicate_fingerprint": "deab9e6ff712feadf738a03652144ef9d4abc4fbf1b5b9e4046fb94b256354f8",
+      "soft_match_fingerprint": "33257bbec8e8611bf3a4425b11218adde6c73ebdd0cd60bd8079f03826c63988",
+      "_computed_fingerprint": "b87fbef8d93fb8eb55564cef7228d8c168ecc582e39e04094e4d98c35bcb3f84"
+    }
+  ]
+}

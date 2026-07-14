@@ -1,0 +1,604 @@
+{
+  "project_slug": "the-livin-ramkhamhaeng",
+  "collected_at": "2026-07-14",
+  "source": "livinginsider",
+  "livinginsider_project_id": "3869",
+  "livinginsider_project_url": "https://www.livinginsider.com/living_project_en/31/3869/Condo/all/all/1/The-Livin-Ramkhamhaeng.html",
+  "notes": "LivingInsider harvest — verified only when public detail exposes priced Offer + listing type. No fabricated fields. PropertyHub packages untouched.",
+  "listings": [
+    {
+      "external_ref": "livinginsider-3113821",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 10000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "#R10299  🎉 160669 ให้เช่าคอนโด The Livin Ramkhamhaeng ",
+        "zh": "#R10299  🎉 160669 ให้เช่าคอนโด The Livin Ramkhamhaeng ",
+        "th": "#R10299  🎉 160669 ให้เช่าคอนโด The Livin Ramkhamhaeng "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 24 sq.m., 10,000 THB. Source LivingInsider #3113821.",
+        "zh": "出租：1卧，24㎡，10,000 泰铢。来源 LivingInsider #3113821。",
+        "th": "เช่า: 1 นอน 24 ตร.ม. ราคา 10,000 บาท (LivingInsider #3113821)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3113821. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3113821。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3113821 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3113821",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3113821.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3113821",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3113821",
+      "source_url_hash": "fd47ce8cbc5771d34759d400db4e5aecbac7023dce1ff7c83c8df4bd928fa2a2",
+      "duplicate_fingerprint": "e8ef8ebce539c9eb551a6cb5dc6362f4af84024261efb0b77112998f6d078dc6",
+      "soft_match_fingerprint": "06791829f458c3e387704012a2a80dd0f362c8973300440c9e58b5a432cd35c0",
+      "_computed_fingerprint": "620e23f0728d63ee17385daa8fc4db112cfd0b4ce497105e94a0f971d2d4e151"
+    },
+    {
+      "external_ref": "livinginsider-3111325",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "#E960💕140669ให้เช่าคอนโด The Livin Ramkhamhaeng",
+        "zh": "#E960💕140669ให้เช่าคอนโด The Livin Ramkhamhaeng",
+        "th": "#E960💕140669ให้เช่าคอนโด The Livin Ramkhamhaeng"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 33 sq.m., 13,500 THB. Source LivingInsider #3111325.",
+        "zh": "出租：1卧，33㎡，13,500 泰铢。来源 LivingInsider #3111325。",
+        "th": "เช่า: 1 นอน 33 ตร.ม. ราคา 13,500 บาท (LivingInsider #3111325)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3111325. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3111325。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3111325 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3111325",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3111325.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3111325",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3111325",
+      "source_url_hash": "04fd03c159bdd88d0b05d191a12d52813ddbe325e6e9a8de0b67afcded703ae5",
+      "duplicate_fingerprint": "aa5f306dec098c587f524e155389b2a30bd4a61c9929209f900b2c7521f8af65",
+      "soft_match_fingerprint": "98f2f3f354cb2f518211898c405ff126176c3317dcd8889f450aab5f128d6cd1",
+      "_computed_fingerprint": "734cb32c7af997b496da24a92b3d235670f175d04cc5edaf353785c0cdff4d72"
+    },
+    {
+      "external_ref": "livinginsider-3141139",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 9500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 23,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "🏙️ The Livin Ramkhamhaeng | Brand New Studio 9,500 THB fl8. 🤍Ready to move in🤍 23sqm",
+        "zh": "🏙️ The Livin Ramkhamhaeng | Brand New Studio 9,500 THB fl8. 🤍Ready to move in🤍 23sqm",
+        "th": "🏙️ The Livin Ramkhamhaeng | Brand New Studio 9,500 THB fl8. 🤍Ready to move in🤍 23sqm"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 23 sq.m., 9,500 THB. Source LivingInsider #3141139.",
+        "zh": "出租：1卧，23㎡，9,500 泰铢。来源 LivingInsider #3141139。",
+        "th": "เช่า: 1 นอน 23 ตร.ม. ราคา 9,500 บาท (LivingInsider #3141139)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3141139. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3141139。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3141139 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3141139",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3141139.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3141139",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3141139",
+      "source_url_hash": "16f8fad4cbbe1d1f02a67244eef38537c291409c2ddb119c4bdea826c5b277db",
+      "duplicate_fingerprint": "c9cc1339778f19a2b1905b4585b27f379ce320a842da302910a5a848bc5b387a",
+      "soft_match_fingerprint": "70256689747018e1a4839c095349662da558734092cdb4ca05984c465b4b710c",
+      "_computed_fingerprint": "220198125e3df35ff4823140605e90e5274c60613a296cd5315c77c740b06ac3"
+    },
+    {
+      "external_ref": "livinginsider-3147163",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 38,
+      "floor_label": "13",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า 📍 The Livin Ramkhamhaeng 📍 เฟอร์นิเจอร์ และ เครื่องใช้ไฟฟ้าครบ ใกล้ MRT ลำสาลี",
+        "zh": "ให้เช่า 📍 The Livin Ramkhamhaeng 📍 เฟอร์นิเจอร์ และ เครื่องใช้ไฟฟ้าครบ ใกล้ MRT ลำสาลี",
+        "th": "ให้เช่า 📍 The Livin Ramkhamhaeng 📍 เฟอร์นิเจอร์ และ เครื่องใช้ไฟฟ้าครบ ใกล้ MRT ลำสาลี"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 38 sq.m., 22,000 THB. Source LivingInsider #3147163.",
+        "zh": "出租：2卧，38㎡，22,000 泰铢。来源 LivingInsider #3147163。",
+        "th": "เช่า: 2 นอน 38 ตร.ม. ราคา 22,000 บาท (LivingInsider #3147163)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3147163. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3147163。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3147163 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3147163",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3147163.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3147163",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3147163",
+      "source_url_hash": "f7dec81d3cf2c2fe21b38659faba90dd5f8b26e8a06af948e326dcf79d1e3bd6",
+      "duplicate_fingerprint": "71b43b65cb3056dac21094c0a2dde154abcde0be6118a82da9021c99134b46d5",
+      "soft_match_fingerprint": "d97ef71273d7f18f7f0156c36fe7774fae5fac8a3b1606ce81e9537ead5cb54e",
+      "_computed_fingerprint": "85cd85b9c3e64ab11ad32e07bb7e0a61e40c43f351c94be38de1faff71558990"
+    },
+    {
+      "external_ref": "livinginsider-3147120",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "ให้เช่า ✨ The Livin Ramkhamhaeng ✨ ใกล้ MRT Interchange ลำสาลี เฟอร์นิเจอร์ และ เครื่องใช้ไฟฟ้าครบ ",
+        "zh": "ให้เช่า ✨ The Livin Ramkhamhaeng ✨ ใกล้ MRT Interchange ลำสาลี เฟอร์นิเจอร์ และ เครื่องใช้ไฟฟ้าครบ ",
+        "th": "ให้เช่า ✨ The Livin Ramkhamhaeng ✨ ใกล้ MRT Interchange ลำสาลี เฟอร์นิเจอร์ และ เครื่องใช้ไฟฟ้าครบ "
+      },
+      "summary": {
+        "en": "Rent: 1BR, 32 sq.m., 15,500 THB. Source LivingInsider #3147120.",
+        "zh": "出租：1卧，32㎡，15,500 泰铢。来源 LivingInsider #3147120。",
+        "th": "เช่า: 1 นอน 32 ตร.ม. ราคา 15,500 บาท (LivingInsider #3147120)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 3147120. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 3147120。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 3147120 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_3147120",
+      "source_updated_at": "2026-08-13",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/3147120.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3147120",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_3147120",
+      "source_url_hash": "ae846a9fc23e5160ee790d00befaf4f18f06e3c2ec312c77f45965103f7cca43",
+      "duplicate_fingerprint": "1e6ba7a4f773dd967e779ad88e33341cc8d0b4bec3535356bbf8a9da145f5877",
+      "soft_match_fingerprint": "c463ebcc1d293b5ca30ebc8b63db122e6cb904083edb6273aa7fe11b03fd20a3",
+      "_computed_fingerprint": "7cf0109e8f3321eb0260a971057b033f527f3ddbf8f834ab9f45ef8556a76474"
+    },
+    {
+      "external_ref": "livinginsider-2746209",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2290000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "For Sale 📍The livin รามคำเเหง ถูกกว่าโครงการ📞0639399665",
+        "zh": "For Sale 📍The livin รามคำเเหง ถูกกว่าโครงการ📞0639399665",
+        "th": "For Sale 📍The livin รามคำเเหง ถูกกว่าโครงการ📞0639399665"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 2,290,000 THB. Source LivingInsider #2746209.",
+        "zh": "出租：1卧，28㎡，2,290,000 泰铢。来源 LivingInsider #2746209。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 2,290,000 บาท (LivingInsider #2746209)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2746209. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2746209。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2746209 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2746209",
+      "source_updated_at": "2026-08-11",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2746209.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2746209",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2746209",
+      "source_url_hash": "04bf1bfd4a12299d08a51bf751ebfbb7de709813624dfaa15c27fbb6750340f8",
+      "duplicate_fingerprint": "dec62368b3248d54ec1947d1a5b56ec3c72258ffe0830e64621a0f8003fd2807",
+      "soft_match_fingerprint": "fb647a0b1cd6d6aaa8cced76748d6f6577895141eb1a16d73efd0b63699728cb",
+      "_computed_fingerprint": "e3be2d4bac8c9389ec3ac036a88b945cf85f9ddf8a20a68a28f0c1e87555a261"
+    },
+    {
+      "external_ref": "livinginsider-2774082",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3190000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "24",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "ขายคอนโด  เดอะ ลิฟวิ่น รามคำแหง วิวสวย MRT-ลำสาลี (สายสีเหลือง) หัวหมาก เขต บางกะปิ กรุงเทพ CX-128896",
+        "zh": "ขายคอนโด  เดอะ ลิฟวิ่น รามคำแหง วิวสวย MRT-ลำสาลี (สายสีเหลือง) หัวหมาก เขต บางกะปิ กรุงเทพ CX-128896",
+        "th": "ขายคอนโด  เดอะ ลิฟวิ่น รามคำแหง วิวสวย MRT-ลำสาลี (สายสีเหลือง) หัวหมาก เขต บางกะปิ กรุงเทพ CX-128896"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 30 sq.m., 3,190,000 THB. Source LivingInsider #2774082.",
+        "zh": "出租：2卧，30㎡，3,190,000 泰铢。来源 LivingInsider #2774082。",
+        "th": "เช่า: 2 นอน 30 ตร.ม. ราคา 3,190,000 บาท (LivingInsider #2774082)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2774082. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2774082。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2774082 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2774082",
+      "source_updated_at": "2026-08-09",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2774082.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2774082",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2774082",
+      "source_url_hash": "dcd09c689ef42e183f2ce800dcbb9711381a452d4253853864b38359b1b74927",
+      "duplicate_fingerprint": "70919cb6aac7dc805e9ea1a8cb0aa403756cec16fe2153eaec446b8ea7cb4aef",
+      "soft_match_fingerprint": "fcb222468db5930f317475edc45afa3293fab4d4dc5279ba70fd2c78fbb56e56",
+      "_computed_fingerprint": "e9bdd9e7935c1da2122917bc0dfe178e6aa25a4057025d38edcd7c873d193a78"
+    },
+    {
+      "external_ref": "livinginsider-2939293",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2290000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "The Livin รามคำแหง1Bed 28 sq.m. ราคาเพียง 2.29 ลบ.Phat: 064-642-8664Nui: 094-624-2014",
+        "zh": "The Livin รามคำแหง1Bed 28 sq.m. ราคาเพียง 2.29 ลบ.Phat: 064-642-8664Nui: 094-624-2014",
+        "th": "The Livin รามคำแหง1Bed 28 sq.m. ราคาเพียง 2.29 ลบ.Phat: 064-642-8664Nui: 094-624-2014"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 2,290,000 THB. Source LivingInsider #2939293.",
+        "zh": "出租：1卧，28㎡，2,290,000 泰铢。来源 LivingInsider #2939293。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 2,290,000 บาท (LivingInsider #2939293)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2939293. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2939293。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2939293 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2939293",
+      "source_updated_at": "2026-08-09",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2939293.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2939293",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2939293",
+      "source_url_hash": "29c13653cc85cb024bf23ceb8c835aedcec6bb5c5aac784a14f41907e80374b6",
+      "duplicate_fingerprint": "0a4d9f9b3a2620b8d2754c1a53bb3c3bdd99ffcef866397267905205184534c7",
+      "soft_match_fingerprint": "1770f9de3e1ccbf64e19b861b949ed1e85a6ee7b314c9d8da2a06d5ca19ae8f4",
+      "_computed_fingerprint": "db9bd637644fc17007ae616cc104153fb9ec162ba8ffced67ce439fba2679d78"
+    },
+    {
+      "external_ref": "livinginsider-2939297",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2650000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "The Livin รามคำแหง1Bed 32 sq.m. ราคาเพียง 2.65 ลบ.Phat: 064-642-8664Nui: 094-624-2014",
+        "zh": "The Livin รามคำแหง1Bed 32 sq.m. ราคาเพียง 2.65 ลบ.Phat: 064-642-8664Nui: 094-624-2014",
+        "th": "The Livin รามคำแหง1Bed 32 sq.m. ราคาเพียง 2.65 ลบ.Phat: 064-642-8664Nui: 094-624-2014"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 32 sq.m., 2,650,000 THB. Source LivingInsider #2939297.",
+        "zh": "出租：1卧，32㎡，2,650,000 泰铢。来源 LivingInsider #2939297。",
+        "th": "เช่า: 1 นอน 32 ตร.ม. ราคา 2,650,000 บาท (LivingInsider #2939297)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2939297. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2939297。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2939297 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2939297",
+      "source_updated_at": "2026-08-09",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2939297.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2939297",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2939297",
+      "source_url_hash": "6e8e425cd708227d15f2fb295ff44523b4add3d1e25fb1dadb1af8f84b17cee3",
+      "duplicate_fingerprint": "ab95680cd05101d2b0cd4a8d4e7178725b7ea907a8a85b8aedebeeb416a48c43",
+      "soft_match_fingerprint": "c7770c3213cba6f3717318c85aec4761c6350df771a9302baee49b18a1376c7d",
+      "_computed_fingerprint": "3dfaf296b12cd4a409f28eb6aa297bd6e88bfe47c6a9e8016590e9b52662985e"
+    },
+    {
+      "external_ref": "livinginsider-2939278",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 1790000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 22,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "The Livin รามคำแหงStudio 22 sq.m. ราคาเพียง 1.79 ลบ.Phat: 064-642-8664Nui: 094-624-2014",
+        "zh": "The Livin รามคำแหงStudio 22 sq.m. ราคาเพียง 1.79 ลบ.Phat: 064-642-8664Nui: 094-624-2014",
+        "th": "The Livin รามคำแหงStudio 22 sq.m. ราคาเพียง 1.79 ลบ.Phat: 064-642-8664Nui: 094-624-2014"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 22 sq.m., 1,790,000 THB. Source LivingInsider #2939278.",
+        "zh": "出租：1卧，22㎡，1,790,000 泰铢。来源 LivingInsider #2939278。",
+        "th": "เช่า: 1 นอน 22 ตร.ม. ราคา 1,790,000 บาท (LivingInsider #2939278)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2939278. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2939278。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2939278 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2939278",
+      "source_updated_at": "2026-08-09",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2939278.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2939278",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2939278",
+      "source_url_hash": "f267c52e09a4b58096f555427e87081ad6223b3ff5452f25e5db0fa4fc997233",
+      "duplicate_fingerprint": "eafb9d253ecf6edf03ccc482b2e088cc2f425df744d4b90add5fae3ef2bcd039",
+      "soft_match_fingerprint": "63751cfbededbb0323a2428a4aee6f8e618431959d5048ed1d6ebf345c06c590",
+      "_computed_fingerprint": "32016c6bc0362091dbeee9a9b4802fbce06962d1d738f70e4d4f5649f8aaa51f"
+    },
+    {
+      "external_ref": "livinginsider-2939281",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 1790000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 22,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-livin-ramkhamhaeng",
+      "developer_slug": "risland-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "The Livin รามคำแหงStudio 22 sq.m. ราคาเพียง 1.79 ลบ.Phat: 064-642-8664Nui: 094-624-2014",
+        "zh": "The Livin รามคำแหงStudio 22 sq.m. ราคาเพียง 1.79 ลบ.Phat: 064-642-8664Nui: 094-624-2014",
+        "th": "The Livin รามคำแหงStudio 22 sq.m. ราคาเพียง 1.79 ลบ.Phat: 064-642-8664Nui: 094-624-2014"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 22 sq.m., 1,790,000 THB. Source LivingInsider #2939281.",
+        "zh": "出租：1卧，22㎡，1,790,000 泰铢。来源 LivingInsider #2939281。",
+        "th": "เช่า: 1 นอน 22 ตร.ม. ราคา 1,790,000 บาท (LivingInsider #2939281)"
+      },
+      "description": {
+        "en": "Normalized from LivingInsider listing 2939281. Specs/price from public detail ld+json + page text. Availability subject to source.",
+        "zh": "来自 LivingInsider 挂牌 2939281。规格与价格取自公开详情页；是否可售/可租以来源页为准。",
+        "th": "แปลงจากประกาศ LivingInsider 2939281 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "livinginsider",
+      "listing_url": "https://www.livinginsider.com/re/en_2939281",
+      "source_updated_at": "2026-08-09",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://www.livinginsider.com/og_post/2939281.jpg",
+          "role": "cover",
+          "source": "livinginsider",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2939281",
+      "normalized_source_url": "https://www.livinginsider.com/re/en_2939281",
+      "source_url_hash": "7811854ead5297dc962ab2707d53cfdf1b1cb47580ff72dca35c570f84f34ab5",
+      "duplicate_fingerprint": "53d32a3d05f36cf025b3eecd61ac02f9367f0e0763092d972743c16f640bb7fe",
+      "soft_match_fingerprint": "63751cfbededbb0323a2428a4aee6f8e618431959d5048ed1d6ebf345c06c590",
+      "_computed_fingerprint": "09fe9e4fe7ecd64cde8c1d2ed2a41adcc07909692f465e43a58f04e2082c3d41"
+    }
+  ]
+}
