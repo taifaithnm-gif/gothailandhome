@@ -2,15 +2,21 @@
   "slug": "origin-property",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
-      "name": "Origin Property official website",
+      "name": "Origin official website",
       "url": "https://www.origin.co.th/"
     },
     {
+      "type": "other_public_portal",
+      "name": "SET ORI factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/ORI/factsheet"
+    },
+    {
       "type": "facebook",
-      "name": "Origin Property Facebook",
+      "name": "Origin Facebook",
       "url": "https://www.facebook.com/OriginProperty"
     }
   ],
@@ -25,14 +31,84 @@
     "th": "บริษัท ออริจิ้น พร็อพเพอร์ตี้ จำกัด (มหาชน)"
   },
   "description": {
-    "en": "Origin Property is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "奥利金地产为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "ออริจิ้น พร็อพเพอร์ตี้ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "Origin Property Public Company Limited develops condominiums and related services. SET factsheet establish date: 2009; ticker ORI.",
+    "zh": "Origin Property Public Company Limited 开发公寓及相关服务。SET 成立年份：2009；代码 ORI。",
+    "th": "บริษัท ออริจิ้น พร็อพเพอร์ตี้ จำกัด (มหาชน) พัฒนาคอนโดและบริการที่เกี่ยวข้อง ก่อตั้งตาม SET ปี 2009 ชื่อย่อ ORI"
+  },
+  "company_profile": {
+    "en": "Origin Property Public Company Limited develops condominiums and related services. SET factsheet establish date: 2009; ticker ORI.",
+    "zh": "Origin Property Public Company Limited 开发公寓及相关服务。SET 成立年份：2009；代码 ORI。",
+    "th": "บริษัท ออริจิ้น พร็อพเพอร์ตี้ จำกัด (มหาชน) พัฒนาคอนโดและบริการที่เกี่ยวข้อง ก่อตั้งตาม SET ปี 2009 ชื่อย่อ ORI"
+  },
+  "established_year": 2009,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "ORI",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/ORI/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "KnightBridge",
+      "source_url": "https://www.origin.co.th/"
+    },
+    {
+      "name": "Origin Plug & Play",
+      "source_url": "https://www.origin.co.th/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "knightbridge-collage-ramkhamhaeng",
+        "name": {
+          "en": "KnightBridge Collage Ramkhamhaeng",
+          "zh": "KnightBridge Collage 蓝康恒",
+          "th": "ไนท์บริดจ์ คอลลาจ รามคำแหง"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "knightsbridge-prime-sathorn",
+        "name": {
+          "en": "Knightsbridge Prime Sathorn",
+          "zh": "Knightsbridge Prime 沙吞",
+          "th": "ไนท์บริดจ์ ไพร์ม สาทร"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "origin-plug-play-sukhumvit-101",
+        "name": {
+          "en": "Origin Plug & Play Sukhumvit 101",
+          "zh": "Origin Plug & Play 素坤逸101",
+          "th": "ออริจิ้น ปลั๊ก แอนด์ เพลย์ สุขุมวิท 101"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.origin.co.th/",
   "facebook_url": "https://www.facebook.com/OriginProperty",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/OriginProperty",
+    "website": "https://www.origin.co.th/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/origin-property/logo.svg",
+  "logo_url": "/developers/origin-property/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +118,9 @@
       "th": "ผู้พัฒนา ออริจิ้น พร็อพเพอร์ตี้ | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for Origin Property and linked Bangkok projects on GoThailandHome.",
-      "zh": "奥利金地产开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา ออริจิ้น พร็อพเพอร์ตี้ และโครงการในกรุงเทพฯ"
+      "en": "Official profile for Origin Property (SET:ORI). Sourced from the developer website and SET factsheet.",
+      "zh": "奥利金地产开发商资料（SET:ORI），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา ออริจิ้น พร็อพเพอร์ตี้ (SET:ORI) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -54,7 +130,7 @@
   },
   "project_slugs": [
     "knightbridge-collage-ramkhamhaeng",
-    "origin-plug-play-sukhumvit-101",
-    "knightsbridge-prime-sathorn"
+    "knightsbridge-prime-sathorn",
+    "origin-plug-play-sukhumvit-101"
   ]
 }

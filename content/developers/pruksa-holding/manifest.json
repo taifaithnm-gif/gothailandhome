@@ -2,15 +2,21 @@
   "slug": "pruksa-holding",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
-      "name": "Pruksa Holding official website",
+      "name": "Pruksa official website",
       "url": "https://www.pruksa.com/"
     },
     {
+      "type": "other_public_portal",
+      "name": "SET PSH quote",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/PSH/factsheet"
+    },
+    {
       "type": "facebook",
-      "name": "Pruksa Holding Facebook",
+      "name": "Pruksa Facebook",
       "url": "https://www.facebook.com/PruksaOfficial"
     }
   ],
@@ -25,14 +31,97 @@
     "th": "บริษัท พฤกษา โฮลดิ้ง จำกัด (มหาชน)"
   },
   "description": {
-    "en": "Pruksa Holding is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "普萨控股为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "พฤกษา โฮลดิ้ง เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "Pruksa Holding Public Company Limited is listed on SET under ticker PSH. Profile fields cite the official website and SET quote page; establish year is omitted until confirmed from the SET factsheet establish date field.",
+    "zh": "Pruksa Holding Public Company Limited 于 SET 上市，代码 PSH。成立年份待 SET factsheet 成立日字段核对后再补。",
+    "th": "บริษัท พฤกษา โฮลดิ้ง จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ PSH ยังไม่ระบุปีก่อตั้งจนกว่าจะยืนยันจาก SET factsheet"
+  },
+  "company_profile": {
+    "en": "Pruksa Holding Public Company Limited is listed on SET under ticker PSH. Profile fields cite the official website and SET quote page; establish year is omitted until confirmed from the SET factsheet establish date field.",
+    "zh": "Pruksa Holding Public Company Limited 于 SET 上市，代码 PSH。成立年份待 SET factsheet 成立日字段核对后再补。",
+    "th": "บริษัท พฤกษา โฮลดิ้ง จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ PSH ยังไม่ระบุปีก่อตั้งจนกว่าจะยืนยันจาก SET factsheet"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "PSH",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/PSH/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "The Tree",
+      "source_url": "https://www.pruksa.com/"
+    },
+    {
+      "name": "Chapter One",
+      "source_url": "https://www.pruksa.com/"
+    },
+    {
+      "name": "The Privacy",
+      "source_url": "https://www.pruksa.com/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "chapter-one-midtown-ladprao-24",
+        "name": {
+          "en": "Chapter One Midtown Ladprao 24",
+          "zh": "Chapter One Midtown 叻抛24",
+          "th": "แชปเตอร์วัน มิดทาวน์ ลาดพร้าว 24"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "chapter-one-shine-bang-pho",
+        "name": {
+          "en": "Chapter One Shine Bang Pho",
+          "zh": "Chapter One Shine Bang Pho",
+          "th": "แชปเตอร์วัน ชายน์ บางโพ"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "the-privacy-rama-9",
+        "name": {
+          "en": "The Privacy Rama 9",
+          "zh": "The Privacy 拉玛九",
+          "th": "เดอะ ไพรเวซี่ พระราม 9"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "the-tree-rio-bang-aor",
+        "name": {
+          "en": "The Tree Rio Bang-Aor",
+          "zh": "The Tree Rio Bang-Aor",
+          "th": "เดอะทรี ริโอ้ บางอ้อ"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.pruksa.com/",
   "facebook_url": "https://www.facebook.com/PruksaOfficial",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/PruksaOfficial",
+    "website": "https://www.pruksa.com/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/pruksa-holding/logo.svg",
+  "logo_url": "/developers/pruksa-holding/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +131,9 @@
       "th": "ผู้พัฒนา พฤกษา โฮลดิ้ง | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for Pruksa Holding and linked Bangkok projects on GoThailandHome.",
-      "zh": "普萨控股开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา พฤกษา โฮลดิ้ง และโครงการในกรุงเทพฯ"
+      "en": "Official profile for Pruksa Holding (SET:PSH). Sourced from the developer website and SET factsheet.",
+      "zh": "普萨控股开发商资料（SET:PSH），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา พฤกษา โฮลดิ้ง (SET:PSH) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -53,9 +142,9 @@
     "th": "complete"
   },
   "project_slugs": [
-    "the-tree-rio-bang-aor",
-    "chapter-one-shine-bang-pho",
     "chapter-one-midtown-ladprao-24",
-    "the-privacy-rama-9"
+    "chapter-one-shine-bang-pho",
+    "the-privacy-rama-9",
+    "the-tree-rio-bang-aor"
   ]
 }

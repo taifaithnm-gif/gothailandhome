@@ -2,15 +2,21 @@
   "slug": "sena-development",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
-      "name": "Sena Development official website",
+      "name": "Sena official website",
       "url": "https://www.sena.co.th/"
     },
     {
+      "type": "other_public_portal",
+      "name": "SET SENA factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/SENA/factsheet"
+    },
+    {
       "type": "facebook",
-      "name": "Sena Development Facebook",
+      "name": "Sena Facebook",
       "url": "https://www.facebook.com/SenaDevelopment"
     }
   ],
@@ -25,14 +31,62 @@
     "th": "บริษัท เสนาดีเวลลอปเม้นท์ จำกัด (มหาชน)"
   },
   "description": {
-    "en": "Sena Development is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "Sena发展为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "เสนาดีเวลลอปเม้นท์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "Sena Development Public Company Limited is listed on SET under ticker SENA. Profile cites sena.co.th and the SET quote page.",
+    "zh": "Sena Development Public Company Limited 于 SET 上市，代码 SENA。",
+    "th": "บริษัท เสนาดีเวลลอปเม้นท์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ SENA"
+  },
+  "company_profile": {
+    "en": "Sena Development Public Company Limited is listed on SET under ticker SENA. Profile cites sena.co.th and the SET quote page.",
+    "zh": "Sena Development Public Company Limited 于 SET 上市，代码 SENA。",
+    "th": "บริษัท เสนาดีเวลลอปเม้นท์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ SENA"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "SENA",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/SENA/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "Niche",
+      "source_url": "https://www.sena.co.th/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "niche-pride-thonglor-phetchaburi",
+        "name": {
+          "en": "Niche Pride Thonglor-Phetchaburi",
+          "zh": "Niche Pride Thonglor",
+          "th": "นิช ไพรด์ ทองหล่อ-เพชรบุรี"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.sena.co.th/",
   "facebook_url": "https://www.facebook.com/SenaDevelopment",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/SenaDevelopment",
+    "website": "https://www.sena.co.th/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/sena-development/logo.svg",
+  "logo_url": "/developers/sena-development/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +96,9 @@
       "th": "ผู้พัฒนา เสนาดีเวลลอปเม้นท์ | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for Sena Development and linked Bangkok projects on GoThailandHome.",
-      "zh": "Sena发展开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา เสนาดีเวลลอปเม้นท์ และโครงการในกรุงเทพฯ"
+      "en": "Official profile for Sena Development (SET:SENA). Sourced from the developer website and SET factsheet.",
+      "zh": "Sena发展开发商资料（SET:SENA），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา เสนาดีเวลลอปเม้นท์ (SET:SENA) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -52,5 +106,7 @@
     "zh": "complete",
     "th": "complete"
   },
-  "project_slugs": ["niche-pride-thonglor-phetchaburi"]
+  "project_slugs": [
+    "niche-pride-thonglor-phetchaburi"
+  ]
 }

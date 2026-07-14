@@ -2,11 +2,17 @@
   "slug": "assetwise",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
       "name": "AssetWise official website",
       "url": "https://www.assetwise.co.th/"
+    },
+    {
+      "type": "other_public_portal",
+      "name": "SET ASW factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/ASW/factsheet"
     },
     {
       "type": "facebook",
@@ -25,14 +31,75 @@
     "th": "บริษัท แอสเซทไวส์ จำกัด (มหาชน)"
   },
   "description": {
-    "en": "AssetWise is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "AssetWise为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "แอสเซทไวส์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "AssetWise Public Company Limited is listed on SET under ticker ASW. Profile cites assetwise.co.th and the SET quote page.",
+    "zh": "AssetWise Public Company Limited 于 SET 上市，代码 ASW。",
+    "th": "บริษัท แอสเซทไวส์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ ASW"
+  },
+  "company_profile": {
+    "en": "AssetWise Public Company Limited is listed on SET under ticker ASW. Profile cites assetwise.co.th and the SET quote page.",
+    "zh": "AssetWise Public Company Limited 于 SET 上市，代码 ASW。",
+    "th": "บริษัท แอสเซทไวส์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ ASW"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "ASW",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/ASW/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "Modiz",
+      "source_url": "https://www.assetwise.co.th/"
+    },
+    {
+      "name": "Kave",
+      "source_url": "https://www.assetwise.co.th/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "kave-town-space",
+        "name": {
+          "en": "Kave Town Space",
+          "zh": "Kave Town Space",
+          "th": "เคฟ ทาวน์ สเปซ"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "modiz-rhyme-ramkhamhaeng",
+        "name": {
+          "en": "Modiz Rhyme Ramkhamhaeng",
+          "zh": "Modiz Rhyme 蓝康恒",
+          "th": "โมดิซ ไรย์ม รามคำแหง"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.assetwise.co.th/",
   "facebook_url": "https://www.facebook.com/AssetWise",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/AssetWise",
+    "website": "https://www.assetwise.co.th/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/assetwise/logo.svg",
+  "logo_url": "/developers/assetwise/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +109,9 @@
       "th": "ผู้พัฒนา แอสเซทไวส์ | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for AssetWise and linked Bangkok projects on GoThailandHome.",
-      "zh": "AssetWise开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา แอสเซทไวส์ และโครงการในกรุงเทพฯ"
+      "en": "Official profile for AssetWise (SET:ASW). Sourced from the developer website and SET factsheet.",
+      "zh": "AssetWise开发商资料（SET:ASW），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา แอสเซทไวส์ (SET:ASW) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -52,5 +119,8 @@
     "zh": "complete",
     "th": "complete"
   },
-  "project_slugs": ["modiz-rhyme-ramkhamhaeng", "kave-town-space"]
+  "project_slugs": [
+    "kave-town-space",
+    "modiz-rhyme-ramkhamhaeng"
+  ]
 }

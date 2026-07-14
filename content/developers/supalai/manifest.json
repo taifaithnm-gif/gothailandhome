@@ -2,11 +2,17 @@
   "slug": "supalai",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
       "name": "Supalai official website",
       "url": "https://www.supalai.com/"
+    },
+    {
+      "type": "other_public_portal",
+      "name": "SET SPALI factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/SPALI/factsheet"
     },
     {
       "type": "facebook",
@@ -25,14 +31,101 @@
     "th": "บริษัท ศุภาลัย จำกัด (มหาชน)"
   },
   "description": {
-    "en": "Supalai is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "苏帕莱为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "ศุภาลัย เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "Supalai Public Company Limited is listed on SET under ticker SPALI. Company profile cites the official website and SET quote page.",
+    "zh": "Supalai Public Company Limited 于 SET 上市，代码 SPALI。资料引用官网与 SET。",
+    "th": "บริษัท ศุภาลัย จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ SPALI อ้างอิงเว็บไซต์ทางการและ SET"
+  },
+  "company_profile": {
+    "en": "Supalai Public Company Limited is listed on SET under ticker SPALI. Company profile cites the official website and SET quote page.",
+    "zh": "Supalai Public Company Limited 于 SET 上市，代码 SPALI。资料引用官网与 SET。",
+    "th": "บริษัท ศุภาลัย จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ SPALI อ้างอิงเว็บไซต์ทางการและ SET"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "SPALI",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/SPALI/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "Supalai Oriental",
+      "source_url": "https://www.supalai.com/"
+    },
+    {
+      "name": "Supalai Veranda",
+      "source_url": "https://www.supalai.com/"
+    },
+    {
+      "name": "Supalai Elite",
+      "source_url": "https://www.supalai.com/"
+    },
+    {
+      "name": "Supalai Lite",
+      "source_url": "https://www.supalai.com/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "supalai-elite-phayathai",
+        "name": {
+          "en": "Supalai Elite Phayathai",
+          "zh": "苏帕莱 Elite 帕亚泰",
+          "th": "ศุภาลัย เอลีท พญาไท"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "supalai-lite-sathorn-charoenrat",
+        "name": {
+          "en": "Supalai Lite Sathorn-Charoenrat",
+          "zh": "苏帕莱 Lite 沙吞",
+          "th": "ศุภาลัย ไลท์ สาทร-เจริญราษฎร์"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "supalai-oriental-sukhumvit-39",
+        "name": {
+          "en": "Supalai Oriental Sukhumvit 39",
+          "zh": "苏帕莱东方 素坤逸39",
+          "th": "ศุภาลัย โอเรียนทัล สุขุมวิท 39"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "supalai-veranda-rama-9",
+        "name": {
+          "en": "Supalai Veranda Rama 9",
+          "zh": "苏帕莱 Veranda 拉玛九",
+          "th": "ศุภาลัย เวอเรนด้า พระราม 9"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.supalai.com/",
   "facebook_url": "https://www.facebook.com/Supalai",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/Supalai",
+    "website": "https://www.supalai.com/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/supalai/logo.svg",
+  "logo_url": "/developers/supalai/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +135,9 @@
       "th": "ผู้พัฒนา ศุภาลัย | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for Supalai and linked Bangkok projects on GoThailandHome.",
-      "zh": "苏帕莱开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา ศุภาลัย และโครงการในกรุงเทพฯ"
+      "en": "Official profile for Supalai (SET:SPALI). Sourced from the developer website and SET factsheet.",
+      "zh": "苏帕莱开发商资料（SET:SPALI），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา ศุภาลัย (SET:SPALI) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -53,9 +146,9 @@
     "th": "complete"
   },
   "project_slugs": [
-    "supalai-oriental-sukhumvit-39",
-    "supalai-veranda-rama-9",
     "supalai-elite-phayathai",
-    "supalai-lite-sathorn-charoenrat"
+    "supalai-lite-sathorn-charoenrat",
+    "supalai-oriental-sukhumvit-39",
+    "supalai-veranda-rama-9"
   ]
 }

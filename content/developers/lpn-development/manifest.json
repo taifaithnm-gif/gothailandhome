@@ -2,15 +2,21 @@
   "slug": "lpn-development",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
-      "name": "LPN Development official website",
+      "name": "LPN official website",
       "url": "https://www.lpn.co.th/"
     },
     {
+      "type": "other_public_portal",
+      "name": "SET LPN factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/LPN/factsheet"
+    },
+    {
       "type": "facebook",
-      "name": "LPN Development Facebook",
+      "name": "LPN Facebook",
       "url": "https://www.facebook.com/LPNDevelopment"
     }
   ],
@@ -25,14 +31,62 @@
     "th": "บริษัท แอล.พี.เอ็น. ดีเวลลอปเมนท์ จำกัด (มหาชน)"
   },
   "description": {
-    "en": "LPN Development is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "LPN发展为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "แอล.พี.เอ็น. ดีเวลลอปเมนท์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "L.P.N. Development Public Company Limited is listed on SET under ticker LPN. Profile cites lpn.co.th and the SET quote page.",
+    "zh": "L.P.N. Development Public Company Limited 于 SET 上市，代码 LPN。",
+    "th": "บริษัท แอล.พี.เอ็น. ดีเวลลอปเมนท์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ LPN"
+  },
+  "company_profile": {
+    "en": "L.P.N. Development Public Company Limited is listed on SET under ticker LPN. Profile cites lpn.co.th and the SET quote page.",
+    "zh": "L.P.N. Development Public Company Limited 于 SET 上市，代码 LPN。",
+    "th": "บริษัท แอล.พี.เอ็น. ดีเวลลอปเมนท์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ LPN"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "LPN",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/LPN/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "Lumpini",
+      "source_url": "https://www.lpn.co.th/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "lumpini-ville-phahol-saphanmai",
+        "name": {
+          "en": "Lumpini Ville Phahol-Saphanmai",
+          "zh": "Lumpini Ville 拍浩-萨潘迈",
+          "th": "ลุมพินี วิลล์ พหลฯ-สะพานใหม่"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.lpn.co.th/",
   "facebook_url": "https://www.facebook.com/LPNDevelopment",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/LPNDevelopment",
+    "website": "https://www.lpn.co.th/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/lpn-development/logo.svg",
+  "logo_url": "/developers/lpn-development/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +96,9 @@
       "th": "ผู้พัฒนา แอล.พี.เอ็น. ดีเวลลอปเมนท์ | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for LPN Development and linked Bangkok projects on GoThailandHome.",
-      "zh": "LPN发展开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา แอล.พี.เอ็น. ดีเวลลอปเมนท์ และโครงการในกรุงเทพฯ"
+      "en": "Official profile for LPN Development (SET:LPN). Sourced from the developer website and SET factsheet.",
+      "zh": "LPN发展开发商资料（SET:LPN），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา แอล.พี.เอ็น. ดีเวลลอปเมนท์ (SET:LPN) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -52,5 +106,7 @@
     "zh": "complete",
     "th": "complete"
   },
-  "project_slugs": ["lumpini-ville-phahol-saphanmai"]
+  "project_slugs": [
+    "lumpini-ville-phahol-saphanmai"
+  ]
 }

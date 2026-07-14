@@ -2,11 +2,17 @@
   "slug": "ap-thailand",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
       "name": "AP Thailand official website",
       "url": "https://www.apthai.com/"
+    },
+    {
+      "type": "other_public_portal",
+      "name": "SET AP factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/AP/factsheet"
     },
     {
       "type": "facebook",
@@ -25,14 +31,106 @@
     "th": "บริษัท เอพี (ไทยแลนด์) จำกัด (มหาชน)"
   },
   "description": {
-    "en": "AP Thailand is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "AP泰国为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "เอพี ไทยแลนด์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "AP (Thailand) Public Company Limited is a SET-listed property developer (ticker AP). SET factsheet establish date: 20/07/1984.",
+    "zh": "AP (Thailand) Public Company Limited 为 SET 上市开发商（代码 AP）。SET 成立日：1984-07-20。",
+    "th": "บริษัท เอพี (ไทยแลนด์) จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ AP วันก่อตั้งตาม SET: 20/07/1984"
+  },
+  "company_profile": {
+    "en": "AP (Thailand) Public Company Limited is a SET-listed property developer (ticker AP). SET factsheet establish date: 20/07/1984.",
+    "zh": "AP (Thailand) Public Company Limited 为 SET 上市开发商（代码 AP）。SET 成立日：1984-07-20。",
+    "th": "บริษัท เอพี (ไทยแลนด์) จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ AP วันก่อตั้งตาม SET: 20/07/1984"
+  },
+  "established_year": 1984,
+  "headquarters": {
+    "en": "Khlong Toei, Bangkok, Thailand (Ocean Tower 1 address per SET)",
+    "zh": "泰国曼谷空堤（SET 记载 Ocean Tower 1 地址）",
+    "th": "คลองเตย กรุงเทพฯ (ที่อยู่ตาม SET: Ocean Tower 1)"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "AP",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/AP/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "Life",
+      "source_url": "https://www.apthai.com/"
+    },
+    {
+      "name": "Rhythm",
+      "source_url": "https://www.apthai.com/"
+    },
+    {
+      "name": "Aspire",
+      "source_url": "https://www.apthai.com/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "aspire-sathorn-taksin",
+        "name": {
+          "en": "Aspire Sathorn-Taksin",
+          "zh": "Aspire 沙吞-达信",
+          "th": "แอสปาย สาทร-ตากสิน"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "life-asoke-rama-9",
+        "name": {
+          "en": "Life Asoke Rama 9",
+          "zh": "Life Asoke 拉玛九",
+          "th": "ไลฟ์ อโศก พระราม 9"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "life-ladprao",
+        "name": {
+          "en": "Life Ladprao",
+          "zh": "Life 叻抛",
+          "th": "ไลฟ์ ลาดพร้าว"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "life-one-wireless",
+        "name": {
+          "en": "Life One Wireless",
+          "zh": "Life One Wireless",
+          "th": "ไลฟ์ วัน ไวร์เลส"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "rhythm-ekkamai",
+        "name": {
+          "en": "Rhythm Ekkamai",
+          "zh": "Rhythm 埃卡迈",
+          "th": "ริทึ่ม เอกมัย"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.apthai.com/",
   "facebook_url": "https://www.facebook.com/APthai",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/APthai",
+    "website": "https://www.apthai.com/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/ap-thailand/logo.svg",
+  "logo_url": "/developers/ap-thailand/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +140,9 @@
       "th": "ผู้พัฒนา เอพี ไทยแลนด์ | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for AP Thailand and linked Bangkok projects on GoThailandHome.",
-      "zh": "AP泰国开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา เอพี ไทยแลนด์ และโครงการในกรุงเทพฯ"
+      "en": "Official profile for AP Thailand (SET:AP). Sourced from the developer website and SET factsheet.",
+      "zh": "AP泰国开发商资料（SET:AP），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา เอพี ไทยแลนด์ (SET:AP) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -53,10 +151,10 @@
     "th": "complete"
   },
   "project_slugs": [
-    "rhythm-ekkamai",
+    "aspire-sathorn-taksin",
     "life-asoke-rama-9",
     "life-ladprao",
     "life-one-wireless",
-    "aspire-sathorn-taksin"
+    "rhythm-ekkamai"
   ]
 }

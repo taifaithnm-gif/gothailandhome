@@ -2,10 +2,11 @@
   "slug": "risland-thailand",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
-      "name": "RISLAND Thailand official website",
+      "name": "The Livin Ramkhamhaeng official site",
       "url": "https://www.livinram.com/en"
     },
     {
@@ -25,15 +26,59 @@
     "th": "บริษัท ริสแลนด์ (ประเทศไทย) จำกัด"
   },
   "description": {
-    "en": "RISLAND Thailand is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "瑞思兰泰国为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "ริสแลนด์ ประเทศไทย เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "RISLAND (Thailand) Co., Ltd. is cited on The Livin Ramkhamhaeng official project website as developer. SET listing is not asserted without a SET factsheet for this entity.",
+    "zh": "RISLAND (Thailand) Co., Ltd. 见于 The Livin Ramkhamhaeng 官方项目站开发商信息。未提供 SET factsheet 前不声称上市。",
+    "th": "บริษัท ริสแลนด์ (ประเทศไทย) จำกัด อ้างอิงจากเว็บไซต์โครงการเดอะ ลิฟวิ่น รามคำแหง ไม่ระบุ SET หากไม่มี factsheet"
+  },
+  "company_profile": {
+    "en": "RISLAND (Thailand) Co., Ltd. is cited on The Livin Ramkhamhaeng official project website as developer. SET listing is not asserted without a SET factsheet for this entity.",
+    "zh": "RISLAND (Thailand) Co., Ltd. 见于 The Livin Ramkhamhaeng 官方项目站开发商信息。未提供 SET factsheet 前不声称上市。",
+    "th": "บริษัท ริสแลนด์ (ประเทศไทย) จำกัด อ้างอิงจากเว็บไซต์โครงการเดอะ ลิฟวิ่น รามคำแหง ไม่ระบุ SET หากไม่มี factsheet"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": null,
+  "major_brands": [
+    {
+      "name": "The Livin",
+      "source_url": "https://www.livinram.com/en"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "the-livin-ramkhamhaeng",
+        "name": {
+          "en": "The Livin Ramkhamhaeng",
+          "zh": "The Livin Ramkhamhaeng（德利温·蓝康恒）",
+          "th": "เดอะ ลิฟวิ่น รามคำแหง"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.livinram.com/en",
   "facebook_url": "https://www.facebook.com/Rislandthailand",
   "google_maps_url": null,
-  "logo_url": null,
-  "phone": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/Rislandthailand",
+    "website": "https://www.livinram.com/en"
+  },
+  "contact": {
+    "phone": "02-026-6888",
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/risland-thailand/logo.svg",
+  "logo_url": "/developers/risland-thailand/logo.svg",
+  "phone": "02-026-6888",
   "email": null,
   "seo": {
     "title": {
@@ -42,9 +87,9 @@
       "th": "ผู้พัฒนา ริสแลนด์ ประเทศไทย | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for RISLAND Thailand and linked Bangkok projects on GoThailandHome.",
-      "zh": "瑞思兰泰国开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา ริสแลนด์ ประเทศไทย และโครงการในกรุงเทพฯ"
+      "en": "Official profile for RISLAND Thailand. Sourced from the developer website.",
+      "zh": "瑞思兰泰国开发商资料，来源为官方网站。",
+      "th": "โปรไฟล์ผู้พัฒนา ริสแลนด์ ประเทศไทย อ้างอิงเว็บไซต์ทางการ"
     }
   },
   "locale_status": {
@@ -52,5 +97,7 @@
     "zh": "complete",
     "th": "complete"
   },
-  "project_slugs": ["the-livin-ramkhamhaeng"]
+  "project_slugs": [
+    "the-livin-ramkhamhaeng"
+  ]
 }

@@ -2,15 +2,21 @@
   "slug": "noble-development",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
-      "name": "Noble Development official website",
+      "name": "Noble official website",
       "url": "https://www.noblehome.com/"
     },
     {
+      "type": "other_public_portal",
+      "name": "SET NOBLE factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet"
+    },
+    {
       "type": "facebook",
-      "name": "Noble Development Facebook",
+      "name": "Noble Facebook",
       "url": "https://www.facebook.com/NobleDevelopment"
     }
   ],
@@ -25,14 +31,88 @@
     "th": "บริษัท โนเบิล ดีเวลลอปเมนท์ จำกัด (มหาชน)"
   },
   "description": {
-    "en": "Noble Development is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "诺博发展为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "โนเบิล ดีเวลลอปเมนท์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "Noble Development Public Company Limited is listed on SET under ticker NOBLE. Profile cites noblehome.com and the SET quote page.",
+    "zh": "Noble Development Public Company Limited 于 SET 上市，代码 NOBLE。",
+    "th": "บริษัท โนเบิล ดีเวลลอปเมนท์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ NOBLE"
+  },
+  "company_profile": {
+    "en": "Noble Development Public Company Limited is listed on SET under ticker NOBLE. Profile cites noblehome.com and the SET quote page.",
+    "zh": "Noble Development Public Company Limited 于 SET 上市，代码 NOBLE。",
+    "th": "บริษัท โนเบิล ดีเวลลอปเมนท์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ NOBLE"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "NOBLE",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "Noble Around",
+      "source_url": "https://www.noblehome.com/"
+    },
+    {
+      "name": "Noble Revolve",
+      "source_url": "https://www.noblehome.com/"
+    },
+    {
+      "name": "Noble BEAT",
+      "source_url": "https://www.noblehome.com/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "noble-around-ari",
+        "name": {
+          "en": "Noble Around Ari",
+          "zh": "Noble Around 阿里",
+          "th": "โนเบิล อราวน์ อารีย์"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "noble-beat",
+        "name": {
+          "en": "Noble BEAT",
+          "zh": "Noble BEAT",
+          "th": "โนเบิล บีท"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "noble-revolve-ratchada",
+        "name": {
+          "en": "Noble Revolve Ratchada",
+          "zh": "Noble Revolve 拉差达",
+          "th": "โนเบิล รีวอลฟ์ รัชดา"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.noblehome.com/",
   "facebook_url": "https://www.facebook.com/NobleDevelopment",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/NobleDevelopment",
+    "website": "https://www.noblehome.com/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/noble-development/logo.svg",
+  "logo_url": "/developers/noble-development/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +122,9 @@
       "th": "ผู้พัฒนา โนเบิล ดีเวลลอปเมนท์ | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for Noble Development and linked Bangkok projects on GoThailandHome.",
-      "zh": "诺博发展开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา โนเบิล ดีเวลลอปเมนท์ และโครงการในกรุงเทพฯ"
+      "en": "Official profile for Noble Development (SET:NOBLE). Sourced from the developer website and SET factsheet.",
+      "zh": "诺博发展开发商资料（SET:NOBLE），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา โนเบิล ดีเวลลอปเมนท์ (SET:NOBLE) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -52,5 +132,9 @@
     "zh": "complete",
     "th": "complete"
   },
-  "project_slugs": ["noble-around-ari", "noble-revolve-ratchada", "noble-beat"]
+  "project_slugs": [
+    "noble-around-ari",
+    "noble-beat",
+    "noble-revolve-ratchada"
+  ]
 }

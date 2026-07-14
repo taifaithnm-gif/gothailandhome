@@ -2,15 +2,21 @@
   "slug": "ananda-development",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
-      "name": "Ananda Development official website",
+      "name": "Ananda official website",
       "url": "https://www.ananda.co.th/"
     },
     {
+      "type": "other_public_portal",
+      "name": "SET ANAN factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/ANAN/factsheet"
+    },
+    {
       "type": "facebook",
-      "name": "Ananda Development Facebook",
+      "name": "Ananda Facebook",
       "url": "https://www.facebook.com/AnandaDevelopment"
     }
   ],
@@ -25,14 +31,93 @@
     "th": "บริษัท อนันดา ดีเวลลอปเม้นท์ จำกัด (มหาชน)"
   },
   "description": {
-    "en": "Ananda Development is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "阿南达发展为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "อนันดา ดีเวลลอปเม้นท์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "Ananda Development Public Company Limited is a SET-listed developer (ticker ANAN). Official website: ananda.co.th.",
+    "zh": "Ananda Development Public Company Limited 为 SET 上市开发商（代码 ANAN）。官网：ananda.co.th。",
+    "th": "บริษัท อนันดา ดีเวลลอปเม้นท์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ ANAN เว็บไซต์ทางการ ananda.co.th"
+  },
+  "company_profile": {
+    "en": "Ananda Development Public Company Limited is a SET-listed developer (ticker ANAN). Official website: ananda.co.th.",
+    "zh": "Ananda Development Public Company Limited 为 SET 上市开发商（代码 ANAN）。官网：ananda.co.th。",
+    "th": "บริษัท อนันดา ดีเวลลอปเม้นท์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ ANAN เว็บไซต์ทางการ ananda.co.th"
+  },
+  "established_year": 1999,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "ANAN",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/ANAN/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "IDEO",
+      "source_url": "https://www.ananda.co.th/"
+    },
+    {
+      "name": "Ashton",
+      "source_url": "https://www.ananda.co.th/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "ashton-asoke",
+        "name": {
+          "en": "Ashton Asoke",
+          "zh": "Ashton Asoke",
+          "th": "แอชตัน อโศก"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "ideo-mobi-sukhumvit-66",
+        "name": {
+          "en": "IDEO MOBI Sukhumvit 66",
+          "zh": "IDEO MOBI 素坤逸66",
+          "th": "ไอดีโอ โมบิ สุขุมวิท 66"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "ideo-q-sukhumvit-36",
+        "name": {
+          "en": "IDEO Q Sukhumvit 36",
+          "zh": "IDEO Q 素坤逸36",
+          "th": "ไอดีโอ คิว สุขุมวิท 36"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "ideo-rama-9",
+        "name": {
+          "en": "IDEO Rama 9",
+          "zh": "IDEO 拉玛九",
+          "th": "ไอดีโอ พระราม 9"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.ananda.co.th/",
   "facebook_url": "https://www.facebook.com/AnandaDevelopment",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/AnandaDevelopment",
+    "website": "https://www.ananda.co.th/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/ananda-development/logo.svg",
+  "logo_url": "/developers/ananda-development/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +127,9 @@
       "th": "ผู้พัฒนา อนันดา ดีเวลลอปเม้นท์ | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for Ananda Development and linked Bangkok projects on GoThailandHome.",
-      "zh": "阿南达发展开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา อนันดา ดีเวลลอปเม้นท์ และโครงการในกรุงเทพฯ"
+      "en": "Official profile for Ananda Development (SET:ANAN). Sourced from the developer website and SET factsheet.",
+      "zh": "阿南达发展开发商资料（SET:ANAN），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา อนันดา ดีเวลลอปเม้นท์ (SET:ANAN) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -53,9 +138,9 @@
     "th": "complete"
   },
   "project_slugs": [
+    "ashton-asoke",
     "ideo-mobi-sukhumvit-66",
     "ideo-q-sukhumvit-36",
-    "ashton-asoke",
     "ideo-rama-9"
   ]
 }

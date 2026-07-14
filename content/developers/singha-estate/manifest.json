@@ -2,11 +2,17 @@
   "slug": "singha-estate",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
       "name": "Singha Estate official website",
       "url": "https://www.singhaestate.co.th/"
+    },
+    {
+      "type": "other_public_portal",
+      "name": "SET S factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/S/factsheet"
     },
     {
       "type": "facebook",
@@ -25,14 +31,62 @@
     "th": "บริษัท สิงห์ เอสเตท จำกัด (มหาชน)"
   },
   "description": {
-    "en": "Singha Estate is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "胜者置地为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "สิงห์ เอสเตท เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "Singha Estate Public Company Limited is listed on SET under ticker S. Profile cites singhaestate.co.th and the SET quote page.",
+    "zh": "Singha Estate Public Company Limited 于 SET 上市，代码 S。",
+    "th": "บริษัท สิงห์ เอสเตท จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ S"
+  },
+  "company_profile": {
+    "en": "Singha Estate Public Company Limited is listed on SET under ticker S. Profile cites singhaestate.co.th and the SET quote page.",
+    "zh": "Singha Estate Public Company Limited 于 SET 上市，代码 S。",
+    "th": "บริษัท สิงห์ เอสเตท จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ S"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "S",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/S/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "Singha Complex",
+      "source_url": "https://www.singhaestate.co.th/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "singha-complex",
+        "name": {
+          "en": "Singha Complex",
+          "zh": "胜者综合体",
+          "th": "สิงห์ คอมเพล็กซ์"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.singhaestate.co.th/",
   "facebook_url": "https://www.facebook.com/SinghaEstate",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/SinghaEstate",
+    "website": "https://www.singhaestate.co.th/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/singha-estate/logo.svg",
+  "logo_url": "/developers/singha-estate/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +96,9 @@
       "th": "ผู้พัฒนา สิงห์ เอสเตท | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for Singha Estate and linked Bangkok projects on GoThailandHome.",
-      "zh": "胜者置地开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา สิงห์ เอสเตท และโครงการในกรุงเทพฯ"
+      "en": "Official profile for Singha Estate (SET:S). Sourced from the developer website and SET factsheet.",
+      "zh": "胜者置地开发商资料（SET:S），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา สิงห์ เอสเตท (SET:S) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -52,5 +106,7 @@
     "zh": "complete",
     "th": "complete"
   },
-  "project_slugs": ["singha-complex"]
+  "project_slugs": [
+    "singha-complex"
+  ]
 }

@@ -1,0 +1,655 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-07-14",
+  "count": 20,
+  "developers": [
+    {
+      "slug": "ananda-development",
+      "name": {
+        "en": "Ananda Development",
+        "zh": "阿南达发展",
+        "th": "อนันดา ดีเวลลอปเม้นท์"
+      },
+      "legal_name": {
+        "en": "Ananda Development Public Company Limited",
+        "zh": "Ananda Development Public Company Limited",
+        "th": "บริษัท อนันดา ดีเวลลอปเม้นท์ จำกัด (มหาชน)"
+      },
+      "website": "https://www.ananda.co.th/",
+      "established_year": 1999,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "ANAN",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/ANAN/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/ananda-development/logo.svg",
+      "project_counts": {
+        "bangkok": 4,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/ananda-development/"
+    },
+    {
+      "slug": "ap-thailand",
+      "name": {
+        "en": "AP Thailand",
+        "zh": "AP泰国",
+        "th": "เอพี ไทยแลนด์"
+      },
+      "legal_name": {
+        "en": "AP (Thailand) Public Company Limited",
+        "zh": "AP (Thailand) Public Company Limited",
+        "th": "บริษัท เอพี (ไทยแลนด์) จำกัด (มหาชน)"
+      },
+      "website": "https://www.apthai.com/",
+      "established_year": 1984,
+      "headquarters": {
+        "en": "Khlong Toei, Bangkok, Thailand (Ocean Tower 1 address per SET)",
+        "zh": "泰国曼谷空堤（SET 记载 Ocean Tower 1 地址）",
+        "th": "คลองเตย กรุงเทพฯ (ที่อยู่ตาม SET: Ocean Tower 1)"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "AP",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/AP/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/ap-thailand/logo.svg",
+      "project_counts": {
+        "bangkok": 5,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/ap-thailand/"
+    },
+    {
+      "slug": "assetwise",
+      "name": {
+        "en": "AssetWise",
+        "zh": "AssetWise",
+        "th": "แอสเซทไวส์"
+      },
+      "legal_name": {
+        "en": "AssetWise Public Company Limited",
+        "zh": "AssetWise Public Company Limited",
+        "th": "บริษัท แอสเซทไวส์ จำกัด (มหาชน)"
+      },
+      "website": "https://www.assetwise.co.th/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "ASW",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/ASW/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/assetwise/logo.svg",
+      "project_counts": {
+        "bangkok": 2,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/assetwise/"
+    },
+    {
+      "slug": "capitaland-thailand",
+      "name": {
+        "en": "CapitaLand Thailand",
+        "zh": "凯德泰国",
+        "th": "แคปปิตอลแลนด์ ประเทศไทย"
+      },
+      "legal_name": {
+        "en": "CapitaLand (Thailand operations)",
+        "zh": "凯德（泰国业务）",
+        "th": "แคปปิตอลแลนด์ (ประเทศไทย)"
+      },
+      "website": "https://www.capitaland.com/th/en.html",
+      "established_year": null,
+      "headquarters": {
+        "en": "Thailand operations (see capitaland.com/th)",
+        "zh": "泰国业务（见 capitaland.com/th）",
+        "th": "ธุรกิจในประเทศไทย (ดู capitaland.com/th)"
+      },
+      "listed_company": null,
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/capitaland-thailand/logo.svg",
+      "project_counts": {
+        "bangkok": 1,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/capitaland-thailand/"
+    },
+    {
+      "slug": "frasers-property-thailand",
+      "name": {
+        "en": "Frasers Property Thailand",
+        "zh": "辉盛地产泰国",
+        "th": "เฟรเซอร์ส พร็อพเพอร์ตี้ ประเทศไทย"
+      },
+      "legal_name": {
+        "en": "Frasers Property (Thailand) Public Company Limited",
+        "zh": "Frasers Property (Thailand) Public Company Limited",
+        "th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ (ประเทศไทย) จำกัด (มหาชน)"
+      },
+      "website": "https://www.frasersproperty.co.th/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "FPT",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/FPT/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/frasers-property-thailand/logo.svg",
+      "project_counts": {
+        "bangkok": 2,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/frasers-property-thailand/"
+    },
+    {
+      "slug": "land-and-houses",
+      "name": {
+        "en": "Land and Houses",
+        "zh": "大地房产",
+        "th": "แลนด์ แอนด์ เฮ้าส์"
+      },
+      "legal_name": {
+        "en": "Land and Houses Public Company Limited",
+        "zh": "Land and Houses Public Company Limited",
+        "th": "บริษัท แลนด์ แอนด์ เฮ้าส์ จำกัด (มหาชน)"
+      },
+      "website": "https://www.lh.co.th/",
+      "established_year": 1983,
+      "headquarters": {
+        "en": "Sathon, Bangkok, Thailand (Q. House Lumpini address per SET)",
+        "zh": "泰国曼谷沙吞（SET 记载 Q. House Lumpini 地址）",
+        "th": "สาทร กรุงเทพฯ (ที่อยู่ตาม SET: Q. House Lumpini)"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "LH",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/LH/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/land-and-houses/logo.svg",
+      "project_counts": {
+        "bangkok": 2,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/land-and-houses/"
+    },
+    {
+      "slug": "lpn-development",
+      "name": {
+        "en": "LPN Development",
+        "zh": "LPN发展",
+        "th": "แอล.พี.เอ็น. ดีเวลลอปเมนท์"
+      },
+      "legal_name": {
+        "en": "L.P.N. Development Public Company Limited",
+        "zh": "L.P.N. Development Public Company Limited",
+        "th": "บริษัท แอล.พี.เอ็น. ดีเวลลอปเมนท์ จำกัด (มหาชน)"
+      },
+      "website": "https://www.lpn.co.th/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "LPN",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/LPN/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/lpn-development/logo.svg",
+      "project_counts": {
+        "bangkok": 1,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/lpn-development/"
+    },
+    {
+      "slug": "major-development",
+      "name": {
+        "en": "Major Development",
+        "zh": "Major Development",
+        "th": "เมเจอร์ ดีเวลลอปเม้นท์"
+      },
+      "legal_name": {
+        "en": "Major Development Public Company Limited",
+        "zh": "Major Development Public Company Limited",
+        "th": "บริษัท เมเจอร์ ดีเวลลอปเม้นท์ จำกัด (มหาชน)"
+      },
+      "website": "https://www.major.co.th/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "MJD",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/MJD/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/major-development/logo.svg",
+      "project_counts": {
+        "bangkok": 3,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/major-development/"
+    },
+    {
+      "slug": "mqdc",
+      "name": {
+        "en": "MQDC",
+        "zh": "MQDC",
+        "th": "แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น"
+      },
+      "legal_name": {
+        "en": "Magnolia Quality Development Corporation Limited",
+        "zh": "Magnolia Quality Development Corporation Limited",
+        "th": "บริษัท แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น จำกัด"
+      },
+      "website": "https://www.mqdc.com/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": null,
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/mqdc/logo.svg",
+      "project_counts": {
+        "bangkok": 2,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/mqdc/"
+    },
+    {
+      "slug": "noble-development",
+      "name": {
+        "en": "Noble Development",
+        "zh": "诺博发展",
+        "th": "โนเบิล ดีเวลลอปเมนท์"
+      },
+      "legal_name": {
+        "en": "Noble Development Public Company Limited",
+        "zh": "Noble Development Public Company Limited",
+        "th": "บริษัท โนเบิล ดีเวลลอปเมนท์ จำกัด (มหาชน)"
+      },
+      "website": "https://www.noblehome.com/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "NOBLE",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/noble-development/logo.svg",
+      "project_counts": {
+        "bangkok": 3,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/noble-development/"
+    },
+    {
+      "slug": "origin-property",
+      "name": {
+        "en": "Origin Property",
+        "zh": "奥利金地产",
+        "th": "ออริจิ้น พร็อพเพอร์ตี้"
+      },
+      "legal_name": {
+        "en": "Origin Property Public Company Limited",
+        "zh": "Origin Property Public Company Limited",
+        "th": "บริษัท ออริจิ้น พร็อพเพอร์ตี้ จำกัด (มหาชน)"
+      },
+      "website": "https://www.origin.co.th/",
+      "established_year": 2009,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "ORI",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/ORI/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/origin-property/logo.svg",
+      "project_counts": {
+        "bangkok": 3,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/origin-property/"
+    },
+    {
+      "slug": "pruksa-holding",
+      "name": {
+        "en": "Pruksa Holding",
+        "zh": "普萨控股",
+        "th": "พฤกษา โฮลดิ้ง"
+      },
+      "legal_name": {
+        "en": "Pruksa Holding Public Company Limited",
+        "zh": "Pruksa Holding Public Company Limited",
+        "th": "บริษัท พฤกษา โฮลดิ้ง จำกัด (มหาชน)"
+      },
+      "website": "https://www.pruksa.com/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "PSH",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/PSH/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/pruksa-holding/logo.svg",
+      "project_counts": {
+        "bangkok": 4,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/pruksa-holding/"
+    },
+    {
+      "slug": "quality-houses",
+      "name": {
+        "en": "Quality Houses",
+        "zh": "优质房屋",
+        "th": "ควอลิตี้เฮ้าส์"
+      },
+      "legal_name": {
+        "en": "Quality Houses Public Company Limited",
+        "zh": "Quality Houses Public Company Limited",
+        "th": "บริษัท ควอลิตี้เฮ้าส์ จำกัด (มหาชน)"
+      },
+      "website": "https://www.qh.co.th/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "QH",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/QH/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/quality-houses/logo.svg",
+      "project_counts": {
+        "bangkok": 1,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/quality-houses/"
+    },
+    {
+      "slug": "raimon-land",
+      "name": {
+        "en": "Raimon Land",
+        "zh": "瑞蒙地产",
+        "th": "ไรมอน แลนด์"
+      },
+      "legal_name": {
+        "en": "Raimon Land Public Company Limited",
+        "zh": "Raimon Land Public Company Limited",
+        "th": "บริษัท ไรมอน แลนด์ จำกัด (มหาชน)"
+      },
+      "website": "https://www.raimonland.com/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "RML",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/RML/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/raimon-land/logo.svg",
+      "project_counts": {
+        "bangkok": 2,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/raimon-land/"
+    },
+    {
+      "slug": "risland-thailand",
+      "name": {
+        "en": "RISLAND Thailand",
+        "zh": "瑞思兰泰国",
+        "th": "ริสแลนด์ ประเทศไทย"
+      },
+      "legal_name": {
+        "en": "RISLAND (Thailand) Co., Ltd.",
+        "zh": "RISLAND (Thailand) Co., Ltd.",
+        "th": "บริษัท ริสแลนด์ (ประเทศไทย) จำกัด"
+      },
+      "website": "https://www.livinram.com/en",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": null,
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/risland-thailand/logo.svg",
+      "project_counts": {
+        "bangkok": 1,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/risland-thailand/"
+    },
+    {
+      "slug": "sansiri",
+      "name": {
+        "en": "Sansiri",
+        "zh": "尚思瑞",
+        "th": "แสนสิริ"
+      },
+      "legal_name": {
+        "en": "Sansiri Public Company Limited",
+        "zh": "Sansiri Public Company Limited",
+        "th": "บริษัท แสนสิริ จำกัด (มหาชน)"
+      },
+      "website": "https://www.sansiri.com/",
+      "established_year": 1984,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "SIRI",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/SIRI/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/sansiri/logo.svg",
+      "project_counts": {
+        "bangkok": 5,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/sansiri/"
+    },
+    {
+      "slug": "sc-asset",
+      "name": {
+        "en": "SC Asset",
+        "zh": "SC Asset",
+        "th": "เอสซี แอสเสท"
+      },
+      "legal_name": {
+        "en": "SC Asset Corporation Public Company Limited",
+        "zh": "SC Asset Corporation Public Company Limited",
+        "th": "บริษัท เอสซี แอสเสท คอร์ปอเรชั่น จำกัด (มหาชน)"
+      },
+      "website": "https://www.scasset.com/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "SC",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/SC/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/sc-asset/logo.svg",
+      "project_counts": {
+        "bangkok": 3,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/sc-asset/"
+    },
+    {
+      "slug": "sena-development",
+      "name": {
+        "en": "Sena Development",
+        "zh": "Sena发展",
+        "th": "เสนาดีเวลลอปเม้นท์"
+      },
+      "legal_name": {
+        "en": "Sena Development Public Company Limited",
+        "zh": "Sena Development Public Company Limited",
+        "th": "บริษัท เสนาดีเวลลอปเม้นท์ จำกัด (มหาชน)"
+      },
+      "website": "https://www.sena.co.th/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "SENA",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/SENA/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/sena-development/logo.svg",
+      "project_counts": {
+        "bangkok": 1,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/sena-development/"
+    },
+    {
+      "slug": "singha-estate",
+      "name": {
+        "en": "Singha Estate",
+        "zh": "胜者置地",
+        "th": "สิงห์ เอสเตท"
+      },
+      "legal_name": {
+        "en": "Singha Estate Public Company Limited",
+        "zh": "Singha Estate Public Company Limited",
+        "th": "บริษัท สิงห์ เอสเตท จำกัด (มหาชน)"
+      },
+      "website": "https://www.singhaestate.co.th/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "S",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/S/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/singha-estate/logo.svg",
+      "project_counts": {
+        "bangkok": 1,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/singha-estate/"
+    },
+    {
+      "slug": "supalai",
+      "name": {
+        "en": "Supalai",
+        "zh": "苏帕莱",
+        "th": "ศุภาลัย"
+      },
+      "legal_name": {
+        "en": "Supalai Public Company Limited",
+        "zh": "Supalai Public Company Limited",
+        "th": "บริษัท ศุภาลัย จำกัด (มหาชน)"
+      },
+      "website": "https://www.supalai.com/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": {
+        "exchange": "SET",
+        "ticker": "SPALI",
+        "profile_url": "https://www.set.or.th/en/market/product/stock/quote/SPALI/factsheet"
+      },
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/supalai/logo.svg",
+      "project_counts": {
+        "bangkok": 4,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/supalai/"
+    }
+  ]
+}

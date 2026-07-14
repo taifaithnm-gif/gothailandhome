@@ -2,11 +2,17 @@
   "slug": "quality-houses",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
       "name": "Quality Houses official website",
       "url": "https://www.qh.co.th/"
+    },
+    {
+      "type": "other_public_portal",
+      "name": "SET QH factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/QH/factsheet"
     },
     {
       "type": "facebook",
@@ -25,14 +31,62 @@
     "th": "บริษัท ควอลิตี้เฮ้าส์ จำกัด (มหาชน)"
   },
   "description": {
-    "en": "Quality Houses is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "优质房屋为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "ควอลิตี้เฮ้าส์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "Quality Houses Public Company Limited is listed on SET under ticker QH. Profile cites qh.co.th and the SET quote page.",
+    "zh": "Quality Houses Public Company Limited 于 SET 上市，代码 QH。",
+    "th": "บริษัท ควอลิตี้เฮ้าส์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ QH"
+  },
+  "company_profile": {
+    "en": "Quality Houses Public Company Limited is listed on SET under ticker QH. Profile cites qh.co.th and the SET quote page.",
+    "zh": "Quality Houses Public Company Limited 于 SET 上市，代码 QH。",
+    "th": "บริษัท ควอลิตี้เฮ้าส์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ QH"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "QH",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/QH/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "Casa Condo",
+      "source_url": "https://www.qh.co.th/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "casa-condo-asoke-dindaeng",
+        "name": {
+          "en": "Casa Condo Asoke-Dindaeng",
+          "zh": "Casa Condo Asoke-Dindaeng",
+          "th": "คาซ่า คอนโด อโศก-ดินแดง"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.qh.co.th/",
   "facebook_url": "https://www.facebook.com/QualityHouses",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/QualityHouses",
+    "website": "https://www.qh.co.th/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/quality-houses/logo.svg",
+  "logo_url": "/developers/quality-houses/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +96,9 @@
       "th": "ผู้พัฒนา ควอลิตี้เฮ้าส์ | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for Quality Houses and linked Bangkok projects on GoThailandHome.",
-      "zh": "优质房屋开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา ควอลิตี้เฮ้าส์ และโครงการในกรุงเทพฯ"
+      "en": "Official profile for Quality Houses (SET:QH). Sourced from the developer website and SET factsheet.",
+      "zh": "优质房屋开发商资料（SET:QH），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา ควอลิตี้เฮ้าส์ (SET:QH) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -52,5 +106,7 @@
     "zh": "complete",
     "th": "complete"
   },
-  "project_slugs": ["casa-condo-asoke-dindaeng"]
+  "project_slugs": [
+    "casa-condo-asoke-dindaeng"
+  ]
 }

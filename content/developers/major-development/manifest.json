@@ -2,11 +2,17 @@
   "slug": "major-development",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
       "name": "Major Development official website",
       "url": "https://www.major.co.th/"
+    },
+    {
+      "type": "other_public_portal",
+      "name": "SET MJD factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/MJD/factsheet"
     },
     {
       "type": "facebook",
@@ -25,14 +31,88 @@
     "th": "บริษัท เมเจอร์ ดีเวลลอปเม้นท์ จำกัด (มหาชน)"
   },
   "description": {
-    "en": "Major Development is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "Major Development为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "เมเจอร์ ดีเวลลอปเม้นท์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "Major Development Public Company Limited is listed on SET under ticker MJD. Profile cites major.co.th and the SET quote page.",
+    "zh": "Major Development Public Company Limited 于 SET 上市，代码 MJD。",
+    "th": "บริษัท เมเจอร์ ดีเวลลอปเม้นท์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ MJD"
+  },
+  "company_profile": {
+    "en": "Major Development Public Company Limited is listed on SET under ticker MJD. Profile cites major.co.th and the SET quote page.",
+    "zh": "Major Development Public Company Limited 于 SET 上市，代码 MJD。",
+    "th": "บริษัท เมเจอร์ ดีเวลลอปเม้นท์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ MJD"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "MJD",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/MJD/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "Maestro",
+      "source_url": "https://www.major.co.th/"
+    },
+    {
+      "name": "M Jive",
+      "source_url": "https://www.major.co.th/"
+    },
+    {
+      "name": "M Silom",
+      "source_url": "https://www.major.co.th/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "m-jive-sathorn-lumphini",
+        "name": {
+          "en": "M Jive Sathorn-Lumphini",
+          "zh": "M Jive 沙吞-伦披尼",
+          "th": "เอ็ม ไจฟ์ สาทร-ลุมพินี"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "m-silom",
+        "name": {
+          "en": "M Silom",
+          "zh": "M 是隆",
+          "th": "เอ็ม สีลม"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "maestro-03-ratchada-rama-9",
+        "name": {
+          "en": "Maestro 03 Ratchada-Rama 9",
+          "zh": "Maestro 03 拉差达-拉玛九",
+          "th": "มาเอสโตร 03 รัชดาฯ-พระราม 9"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.major.co.th/",
   "facebook_url": "https://www.facebook.com/MajorDevelopment",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/MajorDevelopment",
+    "website": "https://www.major.co.th/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/major-development/logo.svg",
+  "logo_url": "/developers/major-development/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +122,9 @@
       "th": "ผู้พัฒนา เมเจอร์ ดีเวลลอปเม้นท์ | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for Major Development and linked Bangkok projects on GoThailandHome.",
-      "zh": "Major Development开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา เมเจอร์ ดีเวลลอปเม้นท์ และโครงการในกรุงเทพฯ"
+      "en": "Official profile for Major Development (SET:MJD). Sourced from the developer website and SET factsheet.",
+      "zh": "Major Development开发商资料（SET:MJD），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา เมเจอร์ ดีเวลลอปเม้นท์ (SET:MJD) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -53,8 +133,8 @@
     "th": "complete"
   },
   "project_slugs": [
-    "maestro-03-ratchada-rama-9",
     "m-jive-sathorn-lumphini",
-    "m-silom"
+    "m-silom",
+    "maestro-03-ratchada-rama-9"
   ]
 }

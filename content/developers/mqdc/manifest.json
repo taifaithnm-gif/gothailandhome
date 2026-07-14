@@ -2,11 +2,17 @@
   "slug": "mqdc",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
       "name": "MQDC official website",
       "url": "https://www.mqdc.com/"
+    },
+    {
+      "type": "official_developer",
+      "name": "The Forestias official website",
+      "url": "https://www.theforestias.com/"
     },
     {
       "type": "facebook",
@@ -25,14 +31,71 @@
     "th": "บริษัท แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น จำกัด"
   },
   "description": {
-    "en": "MQDC is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "MQDC为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "Magnolia Quality Development Corporation Limited (MQDC) publishes corporate information on mqdc.com. This package does not claim SET listing without a SET factsheet citation.",
+    "zh": "Magnolia Quality Development Corporation Limited（MQDC）信息以 mqdc.com 为准。未引用 SET factsheet 前不声称上市。",
+    "th": "บริษัท แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น จำกัด (MQDC) อ้างอิง mqdc.com ไม่ระบุการจดทะเบียน SET หากไม่มี SET factsheet"
+  },
+  "company_profile": {
+    "en": "Magnolia Quality Development Corporation Limited (MQDC) publishes corporate information on mqdc.com. This package does not claim SET listing without a SET factsheet citation.",
+    "zh": "Magnolia Quality Development Corporation Limited（MQDC）信息以 mqdc.com 为准。未引用 SET factsheet 前不声称上市。",
+    "th": "บริษัท แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น จำกัด (MQDC) อ้างอิง mqdc.com ไม่ระบุการจดทะเบียน SET หากไม่มี SET factsheet"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": null,
+  "major_brands": [
+    {
+      "name": "The Forestias",
+      "source_url": "https://www.theforestias.com/"
+    },
+    {
+      "name": "Whizdom",
+      "source_url": "https://www.mqdc.com/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "the-forestias",
+        "name": {
+          "en": "The Forestias",
+          "zh": "The Forestias",
+          "th": "เดอะ ฟอเรสเทียส์"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "whizdom-essence",
+        "name": {
+          "en": "Whizdom Essence Sukhumvit",
+          "zh": "Whizdom Essence",
+          "th": "วิซดอม เอสเซนส์"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.mqdc.com/",
   "facebook_url": "https://www.facebook.com/mqdc.thailand",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/mqdc.thailand",
+    "website": "https://www.mqdc.com/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/mqdc/logo.svg",
+  "logo_url": "/developers/mqdc/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +105,9 @@
       "th": "ผู้พัฒนา แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for MQDC and linked Bangkok projects on GoThailandHome.",
-      "zh": "MQDC开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น และโครงการในกรุงเทพฯ"
+      "en": "Official profile for MQDC. Sourced from the developer website.",
+      "zh": "MQDC开发商资料，来源为官方网站。",
+      "th": "โปรไฟล์ผู้พัฒนา แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น อ้างอิงเว็บไซต์ทางการ"
     }
   },
   "locale_status": {
@@ -52,5 +115,8 @@
     "zh": "complete",
     "th": "complete"
   },
-  "project_slugs": ["the-forestias", "whizdom-essence"]
+  "project_slugs": [
+    "the-forestias",
+    "whizdom-essence"
+  ]
 }

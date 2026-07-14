@@ -1,9 +1,30 @@
 # Developers
 
-One folder per developer: `content/developers/<slug>/manifest.json`
+Developer Factory V1 knowledge base packages.
+
+## Layout
+
+```text
+content/developers/
+  DEVELOPER_INDEX.json
+  DEVELOPER_DIRECTORY.md
+  <slug>/
+    README.md          # compliance metadata
+    manifest.json      # structured package
+    profile.md         # markdown knowledge base
+public/developers/<slug>/
+  logo.svg
+  logo.meta.json
+```
 
 ## Validation
 
-- Required: slug, name (en/zh/th), sources≥1, seo title/description
-- publish_ready requires website or facebook_url
-- Official developer website preferred as primary source
+```bash
+npm run factory:validate -- --developers
+```
+
+## Rules
+
+- Official website and/or SET factsheet sources required
+- No fabricated establish years, tickers, contacts, or market portfolios
+- Project city buckets use **imported factory packages only**

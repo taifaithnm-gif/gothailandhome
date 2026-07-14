@@ -78,6 +78,57 @@ async function main() {
       );
       process.exit(failed === 0 ? 0 : 1);
     }
+    if (target === "--developers") {
+      const { readdirSync, existsSync } = await import("node:fs");
+      const { join } = await import("node:path");
+      const { validateDeveloperPackage, loadJson } = await import(
+        "./lib/validate.mjs"
+      );
+      const dir = join(ROOT, "content/developers");
+      let failed = 0;
+      let warnings = 0;
+      let count = 0;
+      for (const slug of readdirSync(dir)) {
+        const manifest = join(dir, slug, "manifest.json");
+        if (!existsSync(manifest)) continue;
+        count++;
+        const data = loadJson(manifest);
+        const r = validateDeveloperPackage(data);
+        if (!r.ok) {
+          failed++;
+          console.error(`FAIL ${slug}`, r.errors.slice(0, 8));
+        }
+        warnings += r.warnings.length;
+        const md = join(dir, slug, "profile.md");
+        const readme = join(dir, slug, "README.md");
+        if (!existsSync(md) || !existsSync(readme)) {
+          failed++;
+          console.error(`FAIL ${slug}: missing profile.md or README.md`);
+        }
+        const logo = join(ROOT, "public/developers", slug, "logo.svg");
+        if (!existsSync(logo)) {
+          failed++;
+          console.error(`FAIL ${slug}: missing public logo.svg`);
+        }
+      }
+      if (
+        !existsSync(join(dir, "DEVELOPER_INDEX.json")) ||
+        !existsSync(join(dir, "DEVELOPER_DIRECTORY.md"))
+      ) {
+        failed++;
+        console.error(
+          "FAIL missing DEVELOPER_INDEX.json or DEVELOPER_DIRECTORY.md",
+        );
+      }
+      console.log(
+        JSON.stringify(
+          { ok: failed === 0, developers: count, failed, warnings },
+          null,
+          2,
+        ),
+      );
+      process.exit(failed === 0 ? 0 : 1);
+    }
     const r = validatePath(target);
     console.log(JSON.stringify(r, null, 2));
     process.exit(r.ok ? 0 : 1);

@@ -2,11 +2,17 @@
   "slug": "raimon-land",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
       "name": "Raimon Land official website",
       "url": "https://www.raimonland.com/"
+    },
+    {
+      "type": "other_public_portal",
+      "name": "SET RML factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/RML/factsheet"
     },
     {
       "type": "facebook",
@@ -25,14 +31,71 @@
     "th": "บริษัท ไรมอน แลนด์ จำกัด (มหาชน)"
   },
   "description": {
-    "en": "Raimon Land is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "瑞蒙地产为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "ไรมอน แลนด์ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "Raimon Land Public Company Limited is listed on SET under ticker RML. Profile cites raimonland.com and the SET quote page.",
+    "zh": "Raimon Land Public Company Limited 于 SET 上市，代码 RML。",
+    "th": "บริษัท ไรมอน แลนด์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ RML"
+  },
+  "company_profile": {
+    "en": "Raimon Land Public Company Limited is listed on SET under ticker RML. Profile cites raimonland.com and the SET quote page.",
+    "zh": "Raimon Land Public Company Limited 于 SET 上市，代码 RML。",
+    "th": "บริษัท ไรมอน แลนด์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ RML"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "RML",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/RML/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "The Lofts",
+      "source_url": "https://www.raimonland.com/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "168-sukhothai-residences",
+        "name": {
+          "en": "168 Sukhothai Residences",
+          "zh": "168 素可泰",
+          "th": "168 สุโขทัย เรสซิเดนเซส"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "the-lofts-silom",
+        "name": {
+          "en": "The Lofts Silom",
+          "zh": "The Lofts 是隆",
+          "th": "เดอะ ลอฟท์ สีลม"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.raimonland.com/",
   "facebook_url": "https://www.facebook.com/RaimonLand",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/RaimonLand",
+    "website": "https://www.raimonland.com/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/raimon-land/logo.svg",
+  "logo_url": "/developers/raimon-land/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +105,9 @@
       "th": "ผู้พัฒนา ไรมอน แลนด์ | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for Raimon Land and linked Bangkok projects on GoThailandHome.",
-      "zh": "瑞蒙地产开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา ไรมอน แลนด์ และโครงการในกรุงเทพฯ"
+      "en": "Official profile for Raimon Land (SET:RML). Sourced from the developer website and SET factsheet.",
+      "zh": "瑞蒙地产开发商资料（SET:RML），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา ไรมอน แลนด์ (SET:RML) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -52,5 +115,8 @@
     "zh": "complete",
     "th": "complete"
   },
-  "project_slugs": ["the-lofts-silom", "168-sukhothai-residences"]
+  "project_slugs": [
+    "168-sukhothai-residences",
+    "the-lofts-silom"
+  ]
 }

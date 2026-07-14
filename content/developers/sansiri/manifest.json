@@ -2,11 +2,17 @@
   "slug": "sansiri",
   "collected_at": "2026-07-14",
   "publish_ready": true,
+  "verification_status": "platform_verified",
   "sources": [
     {
       "type": "official_developer",
       "name": "Sansiri official website",
       "url": "https://www.sansiri.com/"
+    },
+    {
+      "type": "other_public_portal",
+      "name": "SET SIRI factsheet",
+      "url": "https://www.set.or.th/en/market/product/stock/quote/SIRI/factsheet"
     },
     {
       "type": "facebook",
@@ -25,14 +31,110 @@
     "th": "บริษัท แสนสิริ จำกัด (มหาชน)"
   },
   "description": {
-    "en": "Sansiri is a Thailand property developer. Profile fields are taken from the official website listed in sources.",
-    "zh": "尚思瑞为泰国房地产开发商。简介字段来自 sources 所列官方网站。",
-    "th": "แสนสิริ เป็นผู้พัฒนาอสังหาริมทรัพย์ในประเทศไทย ข้อมูลโปรไฟล์อ้างอิงจากเว็บไซต์ทางการใน sources"
+    "en": "Sansiri Public Company Limited develops residential properties including houses and condominiums. Company establish date on the SET factsheet is 28/09/1984; listed on SET under ticker SIRI.",
+    "zh": "Sansiri Public Company Limited 从事住宅（含独栋与公寓）开发。SET 公司概况记载成立日为 1984-09-28，股票代码 SIRI。",
+    "th": "บริษัท แสนสิริ จำกัด (มหาชน) พัฒนาที่อยู่อาศัย รวมบ้านและคอนโด SET ระบุวันก่อตั้ง 28/09/1984 ชื่อย่อหลักทรัพย์ SIRI"
+  },
+  "company_profile": {
+    "en": "Sansiri Public Company Limited develops residential properties including houses and condominiums. Company establish date on the SET factsheet is 28/09/1984; listed on SET under ticker SIRI.",
+    "zh": "Sansiri Public Company Limited 从事住宅（含独栋与公寓）开发。SET 公司概况记载成立日为 1984-09-28，股票代码 SIRI。",
+    "th": "บริษัท แสนสิริ จำกัด (มหาชน) พัฒนาที่อยู่อาศัย รวมบ้านและคอนโด SET ระบุวันก่อตั้ง 28/09/1984 ชื่อย่อหลักทรัพย์ SIRI"
+  },
+  "established_year": 1984,
+  "headquarters": {
+    "en": "Bangkok, Thailand",
+    "zh": "泰国曼谷",
+    "th": "กรุงเทพฯ ประเทศไทย"
+  },
+  "listed_company": {
+    "exchange": "SET",
+    "ticker": "SIRI",
+    "profile_url": "https://www.set.or.th/en/market/product/stock/quote/SIRI/factsheet"
+  },
+  "major_brands": [
+    {
+      "name": "THE LINE",
+      "source_url": "https://www.sansiri.com/"
+    },
+    {
+      "name": "XT",
+      "source_url": "https://www.sansiri.com/"
+    },
+    {
+      "name": "THE BASE",
+      "source_url": "https://www.sansiri.com/"
+    },
+    {
+      "name": "CONDO U",
+      "source_url": "https://www.sansiri.com/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": "condo-u-sukhumvit-62-1",
+        "name": {
+          "en": "CONDO U Sukhumvit 62-1",
+          "zh": "CONDO U 素坤逸62-1",
+          "th": "คอนโด ยู สุขุมวิท 62-1"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "the-base-sukhumvit-77",
+        "name": {
+          "en": "THE BASE Sukhumvit 77",
+          "zh": "THE BASE 素坤逸77",
+          "th": "เดอะ เบส สุขุมวิท 77"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "the-line-sukhumvit-101",
+        "name": {
+          "en": "THE LINE Sukhumvit 101",
+          "zh": "THE LINE 素坤逸101",
+          "th": "เดอะ ไลน์ สุขุมวิท 101"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "xt-huai-khwang",
+        "name": {
+          "en": "XT Huaikwang",
+          "zh": "XT 辉煌",
+          "th": "เอ็กซ์ที ห้วยขวาง"
+        },
+        "source": "content/projects factory package"
+      },
+      {
+        "slug": "xt-phayathai",
+        "name": {
+          "en": "XT Phayathai",
+          "zh": "XT 帕亚泰",
+          "th": "เอ็กซ์ที พญาไท"
+        },
+        "source": "content/projects factory package"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
   },
   "website": "https://www.sansiri.com/",
   "facebook_url": "https://www.facebook.com/SansiriPLC",
   "google_maps_url": null,
-  "logo_url": null,
+  "social_links": {
+    "facebook": "https://www.facebook.com/SansiriPLC",
+    "website": "https://www.sansiri.com/"
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/sansiri/logo.svg",
+  "logo_url": "/developers/sansiri/logo.svg",
   "phone": null,
   "email": null,
   "seo": {
@@ -42,9 +144,9 @@
       "th": "ผู้พัฒนา แสนสิริ | GoThailandHome"
     },
     "description": {
-      "en": "Developer profile for Sansiri and linked Bangkok projects on GoThailandHome.",
-      "zh": "尚思瑞开发商简介及关联曼谷项目。",
-      "th": "โปรไฟล์ผู้พัฒนา แสนสิริ และโครงการในกรุงเทพฯ"
+      "en": "Official profile for Sansiri (SET:SIRI). Sourced from the developer website and SET factsheet.",
+      "zh": "尚思瑞开发商资料（SET:SIRI），来源为官方网站与 SET。",
+      "th": "โปรไฟล์ผู้พัฒนา แสนสิริ (SET:SIRI) อ้างอิงเว็บไซต์ทางการ และ SET"
     }
   },
   "locale_status": {
@@ -53,10 +155,10 @@
     "th": "complete"
   },
   "project_slugs": [
-    "the-base-sukhumvit-77",
     "condo-u-sukhumvit-62-1",
-    "xt-huai-khwang",
+    "the-base-sukhumvit-77",
     "the-line-sukhumvit-101",
+    "xt-huai-khwang",
     "xt-phayathai"
   ]
 }

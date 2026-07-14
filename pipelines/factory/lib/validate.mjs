@@ -241,12 +241,30 @@ export function validateDeveloperPackage(data) {
   const warnings = [...result.warnings];
   errors.push(...validateSourcesArray(data.sources, "sources"));
   errors.push(...validateI18n(data.name, "name"));
+  if (!data.slug) errors.push("slug: required");
+  if (!data.verification_status) {
+    errors.push("verification_status: required");
+  } else if (
+    !["unverified", "platform_verified", "official_developer", "rejected", "expired"].includes(
+      data.verification_status,
+    )
+  ) {
+    warnings.push(`verification_status: uncommon value ${data.verification_status}`);
+  }
   if (data.publish_ready) {
     if (!data.website && !data.facebook_url) {
       errors.push("publish_ready requires website or facebook_url");
     }
     errors.push(...validateI18n(data.seo?.title, "seo.title"));
     errors.push(...validateI18n(data.seo?.description, "seo.description"));
+  }
+  if (data.listed_company) {
+    if (!data.listed_company.exchange || !data.listed_company.ticker) {
+      errors.push("listed_company requires exchange and ticker");
+    }
+    if (!data.listed_company.profile_url) {
+      warnings.push("listed_company.profile_url missing (soft)");
+    }
   }
   return { ok: errors.length === 0, errors, warnings };
 }
