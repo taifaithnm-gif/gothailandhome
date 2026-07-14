@@ -1,0 +1,335 @@
+{
+  "project_slug": "maestro-03-ratchada-rama-9",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "7423",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=7423",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=7423",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-d77d1cb0d81b-81de-8b82-e168-a7f6b089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7800000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66,
+      "floor_label": "4",
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Maestro 03 Ratchada-Rama 9",
+        "zh": "2 Bedroom Condo for sale at Maestro 03 Ratchada-Rama 9",
+        "th": "2 Bedroom Condo for sale at Maestro 03 Ratchada-Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 66 sq.m., 7,800,000 THB. Source DotProperty #d77d1cb0d81b-81de-8b82-e168-a7f6b089.",
+        "zh": "出售：2卧，66㎡，7,800,000 泰铢。来源 DotProperty #d77d1cb0d81b-81de-8b82-e168-a7f6b089。",
+        "th": "ขาย: 2 นอน 66 ตร.ม. ราคา 7,800,000 บาท (DotProperty #d77d1cb0d81b-81de-8b82-e168-a7f6b089)"
+      },
+      "description": {
+        "en": "Step into a stylish and move-in ready 2-bedroom condo at Maestro 03 Ratchada-Rama 9, a well-connected residence in one of Bangkok’s most convenient Ratchada-Rama 9 lifestyle and business districts.\nThis 66.14 sqm renovated unit offers a practical 2-bedroom, 2-bathroom layout, ideal for comfortable city living with excellent everyday convenience.\nPositioned on the 4th floor, the unit enjoys pleasant city, garden, and pool views, creating a calm residential atmosphere while keeping you close to shopping malls, offices, MRT access, restaurants, and lifestyle destinations. The interior comes fully furnished with air conditioning, TV, fridge, balcony, and ambient lighting in the bedrooms and living room, adding a warm and modern feel throughout the space.\nWhy This Unit Stands Out\n\nRare renovated 2-bedroom condo in the Rama 9–Ratchada CBD\nMove-in ready with stylish modern touches\nTriple-view advantage: city, garden, and pool views \nOnly approx. 700 meters to MRT Phra Ram 9 — convenient access to Central Rama 9, Fortune Town, G Tower, Esplanade, Asoke, and Sukhumvit.\nStrong choice for both living and investment — a renovated 2-bedroom unit in a high-demand rental location\n\nProperty Highli",
+        "zh": "来自 DotProperty 挂牌 d77d1cb0d81b-81de-8b82-e168-a7f6b089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty d77d1cb0d81b-81de-8b82-e168-a7f6b089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-maestro-03-ratchada-rama-9-din-daeng-bangkok_d77d1cb0d81b-81de-8b82-e168-a7f6b089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/p0FTRNv0VPUpG5tVRU3djfQb3zI/0x0/unit/6294537/image-may-28-2026-02-12-52-pm.png",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "d77d1cb0d81b-81de-8b82-e168-a7f6b089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-maestro-03-ratchada-rama-9-din-daeng-bangkok_d77d1cb0d81b-81de-8b82-e168-a7f6b089",
+      "source_url_hash": "3726bc056f6c02f2844025d2b896bf9d35cc1cab3b54db4c3c5ea8fcf652e222",
+      "duplicate_fingerprint": "34ff170a5ddfcae44187aecd56459a84211b684dc0477d0ab98d6564e571246a",
+      "soft_match_fingerprint": "7cdab2d0e201988e3a08de8b871177a631ac28d9e54a8a4c5d4822a2fde793db",
+      "_computed_fingerprint": "e19785553ef83126ddb4cbfefadb7d6d2e06301d14a7619a9bfbc815b9ccb8cc"
+    },
+    {
+      "external_ref": "dotproperty-56056f618541-65e1-5672-28b4-8dae2089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Maestro 03 Ratchada-Rama 9",
+        "zh": "1 Bedroom Condo for sale at Maestro 03 Ratchada-Rama 9",
+        "th": "1 Bedroom Condo for sale at Maestro 03 Ratchada-Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 34 sq.m., 3,600,000 THB. Source DotProperty #56056f618541-65e1-5672-28b4-8dae2089.",
+        "zh": "出售：1卧，34㎡，3,600,000 泰铢。来源 DotProperty #56056f618541-65e1-5672-28b4-8dae2089。",
+        "th": "ขาย: 1 นอน 34 ตร.ม. ราคา 3,600,000 บาท (DotProperty #56056f618541-65e1-5672-28b4-8dae2089)"
+      },
+      "description": {
+        "en": "🐶✨ คอนโดหรูใจกลางเมืองเดี้ดงฒ – Maestro 03 รัชดา-พระราม9 🏙️位於黃金地段的寵物友善公寓！ – Maestro 03 Ratchada–Rama 9 💰 ราคา / 價格： 4,690,000 บาท (เจ้าของาู聯合代理)4,690,000 泰銖 (由業主 –歡迎合作代理）📐 ขนาด / 尺寸： 33.5 ตร.ม。 – 1 ห้องนอน / 1 ห้องน้ำ (ชั้น 8 ตึก A)33.5 平方米。 – 1 間臥室 / 1 間浴室（A 樓 8 樓） ✅ เลี้ยงสัตว์ได้นนท ท์ได้น （ไม่修復）🛋️ เฟอร์ครบ / 家具齊全🏊‍♂️ สระว่า฀♂️ สระว่าิ♂ ซาวน่า / พื้นที่สัตว์เลี้ยงฎ ใกล้ MRT พระราม 9 / เซ็นทรัลพระราม 9 / ตลาดรถไฟรัาดรถไฟรัชดา 📌位置優越，靠近拉瑪中央地鐵拉瑪 9 號地鐵站9、火車夜市📞สนใจอิิ",
+        "zh": "来自 DotProperty 挂牌 56056f618541-65e1-5672-28b4-8dae2089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 56056f618541-65e1-5672-28b4-8dae2089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-maestro-03-ratchada-rama-9-din-daeng-bangkok_56056f618541-65e1-5672-28b4-8dae2089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/Zu8hyrzO4XcUlfhIvrblh_Ei2ks/0x0/unit/5606257/b2a82ac4b2de6c6507ca3bb75194d495.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "56056f618541-65e1-5672-28b4-8dae2089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-maestro-03-ratchada-rama-9-din-daeng-bangkok_56056f618541-65e1-5672-28b4-8dae2089",
+      "source_url_hash": "19da632f96fa3ec02e2ead4a2179bff81887b05aa1f148d24acb7cfcfef35850",
+      "duplicate_fingerprint": "2e12b2726f440e689dd9091456795e8015694cfff9546b5cf13d1eae5f140b05",
+      "soft_match_fingerprint": "58384e250764bd4bcc86a6670b133534cff9b6a9820086655132e4630f859f26",
+      "_computed_fingerprint": "093ef6c90f4120dc1c101b99708ae461c105495ecb21483ed37578a0f0e36038"
+    },
+    {
+      "external_ref": "dotproperty-4ed5b62ab239-79be-4012-ade8-d7e35089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Maestro 03 Ratchada-Rama 9",
+        "zh": "1 Bedroom Condo for sale at Maestro 03 Ratchada-Rama 9",
+        "th": "1 Bedroom Condo for sale at Maestro 03 Ratchada-Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 29 sq.m., 4,400,000 THB. Source DotProperty #4ed5b62ab239-79be-4012-ade8-d7e35089.",
+        "zh": "出售：1卧，29㎡，4,400,000 泰铢。来源 DotProperty #4ed5b62ab239-79be-4012-ade8-d7e35089。",
+        "th": "ขาย: 1 นอน 29 ตร.ม. ราคา 4,400,000 บาท (DotProperty #4ed5b62ab239-79be-4012-ade8-d7e35089)"
+      },
+      "description": {
+        "en": "Great city view~",
+        "zh": "来自 DotProperty 挂牌 4ed5b62ab239-79be-4012-ade8-d7e35089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 4ed5b62ab239-79be-4012-ade8-d7e35089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-maestro-03-ratchada-rama-9-din-daeng-bangkok_4ed5b62ab239-79be-4012-ade8-d7e35089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/wex7UcPIWeQRQMjhaq9Odh7s6I0/0x0/unit/631570/1-1.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "4ed5b62ab239-79be-4012-ade8-d7e35089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-maestro-03-ratchada-rama-9-din-daeng-bangkok_4ed5b62ab239-79be-4012-ade8-d7e35089",
+      "source_url_hash": "cebda4429ba0198dfe6002c798ed61b854e173a84fde13427fc40b75f054d61f",
+      "duplicate_fingerprint": "ecf2eb50a95ca945438b1a953372dc143e8a73c24f32f3e5c758b962785f5f85",
+      "soft_match_fingerprint": "530f1e3e17dd8e33a1db23b8bde37561e0af54caab67ed41998a8c2b0a01ef1d",
+      "_computed_fingerprint": "1191670eabedede99facad5c8230e5bbbfe490b950623bf13729b1403a1b151d"
+    },
+    {
+      "external_ref": "dotproperty-fb186b88f781-d39e-5e72-c204-6884a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Maestro 03 Ratchada-Rama 9",
+        "zh": "1 Bedroom Condo for rent at Maestro 03 Ratchada-Rama 9",
+        "th": "1 Bedroom Condo for rent at Maestro 03 Ratchada-Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 16,000 THB. Source DotProperty #fb186b88f781-d39e-5e72-c204-6884a089.",
+        "zh": "出租：1卧，30㎡，16,000 泰铢。来源 DotProperty #fb186b88f781-d39e-5e72-c204-6884a089。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 16,000 บาท (DotProperty #fb186b88f781-d39e-5e72-c204-6884a089)"
+      },
+      "description": {
+        "en": "Project: Maestro 03 Ratchada-Rama 9\nID: R30583\nType: 1Bed 1Bath \nSize: 30 sq.m.\nRent: 16,000 THB/month\n\nAdvance 1 month\nDeposit 2 months\nContract 1 year",
+        "zh": "来自 DotProperty 挂牌 fb186b88f781-d39e-5e72-c204-6884a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty fb186b88f781-d39e-5e72-c204-6884a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-maestro-03-ratchada-rama-9-din-daeng-bangkok_fb186b88f781-d39e-5e72-c204-6884a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzXC8wMTlmNTExMy01OTdkLTcyYjQtYjA2Yy04MTJhMTFlMzE4ZWFcLzAxOWY1MTEzLWUyODItNzBkMy1iNjM4LWExNmFhNDhmM2M4ZS5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "fb186b88f781-d39e-5e72-c204-6884a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-maestro-03-ratchada-rama-9-din-daeng-bangkok_fb186b88f781-d39e-5e72-c204-6884a089",
+      "source_url_hash": "f3a5253c05fbac05437493bf9d3b59148b4acb2c930dbf63bc6d663c631336cf",
+      "duplicate_fingerprint": "b408c889744a90bac7e3e20f3462fb526c06e9ac657ec731f1cc930f9ec4d160",
+      "soft_match_fingerprint": "8c5ec036e9c4311777a405ef2b32392be68c01eb8a77a397a98c525b86007254",
+      "_computed_fingerprint": "44156422c9e680cf80a34cadd3510a3e5ecb479f368ef5b2eab3f6abf2efade9"
+    },
+    {
+      "external_ref": "dotproperty-44667d0f1b60-2fc1-2d92-7239-0fe7e089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 42000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 74,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at Maestro 03 Ratchada-Rama 9",
+        "zh": "2 Bedroom Condo for rent at Maestro 03 Ratchada-Rama 9",
+        "th": "2 Bedroom Condo for rent at Maestro 03 Ratchada-Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 74 sq.m., 42,000 THB. Source DotProperty #44667d0f1b60-2fc1-2d92-7239-0fe7e089.",
+        "zh": "出租：2卧，74㎡，42,000 泰铢。来源 DotProperty #44667d0f1b60-2fc1-2d92-7239-0fe7e089。",
+        "th": "เช่า: 2 นอน 74 ตร.ม. ราคา 42,000 บาท (DotProperty #44667d0f1b60-2fc1-2d92-7239-0fe7e089)"
+      },
+      "description": {
+        "en": "\n- 2 Bedrooms, 2 Bathrooms, Private Balcony, Shared Living &amp; Kitchen Area\n\n\n- One bedroom with a wall bed that easily converts into a home office, one bedroom featured a walk-in closet.\n\n\n- Fully furnished with all essential electric appliances (electric lock, fridge, water heaters, microwave, induction stove, washing machine, TVs in both living room and bedroom)\n\n\n \n\n\nLocation Highlights:\n\n\n- 10 minutes walk to MRT Phra Ram 9\n\n\n- Win Bike service available front of the condo\n\n\n- Complimentary hourly shuttle runs daily\n\n\n- Less than 1 minute walk to 7-Eleven, pharmacies, local food vendors, restaurants, beauty salons, and more\n\n\n- Within 10 minutes' walk to Fortune Town (Lotus's), Central Rama 9 (Tops Food Hall), The Shoppes Mall, VFS Visa Center, Jodd Fairs (new and old), and the China Embassy.\n\n\n- Less than 5 minutes’ drive to Esplanade Mall, The Street Ratchada, HomePro, Big C Place,\n\n\n",
+        "zh": "来自 DotProperty 挂牌 44667d0f1b60-2fc1-2d92-7239-0fe7e089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 44667d0f1b60-2fc1-2d92-7239-0fe7e089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-maestro-03-ratchada-rama-9-din-daeng-bangkok_44667d0f1b60-2fc1-2d92-7239-0fe7e089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/Q4DuiM84DhJchi_4L49YxQPpEhE/0x0/unit/5934542/598807963-25343455671975292-7486105934846518985-n.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "44667d0f1b60-2fc1-2d92-7239-0fe7e089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-maestro-03-ratchada-rama-9-din-daeng-bangkok_44667d0f1b60-2fc1-2d92-7239-0fe7e089",
+      "source_url_hash": "01343a0daa97f153c3de3db61b02cd098447045885cd4382e4f00ce6009c4927",
+      "duplicate_fingerprint": "663f7a57a0016a4c1627945d903251ed4ea909c6752572d649f7f00acc7619c2",
+      "soft_match_fingerprint": "0463ba11ad515689af5a93a1fe666039eed0899de081178238193512bc14a18e",
+      "_computed_fingerprint": "5c9dae282340dec79bd19a3081d6c87fb94180cd46b1f19a810c5e36fd361301"
+    },
+    {
+      "external_ref": "dotproperty-cf3f6b347e1a-8cbf-3672-beae-c57bd089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Maestro 03 Ratchada-Rama 9",
+        "zh": "1 Bedroom Condo for rent at Maestro 03 Ratchada-Rama 9",
+        "th": "1 Bedroom Condo for rent at Maestro 03 Ratchada-Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 18,500 THB. Source DotProperty #cf3f6b347e1a-8cbf-3672-beae-c57bd089.",
+        "zh": "出租：1卧，30㎡，18,500 泰铢。来源 DotProperty #cf3f6b347e1a-8cbf-3672-beae-c57bd089。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 18,500 บาท (DotProperty #cf3f6b347e1a-8cbf-3672-beae-c57bd089)"
+      },
+      "description": {
+        "en": "This property is a 30 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the Maestro 03 Ratchada-Rama 9 project in Din Daeng, Bangkok and was completed in May 2018. You can rent this condo long term for ฿18,500 per month.",
+        "zh": "来自 DotProperty 挂牌 cf3f6b347e1a-8cbf-3672-beae-c57bd089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty cf3f6b347e1a-8cbf-3672-beae-c57bd089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-maestro-03-ratchada-rama-9-din-daeng-bangkok_cf3f6b347e1a-8cbf-3672-beae-c57bd089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/16eDsQsPJC9ddnEy51pQo_ONXZ4/0x0/unit/6101394/648731093-26565979479694527-1971587482851458755-n.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "cf3f6b347e1a-8cbf-3672-beae-c57bd089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-maestro-03-ratchada-rama-9-din-daeng-bangkok_cf3f6b347e1a-8cbf-3672-beae-c57bd089",
+      "source_url_hash": "c1e32c6f4dd4591b4fdb8f32b037caf55aca99628eae1edb91c07051385a23cd",
+      "duplicate_fingerprint": "ec93ae5b8e473eae2815a9e4b80857b8c0133201946cb8e53c3d8f282cc444f5",
+      "soft_match_fingerprint": "8c5ec036e9c4311777a405ef2b32392be68c01eb8a77a397a98c525b86007254",
+      "_computed_fingerprint": "146d745a4f56956ad58f1b808b3103774ec21cc791c7565ae24f92b3fb82231a"
+    }
+  ]
+}

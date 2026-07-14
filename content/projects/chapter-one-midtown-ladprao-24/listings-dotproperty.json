@@ -1,0 +1,335 @@
+{
+  "project_slug": "chapter-one-midtown-ladprao-24",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "2973",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=2973",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=2973",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-f2ae98190015-33a1-7092-c6b5-7ac3e089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6180000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 58,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Chapter One Midtown Ladprao 24",
+        "zh": "2 Bedroom Condo for sale at Chapter One Midtown Ladprao 24",
+        "th": "2 Bedroom Condo for sale at Chapter One Midtown Ladprao 24"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 58 sq.m., 6,180,000 THB. Source DotProperty #f2ae98190015-33a1-7092-c6b5-7ac3e089.",
+        "zh": "出售：2卧，58㎡，6,180,000 泰铢。来源 DotProperty #f2ae98190015-33a1-7092-c6b5-7ac3e089。",
+        "th": "ขาย: 2 นอน 58 ตร.ม. ราคา 6,180,000 บาท (DotProperty #f2ae98190015-33a1-7092-c6b5-7ac3e089)"
+      },
+      "description": {
+        "en": "Chapter One Midtown Ladprao 24 | Owner Sale\nSize: 58.44 sqmFloor: 9th floorView: City view, North\nA well-maintained corner unit at Chapter One Midtown Ladprao 24, offered directly by the owner.The unit features a 2-bedroom, 2-bathroom layout, providing good privacy, natural light, and comfortable living space.\nLocated just 2 minutes’ walk to MRT Ladprao and the Yellow [hidden line], offering excellent connectivity and daily convenience.\nPROPERTY HIGHLIGHTS\n• Corner unit – more privacy &amp; natural light• 2 Bedrooms | 2 Bathrooms• 58.44 sqm usable area• 9th floor with city view• Functional layout, airy and bright• Direct owner sale• Walk 2 minutes to MRT Ladprao &amp; Yellow [hidden line]• Infinity pool on 36th floor• Tennis court• Fitness center• Rooftop garden• Well-managed residential project\nNEARBY LOCATIONS\n(Approx. travel times)\n• MRT Ladprao – 2 min walk• Yellow [hidden line] – 2 min walk• Central Ladprao – 5 min• Union Mall – 5 min• Chatuchak Park – 10 min• Major Ratchayothin – 10 min• JJ Mall / JJ Green – 10 min• Vibhavadi-Rangsit Road – Easy access• Phahonyothin Road – Easy access• Don Mueang Airport – approx. 20–25 min\nSuitable for own stay or long-term investment",
+        "zh": "来自 DotProperty 挂牌 f2ae98190015-33a1-7092-c6b5-7ac3e089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty f2ae98190015-33a1-7092-c6b5-7ac3e089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_f2ae98190015-33a1-7092-c6b5-7ac3e089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/bwUVlRFC-jciMrtl8fHyAzmF5o4/0x0/unit/5952495/25681228-20.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "f2ae98190015-33a1-7092-c6b5-7ac3e089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_f2ae98190015-33a1-7092-c6b5-7ac3e089",
+      "source_url_hash": "72bbc75e30f1ee171df640c3e6bbd89d27e3fd0c310e9eaf2f634c44d932fe1c",
+      "duplicate_fingerprint": "30e53c708492e50ff61115b2a1b9793ebb9cd47647d7c96163265ea45cee35d3",
+      "soft_match_fingerprint": "781d477bfde45420de480fbc948e65d5ee3546c87ce21c0759d5dbb2f97daa4e",
+      "_computed_fingerprint": "291c6c634d10cbfc1762f9e094a15b7c4434af46dd7baf150cf5810184b0774f"
+    },
+    {
+      "external_ref": "dotproperty-ba0776719a0f-5c61-0b82-8408-697cb089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3990000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 32,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Chapter One Midtown Ladprao 24",
+        "zh": "1 Bedroom Condo for sale at Chapter One Midtown Ladprao 24",
+        "th": "1 Bedroom Condo for sale at Chapter One Midtown Ladprao 24"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 32 sq.m., 3,990,000 THB. Source DotProperty #ba0776719a0f-5c61-0b82-8408-697cb089.",
+        "zh": "出售：1卧，32㎡，3,990,000 泰铢。来源 DotProperty #ba0776719a0f-5c61-0b82-8408-697cb089。",
+        "th": "ขาย: 1 นอน 32 ตร.ม. ราคา 3,990,000 บาท (DotProperty #ba0776719a0f-5c61-0b82-8408-697cb089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 31.65 squaremeters, located on the 15th floor, at Chapter\nOne Midtown Ladprao24 building, in the popular Chatuchak district near MRT Ratchadaphisek. Please contact us to schedule a\nviewing.\n\nBuilding features:\n * Building completed in 2017\n * 24-hours security\n * Relaxing swimming pool\n * Security cameras\n * Tennis court\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 ba0776719a0f-5c61-0b82-8408-697cb089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty ba0776719a0f-5c61-0b82-8408-697cb089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_ba0776719a0f-5c61-0b82-8408-697cb089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZWQyMDMtMTk1MS03MWU5LTgzZDQtYTlmMDgyMzIyOWZlXC83M2NjOWYxMjEwMWI0NzQxNGJlNmIwYzE3ZWUwZWE0NDdkZmQ1YjFkMmNmNDhkZGY1ZDNmZjBmY2MwZDU4ZGYwLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "ba0776719a0f-5c61-0b82-8408-697cb089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_ba0776719a0f-5c61-0b82-8408-697cb089",
+      "source_url_hash": "bf5a3a24e3910edac9344c59ec6c4660444b5c9bac4e7958c251f9937c0cf0f0",
+      "duplicate_fingerprint": "1512a7474fe86a81200b237861e73fa65acce9d8706cbc3acac572033cf3fcf9",
+      "soft_match_fingerprint": "2f1153613d37168cdce38802a7a7339a3160811de02cf5af18c55feb93bd93b3",
+      "_computed_fingerprint": "e2b4a18cc506a0cd47ed1d46bdfd03ef87f62827245fc15d45a4e4a248252082"
+    },
+    {
+      "external_ref": "dotproperty-20b0479e25cb-0af1-09e2-b4e0-48fbc089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Chapter One Midtown Ladprao 24",
+        "zh": "1 Bedroom Condo for sale at Chapter One Midtown Ladprao 24",
+        "th": "1 Bedroom Condo for sale at Chapter One Midtown Ladprao 24"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 31 sq.m., 3,200,000 THB. Source DotProperty #20b0479e25cb-0af1-09e2-b4e0-48fbc089.",
+        "zh": "出售：1卧，31㎡，3,200,000 泰铢。来源 DotProperty #20b0479e25cb-0af1-09e2-b4e0-48fbc089。",
+        "th": "ขาย: 1 นอน 31 ตร.ม. ราคา 3,200,000 บาท (DotProperty #20b0479e25cb-0af1-09e2-b4e0-48fbc089)"
+      },
+      "description": {
+        "en": "Project : Chapter One Midtown Ladprao 24\nLocation area:  Ladprao , Chomphon , Chatuchak , Bangkok 96130\nGPS :  \nStation : MRT-Lat Phrao \nListing ID : CX-36471 \nFOR SELL : 3,200,000 ฿ \n\nProperty type : Condo \nNo of floors : 37 \nUsable area : 31.34 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \nSky Pool, salt system, size 19.8 x 5 meters\nSky Lounge\nSky Island\nSky Fitness\nSky Terrace\nSunken Bed\nSteam Room\nHome Theater\n\nNearby Facilities : \nBig C Lat Phrao: 600 meters\nTesco Lotus Ladprao: 2.7 km.\nCentral Plaza Ladprao: 2.5 km.\nUnion Mall: 1.4 km.\nUncle Market adds: 1.6 km.\nLum Night Ratchadaphisek: 400 meters\nBoonthavorn Ratchadaphisek: 1.5 km.\nChatuchak Weekend: 3.4 km.\nMajor Ratchayothin: 3.2 km.\nSCB PARK: 3.2 km.\n\nZone : \nLadprao, Central Ladprao, Viphavadee road \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished property \nCall: [hidden phone] \nE-Mail: [hidden email] \nFacebook: Connex Property \n[hidden line] @connexproperty \n Whatsapp: [hidden phone] \nWechat ID : wxid_idbemm7t5gbj22 \n[hidden ur",
+        "zh": "来自 DotProperty 挂牌 20b0479e25cb-0af1-09e2-b4e0-48fbc089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 20b0479e25cb-0af1-09e2-b4e0-48fbc089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_20b0479e25cb-0af1-09e2-b4e0-48fbc089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZGVhMTUtOWI1ZS03YjA5LThhZjktZWQ0N2IwMjU5ZTk3XC9kMGVmNjY2NWE2Y2YzZmZkNGRjNDhmMjc3OTZmOGMxODc4MTYyM2U5MjBjNzYzOWYyYTkzOTA5ZWIwM2RjN2FlLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "20b0479e25cb-0af1-09e2-b4e0-48fbc089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_20b0479e25cb-0af1-09e2-b4e0-48fbc089",
+      "source_url_hash": "2e1468ea2604c385c068fd2e7b85984f30a31bf43300d35e653688cca87e8333",
+      "duplicate_fingerprint": "17fbb696dcaca789e936287424074e64780c620306eb669ef208fa53d462f801",
+      "soft_match_fingerprint": "83dfd42c87a0f8bc513a6f7138b247f5f099b671c2282696cddf493c451298d1",
+      "_computed_fingerprint": "8a74a0202a680895eacbd5a9364ca2e18cb23908ea88836de72f0e7b89e5b2c9"
+    },
+    {
+      "external_ref": "dotproperty-36566aab6066-0d2e-5822-c5e6-4d74a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 39,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Chapter One Midtown Ladprao 24",
+        "zh": "1 Bedroom Condo for rent at Chapter One Midtown Ladprao 24",
+        "th": "1 Bedroom Condo for rent at Chapter One Midtown Ladprao 24"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 39 sq.m., 22,000 THB. Source DotProperty #36566aab6066-0d2e-5822-c5e6-4d74a089.",
+        "zh": "出租：1卧，39㎡，22,000 泰铢。来源 DotProperty #36566aab6066-0d2e-5822-c5e6-4d74a089。",
+        "th": "เช่า: 1 นอน 39 ตร.ม. ราคา 22,000 บาท (DotProperty #36566aab6066-0d2e-5822-c5e6-4d74a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 39 squaremeters, located on the 23rd floor, at Chapter\nOne Midtown Ladprao24 building, in the popular Chatuchak district near MRT Ratchadaphisek. Please contact us to schedule a\nviewing.\n\nUnit amenities:\n * Microwave\n * Refrigerator\n\nBuilding features:\n * Building completed in 2017\n * Security cameras\n * Covered car park\n * Parking space available\n * Gym\n * Open car park\n * 24-hours security\n * Relaxing swimming pool\n * Tennis court\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 36566aab6066-0d2e-5822-c5e6-4d74a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 36566aab6066-0d2e-5822-c5e6-4d74a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_36566aab6066-0d2e-5822-c5e6-4d74a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjUyYzUtM2I0ZC03NzE0LWI3YzktMzM5M2VmZjMzNDM2XC82MWY0ZjkzZGRmMDU0N2UxZjAyOTkyZTAyM2RiNGUwY2ZlMWQ2YWI1OTk5ZTIzNjQ5ZDQ5MGZjN2NlNzQzOGE3LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "36566aab6066-0d2e-5822-c5e6-4d74a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_36566aab6066-0d2e-5822-c5e6-4d74a089",
+      "source_url_hash": "65103ed907d4b69e912a6436444e6e7f8eeb61ccf349d1f337e88a6bfe71d750",
+      "duplicate_fingerprint": "be3b5760c12c77333eb63a65888dbcf03d60b11d19c5844ef63ebcb5f748eecd",
+      "soft_match_fingerprint": "465c7376f6040413ff81826a42ef4ab663a1d8f7ceb1c35e2fbcda84d7ab4470",
+      "_computed_fingerprint": "1e7b254ba567aef9bc6361063bb4e8ea4bc88c4609ffac882ef83b299e0aced9"
+    },
+    {
+      "external_ref": "dotproperty-b4172f80e3ec-ea60-1902-c89b-fafd3089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "Studio Condo for rent at Chapter One Midtown Ladprao 24",
+        "zh": "Studio Condo for rent at Chapter One Midtown Ladprao 24",
+        "th": "Studio Condo for rent at Chapter One Midtown Ladprao 24"
+      },
+      "summary": {
+        "en": "Rent: 0BR, 24 sq.m., 12,000 THB. Source DotProperty #b4172f80e3ec-ea60-1902-c89b-fafd3089.",
+        "zh": "出租：0卧，24㎡，12,000 泰铢。来源 DotProperty #b4172f80e3ec-ea60-1902-c89b-fafd3089。",
+        "th": "เช่า: 0 นอน 24 ตร.ม. ราคา 12,000 บาท (DotProperty #b4172f80e3ec-ea60-1902-c89b-fafd3089)"
+      },
+      "description": {
+        "en": "This property is a 24 SqM studio condo with 1 bathroom that is available for rent. It is part of the Chapter One Midtown Ladprao 24 project in Chomphon, Bangkok and was completed in May 2017. You can rent this condo long term for ฿12,000 per month.",
+        "zh": "来自 DotProperty 挂牌 b4172f80e3ec-ea60-1902-c89b-fafd3089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty b4172f80e3ec-ea60-1902-c89b-fafd3089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/condo-for-rent-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_b4172f80e3ec-ea60-1902-c89b-fafd3089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/oQAoFek6IRSTDb0bmpxFqT5goOA/0x0/unit/5368301/screenshot-2025-05-13-at-115154.png",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "b4172f80e3ec-ea60-1902-c89b-fafd3089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/condo-for-rent-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_b4172f80e3ec-ea60-1902-c89b-fafd3089",
+      "source_url_hash": "c7877c8c0f561744bbf8ae0540ab1777dc6d629e73205ea5a01455e208683a60",
+      "duplicate_fingerprint": "381b04770630c2742b45f6e2646aa825d15452d9b48b8df03091e8e8142bc73e",
+      "soft_match_fingerprint": "13516ea0e24d07f4c12ae450efe01c645228695bbd8c71d6feb24f99c4e2ea6d",
+      "_computed_fingerprint": "31b0bc0be955e5c71ac2a45af8f630f581f6e882304fb413ecf57ea1b90d5d74"
+    },
+    {
+      "external_ref": "dotproperty-0c77fb5ab088-ad4f-9272-4c94-8856a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "lat-phrao",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Chapter One Midtown Ladprao 24",
+        "zh": "1 Bedroom Condo for rent at Chapter One Midtown Ladprao 24",
+        "th": "1 Bedroom Condo for rent at Chapter One Midtown Ladprao 24"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 15,000 THB. Source DotProperty #0c77fb5ab088-ad4f-9272-4c94-8856a089.",
+        "zh": "出租：1卧，30㎡，15,000 泰铢。来源 DotProperty #0c77fb5ab088-ad4f-9272-4c94-8856a089。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 15,000 บาท (DotProperty #0c77fb5ab088-ad4f-9272-4c94-8856a089)"
+      },
+      "description": {
+        "en": "Project : Chapter One Midtown Ladprao 24\nLocation area:  Ladprao , Chomphon , Chatuchak , Bangkok 96130\nGPS :  \nStation : MRT-Lat Phrao \nListing ID : CX-80921 \nFOR RENT : 15,000 ฿ \n\nProperty type : Condo \nNo of floors : 37 \nUsable area : 30 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \nSky Pool, salt system, size 19.8 x 5 meters\nSky Lounge\nSky Island\nSky Fitness\nSky Terrace\nSunken Bed\nSteam Room\nHome Theater\n\nNearby Facilities : \nBig C Lat Phrao: 600 meters\nTesco Lotus Ladprao: 2.7 km.\nCentral Plaza Ladprao: 2.5 km.\nUnion Mall: 1.4 km.\nUncle Market adds: 1.6 km.\nLum Night Ratchadaphisek: 400 meters\nBoonthavorn Ratchadaphisek: 1.5 km.\nChatuchak Weekend: 3.4 km.\nMajor Ratchayothin: 3.2 km.\nSCB PARK: 3.2 km.\n\nZone : \nLadprao, Central Ladprao, Viphavadee road \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished property \nCall: [hidden phone] \nE-Mail: [hidden email] \nFacebook: Connex Property \n[hidden line] @connexproperty \n Whatsapp: [hidden phone] \nWechat ID : wxid_idbemm7t5gbj22 \n[hidden url] \nup",
+        "zh": "来自 DotProperty 挂牌 0c77fb5ab088-ad4f-9272-4c94-8856a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 0c77fb5ab088-ad4f-9272-4c94-8856a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_0c77fb5ab088-ad4f-9272-4c94-8856a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjM0MTEtNTBkNS03MjcwLWE1Y2YtMTE5ZWY0ZWEyMmQ5XC82MjkzODc2MjA1NWU4OTNmMGU2ODE0YmI2MTVjYTIxMDE1MDkzMmViMGY5N2JhMWQxMmQ1Mzg0MzMzYWI0YmIzLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "0c77fb5ab088-ad4f-9272-4c94-8856a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_0c77fb5ab088-ad4f-9272-4c94-8856a089",
+      "source_url_hash": "8b84f053582f9b2fad2439febe7c919dffdf5a76b84d2b2aeaa44f8fdba39449",
+      "duplicate_fingerprint": "0eb8dcdca040c3f98984467356af55a5d172158589208d76f71bbe99a77f816a",
+      "soft_match_fingerprint": "5ee2016792c0417059774a30ce0ea7f60890425bd82875b9549a24fbafcf0278",
+      "_computed_fingerprint": "02a1731965836396bb9309c8fa4d1d740fbd9b1d48cd08fadeaf5a1e2ad72d28"
+    }
+  ]
+}

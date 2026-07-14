@@ -1,0 +1,335 @@
+{
+  "project_slug": "life-asoke-rama-9",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "12628",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=12628",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=12628",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-e73ef2df0216-f2f0-e182-eb19-57bdc089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4040000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Life Asoke Rama 9",
+        "zh": "1 Bedroom Condo for sale at Life Asoke Rama 9",
+        "th": "1 Bedroom Condo for sale at Life Asoke Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 4,040,000 THB. Source DotProperty #e73ef2df0216-f2f0-e182-eb19-57bdc089.",
+        "zh": "出售：1卧，35㎡，4,040,000 泰铢。来源 DotProperty #e73ef2df0216-f2f0-e182-eb19-57bdc089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 4,040,000 บาท (DotProperty #e73ef2df0216-f2f0-e182-eb19-57bdc089)"
+      },
+      "description": {
+        "en": "This 1-bedroom condo at Life Asoke Rama 9 offers a rare mix of lifestyle comfort, strong rental appeal, and investment value in Bangkok’s fast-growing Rama 9 New CBD. With an existing tenant at ฿23,000/month and a current ROI of approximately 5.63%, this unit is ideal for buyers who want income potential from day one.\nWhy This Unit Stands Out\n\nApproximately 21.66% below market price, making it a highly attractive entry point\nCurrently tenanted at ฿23,000/month with around 5.63% ROI\nSpacious 35.49 sqm 1-bedroom layout, practical and comfortable for city living\n8th floor with forest, nature, and garden views for a calmer urban atmosphere\nWell maintained, move-in ready, and finished in a modern minimalist style\n\nProperty Details\n\n1 Bedroom | 1 Bathroom | 8th Floor | 35.49 sqm\nThe unit features a balcony, bathroom, kitchen, laundry/utility area, microwave, washing machine, TV, warm and cool white lighting, recessed lighting, painted plaster walls, wood accents, premium finishing, and excellent natural light.\nThe layout feels clean, modern, and easy to live in or rent out.\n\nIdeal ForPerfect for investors seeking immediate rental income, professionals working around Rama 9, Asoke, and Ph",
+        "zh": "来自 DotProperty 挂牌 e73ef2df0216-f2f0-e182-eb19-57bdc089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty e73ef2df0216-f2f0-e182-eb19-57bdc089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-asoke-rama-9-makkasan-bangkok_e73ef2df0216-f2f0-e182-eb19-57bdc089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/5hLZ5VeAMijRrd4tg5UFVO409Tc/0x0/unit/6213788/img-9363.JPG",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "e73ef2df0216-f2f0-e182-eb19-57bdc089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-asoke-rama-9-makkasan-bangkok_e73ef2df0216-f2f0-e182-eb19-57bdc089",
+      "source_url_hash": "ce23018e11960938fdb4b659be350c86b4847848586fdef195a90d595d8fcda2",
+      "duplicate_fingerprint": "f23ca6396d5ffcb83cfb5c326be0da792694f34765dde93ced7cdd70a5bda60d",
+      "soft_match_fingerprint": "88b48ac71b97d7297177af938463bd86f8e7f9d076e9e9eca42a8502ea4e5b69",
+      "_computed_fingerprint": "3634e56d936b189c9f67fc74009b3d419f0a56d31194801c81059b3bbbc47fc3"
+    },
+    {
+      "external_ref": "dotproperty-b871f30b3f4d-7890-4002-f08d-adf4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3390000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Life Asoke Rama 9",
+        "zh": "1 Bedroom Condo for sale at Life Asoke Rama 9",
+        "th": "1 Bedroom Condo for sale at Life Asoke Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 28 sq.m., 3,390,000 THB. Source DotProperty #b871f30b3f4d-7890-4002-f08d-adf4a089.",
+        "zh": "出售：1卧，28㎡，3,390,000 泰铢。来源 DotProperty #b871f30b3f4d-7890-4002-f08d-adf4a089。",
+        "th": "ขาย: 1 นอน 28 ตร.ม. ราคา 3,390,000 บาท (DotProperty #b871f30b3f4d-7890-4002-f08d-adf4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 27.95 squaremeters, located on the 8th floor, at Life\nAsoke - Rama 9 building, in the popular Ratchathewi district near MRT Phra Ram 9 and near ARL Makkasan. Please contact us to\nschedule a viewing.\n\nUnit amenities:\n * Balcony\n * Microwave\n * Refrigerator\n * Stove\n * TV\n\nBuilding features:\n * Building completed in 2020\n * Security cameras\n * Convenience store closeby\n * Covered car park\n * Parking space available\n * Beautiful garden area on premise\n * Gym\n * Fun swimming pool for kids\n * Open car park\n * 24-hours security\n * Relaxing swimming pool\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone:",
+        "zh": "来自 DotProperty 挂牌 b871f30b3f4d-7890-4002-f08d-adf4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty b871f30b3f4d-7890-4002-f08d-adf4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-asoke-rama-9-makkasan-bangkok_b871f30b3f4d-7890-4002-f08d-adf4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVhY2YtYzE5YS03OTk1LTkwMTItYzVhNmU5NmE4MjFlXC8xNTVmYzA2MDRhMGY5MTFlZTZhZWU4ZTE5NmRhNWM0Yjg2MDcwMDM0NDJkNjc1NDhlYWJlODFlZTNhN2ViYTY2LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "b871f30b3f4d-7890-4002-f08d-adf4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-asoke-rama-9-makkasan-bangkok_b871f30b3f4d-7890-4002-f08d-adf4a089",
+      "source_url_hash": "63fcb43b7cbfe1199246d33f0d6155296615dbd7d11c3d7f5eea6c815c762761",
+      "duplicate_fingerprint": "b575b7e9578869dcbe44f265c58e9a57aff98619423e361394de21cbb4933bbf",
+      "soft_match_fingerprint": "6e03e903dc232eb10bd027f633bd311681d27bfd1de2e0d82ae6fbfa00f0e163",
+      "_computed_fingerprint": "67e56aa9e8019aa9a955c46bb0841f31e2c48b11a63ea4ff44839e7709b21c56"
+    },
+    {
+      "external_ref": "dotproperty-1d4997548372-fcef-7352-4d1e-daa4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Life Asoke Rama 9",
+        "zh": "1 Bedroom Condo for sale at Life Asoke Rama 9",
+        "th": "1 Bedroom Condo for sale at Life Asoke Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 33 sq.m., 4,500,000 THB. Source DotProperty #1d4997548372-fcef-7352-4d1e-daa4a089.",
+        "zh": "出售：1卧，33㎡，4,500,000 泰铢。来源 DotProperty #1d4997548372-fcef-7352-4d1e-daa4a089。",
+        "th": "ขาย: 1 นอน 33 ตร.ม. ราคา 4,500,000 บาท (DotProperty #1d4997548372-fcef-7352-4d1e-daa4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 33 squaremeters, located on the 12A floor, at Life Asoke\n- Rama 9 building, in the popular Ratchathewi district near MRT Phra Ram 9 and near ARL Makkasan. Please contact us to schedule a\nviewing.\n\nBuilding features:\n * Building completed in 2020\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n * Running track\n * Steam room\n * BBQ area\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 1d4997548372-fcef-7352-4d1e-daa4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 1d4997548372-fcef-7352-4d1e-daa4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-asoke-rama-9-makkasan-bangkok_1d4997548372-fcef-7352-4d1e-daa4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVmZmMtYjhjNS03NDYyLWFiZGEtNzI2MTU0MjAwNWM4XC85OTcyOTUzOGQ4NmU0MDZiZGQzYWQ4NzI5ZDU4YjM0ZWZkY2Q0YTcyYzIwM2EyNTA2ZGQ4N2FhYTUzY2ZlZjg0LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1d4997548372-fcef-7352-4d1e-daa4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-asoke-rama-9-makkasan-bangkok_1d4997548372-fcef-7352-4d1e-daa4a089",
+      "source_url_hash": "043cd6433084d730ea2a5f6acea26b58505c521ece3627a979c9814c14d08b52",
+      "duplicate_fingerprint": "dc2a336c6270188dbf153d49cafc5fdd2f428713ce436ab2b92b6889e9c83cf8",
+      "soft_match_fingerprint": "47de1ad99d478ec475af67eacce2d14b4a30fba1445afe207e207323d004eaaa",
+      "_computed_fingerprint": "1c1143d1ee3b57cc08213512b1b561510f8283d45b9233d41d71835908dcb4d0"
+    },
+    {
+      "external_ref": "dotproperty-4ab078254a0f-6dc0-fb72-9f22-ddab6089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 21000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Life Asoke Rama 9",
+        "zh": "1 Bedroom Condo for rent at Life Asoke Rama 9",
+        "th": "1 Bedroom Condo for rent at Life Asoke Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 36 sq.m., 21,000 THB. Source DotProperty #4ab078254a0f-6dc0-fb72-9f22-ddab6089.",
+        "zh": "出租：1卧，36㎡，21,000 泰铢。来源 DotProperty #4ab078254a0f-6dc0-fb72-9f22-ddab6089。",
+        "th": "เช่า: 1 นอน 36 ตร.ม. ราคา 21,000 บาท (DotProperty #4ab078254a0f-6dc0-fb72-9f22-ddab6089)"
+      },
+      "description": {
+        "en": "This property is a 35.98 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the Life Asoke Rama 9 project in Makkasan, Bangkok and was completed in Jan 2020. You can rent this condo long term for ฿21,000 per month.",
+        "zh": "来自 DotProperty 挂牌 4ab078254a0f-6dc0-fb72-9f22-ddab6089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 4ab078254a0f-6dc0-fb72-9f22-ddab6089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-asoke-rama-9-makkasan-bangkok_4ab078254a0f-6dc0-fb72-9f22-ddab6089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/RCAlKEkiVO75WOvTY-Jq3vJZ0_g/0x0/unit/642284/life-asoke-rama-9-1-bedroom-u642284-02232021-115241.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "4ab078254a0f-6dc0-fb72-9f22-ddab6089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-asoke-rama-9-makkasan-bangkok_4ab078254a0f-6dc0-fb72-9f22-ddab6089",
+      "source_url_hash": "364d93c9e126212498a4147e751bf104046675687a44225bd090e3dd6d0fac45",
+      "duplicate_fingerprint": "7a94d19a2c9fa6eee07fc49ce06e03bdab58f500c629c7e2b24863d6051afcbc",
+      "soft_match_fingerprint": "e7424c7641dd08a949095ac447aeb6abf0a7a6c5f66376250c0b1fc6dfebad66",
+      "_computed_fingerprint": "8b3ab9d78323ecedab43fd9212aef48cd18640b4c944b30722cff5e5981da5fa"
+    },
+    {
+      "external_ref": "dotproperty-23912322a2d0-5f7e-3402-1349-38c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 41,
+      "floor_label": "34",
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Life Asoke Rama 9",
+        "zh": "1 Bedroom Condo for rent at Life Asoke Rama 9",
+        "th": "1 Bedroom Condo for rent at Life Asoke Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 41 sq.m., 23,000 THB. Source DotProperty #23912322a2d0-5f7e-3402-1349-38c4a089.",
+        "zh": "出租：1卧，41㎡，23,000 泰铢。来源 DotProperty #23912322a2d0-5f7e-3402-1349-38c4a089。",
+        "th": "เช่า: 1 นอน 41 ตร.ม. ราคา 23,000 บาท (DotProperty #23912322a2d0-5f7e-3402-1349-38c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 41 squaremeters, located on the 34th floor, at Life Asoke\n- Rama 9 building, in the popular Ratchathewi district near MRT Phra Ram 9 and near ARL Makkasan. Please contact us to schedule a\nviewing.\n\nBuilding features:\n * Building completed in 2020\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n * Running track\n * Steam room\n * BBQ area\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 23912322a2d0-5f7e-3402-1349-38c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 23912322a2d0-5f7e-3402-1349-38c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-asoke-rama-9-makkasan-bangkok_23912322a2d0-5f7e-3402-1349-38c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTYtMDU2OC03OTU2LWIyYTQtOWM3Zjc3Njc4MDY3XC8yZmNhMzdjMmJmMmJiNmU4ZWE3NTc5ZGFiMmZiYjk5MWU2Mjk2YjMxMWNiM2Q0MTc3MTM5OWZhZTAyYzMzNjQ1LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "23912322a2d0-5f7e-3402-1349-38c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-asoke-rama-9-makkasan-bangkok_23912322a2d0-5f7e-3402-1349-38c4a089",
+      "source_url_hash": "7439a672331c335b963f850c48e7b3b8a768b7c01a60e95cb1cb90ba70699f3d",
+      "duplicate_fingerprint": "188ce17fd4cf98e963ada936bee59d49feb37f9ae6e1c1d029eead457336d0c0",
+      "soft_match_fingerprint": "15f74605212d3bac2d036682d6d5047f64eef7f06cba36e61d0764202b68991b",
+      "_computed_fingerprint": "f4ee016eb815f98d858abf95c6dc347ae6f8bd073e7027af02188098e9f20d7e"
+    },
+    {
+      "external_ref": "dotproperty-68efc322b459-ca1e-9922-d495-b3c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "life-asoke-rama-9",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Life Asoke Rama 9",
+        "zh": "1 Bedroom Condo for rent at Life Asoke Rama 9",
+        "th": "1 Bedroom Condo for rent at Life Asoke Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 25,000 THB. Source DotProperty #68efc322b459-ca1e-9922-d495-b3c4a089.",
+        "zh": "出租：1卧，35㎡，25,000 泰铢。来源 DotProperty #68efc322b459-ca1e-9922-d495-b3c4a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 25,000 บาท (DotProperty #68efc322b459-ca1e-9922-d495-b3c4a089)"
+      },
+      "description": {
+        "en": "Project : Life Asoke Hype Rama 9\nLocation area:  Chaturathit , Makkasan , Rat Thewi , Bangkok 10400\nGPS :  \nStation : MRT-Phra Ram 9 \nListing ID : CX-131207 \nFOR RENT : 25,000 ฿ \n\nProperty type : Condo \nNo of floors : 40 \nUsable area : 35 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\n\n Other details : \nEnclosed kitchen, high floor, beautiful view, four-way street - no buildings blocking the view. Appliances:\nAir conditioner, refrigerator, microwave, water heater, washing machine, TV (Netflix, YouTube).\nFurniture : \n-Fully furnished\nCommon Facilities : \nThe circle running garden\nScarlet foyer\nEclectic lobby\nHover bay\nThe muted garden\nAthletic sky atrium\nL-shape sky pool\nTop of the hype\nLunar balcony\nThe astro deck\nMirage sky path\nThe forestier\nSunset parlor\n\nNearby Facilities : \nSon Intersection Rama 9 (Ratchadapisek Road)\nFortune Town: 650 m.\nYu Charoen Market: 700 m.\nCentral Rama9: 750 m.\nThe Grand Rama 9: 1.1 km.\nEsplanade Cineplex: 1.8 km.\nTrain Night Market Ratchada: 1.9 km.\nThe Street Ratchada: 2.3 km.\nSiam Niramit: 3.1 km.\nThe Grand Rama9: 600 m.\nChamnan Phenchat Building 950 m.\nPakin Building: 1.2 km.\nMCOT (MCOT) : 1.7 km.\nTrue To",
+        "zh": "来自 DotProperty 挂牌 68efc322b459-ca1e-9922-d495-b3c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 68efc322b459-ca1e-9922-d495-b3c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-asoke-rama-9-makkasan-bangkok_68efc322b459-ca1e-9922-d495-b3c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkNmUtNDA1Yy03NzAwLWI4ZmQtMDQ1ZTc3NmRhYjEzXC9lZTgzNDc3YmM5MmM3NDM1MzQxYTNiYjg5Y2MzOTBjY2M2YzI5NzEwYjY3ZGJjYzQyNjNjOTFhMWIxYjkzNzQyLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "68efc322b459-ca1e-9922-d495-b3c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-asoke-rama-9-makkasan-bangkok_68efc322b459-ca1e-9922-d495-b3c4a089",
+      "source_url_hash": "6c2e79cf8e532773c035bc5d58547cf58f3501175349dc3f7409d933b3e10f2a",
+      "duplicate_fingerprint": "13475a587d4e084c00bcd6e624700c2c269ef40166e9601fe0476a0c6a032aa0",
+      "soft_match_fingerprint": "b4143a2762e1df0e755cf3d0a9bfc005bd0c1df98898a7e3670b1506b595b953",
+      "_computed_fingerprint": "7b58445986ab37b23ec42b54dff1e87afa7488dffdf8bd0552247ea066a7148b"
+    }
+  ]
+}

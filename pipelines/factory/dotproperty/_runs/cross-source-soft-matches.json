@@ -1,0 +1,583 @@
+{
+  "generated_at": "2026-07-14T16:27:34.698Z",
+  "dotproperty_listings": 192,
+  "propertyhub_listings": 617,
+  "livinginsider_listings": 316,
+  "candidate_pairs": 26,
+  "candidates": [
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-ac4670d5b4eb-c8be-cdd2-3490-9cf4a089",
+        "source_listing_id": "ac4670d5b4eb-c8be-cdd2-3490-9cf4a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ashton-asoke-khlong-toei-nuea-bangkok_ac4670d5b4eb-c8be-cdd2-3490-9cf4a089",
+        "price_thb": 24000,
+        "project_slug": "ashton-asoke"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6144633",
+        "source_listing_id": "6144633",
+        "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-ashton-asoke-near-mrt-sukhumvit-id-2991610--a6a7092e---6144633",
+        "price_thb": 27000,
+        "project_slug": "ashton-asoke"
+      },
+      "soft_match_fingerprint": "4e6ff056225929e33ada51300f8671d008d339a915f381358b1502409217fade",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-b04dff432ca6-f28e-9902-41b6-4395b089",
+        "source_listing_id": "b04dff432ca6-f28e-9902-41b6-4395b089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_b04dff432ca6-f28e-9902-41b6-4395b089",
+        "price_thb": 2890000,
+        "project_slug": "casa-condo-asoke-dindaeng"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-5805494",
+        "source_listing_id": "5805494",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-casa-condo-asoke-dindaeng-building-floor-25-1-bed-room-room-size-35-sqm---5805494",
+        "price_thb": 2799000,
+        "project_slug": "casa-condo-asoke-dindaeng"
+      },
+      "soft_match_fingerprint": "c8451275779e0210b220b1b989a0d5e39588b5347579197ef4f1eb79b23c44e4",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-36566aab6066-0d2e-5822-c5e6-4d74a089",
+        "source_listing_id": "36566aab6066-0d2e-5822-c5e6-4d74a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-chapter-one-midtown-ladprao-24-chomphon-bangkok_36566aab6066-0d2e-5822-c5e6-4d74a089",
+        "price_thb": 22000,
+        "project_slug": "chapter-one-midtown-ladprao-24"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6147877",
+        "source_listing_id": "6147877",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-chapter-one-midtown-ladprao-24-bts-ha-yaek-lat-phrao-chomphon-chatuchak-bangkok-cx-36529-live-chat-with-us-add-line-connexproperty---6147877",
+        "price_thb": 20000,
+        "project_slug": "chapter-one-midtown-ladprao-24"
+      },
+      "soft_match_fingerprint": "465c7376f6040413ff81826a42ef4ab663a1d8f7ceb1c35e2fbcda84d7ab4470",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-3a573ceef84d-1f8e-e162-ff00-62d7a089",
+        "source_listing_id": "3a573ceef84d-1f8e-e162-ff00-62d7a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-kave-town-space-khlong-nueng-pathum-thani_3a573ceef84d-1f8e-e162-ff00-62d7a089",
+        "price_thb": 2050000,
+        "project_slug": "kave-town-space"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6197332",
+        "source_listing_id": "6197332",
+        "listing_url": "https://propertyhub.in.th/en/listings/1-br-25-sqm-condo-for-sale-at-kave-town-space-pathum-thani-id-3011943---6197332",
+        "price_thb": 2050000,
+        "project_slug": "kave-town-space"
+      },
+      "soft_match_fingerprint": "ed326268d874215e3c11609f9d2e4eefdccce608f1ed17a299380602649f4908",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-7200ac15a00e-21b0-03c2-e2f4-58c4a089",
+        "source_listing_id": "7200ac15a00e-21b0-03c2-e2f4-58c4a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_7200ac15a00e-21b0-03c2-e2f4-58c4a089",
+        "price_thb": 28000,
+        "project_slug": "knightsbridge-prime-sathorn"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6057660",
+        "source_listing_id": "6057660",
+        "listing_url": "https://propertyhub.in.th/en/listings/condo-for-rent-near-bts-chong-nonsi-knightsbridge-prime-sathorn-1-bedroom-duplex-city-view-near-empire-tower---6057660",
+        "price_thb": 28000,
+        "project_slug": "knightsbridge-prime-sathorn"
+      },
+      "soft_match_fingerprint": "ee9f0f06f658d2bf19689404b0227077ff9f3271de57d756952b71890e85666c",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "livinginsider",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-525db81d82ec-6031-6282-e969-98c4a089",
+        "source_listing_id": "525db81d82ec-6031-6282-e969-98c4a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-ladprao-chomphon-bangkok_525db81d82ec-6031-6282-e969-98c4a089",
+        "price_thb": 23000,
+        "project_slug": "life-ladprao"
+      },
+      "other": {
+        "source": "livinginsider",
+        "external_ref": "livinginsider-2989251",
+        "source_listing_id": "2989251",
+        "listing_url": "https://www.livinginsider.com/re/en_2989251",
+        "price_thb": 21000,
+        "project_slug": "life-ladprao"
+      },
+      "soft_match_fingerprint": "c363c088dd2ea5ae2b07496ba2b4802ee34a1fb88c4f6857765664b925a6f589",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-93aca8ed9354-c06e-a702-39ef-0194a089",
+        "source_listing_id": "93aca8ed9354-c06e-a702-39ef-0194a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-noble-revolve-ratchada-huai-khwang-bangkok_93aca8ed9354-c06e-a702-39ef-0194a089",
+        "price_thb": 10700000,
+        "project_slug": "noble-revolve-ratchada"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6217064",
+        "source_listing_id": "6217064",
+        "listing_url": "https://propertyhub.in.th/en/listings/room-for-sale-at-noble-revolve-ratchada-6572745---6217064",
+        "price_thb": 10400000,
+        "project_slug": "noble-revolve-ratchada"
+      },
+      "soft_match_fingerprint": "36ca259deee7dd29ef82fb2a94531628486d961f09cd93d2690f21bdcb6e7f20",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-fddb76ddb67e-e510-2192-de2e-03b6c089",
+        "source_listing_id": "fddb76ddb67e-e510-2192-de2e-03b6c089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_fddb76ddb67e-e510-2192-de2e-03b6c089",
+        "price_thb": 10416000,
+        "project_slug": "rhythm-ekkamai"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6166444",
+        "source_listing_id": "6166444",
+        "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-rhythm-ekkamai-near-bts-ekkamai-id-2594704---6166444",
+        "price_thb": 10000000,
+        "project_slug": "rhythm-ekkamai"
+      },
+      "soft_match_fingerprint": "57d80ba9f2b3ab403e11d38f1b43abe1bd046dd48ac172789ec879f72e0243e8",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-fddb76ddb67e-e510-2192-de2e-03b6c089",
+        "source_listing_id": "fddb76ddb67e-e510-2192-de2e-03b6c089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_fddb76ddb67e-e510-2192-de2e-03b6c089",
+        "price_thb": 10416000,
+        "project_slug": "rhythm-ekkamai"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6169535",
+        "source_listing_id": "6169535",
+        "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-rhythm-ekkamai-near-bts-ekkamai-id-3028098---6169535",
+        "price_thb": 10416000,
+        "project_slug": "rhythm-ekkamai"
+      },
+      "soft_match_fingerprint": "57d80ba9f2b3ab403e11d38f1b43abe1bd046dd48ac172789ec879f72e0243e8",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-8b5c8dc066bd-cce0-0d62-0025-8fc5a089",
+        "source_listing_id": "8b5c8dc066bd-cce0-0d62-0025-8fc5a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_8b5c8dc066bd-cce0-0d62-0025-8fc5a089",
+        "price_thb": 32000,
+        "project_slug": "rhythm-ekkamai"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6147778",
+        "source_listing_id": "6147778",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-rhythm-ekkamai-high-floor-bts-ekkamai-khlong-tan-nuea-watthana-bangkok-cx-159521-live-chat-with-us-add-line-connexproperty---6147778",
+        "price_thb": 32000,
+        "project_slug": "rhythm-ekkamai"
+      },
+      "soft_match_fingerprint": "eb18d4b7f315b43b95d2e894ffb96c340d4231c6927a0f886fd9073ea54fa140",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-922bf339555c-8c01-3542-e4b0-4215a089",
+        "source_listing_id": "922bf339555c-8c01-3542-e4b0-4215a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_922bf339555c-8c01-3542-e4b0-4215a089",
+        "price_thb": 11900000,
+        "project_slug": "supalai-elite-phayathai"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-5967809",
+        "source_listing_id": "5967809",
+        "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-2799942--a1400919---5967809",
+        "price_thb": 12000000,
+        "project_slug": "supalai-elite-phayathai"
+      },
+      "soft_match_fingerprint": "fd04d9c121028d559e5a84e722350d6e9efc7de0a0b0d3697233ff30ec084249",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-de0877c8a726-4581-4af2-e763-3ae6a089",
+        "source_listing_id": "de0877c8a726-4581-4af2-e763-3ae6a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_de0877c8a726-4581-4af2-e763-3ae6a089",
+        "price_thb": 8290000,
+        "project_slug": "supalai-elite-phayathai"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6036450",
+        "source_listing_id": "6036450",
+        "listing_url": "https://propertyhub.in.th/en/listings/1-br-condo-at-supalai-elite-phayathai-near-arl-ratchaprarop-id-2873608--a2eb090f---6036450",
+        "price_thb": 8290000,
+        "project_slug": "supalai-elite-phayathai"
+      },
+      "soft_match_fingerprint": "fe55688904e46151b0fc63c4e00c3654a90bc104cd963eb6cf1078e707b6b24d",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-d287d1c79be3-5e11-e4f2-023f-2007a089",
+        "source_listing_id": "d287d1c79be3-5e11-e4f2-023f-2007a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_d287d1c79be3-5e11-e4f2-023f-2007a089",
+        "price_thb": 30000,
+        "project_slug": "supalai-lite-sathorn-charoenrat"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-4083638",
+        "source_listing_id": "4083638",
+        "listing_url": "https://propertyhub.in.th/en/listings/2-br-85-sqm-high-floor-at-supalai-lite-sathorn-charoenrat-id-515488---4083638",
+        "price_thb": 30000,
+        "project_slug": "supalai-lite-sathorn-charoenrat"
+      },
+      "soft_match_fingerprint": "cd68b86648ef6a71f0b2630e99792601cf822d45fdbc0aba618a96bf13fe127e",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-81c550cc6850-5580-fe22-ce08-9cf4a089",
+        "source_listing_id": "81c550cc6850-5580-fe22-ce08-9cf4a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-supalai-veranda-rama-9-bang-kapi-bangkok_81c550cc6850-5580-fe22-ce08-9cf4a089",
+        "price_thb": 35000,
+        "project_slug": "supalai-veranda-rama-9"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6196220",
+        "source_listing_id": "6196220",
+        "listing_url": "https://propertyhub.in.th/en/listings/p-54085-condo-for-rent-city-view-near-mrt-rama-9-supalai-veranda-rama-9-project-building-b-30th-floor-line-easythaihome-085-592-2897---6196220",
+        "price_thb": 38000,
+        "project_slug": "supalai-veranda-rama-9"
+      },
+      "soft_match_fingerprint": "285ae06b048694b67dfee181b59301fea23e351d90e9980b26f2029636df2aed",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-cacb9462286e-9341-1b62-1ec1-eaa4a089",
+        "source_listing_id": "cacb9462286e-9341-1b62-1ec1-eaa4a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-esse-sukhumvit-36-phra-khanong-bangkok_cacb9462286e-9341-1b62-1ec1-eaa4a089",
+        "price_thb": 29500000,
+        "project_slug": "the-esse-sukhumvit-36"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6119669",
+        "source_listing_id": "6119669",
+        "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-the-esse-sukhumvit-36-near-bts-thong-lor-id-2894899--bf740a95---6119669",
+        "price_thb": 29500000,
+        "project_slug": "the-esse-sukhumvit-36"
+      },
+      "soft_match_fingerprint": "aac69a688b86a94536ca732b96f740ad2f7f5df66ab43a343c7f16ba96d73fc1",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-ef245b7e1bff-8c40-d4d2-3212-eaa4a089",
+        "source_listing_id": "ef245b7e1bff-8c40-d4d2-3212-eaa4a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-esse-sukhumvit-36-phra-khanong-bangkok_ef245b7e1bff-8c40-d4d2-3212-eaa4a089",
+        "price_thb": 27000000,
+        "project_slug": "the-esse-sukhumvit-36"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6063497",
+        "source_listing_id": "6063497",
+        "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-the-esse-sukhumvit-36-near-bts-thong-lor-id-2894898--b53009d9---6063497",
+        "price_thb": 27000000,
+        "project_slug": "the-esse-sukhumvit-36"
+      },
+      "soft_match_fingerprint": "d76c0c450bb87da785056800ccd7ed41c61f6b9c0f201fb8a4bd3acf9a512733",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-610bc77a9352-e0c0-57c2-36fb-3f44a089",
+        "source_listing_id": "610bc77a9352-e0c0-57c2-36fb-3f44a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-esse-sukhumvit-36-phra-khanong-bangkok_610bc77a9352-e0c0-57c2-36fb-3f44a089",
+        "price_thb": 23800000,
+        "project_slug": "the-esse-sukhumvit-36"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-5793686",
+        "source_listing_id": "5793686",
+        "listing_url": "https://propertyhub.in.th/en/listings/2-br-condo-at-the-esse-sukhumvit-36-near-bts-thong-lor-id-2634801--a2700917---5793686",
+        "price_thb": 23800000,
+        "project_slug": "the-esse-sukhumvit-36"
+      },
+      "soft_match_fingerprint": "2674bb8fc998bd38930e1859b079841791e092619ca68dd74aa61fd4ec411c66",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-0d37a9542a75-8fcf-6ac2-64b5-9885a089",
+        "source_listing_id": "0d37a9542a75-8fcf-6ac2-64b5-9885a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-privacy-rama-9-suan-luang-bangkok_0d37a9542a75-8fcf-6ac2-64b5-9885a089",
+        "price_thb": 3700000,
+        "project_slug": "the-privacy-rama-9"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6222960",
+        "source_listing_id": "6222960",
+        "listing_url": "https://propertyhub.in.th/en/listings/a050127-the-privacy-rama-9---6222960",
+        "price_thb": 3700000,
+        "project_slug": "the-privacy-rama-9"
+      },
+      "soft_match_fingerprint": "9d644759a8bb4430e7372e79743adced285628aa02669eae6a393b67433a7694",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-9b82243796ed-e27f-f1d2-ef70-7debb089",
+        "source_listing_id": "9b82243796ed-e27f-f1d2-ef70-7debb089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_9b82243796ed-e27f-f1d2-ef70-7debb089",
+        "price_thb": 3290000,
+        "project_slug": "the-room-sathorn-taksin"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-5726651",
+        "source_listing_id": "5726651",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-sell-condo-the-room-sathorn-taksin-building-1-floor-15-1-bed-room-room-size-46-sqm--9ea70913---5726651",
+        "price_thb": 3450000,
+        "project_slug": "the-room-sathorn-taksin"
+      },
+      "soft_match_fingerprint": "8d1caba69c34b64f0beed418e2231822850a36a5a07ad7bb4f197da4f2c3275a",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-1e8e914482d8-b35f-9142-8490-e4e5a089",
+        "source_listing_id": "1e8e914482d8-b35f-9142-8490-e4e5a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_1e8e914482d8-b35f-9142-8490-e4e5a089",
+        "price_thb": 25000,
+        "project_slug": "the-room-sathorn-taksin"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6083475",
+        "source_listing_id": "6083475",
+        "listing_url": "https://propertyhub.in.th/en/listings/for-rent-condo-the-room-sathorn-taksin-building-1-floor-8-2-bed-room-room-size-77-00-sqm--ab610962---6083475",
+        "price_thb": 24000,
+        "project_slug": "the-room-sathorn-taksin"
+      },
+      "soft_match_fingerprint": "dfd541cebef1468086807440448ee8986d4a3d7bb78c6b03f1f19d8516e7387e",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "livinginsider",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-1e8e914482d8-b35f-9142-8490-e4e5a089",
+        "source_listing_id": "1e8e914482d8-b35f-9142-8490-e4e5a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_1e8e914482d8-b35f-9142-8490-e4e5a089",
+        "price_thb": 25000,
+        "project_slug": "the-room-sathorn-taksin"
+      },
+      "other": {
+        "source": "livinginsider",
+        "external_ref": "livinginsider-3090051",
+        "source_listing_id": "3090051",
+        "listing_url": "https://www.livinginsider.com/re/en_3090051",
+        "price_thb": 24000,
+        "project_slug": "the-room-sathorn-taksin"
+      },
+      "soft_match_fingerprint": "dfd541cebef1468086807440448ee8986d4a3d7bb78c6b03f1f19d8516e7387e",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-76890d27b2b6-c9b1-0bf2-9dba-98c4a089",
+        "source_listing_id": "76890d27b2b6-c9b1-0bf2-9dba-98c4a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-whizdom-essence-bang-chak-bangkok_76890d27b2b6-c9b1-0bf2-9dba-98c4a089",
+        "price_thb": 50000,
+        "project_slug": "whizdom-essence"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6222730",
+        "source_listing_id": "6222730",
+        "listing_url": "https://propertyhub.in.th/en/listings/2-br-77-sqm-35th-floor-condo-at-whizdom-essence-sukhumvit-400m-to-bts-punnawithi-id-3083175---6222730",
+        "price_thb": 50000,
+        "project_slug": "whizdom-essence"
+      },
+      "soft_match_fingerprint": "703dce4da44d4ee9e319f14fe9d54a48740f60eba00c6dcf0352c707eb9964cd",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-4ea006e7c928-9d21-9652-54aa-8194a089",
+        "source_listing_id": "4ea006e7c928-9d21-9652-54aa-8194a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/4-bedroom-condo-for-rent-in-whizdom-essence-bang-chak-bangkok_4ea006e7c928-9d21-9652-54aa-8194a089",
+        "price_thb": 155000,
+        "project_slug": "whizdom-essence"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6210496",
+        "source_listing_id": "6210496",
+        "listing_url": "https://propertyhub.in.th/en/listings/4-br-202-sqm-high-floor-condo-at-whizdom-essence-sukhumvit-400m-to-bts-punnawithi-id-3069547---6210496",
+        "price_thb": 155000,
+        "project_slug": "whizdom-essence"
+      },
+      "soft_match_fingerprint": "c7aec23d2358d533049db18a23271625406c5e41674212e71c9dd50f6e70537e",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-4ea006e7c928-9d21-9652-54aa-8194a089",
+        "source_listing_id": "4ea006e7c928-9d21-9652-54aa-8194a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/4-bedroom-condo-for-rent-in-whizdom-essence-bang-chak-bangkok_4ea006e7c928-9d21-9652-54aa-8194a089",
+        "price_thb": 155000,
+        "project_slug": "whizdom-essence"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6216869",
+        "source_listing_id": "6216869",
+        "listing_url": "https://propertyhub.in.th/en/listings/4-br-202-sqm-condo-at-whizdom-essence-sukhumvit-400m-to-bts-punnawithi-id-2942870---6216869",
+        "price_thb": 140000,
+        "project_slug": "whizdom-essence"
+      },
+      "soft_match_fingerprint": "c7aec23d2358d533049db18a23271625406c5e41674212e71c9dd50f6e70537e",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "propertyhub",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-710c1491d702-ebb0-8c32-d911-d9c4a089",
+        "source_listing_id": "710c1491d702-ebb0-8c32-d911-d9c4a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-xt-huaikhwang-din-daeng-bangkok_710c1491d702-ebb0-8c32-d911-d9c4a089",
+        "price_thb": 4600000,
+        "project_slug": "xt-huai-khwang"
+      },
+      "other": {
+        "source": "propertyhub",
+        "external_ref": "propertyhub-6122582",
+        "source_listing_id": "6122582",
+        "listing_url": "https://propertyhub.in.th/en/listings/1-bedroom-condo-for-sale-at-xt-huaikhwang-6383021---6122582",
+        "price_thb": 5412789,
+        "project_slug": "xt-huai-khwang"
+      },
+      "soft_match_fingerprint": "e25836d365e6608d3154560c7a7a9a19168f2880d2a67d68c9981d09c98c45e0",
+      "note": "candidate only — never auto-merge"
+    },
+    {
+      "match_reason": "cross_source_soft_match",
+      "against": "livinginsider",
+      "confidence": 0.55,
+      "dotproperty": {
+        "external_ref": "dotproperty-f5bd078ba745-22ef-a9e2-a4f8-48c4a089",
+        "source_listing_id": "f5bd078ba745-22ef-a9e2-a4f8-48c4a089",
+        "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-xt-huaikhwang-din-daeng-bangkok_f5bd078ba745-22ef-a9e2-a4f8-48c4a089",
+        "price_thb": 20000,
+        "project_slug": "xt-huai-khwang"
+      },
+      "other": {
+        "source": "livinginsider",
+        "external_ref": "livinginsider-3072816",
+        "source_listing_id": "3072816",
+        "listing_url": "https://www.livinginsider.com/re/en_3072816",
+        "price_thb": 21000,
+        "project_slug": "xt-huai-khwang"
+      },
+      "soft_match_fingerprint": "c6aa267ec051c9b572c013218e0c4d5f281c6cae8a96a086780ac11d29dfa841",
+      "note": "candidate only — never auto-merge"
+    }
+  ],
+  "db_inserted": 0,
+  "db_skipped": 26
+}

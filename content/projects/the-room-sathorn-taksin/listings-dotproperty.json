@@ -1,0 +1,335 @@
+{
+  "project_slug": "the-room-sathorn-taksin",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "2381",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=2381",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=2381",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-33c084f65404-ecbe-ba92-cce1-d2d7a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4250000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The Room Sathorn-Taksin",
+        "zh": "1 Bedroom Condo for sale at The Room Sathorn-Taksin",
+        "th": "1 Bedroom Condo for sale at The Room Sathorn-Taksin"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 46 sq.m., 4,250,000 THB. Source DotProperty #33c084f65404-ecbe-ba92-cce1-d2d7a089.",
+        "zh": "出售：1卧，46㎡，4,250,000 泰铢。来源 DotProperty #33c084f65404-ecbe-ba92-cce1-d2d7a089。",
+        "th": "ขาย: 1 นอน 46 ตร.ม. ราคา 4,250,000 บาท (DotProperty #33c084f65404-ecbe-ba92-cce1-d2d7a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\n1 bedroom, 1 bathroom condo for sale with a floorsize of 46 squaremeters, located on the 20th floor, at The Room Sathorn-Taksin\nbuilding, in the popular Thon Buri district near BTS Pho Nimit. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2011\n * 24-hours security\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 33c084f65404-ecbe-ba92-cce1-d2d7a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 33c084f65404-ecbe-ba92-cce1-d2d7a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_33c084f65404-ecbe-ba92-cce1-d2d7a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjJjN2MtOGJkZC03MGZlLWJlZGItNTk1NDNhNTE5ZDY2XC9lOTJjZWM2NDNiYTMwNzJiOTc4ZDA0MWVjZjZmMWJlYWFkMGNkYzY3YTAzMGIzZTYxZDNhOWU1OTFhOGExNTYwLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "33c084f65404-ecbe-ba92-cce1-d2d7a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_33c084f65404-ecbe-ba92-cce1-d2d7a089",
+      "source_url_hash": "0ad959875a0e290de5b56c3a743b45e9a778e419104c82e1abbe2817677382bc",
+      "duplicate_fingerprint": "cb44402ccb25e7256c022c91ebee9e7b0dc9679c4eac9ba77020b86bb8e44f84",
+      "soft_match_fingerprint": "fc75baeb37f6b8818411c250a626230f67f181b6760223baef40f5c01a43fb48",
+      "_computed_fingerprint": "a2a7992e4064e093e75efc43798e53554ba77eea5bd9304d0f9b9dd2b5a43eb3"
+    },
+    {
+      "external_ref": "dotproperty-9b82243796ed-e27f-f1d2-ef70-7debb089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3290000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": "15",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The Room Sathorn-Taksin",
+        "zh": "1 Bedroom Condo for sale at The Room Sathorn-Taksin",
+        "th": "1 Bedroom Condo for sale at The Room Sathorn-Taksin"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 46 sq.m., 3,290,000 THB. Source DotProperty #9b82243796ed-e27f-f1d2-ef70-7debb089.",
+        "zh": "出售：1卧，46㎡，3,290,000 泰铢。来源 DotProperty #9b82243796ed-e27f-f1d2-ef70-7debb089。",
+        "th": "ขาย: 1 นอน 46 ตร.ม. ราคา 3,290,000 บาท (DotProperty #9b82243796ed-e27f-f1d2-ef70-7debb089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 46 squaremeters, located on the 15th floor, at The Room\nSathorn-Taksin building, in the popular Thon Buri district near BTS Pho Nimit. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2011\n * 24-hours security\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 9b82243796ed-e27f-f1d2-ef70-7debb089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 9b82243796ed-e27f-f1d2-ef70-7debb089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_9b82243796ed-e27f-f1d2-ef70-7debb089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZWViYzItOTJhYi03YzhhLWEyN2ItY2IzMDI2NTc3MWUwXC8wYWYwNzkxNDIyOGIzZTU0Yjg2ZjQ5NWY0OWY3YzJlMmM0ZDliMmQyNWMxNTg4MTFlMzJjZWFjZWQ2NTUwNDI5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "9b82243796ed-e27f-f1d2-ef70-7debb089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_9b82243796ed-e27f-f1d2-ef70-7debb089",
+      "source_url_hash": "3b5e6808e9bef24031b4b04d86eea2ff8382ee34fa6c13c205764e56830636cf",
+      "duplicate_fingerprint": "f69a2bbede8c35496ad83defea1e1ae93a698bfa53077d6b127da7cb737f354e",
+      "soft_match_fingerprint": "8d1caba69c34b64f0beed418e2231822850a36a5a07ad7bb4f197da4f2c3275a",
+      "_computed_fingerprint": "288c741af424c377854fb0241f33bad01ed67aeddb8064c153ee013278319d02"
+    },
+    {
+      "external_ref": "dotproperty-ad442b0099cb-c00f-19e2-f9b5-b10bb089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 68,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Room Sathorn-Taksin",
+        "zh": "2 Bedroom Condo for sale at The Room Sathorn-Taksin",
+        "th": "2 Bedroom Condo for sale at The Room Sathorn-Taksin"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 68 sq.m., 5,500,000 THB. Source DotProperty #ad442b0099cb-c00f-19e2-f9b5-b10bb089.",
+        "zh": "出售：2卧，68㎡，5,500,000 泰铢。来源 DotProperty #ad442b0099cb-c00f-19e2-f9b5-b10bb089。",
+        "th": "ขาย: 2 นอน 68 ตร.ม. ราคา 5,500,000 บาท (DotProperty #ad442b0099cb-c00f-19e2-f9b5-b10bb089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for sale with a floorsize of 68 squaremeters, located on the 21st floor, at The Room\nSathorn-Taksin building, in the popular Thon Buri district near BTS Pho Nimit. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Kitchen with oven\n * Stove\n\nBuilding features:\n * Building completed in 2011\n * BBQ area\n * Security cameras\n * Gym\n * 24-hours security\n * Relaxing swimming pool\n * Gym\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 ad442b0099cb-c00f-19e2-f9b5-b10bb089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty ad442b0099cb-c00f-19e2-f9b5-b10bb089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_ad442b0099cb-c00f-19e2-f9b5-b10bb089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZWU5OGUtNGUwYS03YjA4LWE5OWQtZWQwMDk5ZTc1NWNmXC83ZDFkODVlZDljNDdiYTZjNmMwMjljZDk1MTE3ZjA4NDQxZjVmZGIyOTkwODY0ZjI0NDAzM2VkNzFlZjg1ZmU4LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "ad442b0099cb-c00f-19e2-f9b5-b10bb089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_ad442b0099cb-c00f-19e2-f9b5-b10bb089",
+      "source_url_hash": "f1c9b4ef7f3bf255667253a5c1027936305bc6e0f8c60db4b7b44db97255ce45",
+      "duplicate_fingerprint": "d8ae3c27c57255b441b8b98f025d04262948605c6040a1a59796a6bc027a6eeb",
+      "soft_match_fingerprint": "3555d3a95f96277f4f3a0d2037ceb6fbb21e8d461f8698e18638671d53b71061",
+      "_computed_fingerprint": "badde126035f39a0b6d73659c1bc841de7bbed9eac108e721bc9961a6399c8b1"
+    },
+    {
+      "external_ref": "dotproperty-10096efc48ca-a4af-2e52-2d8d-28c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 28000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 77,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at The Room Sathorn-Taksin",
+        "zh": "2 Bedroom Condo for rent at The Room Sathorn-Taksin",
+        "th": "2 Bedroom Condo for rent at The Room Sathorn-Taksin"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 77 sq.m., 28,000 THB. Source DotProperty #10096efc48ca-a4af-2e52-2d8d-28c4a089.",
+        "zh": "出租：2卧，77㎡，28,000 泰铢。来源 DotProperty #10096efc48ca-a4af-2e52-2d8d-28c4a089。",
+        "th": "เช่า: 2 นอน 77 ตร.ม. ราคา 28,000 บาท (DotProperty #10096efc48ca-a4af-2e52-2d8d-28c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent with a floorsize of 77 squaremeters, at The Room Sathorn-Taksin building,\nin the popular Thon Buri district near BTS Pho Nimit. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2011\n * 24-hours security\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 10096efc48ca-a4af-2e52-2d8d-28c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 10096efc48ca-a4af-2e52-2d8d-28c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_10096efc48ca-a4af-2e52-2d8d-28c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTctYzFjNy03NGI3LWFmNWYtZmQxNWRhYjMwOTk4XC85NmQwNmE3NTA2ZDIyMDgxZTI0NzY1N2U2ODVkNjY0OGUyYjkxNjUzMzQ0Y2U2MWFkZjRmNTlhMzBhODk1MWUzLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "10096efc48ca-a4af-2e52-2d8d-28c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_10096efc48ca-a4af-2e52-2d8d-28c4a089",
+      "source_url_hash": "2c15335cd2c6984f0cf0a0f7eb71e0c94dee6b738b5b4551da75218506846dc7",
+      "duplicate_fingerprint": "694cff67dca3c101eebe617f60991506f9750114ba4f99f02b3836285d7a7b3a",
+      "soft_match_fingerprint": "958fc33cf1d741144dfd7faa8f3aa6351182a0bd1163786924e146432fa7db54",
+      "_computed_fingerprint": "80e7ede82f6e3e894f2cea0b3f8497fee23e1f3487d7d35e1d342b25781f41b3"
+    },
+    {
+      "external_ref": "dotproperty-1e8e914482d8-b35f-9142-8490-e4e5a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 25000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 77,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at The Room Sathorn-Taksin",
+        "zh": "2 Bedroom Condo for rent at The Room Sathorn-Taksin",
+        "th": "2 Bedroom Condo for rent at The Room Sathorn-Taksin"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 77 sq.m., 25,000 THB. Source DotProperty #1e8e914482d8-b35f-9142-8490-e4e5a089.",
+        "zh": "出租：2卧，77㎡，25,000 泰铢。来源 DotProperty #1e8e914482d8-b35f-9142-8490-e4e5a089。",
+        "th": "เช่า: 2 นอน 77 ตร.ม. ราคา 25,000 บาท (DotProperty #1e8e914482d8-b35f-9142-8490-e4e5a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent with a floorsize of 77 squaremeters, located on the 8th floor, at The Room\nSathorn-Taksin building, in the popular Thon Buri district near BTS Pho Nimit. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2011\n * 24-hours security\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 1e8e914482d8-b35f-9142-8490-e4e5a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 1e8e914482d8-b35f-9142-8490-e4e5a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_1e8e914482d8-b35f-9142-8490-e4e5a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjRiNWItOTA1MS03NTgwLWE0NmUtMWM3MTU1ODBiMWI4XC8xZWEzNjdhMmQ1OTBkMGFhNmQ4YWRiOGQ4ZDFkZDQ5ODUyNTFmNTg5OTUzYjZiNWQyOTQ1Mjg4MDY0OGJkNzk4LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1e8e914482d8-b35f-9142-8490-e4e5a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_1e8e914482d8-b35f-9142-8490-e4e5a089",
+      "source_url_hash": "212a44eef695483af6b453ee4edb5b434daebaf7d0e8e24e53b437fd90df2bd5",
+      "duplicate_fingerprint": "8a2a3411c8399e4955c2d7333e661131c1fe7239492c1e67820a044e00005c42",
+      "soft_match_fingerprint": "dfd541cebef1468086807440448ee8986d4a3d7bb78c6b03f1f19d8516e7387e",
+      "_computed_fingerprint": "ed040e0de5df66b9328720d3f52f43c2ac1cfcc903370313a9651de21edcbf8e"
+    },
+    {
+      "external_ref": "dotproperty-ba133f6c5bf9-2ad1-d0b2-599e-0956a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-room-sathorn-taksin",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-san",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Room Sathorn-Taksin",
+        "zh": "1 Bedroom Condo for rent at The Room Sathorn-Taksin",
+        "th": "1 Bedroom Condo for rent at The Room Sathorn-Taksin"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 46 sq.m., 17,000 THB. Source DotProperty #ba133f6c5bf9-2ad1-d0b2-599e-0956a089.",
+        "zh": "出租：1卧，46㎡，17,000 泰铢。来源 DotProperty #ba133f6c5bf9-2ad1-d0b2-599e-0956a089。",
+        "th": "เช่า: 1 นอน 46 ตร.ม. ราคา 17,000 บาท (DotProperty #ba133f6c5bf9-2ad1-d0b2-599e-0956a089)"
+      },
+      "description": {
+        "en": "Project : The Room Sathorn - Taksin\nLocation area:   , Bang Yiruea , Thon Buri , Bangkok 10600\nGPS :  \nStation : BTS-Pho Nimit \nListing ID : CX-162351 \nFOR RENT : 17,000 ฿ \n\nProperty type : Condo \nNo of floors : 23 \nUsable area : 46 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 1 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \n - swimming pool\n– Fitness\n– Security guard and CCTV 24 hrs.\n– Garden\n– Wi-Fi in common areas\n\nNearby Facilities : \n Max Value IDEO Building Sathorn-Tha Phra 100 meters.\nThe Mall Tha Phra 800 meters\nSena Fest Charoen Nakhon 2.8 km.\nRobinson Ladya (Platform Wongwian Yai) 1.8 km.\nAsiatique the Riverfront 4.2 km.\nMetro West Town 5.6 km.\nRobinson Bangrak 6 km.\nSilom Complex 6.5 km.\nBig C Daokhanong 3.4 km.\nSeacon Bang Khae 6.3 km.\nCentral Plaza Rama 3 8.9 km.\nWongwian Yai Market 2.8 km.\nTha Phra Market 3.8 km.\nChom Thong Market 3.2 km.\nSamre Market 3.2 km.\nCharoenrat Market 2.9 km.\nSomdej Phra Pinklao Hospital 1.2 km.\nSamitivej Thonburi Hospital 3 km.\nYaowarak Hospital 1.9 km.\nPhyathai Hospital 3 5 km.\nLerdsin Hospital 4.9 km.\nSaint Louis Hospital 4.6 km.\nBNH Hospital 6 km.\nBangkok Christian Hospital 6.5 km.\nCharoenkr",
+        "zh": "来自 DotProperty 挂牌 ba133f6c5bf9-2ad1-d0b2-599e-0956a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty ba133f6c5bf9-2ad1-d0b2-599e-0956a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_ba133f6c5bf9-2ad1-d0b2-599e-0956a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjM0MDktYjAwNC03ZTljLThjZjctMGFlNGQzYTY2OGZlXC8wOTQ2N2ZlMzJkNjJkODYzZjAyMWI3MzM2MjBiNGU1OGMzNTE1NTg0N2MxNjU1MzY1MGNmZmMyNjlmMmE0ZTYxLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "ba133f6c5bf9-2ad1-d0b2-599e-0956a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-room-sathorn-taksin-bang-yi-ruea-bangkok_ba133f6c5bf9-2ad1-d0b2-599e-0956a089",
+      "source_url_hash": "0b358204c6e660f73644bf7dc42c48e80d4111106b3b5c5ed3b4363dd868a626",
+      "duplicate_fingerprint": "645d94e258140189f60f8743cd877613c3972f630e252bbfd45688af3bc0e525",
+      "soft_match_fingerprint": "e678fa31e954a3ad9565bda50984d83bde27d73d931208e6daac925b1606c62b",
+      "_computed_fingerprint": "4e3368a550afbef08755de1bf4a24b5851448449edec5db29a800fde5a496dfa"
+    }
+  ]
+}

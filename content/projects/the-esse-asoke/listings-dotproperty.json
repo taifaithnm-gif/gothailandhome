@@ -1,0 +1,335 @@
+{
+  "project_slug": "the-esse-asoke",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "6408",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=6408",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=6408",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-52db76e04166-9c4f-1282-0382-bc9b9089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6451000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The ESSE Asoke",
+        "zh": "1 Bedroom Condo for sale at The ESSE Asoke",
+        "th": "1 Bedroom Condo for sale at The ESSE Asoke"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 36 sq.m., 6,451,000 THB. Source DotProperty #52db76e04166-9c4f-1282-0382-bc9b9089.",
+        "zh": "出售：1卧，36㎡，6,451,000 泰铢。来源 DotProperty #52db76e04166-9c4f-1282-0382-bc9b9089。",
+        "th": "ขาย: 1 นอน 36 ตร.ม. ราคา 6,451,000 บาท (DotProperty #52db76e04166-9c4f-1282-0382-bc9b9089)"
+      },
+      "description": {
+        "en": "Experience refined CBD living at The Esse Asoke, one of the most prestigious luxury condos in Bangkok’s prime Asoke CBD. This stylish 1-bedroom, 1-bathroom condo offers 36.16 sqm of efficiently designed living space on the 22nd floor, with beautiful city, garden, and park views — a rare green outlook in one of Bangkok’s busiest business districts.\nProperty Details\n\n1 Bedroom | 1 Bathroom\n36.16 sqm\n22nd floor high-floor unit\nCity, garden, and park views\nPrivate balcony\nFully equipped modern kitchen\nBuilt-in wardrobes for smart storage\n19.50% below market price\n\nWhy This Unit Stands Out\nThis unit combines premium CBD convenience with a calm green view, making it more desirable than many typical city-facing condos.\nThe high-floor position provides privacy and an elevated city atmosphere, while the modern kitchen, custom built-in wardrobes, and private balcony create a refined living space ready for everyday comfort.\nNearby Locations\n\nMRT Phetchaburi: approx. 600 m\nBTS Asok: approx. 900 m\nTerminal 21 Asok: approx. 950 m\nBenjakitti Park: approx. 1.4 km\nBumrungrad International Hospital: approx. 2 km\n\nIdeal For\nIdeal for young executives, expats, CBD professionals, and investors seeking ",
+        "zh": "来自 DotProperty 挂牌 52db76e04166-9c4f-1282-0382-bc9b9089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 52db76e04166-9c4f-1282-0382-bc9b9089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-esse-asoke-khlong-toei-nuea-bangkok_52db76e04166-9c4f-1282-0382-bc9b9089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/-ogObMPb-fnbvRUDrXKBUAPTTxM/0x0/unit/34828/chatgpt-image-mar-9-2026-10-36-46-am.png",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "52db76e04166-9c4f-1282-0382-bc9b9089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-esse-asoke-khlong-toei-nuea-bangkok_52db76e04166-9c4f-1282-0382-bc9b9089",
+      "source_url_hash": "08c80f0418d23b58f9bd9f766ea1a54aa84ce38e6d02e4bc2b64a0aa530d1d76",
+      "duplicate_fingerprint": "94122aa20630f7f992ba603f6ed3a4493cc01eb1cc59c4c3a0115f6ea81d9119",
+      "soft_match_fingerprint": "0f8a793fd0b44b7fe3ee15e6a25d399f325b6ea9d8955d1130b31bc3e6edc43a",
+      "_computed_fingerprint": "5e67f19e8c1c1f6a9daf6c47a84414c21deb4878a7c5d89c7bb7e996a0fb5850"
+    },
+    {
+      "external_ref": "dotproperty-c384d50d18fa-9c0f-0c12-077a-0194a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6350000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 37,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The ESSE Asoke",
+        "zh": "1 Bedroom Condo for sale at The ESSE Asoke",
+        "th": "1 Bedroom Condo for sale at The ESSE Asoke"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 37 sq.m., 6,350,000 THB. Source DotProperty #c384d50d18fa-9c0f-0c12-077a-0194a089.",
+        "zh": "出售：1卧，37㎡，6,350,000 泰铢。来源 DotProperty #c384d50d18fa-9c0f-0c12-077a-0194a089。",
+        "th": "ขาย: 1 นอน 37 ตร.ม. ราคา 6,350,000 บาท (DotProperty #c384d50d18fa-9c0f-0c12-077a-0194a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 37 squaremeters, located on the XX floor, at The Esse\nAsoke building, in the popular Watthana district near BTS Asok, near MRT Sukhumvit and near ARL Makkasan. Please contact us to\nschedule a viewing.\n\nBuilding features:\n * Building completed in 2018\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Kids play area\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 c384d50d18fa-9c0f-0c12-077a-0194a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty c384d50d18fa-9c0f-0c12-077a-0194a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-esse-asoke-khlong-toei-nuea-bangkok_c384d50d18fa-9c0f-0c12-077a-0194a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjUwODktZjIyOS03OGQ5LWE5ZDAtZmExOGM5NGM1MTZkXC83ZjY2M2UyMWMyZjZlNzhiMzAyMmFjZTQ0NzdjNTE3ODIzMDgwYmM0YTUwMjVmNTA3NWJkNDUyMDQ4OWE4NTgyLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "c384d50d18fa-9c0f-0c12-077a-0194a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-esse-asoke-khlong-toei-nuea-bangkok_c384d50d18fa-9c0f-0c12-077a-0194a089",
+      "source_url_hash": "0b4eb5bf042d1b7c79d21e5826455bc1f7596941f50e277cb2687c473287bd84",
+      "duplicate_fingerprint": "12d9f290c03d020bb03e6af244eeffac6eeb92f1f0deb59de3b667a23dc1a1fa",
+      "soft_match_fingerprint": "e09bbd91d8363b51ef0dac4c653fad1948fc4e5e79df642c532fb94494311f15",
+      "_computed_fingerprint": "a40c04ed78707d04c1efb94ae33c8e31edbe98e22aecebbd62daf7d8cbdd034a"
+    },
+    {
+      "external_ref": "dotproperty-e7e3fdfe8aa0-a5f0-cc02-254c-1aa4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 15038000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 57,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The ESSE Asoke",
+        "zh": "2 Bedroom Condo for sale at The ESSE Asoke",
+        "th": "2 Bedroom Condo for sale at The ESSE Asoke"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 57 sq.m., 15,038,000 THB. Source DotProperty #e7e3fdfe8aa0-a5f0-cc02-254c-1aa4a089.",
+        "zh": "出售：2卧，57㎡，15,038,000 泰铢。来源 DotProperty #e7e3fdfe8aa0-a5f0-cc02-254c-1aa4a089。",
+        "th": "ขาย: 2 นอน 57 ตร.ม. ราคา 15,038,000 บาท (DotProperty #e7e3fdfe8aa0-a5f0-cc02-254c-1aa4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID 448963\n\n\nModern 2-duplex bedroom 2-bathroom condominium from the 14th floor of The ESSE ASOKE building, in the Watthana district, close to\nBTS Asoke, perfect for an urban lifestyle. \n\n\n\n\n * Fully furnished\n * Fitness\n * Swimming pool\n * Garden &amp; BBQ\n * Parking space available\n\n\n\n\n\n\n\n\nWatthana is one of the economic districts in Bangkok, with many condominiums and hotels. This district is a shopping hub with\nlarge shopping malls offering brand-name fashion and goods, also food courts, and international restaurants. There are stylish\nbistros and cool cafes, and Japanese restaurants fill the buzzing Thonglor district. Stylish rooftop bars offer sweeping city\nviews, while the area around Ekkamai BTS Station is known for its high-end night bars and innovative cocktail scene. Neighboring\ndistricts are Ratchathewi, Huai Khwang, Suan Luang, Phra Khanong, Khlong Toei, and Pathum Wan. Transportation: There are BTS Nana,\nAsok, Phrom Phong, Ekkamai, and Phra Khanong, MRT Sukhumvit, and also Khlong Saen Saep boat service.\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand",
+        "zh": "来自 DotProperty 挂牌 e7e3fdfe8aa0-a5f0-cc02-254c-1aa4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty e7e3fdfe8aa0-a5f0-cc02-254c-1aa4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-esse-asoke-khlong-toei-nuea-bangkok_e7e3fdfe8aa0-a5f0-cc02-254c-1aa4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVmZjgtZDU0Ny03OWRkLTlhNGYtOWZmMWJhY2E2YjJiXC8wYmNmYmMyNzZkZDkzNGZhYmQ4OTRjZTY3ODI2YWRkYTU5MjM0MTcyODUyOWZhYmMyZjhhZGRkNWY2ZjUwMmU1LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "e7e3fdfe8aa0-a5f0-cc02-254c-1aa4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-esse-asoke-khlong-toei-nuea-bangkok_e7e3fdfe8aa0-a5f0-cc02-254c-1aa4a089",
+      "source_url_hash": "489cfb5f5a267895f6f4290a74b8f2a19a5c52c30440b0be5e5162f6f587e764",
+      "duplicate_fingerprint": "441d0e462ba34fc2e6c8513ce7e6c5b06af2c03f12192c006c74c229630765ac",
+      "soft_match_fingerprint": "1db6022898383d4da2be9089f7d30fb4baf8b30ddb0c5f539a9fffa537bbcb95",
+      "_computed_fingerprint": "1edc94cf1c20e845e506f338bc688401d313aeaed3a90c5894b84117d89d98d9"
+    },
+    {
+      "external_ref": "dotproperty-4c9b55e2162e-82e0-c6f2-442b-58c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 43000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 47,
+      "floor_label": "41",
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The ESSE Asoke",
+        "zh": "1 Bedroom Condo for rent at The ESSE Asoke",
+        "th": "1 Bedroom Condo for rent at The ESSE Asoke"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 47 sq.m., 43,000 THB. Source DotProperty #4c9b55e2162e-82e0-c6f2-442b-58c4a089.",
+        "zh": "出租：1卧，47㎡，43,000 泰铢。来源 DotProperty #4c9b55e2162e-82e0-c6f2-442b-58c4a089。",
+        "th": "เช่า: 1 นอน 47 ตร.ม. ราคา 43,000 บาท (DotProperty #4c9b55e2162e-82e0-c6f2-442b-58c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 47 squaremeters, located on the 41st floor, at The Esse\nAsoke building, in the popular Watthana district near BTS Asok, near MRT Sukhumvit and near ARL Makkasan. Please contact us to\nschedule a viewing.\n\nBuilding features:\n * Building completed in 2018\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Kids play area\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 4c9b55e2162e-82e0-c6f2-442b-58c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 4c9b55e2162e-82e0-c6f2-442b-58c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-esse-asoke-khlong-toei-nuea-bangkok_4c9b55e2162e-82e0-c6f2-442b-58c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTQtZTc1NS03YTNkLTliNzEtYjczODdiNDRlMGQ1XC9hMjIxMTVkMTVlN2YxOWFmODE1YmU2MGQzZGIwYmZhNzIyMGMwZWI0ZmM4ZDYwYzNjMzYzYzI3NThlOTc0MjI1LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "4c9b55e2162e-82e0-c6f2-442b-58c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-esse-asoke-khlong-toei-nuea-bangkok_4c9b55e2162e-82e0-c6f2-442b-58c4a089",
+      "source_url_hash": "bea6a3ce9b2f0a1299881b24c80f3260a4fc5748e40b4b867f298dc09ab30441",
+      "duplicate_fingerprint": "e2fe582e0702acd5944229559f3e33a9c59b604c028161e4e3d992035281faee",
+      "soft_match_fingerprint": "ab2c01f258265ba676d4bf003ca63236a983be753783b4e1b286641c3677f276",
+      "_computed_fingerprint": "184a1389840db91e4f8e296e10f1fa498864a1152b4e95f3600ad46ac2efe6d3"
+    },
+    {
+      "external_ref": "dotproperty-3d4fa654cf61-147f-d072-6db8-68c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 40000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 47,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The ESSE Asoke",
+        "zh": "1 Bedroom Condo for rent at The ESSE Asoke",
+        "th": "1 Bedroom Condo for rent at The ESSE Asoke"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 47 sq.m., 40,000 THB. Source DotProperty #3d4fa654cf61-147f-d072-6db8-68c4a089.",
+        "zh": "出租：1卧，47㎡，40,000 泰铢。来源 DotProperty #3d4fa654cf61-147f-d072-6db8-68c4a089。",
+        "th": "เช่า: 1 นอน 47 ตร.ม. ราคา 40,000 บาท (DotProperty #3d4fa654cf61-147f-d072-6db8-68c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\n1 bedroom, 1 bathroom condo for rent with a floorsize of 47 squaremeters, located on the 25th floor, at The Esse Asoke building,\nin the popular Watthana district near BTS Asok, near MRT Sukhumvit and near ARL Makkasan. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2018\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Kids play area\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 3d4fa654cf61-147f-d072-6db8-68c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 3d4fa654cf61-147f-d072-6db8-68c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-esse-asoke-khlong-toei-nuea-bangkok_3d4fa654cf61-147f-d072-6db8-68c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTMtMWVjMy03MjljLWEyNTgtODNhZDU0M2ZhNWM2XC9jMDhhY2E4MzYzODZiYTRjZjA4NDg5NTFjN2NhZDRiNDI3MTM3Njg2MTUwMmQxOGYwYTRlNGM3ZDdlMzMxMzhmLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3d4fa654cf61-147f-d072-6db8-68c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-esse-asoke-khlong-toei-nuea-bangkok_3d4fa654cf61-147f-d072-6db8-68c4a089",
+      "source_url_hash": "d6cef529632010abb810e420201882a772d35682fae81f7f631904640185875a",
+      "duplicate_fingerprint": "49c5d8ffc982b89273bd3a4ee6ac05a0ae718cde1fcd2cc8f7298018d828bcd4",
+      "soft_match_fingerprint": "14780737d006a491054d7d0e2b2cfa49c1b4f5707ab2a94c28cfdb2b06103337",
+      "_computed_fingerprint": "12559ba8c1ff5494f302aa7f140aee5b14f7aedaae5f89013b252116dfacbe96"
+    },
+    {
+      "external_ref": "dotproperty-a7e3cf7d4bd1-fe61-fa52-17d9-0b24a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 60000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 53,
+      "floor_label": "32",
+      "building_label": null,
+      "project_slug": "the-esse-asoke",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The ESSE Asoke",
+        "zh": "1 Bedroom Condo for rent at The ESSE Asoke",
+        "th": "1 Bedroom Condo for rent at The ESSE Asoke"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 53 sq.m., 60,000 THB. Source DotProperty #a7e3cf7d4bd1-fe61-fa52-17d9-0b24a089.",
+        "zh": "出租：1卧，53㎡，60,000 泰铢。来源 DotProperty #a7e3cf7d4bd1-fe61-fa52-17d9-0b24a089。",
+        "th": "เช่า: 1 นอน 53 ตร.ม. ราคา 60,000 บาท (DotProperty #a7e3cf7d4bd1-fe61-fa52-17d9-0b24a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 53 squaremeters, located on the 32nd floor, at The Esse\nAsoke building, in the popular Watthana district near BTS Asok, near MRT Sukhumvit and near ARL Makkasan. Please contact us to\nschedule a viewing.\n\nUnit amenities:\n * Refrigerator\n * Microwave\n * Bathtub\n * Balcony\n * TV\n\nBuilding features:\n * Building completed in 2018\n * Security cameras\n * 24-hours security\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Kids play area\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone",
+        "zh": "来自 DotProperty 挂牌 a7e3cf7d4bd1-fe61-fa52-17d9-0b24a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty a7e3cf7d4bd1-fe61-fa52-17d9-0b24a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-esse-asoke-khlong-toei-nuea-bangkok_a7e3cf7d4bd1-fe61-fa52-17d9-0b24a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU3ZTktMGMyOC03NGZhLTgzYmEtOGNlNWMyYWQ2YjJmXC8wYTM1NGY4NmIxYmFiZDI0NTk5ZDZmYmU4MzcxNzU0MTNmNGI1MTNhOTg1MjA4ZjQzODBiYjFlZTU3NzRmYWNhLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "a7e3cf7d4bd1-fe61-fa52-17d9-0b24a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-esse-asoke-khlong-toei-nuea-bangkok_a7e3cf7d4bd1-fe61-fa52-17d9-0b24a089",
+      "source_url_hash": "531806df75f62312dab3ad42247b9b19673fd60685635cfac57a8cb49dbf6386",
+      "duplicate_fingerprint": "ec06e996281e9d8e28abb4d22246a221fc597d280b239b2a38fc4f1a795a753a",
+      "soft_match_fingerprint": "97f073494e0abe13d87cc0864de4f5af5caab58b6cc930859c11e8f5f0cbf91f",
+      "_computed_fingerprint": "cdd427144b8e25a796daa4f3c324ba1de36e115c5ae9001ce3b45f49dce038c7"
+    }
+  ]
+}

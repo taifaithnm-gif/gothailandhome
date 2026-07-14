@@ -1,0 +1,335 @@
+{
+  "project_slug": "whizdom-essence",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "12290",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=12290",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=12290",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-8c9064b257fc-e8bf-8a32-27a3-b3f6a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 55,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Whizdom Essence",
+        "zh": "2 Bedroom Condo for sale at Whizdom Essence",
+        "th": "2 Bedroom Condo for sale at Whizdom Essence"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 55 sq.m., 10,000,000 THB. Source DotProperty #8c9064b257fc-e8bf-8a32-27a3-b3f6a089.",
+        "zh": "出售：2卧，55㎡，10,000,000 泰铢。来源 DotProperty #8c9064b257fc-e8bf-8a32-27a3-b3f6a089。",
+        "th": "ขาย: 2 นอน 55 ตร.ม. ราคา 10,000,000 บาท (DotProperty #8c9064b257fc-e8bf-8a32-27a3-b3f6a089)"
+      },
+      "description": {
+        "en": "Thanks for checking this Property!\r\\We are BEYOND HORIZON - The Real Estate Agency that treats you like a \"CLOSE FRIEND\".\r\\If you like this Property (ID-64592) and you want to see similar options,​\r\nfeel free to contact us. We know Bangkok very well.​\r\nLet us know your preferences and we are happy to prepare a list of options for you.\r\n----------------------------------------------------------------------------------\r\n\r\nWe speak several languages (Thai, English, Deutsch, Español)\r\n[hidden line] (do not forget to put the \"@\" sign)\r\n\r\n----------------------------------------------------------------------------------​\r\nFeel free to contact our Sales Team​.\r\n We are happy to help on your search!​\r\n\r\nBeyond Horizon Co., Ltd.​\r\nProperty, Investment and Beyond​",
+        "zh": "来自 DotProperty 挂牌 8c9064b257fc-e8bf-8a32-27a3-b3f6a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 8c9064b257fc-e8bf-8a32-27a3-b3f6a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-whizdom-essence-bang-chak-bangkok_8c9064b257fc-e8bf-8a32-27a3-b3f6a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjNhNmUtNmYyNy03NmYxLWFlMWItZGEyNDdlNTM5MGQxXC9jMTAyNWY4YzU2MTI5ZmNhN2FkZmVhYzIxZjVmNGU4NzkwZjMyZTFkOThiNjZmODRkY2MwZjk1OTc4OWY2ZmE4LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "8c9064b257fc-e8bf-8a32-27a3-b3f6a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-whizdom-essence-bang-chak-bangkok_8c9064b257fc-e8bf-8a32-27a3-b3f6a089",
+      "source_url_hash": "b5c11d15da42f3d8d2fc7d30e35601d3357b46b57680f73b972d7db47aa5ace5",
+      "duplicate_fingerprint": "e09e5073ebd74b45a9a12d70ee6eb4bb5707d6ad43d2175c9a66713a445cdc0f",
+      "soft_match_fingerprint": "76801b42fbda0adee771c080b5c65440283f34ddb2a7ccd6a6d3aae07685b3cf",
+      "_computed_fingerprint": "e48497b8d3dafe1e5c8828d1ff8d7b1b9c771e45ccc2a31d02ebee44bd8f1677"
+    },
+    {
+      "external_ref": "dotproperty-35310bd2cff7-13af-5ff2-231d-633ab089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5100000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Whizdom Essence",
+        "zh": "1 Bedroom Condo for sale at Whizdom Essence",
+        "th": "1 Bedroom Condo for sale at Whizdom Essence"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 34 sq.m., 5,100,000 THB. Source DotProperty #35310bd2cff7-13af-5ff2-231d-633ab089.",
+        "zh": "出售：1卧，34㎡，5,100,000 泰铢。来源 DotProperty #35310bd2cff7-13af-5ff2-231d-633ab089。",
+        "th": "ขาย: 1 นอน 34 ตร.ม. ราคา 5,100,000 บาท (DotProperty #35310bd2cff7-13af-5ff2-231d-633ab089)"
+      },
+      "description": {
+        "en": "Project : Whizdom Essence\nLocation area:  Sukhumvit , Phra Khanong , Khlong Toei , Bangkok 10110\nGPS :  \nStation : BTS-Punnawithi \nListing ID : CX-111188 \nFOR SELL : 5,100,000 ฿ \n\nProperty type : Condo \nNo of floors : 50 \nUsable area : 34 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\n\nHighlights :\n-nice viewFurniture : \n-Fully furnished\nCommon Facilities : \n - 2 rai of land on the ground\n - Running and lanes in the garden\n - 50 meters long swimming pool (Olympic standard)\n - Swimming pool for children And hot spring\n - Fitness / Yoga Room\n - Blue and blue garden\n - Business Lounge\n - Library and Special Classroom\n - Children s room\n - Digital Door Lock\n - Key Card Access\n - 24  -hour security system\n - Home Automation System\n\nNearby Facilities : \nmall\n\nUdomsuk Market: 1.1 km.\nBang Na Intersection Market: 1.7 km.\nBITEC Bangna: 2.0 km.\nBig C Onnut: 3.0 km.\nLotus Onnut: 3.4 km.\nHabito: 3.6 km.\nPhra Khanong Market: 4.5 km.\nCentral Bangna: 4.5 km.\nBig C Bangna: 4.8 km.\nOnnut Market: 4.9 km.\nGateway Ekkamai: 5.0 km.\nMajor Cineplex: 5.1 km.\n\nSchool\nBerkeley International School: 2.3 km.\nSrivikorn School: 4.7 km.\nBangkok University: 5.1 km.\nWell",
+        "zh": "来自 DotProperty 挂牌 35310bd2cff7-13af-5ff2-231d-633ab089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 35310bd2cff7-13af-5ff2-231d-633ab089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-whizdom-essence-bang-chak-bangkok_35310bd2cff7-13af-5ff2-231d-633ab089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZWY2NjMtYzg2Ny03YWE0LWFmNjgtMmFhZDdjZTk4NjQ2XC8yZjRlNjg0YTZiODU0ZTllMjhiMjc2NzVjYmVjNTUxZWQxMjhlOTQ2MTkwMWZjN2YwZTZlNGQ0MDhjMTc5NDc5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "35310bd2cff7-13af-5ff2-231d-633ab089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-whizdom-essence-bang-chak-bangkok_35310bd2cff7-13af-5ff2-231d-633ab089",
+      "source_url_hash": "ccba7852a70d12b114fe4c03352bf095d0c8bf7cf8d0b41a9527caf0762b2a77",
+      "duplicate_fingerprint": "35a76e7c5d75b1ea90faec18621443d9c516149de9224e8689414041de2b139c",
+      "soft_match_fingerprint": "e9f98caaf0b7796f9bf4a1fcf35a2d8ac646f560efc244b634eca4edd100e07c",
+      "_computed_fingerprint": "245252b1a41c5916a40db2652fa83751a7bf37f39fb99a78a3705a3f59c7dec8"
+    },
+    {
+      "external_ref": "dotproperty-6bc46923e0d9-b050-67e2-5630-0ff9a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9590000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 53,
+      "floor_label": "34",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Whizdom Essence",
+        "zh": "2 Bedroom Condo for sale at Whizdom Essence",
+        "th": "2 Bedroom Condo for sale at Whizdom Essence"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 53 sq.m., 9,590,000 THB. Source DotProperty #6bc46923e0d9-b050-67e2-5630-0ff9a089.",
+        "zh": "出售：2卧，53㎡，9,590,000 泰铢。来源 DotProperty #6bc46923e0d9-b050-67e2-5630-0ff9a089。",
+        "th": "ขาย: 2 นอน 53 ตร.ม. ราคา 9,590,000 บาท (DotProperty #6bc46923e0d9-b050-67e2-5630-0ff9a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\n2 bedrooms, 2 bathrooms condo for sale with a floorsize of 53.01 squaremeters, located on the 34th floor, at Whizdom Essence\nSukhumvit building, in the popular Phra Khanong district near BTS Punnawithi. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2019\n * Security cameras\n * Covered car park\n * Gym\n * Open car park\n * 24-hours security\n * Relaxing swimming pool\n * Gym\n * Beautiful garden area on premise\n * Running track\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 6bc46923e0d9-b050-67e2-5630-0ff9a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 6bc46923e0d9-b050-67e2-5630-0ff9a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-whizdom-essence-bang-chak-bangkok_6bc46923e0d9-b050-67e2-5630-0ff9a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjBhYTktOTYzNC03YjIzLTk0OWUtMGM5YjY3MDM1ZGUzXC9mNDk0M2ZmZmVmNWYwMjljMDc4ZmExNTkzZDllNmU5NjRjNGI4YzAwOGRlNWRjY2Y1ZGE0YjczYjE1NjM4N2JiLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "6bc46923e0d9-b050-67e2-5630-0ff9a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-whizdom-essence-bang-chak-bangkok_6bc46923e0d9-b050-67e2-5630-0ff9a089",
+      "source_url_hash": "8fa5906e7371f9069406dfd049452399da4aea5e68dfa2982826f962e4e58f07",
+      "duplicate_fingerprint": "9337b18a3d875afe346d3ed6c717b2731df29911a581cbe7a548725d3adb19ac",
+      "soft_match_fingerprint": "5dc73c8d2a3c595ab000b6896b42fabe0ce2ec7cd4f1714647255947e98b5fa1",
+      "_computed_fingerprint": "602b7544e86bff1a3613a0dac90e21be66fabb956fbce49e79a6855c20a7a590"
+    },
+    {
+      "external_ref": "dotproperty-d436fd1a8b88-4f11-4d72-6ff5-9295a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 155000,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area_sqm": 202,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "4 Bedroom Condo for rent at Whizdom Essence",
+        "zh": "4 Bedroom Condo for rent at Whizdom Essence",
+        "th": "4 Bedroom Condo for rent at Whizdom Essence"
+      },
+      "summary": {
+        "en": "Rent: 4BR, 202 sq.m., 155,000 THB. Source DotProperty #d436fd1a8b88-4f11-4d72-6ff5-9295a089.",
+        "zh": "出租：4卧，202㎡，155,000 泰铢。来源 DotProperty #d436fd1a8b88-4f11-4d72-6ff5-9295a089。",
+        "th": "เช่า: 4 นอน 202 ตร.ม. ราคา 155,000 บาท (DotProperty #d436fd1a8b88-4f11-4d72-6ff5-9295a089)"
+      },
+      "description": {
+        "en": "Whizdom Essence Sukhumvit\nPenthouse | 48th Floor | Usable Area: 202 Sq.m.\nProperty Details\n\n\n4 Bedrooms (including Maid's room)\n\n\n4 Bathrooms (including Maid's bathroom)\n\n\n1 Kitchen\n\n\n1 Dining Room\n\n\n1 Living Room\n\n\nMulti-purpose Area\n\n\nFully equipped with air conditioning and sanitary ware in all rooms\n\n\n\nRental Price: 155,000 THB / month (Includes furniture for 2 bedrooms, the living room, and the dining room)\n\nFacilities &amp; Amenities\n\n\nGrand Lobby\n\n\nMailbox Room\n\n\nSwimming Pool\n\n\nFully Equipped Fitness Center\n\n\nMulti-purpose Rooms\n\n\nGarden &amp; Green Spaces\n\n\nParking space for 61% or 410 cars (excluding double parking)\n\n\nKeycard Access Control\n\n\n24-Hour Security System with CCTV\n\n\nNearby Landmarks\n\n\nTransit: BTS Punnawithi / BTS Udom Suk\n\n\nEducation: Anglo Singapore International School\n\n\nShopping &amp; Lifestyle: Bangkok Mall, Century The Movie Plaza (Tesco Lotus), Big C, J Avenue\n\n\nHealthcare: Sukhumvit Hospital, Thainakarin Hospital\n\n",
+        "zh": "来自 DotProperty 挂牌 d436fd1a8b88-4f11-4d72-6ff5-9295a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty d436fd1a8b88-4f11-4d72-6ff5-9295a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/4-bedroom-condo-for-rent-in-whizdom-essence-bang-chak-bangkok_d436fd1a8b88-4f11-4d72-6ff5-9295a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/zQSgmIQqxlpxx_R5-BEMos_ho5I/0x0/unit/6566610/740249423-10240444584586726-8656891915429628752-n.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "d436fd1a8b88-4f11-4d72-6ff5-9295a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/4-bedroom-condo-for-rent-in-whizdom-essence-bang-chak-bangkok_d436fd1a8b88-4f11-4d72-6ff5-9295a089",
+      "source_url_hash": "f93d1db11292f319fade7520cf84c656b7262503385950231f5cd00cf302ee6d",
+      "duplicate_fingerprint": "739171ed5f66efd7020944ed561e2fe3a61fe86bfd07bf645eb29709e858f2c6",
+      "soft_match_fingerprint": "17f5cd2557f2a477c6d2306d439a6578fdbb64e3dd134e24ab522d321ed9f7b2",
+      "_computed_fingerprint": "4d325dc6269c1106482e4c560d7929b216c8ae45f7149a4425aafd679c23b033"
+    },
+    {
+      "external_ref": "dotproperty-76890d27b2b6-c9b1-0bf2-9dba-98c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 50000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 77,
+      "floor_label": "35",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at Whizdom Essence",
+        "zh": "2 Bedroom Condo for rent at Whizdom Essence",
+        "th": "2 Bedroom Condo for rent at Whizdom Essence"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 77 sq.m., 50,000 THB. Source DotProperty #76890d27b2b6-c9b1-0bf2-9dba-98c4a089.",
+        "zh": "出租：2卧，77㎡，50,000 泰铢。来源 DotProperty #76890d27b2b6-c9b1-0bf2-9dba-98c4a089。",
+        "th": "เช่า: 2 นอน 77 ตร.ม. ราคา 50,000 บาท (DotProperty #76890d27b2b6-c9b1-0bf2-9dba-98c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent with a floorsize of 77 squaremeters, located on the 35th floor, at Whizdom\nEssence Sukhumvit building, in the popular Phra Khanong district near BTS Punnawithi. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2019\n * Covered car park\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Running track\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 76890d27b2b6-c9b1-0bf2-9dba-98c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 76890d27b2b6-c9b1-0bf2-9dba-98c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-whizdom-essence-bang-chak-bangkok_76890d27b2b6-c9b1-0bf2-9dba-98c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTAtZmVjMC03YWU5LThlMGQtM2U3ZTI3YzkwMTMyXC80OGJkNWJhMDE5NDg3YTExMmE2MjFkYjEwYWJhMjE1M2RjNWFmZGU2MWZjMjljNjIwZGNmMjJiZTk3ZmYzM2MwLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "76890d27b2b6-c9b1-0bf2-9dba-98c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-whizdom-essence-bang-chak-bangkok_76890d27b2b6-c9b1-0bf2-9dba-98c4a089",
+      "source_url_hash": "11c372c18f752a4d7261761b342ddf73904376a2169584bd67b2cee8858885af",
+      "duplicate_fingerprint": "1f537cccce2cee4b7fed696e9a5118e90db64ea013edfca61b7c3c37912bbda3",
+      "soft_match_fingerprint": "703dce4da44d4ee9e319f14fe9d54a48740f60eba00c6dcf0352c707eb9964cd",
+      "_computed_fingerprint": "7259a592bc87c33c40ae10e9341e53167731bd87f3270fdc765def9f1a1d7640"
+    },
+    {
+      "external_ref": "dotproperty-4ea006e7c928-9d21-9652-54aa-8194a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 155000,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area_sqm": 202,
+      "floor_label": "48",
+      "building_label": null,
+      "project_slug": "whizdom-essence",
+      "developer_slug": "mqdc",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "4 Bedroom Condo for rent at Whizdom Essence",
+        "zh": "4 Bedroom Condo for rent at Whizdom Essence",
+        "th": "4 Bedroom Condo for rent at Whizdom Essence"
+      },
+      "summary": {
+        "en": "Rent: 4BR, 202 sq.m., 155,000 THB. Source DotProperty #4ea006e7c928-9d21-9652-54aa-8194a089.",
+        "zh": "出租：4卧，202㎡，155,000 泰铢。来源 DotProperty #4ea006e7c928-9d21-9652-54aa-8194a089。",
+        "th": "เช่า: 4 นอน 202 ตร.ม. ราคา 155,000 บาท (DotProperty #4ea006e7c928-9d21-9652-54aa-8194a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 4 bedrooms, 4 bathrooms condo for rent with a floorsize of 202 squaremeters, located on the 48th floor, at Whizdom\nEssence Sukhumvit building, in the popular Phra Khanong district near BTS Punnawithi. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2019\n * Covered car park\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Running track\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 4ea006e7c928-9d21-9652-54aa-8194a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 4ea006e7c928-9d21-9652-54aa-8194a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/4-bedroom-condo-for-rent-in-whizdom-essence-bang-chak-bangkok_4ea006e7c928-9d21-9652-54aa-8194a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjUwODEtZmY1NC03NDMwLTg3YzAtMTcwZDJiMzk5ZmI1XC9lZmY3MWQ0Zjg5MjBkMDVhNGIzMmFhYmI0NmUzZjI2OTQwMDM3NjU2NDVlNWQyNzIzMWZkMmVkMTQ2YmQzMzgwLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "4ea006e7c928-9d21-9652-54aa-8194a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/4-bedroom-condo-for-rent-in-whizdom-essence-bang-chak-bangkok_4ea006e7c928-9d21-9652-54aa-8194a089",
+      "source_url_hash": "3576619df6a4e4c52f5d30bdc34062d44df9fbdc79f27696af50cb6c08382ccd",
+      "duplicate_fingerprint": "dae47ae790733e47a95d1db199cb4dd4abbc5d5c81badd4d02eeeb5ba5908729",
+      "soft_match_fingerprint": "c7aec23d2358d533049db18a23271625406c5e41674212e71c9dd50f6e70537e",
+      "_computed_fingerprint": "dd833ea8be332a2025a90d8aaf4ab39ff0f70e13f31d1bccb65da34631fbc02e"
+    }
+  ]
+}

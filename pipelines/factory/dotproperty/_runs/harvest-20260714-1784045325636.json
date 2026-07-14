@@ -1,0 +1,41 @@
+{
+  "source": "dotproperty",
+  "dry_run": false,
+  "started_at": "2026-07-14T16:08:27.553Z",
+  "per_project": 4,
+  "blocker": null,
+  "projects": [
+    {
+      "slug": "ashton-asoke",
+      "project_id": "3647",
+      "status": "ok",
+      "ids_found": 4,
+      "listings": 4,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/ashton-asoke/listings-dotproperty.json"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "project_id": "6408",
+      "status": "ok",
+      "ids_found": 4,
+      "listings": 4,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-esse-asoke/listings-dotproperty.json"
+    }
+  ],
+  "totals": {
+    "projects": 2,
+    "search_pages_ok": 4,
+    "search_pages_blocked": 0,
+    "detail_ids_seen": 8,
+    "detail_blocked": 0,
+    "parsed_ok": 8,
+    "validated": 8,
+    "rejected": 0
+  },
+  "finished_at": "2026-07-14T16:08:45.636Z",
+  "status": "PASS"
+}

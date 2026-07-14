@@ -1,0 +1,335 @@
+{
+  "project_slug": "the-esse-sukhumvit-36",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "12666",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=12666",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=12666",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-cacb9462286e-9341-1b62-1ec1-eaa4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 29500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 77,
+      "floor_label": "36",
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The ESSE Sukhumvit 36",
+        "zh": "2 Bedroom Condo for sale at The ESSE Sukhumvit 36",
+        "th": "2 Bedroom Condo for sale at The ESSE Sukhumvit 36"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 77 sq.m., 29,500,000 THB. Source DotProperty #cacb9462286e-9341-1b62-1ec1-eaa4a089.",
+        "zh": "出售：2卧，77㎡，29,500,000 泰铢。来源 DotProperty #cacb9462286e-9341-1b62-1ec1-eaa4a089。",
+        "th": "ขาย: 2 นอน 77 ตร.ม. ราคา 29,500,000 บาท (DotProperty #cacb9462286e-9341-1b62-1ec1-eaa4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\n2 bedrooms, 2 bathrooms condo for rent / sale with a floorsize of 77 squaremeters, located on the 36th floor, at The Esse\nSukhumvit 36 building, in the popular Khlong Toei district near BTS Thong Lor. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Bathtub\n * Modern jacuzzi\n * Refrigerator\n * Stove\n * TV\n\nBuilding features:\n * Building completed in 2020\n * Bike Park\n * Security cameras\n * Convenience store closeby\n * Covered car park\n * Gym\n * Kids play area\n * Open car park\n * 24-hours security\n * Shops closeby\n * Street park\n * Relaxing swimming pool\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&g",
+        "zh": "来自 DotProperty 挂牌 cacb9462286e-9341-1b62-1ec1-eaa4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty cacb9462286e-9341-1b62-1ec1-eaa4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-esse-sukhumvit-36-phra-khanong-bangkok_cacb9462286e-9341-1b62-1ec1-eaa4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVmZmItOGRiOC03M2U4LTg1NjAtYjMxNzczNTBlZGZkXC9lNTM3Y2NkYjA2YjY5MjM1ODczYjVmZDAzN2YwY2E5NmQ5ZjU3MWQyYjg1NjFhOTZmMWM4ZmRkYzA0YmU2ZTdkLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "cacb9462286e-9341-1b62-1ec1-eaa4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-esse-sukhumvit-36-phra-khanong-bangkok_cacb9462286e-9341-1b62-1ec1-eaa4a089",
+      "source_url_hash": "d23913c54525e205273693273cdab2b1f7a8abe4ecd5818d669d2ab91b4f4d39",
+      "duplicate_fingerprint": "8b09f5f9e6b57791e07ce28d314f6884aa59cca128d48fafb99d0d59f4e76aab",
+      "soft_match_fingerprint": "aac69a688b86a94536ca732b96f740ad2f7f5df66ab43a343c7f16ba96d73fc1",
+      "_computed_fingerprint": "ce8d5cc1d9a1c2ffd46f087862e380480bc83915e913c61daa7362b18329bbdc"
+    },
+    {
+      "external_ref": "dotproperty-ef245b7e1bff-8c40-d4d2-3212-eaa4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 27000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 72,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The ESSE Sukhumvit 36",
+        "zh": "2 Bedroom Condo for sale at The ESSE Sukhumvit 36",
+        "th": "2 Bedroom Condo for sale at The ESSE Sukhumvit 36"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 72 sq.m., 27,000,000 THB. Source DotProperty #ef245b7e1bff-8c40-d4d2-3212-eaa4a089.",
+        "zh": "出售：2卧，72㎡，27,000,000 泰铢。来源 DotProperty #ef245b7e1bff-8c40-d4d2-3212-eaa4a089。",
+        "th": "ขาย: 2 นอน 72 ตร.ม. ราคา 27,000,000 บาท (DotProperty #ef245b7e1bff-8c40-d4d2-3212-eaa4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent / sale with a floorsize of 72 squaremeters, located on the 19th floor, at\nThe Esse Sukhumvit 36 building, in the popular Khlong Toei district near BTS Thong Lor. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Bathtub\n * Modern jacuzzi\n * Refrigerator\n * TV\n\nBuilding features:\n * Building completed in 2020\n * Bike Park\n * Security cameras\n * Convenience store closeby\n * Covered car park\n * Beautiful garden area on premise\n * Gym\n * Open car park\n * Restaurants closeby\n * 24-hours security\n * Shops closeby\n * Street park\n * Relaxing swimming pool\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile ph",
+        "zh": "来自 DotProperty 挂牌 ef245b7e1bff-8c40-d4d2-3212-eaa4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty ef245b7e1bff-8c40-d4d2-3212-eaa4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-esse-sukhumvit-36-phra-khanong-bangkok_ef245b7e1bff-8c40-d4d2-3212-eaa4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVmZmItNzg3Ni03YzVjLTk1ZDEtYWFlOGIyZTQ1N2FiXC9kZmZiMWU3YjM3NWFhYmNmMDA4N2M2ZjY0MGZmNjRjMWJkODlkNmI3OTcyYzZjYjliMWQ3MzgyMjcyM2UwYTE2LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "ef245b7e1bff-8c40-d4d2-3212-eaa4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-esse-sukhumvit-36-phra-khanong-bangkok_ef245b7e1bff-8c40-d4d2-3212-eaa4a089",
+      "source_url_hash": "caba1f3e52c536211a550aaad7bff3ffdd42bc2c6ba8228236faa7c273109607",
+      "duplicate_fingerprint": "858936e69f1ed1a564edd286454e1ea07085fb19011aa7dca910c4bc6cade554",
+      "soft_match_fingerprint": "d76c0c450bb87da785056800ccd7ed41c61f6b9c0f201fb8a4bd3acf9a512733",
+      "_computed_fingerprint": "e4b2ea26ec9afb63b61da2a5825e5609e9385b35e2d3208c6f3196e7109e04e3"
+    },
+    {
+      "external_ref": "dotproperty-610bc77a9352-e0c0-57c2-36fb-3f44a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 23800000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 74,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The ESSE Sukhumvit 36",
+        "zh": "2 Bedroom Condo for sale at The ESSE Sukhumvit 36",
+        "th": "2 Bedroom Condo for sale at The ESSE Sukhumvit 36"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 74 sq.m., 23,800,000 THB. Source DotProperty #610bc77a9352-e0c0-57c2-36fb-3f44a089.",
+        "zh": "出售：2卧，74㎡，23,800,000 泰铢。来源 DotProperty #610bc77a9352-e0c0-57c2-36fb-3f44a089。",
+        "th": "ขาย: 2 นอน 74 ตร.ม. ราคา 23,800,000 บาท (DotProperty #610bc77a9352-e0c0-57c2-36fb-3f44a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent / sale with a floorsize of 74 squaremeters, located on the 16th floor, at\nThe Esse Sukhumvit 36 building, in the popular Khlong Toei district near BTS Thong Lor. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Bathtub\n * Microwave\n * Refrigerator\n * Stove\n * TV\n\nBuilding features:\n * Building completed in 2020\n * Covered car park\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Kids play area\n * Steam room\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 610bc77a9352-e0c0-57c2-36fb-3f44a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 610bc77a9352-e0c0-57c2-36fb-3f44a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-esse-sukhumvit-36-phra-khanong-bangkok_610bc77a9352-e0c0-57c2-36fb-3f44a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU1YTYtZWEzNi03ZDI0LTlkOWItNzQ2MGYyMmRlOTgzXC9mZmIzNzdjY2RlZTJmOGYyZTg3ZWJkZjRhYmIxYzYwYTZhMDg2YTM4NzBhMzZmNzZkYzIxY2Y4MGFjNGZkNGI1LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "610bc77a9352-e0c0-57c2-36fb-3f44a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-esse-sukhumvit-36-phra-khanong-bangkok_610bc77a9352-e0c0-57c2-36fb-3f44a089",
+      "source_url_hash": "fad727a7d452e5622680aebea1389e6d8d67eb45e759d0502a50207230de9c04",
+      "duplicate_fingerprint": "52b4e26462140920fb75ccbbb9282e0161ff5aa6090a342642dc89a3f955f317",
+      "soft_match_fingerprint": "2674bb8fc998bd38930e1859b079841791e092619ca68dd74aa61fd4ec411c66",
+      "_computed_fingerprint": "d89355af8abae3b9826b0098ea3e7653bccb5a728bf0d7660502f78a2ecc3196"
+    },
+    {
+      "external_ref": "dotproperty-e0dce233c60b-4541-f892-dacd-25eea189",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 50000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 43,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The ESSE Sukhumvit 36",
+        "zh": "1 Bedroom Condo for rent at The ESSE Sukhumvit 36",
+        "th": "1 Bedroom Condo for rent at The ESSE Sukhumvit 36"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 43 sq.m., 50,000 THB. Source DotProperty #e0dce233c60b-4541-f892-dacd-25eea189.",
+        "zh": "出租：1卧，43㎡，50,000 泰铢。来源 DotProperty #e0dce233c60b-4541-f892-dacd-25eea189。",
+        "th": "เช่า: 1 นอน 43 ตร.ม. ราคา 50,000 บาท (DotProperty #e0dce233c60b-4541-f892-dacd-25eea189)"
+      },
+      "description": {
+        "en": "This property is a 43 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the The ESSE Sukhumvit 36 project in Phra Khanong, Bangkok and was completed in Nov 2020. You can rent this condo for ฿50,000 per month and it is also available for sale for ฿16,500,000.",
+        "zh": "来自 DotProperty 挂牌 e0dce233c60b-4541-f892-dacd-25eea189。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty e0dce233c60b-4541-f892-dacd-25eea189 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-esse-sukhumvit-36-phra-khanong-bangkok_e0dce233c60b-4541-f892-dacd-25eea189",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/en-BKBhF7zD_UvxEKKnafAxyPi0/0x0/unit/1383666/216ebd13-b331-4846-a246-3f6c45e3c80a.jpeg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "e0dce233c60b-4541-f892-dacd-25eea189",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-esse-sukhumvit-36-phra-khanong-bangkok_e0dce233c60b-4541-f892-dacd-25eea189",
+      "source_url_hash": "115b5b92713dc7291747bb497c78dd224d3266853bcda7d41de04018b7bd5088",
+      "duplicate_fingerprint": "675f973c7e781169d2e4e8c72af97415e15b423260f58fda0c54a22d6f7e4842",
+      "soft_match_fingerprint": "057b0c988b823ac55f0415d85116ae51b0aec000898f413ae5c6405eb3ab415d",
+      "_computed_fingerprint": "f5a63e868330ed9112eca819124bb14796bdd4f70e798aa3497d830e52620aa8"
+    },
+    {
+      "external_ref": "dotproperty-e96644359438-188e-d472-f3b5-c104a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 40000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 38,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The ESSE Sukhumvit 36",
+        "zh": "1 Bedroom Condo for rent at The ESSE Sukhumvit 36",
+        "th": "1 Bedroom Condo for rent at The ESSE Sukhumvit 36"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 38 sq.m., 40,000 THB. Source DotProperty #e96644359438-188e-d472-f3b5-c104a089.",
+        "zh": "出租：1卧，38㎡，40,000 泰铢。来源 DotProperty #e96644359438-188e-d472-f3b5-c104a089。",
+        "th": "เช่า: 1 นอน 38 ตร.ม. ราคา 40,000 บาท (DotProperty #e96644359438-188e-d472-f3b5-c104a089)"
+      },
+      "description": {
+        "en": "\nThis property is a 38.14 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the The Esse Sukhumvit 36 project in Phra Khanong, Bangkok and was completed in Nov 2020. You can rent this condo long term for ฿40,000 per month.\n\n\n \n",
+        "zh": "来自 DotProperty 挂牌 e96644359438-188e-d472-f3b5-c104a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty e96644359438-188e-d472-f3b5-c104a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-esse-sukhumvit-36-phra-khanong-bangkok_e96644359438-188e-d472-f3b5-c104a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/tnM2aFXTVLASHXDwVwmdPs7BxKo/0x0/unit/6578410/d985b6af45df06e6992eeb5204d0e2b1.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "e96644359438-188e-d472-f3b5-c104a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-esse-sukhumvit-36-phra-khanong-bangkok_e96644359438-188e-d472-f3b5-c104a089",
+      "source_url_hash": "14be8c3bdaf2f915da0d6f8c9f88c027f99914894101021745085fd564740ccb",
+      "duplicate_fingerprint": "2b988257d7b0af3583d99379ecfe4db98ddfb91195333a9202c793876e1c4d30",
+      "soft_match_fingerprint": "e7dc80c6078c529e75f2beaceb9156276488013978586dd16025920a4fd46e7f",
+      "_computed_fingerprint": "8f83e5d509ac2c3d06ea0976d980b433c7786261240ffc745c135949f658e990"
+    },
+    {
+      "external_ref": "dotproperty-d81f679e3da3-d42f-cb96-eefa-194530d0",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 55000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 43,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-esse-sukhumvit-36",
+      "developer_slug": "sc-asset",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The ESSE Sukhumvit 36",
+        "zh": "1 Bedroom Condo for rent at The ESSE Sukhumvit 36",
+        "th": "1 Bedroom Condo for rent at The ESSE Sukhumvit 36"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 43 sq.m., 55,000 THB. Source DotProperty #d81f679e3da3-d42f-cb96-eefa-194530d0.",
+        "zh": "出租：1卧，43㎡，55,000 泰铢。来源 DotProperty #d81f679e3da3-d42f-cb96-eefa-194530d0。",
+        "th": "เช่า: 1 นอน 43 ตร.ม. ราคา 55,000 บาท (DotProperty #d81f679e3da3-d42f-cb96-eefa-194530d0)"
+      },
+      "description": {
+        "en": "This property is a 43 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the The ESSE Sukhumvit 36 project in Phra Khanong, Bangkok and was completed in Nov 2020. You can rent this condo long term for ฿55,000 per month.",
+        "zh": "来自 DotProperty 挂牌 d81f679e3da3-d42f-cb96-eefa-194530d0。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty d81f679e3da3-d42f-cb96-eefa-194530d0 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-esse-sukhumvit-36-phra-khanong-bangkok_d81f679e3da3-d42f-cb96-eefa-194530d0",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/kFlkEOylNBrl31Vv-sa3xk3E8nw/0x0/unit/1095476/281694603-10159848302529536-7641326335705848770-n.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "d81f679e3da3-d42f-cb96-eefa-194530d0",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-esse-sukhumvit-36-phra-khanong-bangkok_d81f679e3da3-d42f-cb96-eefa-194530d0",
+      "source_url_hash": "8a8577ab0960190ad9306aedb904d5c99ac31b78550fc33d25d4c0cbe90430ae",
+      "duplicate_fingerprint": "6aba9399c606d961233e86d947c98ef1837587b1587593d818de66feaa192fe5",
+      "soft_match_fingerprint": "057b0c988b823ac55f0415d85116ae51b0aec000898f413ae5c6405eb3ab415d",
+      "_computed_fingerprint": "54e1cc500b3301218275396379c8f0f3de81a9b23d9aae8220dbbf3d72fc5109"
+    }
+  ]
+}

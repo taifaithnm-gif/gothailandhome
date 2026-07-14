@@ -1,0 +1,335 @@
+{
+  "project_slug": "xt-huai-khwang",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "13472",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=13472",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=13472",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-710c1491d702-ebb0-8c32-d911-d9c4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at XT Huaikhwang",
+        "zh": "1 Bedroom Condo for sale at XT Huaikhwang",
+        "th": "1 Bedroom Condo for sale at XT Huaikhwang"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 4,600,000 THB. Source DotProperty #710c1491d702-ebb0-8c32-d911-d9c4a089.",
+        "zh": "出售：1卧，35㎡，4,600,000 泰铢。来源 DotProperty #710c1491d702-ebb0-8c32-d911-d9c4a089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 4,600,000 บาท (DotProperty #710c1491d702-ebb0-8c32-d911-d9c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent / sale with a floorsize of 35 squaremeters, located on the 9th floor, at XT\nHuaikhwang building, in the popular Huai Khwang district near MRT Huai Khwang. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2021\n * Covered car park\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 710c1491d702-ebb0-8c32-d911-d9c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 710c1491d702-ebb0-8c32-d911-d9c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-xt-huaikhwang-din-daeng-bangkok_710c1491d702-ebb0-8c32-d911-d9c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMGMtODgwYy03NmQxLTllZWItNzkyYzgwNThkOTgyXC9jMGY3MTMyOTc1MDU0YmU1NTFiOTY4NzlkNmE5YThiZDMwMTg5YTQ0Y2MwYzBmZjk0N2ExOGYzNDkyNmY0MmEwLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "710c1491d702-ebb0-8c32-d911-d9c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-xt-huaikhwang-din-daeng-bangkok_710c1491d702-ebb0-8c32-d911-d9c4a089",
+      "source_url_hash": "6b0d8eada82158c18fb175d942fdb0725f0b8741d21c16e11a907bf22fe5ae8e",
+      "duplicate_fingerprint": "20a046cae722f0a5009a16a13cbf83dac7bab5efd144f80a1030c9e7c7c5a02c",
+      "soft_match_fingerprint": "e25836d365e6608d3154560c7a7a9a19168f2880d2a67d68c9981d09c98c45e0",
+      "_computed_fingerprint": "214e508e26a8dbec1033e80960c513aa8fd24801799f42c78805f67c957b396f"
+    },
+    {
+      "external_ref": "dotproperty-54f929e20d5e-a3b0-94b2-593f-0535a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4690000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "6",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at XT Huaikhwang",
+        "zh": "1 Bedroom Condo for sale at XT Huaikhwang",
+        "th": "1 Bedroom Condo for sale at XT Huaikhwang"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 4,690,000 THB. Source DotProperty #54f929e20d5e-a3b0-94b2-593f-0535a089.",
+        "zh": "出售：1卧，35㎡，4,690,000 泰铢。来源 DotProperty #54f929e20d5e-a3b0-94b2-593f-0535a089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 4,690,000 บาท (DotProperty #54f929e20d5e-a3b0-94b2-593f-0535a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 35 squaremeters, located on the 6th floor, at XT\nHuaikhwang building, in the popular Huai Khwang district near MRT Huai Khwang. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2021\n * Covered car park\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 54f929e20d5e-a3b0-94b2-593f-0535a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 54f929e20d5e-a3b0-94b2-593f-0535a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-xt-huaikhwang-din-daeng-bangkok_54f929e20d5e-a3b0-94b2-593f-0535a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjQ2NDktYTYwNC03ZTUwLTllNmYtYjRjOTdiMDcwYTU0XC9iODk0NTllNzQyY2ExYzFlNzBkNTJlYzI0YjdhOWU5NzBiYWMzMmZmM2EzMDcxNzZmZjQwOTJjMGQwNjk4MWExLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "54f929e20d5e-a3b0-94b2-593f-0535a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-xt-huaikhwang-din-daeng-bangkok_54f929e20d5e-a3b0-94b2-593f-0535a089",
+      "source_url_hash": "8a70c81d333a6fb0a2b47e941b86d269d3894ffc86cdcff7f1d5ba7dd5c3701d",
+      "duplicate_fingerprint": "758eec2868db0569d65992c2631144ba3ae49c86c9ec3be51749159744e11598",
+      "soft_match_fingerprint": "9a496f70c2bf24ec6f18e8f4710ee3ec4625b0e6685b14308410fb2f97c286f0",
+      "_computed_fingerprint": "4a7e55408aa38f814948f0738f2661ae0ea4563511f1ee77400a4539381e3a93"
+    },
+    {
+      "external_ref": "dotproperty-7c1d31d42957-7bc1-a922-5e13-6f86a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "14",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at XT Huaikhwang",
+        "zh": "1 Bedroom Condo for sale at XT Huaikhwang",
+        "th": "1 Bedroom Condo for sale at XT Huaikhwang"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 3,200,000 THB. Source DotProperty #7c1d31d42957-7bc1-a922-5e13-6f86a089.",
+        "zh": "出售：1卧，35㎡，3,200,000 泰铢。来源 DotProperty #7c1d31d42957-7bc1-a922-5e13-6f86a089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 3,200,000 บาท (DotProperty #7c1d31d42957-7bc1-a922-5e13-6f86a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 35 squaremeters, located on the 14th floor, at XT\nHuaikhwang building, in the popular Huai Khwang district near MRT Huai Khwang. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2021\n * Covered car park\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 7c1d31d42957-7bc1-a922-5e13-6f86a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 7c1d31d42957-7bc1-a922-5e13-6f86a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-xt-huaikhwang-din-daeng-bangkok_7c1d31d42957-7bc1-a922-5e13-6f86a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjMxYTMtNjhiNC03NzBmLThkZTItMjQwNzVjODZjOGQyXC9lNGI1Y2Q5NjY5ODc3OTc2Y2M3N2QzYTA0YjBlM2NkNThhNjFkN2M5MjJiZDdiOWIxMjQzY2EwODY3OGY3ZjI5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "7c1d31d42957-7bc1-a922-5e13-6f86a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-xt-huaikhwang-din-daeng-bangkok_7c1d31d42957-7bc1-a922-5e13-6f86a089",
+      "source_url_hash": "4dd09544f9e2e841d8c6d9af3f0a22f6f71774095f5a1c5bed4b10c28819a7ff",
+      "duplicate_fingerprint": "d359e6756e14dc9904a7ef31d87061e00cff5434f7271a2bfd1062777781c254",
+      "soft_match_fingerprint": "ee98f246e3f14c11bff533bbae044afdf3b8a719a7d8662b991af71668df239a",
+      "_computed_fingerprint": "710de6212f3d14abeb309132227dd47c2192a6de106d73961effe0467072b47f"
+    },
+    {
+      "external_ref": "dotproperty-2446dd24f5b1-690f-96a2-525e-18c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "37",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at XT Huaikhwang",
+        "zh": "1 Bedroom Condo for rent at XT Huaikhwang",
+        "th": "1 Bedroom Condo for rent at XT Huaikhwang"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 24,000 THB. Source DotProperty #2446dd24f5b1-690f-96a2-525e-18c4a089.",
+        "zh": "出租：1卧，35㎡，24,000 泰铢。来源 DotProperty #2446dd24f5b1-690f-96a2-525e-18c4a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 24,000 บาท (DotProperty #2446dd24f5b1-690f-96a2-525e-18c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 35 squaremeters, located on the 37th floor, at XT\nHuaikhwang building, in the popular Huai Khwang district near MRT Huai Khwang. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2021\n * Covered car park\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 2446dd24f5b1-690f-96a2-525e-18c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 2446dd24f5b1-690f-96a2-525e-18c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-xt-huaikhwang-din-daeng-bangkok_2446dd24f5b1-690f-96a2-525e-18c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTgtYjQ3NC03ZjMwLWE5MDMtOGU0YTU3Y2MzNTU3XC9jMTljNzA2ZTJiNWI5ZDNiNGRmZDI0Y2NjYjkxOWI2MDFhY2M5NDViYWIwMWRjNzZlOTBkOTY1NGU5YjgxYWNjLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2446dd24f5b1-690f-96a2-525e-18c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-xt-huaikhwang-din-daeng-bangkok_2446dd24f5b1-690f-96a2-525e-18c4a089",
+      "source_url_hash": "b6b67e4d112c4449de491ab0017a22caef9e0debeb06802fff03c6e389364039",
+      "duplicate_fingerprint": "733c9d6e6f0767899fc8e1e803d363db456771d84087e559b49cd1a8281e8e85",
+      "soft_match_fingerprint": "4816ab870a8e6fbdb8a3faa8e3d2eb00a77f56875c537a37b24c4e7bc4bf7763",
+      "_computed_fingerprint": "2975acba01ab6029f4fd00c0de0f6ed968b73452da2d39cad449e9673904781e"
+    },
+    {
+      "external_ref": "dotproperty-f5bd078ba745-22ef-a9e2-a4f8-48c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at XT Huaikhwang",
+        "zh": "1 Bedroom Condo for rent at XT Huaikhwang",
+        "th": "1 Bedroom Condo for rent at XT Huaikhwang"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 20,000 THB. Source DotProperty #f5bd078ba745-22ef-a9e2-a4f8-48c4a089.",
+        "zh": "出租：1卧，35㎡，20,000 泰铢。来源 DotProperty #f5bd078ba745-22ef-a9e2-a4f8-48c4a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 20,000 บาท (DotProperty #f5bd078ba745-22ef-a9e2-a4f8-48c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 35 squaremeters, located on the 9th floor, at XT\nHuaikhwang building, in the popular Huai Khwang district near MRT Huai Khwang. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2021\n * Covered car park\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 f5bd078ba745-22ef-a9e2-a4f8-48c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty f5bd078ba745-22ef-a9e2-a4f8-48c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-xt-huaikhwang-din-daeng-bangkok_f5bd078ba745-22ef-a9e2-a4f8-48c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTUtMWE1Zi03YjBmLWFiNzctNDUyZmUxMjljZTRhXC9mZmNlOTNjOGU1OTc0ZjU5YmJkMWE2ZjRiMDg5NWE4YzA5MTIwYzM0NzUzNmUzMTEzNjcyYTU5NzYwY2JmZjRiLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "f5bd078ba745-22ef-a9e2-a4f8-48c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-xt-huaikhwang-din-daeng-bangkok_f5bd078ba745-22ef-a9e2-a4f8-48c4a089",
+      "source_url_hash": "c1003618b0c1a8a6473e2fd7361b32487a7e991ec079c62b0ee1b230f5c419b6",
+      "duplicate_fingerprint": "c20272f14f82a320ea57b4c478227d06d00456daaf6d458de1d7d954af440112",
+      "soft_match_fingerprint": "c6aa267ec051c9b572c013218e0c4d5f281c6cae8a96a086780ac11d29dfa841",
+      "_computed_fingerprint": "402d7f5d69a1c7446f33dbb8db59ee8f958bd04a8c86443aad1733d62c10360f"
+    },
+    {
+      "external_ref": "dotproperty-066579177c17-4591-efe2-dde5-4d74a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 21000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "xt-huai-khwang",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at XT Huaikhwang",
+        "zh": "1 Bedroom Condo for rent at XT Huaikhwang",
+        "th": "1 Bedroom Condo for rent at XT Huaikhwang"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 21,000 THB. Source DotProperty #066579177c17-4591-efe2-dde5-4d74a089.",
+        "zh": "出租：1卧，34㎡，21,000 泰铢。来源 DotProperty #066579177c17-4591-efe2-dde5-4d74a089。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 21,000 บาท (DotProperty #066579177c17-4591-efe2-dde5-4d74a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 34 squaremeters, located on the 10th floor, at XT\nHuaikhwang building, in the popular Huai Khwang district near MRT Huai Khwang. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2021\n * Covered car park\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 066579177c17-4591-efe2-dde5-4d74a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 066579177c17-4591-efe2-dde5-4d74a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-xt-huaikhwang-din-daeng-bangkok_066579177c17-4591-efe2-dde5-4d74a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjUyYzUtNGJjYy03YmFiLTgwNDUtMjhkMjI4MDI0MzM5XC8xNDU1YWQ0NmMxYTAyZTc2YTY5YjYxMTIzNWI1NDUxNTE4YWYxNDBjY2Q1N2M4NzM2Yzg0MGM0YmMxOTM4ZTQ2LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "066579177c17-4591-efe2-dde5-4d74a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-xt-huaikhwang-din-daeng-bangkok_066579177c17-4591-efe2-dde5-4d74a089",
+      "source_url_hash": "875821ab2e4063800e30d2bc808de9a1903dbb29eb9c8ce9c85993c030608743",
+      "duplicate_fingerprint": "dcc9310770456790eef2889154bfa36d24bd72a86fedb5f86406d5a1d3943ac9",
+      "soft_match_fingerprint": "e6dc1054e320835f0675820ec65f9c7b6ea8343a192cf3f5d2b2f46b9efb0061",
+      "_computed_fingerprint": "8fa95fad546a000b7458df36fe0e108da33ec3ca9b57106abda1f1f877ee4e97"
+    }
+  ]
+}

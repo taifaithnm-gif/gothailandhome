@@ -1,0 +1,208 @@
+{
+  "dry_run": false,
+  "started_at": "2026-07-14T16:24:26.942Z",
+  "validated": 192,
+  "validation_failed": [],
+  "inserted": 96,
+  "updated": 96,
+  "skipped": 0,
+  "price_history": 96,
+  "source_rows": 192,
+  "events": 192,
+  "errors": [],
+  "projects": [
+    {
+      "slug": "ashton-asoke",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "kave-town-space",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "life-ladprao",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "life-one-wireless",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "m-silom",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "noble-around-ari",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "the-esse-asoke",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "the-lofts-silom",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "whizdom-essence",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    },
+    {
+      "slug": "xt-phayathai",
+      "listings": 6,
+      "inserted": 3,
+      "updated": 3
+    }
+  ],
+  "finished_at": "2026-07-14T16:25:47.774Z"
+}

@@ -1,0 +1,335 @@
+{
+  "project_slug": "rhythm-ekkamai",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "11222",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=11222",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=11222",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-fddb76ddb67e-e510-2192-de2e-03b6c089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10416000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 70,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at RHYTHM Ekkamai",
+        "zh": "2 Bedroom Condo for sale at RHYTHM Ekkamai",
+        "th": "2 Bedroom Condo for sale at RHYTHM Ekkamai"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 70 sq.m., 10,416,000 THB. Source DotProperty #fddb76ddb67e-e510-2192-de2e-03b6c089.",
+        "zh": "出售：2卧，70㎡，10,416,000 泰铢。来源 DotProperty #fddb76ddb67e-e510-2192-de2e-03b6c089。",
+        "th": "ขาย: 2 นอน 70 ตร.ม. ราคา 10,416,000 บาท (DotProperty #fddb76ddb67e-e510-2192-de2e-03b6c089)"
+      },
+      "description": {
+        "en": "Experience refined city living at Rhythm Ekkamai, a premium high-rise condo in the heart of Ekkamai-Sukhumvit 63, one of Bangkok’s most desirable lifestyle districts. This 2-bedroom, 2-bathroom corner unit offers 69.51 sqm of well-planned living space on the 7th floor, ideal for those who want comfort, privacy, and everyday convenience in one address.\nThe corner layout gives the unit a more private residential feel, while the garden view adds a calmer atmosphere rarely found in central Bangkok. The home includes air conditioning, a private balcony, covered parking, and a reserved parking spot, making it practical for both city living and long-term ownership.Why This Unit Stands Out\n\n2BR/70sqm—lowest price in the building!  \n-30.89% Below Market Price\nLuxury high-rise condominium.- just 280 meters from BTS Ekkamai  \nPrime Ekkamai location near BTS and Sukhumvit\n10-Floor Sky Facilities: Features high-end amenities spread across 10 floors, including an Infinity Edge Pool, Sky Lounge, and a Floating Lobby\n\nProperty Details\n\n2 Bedrooms | 2 Bathrooms\n69.51 sqm corner unit\n7th floor with garden view\nPrivate balcony\nAir conditioning\nCovered parking with reserved parking spot\n\nNearby Locati",
+        "zh": "来自 DotProperty 挂牌 fddb76ddb67e-e510-2192-de2e-03b6c089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty fddb76ddb67e-e510-2192-de2e-03b6c089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_fddb76ddb67e-e510-2192-de2e-03b6c089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/oSfXto3Uo3CAhwVH2a-9oyrtJyE/0x0/unit/6151816/image-jun-4-2026-11-56-13-am.png",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "fddb76ddb67e-e510-2192-de2e-03b6c089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_fddb76ddb67e-e510-2192-de2e-03b6c089",
+      "source_url_hash": "f6787f2a63fa68017e5a2f91969f5f1681e6e821450e6c747d1046b6b3687a92",
+      "duplicate_fingerprint": "de20eb79f75893b463b776a92daa244baee6393cca40604d97d5a30efa4e06b6",
+      "soft_match_fingerprint": "57d80ba9f2b3ab403e11d38f1b43abe1bd046dd48ac172789ec879f72e0243e8",
+      "_computed_fingerprint": "d52d49793dd4ed6af0eed274e119fbf6311860f21d051d4b49a76d52f87d7176"
+    },
+    {
+      "external_ref": "dotproperty-c0c7433820fd-134e-bbe2-c912-83e5a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 16500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 70,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at RHYTHM Ekkamai",
+        "zh": "2 Bedroom Condo for sale at RHYTHM Ekkamai",
+        "th": "2 Bedroom Condo for sale at RHYTHM Ekkamai"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 70 sq.m., 16,500,000 THB. Source DotProperty #c0c7433820fd-134e-bbe2-c912-83e5a089.",
+        "zh": "出售：2卧，70㎡，16,500,000 泰铢。来源 DotProperty #c0c7433820fd-134e-bbe2-c912-83e5a089。",
+        "th": "ขาย: 2 นอน 70 ตร.ม. ราคา 16,500,000 บาท (DotProperty #c0c7433820fd-134e-bbe2-c912-83e5a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent / sale with a floorsize of 70 squaremeters, located on the 22nd floor, at\nRhythm Ekkamai building, in the popular Watthana district near BTS Ekkamai. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Bathtub\n * Microwave\n * Refrigerator\n * Stove\n * TV\n\nBuilding features:\n * Building completed in 2018\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n * Steam room\n * Functional rooms\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hid",
+        "zh": "来自 DotProperty 挂牌 c0c7433820fd-134e-bbe2-c912-83e5a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty c0c7433820fd-134e-bbe2-c912-83e5a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_c0c7433820fd-134e-bbe2-c912-83e5a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjRiNjEtNzgwZC03YmVlLWI1NjgtY2E5NzE2NjUyZDlkXC84ZWIyODYyZTEwOTlmOTU4OTU1ZmFhMmZlNzE3ZTU1N2EwMTVlN2RkYTI1M2ViNzU0NGFlZDRiMjQxNjk3Njc3LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "c0c7433820fd-134e-bbe2-c912-83e5a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_c0c7433820fd-134e-bbe2-c912-83e5a089",
+      "source_url_hash": "f13d61ee9f613739108c092f00f2f6d9d00a344735c680dbd32f6d3c749b4725",
+      "duplicate_fingerprint": "95ed4ec048a3af94868c9de01de63600b02f3edc585b61fabe1ee6fa01e84f83",
+      "soft_match_fingerprint": "72eeed06a3410e5bca726ad43933ab56bae80c61d7e41042a76964048f400b04",
+      "_computed_fingerprint": "f38799be179a84d798a06328c3f32e038f12aa69672207f41d1ca11f7a0bdcab"
+    },
+    {
+      "external_ref": "dotproperty-b9e390cfea09-2d4e-fa42-ff91-1357a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 15599000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 80,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at RHYTHM Ekkamai",
+        "zh": "2 Bedroom Condo for sale at RHYTHM Ekkamai",
+        "th": "2 Bedroom Condo for sale at RHYTHM Ekkamai"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 80 sq.m., 15,599,000 THB. Source DotProperty #b9e390cfea09-2d4e-fa42-ff91-1357a089.",
+        "zh": "出售：2卧，80㎡，15,599,000 泰铢。来源 DotProperty #b9e390cfea09-2d4e-fa42-ff91-1357a089。",
+        "th": "ขาย: 2 นอน 80 ตร.ม. ราคา 15,599,000 บาท (DotProperty #b9e390cfea09-2d4e-fa42-ff91-1357a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent / sale with a floorsize of 80 squaremeters, located on the 21st floor, at\nRhythm Ekkamai building, in the popular Watthana district near BTS Ekkamai. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2018\n * 24-hours security\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n * Steam room\n * Functional rooms\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 b9e390cfea09-2d4e-fa42-ff91-1357a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty b9e390cfea09-2d4e-fa42-ff91-1357a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_b9e390cfea09-2d4e-fa42-ff91-1357a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjI0NjgtODBhYS03NWZhLWI1YzctMDlmYmFkOTA2YjBlXC85ZjFkNmM2ZWJiYmNiZWJjOGVhYzMxMWY1MDVmZGE1MWFjODgxMWMyMDYyNzU3NzJiYmE4MTM3YTVjYzllNGQxLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "b9e390cfea09-2d4e-fa42-ff91-1357a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_b9e390cfea09-2d4e-fa42-ff91-1357a089",
+      "source_url_hash": "d2c30a680b10951fba4a08309ea4fd54a7f3bb71a5c963c802d16ba062c6340d",
+      "duplicate_fingerprint": "fd4984bb7f077a63711be89f865da1c62e2e93fc8c81fdcd089b87db51c70966",
+      "soft_match_fingerprint": "049de275a152f996d7d713177995f8e6439e48f3890b2d695bd2899e1c9ac97c",
+      "_computed_fingerprint": "9a3cd3c1f35413a9d8074005160acfaf352b5cf4cf054898a45cf738e10f681b"
+    },
+    {
+      "external_ref": "dotproperty-5ec1ba25ee09-9730-1682-fec8-2814a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 21000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at RHYTHM Ekkamai",
+        "zh": "1 Bedroom Condo for rent at RHYTHM Ekkamai",
+        "th": "1 Bedroom Condo for rent at RHYTHM Ekkamai"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 21,000 THB. Source DotProperty #5ec1ba25ee09-9730-1682-fec8-2814a089.",
+        "zh": "出租：1卧，30㎡，21,000 泰铢。来源 DotProperty #5ec1ba25ee09-9730-1682-fec8-2814a089。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 21,000 บาท (DotProperty #5ec1ba25ee09-9730-1682-fec8-2814a089)"
+      },
+      "description": {
+        "en": "Project : RHYTHM Ekkamai\nLocation area: Sukhumvit 63 Sukhumvit , Khlong Tan Nuea , Watthana , Bangkok 10110\nGPS :  \nStation : BTS-Ekkamai \nListing ID : CX-164190 \nFOR RENT : 21,000 ฿ \n\nProperty type : Condo \nNo of floors : 32 \nUsable area : 30 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \nOnyx atrium\nInfinity Edge Pool\nSteam Room\nSauna room\nPanoramic Fitness\nYoga Court\nRhythm Social Club\nRhythm panoramic lounge\nRhythm Observatorium\nRoof Top Garden\nAccess Card Control\nCCTV\nSecurity 24 hours\n\nNearby Facilities : \nBTS Ekkamai 350 meters\nAprl Ramkhamhaeng 4.2 km.\nEkkamai Fresh Market 3.2 m.\nSoi Ekkamai 21 (Soi Chaem Chan)\nMajor Ekkamai 500 m.\nPark Lane 850 m.\nGateway Ekkamai 1.5 km.\nFoodland 1.6 km.\nTops 1.9 km.\nFifty Fifth Avenue 2.2 km.\nJ Avenue 2.3 km.\nEmporium 2.5 km\nEmquatier 3.4 km.\nSukhumvit Hospital 550 m.\nCamillian Hospital 2.3 km.\nSamitivej Hospital 2.4 km.\n\nZone : \nSukhumvit, Asoke, Thonglor, Ekamai, Ekkamai, Prompong, Phrom Phong \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished prop",
+        "zh": "来自 DotProperty 挂牌 5ec1ba25ee09-9730-1682-fec8-2814a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 5ec1ba25ee09-9730-1682-fec8-2814a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_5ec1ba25ee09-9730-1682-fec8-2814a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU4MTctMWRiYS03MTM4LTk2MjAtMDliYjQ3ZmU4ZGI0XC9jNjdiMTlmMmIxMTZmMjI4ZWU0YzBlYWNlMTNkNDU1MDEwYmU2NTAzNDFmODYyYjNiYzA0YTUwYWUxNTQzOTg5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "5ec1ba25ee09-9730-1682-fec8-2814a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_5ec1ba25ee09-9730-1682-fec8-2814a089",
+      "source_url_hash": "b8617c2fa01e4de776b50dcd12e967e71fd433cf85b19bc2b4b0344fa1730bae",
+      "duplicate_fingerprint": "51ca54faf0da3da4d515a6f9209602c1e952d620f3c77bb56feb97cdcac22893",
+      "soft_match_fingerprint": "ae2b311a4834e08634440936a5b233d76461a128999a6c6cfa2ce4f1cc7d72be",
+      "_computed_fingerprint": "130cde480485be90dce186432fa373f5f1cbaf1f272598b2fac7649c9726fce9"
+    },
+    {
+      "external_ref": "dotproperty-a371193b24ef-0cae-6a72-29a9-c0c5a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "16",
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at RHYTHM Ekkamai",
+        "zh": "1 Bedroom Condo for rent at RHYTHM Ekkamai",
+        "th": "1 Bedroom Condo for rent at RHYTHM Ekkamai"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 30,000 THB. Source DotProperty #a371193b24ef-0cae-6a72-29a9-c0c5a089.",
+        "zh": "出租：1卧，35㎡，30,000 泰铢。来源 DotProperty #a371193b24ef-0cae-6a72-29a9-c0c5a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 30,000 บาท (DotProperty #a371193b24ef-0cae-6a72-29a9-c0c5a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID 58005\n\n\n1 bedroom, 1 bathroom condo for rent with a floorsize of 35 squaremeters, located on the 16th floor, at Rhythm Ekkamai building,\nin the popular Watthana district near BTS Ekkamai. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Microwave\n * Refrigerator\n\nBuilding features:\n * Building completed in 2018\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n * Steam room\n * Functional rooms\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 a371193b24ef-0cae-6a72-29a9-c0c5a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty a371193b24ef-0cae-6a72-29a9-c0c5a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_a371193b24ef-0cae-6a72-29a9-c0c5a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjRkOWQtMGYwNy03MmYzLWJmZDktYWI1N2U2MDg4MjZmXC8zMmE1MTI4ZDc3YzIyY2Q2NmVmNWEzMzQ0MWI3ODA4NWY4OWE3NDdmYTUyMzQxM2VhYWY0ODllMWMxYzUxNzJjLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "a371193b24ef-0cae-6a72-29a9-c0c5a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_a371193b24ef-0cae-6a72-29a9-c0c5a089",
+      "source_url_hash": "995ecc4b61e7839adfe602ae942355d345d1d9c740adf09d098db6e851016815",
+      "duplicate_fingerprint": "76a9ec16d032a64523a51273e8d185e72af53584f32ef26e96bffea7eb183512",
+      "soft_match_fingerprint": "c3c551ec79ef8c66ee2a2f6276a64775114115b2b9b2caaaa307cc443b466ff0",
+      "_computed_fingerprint": "dbc2ce205290a9100623533517b2d108d212f67cbf4dddfcd34490d0a9ac962e"
+    },
+    {
+      "external_ref": "dotproperty-8b5c8dc066bd-cce0-0d62-0025-8fc5a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 32000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "rhythm-ekkamai",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at RHYTHM Ekkamai",
+        "zh": "1 Bedroom Condo for rent at RHYTHM Ekkamai",
+        "th": "1 Bedroom Condo for rent at RHYTHM Ekkamai"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 32,000 THB. Source DotProperty #8b5c8dc066bd-cce0-0d62-0025-8fc5a089.",
+        "zh": "出租：1卧，35㎡，32,000 泰铢。来源 DotProperty #8b5c8dc066bd-cce0-0d62-0025-8fc5a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 32,000 บาท (DotProperty #8b5c8dc066bd-cce0-0d62-0025-8fc5a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 35 squaremeters, located on the 20th floor, at Rhythm\nEkkamai building, in the popular Watthana district near BTS Ekkamai. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2018\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n * Steam room\n * Functional rooms\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 8b5c8dc066bd-cce0-0d62-0025-8fc5a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 8b5c8dc066bd-cce0-0d62-0025-8fc5a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_8b5c8dc066bd-cce0-0d62-0025-8fc5a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjRkYTEtNDc5OS03M2M5LTliZGQtY2UzMzlkYzFkNGUxXC80OWU5ZDA3ZTkxOGJlZTgxN2QyOTljNWM3MWFhYzlhNjk1ZjZhMWI0OGUyZDUzMGVkZGRlOTVlYWI0ZGZhNmEyLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "8b5c8dc066bd-cce0-0d62-0025-8fc5a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-rhythm-ekkamai-khlong-tan-nuea-bangkok_8b5c8dc066bd-cce0-0d62-0025-8fc5a089",
+      "source_url_hash": "07856ac3fc2fe53f3dd34f97e05a54b9c87a19b026c2ad71722533374699dc00",
+      "duplicate_fingerprint": "5127008b195db59dfd0d1f3b49aa4e65a36d90caa8844772ac87517384849215",
+      "soft_match_fingerprint": "eb18d4b7f315b43b95d2e894ffb96c340d4231c6927a0f886fd9073ea54fa140",
+      "_computed_fingerprint": "1cc04ee303f878a027b63fbf62e7743ca4048fe94a08257a327b5eb092bb24d5"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "project_slug": "the-line-sukhumvit-101",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "11844",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=11844",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=11844",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-851d1fc4e5e8-5c30-3c62-ad6b-ef73c089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3305000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The Line sukhumvit 101",
+        "zh": "1 Bedroom Condo for sale at The Line sukhumvit 101",
+        "th": "1 Bedroom Condo for sale at The Line sukhumvit 101"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 28 sq.m., 3,305,000 THB. Source DotProperty #851d1fc4e5e8-5c30-3c62-ad6b-ef73c089.",
+        "zh": "出售：1卧，28㎡，3,305,000 泰铢。来源 DotProperty #851d1fc4e5e8-5c30-3c62-ad6b-ef73c089。",
+        "th": "ขาย: 1 นอน 28 ตร.ม. ราคา 3,305,000 บาท (DotProperty #851d1fc4e5e8-5c30-3c62-ad6b-ef73c089)"
+      },
+      "description": {
+        "en": "Looking for a smart entry price with immediate rental income? This 1-bedroom condo at The [hidden line] 101 is one of the most compelling investment opportunities currently available in Bangkok’s high-demand Sukhumvit corridor.\nPositioned at 15.47% below market price and currently listed as the cheapest unit in the project on FazWaz, this property offers rare value for buyers seeking strong rental appeal, long-term upside, and an accessible price point in a prime BTS location.\nLocated on the 22nd floor, this 27.51 sqm unit enjoys a clear, unblocked city view, adding strong appeal for tenants and future resale buyers. With a tenant already in place, investors can start earning rental income immediately without waiting for setup or marketing.\nWhy This Unit Is a Smart Buy\n\n15.47% below market price with the cheapest entry point in the project on FazWaz\nHigh-floor unit with open skyline view for stronger rental and resale appeal\nStrong demand from expats, working professionals, and BTS commuters\nIdeal for first-time investors, portfolio buyers, or buyers seeking long-term value\n\nKey Property Highlights\n\n1 Bedroom | 1 Bathroom\n27.51 sqm of well-planned living space\n22nd floor with open,",
+        "zh": "来自 DotProperty 挂牌 851d1fc4e5e8-5c30-3c62-ad6b-ef73c089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 851d1fc4e5e8-5c30-3c62-ad6b-ef73c089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-line-sukhumvit-101-bang-chak-bangkok_851d1fc4e5e8-5c30-3c62-ad6b-ef73c089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/YzS7vyrCaERtbVhZhaK2IvFEVQo/0x0/unit/6171845/whatsapp-image-2026-06-05-at-44237-pm.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "851d1fc4e5e8-5c30-3c62-ad6b-ef73c089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-line-sukhumvit-101-bang-chak-bangkok_851d1fc4e5e8-5c30-3c62-ad6b-ef73c089",
+      "source_url_hash": "78aa0f6cf959a95c12e56e7f04c7afc7b2da64e1402db5c9e0eb9a894b890c78",
+      "duplicate_fingerprint": "688ab029a87aec55134b60dc7527ee7793eb5cfeb97de174c70d131fd8f9cc24",
+      "soft_match_fingerprint": "1a20054b458a274f6a22093eb2443b6d4311179e2fdf05e15fe09d6d26f75123",
+      "_computed_fingerprint": "ac281616d8a8fced13f557a3821bb09246a453ac29b3d68db52482e59e09a082"
+    },
+    {
+      "external_ref": "dotproperty-779b92e7eef9-4971-8262-7399-ec45a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The Line sukhumvit 101",
+        "zh": "1 Bedroom Condo for sale at The Line sukhumvit 101",
+        "th": "1 Bedroom Condo for sale at The Line sukhumvit 101"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 33 sq.m., 4,000,000 THB. Source DotProperty #779b92e7eef9-4971-8262-7399-ec45a089.",
+        "zh": "出售：1卧，33㎡，4,000,000 泰铢。来源 DotProperty #779b92e7eef9-4971-8262-7399-ec45a089。",
+        "th": "ขาย: 1 นอน 33 ตร.ม. ราคา 4,000,000 บาท (DotProperty #779b92e7eef9-4971-8262-7399-ec45a089)"
+      },
+      "description": {
+        "en": "Enjoy comfortable city living at THE [hidden line] 101 with this stylish 1-bedroom condo. Located on the 8th floor, the unit offers a pleasant city view and a functional 32 sq.m. layout, making it ideal for both homeowners and investors.\nConveniently situated in the Sukhumvit area with easy access to public transportation, shopping, dining, and everyday amenities.\nProperty Details\n\n1 Bedroom\n32 sq.m.\n8th Floor\nCity View\n\nAsking Price: THB 4,000,000",
+        "zh": "来自 DotProperty 挂牌 779b92e7eef9-4971-8262-7399-ec45a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 779b92e7eef9-4971-8262-7399-ec45a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-line-sukhumvit-101-bang-chak-bangkok_779b92e7eef9-4971-8262-7399-ec45a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/O7d22BAKCJKCj9sNo2fSPJzrHVg/0x0/unit/6569740/s-21700626-0.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "779b92e7eef9-4971-8262-7399-ec45a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-line-sukhumvit-101-bang-chak-bangkok_779b92e7eef9-4971-8262-7399-ec45a089",
+      "source_url_hash": "999f9d346e4fe88b3e0307b094b31b02620059368fda7b6b3067860874dba07f",
+      "duplicate_fingerprint": "de67ecdbcc3d269c2bbcc2a5f891607dfd3a322c85714d9c14b5667ac469c645",
+      "soft_match_fingerprint": "4ea15303b8613d6182050f8a292bfc5ca6627e15e38004732d9e00423b4cff9d",
+      "_computed_fingerprint": "2675ecdcc24b82b16a925823e114f497f570b1bc9456ad4ea58b880d18fc9acd"
+    },
+    {
+      "external_ref": "dotproperty-00de6fd56d06-6a0e-6f22-0b0b-3cf4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3450000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": "8",
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The Line sukhumvit 101",
+        "zh": "1 Bedroom Condo for sale at The Line sukhumvit 101",
+        "th": "1 Bedroom Condo for sale at The Line sukhumvit 101"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 28 sq.m., 3,450,000 THB. Source DotProperty #00de6fd56d06-6a0e-6f22-0b0b-3cf4a089.",
+        "zh": "出售：1卧，28㎡，3,450,000 泰铢。来源 DotProperty #00de6fd56d06-6a0e-6f22-0b0b-3cf4a089。",
+        "th": "ขาย: 1 นอน 28 ตร.ม. ราคา 3,450,000 บาท (DotProperty #00de6fd56d06-6a0e-6f22-0b0b-3cf4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 27.5 squaremeters, located on the 8th floor, at The [hidden line] /&gt;\nSukhumvit 101 building, in the popular Phra Khanong district near BTS Punnawithi. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2020\n * Covered car park\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n * Running track\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 00de6fd56d06-6a0e-6f22-0b0b-3cf4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 00de6fd56d06-6a0e-6f22-0b0b-3cf4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-line-sukhumvit-101-bang-chak-bangkok_00de6fd56d06-6a0e-6f22-0b0b-3cf4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVhZDYtZTllOS03N2EzLWI5ZjMtMzljMzRjYTNiYzk5XC9mZGE3YmRiNGMzYTUzMWY5ZTQ5MmU3NjY0MDYxYmM1M2Q1YmQzZTg3MzIyZTNmMDQyYTRjZWFjMWE2Y2ZiNjMzLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "00de6fd56d06-6a0e-6f22-0b0b-3cf4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-line-sukhumvit-101-bang-chak-bangkok_00de6fd56d06-6a0e-6f22-0b0b-3cf4a089",
+      "source_url_hash": "e5c93c4e474a2c984dad4775ab5babd3cba2c527609f6967d9c3d1a1669d6ae5",
+      "duplicate_fingerprint": "918bac8ab83cc2ec7f233e064bede13fd1eff4fa7dbd6e46fb422f2b15145f72",
+      "soft_match_fingerprint": "d54b0eb9042f5b8ef2c5e3bbc3fec43323422e5f967e1e5f90b472c252be8e59",
+      "_computed_fingerprint": "93d51bb423feb981e4c177a408b37ce8f8895dd349eb40bdf6c9ac9e176e56be"
+    },
+    {
+      "external_ref": "dotproperty-f1cbab16828f-a85e-5be2-ce96-4814a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 43,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Line sukhumvit 101",
+        "zh": "1 Bedroom Condo for rent at The Line sukhumvit 101",
+        "th": "1 Bedroom Condo for rent at The Line sukhumvit 101"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 43 sq.m., 22,000 THB. Source DotProperty #f1cbab16828f-a85e-5be2-ce96-4814a089.",
+        "zh": "出租：1卧，43㎡，22,000 泰铢。来源 DotProperty #f1cbab16828f-a85e-5be2-ce96-4814a089。",
+        "th": "เช่า: 1 นอน 43 ตร.ม. ราคา 22,000 บาท (DotProperty #f1cbab16828f-a85e-5be2-ce96-4814a089)"
+      },
+      "description": {
+        "en": "Project : The [hidden line] 101\nLocation area:  Sukhumvit , Bang Chak , Phra Khanong , Bangkok 10260\nGPS :  \nStation : BTS-Punnawithi \nListing ID : CX-77802 \nFOR RENT : 22,000 ฿ \n\nProperty type : Condo \nNo of floors : 37 \nUsable area : 43 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nFurniture : \n\nCommon Facilities : \n  -24  -hour security\n -swimming pool\n -Fitness\n -Garden\n -sauna\n\nNearby Facilities : \nMini Big C: 80 m.\n101 The Third Place: 600 m.\nMarko Udomsuk: 1.9 km.\nBangkok Mall: 2 km.\nThe phyll: 2.6 km.\nTesco Lotus Sukhumvit 50: 2.8 km.\nCentury The Movie Plaza: 2.8 km.\nThe Beacon Place: 3.2 km.\nBig C Extra Onnut: 4 km.\nOnnut Market: 4 km.\nPeople Park: 4 km.\nSummer Hill: 4.2 km.\nGateway Ekkamai: 5 km.\nCentral Bangna: 5 km.\nBig C Bangna: 5 km.\nW District: 5.2 km.\nMajor Ekkamai: 5.3 km.\nAnglo Singapore International School: 500 m.\nWells International School: 3.2 km.\nBerkeley International School: 2.9 km.\nBangkok Prep: 5.4 km.\nBan Kluai Nam Thai Hospital 2: 1.9 km.\nBan Kluai Nam Thai Hospital: 5 km.\nSukhumvit Hospital: 5.1 km.\nThai Nakarin Hospital: 5.7 km.\n\nZone : \nOnnut, Udomsuk, Phrakhanong, Prakanong, Bangchak, Punnawithi \n\n**Free consultation! seeking to bu",
+        "zh": "来自 DotProperty 挂牌 f1cbab16828f-a85e-5be2-ce96-4814a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty f1cbab16828f-a85e-5be2-ce96-4814a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-line-sukhumvit-101-bang-chak-bangkok_f1cbab16828f-a85e-5be2-ce96-4814a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU4MTUtMzBiZC03YmU0LWI0MWYtYTE3MTM4ZWZlZDhhXC83ZjcyZTMwNzY1MzdjM2MzOTNjMmQxMWMwODdkZGIwYjFjOTdlMzMxMzViMGE4OTlhYWNjMmU5NWY2N2EwZjkxLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "f1cbab16828f-a85e-5be2-ce96-4814a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-line-sukhumvit-101-bang-chak-bangkok_f1cbab16828f-a85e-5be2-ce96-4814a089",
+      "source_url_hash": "166cde3edd310e0ee745afa5b98761e0ba44d6422be54dd830f53ec2c0966ff0",
+      "duplicate_fingerprint": "6449d908c5f3fc08ba0af902dc0970669d924bd133d899af48bd40d9f14b7347",
+      "soft_match_fingerprint": "c75eb20a041f10eb38cf3b46dd83108cc0f4418bb0b585d5c11038e27dfc83c9",
+      "_computed_fingerprint": "5fd9d38077f5bd287949f5e37c3561e71e3e6a43b145a860719211df39e51e75"
+    },
+    {
+      "external_ref": "dotproperty-c20ce07c83dc-e390-9a32-cef0-2514a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 33,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Line sukhumvit 101",
+        "zh": "1 Bedroom Condo for rent at The Line sukhumvit 101",
+        "th": "1 Bedroom Condo for rent at The Line sukhumvit 101"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 33 sq.m., 18,000 THB. Source DotProperty #c20ce07c83dc-e390-9a32-cef0-2514a089.",
+        "zh": "出租：1卧，33㎡，18,000 泰铢。来源 DotProperty #c20ce07c83dc-e390-9a32-cef0-2514a089。",
+        "th": "เช่า: 1 นอน 33 ตร.ม. ราคา 18,000 บาท (DotProperty #c20ce07c83dc-e390-9a32-cef0-2514a089)"
+      },
+      "description": {
+        "en": "Project : The [hidden line] 101\nLocation area:  Sukhumvit , Bang Chak , Phra Khanong , Bangkok 10260\nGPS :  \nStation : BTS-Punnawithi \nListing ID : CX-120759 \nFOR RENT : 18,000 ฿ \n\nProperty type : Condo \nNo of floors : 37 \nUsable area : 32.5 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \n  -24  -hour security\n -swimming pool\n -Fitness\n -Garden\n -sauna\n\nNearby Facilities : \nMini Big C: 80 m.\n101 The Third Place: 600 m.\nMarko Udomsuk: 1.9 km.\nBangkok Mall: 2 km.\nThe phyll: 2.6 km.\nTesco Lotus Sukhumvit 50: 2.8 km.\nCentury The Movie Plaza: 2.8 km.\nThe Beacon Place: 3.2 km.\nBig C Extra Onnut: 4 km.\nOnnut Market: 4 km.\nPeople Park: 4 km.\nSummer Hill: 4.2 km.\nGateway Ekkamai: 5 km.\nCentral Bangna: 5 km.\nBig C Bangna: 5 km.\nW District: 5.2 km.\nMajor Ekkamai: 5.3 km.\nAnglo Singapore International School: 500 m.\nWells International School: 3.2 km.\nBerkeley International School: 2.9 km.\nBangkok Prep: 5.4 km.\nBan Kluai Nam Thai Hospital 2: 1.9 km.\nBan Kluai Nam Thai Hospital: 5 km.\nSukhumvit Hospital: 5.1 km.\nThai Nakarin Hospital: 5.7 km.\n\nZone : \nOnnut, Udomsuk, Phrakhanong, Prakanong, Bangchak, P",
+        "zh": "来自 DotProperty 挂牌 c20ce07c83dc-e390-9a32-cef0-2514a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty c20ce07c83dc-e390-9a32-cef0-2514a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-line-sukhumvit-101-bang-chak-bangkok_c20ce07c83dc-e390-9a32-cef0-2514a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU4NDctOWFiZC03NmYwLTkwNmItZGM2MWQyOWJkOTdkXC9lNjU0NjVjNDdiYjU4MTQyMDIyNDcwNDdjMmQ2YzM4NDdjM2JkYmI0NmI1OGRhMTE2NDIxMzExMWE1ZjRkOTA3LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "c20ce07c83dc-e390-9a32-cef0-2514a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-line-sukhumvit-101-bang-chak-bangkok_c20ce07c83dc-e390-9a32-cef0-2514a089",
+      "source_url_hash": "38920f4c6ea721f62f07cae0fa910514c47fbd3c4f67113265da40f4136ff654",
+      "duplicate_fingerprint": "f5b507ff4ae6037f2369b291ad9129d48343400ca98992bf3fcc2ed1222b22b6",
+      "soft_match_fingerprint": "7a5c64fb7e128e2a6c3d57daa0147c1c8320ef304878899401d13cb05a304e8d",
+      "_computed_fingerprint": "5e798dd9c472b9ca791179d79795f2b5682bedb1bc416b085669dcdd357d9570"
+    },
+    {
+      "external_ref": "dotproperty-5efaff91cc0d-157e-60d2-0975-4814a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-line-sukhumvit-101",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Line sukhumvit 101",
+        "zh": "1 Bedroom Condo for rent at The Line sukhumvit 101",
+        "th": "1 Bedroom Condo for rent at The Line sukhumvit 101"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 16,500 THB. Source DotProperty #5efaff91cc0d-157e-60d2-0975-4814a089.",
+        "zh": "出租：1卧，28㎡，16,500 泰铢。来源 DotProperty #5efaff91cc0d-157e-60d2-0975-4814a089。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 16,500 บาท (DotProperty #5efaff91cc0d-157e-60d2-0975-4814a089)"
+      },
+      "description": {
+        "en": "Project : The [hidden line] 101\nLocation area:  Sukhumvit , Bang Chak , Phra Khanong , Bangkok 10260\nGPS :  \nStation : BTS-Punnawithi \nListing ID : CX-138664 \nFOR RENT : 16,500 ฿ \n\nProperty type : Condo \nNo of floors : 37 \nUsable area : 27.51 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \n  -24  -hour security\n -swimming pool\n -Fitness\n -Garden\n -sauna\n\nNearby Facilities : \nMini Big C: 80 m.\n101 The Third Place: 600 m.\nMarko Udomsuk: 1.9 km.\nBangkok Mall: 2 km.\nThe phyll: 2.6 km.\nTesco Lotus Sukhumvit 50: 2.8 km.\nCentury The Movie Plaza: 2.8 km.\nThe Beacon Place: 3.2 km.\nBig C Extra Onnut: 4 km.\nOnnut Market: 4 km.\nPeople Park: 4 km.\nSummer Hill: 4.2 km.\nGateway Ekkamai: 5 km.\nCentral Bangna: 5 km.\nBig C Bangna: 5 km.\nW District: 5.2 km.\nMajor Ekkamai: 5.3 km.\nAnglo Singapore International School: 500 m.\nWells International School: 3.2 km.\nBerkeley International School: 2.9 km.\nBangkok Prep: 5.4 km.\nBan Kluai Nam Thai Hospital 2: 1.9 km.\nBan Kluai Nam Thai Hospital: 5 km.\nSukhumvit Hospital: 5.1 km.\nThai Nakarin Hospital: 5.7 km.\n\nZone : \nOnnut, Udomsuk, Phrakhanong, Prakanong, Bangchak, ",
+        "zh": "来自 DotProperty 挂牌 5efaff91cc0d-157e-60d2-0975-4814a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 5efaff91cc0d-157e-60d2-0975-4814a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-line-sukhumvit-101-bang-chak-bangkok_5efaff91cc0d-157e-60d2-0975-4814a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU4MTUtNDIwOS03YzkzLWIyNDgtYzlkZDgwYWFmYWI0XC8yN2ZiYmQ3NDZkZTM5Mjg5MzA4Yzk2Y2UwM2Y3YWE0MDA2NmI3NzQ3NTJhNGU4Nzk2YmZkNGMzMGViNmQ1OTIyLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "5efaff91cc0d-157e-60d2-0975-4814a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-line-sukhumvit-101-bang-chak-bangkok_5efaff91cc0d-157e-60d2-0975-4814a089",
+      "source_url_hash": "6c22f46762c2ad40da59519ef5068ffde269e71a7e846fa61408c306870d306f",
+      "duplicate_fingerprint": "5cdd5b3eb8d33886853c58b3519be5b957b56c125b678ff027afb523101082a8",
+      "soft_match_fingerprint": "10d460e4448e915fa6db4dacaaee67d389032485d337de43a6b3e7624386bb60",
+      "_computed_fingerprint": "38fd134d7f90a1c475e6f14a69d6c780cf249d17e0fbc68eeb773201daaa4d11"
+    }
+  ]
+}

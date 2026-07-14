@@ -1,0 +1,335 @@
+{
+  "project_slug": "supalai-lite-sathorn-charoenrat",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "2171",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=2171",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=2171",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-799e610a3f2f-dde1-6b92-3ecd-a0a9a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Supalai Lite Sathorn - Charoenrat",
+        "zh": "1 Bedroom Condo for sale at Supalai Lite Sathorn - Charoenrat",
+        "th": "1 Bedroom Condo for sale at Supalai Lite Sathorn - Charoenrat"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 2,400,000 THB. Source DotProperty #799e610a3f2f-dde1-6b92-3ecd-a0a9a089.",
+        "zh": "出售：1卧，35㎡，2,400,000 泰铢。来源 DotProperty #799e610a3f2f-dde1-6b92-3ecd-a0a9a089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 2,400,000 บาท (DotProperty #799e610a3f2f-dde1-6b92-3ecd-a0a9a089)"
+      },
+      "description": {
+        "en": "Project : Supalai Lite Sathorn-Charoenrat\nLocation area:  Charoen Rat , Bang Khlo , Bang Kho Laem , Bangkok 10120\nGPS :  \nStation : BTS-Surasak \nListing ID : CX-161520 \nFOR SELL : 2,400,000 ฿ \n\nProperty type : Condo \nNo of floors : 26 \nUsable area : 35 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \n  -24  -hour security\n -swimming pool\n -Fitness\n -Garden\n -sauna\n\nNearby Facilities : \n -HomePro Rama 3\n -St. Louis Hospital\n -Chuberry International School\n\nZone : \nSathorn, Narathiwat,Yenakart, Chong Nonsi, Surasak \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished property \nCall: [hidden phone] \nE-Mail: [hidden email] \nFacebook: Connex Property \n[hidden line] @connexproperty \n Whatsapp: [hidden phone] \nWechat ID : wxid_idbemm7t5gbj22 \n[hidden url] \nupdate : [hidden phone]:40:01\n",
+        "zh": "来自 DotProperty 挂牌 799e610a3f2f-dde1-6b92-3ecd-a0a9a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 799e610a3f2f-dde1-6b92-3ecd-a0a9a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_799e610a3f2f-dde1-6b92-3ecd-a0a9a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjBmOWYtY2RiNi03MGUzLThiY2MtYTdhNmY5ODNiMDAyXC83M2UzYmQzZGU4YTljMTViYjZhZTUyNTA4NTJlNmMxMzY0ZjUzZTFlMzQwMDkxMzQxNmMzMzAyOWEwNTQwNTg4LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "799e610a3f2f-dde1-6b92-3ecd-a0a9a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_799e610a3f2f-dde1-6b92-3ecd-a0a9a089",
+      "source_url_hash": "bcdcfa10f87135bf814ff2c9904ac44c68529f2a34c7b2a95d53797c36e2eeab",
+      "duplicate_fingerprint": "4f060c11d1c48f96de441dd8fcfc13a7041fbf149f0134e1f472b7a43f03cef2",
+      "soft_match_fingerprint": "7dbe79e972496b27ded085a9570584cfdf0604bd161f2414c2fc8858a052b617",
+      "_computed_fingerprint": "3b8183a88f977f576cec67f68a121e851f07d3a7c03e0ad20bae27291e79b13b"
+    },
+    {
+      "external_ref": "dotproperty-63185e069a61-6c51-8bf2-d9eb-11359089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4330000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 49,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Supalai Lite Sathorn - Charoenrat",
+        "zh": "1 Bedroom Condo for sale at Supalai Lite Sathorn - Charoenrat",
+        "th": "1 Bedroom Condo for sale at Supalai Lite Sathorn - Charoenrat"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 49 sq.m., 4,330,000 THB. Source DotProperty #63185e069a61-6c51-8bf2-d9eb-11359089.",
+        "zh": "出售：1卧，49㎡，4,330,000 泰铢。来源 DotProperty #63185e069a61-6c51-8bf2-d9eb-11359089。",
+        "th": "ขาย: 1 นอน 49 ตร.ม. ราคา 4,330,000 บาท (DotProperty #63185e069a61-6c51-8bf2-d9eb-11359089)"
+      },
+      "description": {
+        "en": "This property is a 49 SqM condo with 1 bedroom and 1 bathroom that is available for sale. It is part of the Supalai Lite Sathorn - Charoenrat project in Bang Khlo, Bangkok and was completed in Dec 2015. You can buy this condo for a base price of ฿4,330,000 (฿88,367/SqM) and it is also available for long term rentals starting from ฿18,000 per month.",
+        "zh": "来自 DotProperty 挂牌 63185e069a61-6c51-8bf2-d9eb-11359089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 63185e069a61-6c51-8bf2-d9eb-11359089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_63185e069a61-6c51-8bf2-d9eb-11359089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/igoTNXGQmzl3g2GVpYeBPz-sj1I/0x0/unit/73228/5ae0638037497d41395657bc.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "63185e069a61-6c51-8bf2-d9eb-11359089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_63185e069a61-6c51-8bf2-d9eb-11359089",
+      "source_url_hash": "a5379f9cd861f4bac9b23e8d325b307d254462bafc2d95c1bead5949734fe8ba",
+      "duplicate_fingerprint": "d664c81483a40669f6c368a8c3e578aa004b4e12e834f0e9db99cb4d23cce149",
+      "soft_match_fingerprint": "cd5668a4afa2223ea38bd445d75f8663749b01f1258a13be768e0624ffb1680c",
+      "_computed_fingerprint": "7663e906082f032b05d71af3c5a32f6244701c9b836a168c02456c9bedbce074"
+    },
+    {
+      "external_ref": "dotproperty-73dadc337679-25b1-e182-2e09-3d9ec089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4490000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 49,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Supalai Lite Sathorn - Charoenrat",
+        "zh": "1 Bedroom Condo for sale at Supalai Lite Sathorn - Charoenrat",
+        "th": "1 Bedroom Condo for sale at Supalai Lite Sathorn - Charoenrat"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 49 sq.m., 4,490,000 THB. Source DotProperty #73dadc337679-25b1-e182-2e09-3d9ec089.",
+        "zh": "出售：1卧，49㎡，4,490,000 泰铢。来源 DotProperty #73dadc337679-25b1-e182-2e09-3d9ec089。",
+        "th": "ขาย: 1 นอน 49 ตร.ม. ราคา 4,490,000 บาท (DotProperty #73dadc337679-25b1-e182-2e09-3d9ec089)"
+      },
+      "description": {
+        "en": "This property is a 49 SqM condo with 1 bedroom and 1 bathroom that is available for sale. It is part of the Supalai Lite Sathorn - Charoenrat project in Bang Khlo, Bangkok and was completed in Dec 2015. You can buy this condo for a base price of ฿4,490,000 (฿91,633/SqM).",
+        "zh": "来自 DotProperty 挂牌 73dadc337679-25b1-e182-2e09-3d9ec089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 73dadc337679-25b1-e182-2e09-3d9ec089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_73dadc337679-25b1-e182-2e09-3d9ec089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/SmuTkOQHLYpuNvMzEudO1ryLnas/0x0/unit/6201385/05-img-20200121-105854-small-enhanced.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "73dadc337679-25b1-e182-2e09-3d9ec089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_73dadc337679-25b1-e182-2e09-3d9ec089",
+      "source_url_hash": "2857b7d4347c829e2eaf75a5d181be946d2e33a03f1d7b329f2c4b690d71da29",
+      "duplicate_fingerprint": "d806063b5f84c766bc2771d21a1e4b0c727b23c8fbcd968ee472bb5546b9e0e2",
+      "soft_match_fingerprint": "cd5668a4afa2223ea38bd445d75f8663749b01f1258a13be768e0624ffb1680c",
+      "_computed_fingerprint": "e8574b7092296d8d9e31954ef1754f719f4ea0e4d124528eb909c3727bd2150a"
+    },
+    {
+      "external_ref": "dotproperty-d287d1c79be3-5e11-e4f2-023f-2007a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 85,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at Supalai Lite Sathorn - Charoenrat",
+        "zh": "2 Bedroom Condo for rent at Supalai Lite Sathorn - Charoenrat",
+        "th": "2 Bedroom Condo for rent at Supalai Lite Sathorn - Charoenrat"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 85 sq.m., 30,000 THB. Source DotProperty #d287d1c79be3-5e11-e4f2-023f-2007a089.",
+        "zh": "出租：2卧，85㎡，30,000 泰铢。来源 DotProperty #d287d1c79be3-5e11-e4f2-023f-2007a089。",
+        "th": "เช่า: 2 นอน 85 ตร.ม. ราคา 30,000 บาท (DotProperty #d287d1c79be3-5e11-e4f2-023f-2007a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID 515488\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent with a floorsize of 85 squaremeters, located on the 25th floor, at Supalai\nLite Sathorn-Charoenrat building, in the popular Bang Kho Laem district. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Refrigerator\n * Microwave\n * Stove\n * Balcony\n * TV\n\nBuilding features:\n * Building completed in 2015\n * Gym\n * Relaxing swimming pool\n * Kids play area\n * Open car park\n * Covered car park\n * Parking space available\n * Security cameras\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 d287d1c79be3-5e11-e4f2-023f-2007a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty d287d1c79be3-5e11-e4f2-023f-2007a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_d287d1c79be3-5e11-e4f2-023f-2007a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjI5OTctYTY3OS03YTViLTg4YjQtNmJlMDJkOGMyMTdjXC81YTgxMjVkYTMzZmQyMDdjZWMyNWQzZWU5ZDg1NGMwYzc3ODQ5MDYwOTQ2NGFlMWYzZmFlYTEyM2Y4MmVhZmJhLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "d287d1c79be3-5e11-e4f2-023f-2007a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_d287d1c79be3-5e11-e4f2-023f-2007a089",
+      "source_url_hash": "47db071c42a291169eabd6fa77f32d610c8ad4e9581c56d1475b811d7abe06c8",
+      "duplicate_fingerprint": "3552d2612b298545ace2cf8223dd39870a2fecaee2bb2f5e9047998f97148fc2",
+      "soft_match_fingerprint": "cd68b86648ef6a71f0b2630e99792601cf822d45fdbc0aba618a96bf13fe127e",
+      "_computed_fingerprint": "c3a81da13c6abdb91f2f53b0d5ee6da70d1620a5f0fe2c7aabe33adc360619a8"
+    },
+    {
+      "external_ref": "dotproperty-74a98774d0fe-2361-c962-bf7b-9f45b089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 53,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Supalai Lite Sathorn - Charoenrat",
+        "zh": "1 Bedroom Condo for rent at Supalai Lite Sathorn - Charoenrat",
+        "th": "1 Bedroom Condo for rent at Supalai Lite Sathorn - Charoenrat"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 53 sq.m., 18,000 THB. Source DotProperty #74a98774d0fe-2361-c962-bf7b-9f45b089.",
+        "zh": "出租：1卧，53㎡，18,000 泰铢。来源 DotProperty #74a98774d0fe-2361-c962-bf7b-9f45b089。",
+        "th": "เช่า: 1 นอน 53 ตร.ม. ราคา 18,000 บาท (DotProperty #74a98774d0fe-2361-c962-bf7b-9f45b089)"
+      },
+      "description": {
+        "en": "Project : Supalai Lite Sathorn-Charoenrat\nLocation area:  Charoen Rat , Bang Khlo , Bang Kho Laem , Bangkok 10120\nGPS :  \nStation : BTS-Surasak \nListing ID : CX-113342 \nFOR RENT : 18,000 ฿ \n\nProperty type : Condo \nNo of floors : 26 \nUsable area : 53.27 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \n  -24  -hour security\n -swimming pool\n -Fitness\n -Garden\n -sauna\n\nNearby Facilities : \n -HomePro Rama 3\n -St. Louis Hospital\n -Chuberry International School\n\nZone : \nSathorn, Narathiwat,Yenakart, Chong Nonsi, Surasak \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished property \nCall: [hidden phone] \nE-Mail: [hidden email] \nFacebook: Connex Property \n[hidden line] @connexproperty \n Whatsapp: [hidden phone] \nWechat ID : wxid_idbemm7t5gbj22 \n[hidden url] \nupdate : [hidden phone]:40:02\n",
+        "zh": "来自 DotProperty 挂牌 74a98774d0fe-2361-c962-bf7b-9f45b089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 74a98774d0fe-2361-c962-bf7b-9f45b089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_74a98774d0fe-2361-c962-bf7b-9f45b089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZTQyZjEtOTUyYi03ZTFiLTgyMjItYjlmYzVlNTFlYWIyXC9iNGU4YTU0Njc1YzBkMDM1Y2I4ZDAzNWNmM2Y4YzEwYjM1NTNhNDMzZTUxZWUxZThmNDc2NDYxNDgxMmZlMmQzLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "74a98774d0fe-2361-c962-bf7b-9f45b089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_74a98774d0fe-2361-c962-bf7b-9f45b089",
+      "source_url_hash": "1dd0df0979c88992dd552bd64e56e6f695999eb6aed888ddffdee8f5d24e2012",
+      "duplicate_fingerprint": "0260a858ab6930613764fd0713f6fe63e630aa351d6e4d2405a9fb7fbd943d6d",
+      "soft_match_fingerprint": "f565020a66436945b66b7d1c0aa2467448c4283399ef77b5a8b412d35593a527",
+      "_computed_fingerprint": "1365610e76860eab65cf35acb444997e310e7d5568b515b2a4b389e63f9a87db"
+    },
+    {
+      "external_ref": "dotproperty-465404c1582b-62ff-5182-4b15-7245b089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 53,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Supalai Lite Sathorn - Charoenrat",
+        "zh": "1 Bedroom Condo for rent at Supalai Lite Sathorn - Charoenrat",
+        "th": "1 Bedroom Condo for rent at Supalai Lite Sathorn - Charoenrat"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 53 sq.m., 20,000 THB. Source DotProperty #465404c1582b-62ff-5182-4b15-7245b089.",
+        "zh": "出租：1卧，53㎡，20,000 泰铢。来源 DotProperty #465404c1582b-62ff-5182-4b15-7245b089。",
+        "th": "เช่า: 1 นอน 53 ตร.ม. ราคา 20,000 บาท (DotProperty #465404c1582b-62ff-5182-4b15-7245b089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 53.27 squaremeters, located on the 19th floor, at Supalai\nLite Sathorn-Charoenrat building, in the popular Bang Kho Laem district. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2015\n * Covered car park\n * Relaxing swimming pool\n * Security cameras\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 465404c1582b-62ff-5182-4b15-7245b089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 465404c1582b-62ff-5182-4b15-7245b089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_465404c1582b-62ff-5182-4b15-7245b089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZTQxZGQtMGYwYi03NjIzLTllNTYtYTk1MjY5YjE4NTNkXC80MzI3NTEyZDdhNzQ3ODY0Njg0OGU0NzFjOTllMDMyZjAxNjY0N2IzYmNjNjZiZTliNzgxNjYzNjExY2ViNWI1LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "465404c1582b-62ff-5182-4b15-7245b089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-lite-sathorn-charoenrat-bang-khlo-bangkok_465404c1582b-62ff-5182-4b15-7245b089",
+      "source_url_hash": "cbb088dadd133658efd8b63538ed279f13626efa6f78f5296c9d5e767682713c",
+      "duplicate_fingerprint": "036bbb83bf4639509047dfe4f17d18885c6ccab3e4856c680c4a4750185289b2",
+      "soft_match_fingerprint": "48a20e523d29208eda18f1bfe4c91185d2082cc8a571eebcb05efd4b55346aaf",
+      "_computed_fingerprint": "a73994c8f8b1384cea75b91f52e4b449cdc086f5d9543fb55757c8e093301073"
+    }
+  ]
+}

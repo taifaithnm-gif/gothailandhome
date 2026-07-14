@@ -1,0 +1,335 @@
+{
+  "project_slug": "knightsbridge-prime-sathorn",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "11192",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=11192",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=11192",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-6722fcbafa5c-9b6e-6862-862d-7445a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 37,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Knightsbridge Prime Sathorn",
+        "zh": "1 Bedroom Condo for sale at Knightsbridge Prime Sathorn",
+        "th": "1 Bedroom Condo for sale at Knightsbridge Prime Sathorn"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 37 sq.m., 5,400,000 THB. Source DotProperty #6722fcbafa5c-9b6e-6862-862d-7445a089.",
+        "zh": "出售：1卧，37㎡，5,400,000 泰铢。来源 DotProperty #6722fcbafa5c-9b6e-6862-862d-7445a089。",
+        "th": "ขาย: 1 นอน 37 ตร.ม. ราคา 5,400,000 บาท (DotProperty #6722fcbafa5c-9b6e-6862-862d-7445a089)"
+      },
+      "description": {
+        "en": "📍 Prime Sathorn Location\n🛏️ 1 Bedroom (Upper Floor)🛁 1 Bathroom🍳 1 Kitchen🛋️ 1 Living Room📏 37 sq.m.🏢 33rd Floor🌅 Stunning Chao Phraya River Curve View\nExperience modern duplex living with soaring double-height ceilings, creating a bright and spacious atmosphere. The bedroom is located on the upper floor, offering extra privacy and a true home-like feel.\n✨ Fully Furnished\n✔ Stylish rose gold interior design with mirrored accents✔ Sofa Bed✔ 2 Air Conditioners✔ 55\" Smart TV✔ Refrigerator✔ Microwave✔ Washing Machine\n🚗 Auto Parking Available\n🏊 Premium Facilities\n• Infinity Swimming Pool• Fully Equipped Fitness Center• Sky Lounge• Co-working Space• Private Meeting Rooms• Rooftop Garden• 24-Hour Security &amp; CCTV\n📍 Prime Location\n🚆 Close to BTS Chong Nonsi and BTS Saint Louis🏢 Minutes from Sathorn &amp; Silom CBD🛍️ Near One Bangkok, ICONSIAM, Central Rama 3, and leading international schools☕ Surrounded by cafés, restaurants, and lifestyle destinations",
+        "zh": "来自 DotProperty 挂牌 6722fcbafa5c-9b6e-6862-862d-7445a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 6722fcbafa5c-9b6e-6862-862d-7445a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_6722fcbafa5c-9b6e-6862-862d-7445a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/FcyuYiW15GLqr2cfLwUOIe08uso/0x0/unit/6569416/739230813-10162837195023457-5920347142363001159-n.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "6722fcbafa5c-9b6e-6862-862d-7445a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_6722fcbafa5c-9b6e-6862-862d-7445a089",
+      "source_url_hash": "f1e31f11d7ebe397aad01a54cd67af305203b34c9629e2f521f58c02db697bfb",
+      "duplicate_fingerprint": "dfe343fcba2b4e3c61bef4c0159a8e0b770bd8ec304a1d7dbb171a1e279de061",
+      "soft_match_fingerprint": "a97490a041283b7cf5f495b0117a7c455a681720052dd2898c70c492e3d91390",
+      "_computed_fingerprint": "9d16f7db8704061a76c1b5058d61d0b262491ecb625838dd7e376dc09f754409"
+    },
+    {
+      "external_ref": "dotproperty-609681a139bb-109f-8602-abd4-3b24a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 56,
+      "floor_label": "34",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Knightsbridge Prime Sathorn",
+        "zh": "1 Bedroom Condo for sale at Knightsbridge Prime Sathorn",
+        "th": "1 Bedroom Condo for sale at Knightsbridge Prime Sathorn"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 56 sq.m., 6,590,000 THB. Source DotProperty #609681a139bb-109f-8602-abd4-3b24a089.",
+        "zh": "出售：1卧，56㎡，6,590,000 泰铢。来源 DotProperty #609681a139bb-109f-8602-abd4-3b24a089。",
+        "th": "ขาย: 1 นอน 56 ตร.ม. ราคา 6,590,000 บาท (DotProperty #609681a139bb-109f-8602-abd4-3b24a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 55.9 squaremeters, located on the 34th floor, at\nKnightsbridge Prime Sathorn building, in the popular Sathon district near BTS Saint Louis and near MRT Si Lom. Please contact us\nto schedule a viewing.\n\nUnit amenities:\n * Microwave\n * Refrigerator\n * TV\n\nBuilding features:\n * Building completed in 2019\n * Beautiful garden area on premise\n * Gym\n * 24-hours security\n * Relaxing swimming pool\n * Covered car park\n * Sauna\n * Gym\n * Security cameras\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidde",
+        "zh": "来自 DotProperty 挂牌 609681a139bb-109f-8602-abd4-3b24a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 609681a139bb-109f-8602-abd4-3b24a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_609681a139bb-109f-8602-abd4-3b24a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU3ZTYtNWNlZi03OTMxLWEwOTgtZWUwNjhmODEzMDkzXC83ODJhZjg5ZGNiZjIzNWJlMzRhOTA0NGEyZGY4OWUwZmU4MzYxZDQyYjE2NWFhYzZhYTQ3ZGMyNjFkMWU4MzA3LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "609681a139bb-109f-8602-abd4-3b24a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_609681a139bb-109f-8602-abd4-3b24a089",
+      "source_url_hash": "78186b12ac398620c9eca8b76c3b970ec13ea303daaabc055381e0ce481c2ef3",
+      "duplicate_fingerprint": "fc65ad937019a9dee0d77c4ba145ad4ec617e4ed986452f15bed8430299a4b4f",
+      "soft_match_fingerprint": "023e028a32854e80e2105386ec43c86febc9af0636de30234148b6eb87efefaa",
+      "_computed_fingerprint": "409edae6a724d2c27957fa79b993993257c133c8273e8d16bec62a13560ce00f"
+    },
+    {
+      "external_ref": "dotproperty-30168cc8c6a5-016f-81b2-3dcc-d9c4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Knightsbridge Prime Sathorn",
+        "zh": "1 Bedroom Condo for sale at Knightsbridge Prime Sathorn",
+        "th": "1 Bedroom Condo for sale at Knightsbridge Prime Sathorn"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 24 sq.m., 3,500,000 THB. Source DotProperty #30168cc8c6a5-016f-81b2-3dcc-d9c4a089.",
+        "zh": "出售：1卧，24㎡，3,500,000 泰铢。来源 DotProperty #30168cc8c6a5-016f-81b2-3dcc-d9c4a089。",
+        "th": "ขาย: 1 นอน 24 ตร.ม. ราคา 3,500,000 บาท (DotProperty #30168cc8c6a5-016f-81b2-3dcc-d9c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 24 squaremeters, at Knightsbridge Prime Sathorn building,\nin the popular Sathon district near BTS Saint Louis and near MRT Si Lom. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Microwave\n * Refrigerator\n * Stove\n * TV\n\nBuilding features:\n * Building completed in 2019\n * Security cameras\n * Gym\n * 24-hours security\n * Relaxing swimming pool\n * Covered car park\n * Sauna\n * Gym\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 30168cc8c6a5-016f-81b2-3dcc-d9c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 30168cc8c6a5-016f-81b2-3dcc-d9c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_30168cc8c6a5-016f-81b2-3dcc-d9c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMGMtZGRjNi03ZTgxLWEzODktNGYzZDFkZDEzODk2XC84MjM4NDIwNDRmNGIyY2MzMTgxMGE2Mzc2ZjY2NTE4YzYxY2VhNmNhNmI5YzFmNjc0ZTMxYmVlYWQ4M2FmNjRjLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "30168cc8c6a5-016f-81b2-3dcc-d9c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_30168cc8c6a5-016f-81b2-3dcc-d9c4a089",
+      "source_url_hash": "b13af235e639cdec2854c0b14cdbfd0468049699a37811399830ed4947f274da",
+      "duplicate_fingerprint": "739c42fa6e1e74cc4556558a1f2fc873412dcf75b98239326346030c92cf21f3",
+      "soft_match_fingerprint": "7210c106157da9ed1244ed02dc8be10ac764028881130440ac2309d23f0c8af4",
+      "_computed_fingerprint": "c3f2ade043c33aa20f57cf34204ce735cf894e45a49a9b07be9f325a8befe55d"
+    },
+    {
+      "external_ref": "dotproperty-07eebf86d7ab-63df-d462-5bec-5cf4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 32000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Knightsbridge Prime Sathorn",
+        "zh": "1 Bedroom Condo for rent at Knightsbridge Prime Sathorn",
+        "th": "1 Bedroom Condo for rent at Knightsbridge Prime Sathorn"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 32,000 THB. Source DotProperty #07eebf86d7ab-63df-d462-5bec-5cf4a089.",
+        "zh": "出租：1卧，44㎡，32,000 泰铢。来源 DotProperty #07eebf86d7ab-63df-d462-5bec-5cf4a089。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 32,000 บาท (DotProperty #07eebf86d7ab-63df-d462-5bec-5cf4a089)"
+      },
+      "description": {
+        "en": "- 1 bedroom / 1 bathroom\n- 40th floor\n- unblocked view\n- 44 sq.m.\nCommon fee include\n** water + electricity + tenant's internet fees excluded **\n.\nFor more information, please contact:\n[hidden phone] Pae (TH, EN)\n[hidden line] phone]/fortuneproperty\nWhatsApp: Contact number\nWeChat: joannamaa\n\n**** BEWARE: Copying Photos or Artwork is Not Allowed  ****",
+        "zh": "来自 DotProperty 挂牌 07eebf86d7ab-63df-d462-5bec-5cf4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 07eebf86d7ab-63df-d462-5bec-5cf4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_07eebf86d7ab-63df-d462-5bec-5cf4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzXC8wMTlmNWFkNC1kYmU0LTczNWMtYWM2My1lZjJjMzFhZWJiMjlcLzAxOWY1YWQ2LWFhM2MtNzA4My05ZTkzLWZhZGE0MTk2Zjk0ZS5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "07eebf86d7ab-63df-d462-5bec-5cf4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_07eebf86d7ab-63df-d462-5bec-5cf4a089",
+      "source_url_hash": "38c0d30a7c176c63f98bfbc28c7041de927fea8a6016349e1ef47544149bfd74",
+      "duplicate_fingerprint": "f10df0ac07accc0ff5c7ed7c97b323c03cf70f5bbc3a20bb9ccd91dbad1ae5c2",
+      "soft_match_fingerprint": "2512de901b04402fb90cf7b0801c3c86329cfa9d47c60334fbf3dc130a7cae3c",
+      "_computed_fingerprint": "112e9c3c1c9fde66d111ce63ec4ae75e9f428dd97b873c15d73818769552c98e"
+    },
+    {
+      "external_ref": "dotproperty-e2ed6771355a-39d0-7372-0a61-48c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 26000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 37,
+      "floor_label": "36",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Knightsbridge Prime Sathorn",
+        "zh": "1 Bedroom Condo for rent at Knightsbridge Prime Sathorn",
+        "th": "1 Bedroom Condo for rent at Knightsbridge Prime Sathorn"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 37 sq.m., 26,000 THB. Source DotProperty #e2ed6771355a-39d0-7372-0a61-48c4a089.",
+        "zh": "出租：1卧，37㎡，26,000 泰铢。来源 DotProperty #e2ed6771355a-39d0-7372-0a61-48c4a089。",
+        "th": "เช่า: 1 นอน 37 ตร.ม. ราคา 26,000 บาท (DotProperty #e2ed6771355a-39d0-7372-0a61-48c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 37 squaremeters, located on the 36th floor, at\nKnightsbridge Prime Sathorn building, in the popular Sathon district near BTS Saint Louis and near MRT Si Lom. Please contact us\nto schedule a viewing.\n\nBuilding features:\n * Building completed in 2019\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 e2ed6771355a-39d0-7372-0a61-48c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty e2ed6771355a-39d0-7372-0a61-48c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_e2ed6771355a-39d0-7372-0a61-48c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTUtODNmOS03MjYyLTljMDYtZjQ0NjgyMjNjYjdiXC9hM2E3ODU4N2ZiOThjMWUzNjMzMThmNTI0OWM1YTViNjA5OGFiOTgxODAxOTQ5OGYwNDhiNGIzYzBiODQzYzkwLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "e2ed6771355a-39d0-7372-0a61-48c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_e2ed6771355a-39d0-7372-0a61-48c4a089",
+      "source_url_hash": "71101307b7993d50b51284eab90f597235f40fd8929419ab9f4d611f89f127fb",
+      "duplicate_fingerprint": "20368b75e57a54a7c339fe135a0735a06334d48b7d162082ce3e66422a03543c",
+      "soft_match_fingerprint": "960c6116ac340f9e9268f8dcfed5cfa27eaf85256f9321aa65166bae91130342",
+      "_computed_fingerprint": "7a2df6ae54c8f3ff3ef8671b91d5cdfd7bd8a66f5df70336bc09d0bcab309c5f"
+    },
+    {
+      "external_ref": "dotproperty-7200ac15a00e-21b0-03c2-e2f4-58c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 28000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 39,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "knightsbridge-prime-sathorn",
+      "developer_slug": "origin-property",
+      "city_slug": "bangkok",
+      "district_slug": "yan-nawa",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Knightsbridge Prime Sathorn",
+        "zh": "1 Bedroom Condo for rent at Knightsbridge Prime Sathorn",
+        "th": "1 Bedroom Condo for rent at Knightsbridge Prime Sathorn"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 39 sq.m., 28,000 THB. Source DotProperty #7200ac15a00e-21b0-03c2-e2f4-58c4a089.",
+        "zh": "出租：1卧，39㎡，28,000 泰铢。来源 DotProperty #7200ac15a00e-21b0-03c2-e2f4-58c4a089。",
+        "th": "เช่า: 1 นอน 39 ตร.ม. ราคา 28,000 บาท (DotProperty #7200ac15a00e-21b0-03c2-e2f4-58c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 39 squaremeters, located on the 29th floor, at\nKnightsbridge Prime Sathorn building, in the popular Sathon district near BTS Saint Louis and near MRT Si Lom. Please contact us\nto schedule a viewing.\n\nBuilding features:\n * Building completed in 2019\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 7200ac15a00e-21b0-03c2-e2f4-58c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 7200ac15a00e-21b0-03c2-e2f4-58c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_7200ac15a00e-21b0-03c2-e2f4-58c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTQtNWE3Yi03ZDY5LTllODctYjk5ZjQ4ZGY5OTcyXC8yODM0YzBiYWQ5YWFhYzA3OTZkNzUyZTQ5NzhmNjVjOTRlNDA0NTI0ODUzZjI2MjQ5YWU5ODVlOWZiM2E0NWYxLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "7200ac15a00e-21b0-03c2-e2f4-58c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-knightsbridge-prime-sathorn-thung-wat-don-bangkok_7200ac15a00e-21b0-03c2-e2f4-58c4a089",
+      "source_url_hash": "511105573ac1a149cbc17d42d6b78b33e3a9522231feb11e24037c732c5ed7c7",
+      "duplicate_fingerprint": "f4ebd0df8c8f4b93ea5222f2caf83eb8c7c05d1cf89e65fba2dd6da4eb79aa1b",
+      "soft_match_fingerprint": "ee9f0f06f658d2bf19689404b0227077ff9f3271de57d756952b71890e85666c",
+      "_computed_fingerprint": "89ac8fad60eaacce50cad8390ae0d7034db88758e34d48b18ea502ee09da3074"
+    }
+  ]
+}

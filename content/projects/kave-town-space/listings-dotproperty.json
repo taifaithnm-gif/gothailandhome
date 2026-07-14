@@ -1,0 +1,335 @@
+{
+  "project_slug": "kave-town-space",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "15315",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=15315",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=15315",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-3a573ceef84d-1f8e-e162-ff00-62d7a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2050000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Kave Town Space",
+        "zh": "1 Bedroom Condo for sale at Kave Town Space",
+        "th": "1 Bedroom Condo for sale at Kave Town Space"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 25 sq.m., 2,050,000 THB. Source DotProperty #3a573ceef84d-1f8e-e162-ff00-62d7a089.",
+        "zh": "出售：1卧，25㎡，2,050,000 泰铢。来源 DotProperty #3a573ceef84d-1f8e-e162-ff00-62d7a089。",
+        "th": "ขาย: 1 นอน 25 ตร.ม. ราคา 2,050,000 บาท (DotProperty #3a573ceef84d-1f8e-e162-ff00-62d7a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nStarter Investment \nKAVE Town Space presents an excellent entry-level investment opportunity in one of Pathum Thanis established rental markets.\nOffered at approximately 12% below both comparable units and the building price benchmark, this one-bedroom residence combines\nattractive pricing with an estimated rental yield of around 7.2%. Its location in the Khlong Nueng university area supports\nconsistent tenant demand, making it a compelling choice for investors seeking strong rental potential and long-term value at an\naffordable purchase price. \n\n\nApproximately 11.8% below both comparable units and the building price benchmark \nEstimated rental yield of approximately 7.2% \nStrong appeal from the surrounding university and student rental market \nAffordable investment with a low entry price of ฿2.05M \nExcellent opportunity for investors seeking strong rental income potential\n\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent / sale with a floorsize of 25 squaremeters, located on the 5th floor, at KAVE\nTown Space building, in the popular Khlong Luang district. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Refrigerator\n * Microwave\n",
+        "zh": "来自 DotProperty 挂牌 3a573ceef84d-1f8e-e162-ff00-62d7a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 3a573ceef84d-1f8e-e162-ff00-62d7a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-kave-town-space-khlong-nueng-pathum-thani_3a573ceef84d-1f8e-e162-ff00-62d7a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjJjNzMtOTlhYS03MzhiLWIxYTgtYzUxYWJiZDYyNGY2XC84OGU3MTZjNDFkNGRlYWNhNTllOWQ3NGFkMGQ0MTM3NzU3ZDFmY2ZjNWU4OTMzM2M4NGM3YjIzYTMwM2QyNjQzLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3a573ceef84d-1f8e-e162-ff00-62d7a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-kave-town-space-khlong-nueng-pathum-thani_3a573ceef84d-1f8e-e162-ff00-62d7a089",
+      "source_url_hash": "6592605032fa5f238db3cc1e2d01e7ae97f90803f890eaf4ea7383f750ac819e",
+      "duplicate_fingerprint": "cdbd20ed9a5a5b83b84be2f8f32f19972549211b17893be13c60f208c02ff690",
+      "soft_match_fingerprint": "ed326268d874215e3c11609f9d2e4eefdccce608f1ed17a299380602649f4908",
+      "_computed_fingerprint": "915da39abe5dd76eeb7d11fcaf257cc75947616b784bae71b000f7eaa729ec5a"
+    },
+    {
+      "external_ref": "dotproperty-f0ac17568592-ff81-c062-ec73-8b9fb089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2100000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Kave Town Space",
+        "zh": "1 Bedroom Condo for sale at Kave Town Space",
+        "th": "1 Bedroom Condo for sale at Kave Town Space"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 25 sq.m., 2,100,000 THB. Source DotProperty #f0ac17568592-ff81-c062-ec73-8b9fb089.",
+        "zh": "出售：1卧，25㎡，2,100,000 泰铢。来源 DotProperty #f0ac17568592-ff81-c062-ec73-8b9fb089。",
+        "th": "ขาย: 1 นอน 25 ตร.ม. ราคา 2,100,000 บาท (DotProperty #f0ac17568592-ff81-c062-ec73-8b9fb089)"
+      },
+      "description": {
+        "en": "🔺ขายคอนโดพร้อมผู้เช่า รับเงินทันที 💸\n🌳 Kave Town Space คลองหนึ่ง ปทุมธานี\n(ติดมหาวิทยาลัยกรุงเทพ)\nตึก c ชั้น 5 ขนาด 25 ตรม.\n(ตึกเดียวกับสระว่ายน้ำและยิม)\n🌳โครงการหน้าสุด เดินทางสะดวกที่สุด\n-ทีวี 50 นิ้ว\n-ไมโครเวฟ\n-เครื่องทำน้ำอุ่น\n-แอร์ 2 ตัว\n-ตู้เย็น 2 ประตู\n-เครื่องซักผ้าพร้อมอบในตัว\n-ที่นอน 5 ฟุต\n-เฟอร์นิเจอร์บิวท์อินอื่นๆทั้งหมดตามในรูป\n💰ค่าเช่า 11,500 ต่อเดือน\n📌ราคา 2.45 ลบ.\n❌ราคาพิเศษ 2.1 ลบ.❌",
+        "zh": "来自 DotProperty 挂牌 f0ac17568592-ff81-c062-ec73-8b9fb089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty f0ac17568592-ff81-c062-ec73-8b9fb089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-kave-town-space-khlong-nueng-pathum-thani_f0ac17568592-ff81-c062-ec73-8b9fb089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/uDWMoylOJ7C4GiOMHHfj28ZaxGk/0x0/unit/6445028/698107766-26764745979841876-3826683768238526595-n.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "f0ac17568592-ff81-c062-ec73-8b9fb089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-kave-town-space-khlong-nueng-pathum-thani_f0ac17568592-ff81-c062-ec73-8b9fb089",
+      "source_url_hash": "76f345b941ebb64321cec4a28bbf26f45d9c642e408d41efe1cc8105de8a5ca1",
+      "duplicate_fingerprint": "242a310b8b5c2e066e53db78ea096c0e96f3f01342b88091f0ad5c176a3aad67",
+      "soft_match_fingerprint": "6276dcfd2639477aed150792bcf67df1678c395c800ab787ef9f8a07d4f8c8d7",
+      "_computed_fingerprint": "d128b1e901655fb274a16c7f5d38a8e462dc47279a5d20d06f5e8e3929df6ace"
+    },
+    {
+      "external_ref": "dotproperty-84077ce8b0e1-23f1-3172-0455-2081d089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2050000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Kave Town Space",
+        "zh": "1 Bedroom Condo for sale at Kave Town Space",
+        "th": "1 Bedroom Condo for sale at Kave Town Space"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 24 sq.m., 2,050,000 THB. Source DotProperty #84077ce8b0e1-23f1-3172-0455-2081d089.",
+        "zh": "出售：1卧，24㎡，2,050,000 泰铢。来源 DotProperty #84077ce8b0e1-23f1-3172-0455-2081d089。",
+        "th": "ขาย: 1 นอน 24 ตร.ม. ราคา 2,050,000 บาท (DotProperty #84077ce8b0e1-23f1-3172-0455-2081d089)"
+      },
+      "description": {
+        "en": "Project : Kave Town Space\nLocation area: Beside Soi Rangsit Phirom Phahonyothin Road , Khlong Nueng , khlong Luang , Pathum Thani 12120\nGPS :  \nListing ID : CX-146728 \nFOR SELL : 2,050,000 ฿ \n\nProperty type : Condo \nNo of floors : 8 \nUsable area : 24.30 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \nCourt\nKave Pavilion\nLibrary House\nSwimming in the Park\nKave Park 3 Rai\nSunken Seat\nBuilding A\n\nCo-Working Space Lobby (1st Floor)\nTheater Deck (1st Floor)\nThe Gym (1st Floor)\nCreative &amp; Entertain Lounge (8th Floor)\nSuper Fast &amp; Social Connect (8th Floor)\nBuilding B\n\nFun Café (1st Floor)\nMeeting Room &amp; Co Creative Space (1st Floor)\nFun Space &amp; VR Game (8th Floor)\nBuilding C\n\nLive Lobby (1st Floor)\nSmart Vending Machine (1st Floor)\nSky Pool &amp; Panorama View (Rooftop Floor)\nBuilding D\n\nLibrary Lobby (1st Floor)\nLaundry Zone (1st Floor)\nSky Fitness (8th Floor)\nYoga &amp; Cover Studio (8th Floor)\n\nNearby Facilities : \nmall\nMingle Mall : 150 m.\nImagine Village: 450 m.\nMega Home : 550 m.\nTesco Lotus Khlong Luang: 4.5 km.\nMakro Khlong Luang: 4.9 km.\nCherry Mall: 6.5 km.\nBoonthavorn:",
+        "zh": "来自 DotProperty 挂牌 84077ce8b0e1-23f1-3172-0455-2081d089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 84077ce8b0e1-23f1-3172-0455-2081d089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-kave-town-space-khlong-nueng-pathum-thani_84077ce8b0e1-23f1-3172-0455-2081d089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5YzgxOTctNDQ1OS03Mjg2LThhNjctOGI5ZTFiZDIyOTUxXC9iMWE4ZmMwODM2OTkyMzllMzRjYWQ1NDBlY2FiNjc1MTVkN2RmZTc1NjYyYzNjYzMwYWI4NTY3MGNjZDZjYTQzLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "84077ce8b0e1-23f1-3172-0455-2081d089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-kave-town-space-khlong-nueng-pathum-thani_84077ce8b0e1-23f1-3172-0455-2081d089",
+      "source_url_hash": "5eb25cf4f09e12196922da2de86c25b7058ba56784f855770c39de0df4502107",
+      "duplicate_fingerprint": "f2471b86204cbc811c0d8be9e17be6f47dbfbfed8818d1d2883a06422e96c95e",
+      "soft_match_fingerprint": "3c2773be61adc709a6ee1c53d14e7dd9d349cdd4206afd0b9ac7a57eac97cfc7",
+      "_computed_fingerprint": "605efc2d2f5e77cfbaea38b235b8d56ec6f2f50b1e6444523cf60f24961d2006"
+    },
+    {
+      "external_ref": "dotproperty-6c26d560c5a4-6bc1-de72-7084-2b93a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Kave Town Space",
+        "zh": "1 Bedroom Condo for rent at Kave Town Space",
+        "th": "1 Bedroom Condo for rent at Kave Town Space"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 13,000 THB. Source DotProperty #6c26d560c5a4-6bc1-de72-7084-2b93a089.",
+        "zh": "出租：1卧，27㎡，13,000 泰铢。来源 DotProperty #6c26d560c5a4-6bc1-de72-7084-2b93a089。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 13,000 บาท (DotProperty #6c26d560c5a4-6bc1-de72-7084-2b93a089)"
+      },
+      "description": {
+        "en": "This property is a 27 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the Kave Town Space project in Khlong Nueng, Pathum Thani and was completed in Jun 2021. You can rent this condo long term for ฿13,000 per month.",
+        "zh": "来自 DotProperty 挂牌 6c26d560c5a4-6bc1-de72-7084-2b93a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 6c26d560c5a4-6bc1-de72-7084-2b93a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-kave-town-space-khlong-nueng-pathum-thani_6c26d560c5a4-6bc1-de72-7084-2b93a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/D7yey9NFJbO7dBCDPn55IYku7O4/0x0/unit/6584289/1.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "6c26d560c5a4-6bc1-de72-7084-2b93a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-kave-town-space-khlong-nueng-pathum-thani_6c26d560c5a4-6bc1-de72-7084-2b93a089",
+      "source_url_hash": "4973ca2f12a8a71cb2558ae691b716dcbd343402f7660f9d5f8dbc35822f9c70",
+      "duplicate_fingerprint": "f509aea883d7e61495d1282fae44164b068c70b3c16f44c62d232d5acfc072d1",
+      "soft_match_fingerprint": "20a5440a74a8563aff84437c0498270b8cb33b00921eb93dbe463ed0d9080d95",
+      "_computed_fingerprint": "720d1dee45d053daab012f1a0c017aa41f723889cfe910bed750486d08636bc1"
+    },
+    {
+      "external_ref": "dotproperty-b6544710dbcc-dfb1-f4b2-df8a-9b2cb089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Kave Town Space",
+        "zh": "1 Bedroom Condo for rent at Kave Town Space",
+        "th": "1 Bedroom Condo for rent at Kave Town Space"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 25 sq.m., 12,000 THB. Source DotProperty #b6544710dbcc-dfb1-f4b2-df8a-9b2cb089.",
+        "zh": "出租：1卧，25㎡，12,000 泰铢。来源 DotProperty #b6544710dbcc-dfb1-f4b2-df8a-9b2cb089。",
+        "th": "เช่า: 1 นอน 25 ตร.ม. ราคา 12,000 บาท (DotProperty #b6544710dbcc-dfb1-f4b2-df8a-9b2cb089)"
+      },
+      "description": {
+        "en": "Project : Kave Town Space\nLocation area: Beside Soi Rangsit Phirom Phahonyothin Road , Khlong Nueng , khlong Luang , Pathum Thani 12120\nGPS :  \nListing ID : CX-143065 \nFOR RENT : 12,000 ฿ \n\nProperty type : Condo \nNo of floors : 8 \nUsable area : 25 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \nCourt\nKave Pavilion\nLibrary House\nSwimming in the Park\nKave Park 3 Rai\nSunken Seat\nBuilding A\n\nCo-Working Space Lobby (1st Floor)\nTheater Deck (1st Floor)\nThe Gym (1st Floor)\nCreative &amp; Entertain Lounge (8th Floor)\nSuper Fast &amp; Social Connect (8th Floor)\nBuilding B\n\nFun Café (1st Floor)\nMeeting Room &amp; Co Creative Space (1st Floor)\nFun Space &amp; VR Game (8th Floor)\nBuilding C\n\nLive Lobby (1st Floor)\nSmart Vending Machine (1st Floor)\nSky Pool &amp; Panorama View (Rooftop Floor)\nBuilding D\n\nLibrary Lobby (1st Floor)\nLaundry Zone (1st Floor)\nSky Fitness (8th Floor)\nYoga &amp; Cover Studio (8th Floor)\n\nNearby Facilities : \nmall\nMingle Mall : 150 m.\nImagine Village: 450 m.\nMega Home : 550 m.\nTesco Lotus Khlong Luang: 4.5 km.\nMakro Khlong Luang: 4.9 km.\nCherry Mall: 6.5 km.\nBoonthavorn: 2.2 k",
+        "zh": "来自 DotProperty 挂牌 b6544710dbcc-dfb1-f4b2-df8a-9b2cb089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty b6544710dbcc-dfb1-f4b2-df8a-9b2cb089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-kave-town-space-khlong-nueng-pathum-thani_b6544710dbcc-dfb1-f4b2-df8a-9b2cb089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZWQ3ZTAtZjFhYy03ZTVhLThlYWMtZGRlYzk4MjU1NDNlXC8zZmM0MWNhMjQ2YjEwZjk3ZGQ5OTY2YzQwNGI1ZjgxY2QwMTQ4ODc2NTQ2ZmVkZjEzYWRlMjNjOGJhYjNhOWFiLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "b6544710dbcc-dfb1-f4b2-df8a-9b2cb089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-kave-town-space-khlong-nueng-pathum-thani_b6544710dbcc-dfb1-f4b2-df8a-9b2cb089",
+      "source_url_hash": "569de5f80b26f921b6b8de25a7d7d344732825dcad56c99a5e40d83eeb899f24",
+      "duplicate_fingerprint": "4b12c7813d54da5028793e5edb6057f89970cdbb1a58213229d69c8b7d89e160",
+      "soft_match_fingerprint": "91323b861411297f83acc416b632d9120abff107599bc2c6b429087f2dc5eb56",
+      "_computed_fingerprint": "496946684084cdd2b324667b63d8c51422e944f290768ca4e0ca73c2ada015fc"
+    },
+    {
+      "external_ref": "dotproperty-8f2423198946-8c7e-7362-fdf4-e045b089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 25,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "kave-town-space",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-khen",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Kave Town Space",
+        "zh": "1 Bedroom Condo for rent at Kave Town Space",
+        "th": "1 Bedroom Condo for rent at Kave Town Space"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 25 sq.m., 12,000 THB. Source DotProperty #8f2423198946-8c7e-7362-fdf4-e045b089.",
+        "zh": "出租：1卧，25㎡，12,000 泰铢。来源 DotProperty #8f2423198946-8c7e-7362-fdf4-e045b089。",
+        "th": "เช่า: 1 นอน 25 ตร.ม. ราคา 12,000 บาท (DotProperty #8f2423198946-8c7e-7362-fdf4-e045b089)"
+      },
+      "description": {
+        "en": "Project : Kave Town Space\nLocation area: Beside Soi Rangsit Phirom Phahonyothin Road , Khlong Nueng , khlong Luang , Pathum Thani 12120\nGPS :  \nListing ID : CX-117677 \nFOR RENT : 12,000 ฿ \n\nProperty type : Condo \nNo of floors : 8 \nUsable area : 25 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \nCourt\nKave Pavilion\nLibrary House\nSwimming in the Park\nKave Park 3 Rai\nSunken Seat\nBuilding A\n\nCo-Working Space Lobby (1st Floor)\nTheater Deck (1st Floor)\nThe Gym (1st Floor)\nCreative &amp; Entertain Lounge (8th Floor)\nSuper Fast &amp; Social Connect (8th Floor)\nBuilding B\n\nFun Café (1st Floor)\nMeeting Room &amp; Co Creative Space (1st Floor)\nFun Space &amp; VR Game (8th Floor)\nBuilding C\n\nLive Lobby (1st Floor)\nSmart Vending Machine (1st Floor)\nSky Pool &amp; Panorama View (Rooftop Floor)\nBuilding D\n\nLibrary Lobby (1st Floor)\nLaundry Zone (1st Floor)\nSky Fitness (8th Floor)\nYoga &amp; Cover Studio (8th Floor)\n\nNearby Facilities : \nmall\nMingle Mall : 150 m.\nImagine Village: 450 m.\nMega Home : 550 m.\nTesco Lotus Khlong Luang: 4.5 km.\nMakro Khlong Luang: 4.9 km.\nCherry Mall: 6.5 km.\nBoonthavorn: 2.2 k",
+        "zh": "来自 DotProperty 挂牌 8f2423198946-8c7e-7362-fdf4-e045b089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 8f2423198946-8c7e-7362-fdf4-e045b089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-kave-town-space-khlong-nueng-pathum-thani_8f2423198946-8c7e-7362-fdf4-e045b089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZTQyZGEtOTI2Yi03OGRjLTk4NTYtYzcwODE3MjM0NzU5XC8wY2NlZTIzMDRlNDRlZTNiMTAzMDkyODVjN2Q3YTNmMTNkYTA2NmMwOGNjMTNkMzZiZmUyMzI2OGU3ZmRmNWQwLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "8f2423198946-8c7e-7362-fdf4-e045b089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-kave-town-space-khlong-nueng-pathum-thani_8f2423198946-8c7e-7362-fdf4-e045b089",
+      "source_url_hash": "307fa908ccebf45bbba56b9dbd7920642a6a987b67633d9ca4690c54534c87d0",
+      "duplicate_fingerprint": "442269ac44fa547b2bcd3084a2872acedc37a6c991d4a17cb78eb4274f3c0f28",
+      "soft_match_fingerprint": "91323b861411297f83acc416b632d9120abff107599bc2c6b429087f2dc5eb56",
+      "_computed_fingerprint": "4fe6510bfd939165bc52b86e12eefd58ee21233e6f815fea8b97e72fcb5ff31b"
+    }
+  ]
+}

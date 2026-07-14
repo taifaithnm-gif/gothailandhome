@@ -1,0 +1,335 @@
+{
+  "project_slug": "the-privacy-rama-9",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "15132",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=15132",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=15132",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-9bcff66be352-cd90-01e2-3b71-d9c4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4290000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 39,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Privacy Rama 9",
+        "zh": "2 Bedroom Condo for sale at The Privacy Rama 9",
+        "th": "2 Bedroom Condo for sale at The Privacy Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 39 sq.m., 4,290,000 THB. Source DotProperty #9bcff66be352-cd90-01e2-3b71-d9c4a089.",
+        "zh": "出售：2卧，39㎡，4,290,000 泰铢。来源 DotProperty #9bcff66be352-cd90-01e2-3b71-d9c4a089。",
+        "th": "ขาย: 2 นอน 39 ตร.ม. ราคา 4,290,000 บาท (DotProperty #9bcff66be352-cd90-01e2-3b71-d9c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 1 bathroom condo for rent / sale with a floorsize of 38.57 squaremeters, located on the 18th floor, at\nThe Privacy Rama 9 building, in the popular Suan Luang district near ARL Ramkhamhaeng. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2019\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 9bcff66be352-cd90-01e2-3b71-d9c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 9bcff66be352-cd90-01e2-3b71-d9c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-privacy-rama-9-suan-luang-bangkok_9bcff66be352-cd90-01e2-3b71-d9c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMGMtODJlNi03Yjg5LTkwY2QtNzQ2YmUzM2FhZGUwXC8yYTM1NTM1MjljMjVhZTUzNjliY2NjOTFjMmRlMTFlMDQ3YTQ2M2MzZjhiM2I2Y2Y3NjRhMDgxYjljM2UzMjc2LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "9bcff66be352-cd90-01e2-3b71-d9c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-privacy-rama-9-suan-luang-bangkok_9bcff66be352-cd90-01e2-3b71-d9c4a089",
+      "source_url_hash": "5cd79fdbb95a967ab565d5280331b26e8b3b7f63b3723df249dad2bbfc4e4df1",
+      "duplicate_fingerprint": "90ccf3d964a8ba2984e8b952172d5be0323839b990c3e1cc878bb0cc6084de12",
+      "soft_match_fingerprint": "66a0f182945dd701229da0b625a3ac92821f857d73bb4b13bec4206472bbe888",
+      "_computed_fingerprint": "23c7cc5074da239f00bf9efbbb5280d0774b94a0a6de0fbe31396cf5db480a16"
+    },
+    {
+      "external_ref": "dotproperty-0d37a9542a75-8fcf-6ac2-64b5-9885a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3700000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 38,
+      "floor_label": "12",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Privacy Rama 9",
+        "zh": "2 Bedroom Condo for sale at The Privacy Rama 9",
+        "th": "2 Bedroom Condo for sale at The Privacy Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 38 sq.m., 3,700,000 THB. Source DotProperty #0d37a9542a75-8fcf-6ac2-64b5-9885a089.",
+        "zh": "出售：2卧，38㎡，3,700,000 泰铢。来源 DotProperty #0d37a9542a75-8fcf-6ac2-64b5-9885a089。",
+        "th": "ขาย: 2 นอน 38 ตร.ม. ราคา 3,700,000 บาท (DotProperty #0d37a9542a75-8fcf-6ac2-64b5-9885a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 1 bathroom condo for sale with a floorsize of 38 squaremeters, located on the 12th floor, at The\nPrivacy Rama 9 building, in the popular Suan Luang district near ARL Ramkhamhaeng. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2019\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 0d37a9542a75-8fcf-6ac2-64b5-9885a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 0d37a9542a75-8fcf-6ac2-64b5-9885a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-privacy-rama-9-suan-luang-bangkok_0d37a9542a75-8fcf-6ac2-64b5-9885a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjQxMTAtNGU1My03ZGYzLWFkYTEtNDJmNzU0MGYyNmM5XC8zZjFiYTFlNjM4ODBiOWRiYjVhYWM4YzMzMTg0YzhhZGM4Y2UyZTEzYTU3YTUxNWZhNWRiZWU0YjlmMjBiMmFiLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "0d37a9542a75-8fcf-6ac2-64b5-9885a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-privacy-rama-9-suan-luang-bangkok_0d37a9542a75-8fcf-6ac2-64b5-9885a089",
+      "source_url_hash": "b9d4e6df43792bd791396c34b31186703552b20f3378f4911390c81c0bc4c1e8",
+      "duplicate_fingerprint": "f3a47fc45c631bbcc3c1fe63eda00661ed5ced94ce70da924bdabacb6d3aa16c",
+      "soft_match_fingerprint": "9d644759a8bb4430e7372e79743adced285628aa02669eae6a393b67433a7694",
+      "_computed_fingerprint": "3f8023b63118b468595969be0d62c8022285bfc55a3c14dbe9e6326b0693e688"
+    },
+    {
+      "external_ref": "dotproperty-521a91aee6a6-61ce-5232-aa69-cf66a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3600000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 38,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Privacy Rama 9",
+        "zh": "2 Bedroom Condo for sale at The Privacy Rama 9",
+        "th": "2 Bedroom Condo for sale at The Privacy Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 38 sq.m., 3,600,000 THB. Source DotProperty #521a91aee6a6-61ce-5232-aa69-cf66a089.",
+        "zh": "出售：2卧，38㎡，3,600,000 泰铢。来源 DotProperty #521a91aee6a6-61ce-5232-aa69-cf66a089。",
+        "th": "ขาย: 2 นอน 38 ตร.ม. ราคา 3,600,000 บาท (DotProperty #521a91aee6a6-61ce-5232-aa69-cf66a089)"
+      },
+      "description": {
+        "en": "Project : The Privacy Rama 9\nLocation area:   , Suan Luang , Suan Luang , Bangkok 10250\nGPS :  \nStation : ARL-Ramkhamhaeng \nListing ID : CX-162995 \nFOR SELL : 3,600,000 ฿ \n\nProperty type : Condo \nNo of floors : 30 \nUsable area : 38 sqm \nNo. of Bedroom 2 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \n \n\nNearby Facilities : \n \n\nZone : \nRama9, RCA, Petchaburi, Dindaeng \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished property \nCall: [hidden phone] \nE-Mail: [hidden email] \nFacebook: Connex Property \n[hidden line] @connexproperty \n Whatsapp: [hidden phone] \nWechat ID : wxid_idbemm7t5gbj22 \n[hidden url] \nupdate : [hidden phone]:40:01\n",
+        "zh": "来自 DotProperty 挂牌 521a91aee6a6-61ce-5232-aa69-cf66a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 521a91aee6a6-61ce-5232-aa69-cf66a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-privacy-rama-9-suan-luang-bangkok_521a91aee6a6-61ce-5232-aa69-cf66a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjMzYWQtMDNmZi03Njc0LWJkODMtM2YzYmJmODBmODc0XC8wMzYyMTFmYjU2YjE2ZDRiZjY5NWM3N2E1OGZhNjA4ZWFmNjkxOGU1OTNhNjNkNmU5MDdiMmU4Y2I3ZGRmNzcwLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "521a91aee6a6-61ce-5232-aa69-cf66a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-privacy-rama-9-suan-luang-bangkok_521a91aee6a6-61ce-5232-aa69-cf66a089",
+      "source_url_hash": "f792a6ee1d297c2f2039a2a91ab7bcb96aeb0db84d1d32e0dba495fb9f2bd5be",
+      "duplicate_fingerprint": "5f49219b3dcf318da0c87e8df8de2199a20ca651a76dfda6af4dc4d5574b05a5",
+      "soft_match_fingerprint": "ecf81eef018c26a5e28a2295b63b1cdbd77a20e09c43301dabe7b1b3394b5c8e",
+      "_computed_fingerprint": "5a0d6850c0323b6072c21de4c51d05b7de34eee204bc4dee9677e001b3d6ad11"
+    },
+    {
+      "external_ref": "dotproperty-b8693e9029f9-7c21-06d2-ae5e-9fc5a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 39,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at The Privacy Rama 9",
+        "zh": "2 Bedroom Condo for rent at The Privacy Rama 9",
+        "th": "2 Bedroom Condo for rent at The Privacy Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 39 sq.m., 22,000 THB. Source DotProperty #b8693e9029f9-7c21-06d2-ae5e-9fc5a089.",
+        "zh": "出租：2卧，39㎡，22,000 泰铢。来源 DotProperty #b8693e9029f9-7c21-06d2-ae5e-9fc5a089。",
+        "th": "เช่า: 2 นอน 39 ตร.ม. ราคา 22,000 บาท (DotProperty #b8693e9029f9-7c21-06d2-ae5e-9fc5a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\n2 bedrooms, 1 bathroom condo for rent with a floorsize of 39 squaremeters, located on the 18 floor, at The Privacy Rama 9\nbuilding, in the popular Suan Luang district near ARL Ramkhamhaeng. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2019\n * Security cameras\n * 24-hours security\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 b8693e9029f9-7c21-06d2-ae5e-9fc5a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty b8693e9029f9-7c21-06d2-ae5e-9fc5a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-privacy-rama-9-suan-luang-bangkok_b8693e9029f9-7c21-06d2-ae5e-9fc5a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjRkYTAtYjRiZi03YzM5LTg3ZDItMGEwNzkwYjYwMzFlXC9mNThjMWQwMWYzZDZiNjE2NDlkODFlNWYyNTQzYzQ5NjVmNzBkYWRkZDM5OGVlZWVmYTQxNTUzODQ2OGM5YzA2LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "b8693e9029f9-7c21-06d2-ae5e-9fc5a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-privacy-rama-9-suan-luang-bangkok_b8693e9029f9-7c21-06d2-ae5e-9fc5a089",
+      "source_url_hash": "1ecde8b420f72dd43b4999f94d0888ad6333a36ab592d65fb13105c5745c5586",
+      "duplicate_fingerprint": "96aa6b819532589c88f6ac4399543aaaed31523c655c9fa0908d9817a2817b25",
+      "soft_match_fingerprint": "444d10db4fbc40512433777f5921d03faee8ed3652821c7dc744e9e57d7b44db",
+      "_computed_fingerprint": "610c4946e0d91a30445dbbaf28467307995b0467ed7e5c0bc8b84ced6b1b22dc"
+    },
+    {
+      "external_ref": "dotproperty-89a58fb5d124-8311-6372-a1de-b67c5089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 23,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Privacy Rama 9",
+        "zh": "1 Bedroom Condo for rent at The Privacy Rama 9",
+        "th": "1 Bedroom Condo for rent at The Privacy Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 23 sq.m., 14,000 THB. Source DotProperty #89a58fb5d124-8311-6372-a1de-b67c5089.",
+        "zh": "出租：1卧，23㎡，14,000 泰铢。来源 DotProperty #89a58fb5d124-8311-6372-a1de-b67c5089。",
+        "th": "เช่า: 1 นอน 23 ตร.ม. ราคา 14,000 บาท (DotProperty #89a58fb5d124-8311-6372-a1de-b67c5089)"
+      },
+      "description": {
+        "en": "This property is a 23 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the The Privacy Rama 9 project in Suan Luang, Bangkok and was completed in Jan 2020. You can rent this condo long term for ฿14,000 per month.",
+        "zh": "来自 DotProperty 挂牌 89a58fb5d124-8311-6372-a1de-b67c5089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 89a58fb5d124-8311-6372-a1de-b67c5089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-privacy-rama-9-suan-luang-bangkok_89a58fb5d124-8311-6372-a1de-b67c5089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/n5z6nOl8kihhssT0Zmiqd1e9100/0x0/unit/2007194/img-6653.jpeg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "89a58fb5d124-8311-6372-a1de-b67c5089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-privacy-rama-9-suan-luang-bangkok_89a58fb5d124-8311-6372-a1de-b67c5089",
+      "source_url_hash": "d97c2fda8472ff6dcc5321b8aa40685a3b20710b01911bfc69515e22ae71b9aa",
+      "duplicate_fingerprint": "6f971dd7f6197155661f87bb368585de302251e501d8cff67591cb4ac2122245",
+      "soft_match_fingerprint": "63ef3a7d110624b45a132fe022de0aec192b5caeae7f8f86c220775384b2c8d7",
+      "_computed_fingerprint": "1747604d0060b8d25bdcc1516f2919220a4f0fb8c41459f85c8041ba61d870ef"
+    },
+    {
+      "external_ref": "dotproperty-8d7401c1e59f-a97f-7432-7eb2-3789a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-privacy-rama-9",
+      "developer_slug": "pruksa-holding",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at The Privacy Rama 9",
+        "zh": "2 Bedroom Condo for rent at The Privacy Rama 9",
+        "th": "2 Bedroom Condo for rent at The Privacy Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 35 sq.m., 19,000 THB. Source DotProperty #8d7401c1e59f-a97f-7432-7eb2-3789a089.",
+        "zh": "出租：2卧，35㎡，19,000 泰铢。来源 DotProperty #8d7401c1e59f-a97f-7432-7eb2-3789a089。",
+        "th": "เช่า: 2 นอน 35 ตร.ม. ราคา 19,000 บาท (DotProperty #8d7401c1e59f-a97f-7432-7eb2-3789a089)"
+      },
+      "description": {
+        "en": "Project : The Privacy Rama 9\nLocation area:   , Suan Luang , Suan Luang , Bangkok 10250\nGPS :  \nStation : ARL-Ramkhamhaeng \nListing ID : CX-74600 \nFOR RENT : 19,000 ฿ \n\nProperty type : Condo \nNo of floors : 30 \nUsable area : 35.45 sqm \nNo. of Bedroom 2 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \n \n\nNearby Facilities : \n \n\nZone : \nRama9, RCA, Petchaburi, Dindaeng \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished property \nCall: [hidden phone] \nE-Mail: [hidden email] \nFacebook: Connex Property \n[hidden line] @connexproperty \n Whatsapp: [hidden phone] \nWechat ID : wxid_idbemm7t5gbj22 \n[hidden url] \nupdate : [hidden phone]:40:01\n",
+        "zh": "来自 DotProperty 挂牌 8d7401c1e59f-a97f-7432-7eb2-3789a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 8d7401c1e59f-a97f-7432-7eb2-3789a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-privacy-rama-9-suan-luang-bangkok_8d7401c1e59f-a97f-7432-7eb2-3789a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjAxMjYtN2ViMi03NjUyLWEyMGYtYTA0YjhkODk1MmMxXC83ZTZiNDViZjg4NDU1NzQ5NjYxOGE4ZTU3NmUwODFhMDJjYjhiOGM5MDk4MWJiNDg4MDc3MWNjZDJhNmZkMGU5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "8d7401c1e59f-a97f-7432-7eb2-3789a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-privacy-rama-9-suan-luang-bangkok_8d7401c1e59f-a97f-7432-7eb2-3789a089",
+      "source_url_hash": "22c8a50bb800239ddf0f02d68c15d8131faa054a84de8739f3389e329ad5043a",
+      "duplicate_fingerprint": "73fd4caeff97c9771a1da76753f6034ab48a3e933ba25a86eeeb8d18b93a480d",
+      "soft_match_fingerprint": "2686e71ca1db27f75da2808f3780384adc6bbd80e690406a4eb5e7bafd5cfe1a",
+      "_computed_fingerprint": "8c779a8d3a49705cce204a7ed65c7fb996fc4fbaa3473552ba117d31712a0bc6"
+    }
+  ]
+}

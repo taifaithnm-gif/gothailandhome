@@ -1,0 +1,335 @@
+{
+  "project_slug": "supalai-veranda-rama-9",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "12351",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=12351",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=12351",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-87ef3a01c452-29f0-d842-0ccf-cf44a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3790000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 38,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Supalai Veranda Rama 9",
+        "zh": "1 Bedroom Condo for sale at Supalai Veranda Rama 9",
+        "th": "1 Bedroom Condo for sale at Supalai Veranda Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 38 sq.m., 3,790,000 THB. Source DotProperty #87ef3a01c452-29f0-d842-0ccf-cf44a089.",
+        "zh": "出售：1卧，38㎡，3,790,000 泰铢。来源 DotProperty #87ef3a01c452-29f0-d842-0ccf-cf44a089。",
+        "th": "ขาย: 1 นอน 38 ตร.ม. ราคา 3,790,000 บาท (DotProperty #87ef3a01c452-29f0-d842-0ccf-cf44a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID 820935\n\n\n1 bedroom, 1 bathroom condo for sale with a floorsize of 38 squaremeters, located on the 22nd floor, at Supalai Veranda Rama 9\nbuilding, in the popular Huai Khwang district near MRT Thailand Cultural Centre and near ARL Ramkhamhaeng. Please contact us to\nschedule a viewing.\n\nBuilding features:\n * Building completed in 2019\n * 24-hours security\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Kids play area\n * Open car park\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 87ef3a01c452-29f0-d842-0ccf-cf44a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 87ef3a01c452-29f0-d842-0ccf-cf44a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-veranda-rama-9-bang-kapi-bangkok_87ef3a01c452-29f0-d842-0ccf-cf44a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU1YWQtYWRkOS03NTFjLTlhMDctNzQ1ZDg5ZjZhYjIxXC9mN2FmMDQ5Y2Q4ZmE4NjQzZDE1ODgzZTZlMGU5MjJlNWI2ZjBhYWU2NjBhYTNjOWMxZDBmZmJlN2E5N2Q0ZTc4LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "87ef3a01c452-29f0-d842-0ccf-cf44a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-veranda-rama-9-bang-kapi-bangkok_87ef3a01c452-29f0-d842-0ccf-cf44a089",
+      "source_url_hash": "45b8a3aed969b57811800322bcd01baa9c902914f8f6d14a878a8ec9036a67b6",
+      "duplicate_fingerprint": "7427dab0ec02623c1f72b0d003adf211e77263435abc07f4d693dad8896e43ef",
+      "soft_match_fingerprint": "15b383af96e5692f4d6756455428573fbf92e3fb2267ba9a99a00d72d42452f9",
+      "_computed_fingerprint": "56fa254aca095e95352808847c2a802e467ed0653670746ab91842c1b23ba666"
+    },
+    {
+      "external_ref": "dotproperty-e3c6828dc179-3d2e-7e02-cdb6-1777a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5700000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 63,
+      "floor_label": "10",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Supalai Veranda Rama 9",
+        "zh": "2 Bedroom Condo for sale at Supalai Veranda Rama 9",
+        "th": "2 Bedroom Condo for sale at Supalai Veranda Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 63 sq.m., 5,700,000 THB. Source DotProperty #e3c6828dc179-3d2e-7e02-cdb6-1777a089.",
+        "zh": "出售：2卧，63㎡，5,700,000 泰铢。来源 DotProperty #e3c6828dc179-3d2e-7e02-cdb6-1777a089。",
+        "th": "ขาย: 2 นอน 63 ตร.ม. ราคา 5,700,000 บาท (DotProperty #e3c6828dc179-3d2e-7e02-cdb6-1777a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent / sale with a floorsize of 62.5 squaremeters, located on the 10th floor, at\nSupalai Veranda Rama 9 building, in the popular Huai Khwang district. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2019\n * 24-hours security\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Kids play area\n * Open car park\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 e3c6828dc179-3d2e-7e02-cdb6-1777a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty e3c6828dc179-3d2e-7e02-cdb6-1777a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-supalai-veranda-rama-9-bang-kapi-bangkok_e3c6828dc179-3d2e-7e02-cdb6-1777a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjIyMjgtM2VjZC03OWIyLWI3YzYtMDI4ZGMxNzEzZDZiXC82ODE0YzhlOWNhYzY0YzMzNGY4NDBiMGEwYmUwMDg4MjkwMmRlODE2NDY5NTc3MmY4NTZmYmNkNjcxZWI5NmI5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "e3c6828dc179-3d2e-7e02-cdb6-1777a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-supalai-veranda-rama-9-bang-kapi-bangkok_e3c6828dc179-3d2e-7e02-cdb6-1777a089",
+      "source_url_hash": "d51ebc388cf75415804630532a23c398c607b9eadc929f51ea067e1e8d6c1d73",
+      "duplicate_fingerprint": "02eb732d670ec8ffb6f81540848c640b716332b8e513dd585731b360e48c2526",
+      "soft_match_fingerprint": "d6c1a400887c48be82e8ff9398bbc3ad1a8627e0d59e655aee477f3c0bf28c16",
+      "_computed_fingerprint": "559f7ced81f80e9db609a3a07bc3038018957e53bf874a23c2566021ba0eb46e"
+    },
+    {
+      "external_ref": "dotproperty-4197cce3d27f-d6a0-21c2-4d08-e8f8a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 15000000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqm": 120,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "3 Bedroom Condo for sale at Supalai Veranda Rama 9",
+        "zh": "3 Bedroom Condo for sale at Supalai Veranda Rama 9",
+        "th": "3 Bedroom Condo for sale at Supalai Veranda Rama 9"
+      },
+      "summary": {
+        "en": "Sale: 3BR, 120 sq.m., 15,000,000 THB. Source DotProperty #4197cce3d27f-d6a0-21c2-4d08-e8f8a089.",
+        "zh": "出售：3卧，120㎡，15,000,000 泰铢。来源 DotProperty #4197cce3d27f-d6a0-21c2-4d08-e8f8a089。",
+        "th": "ขาย: 3 นอน 120 ตร.ม. ราคา 15,000,000 บาท (DotProperty #4197cce3d27f-d6a0-21c2-4d08-e8f8a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 3 bedrooms, 3 bathrooms condo for rent / sale with a floorsize of 120 squaremeters, at Supalai Veranda Rama 9\nbuilding, in the popular Huai Khwang district. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2019\n * 24-hours security\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Kids play area\n * Open car park\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 4197cce3d27f-d6a0-21c2-4d08-e8f8a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 4197cce3d27f-d6a0-21c2-4d08-e8f8a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/3-bedroom-condo-for-sale-in-supalai-veranda-rama-9-bang-kapi-bangkok_4197cce3d27f-d6a0-21c2-4d08-e8f8a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjFhMWItMTljNS03ZDg3LTlmM2MtYTI3YzZiZGQyMDg1XC9lYzY5YjA5OTJlZGMyNzRkNDFlNWQ1ZDIwYWQxMTBhZTAzZjU5M2M0MGRmZmQzNTRjNjBmNTcyYjZiMzBhZTM5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "4197cce3d27f-d6a0-21c2-4d08-e8f8a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/3-bedroom-condo-for-sale-in-supalai-veranda-rama-9-bang-kapi-bangkok_4197cce3d27f-d6a0-21c2-4d08-e8f8a089",
+      "source_url_hash": "9cdb452bda3ca8d9aca96e53a4ddbd8495767dc93b51789647cafefe03bf3cb6",
+      "duplicate_fingerprint": "9238959e256b872a56b4a142965344d11e0805f841a88d838390ca4c42085e05",
+      "soft_match_fingerprint": "c8654aec41894ed940d512db50865a82febd18ad04695d0216e33569a84df9a4",
+      "_computed_fingerprint": "698a3e45c514e9683446bee3616720d25da0fae5f3cd2c27b59cabe88470163b"
+    },
+    {
+      "external_ref": "dotproperty-bdb0759d1ff8-07b0-d542-30aa-a3c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 39,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Supalai Veranda Rama 9",
+        "zh": "1 Bedroom Condo for rent at Supalai Veranda Rama 9",
+        "th": "1 Bedroom Condo for rent at Supalai Veranda Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 39 sq.m., 13,000 THB. Source DotProperty #bdb0759d1ff8-07b0-d542-30aa-a3c4a089.",
+        "zh": "出租：1卧，39㎡，13,000 泰铢。来源 DotProperty #bdb0759d1ff8-07b0-d542-30aa-a3c4a089。",
+        "th": "เช่า: 1 นอน 39 ตร.ม. ราคา 13,000 บาท (DotProperty #bdb0759d1ff8-07b0-d542-30aa-a3c4a089)"
+      },
+      "description": {
+        "en": "Project : Supalai Veranda Rama 9\nLocation area:  Rama 9 , Bang Kapi , Huai Khwang , Bangkok 10310\nGPS :  \nStation : MRT-Phra Ram 9 \nListing ID : CX-81740 \nFOR RENT : 13,000 ฿ \n\nProperty type : Condo \nNo of floors : 31 \nUsable area : 38.5 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nFurniture : \n\nCommon Facilities : \n  -24  -hour security\n -swimming pool\n -Fitness\n -Garden\n\nNearby Facilities : \nMarkets and department stores\nKPN Tower 400 m.\nCentral Plaza Grand Rama 9 1.8 km.\nFortune Town 2.2 km.\nEsplanade Ratchadaphisek 3 km.\nBig C Extra Ratchadaphisek 3.5 km.\nThe Street Ratchadaphisek 3.6 km.\nThe Mall Ramkhamhaeng 4.2 km.\nThe Nine Rama 9 5.1 km.\nTerminal 21 6.2 km.\nHospital\nRama 9 Hospital 1.8 km.\nPiyawat Hospital 2 km.\nBangkok Hospital 4.4 km.\nSchool\nSWU, Prasanmit 3.2 km.\nSt. Dominic School 3.2 km.\nWattana College 3.9 km.\nNist 4.9 km International School\n\nZone : \nRama9, RCA, Petchaburi, Dindaeng \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished property \nCall: [hidden phone] \nE-Mail: [hidden email] \nFacebook: Connex Property \n[hidden line] @connexproperty \n Whatsap",
+        "zh": "来自 DotProperty 挂牌 bdb0759d1ff8-07b0-d542-30aa-a3c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty bdb0759d1ff8-07b0-d542-30aa-a3c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-veranda-rama-9-bang-kapi-bangkok_bdb0759d1ff8-07b0-d542-30aa-a3c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkNmYtZmY5Ni03NTRjLTllMjktMWFhOGMwNDI5ZWNlXC9jMWNlN2IyODRlOTkxYzVhYjE5NjI3MDYzMjczYjExMWU5NTliMmVjMzY4MTIzYjFmNTNmOTFiNWJlZjViMzhjLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "bdb0759d1ff8-07b0-d542-30aa-a3c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-veranda-rama-9-bang-kapi-bangkok_bdb0759d1ff8-07b0-d542-30aa-a3c4a089",
+      "source_url_hash": "2bfe1676c5fdc6e12517ffc5ab332a92074d222a3f19ce9db9c7ded254c3bdbf",
+      "duplicate_fingerprint": "4ce47bba45c9396f7434337dd62e5609c771b4774b6c6764c3f474ea62f9c357",
+      "soft_match_fingerprint": "f19a65441a65e7f81820aeb8763ce4f64480489b4c4b5f6780b683d1eced2301",
+      "_computed_fingerprint": "4d5fb002ce286cf30bdd8f8b72b9f60ec8c4a8abfc153e8f91866de742dd66d8"
+    },
+    {
+      "external_ref": "dotproperty-e1c63a02a170-158f-e062-d649-9b93a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 38000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 75,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at Supalai Veranda Rama 9",
+        "zh": "2 Bedroom Condo for rent at Supalai Veranda Rama 9",
+        "th": "2 Bedroom Condo for rent at Supalai Veranda Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 75 sq.m., 38,000 THB. Source DotProperty #e1c63a02a170-158f-e062-d649-9b93a089.",
+        "zh": "出租：2卧，75㎡，38,000 泰铢。来源 DotProperty #e1c63a02a170-158f-e062-d649-9b93a089。",
+        "th": "เช่า: 2 นอน 75 ตร.ม. ราคา 38,000 บาท (DotProperty #e1c63a02a170-158f-e062-d649-9b93a089)"
+      },
+      "description": {
+        "en": "This 75 Sqm 2 bedroom 2 bathroom unit\n\n \n\n– offers ensuite baths with built-in quality closets and amazing city views.\n\n \n\n– Fully equipped kitchen is completely fitted with equipment that comprises every contemporary built-in appliance.\n\n \n\n– The living area has a dining room, Sofa, large TV, large storage room, washer room.\n\n \n\n– The dining and living areas are spacious with beautiful city view from the balcony which ensures cool breeze any time of the year.",
+        "zh": "来自 DotProperty 挂牌 e1c63a02a170-158f-e062-d649-9b93a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty e1c63a02a170-158f-e062-d649-9b93a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-supalai-veranda-rama-9-bang-kapi-bangkok_e1c63a02a170-158f-e062-d649-9b93a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjYwZTAtMDUzYy03MzliLWExNDgtOTI4Zjc5ZjYzZDhiXC84Njk5YzdkMjQ1MmY4ODIwY2I1ZjI5ZTg5ZmJhYjYyYmM2ODliNzFjOGJlOWViNzNkYjU5NjgyZWZhYmZjZTliLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "e1c63a02a170-158f-e062-d649-9b93a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-supalai-veranda-rama-9-bang-kapi-bangkok_e1c63a02a170-158f-e062-d649-9b93a089",
+      "source_url_hash": "4274916db658efaaa501ef77dca105f12566da325c9b28f21a1f3a4400e24116",
+      "duplicate_fingerprint": "90af18835919142397656a153934909022617a6ca2b78b0545037ab8f75ae729",
+      "soft_match_fingerprint": "d5a7ead2015c8a31883a6bed3c8463e8db8c56e85aa9b0a4b595173e1c2df5f8",
+      "_computed_fingerprint": "8eb9584b21ea82f70f1434646950465366e1fb601fd9d1f881bc0d6861085ede"
+    },
+    {
+      "external_ref": "dotproperty-81c550cc6850-5580-fe22-ce08-9cf4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 75,
+      "floor_label": "30",
+      "building_label": null,
+      "project_slug": "supalai-veranda-rama-9",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at Supalai Veranda Rama 9",
+        "zh": "2 Bedroom Condo for rent at Supalai Veranda Rama 9",
+        "th": "2 Bedroom Condo for rent at Supalai Veranda Rama 9"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 75 sq.m., 35,000 THB. Source DotProperty #81c550cc6850-5580-fe22-ce08-9cf4a089.",
+        "zh": "出租：2卧，75㎡，35,000 泰铢。来源 DotProperty #81c550cc6850-5580-fe22-ce08-9cf4a089。",
+        "th": "เช่า: 2 นอน 75 ตร.ม. ราคา 35,000 บาท (DotProperty #81c550cc6850-5580-fe22-ce08-9cf4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID 568563\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent with a floorsize of 75 squaremeters, located on the 30th floor, at Supalai\nVeranda Rama 9 building, in the popular Huai Khwang district. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Microwave\n * Refrigerator\n * TV\n\nBuilding features:\n * Building completed in 2019\n * Security cameras\n * Convenience store closeby\n * Gym\n * Kids play area\n * Library\n * Open car park\n * Restaurants closeby\n * Sauna\n * 24-hours security\n * Steam room\n * Relaxing swimming pool\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Em",
+        "zh": "来自 DotProperty 挂牌 81c550cc6850-5580-fe22-ce08-9cf4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 81c550cc6850-5580-fe22-ce08-9cf4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-supalai-veranda-rama-9-bang-kapi-bangkok_81c550cc6850-5580-fe22-ce08-9cf4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVhZDAtMTliZC03N2JhLTkxNDQtOTQxM2RkOTQ0ZDgxXC82NWUwNTJjMTA4ZmY3ZmZlYjgyNWNhN2ZhMWI3ZDYwNjVmNjM1MWY4NDhiMmNkNDI3ZDFmYjI2NTQ3YmI5ODQ0LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "81c550cc6850-5580-fe22-ce08-9cf4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-supalai-veranda-rama-9-bang-kapi-bangkok_81c550cc6850-5580-fe22-ce08-9cf4a089",
+      "source_url_hash": "acbb3faef5a1dd86a802ee2703bbbabf8ce8368f2cd834fc8e2eec52c561f177",
+      "duplicate_fingerprint": "3b2646e04cb97fbf79a906b7d78ede620228483fe9a52684771b3fc21abb4167",
+      "soft_match_fingerprint": "285ae06b048694b67dfee181b59301fea23e351d90e9980b26f2029636df2aed",
+      "_computed_fingerprint": "ec7341a8a7eae8a08fbc122177ad140e4f2a223507416ea9b4bc8d8edf979f01"
+    }
+  ]
+}

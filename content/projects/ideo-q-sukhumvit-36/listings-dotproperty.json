@@ -1,0 +1,335 @@
+{
+  "project_slug": "ideo-q-sukhumvit-36",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "12341",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=12341",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=12341",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-ded663a5578b-2280-6c82-63f6-4aeb5089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9377000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 49,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Ideo Q Sukhumvit 36",
+        "zh": "2 Bedroom Condo for sale at Ideo Q Sukhumvit 36",
+        "th": "2 Bedroom Condo for sale at Ideo Q Sukhumvit 36"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 49 sq.m., 9,377,000 THB. Source DotProperty #ded663a5578b-2280-6c82-63f6-4aeb5089.",
+        "zh": "出售：2卧，49㎡，9,377,000 泰铢。来源 DotProperty #ded663a5578b-2280-6c82-63f6-4aeb5089。",
+        "th": "ขาย: 2 นอน 49 ตร.ม. ราคา 9,377,000 บาท (DotProperty #ded663a5578b-2280-6c82-63f6-4aeb5089)"
+      },
+      "description": {
+        "en": "Live close to BTS Thong Lo in a stylish 2-bedroom condo that feels refined, functional, and move-in ready.\nThis unit at Ideo Q Sukhumvit 36 is designed for buyers who want a prime Sukhumvit address with a smarter layout, city view, and elevated everyday comfort.\nWhy This Unit Stands Out\n\n2 bedrooms, 1 bathroom, 48.85 sqm of well-planned living space\n11th floor city view with natural light and a more private feel\nModern contemporary interior with premium finishing, wood tones, and wood panel details\nAmbient lighting in the bedrooms and living area for a warmer, more relaxing atmosphere\nBalcony, bathtub, kitchen, carpet details, Fiber Optic internet, and pre-installed WiFi\nWell maintained and move-in ready, saving time before occupancy or rental use\n\nProperty Details\n\nProject: Ideo Q Sukhumvit 36\nSize: 48.85 sqm\nBedrooms: 2 | Bathroom: 1\nFloor: 11 | View: City View\n\nIdeal forPerfect for urban professionals, couples, executives, expats, and investors looking for a 2-bedroom Bangkok condo near BTS Thong Lo in a high-demand Sukhumvit rental zone.\nApprox. Nearby Locations\n\nBTS Thong Lo: 380–450m\nRain Hill: 900m\nBangkok Planetarium: 1.1km\nGateway Ekamai: 1.3km\nEmporium / EmQuartier: 1.5–1",
+        "zh": "来自 DotProperty 挂牌 ded663a5578b-2280-6c82-63f6-4aeb5089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty ded663a5578b-2280-6c82-63f6-4aeb5089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-ideo-q-sukhumvit-36-khlong-tan-bangkok_ded663a5578b-2280-6c82-63f6-4aeb5089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/pnBy-mXmkJtcXxkhSENLf2lgka4/0x0/unit/2009968/dsc08918-hdr.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "ded663a5578b-2280-6c82-63f6-4aeb5089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-ideo-q-sukhumvit-36-khlong-tan-bangkok_ded663a5578b-2280-6c82-63f6-4aeb5089",
+      "source_url_hash": "fb547b7424f70370599888fff06b885275ecf71c6b0356c35ec5e88b8c4dd598",
+      "duplicate_fingerprint": "14a069644b4da768d2c6a9f8a5570b6fafda5ec2c52e8e361258eae7c4c88451",
+      "soft_match_fingerprint": "75b769d8e6e5d6eabe741a1f4fab0feb17851ac929a7b71ddc8f33e5896b54f4",
+      "_computed_fingerprint": "e4328655a4c3c60b2ae25084b87e0d65faf860421086685e624d453321045d8a"
+    },
+    {
+      "external_ref": "dotproperty-6bd6593ba8f5-8731-2762-8c77-3cdcc089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7850000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": "34",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Ideo Q Sukhumvit 36",
+        "zh": "1 Bedroom Condo for sale at Ideo Q Sukhumvit 36",
+        "th": "1 Bedroom Condo for sale at Ideo Q Sukhumvit 36"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 46 sq.m., 7,850,000 THB. Source DotProperty #6bd6593ba8f5-8731-2762-8c77-3cdcc089.",
+        "zh": "出售：1卧，46㎡，7,850,000 泰铢。来源 DotProperty #6bd6593ba8f5-8731-2762-8c77-3cdcc089。",
+        "th": "ขาย: 1 นอน 46 ตร.ม. ราคา 7,850,000 บาท (DotProperty #6bd6593ba8f5-8731-2762-8c77-3cdcc089)"
+      },
+      "description": {
+        "en": "Live above the city in a residence that instantly feels rare, private, and elevated at Ideo Q Sukhumvit 36 — one of the most desirable addresses near Thong Lo.\nThis 1-bedroom corner unit on the 34th floor offers 45.56 sqm of intelligently designed space, where every detail works together to create both comfort and visual impact. The moment you step in, the floor-to-ceiling windows draw your attention outward — framing a panoramic skyline view that transforms from bright city energy by day to glowing skyline at night.\nWHY THIS UNIT FEELS DIFFERENTThis is not just another 1-bedroom — it’s a high-floor corner unit with real lifestyle value\n\nCorner position → more privacy, better airflow, quieter living\n34th floor height → unblocked skyline views, no visual clutter\nNatural light throughout the day → brighter, more open atmosphere\nBalanced layout → practical for real living, not just aesthetics\n\nWHO THIS IS PERFECT FOR\n\nProfessionals working in Sukhumvit / Thong Lo\nExpats seeking a premium yet practical city base\nInvestors targeting high-demand rental zones\nBuyers who value view, privacy, and long-term value\n\nLIVING EXPERIENCE\n\nOpen-plan living area connects seamlessly to a private balc",
+        "zh": "来自 DotProperty 挂牌 6bd6593ba8f5-8731-2762-8c77-3cdcc089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 6bd6593ba8f5-8731-2762-8c77-3cdcc089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-ideo-q-sukhumvit-36-khlong-tan-bangkok_6bd6593ba8f5-8731-2762-8c77-3cdcc089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/FeBeiSQnf5jZhc1qp7K5WwkFCoY/0x0/unit/6230902/dsc05587-hdr.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "6bd6593ba8f5-8731-2762-8c77-3cdcc089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-ideo-q-sukhumvit-36-khlong-tan-bangkok_6bd6593ba8f5-8731-2762-8c77-3cdcc089",
+      "source_url_hash": "4e843619fe4c1882e9202873be0c6960122d4f02fcbe03910b295c79aa072f3c",
+      "duplicate_fingerprint": "555b4686f57de403a3726b00463688638f3dd2d4e2fed07fb654088e2507a603",
+      "soft_match_fingerprint": "083187d75b75300ac4f645645b019826f302c136d9201325b4bc4cc592eaab1b",
+      "_computed_fingerprint": "0b98e8d263f5eef3ba59807c2fca3f93db8641586b6a01e451a579031f3ad0a9"
+    },
+    {
+      "external_ref": "dotproperty-36b3ba0ba211-c79e-7e92-d10c-3cf4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Ideo Q Sukhumvit 36",
+        "zh": "1 Bedroom Condo for sale at Ideo Q Sukhumvit 36",
+        "th": "1 Bedroom Condo for sale at Ideo Q Sukhumvit 36"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 46 sq.m., 8,200,000 THB. Source DotProperty #36b3ba0ba211-c79e-7e92-d10c-3cf4a089.",
+        "zh": "出售：1卧，46㎡，8,200,000 泰铢。来源 DotProperty #36b3ba0ba211-c79e-7e92-d10c-3cf4a089。",
+        "th": "ขาย: 1 นอน 46 ตร.ม. ราคา 8,200,000 บาท (DotProperty #36b3ba0ba211-c79e-7e92-d10c-3cf4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 46 squaremeters, located on the 29th floor, at Ideo Q\nSukhumvit 36 building, in the popular Khlong Toei district near BTS Thong Lor. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2020\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Kids play area\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 36b3ba0ba211-c79e-7e92-d10c-3cf4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 36b3ba0ba211-c79e-7e92-d10c-3cf4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-ideo-q-sukhumvit-36-khlong-tan-bangkok_36b3ba0ba211-c79e-7e92-d10c-3cf4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVhZDYtZDk4Yy03MGIyLWIwMmQtODg3ZmU5ZmU2ZTM2XC9iYTdmMjE0ZGM2YzYyYzNkZmY4NGFjMDQ0NTIyYjNmYjVjYmE1M2VlODI0NTI0ODE5ZjUwNjNlZjk5OGY2Mjg5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "36b3ba0ba211-c79e-7e92-d10c-3cf4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-ideo-q-sukhumvit-36-khlong-tan-bangkok_36b3ba0ba211-c79e-7e92-d10c-3cf4a089",
+      "source_url_hash": "1841d832dad2b7c90c306dd854dfd7448f63c02d39dda3e0072770f16e7dbce8",
+      "duplicate_fingerprint": "ca72d719120b8e5d9e24e102616ee012f4ea805416d291e09c6778591d5e6a07",
+      "soft_match_fingerprint": "8f457f2736fcc4aaee085952e2bfc06982813fab1ce8b0175a0ffcc26a64175d",
+      "_computed_fingerprint": "7d497071bfef476a2644844c1ee5fbfb8aa9329a3ff6b7a1864b31188cb91d36"
+    },
+    {
+      "external_ref": "dotproperty-2809ada3c5d3-1ece-0952-8cfa-dd54a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 40000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Ideo Q Sukhumvit 36",
+        "zh": "1 Bedroom Condo for rent at Ideo Q Sukhumvit 36",
+        "th": "1 Bedroom Condo for rent at Ideo Q Sukhumvit 36"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 40,000 THB. Source DotProperty #2809ada3c5d3-1ece-0952-8cfa-dd54a089.",
+        "zh": "出租：1卧，45㎡，40,000 泰铢。来源 DotProperty #2809ada3c5d3-1ece-0952-8cfa-dd54a089。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 40,000 บาท (DotProperty #2809ada3c5d3-1ece-0952-8cfa-dd54a089)"
+      },
+      "description": {
+        "en": "High floor river view 1Bedroom unit for rent in Ideo Q Sukhumvit 36.  Thonglor - Rama 4 lifestyle. Ready for moving in.\n\n- High floor with a river bay view\n- Bathtub and Washlet provided\n- Fully furnished with a 2 in 1 Washer &amp; Dryer\n- Ready for move in unit\n- Free shuttle to BTS Thonglor\n- Thonglor - Rama 4 lifestyle. \n\n[hidden line]\nWhatsApp: [hidden phone]\n\n高層階の川の景色1イデオQスクンビット36の賃貸ユニット。 トンロー - ラーマ4世のライフスタイル。引っ越しの準備が整いました。\n\n- 川の湾を望む高層階\n- バスタブとウォシュレットあり\n- 2 in 1洗濯機と乾燥機を完備\n- ユニットの移動準備完了\n- BTSトンローへの無料シャトル\n- トンロー - ラーマ4世のライフスタイル。\n\n[hidden line]\nWhatsApp:[hidden phone]\n\n\n고층 강 전망 1Ideo Q Sukhumvit 36의 침실 임대 숙소.  통로 - 라마 4 라이프스타일. 입주 준비 완료.\n\n- 강 만 전망을 감상할 수 있는 고층\n- 욕조 및 비데 제공\n- 2 in 1 세탁기 및 건조기가 완비되어 있습니다.\n- 입주 준비 완료\n- BTS 통로(Thonglor)까지 무료 셔틀\n- 통로 - 라마 4 라이프스타일. \n\n[hidden line]\nWhatsApp: [hidden phone]\n\n\nÉtage élevé vue sur la rivière Unité de 1 chambre à louer à Ideo Q Sukhumvit 36.  Thonglor - Rama 4 style de vie. Prêt pour l’emménagement.\n\n- Étage élevé avec vue sur la baie de la rivière\n- Baignoire et Washlet fournis\n- Entièrement meublé avec un lave-linge et un sèche-linge 2 en 1\n- Prêt à emménager dans l’unité\n- Navette gratuite pour BTS Thonglor\n- Thonglor - Mode de vie Rama",
+        "zh": "来自 DotProperty 挂牌 2809ada3c5d3-1ece-0952-8cfa-dd54a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 2809ada3c5d3-1ece-0952-8cfa-dd54a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ideo-q-sukhumvit-36-khlong-tan-bangkok_2809ada3c5d3-1ece-0952-8cfa-dd54a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzXC8wMTlmNTRjYy1mYWQxLTc0MDktYmRiOC02YzRkNmZjZjA5MTdcLzAxOWY1NGNkLWFkMTctNzBiOS1iY2EwLTAwMzZhZjFkNmU3Mi5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2809ada3c5d3-1ece-0952-8cfa-dd54a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ideo-q-sukhumvit-36-khlong-tan-bangkok_2809ada3c5d3-1ece-0952-8cfa-dd54a089",
+      "source_url_hash": "7263863baa44d155c1a0a3d400fc8d87937ce898ecb4436156977c3ca19c95da",
+      "duplicate_fingerprint": "b3f4f8f8e9083f27ba3dba901f2ecafb27c27fde8edb08d50cdb937174670e0f",
+      "soft_match_fingerprint": "eabd2a9a851aa4ff55f2b3a0024400a4b6772086ca445455a6593b3987fc6a33",
+      "_computed_fingerprint": "9bbae605535fb4388069f5a2ae9f9cdde4340fa9fd67fd9564b9496990b0bc03"
+    },
+    {
+      "external_ref": "dotproperty-167158c6d211-81e1-1972-a679-48c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 43000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 47,
+      "floor_label": "35",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Ideo Q Sukhumvit 36",
+        "zh": "1 Bedroom Condo for rent at Ideo Q Sukhumvit 36",
+        "th": "1 Bedroom Condo for rent at Ideo Q Sukhumvit 36"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 47 sq.m., 43,000 THB. Source DotProperty #167158c6d211-81e1-1972-a679-48c4a089.",
+        "zh": "出租：1卧，47㎡，43,000 泰铢。来源 DotProperty #167158c6d211-81e1-1972-a679-48c4a089。",
+        "th": "เช่า: 1 นอน 47 ตร.ม. ราคา 43,000 บาท (DotProperty #167158c6d211-81e1-1972-a679-48c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 46.5 squaremeters, located on the 35th floor, at Ideo Q\nSukhumvit 36 building, in the popular Khlong Toei district near BTS Thong Lor. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2020\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Kids play area\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 167158c6d211-81e1-1972-a679-48c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 167158c6d211-81e1-1972-a679-48c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ideo-q-sukhumvit-36-khlong-tan-bangkok_167158c6d211-81e1-1972-a679-48c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTUtMDIzZi03MjA4LThiODEtODg3YzNkMTQ4MjM4XC9kYjIxOGU0YTU1NjZjY2FiZTIzNzQ0YjllNjBkMWQ3YmFmYjkyMzQzNWRmOTlkZWQ0NWY0MDBiZGM1NmFmZTA5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "167158c6d211-81e1-1972-a679-48c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ideo-q-sukhumvit-36-khlong-tan-bangkok_167158c6d211-81e1-1972-a679-48c4a089",
+      "source_url_hash": "3fdb3c1e5a3cc05be892b1a7d2c17cd08316640c3d5d7cbefe2d0a793d0526c3",
+      "duplicate_fingerprint": "530b4c967f99d2a4017344abac7e398603f7436f91b746a4cf091aac37cab04b",
+      "soft_match_fingerprint": "e16349ecf1d4d46a4a79060af003a718b6de74e0401f0c96428756a19c49ac12",
+      "_computed_fingerprint": "14fd7e0df4765c6987241c3034007f0f89c4f1a82c0f8979abd3c5383598e4fb"
+    },
+    {
+      "external_ref": "dotproperty-031325c3047e-ffce-0862-0f78-38c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 42000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 45,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "ideo-q-sukhumvit-36",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "khlong-toei",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Ideo Q Sukhumvit 36",
+        "zh": "1 Bedroom Condo for rent at Ideo Q Sukhumvit 36",
+        "th": "1 Bedroom Condo for rent at Ideo Q Sukhumvit 36"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 45 sq.m., 42,000 THB. Source DotProperty #031325c3047e-ffce-0862-0f78-38c4a089.",
+        "zh": "出租：1卧，45㎡，42,000 泰铢。来源 DotProperty #031325c3047e-ffce-0862-0f78-38c4a089。",
+        "th": "เช่า: 1 นอน 45 ตร.ม. ราคา 42,000 บาท (DotProperty #031325c3047e-ffce-0862-0f78-38c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 45 squaremeters, located on the 23rd floor, at Ideo Q\nSukhumvit 36 building, in the popular Khlong Toei district near BTS Thong Lor. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2020\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Kids play area\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 031325c3047e-ffce-0862-0f78-38c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 031325c3047e-ffce-0862-0f78-38c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ideo-q-sukhumvit-36-khlong-tan-bangkok_031325c3047e-ffce-0862-0f78-38c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTYtMTJhOS03MzE5LWJkYWEtYjI1OTZkNDc2ODY5XC9iNTgyNWE5NWE3ODhkNDczOTM3NTdhZWNhODI1OTY1YTkwNDJhY2JiM2Q2NDI3ZjQwMmFlNDc0NTY1MjY1NTk3LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "031325c3047e-ffce-0862-0f78-38c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ideo-q-sukhumvit-36-khlong-tan-bangkok_031325c3047e-ffce-0862-0f78-38c4a089",
+      "source_url_hash": "922b8ab7c06f3f01af70fa6fde0c646aaa82159bcb8e545aae02c87924ac7e99",
+      "duplicate_fingerprint": "2187cc5353fcb132d532196fa86f788f97e9353cc33005529dae3854180030ae",
+      "soft_match_fingerprint": "dab2043cf73c3231c1be1628c191652172e46e8efb84413da91678b01968b9f9",
+      "_computed_fingerprint": "b7f63b4a42e69d84794846caa52d8cfa58b6e5d8a07e9d4368d251d37803b521"
+    }
+  ]
+}

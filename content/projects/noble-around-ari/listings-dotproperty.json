@@ -1,0 +1,335 @@
+{
+  "project_slug": "noble-around-ari",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "12332",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=12332",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=12332",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-ea2fd927c131-75b0-0992-3c5e-7068a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Noble Around Ari",
+        "zh": "1 Bedroom Condo for sale at Noble Around Ari",
+        "th": "1 Bedroom Condo for sale at Noble Around Ari"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 7,600,000 THB. Source DotProperty #ea2fd927c131-75b0-0992-3c5e-7068a089.",
+        "zh": "出售：1卧，35㎡，7,600,000 泰铢。来源 DotProperty #ea2fd927c131-75b0-0992-3c5e-7068a089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 7,600,000 บาท (DotProperty #ea2fd927c131-75b0-0992-3c5e-7068a089)"
+      },
+      "description": {
+        "en": "Noble Around Ari – 2-min walk to BTS | Top Floor 38F\nProject: Noble Around Ari (Phahonyothin Soi 7)Distance: ~2 minutes’ walk (90 m) to BTS AriUnit: 1 Bedroom, 1 Bathroom, 35 sq.m. | Top Floor (38th) – the highest floor with the best panoramic city viewStatus: Brand-new, never rented For Rent: THB 30,000 / month (1-year contract) Inside the unit – Fully Furnished &amp; Fully Equipped\n\nSeparate kitchen with fridge, microwave, stove &amp; range hood\nWasher, Smart TV, sofa, coffee table, bed &amp; mattress\n2 air-conditioners\nBathroom with water heater\nDigital door lock\n\n \n\nBuilding Features\n6 passenger elevators + 1 service elevator\nLobby X Uptown Sky Lounge\nThe Mezzanine Library (2nd floor)\nRooftop garden 23rd-floor\nSky Lounge (≈350 sq.m.)\nwith multiple zones: tea room, co-kitchen counter, game zone &amp; outdoor seating Dimension\nPool and 360-degree saltwater pool\n@ 39th floor Horizontal\nGym / 360-degree Fitness Centre Parking spaces, 24/7 security, key-card access\n \nLocation Highlights\n2-minute walk to BTS\n→ super convenient commute to Siam Paragon, Central Ladprao, Victory Monument, Chatuchak Surrounded by La Villa Ari, Villa Market, cafés, restaurants, co-working spaces Upscale, ",
+        "zh": "来自 DotProperty 挂牌 ea2fd927c131-75b0-0992-3c5e-7068a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty ea2fd927c131-75b0-0992-3c5e-7068a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-noble-around-ari-sam-sen-nai-bangkok_ea2fd927c131-75b0-0992-3c5e-7068a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/5D0xl9q7MGke7J8nj9NQfgYsX-w/0x0/unit/6535224/s-4374584.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "ea2fd927c131-75b0-0992-3c5e-7068a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-noble-around-ari-sam-sen-nai-bangkok_ea2fd927c131-75b0-0992-3c5e-7068a089",
+      "source_url_hash": "d1ffb93e26d79b9a4e1d8ea31bd4cdca32e877de69996b54f5cfd944e6e2b03f",
+      "duplicate_fingerprint": "af637261ac14b15727967b361e1fc2bf4e09a14d11b06554b63a1a16954a1662",
+      "soft_match_fingerprint": "a6bdd8d60ec8829f52a8a45804de7694481299b95904250bbc6b1dece3a3f752",
+      "_computed_fingerprint": "9ee827a445dbab10e9e7afc2b5356296626113de69cbe674eaefeddfc13c2824"
+    },
+    {
+      "external_ref": "dotproperty-9eba763351b0-d74e-a382-23d2-3e45a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6400000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 42,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Noble Around Ari",
+        "zh": "1 Bedroom Condo for sale at Noble Around Ari",
+        "th": "1 Bedroom Condo for sale at Noble Around Ari"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 42 sq.m., 6,400,000 THB. Source DotProperty #9eba763351b0-d74e-a382-23d2-3e45a089.",
+        "zh": "出售：1卧，42㎡，6,400,000 泰铢。来源 DotProperty #9eba763351b0-d74e-a382-23d2-3e45a089。",
+        "th": "ขาย: 1 นอน 42 ตร.ม. ราคา 6,400,000 บาท (DotProperty #9eba763351b0-d74e-a382-23d2-3e45a089)"
+      },
+      "description": {
+        "en": "Property Details\n\n1 Bedroom Plus\n41.6 sq.m.\n12th Floor\nFully Furnished\nComplete Electrical Appliances\nBrand New Unit\nReady to Move In\n\nUnit Highlights\n\nFlexible 1 Bedroom Plus layout that can be converted into a second bedroom or a home office to suit your lifestyle\nEast-facing unit with pleasant morning sunlight\nFaces the rear of the project, offering a quiet and private living environment\nNo afternoon sun\nMinimal noise from the BTS\n\nLocation\n\nOnly 90 meters from BTS Ari\nConvenient access to restaurants, cafés, shopping malls, and office buildings in the Ari neighborhood\n",
+        "zh": "来自 DotProperty 挂牌 9eba763351b0-d74e-a382-23d2-3e45a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 9eba763351b0-d74e-a382-23d2-3e45a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-noble-around-ari-sam-sen-nai-bangkok_9eba763351b0-d74e-a382-23d2-3e45a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/KkIT2LNtAydBxXzBYm9RUM2Q2DI/0x0/unit/6569678/img-2895.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "9eba763351b0-d74e-a382-23d2-3e45a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-noble-around-ari-sam-sen-nai-bangkok_9eba763351b0-d74e-a382-23d2-3e45a089",
+      "source_url_hash": "af62d50585509c1774dc3074de4f31c38b9eefbeecfa0255051fbb48fdb18a19",
+      "duplicate_fingerprint": "5798c713d0461bfb171a55d213473202cbc6c6b32ecd15e4b18d19c8e280318e",
+      "soft_match_fingerprint": "4f6f166a47f1010148f1e175fcffef85c9d15290def73103d5ef0817ae4b0ec7",
+      "_computed_fingerprint": "317e9642b506c052c5cf73baa6de812e3941cf2f12ee62b2a027b16121cd7cf8"
+    },
+    {
+      "external_ref": "dotproperty-554c18834b80-1901-eae2-2faa-f086a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 4680000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "36",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Noble Around Ari",
+        "zh": "1 Bedroom Condo for sale at Noble Around Ari",
+        "th": "1 Bedroom Condo for sale at Noble Around Ari"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 27 sq.m., 4,680,000 THB. Source DotProperty #554c18834b80-1901-eae2-2faa-f086a089.",
+        "zh": "出售：1卧，27㎡，4,680,000 泰铢。来源 DotProperty #554c18834b80-1901-eae2-2faa-f086a089。",
+        "th": "ขาย: 1 นอน 27 ตร.ม. ราคา 4,680,000 บาท (DotProperty #554c18834b80-1901-eae2-2faa-f086a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent / sale with a floorsize of 26.54 squaremeters, located on the 36th floor, at\nNoble Around Ari building, in the popular Phaya Thai district near BTS Ari. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Microwave\n * Refrigerator\n * TV\n\nBuilding features:\n * Building completed in 2023\n * Covered car park\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 554c18834b80-1901-eae2-2faa-f086a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 554c18834b80-1901-eae2-2faa-f086a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-noble-around-ari-sam-sen-nai-bangkok_554c18834b80-1901-eae2-2faa-f086a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjMxOWEtZmZhNy03YmZiLTg5MDgtOTFlNTYxMThkNTQ0XC9iMDBhZGU1ZGY1N2RlMDMyZDQzOTAwYWNmMTc4MDQxZTBjYzc2MDQzOTVkNGJmZGU1ZWE1MDcwNjYwODQ1NDc1LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "554c18834b80-1901-eae2-2faa-f086a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-noble-around-ari-sam-sen-nai-bangkok_554c18834b80-1901-eae2-2faa-f086a089",
+      "source_url_hash": "6da963440751449c7512f15deabe2ccb7c8e0ccf98a59334e36049b147cf7f55",
+      "duplicate_fingerprint": "0c92472b518c1fe22a9dbc1cb22bb4443558d870cc8eacb81bf1d9569c73e7da",
+      "soft_match_fingerprint": "99a5ebdddcb6834455eb3eda9f7a52329d84042f3cbac236fd26e9ceca7f5ac3",
+      "_computed_fingerprint": "55a246aaef5ca1b6c644168946889bde4db866990608fe7575de3fe4277e0aa4"
+    },
+    {
+      "external_ref": "dotproperty-e4cb7084a121-1700-0dd2-8031-28c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": "36",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Noble Around Ari",
+        "zh": "1 Bedroom Condo for rent at Noble Around Ari",
+        "th": "1 Bedroom Condo for rent at Noble Around Ari"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 36 sq.m., 30,000 THB. Source DotProperty #e4cb7084a121-1700-0dd2-8031-28c4a089.",
+        "zh": "出租：1卧，36㎡，30,000 泰铢。来源 DotProperty #e4cb7084a121-1700-0dd2-8031-28c4a089。",
+        "th": "เช่า: 1 นอน 36 ตร.ม. ราคา 30,000 บาท (DotProperty #e4cb7084a121-1700-0dd2-8031-28c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 36 squaremeters, located on the 36th floor, at Noble\nAround Ari building, in the popular Phaya Thai district near BTS Ari. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2023\n * Covered car park\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 e4cb7084a121-1700-0dd2-8031-28c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty e4cb7084a121-1700-0dd2-8031-28c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-noble-around-ari-sam-sen-nai-bangkok_e4cb7084a121-1700-0dd2-8031-28c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTctODY5MS03Y2M5LTk5MjgtODc4ZjUxOTJlZDViXC85ODUyOGVhMTRkOGY3NGQxODBkZmJlYWM2ZWQ0ODlhOTliYThmMzQ3ZDk4NzI3MTgwOTM1YWI0ZDcxMjUyYmYyLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "e4cb7084a121-1700-0dd2-8031-28c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-noble-around-ari-sam-sen-nai-bangkok_e4cb7084a121-1700-0dd2-8031-28c4a089",
+      "source_url_hash": "ce72143aa4685f7977c0561209e6bce3ca434d1ab4cc816927972dd9858e77a1",
+      "duplicate_fingerprint": "4188d0ceb2e76feb1a74efbaec6d1d6979cf727d7154e94e6726a06f87d72c83",
+      "soft_match_fingerprint": "c0630f231ef8af87ea77ce0bb37bbf19bb556c062e2b05148dec1df3604de668",
+      "_computed_fingerprint": "db2e4062e200a3716a0d8ffd391a45121dd318ceba63ce7707f6b214e84fd930"
+    },
+    {
+      "external_ref": "dotproperty-7bfc46f17dbc-a77f-4dd2-f4cf-18c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": "31",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Noble Around Ari",
+        "zh": "1 Bedroom Condo for rent at Noble Around Ari",
+        "th": "1 Bedroom Condo for rent at Noble Around Ari"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 23,000 THB. Source DotProperty #7bfc46f17dbc-a77f-4dd2-f4cf-18c4a089.",
+        "zh": "出租：1卧，27㎡，23,000 泰铢。来源 DotProperty #7bfc46f17dbc-a77f-4dd2-f4cf-18c4a089。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 23,000 บาท (DotProperty #7bfc46f17dbc-a77f-4dd2-f4cf-18c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 27 squaremeters, located on the 31st floor, at Noble\nAround Ari building, in the popular Phaya Thai district near BTS Ari. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2023\n * Covered car park\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 7bfc46f17dbc-a77f-4dd2-f4cf-18c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 7bfc46f17dbc-a77f-4dd2-f4cf-18c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-noble-around-ari-sam-sen-nai-bangkok_7bfc46f17dbc-a77f-4dd2-f4cf-18c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTgtYWQ1YS03Y2M1LWEyMmYtZGVjMjhhMzVkYWUyXC9jN2ExM2Q4ZDM4ZmQ2MWY0Y2YwN2U4YTM0OGEyOTg4Y2JkNjQ3NjA4Njk0ZThmZjBjNGE1OGIxNGU5YThlOGRkLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "7bfc46f17dbc-a77f-4dd2-f4cf-18c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-noble-around-ari-sam-sen-nai-bangkok_7bfc46f17dbc-a77f-4dd2-f4cf-18c4a089",
+      "source_url_hash": "2f42baa57b215f18b5a05b2b20a712e5e69e08d8f1c88a8436b13a1ed03f6c8e",
+      "duplicate_fingerprint": "c0a5d82e5a060180a873fabfb2a49c4279651b89b4212c2500c357e5261b098b",
+      "soft_match_fingerprint": "ebb526eea1448ae45ad368d8e2dcc0e9cd10aee3218579324a7acb0a02005c2d",
+      "_computed_fingerprint": "d5219d58d4db68698b759709b497ed2ecdd2db19300c2a392ba76f93c31ca1fa"
+    },
+    {
+      "external_ref": "dotproperty-2c57d71c3807-f5bf-8112-a395-48c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "noble-around-ari",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "phaya-thai",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Noble Around Ari",
+        "zh": "1 Bedroom Condo for rent at Noble Around Ari",
+        "th": "1 Bedroom Condo for rent at Noble Around Ari"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 35,000 THB. Source DotProperty #2c57d71c3807-f5bf-8112-a395-48c4a089.",
+        "zh": "出租：1卧，35㎡，35,000 泰铢。来源 DotProperty #2c57d71c3807-f5bf-8112-a395-48c4a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 35,000 บาท (DotProperty #2c57d71c3807-f5bf-8112-a395-48c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 35.16 squaremeters, located on the 9th floor, at Noble\nAround Ari building, in the popular Phaya Thai district near BTS Ari. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2023\n * Covered car park\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 2c57d71c3807-f5bf-8112-a395-48c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 2c57d71c3807-f5bf-8112-a395-48c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-noble-around-ari-sam-sen-nai-bangkok_2c57d71c3807-f5bf-8112-a395-48c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTUtNDA2Zi03ODgxLWFlNGEtMjkxNmQ4MmMyNGQ3XC9kZjVlYTY3MmQ0ODk5MmFiYzRkYTE2NzFiNjE0NTZhNzZkM2MzYzg1ODcxMjYyZDdlYTMxODJiMDNlZDZlM2RiLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2c57d71c3807-f5bf-8112-a395-48c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-noble-around-ari-sam-sen-nai-bangkok_2c57d71c3807-f5bf-8112-a395-48c4a089",
+      "source_url_hash": "230363552cd050147f1aa4b32d60e6eab9e90d112c9d7466764978c81435abe7",
+      "duplicate_fingerprint": "b2cc60af76ee424d0abf09ec9144fce04a4007ff6156a692660c29da53d92902",
+      "soft_match_fingerprint": "ded359747f4fe9c6a6171b720ef8694f7330952d1384b0a9b3f552c21c9a5d13",
+      "_computed_fingerprint": "3bcb0e34e148fdd0609b36e968069e7ae047b4671c2901b7fd20490937557249"
+    }
+  ]
+}

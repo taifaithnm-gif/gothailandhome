@@ -1,0 +1,10 @@
+{
+  "project_slug": "ideo-mobi-sukhumvit-66",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "11949",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=11949",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=11949",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": []
+}

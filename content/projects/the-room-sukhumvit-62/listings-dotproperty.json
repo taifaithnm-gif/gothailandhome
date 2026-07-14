@@ -1,0 +1,335 @@
+{
+  "project_slug": "the-room-sukhumvit-62",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "2384",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=2384",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=2384",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-722f35996ed3-1f1f-1312-eb8f-2aa4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 11490000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 89,
+      "floor_label": "5",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Room Sukhumvit 62",
+        "zh": "2 Bedroom Condo for sale at The Room Sukhumvit 62",
+        "th": "2 Bedroom Condo for sale at The Room Sukhumvit 62"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 89 sq.m., 11,490,000 THB. Source DotProperty #722f35996ed3-1f1f-1312-eb8f-2aa4a089.",
+        "zh": "出售：2卧，89㎡，11,490,000 泰铢。来源 DotProperty #722f35996ed3-1f1f-1312-eb8f-2aa4a089。",
+        "th": "ขาย: 2 นอน 89 ตร.ม. ราคา 11,490,000 บาท (DotProperty #722f35996ed3-1f1f-1312-eb8f-2aa4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for sale with a floorsize of 88.5 squaremeters, located on the 5th floor, at The\nRoom Sukhumvit 62 building, in the popular Phra Khanong district near BTS Punnawithi. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Microwave\n * Refrigerator\n * Stove\n * TV\n\nBuilding features:\n * Building completed in 2011\n * Security cameras\n * Covered car park\n * Parking space available\n * Beautiful garden area on premise\n * Open car park\n * Relaxing swimming pool\n * 24-hours security\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden p",
+        "zh": "来自 DotProperty 挂牌 722f35996ed3-1f1f-1312-eb8f-2aa4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 722f35996ed3-1f1f-1312-eb8f-2aa4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-room-sukhumvit-62-bang-chak-bangkok_722f35996ed3-1f1f-1312-eb8f-2aa4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVmZjctYTFlYi03ODY4LWE4YTgtNmNiMzAwNDZhNzcyXC9jNjEyNGUxNTc1ZDMwZjE5MTA4OWM0Njc0YmVhMTgzODMxOTI0NmMwMTU2NTA3ZWJmNjgwYWVlZGIwOTk5Yjk1LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "722f35996ed3-1f1f-1312-eb8f-2aa4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-room-sukhumvit-62-bang-chak-bangkok_722f35996ed3-1f1f-1312-eb8f-2aa4a089",
+      "source_url_hash": "0c9fa3690ff4f03fa914bbe5e0b4c321740781c38ecef1a01953f0d59b8d1269",
+      "duplicate_fingerprint": "c5f7273943e1a0a73d9a593a5dcf4331a751e163eb9719fc687a878d7f4def12",
+      "soft_match_fingerprint": "6a56a93fb2cf432a7a1f3acd6e4c0c65816d870ffe648cf169de610df81eda0c",
+      "_computed_fingerprint": "9dae01268a60db8161094c22d038e1a0277da63c1c36eea6713b7b50bf91aa28"
+    },
+    {
+      "external_ref": "dotproperty-59a71668b83d-a941-1922-42e1-3b24a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 11000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 75,
+      "floor_label": "9",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Room Sukhumvit 62",
+        "zh": "2 Bedroom Condo for sale at The Room Sukhumvit 62",
+        "th": "2 Bedroom Condo for sale at The Room Sukhumvit 62"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 75 sq.m., 11,000,000 THB. Source DotProperty #59a71668b83d-a941-1922-42e1-3b24a089.",
+        "zh": "出售：2卧，75㎡，11,000,000 泰铢。来源 DotProperty #59a71668b83d-a941-1922-42e1-3b24a089。",
+        "th": "ขาย: 2 นอน 75 ตร.ม. ราคา 11,000,000 บาท (DotProperty #59a71668b83d-a941-1922-42e1-3b24a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for sale with a floorsize of 75.29 squaremeters, located on the 9th floor, at The\nRoom Sukhumvit 62 building, in the popular Phra Khanong district near BTS Punnawithi. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Refrigerator\n * Stove\n * TV\n\nBuilding features:\n * Building completed in 2011\n * Security cameras\n * Gym\n * 24-hours security\n * Relaxing swimming pool\n * Covered car park\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 59a71668b83d-a941-1922-42e1-3b24a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 59a71668b83d-a941-1922-42e1-3b24a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-room-sukhumvit-62-bang-chak-bangkok_59a71668b83d-a941-1922-42e1-3b24a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU3ZTYtOGI3NS03NzA4LTg1MGYtYzYxZTEzMzgyZjA0XC80YjM2ODJiYzJiODM1YjIyOTllODdlNGQ0NTVkZWI3NTk3ZTBhYjYzMGQwZTY2MDEwZjUzMDlkZGFjOWIzODlmLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "59a71668b83d-a941-1922-42e1-3b24a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-room-sukhumvit-62-bang-chak-bangkok_59a71668b83d-a941-1922-42e1-3b24a089",
+      "source_url_hash": "97a8ec2133faff272bf5e9d08207209a4127f35ff68d8a36307be7ceac6f512f",
+      "duplicate_fingerprint": "400845483ee06d1463a720896b90697dfc2bbe0537b7763915aba65b52817181",
+      "soft_match_fingerprint": "c82ea6ce833259bda907dd9cba06f2d1c95e61e4bba6bb518d992f72a796a42a",
+      "_computed_fingerprint": "e3afb59372ed727bab5df78d63089380c6f301067cf84e2868c803cfde8b01b9"
+    },
+    {
+      "external_ref": "dotproperty-80f8d55e0a29-1de1-b552-d751-6885a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9950000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 76,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Room Sukhumvit 62",
+        "zh": "2 Bedroom Condo for sale at The Room Sukhumvit 62",
+        "th": "2 Bedroom Condo for sale at The Room Sukhumvit 62"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 76 sq.m., 9,950,000 THB. Source DotProperty #80f8d55e0a29-1de1-b552-d751-6885a089.",
+        "zh": "出售：2卧，76㎡，9,950,000 泰铢。来源 DotProperty #80f8d55e0a29-1de1-b552-d751-6885a089。",
+        "th": "ขาย: 2 นอน 76 ตร.ม. ราคา 9,950,000 บาท (DotProperty #80f8d55e0a29-1de1-b552-d751-6885a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent / sale with a floorsize of 76 squaremeters, at The Room Sukhumvit 62\nbuilding, in the popular Phra Khanong district near BTS Punnawithi. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2011\n * 24-hours security\n * Covered car park\n * Relaxing swimming pool\n * Security cameras\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 80f8d55e0a29-1de1-b552-d751-6885a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 80f8d55e0a29-1de1-b552-d751-6885a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-room-sukhumvit-62-bang-chak-bangkok_80f8d55e0a29-1de1-b552-d751-6885a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjQxMTMtODQyYy03NDRlLThiYzgtMDdmOWI0NGMxYTkxXC8xNTljYjU1NWJiZTBhOWU2MTUxOWJjYmUwOTVhZGQxYzFmZjkxMmEyYjk5M2UzMWMwYWI5NDlmMjcyNTJiODgxLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "80f8d55e0a29-1de1-b552-d751-6885a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-room-sukhumvit-62-bang-chak-bangkok_80f8d55e0a29-1de1-b552-d751-6885a089",
+      "source_url_hash": "651a33649c97ca4a53a25b87b7cecf61b70bc86ba259b6737c6ea2ed9105e1b1",
+      "duplicate_fingerprint": "ef2725ebddc025b64567830507e827835c074481e6721af5d81a1cf3c77fbeef",
+      "soft_match_fingerprint": "292f1e195fe94c3bbc274fe345f9c74030cb929ea51806f957e92b9444b4d0f3",
+      "_computed_fingerprint": "ab0da146e5412564583ba68716f3edc94242d15e5b6c89057fa3829707e88641"
+    },
+    {
+      "external_ref": "dotproperty-aa9d376fa782-a421-8c32-28c4-5d74a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 76,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at The Room Sukhumvit 62",
+        "zh": "2 Bedroom Condo for rent at The Room Sukhumvit 62",
+        "th": "2 Bedroom Condo for rent at The Room Sukhumvit 62"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 76 sq.m., 35,000 THB. Source DotProperty #aa9d376fa782-a421-8c32-28c4-5d74a089.",
+        "zh": "出租：2卧，76㎡，35,000 泰铢。来源 DotProperty #aa9d376fa782-a421-8c32-28c4-5d74a089。",
+        "th": "เช่า: 2 นอน 76 ตร.ม. ราคา 35,000 บาท (DotProperty #aa9d376fa782-a421-8c32-28c4-5d74a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent with a floorsize of 76 squaremeters, located on the 17th floor, at The Room\nSukhumvit 62 building, in the popular Phra Khanong district near BTS Punnawithi. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Microwave\n * Refrigerator\n * Stove\n * TV\n\nBuilding features:\n * Building completed in 2011\n * 24-hours security\n * Covered car park\n * Relaxing swimming pool\n * Security cameras\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 aa9d376fa782-a421-8c32-28c4-5d74a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty aa9d376fa782-a421-8c32-28c4-5d74a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-room-sukhumvit-62-bang-chak-bangkok_aa9d376fa782-a421-8c32-28c4-5d74a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjUyYzQtNWQxNy03NmQxLTg3NWYtNzEyZmEzMjZjMGZmXC8yZWM2YjI1NjhmNWE1ZTNhZmUwZGFjNmQ1ZGI4YzMyNzdiOWQ4Y2E0NGZiMjA1NjFmMjllOTNiNDQ5NTFmMjFmLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "aa9d376fa782-a421-8c32-28c4-5d74a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-room-sukhumvit-62-bang-chak-bangkok_aa9d376fa782-a421-8c32-28c4-5d74a089",
+      "source_url_hash": "8f55471ea8390b669402a077a5c8c4fa93c0347c49826f78011c6a2b9d38f87b",
+      "duplicate_fingerprint": "b9342558969aad2d20eaa67c1f702a65af250a253f15bb8e3dfdb9d2124f9d75",
+      "soft_match_fingerprint": "396c271bec9eb45a873c23608c75a4857708ecadf6b11b5ef2c9fd16c7c4dcfc",
+      "_computed_fingerprint": "c209d266c0450bf8a6bb89d19a3a033ec94bfbf711644d722ddb90d05a80f9c8"
+    },
+    {
+      "external_ref": "dotproperty-2a9b2329e48a-48df-03f2-beac-1065a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 46000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 76,
+      "floor_label": "3",
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at The Room Sukhumvit 62",
+        "zh": "2 Bedroom Condo for rent at The Room Sukhumvit 62",
+        "th": "2 Bedroom Condo for rent at The Room Sukhumvit 62"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 76 sq.m., 46,000 THB. Source DotProperty #2a9b2329e48a-48df-03f2-beac-1065a089.",
+        "zh": "出租：2卧，76㎡，46,000 泰铢。来源 DotProperty #2a9b2329e48a-48df-03f2-beac-1065a089。",
+        "th": "เช่า: 2 นอน 76 ตร.ม. ราคา 46,000 บาท (DotProperty #2a9b2329e48a-48df-03f2-beac-1065a089)"
+      },
+      "description": {
+        "en": "BR074412\n ✨ Fully Furnished – Move-in Ready 100%, complete with a washing machine and refrigerator.\nDirect access to BTS Punnawithi (Green [hidden line] convenient travel to Asok, Siam, and other key business districts.\nClose to Gateway Ekkamai, The Emporium, Cloud 11, and True Digital Park.\nNear Sukhumvit Hospital and several international schools.\n\nProject Facilities\n\n🏊 Swimming Pool\n💪 Fitness Center\n🌳 Landscaped Garden\n💻 Co-working Space\n🚗 Resident Parking\nThe Room Sukhumvit 62, Near BTS Punnawithi\n\nProject Details:  \nThe Room Sukhumvit 62 by Land &amp; Houses is located on Sukhumvit Road, Soi 62, Bang Chak, Phra Khanong, Bangkok. This high-rise condominium features 2 buildings with 23 floors, offering 487 residential units. The available units range from 1-Bedroom to 2-Bedroom, with sizes starting from 45.00 – 88.00 sq.m. Completed and ready to move in since 2011.\n\nNearby Landmarks:  \n– Gateway Ekamai  \n– Major Ekamai  \n– Big C Ekamai  \n– Central Bangna  \n– Lotus On Nut  \n– Singapore International School  \n– Southeast Bangkok College  \n– Sukhumvit Hospital  \n\nFacilities:  \n– 10x25 meter ozone system swimming pool  \n– Sky garden with seating and BBQ party area on the 3rd fl",
+        "zh": "来自 DotProperty 挂牌 2a9b2329e48a-48df-03f2-beac-1065a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 2a9b2329e48a-48df-03f2-beac-1065a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-room-sukhumvit-62-bang-chak-bangkok_2a9b2329e48a-48df-03f2-beac-1065a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjQzOTgtZGZiZS03YTY5LWFjMTUtZjE1YjA3NjdlMGY3XC80Yzg3N2UyNGE1MTBhZjQwODA0MDFlMDkzOTkxNWMyMzkzMjRjYTRiODQ0YzM5MmIzZGI5YzRiMjQ0ZDMyYjJlLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2a9b2329e48a-48df-03f2-beac-1065a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-room-sukhumvit-62-bang-chak-bangkok_2a9b2329e48a-48df-03f2-beac-1065a089",
+      "source_url_hash": "6b0d2f4ead80df14b942a3235c36f07bc45ef3e930a1379587bf6b6e7bf02388",
+      "duplicate_fingerprint": "0ddef42414ab3f6ed1bbcc6705070eaa9ef172824cabce15c45111e53e1b25e6",
+      "soft_match_fingerprint": "64ec00c73c05c3e5b4431bef7c6f3c6c6e0a0402535c9882eb9242c1819134fb",
+      "_computed_fingerprint": "4d799463acdd2b3bcb5d7e847a647e99c4cf0f01da3b52223afce4271b7a7a4d"
+    },
+    {
+      "external_ref": "dotproperty-385f504020ca-12ae-db52-65ea-a685a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 46000,
+      "bedrooms": 2,
+      "bathrooms": null,
+      "area_sqm": 76,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-room-sukhumvit-62",
+      "developer_slug": "land-and-houses",
+      "city_slug": "bangkok",
+      "district_slug": "phra-khanong",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at The Room Sukhumvit 62",
+        "zh": "2 Bedroom Condo for rent at The Room Sukhumvit 62",
+        "th": "2 Bedroom Condo for rent at The Room Sukhumvit 62"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 76 sq.m., 46,000 THB. Source DotProperty #385f504020ca-12ae-db52-65ea-a685a089.",
+        "zh": "出租：2卧，76㎡，46,000 泰铢。来源 DotProperty #385f504020ca-12ae-db52-65ea-a685a089。",
+        "th": "เช่า: 2 นอน 76 ตร.ม. ราคา 46,000 บาท (DotProperty #385f504020ca-12ae-db52-65ea-a685a089)"
+      },
+      "description": {
+        "en": "Property code AHG_1477\n\n- Size 76 square meters\n- 7th Floor, City and BTS view\n- 2 bedrooms, 2 bathrooms\n- Fully furnished\n- Electrical appliances\n- Living room, kitchen, dining area\n\nNearby places\n- BTS Punnawithi\n- 101 True Digital Park\n- The Third Place\n- Anglo Singapore International School\n- Wells International School Onnut\n- Sukhumvit Hospital\n\nFacilities include swimming pool, fitness, garden, parking and 24 hour security\n\nRent 46,000 baht/month\n(1 year contract)",
+        "zh": "来自 DotProperty 挂牌 385f504020ca-12ae-db52-65ea-a685a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 385f504020ca-12ae-db52-65ea-a685a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-room-sukhumvit-62-bang-chak-bangkok_385f504020ca-12ae-db52-65ea-a685a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzXC8wMTlmNDEzZi1mYjQzLTc0ZWMtYmY3OC1mZDk3OTU5NGE0MTZcLzAxOWY0MTQwLTdhYWQtNzM1MS05MzdiLTVlMzIyN2NmMTliOC5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "385f504020ca-12ae-db52-65ea-a685a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-the-room-sukhumvit-62-bang-chak-bangkok_385f504020ca-12ae-db52-65ea-a685a089",
+      "source_url_hash": "0b895028c8710662de462774b18cd4ff97834966a3058cc55683a2747544d124",
+      "duplicate_fingerprint": "90b8db2c76373c3b0d5bf924cb8a0fa359d150dc9bcffc30e1c8be0044f5826b",
+      "soft_match_fingerprint": "091bf2acb529d24167f33b0693b5918b0f3e1748eeca588273a40b488589d670",
+      "_computed_fingerprint": "5091a3671b228901550eed63994ad09fdff75ef6a97ba251ab747e6a79e2fc4d"
+    }
+  ]
+}

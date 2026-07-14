@@ -1,0 +1,335 @@
+{
+  "project_slug": "the-base-sukhumvit-77",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "2249",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=2249",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=2249",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-5ec3c7daccba-3fb1-71c2-a2c4-e4e5a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3200000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The Base Sukhumvit 77",
+        "zh": "1 Bedroom Condo for sale at The Base Sukhumvit 77",
+        "th": "1 Bedroom Condo for sale at The Base Sukhumvit 77"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 36 sq.m., 3,200,000 THB. Source DotProperty #5ec3c7daccba-3fb1-71c2-a2c4-e4e5a089.",
+        "zh": "出售：1卧，36㎡，3,200,000 泰铢。来源 DotProperty #5ec3c7daccba-3fb1-71c2-a2c4-e4e5a089。",
+        "th": "ขาย: 1 นอน 36 ตร.ม. ราคา 3,200,000 บาท (DotProperty #5ec3c7daccba-3fb1-71c2-a2c4-e4e5a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 36 squaremeters, located on the 25th floor, at The Base\nSukhumvit 77 building, in the popular Watthana district near BTS On Nut. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2013\n * 24-hours security\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n * Kids play area\n * Basketball court\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 5ec3c7daccba-3fb1-71c2-a2c4-e4e5a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 5ec3c7daccba-3fb1-71c2-a2c4-e4e5a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-base-sukhumvit-77-phra-khanong-nuea-bangkok_5ec3c7daccba-3fb1-71c2-a2c4-e4e5a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjRiNWItNWQ3Zi03ZDgyLThlYTYtZmVkZGZjMmQ2ZGI0XC80MGM1MDgzYWJlMWUwZmE1YzZkZmUyNzYwZDVkMDNjNzZhYTFkNDMzZGQ4NzJmMTNhNDY4MTAzZTc4YzRhZDJlLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "5ec3c7daccba-3fb1-71c2-a2c4-e4e5a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-base-sukhumvit-77-phra-khanong-nuea-bangkok_5ec3c7daccba-3fb1-71c2-a2c4-e4e5a089",
+      "source_url_hash": "a2d7b8a6ddd51882a37f44c558c1c22c5e278878f79fbf5bea45f3ad42a1ceae",
+      "duplicate_fingerprint": "0d22cab2ce18cef194583bc6d15e666b2c665adb3dbec8dc57f9b33fba5a55a0",
+      "soft_match_fingerprint": "2cec43d148a334ce04f81f4ce5f4c3190877ff98ad6a63d13f8f31797af9bf3a",
+      "_computed_fingerprint": "854d332bcae1906b97e1c6be119cf09db0f6e136e8de919d43f1a44786484f89"
+    },
+    {
+      "external_ref": "dotproperty-e7b1ce7e0474-a4a0-2902-0555-79c8a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 53,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Base Sukhumvit 77",
+        "zh": "2 Bedroom Condo for sale at The Base Sukhumvit 77",
+        "th": "2 Bedroom Condo for sale at The Base Sukhumvit 77"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 53 sq.m., 5,000,000 THB. Source DotProperty #e7b1ce7e0474-a4a0-2902-0555-79c8a089.",
+        "zh": "出售：2卧，53㎡，5,000,000 泰铢。来源 DotProperty #e7b1ce7e0474-a4a0-2902-0555-79c8a089。",
+        "th": "ขาย: 2 นอน 53 ตร.ม. ราคา 5,000,000 บาท (DotProperty #e7b1ce7e0474-a4a0-2902-0555-79c8a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for sale with a floorsize of 53.21 squaremeters, located on the 22nd floor, at The\nBase Sukhumvit 77 building, in the popular Watthana district near BTS On Nut. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n\nBuilding features:\n * Building completed in 2013\n * Library\n * Bike Park\n * 24-hours security\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n * Kids play area\n * Basketball court\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 e7b1ce7e0474-a4a0-2902-0555-79c8a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty e7b1ce7e0474-a4a0-2902-0555-79c8a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-base-sukhumvit-77-phra-khanong-nuea-bangkok_e7b1ce7e0474-a4a0-2902-0555-79c8a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjFkMDItNDQ0OS03OTA3LTlmNWYtNTI1OWIyYmQ4ZTJiXC9iNTBjNjEzNTgyZjlhMWExNzIyYjdlMzc1ZTVkZjk2NWUxMmZlZGQyYjYxZDUzNmM1YzE0NmU0ZDM5MjQwNDZiLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "e7b1ce7e0474-a4a0-2902-0555-79c8a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-base-sukhumvit-77-phra-khanong-nuea-bangkok_e7b1ce7e0474-a4a0-2902-0555-79c8a089",
+      "source_url_hash": "f5d643f71e211d9b2a486b0debb409ee89688084fb754e52357b0cc2aecbbbe3",
+      "duplicate_fingerprint": "e80e7dbf3786acd4ec75588ff188341761537d189531b02ec4a3c73cc40fde9a",
+      "soft_match_fingerprint": "48a90c111de2b0b0685ad2ab712f9386c40b77727121008f81397e642cf808bf",
+      "_computed_fingerprint": "0ad5a8ffba19615b5d886f5de405d0be1783c9dc3acf481fe7b87ce2cc30c5d0"
+    },
+    {
+      "external_ref": "dotproperty-719e782c473a-40ce-b0d2-bfdc-f1536089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2950000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The Base Sukhumvit 77",
+        "zh": "1 Bedroom Condo for sale at The Base Sukhumvit 77",
+        "th": "1 Bedroom Condo for sale at The Base Sukhumvit 77"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 30 sq.m., 2,950,000 THB. Source DotProperty #719e782c473a-40ce-b0d2-bfdc-f1536089.",
+        "zh": "出售：1卧，30㎡，2,950,000 泰铢。来源 DotProperty #719e782c473a-40ce-b0d2-bfdc-f1536089。",
+        "th": "ขาย: 1 นอน 30 ตร.ม. ราคา 2,950,000 บาท (DotProperty #719e782c473a-40ce-b0d2-bfdc-f1536089)"
+      },
+      "description": {
+        "en": "This property is a 30 SqM condo with 1 bedroom and 1 bathroom that is available for sale. It is part of the The Base Sukhumvit 77 project in Phra Khanong Nuea, Bangkok and was completed in Dec 2012. You can buy this condo for a base price of ฿2,950,000 (฿98,333/SqM) and it is also available for long term rentals starting from ฿14,000 per month.",
+        "zh": "来自 DotProperty 挂牌 719e782c473a-40ce-b0d2-bfdc-f1536089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 719e782c473a-40ce-b0d2-bfdc-f1536089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-base-sukhumvit-77-phra-khanong-nuea-bangkok_719e782c473a-40ce-b0d2-bfdc-f1536089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/zOitGACWHMWM5GtVPuebHAqq_II/0x0/unit/1690634/gridart-20231101-174810009.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "719e782c473a-40ce-b0d2-bfdc-f1536089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-base-sukhumvit-77-phra-khanong-nuea-bangkok_719e782c473a-40ce-b0d2-bfdc-f1536089",
+      "source_url_hash": "dc310f32dbc2452bb3d203b7e5f07282f1f582fe06e743d2e9b1d13273e000d6",
+      "duplicate_fingerprint": "a5f26894b3efd0b533eb0e7f065dca62fec91e35e4ba19549e451499b0576449",
+      "soft_match_fingerprint": "7ecfed3e80d4a5b22e7607f6fd60779adb494065307472b53780ea98ac1cb636",
+      "_computed_fingerprint": "c379022e069a81ebfbb352eb2482b0f3a1d8ce543b0511ab95271161d6526e29"
+    },
+    {
+      "external_ref": "dotproperty-7360c6b0fbb0-db4e-ce62-9f07-18d8a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": "37",
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Base Sukhumvit 77",
+        "zh": "1 Bedroom Condo for rent at The Base Sukhumvit 77",
+        "th": "1 Bedroom Condo for rent at The Base Sukhumvit 77"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 15,000 THB. Source DotProperty #7360c6b0fbb0-db4e-ce62-9f07-18d8a089.",
+        "zh": "出租：1卧，30㎡，15,000 泰铢。来源 DotProperty #7360c6b0fbb0-db4e-ce62-9f07-18d8a089。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 15,000 บาท (DotProperty #7360c6b0fbb0-db4e-ce62-9f07-18d8a089)"
+      },
+      "description": {
+        "en": "30 sq.m. | 1 Bedroom | 1 Bathroom | 37th Floor | Near BTS On Nut\nEnjoy panoramic Bangkok views from this well-located 30 sq.m. condominium on the 37th floor of The Base Sukhumvit 77, a popular Sansiri development in the vibrant On Nut area.\nThe unit is ideal for an expatriate, professional, couple, or long-term resident looking for convenient access to central Bangkok while enjoying a quieter residential environment.\nProperty Details\n\nApproximately 30 sq.m.\n1 bedroom\n1 bathroom\nSeparate living area\nKitchen area\nPrivate balcony\nLocated on the 37th floor\nHigh-floor city views\nAir-conditioned\nAvailable for long-term rental\nSuitable for foreign tenants\n\nRental price: 15,000 THBMinimum lease: 1 YearAvailability: 1st July 2026Security deposit: 2 Months Rent\nCondominium Facilities\nResidents have access to a wide range of shared facilities, including:\n\nLarge swimming pool\nFully equipped fitness centre\nLandscaped gardens and green spaces\nChildren’s playground\nBasketball or multi-purpose sports court\nOn-site 7/11, restaurants and laundry services\nResident parking\nMotorcycle parking\nPassenger lifts\nCCTV surveillance\nKey-card access\n24-hour security\n\n \nExcellent On Nut Location\nThe condominium",
+        "zh": "来自 DotProperty 挂牌 7360c6b0fbb0-db4e-ce62-9f07-18d8a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 7360c6b0fbb0-db4e-ce62-9f07-18d8a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-base-sukhumvit-77-phra-khanong-nuea-bangkok_7360c6b0fbb0-db4e-ce62-9f07-18d8a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/z9KeUsGN5XHKZhLgt8_v13CHukk/0x0/unit/6540931/img-2210.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "7360c6b0fbb0-db4e-ce62-9f07-18d8a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-base-sukhumvit-77-phra-khanong-nuea-bangkok_7360c6b0fbb0-db4e-ce62-9f07-18d8a089",
+      "source_url_hash": "f129aa98bc6a552e4c570ba6aeb163a26eb68aba6b9e037d02330d22ad0a1506",
+      "duplicate_fingerprint": "c06f616496c4e08ce662dca91045fcaba8f4ec5942325d5467263310a4ff1a85",
+      "soft_match_fingerprint": "3a4cb913b64a478a48958e163053dae36a59120a30972fc25cddadd16fd8907b",
+      "_computed_fingerprint": "d121977a0775ce087dea871bb893de276e22ba34c179df6fb415db6ff410422c"
+    },
+    {
+      "external_ref": "dotproperty-a46c5cd6b2ba-c9de-e172-6e57-ebe5a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13000,
+      "bedrooms": 1,
+      "bathrooms": null,
+      "area_sqm": 31,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Base Sukhumvit 77",
+        "zh": "1 Bedroom Condo for rent at The Base Sukhumvit 77",
+        "th": "1 Bedroom Condo for rent at The Base Sukhumvit 77"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 13,000 THB. Source DotProperty #a46c5cd6b2ba-c9de-e172-6e57-ebe5a089.",
+        "zh": "出租：1卧，31㎡，13,000 泰铢。来源 DotProperty #a46c5cd6b2ba-c9de-e172-6e57-ebe5a089。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 13,000 บาท (DotProperty #a46c5cd6b2ba-c9de-e172-6e57-ebe5a089)"
+      },
+      "description": {
+        "en": "🏙️✨ FOR RENT : The Base Sukhumvit 77 | 13,000 THB/Month\n\n⭐ Multiple units available in this project—price is negotiable upon contract!\n\nThe Base Sukhumvit 77 is a modern high-rise condominium located in the vibrant On Nut neighborhood, offering convenient access to BTS On Nut. The project is surrounded by shopping malls, supermarkets, office buildings, restaurants, cafes, and lifestyle destinations. With contemporary design, complete facilities, and excellent connectivity, it is an ideal choice for comfortable urban living.\n\nRental Price: 13,000 THB / Month\n\nUnit Details:\n\n• 1 Bedroom | 1 Bathroom\n• 31 sq.m.\n• 9th Floor\n• Building B\n\nRental Terms:\n\n• Minimum 1-year contract\n• 2 months security deposit\n• 1 month rental in advance\n\nSpecial Note:\n\n• Viewing can be arranged upon request\n• Direct booking to the owner's account for your safety\n• Priority is given to the first party who confirms the reservation\n\nContact Us:\n\nCall: [hidden phone]\nWhatsApp: [hidden phone]\n[hidden line]\nEmail: [hidden email]\nFacebook Messenger: m.me/[hidden phone]\n\nHome Property Consulting Co., Ltd.",
+        "zh": "来自 DotProperty 挂牌 a46c5cd6b2ba-c9de-e172-6e57-ebe5a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty a46c5cd6b2ba-c9de-e172-6e57-ebe5a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-base-sukhumvit-77-phra-khanong-nuea-bangkok_a46c5cd6b2ba-c9de-e172-6e57-ebe5a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzXC8wMTlmNGJlYi0yNGIzLTcyOGItYmMwZC1mZTdlM2NkNGQzNWZcLzAxOWY0YzA1LTU5ZDMtNzA2NC04MmMwLTIyMzdjMDE0ZTY0Ni5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "a46c5cd6b2ba-c9de-e172-6e57-ebe5a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-base-sukhumvit-77-phra-khanong-nuea-bangkok_a46c5cd6b2ba-c9de-e172-6e57-ebe5a089",
+      "source_url_hash": "f10c0e017dee175947ebea2d92840f918f308121880a3ac969444104529a02a0",
+      "duplicate_fingerprint": "4a132cbac4d5e30394df1800934b969aad7d1c493d21e964f2d906a30f2e9557",
+      "soft_match_fingerprint": "56fda561b4c41abcf975d3f3d6ae8c21a06dbe094164bcb3b39d5424a8cf7182",
+      "_computed_fingerprint": "aef94c44fe7af8bdec714d21d123d7b688df008aa6103afd3091a552edf16026"
+    },
+    {
+      "external_ref": "dotproperty-c1b98d99d9cb-f261-f972-f282-add5a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 17000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 30,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-base-sukhumvit-77",
+      "developer_slug": "sansiri",
+      "city_slug": "bangkok",
+      "district_slug": "suan-luang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Base Sukhumvit 77",
+        "zh": "1 Bedroom Condo for rent at The Base Sukhumvit 77",
+        "th": "1 Bedroom Condo for rent at The Base Sukhumvit 77"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 30 sq.m., 17,000 THB. Source DotProperty #c1b98d99d9cb-f261-f972-f282-add5a089.",
+        "zh": "出租：1卧，30㎡，17,000 泰铢。来源 DotProperty #c1b98d99d9cb-f261-f972-f282-add5a089。",
+        "th": "เช่า: 1 นอน 30 ตร.ม. ราคา 17,000 บาท (DotProperty #c1b98d99d9cb-f261-f972-f282-add5a089)"
+      },
+      "description": {
+        "en": "Project: The Base Sukhumvit 77\nID: R30540\nType: 1Bed 1Bath \nSize: 30 sq.m.\nRent: 17,000 THB/month\n\nAdvance 1 month\nDeposit 2 months\nContract 1 year",
+        "zh": "来自 DotProperty 挂牌 c1b98d99d9cb-f261-f972-f282-add5a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty c1b98d99d9cb-f261-f972-f282-add5a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-base-sukhumvit-77-phra-khanong-nuea-bangkok_c1b98d99d9cb-f261-f972-f282-add5a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzXC8wMTlmNGNjZi03MTdhLTcyMGEtODM3YS1lZDBjMDBjMTBlOGRcLzAxOWY0Y2NmLWUwOTAtNzAzNC04ZTM4LTFlOTgzYmUzYWZhMC5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "c1b98d99d9cb-f261-f972-f282-add5a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-base-sukhumvit-77-phra-khanong-nuea-bangkok_c1b98d99d9cb-f261-f972-f282-add5a089",
+      "source_url_hash": "29667077e93f3300e42f377ef39703328432be2b35536b5c2646e407407e8d9d",
+      "duplicate_fingerprint": "6c099d3edbde417493292bcff891db17db0ba3d1befbb1aab7f0a00901f8c487",
+      "soft_match_fingerprint": "6ce3a7bd5565f8b5a65540397d200ebf8044c163a8b9234980c8fcdd2c7161c8",
+      "_computed_fingerprint": "0845993bf1ab6ff57d53ed6ff380cb56b75ca67577dba46765162dec5d3df78f"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "project_slug": "niche-pride-thonglor-phetchaburi",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "8101",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=8101",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=8101",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-e0c025606eef-73de-ca62-eb56-3885a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3750000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The Niche Pride Thonglor-Phetchaburi",
+        "zh": "1 Bedroom Condo for sale at The Niche Pride Thonglor-Phetchaburi",
+        "th": "1 Bedroom Condo for sale at The Niche Pride Thonglor-Phetchaburi"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 3,750,000 THB. Source DotProperty #e0c025606eef-73de-ca62-eb56-3885a089.",
+        "zh": "出售：1卧，35㎡，3,750,000 泰铢。来源 DotProperty #e0c025606eef-73de-ca62-eb56-3885a089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 3,750,000 บาท (DotProperty #e0c025606eef-73de-ca62-eb56-3885a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 35 squaremeters, at The Niche Pride Thong Lo-Phetchaburi\nbuilding, in the popular Huai Khwang district. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2017\n * 24-hours security\n * Covered car park\n * Relaxing swimming pool\n * Steam room\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 e0c025606eef-73de-ca62-eb56-3885a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty e0c025606eef-73de-ca62-eb56-3885a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-niche-pride-thonglor-phetchaburi-bang-kapi-bangkok_e0c025606eef-73de-ca62-eb56-3885a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjQxMTYtMzRlYi03M2ZkLWJjNjItYWJiMzkzNDc5ZDliXC8wZmZkODYwZGQwZjU5N2FjZmRkOTZiNWU3N2E3MDczMjFiYzI1NGVhNGE0ZDE4NDZkYzg5NDUwYjczZDNiNDM1LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "e0c025606eef-73de-ca62-eb56-3885a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-niche-pride-thonglor-phetchaburi-bang-kapi-bangkok_e0c025606eef-73de-ca62-eb56-3885a089",
+      "source_url_hash": "3e062362bcce68828704151d3ba972eae9004f9468419c29de1a79a906ca75f1",
+      "duplicate_fingerprint": "32f4fd94540defdbfec77c601f48a7375026655c7559059f31c68d344133700a",
+      "soft_match_fingerprint": "00ee5bab89f0cf8bb9f4e18d82be7de6eeeb6b213703274b975a928e1f8cda9d",
+      "_computed_fingerprint": "8290b12a735c410f535e71e59fcf3fe5c7d9dbf5ef53ca5082118b68343256c7"
+    },
+    {
+      "external_ref": "dotproperty-cdcd68f8155d-9911-e792-6e52-37b6a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3390000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The Niche Pride Thonglor-Phetchaburi",
+        "zh": "1 Bedroom Condo for sale at The Niche Pride Thonglor-Phetchaburi",
+        "th": "1 Bedroom Condo for sale at The Niche Pride Thonglor-Phetchaburi"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 3,390,000 THB. Source DotProperty #cdcd68f8155d-9911-e792-6e52-37b6a089.",
+        "zh": "出售：1卧，35㎡，3,390,000 泰铢。来源 DotProperty #cdcd68f8155d-9911-e792-6e52-37b6a089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 3,390,000 บาท (DotProperty #cdcd68f8155d-9911-e792-6e52-37b6a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent / sale with a floorsize of 35 squaremeters, located on the 11th floor, at The\nNiche Pride Thong Lo-Phetchaburi building, in the popular Huai Khwang district. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2017\n * Covered car park\n * Relaxing swimming pool\n * Steam room\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 cdcd68f8155d-9911-e792-6e52-37b6a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty cdcd68f8155d-9911-e792-6e52-37b6a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-niche-pride-thonglor-phetchaburi-bang-kapi-bangkok_cdcd68f8155d-9911-e792-6e52-37b6a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjNlMjYtNzRiMy03MDJiLTg4MDAtYzQ0ODFhMTNjZGNkXC8wYzNhZTZlNTU2NGE3NTU1NjQzZDRjNGI1MzI0MDQyYjg5YWI2MGNkMTdmMGI5ZTAzNDEzNjE3Mjk1ODE4MTNiLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "cdcd68f8155d-9911-e792-6e52-37b6a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-niche-pride-thonglor-phetchaburi-bang-kapi-bangkok_cdcd68f8155d-9911-e792-6e52-37b6a089",
+      "source_url_hash": "7c7fb22878e9076062913328be9f7a7dade1b178090bb7b35b0eea20df1d60d5",
+      "duplicate_fingerprint": "9142fbc51151a8135408ea9c730e4b9f73a3ab7fca6bb19df43f383d4800f264",
+      "soft_match_fingerprint": "f23c5df89e06543293d23cb1a446c238bc8659d52e3ecd907781934a713f9fa2",
+      "_computed_fingerprint": "f93d78033b3b42e85f3799dfc14034099e4092b6141b53e28fd4c7fd2916c605"
+    },
+    {
+      "external_ref": "dotproperty-d86c7a88166d-f11f-7b92-2b33-e468a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2900000,
+      "bedrooms": 1,
+      "bathrooms": null,
+      "area_sqm": 35,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The Niche Pride Thonglor-Phetchaburi",
+        "zh": "1 Bedroom Condo for sale at The Niche Pride Thonglor-Phetchaburi",
+        "th": "1 Bedroom Condo for sale at The Niche Pride Thonglor-Phetchaburi"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 2,900,000 THB. Source DotProperty #d86c7a88166d-f11f-7b92-2b33-e468a089.",
+        "zh": "出售：1卧，35㎡，2,900,000 泰铢。来源 DotProperty #d86c7a88166d-f11f-7b92-2b33-e468a089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 2,900,000 บาท (DotProperty #d86c7a88166d-f11f-7b92-2b33-e468a089)"
+      },
+      "description": {
+        "en": "ขาย คอนโดกลางเมือง พร้อมอยู่ The Niche Pride Thonglor เดอะ นิช ไพร์ด\nขายด่วน คอนโดกลางเมือง พร้อมอยู่ The Niche Pride Thonglor\nเดอะ นิช ไพร์ด ทองหล่อ เพชรบุรี\nทำเลดี เดินทางสะดวกทั้งเข้าทางทองหล่อ\nเพชรบุรี สุขุมวิท พระราม 9 และฝั่งรามคำแหง\nเหมาะกับคนทำงานกลางเมืองที่ต้องการที่อยู่อาศัยใกล้ที่ทำงาน\nในราคาจับต้องได้ พื้นที่ห้องกว้าง อยู่สบาย\nตำแหน่งห้องดี ไม่บล็อควิว\nชั้น 25\nขนาดห้อง 35 ตรม.\nราคา 2.9 ลบ. เฉลี่ยเพียง ตารางเมตรละ 82,858./ ราคาดีที่สุดในโครงการ\nค่าใช้จ่ายการโอนคนละครึ่ง\n\nนัดหมายชมห้อง ติดต่อ คุณ นาริน : [hidden phone] Winner Estate Team.\n(ศูนย์เก้าห้า-แปดเจ็ดเก้า-สามสองหกสาม)\n[hidden line]\nWhat'sapp : [hidden phone]\nEmail : [hidden email] \nFB : Subdee Thailand\n\nฟรี !!! ให้คำปรึกษาสินเชื่อทุกธนาคาร\nรับฝากขาย เช่า ซื้อ อสังหาริมทรัพย์ทุกชนิด โดยทีมนายหน้ามืออาชีพ ทำงานด้วยความซื่อสัตย์ บนพื้นฐานความรู้และจรรยาบรรณวิชาชีพ\n\n#ขายเดอะนิชทองหล่อเพชรบุรี\n#ขายคอนโดเพชรบุรี\n\nUrgent Sale – Ready-to-Move-In Condo in the Heart of the City\nThe Niche Pride Thonglor – Phetchaburi**\n\nA great location with convenient access via Thonglor, Phetchaburi, Sukhumvit, Rama 9, and Ramkhamhaeng roads.\n\nIdeal for professionals working in the city center who are looking for a comfortable home close",
+        "zh": "来自 DotProperty 挂牌 d86c7a88166d-f11f-7b92-2b33-e468a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty d86c7a88166d-f11f-7b92-2b33-e468a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-niche-pride-thonglor-phetchaburi-bang-kapi-bangkok_d86c7a88166d-f11f-7b92-2b33-e468a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzXC8wMTlmMTM1Yi02NmU3LTcwZTItYTg4YS1jMzM4MTFmMmQzMWNcLzAxOWYxMzYxLTliNmItNzMxOS1iM2ZiLTA3MDUzY2FjYTcwYS5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "d86c7a88166d-f11f-7b92-2b33-e468a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-niche-pride-thonglor-phetchaburi-bang-kapi-bangkok_d86c7a88166d-f11f-7b92-2b33-e468a089",
+      "source_url_hash": "6c44e9093d71076e82a71a5051d89db21e1c9b81e61a3e3347a5dc6dab207c3b",
+      "duplicate_fingerprint": "758a4966ed90f5026304daf95396f261414b191f82b0c5045d80ba307919378c",
+      "soft_match_fingerprint": "00ee5bab89f0cf8bb9f4e18d82be7de6eeeb6b213703274b975a928e1f8cda9d",
+      "_computed_fingerprint": "b6c2c5a5b9a98a4742a4430aaf6949ccd069f39e5442b7618763ba49a8b055f4"
+    },
+    {
+      "external_ref": "dotproperty-ca4cc022962e-3010-f512-4b58-db24a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Niche Pride Thonglor-Phetchaburi",
+        "zh": "1 Bedroom Condo for rent at The Niche Pride Thonglor-Phetchaburi",
+        "th": "1 Bedroom Condo for rent at The Niche Pride Thonglor-Phetchaburi"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 20,000 THB. Source DotProperty #ca4cc022962e-3010-f512-4b58-db24a089.",
+        "zh": "出租：1卧，35㎡，20,000 泰铢。来源 DotProperty #ca4cc022962e-3010-f512-4b58-db24a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 20,000 บาท (DotProperty #ca4cc022962e-3010-f512-4b58-db24a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 35 squaremeters, located on the 25th floor, at The Niche\nPride Thong Lo-Phetchaburi building, in the popular Huai Khwang district. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2017\n * Covered car park\n * Relaxing swimming pool\n * Steam room\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 ca4cc022962e-3010-f512-4b58-db24a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty ca4cc022962e-3010-f512-4b58-db24a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-niche-pride-thonglor-phetchaburi-bang-kapi-bangkok_ca4cc022962e-3010-f512-4b58-db24a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU3ZWMtMTRlNS03ODRhLTk4OTYtYjczMDc3OWRkNWZkXC9kYjQ3NGQ4M2JkMTc5ZGY4YzEzMzE2YWFjNGU0YzA0ZTg5MTcwMWRjYTczMWE2NDQwZGJiNWFlNWI2YTI4OGQ4LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "ca4cc022962e-3010-f512-4b58-db24a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-niche-pride-thonglor-phetchaburi-bang-kapi-bangkok_ca4cc022962e-3010-f512-4b58-db24a089",
+      "source_url_hash": "5ce65ba995df531ed5b3b2e9c99e6b34e2e68f5b941e0a5c5ac1edab341962cb",
+      "duplicate_fingerprint": "57acc8a6e5639ea618205c15ec63182f18b613d15d3c7978b26d2a062e931252",
+      "soft_match_fingerprint": "db34e4cd005118fd2735635acd47c6ec15ebe4e0e8d69bab14982e3f8d4ff568",
+      "_computed_fingerprint": "71f5f80499f33555d28a517bcbd06707d67f02d64cdd9d87358276c1174d8e2b"
+    },
+    {
+      "external_ref": "dotproperty-bcea60fddb79-e551-4b32-d515-0b24a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Niche Pride Thonglor-Phetchaburi",
+        "zh": "1 Bedroom Condo for rent at The Niche Pride Thonglor-Phetchaburi",
+        "th": "1 Bedroom Condo for rent at The Niche Pride Thonglor-Phetchaburi"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 20,000 THB. Source DotProperty #bcea60fddb79-e551-4b32-d515-0b24a089.",
+        "zh": "出租：1卧，35㎡，20,000 泰铢。来源 DotProperty #bcea60fddb79-e551-4b32-d515-0b24a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 20,000 บาท (DotProperty #bcea60fddb79-e551-4b32-d515-0b24a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 35 squaremeters, located on the 25th floor, at The Niche\nPride Thong Lo-Phetchaburi building, in the popular Huai Khwang district. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Refrigerator\n * Microwave\n * Stove\n * Balcony\n * TV\n\nBuilding features:\n * Building completed in 2017\n * Covered car park\n * Relaxing swimming pool\n * Steam room\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 bcea60fddb79-e551-4b32-d515-0b24a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty bcea60fddb79-e551-4b32-d515-0b24a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-niche-pride-thonglor-phetchaburi-bang-kapi-bangkok_bcea60fddb79-e551-4b32-d515-0b24a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU3ZTktNDg0Yy03NmU1LTg0NGItMDJlY2NhOTNmYmRlXC81OTUzZTVlY2Q3MzY2OTM4Y2E3OTA5YzczYjA5NzQxOTEyNjE5YmQ4ZTY0YjZhZWEwMmM1YTYzNjYwYjQ0ZGY4LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "bcea60fddb79-e551-4b32-d515-0b24a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-niche-pride-thonglor-phetchaburi-bang-kapi-bangkok_bcea60fddb79-e551-4b32-d515-0b24a089",
+      "source_url_hash": "73bfcd68b7ce9e7d5ed9a60215d0e83eca1a485510fca1428cf0399e0e9c8fb5",
+      "duplicate_fingerprint": "695af6997ee5298da3373a638b4a4fa1aa6d1766aab95c7cf14fcb4b689bdecb",
+      "soft_match_fingerprint": "db34e4cd005118fd2735635acd47c6ec15ebe4e0e8d69bab14982e3f8d4ff568",
+      "_computed_fingerprint": "a7aa402086fa0ebe5f8efc6462d910fe759a26516d9161a55d86cb2ed97a8b7b"
+    },
+    {
+      "external_ref": "dotproperty-b5e734de1755-0310-bf62-d42e-1814a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "developer_slug": "sena-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Niche Pride Thonglor-Phetchaburi",
+        "zh": "1 Bedroom Condo for rent at The Niche Pride Thonglor-Phetchaburi",
+        "th": "1 Bedroom Condo for rent at The Niche Pride Thonglor-Phetchaburi"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 19,000 THB. Source DotProperty #b5e734de1755-0310-bf62-d42e-1814a089.",
+        "zh": "出租：1卧，35㎡，19,000 泰铢。来源 DotProperty #b5e734de1755-0310-bf62-d42e-1814a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 19,000 บาท (DotProperty #b5e734de1755-0310-bf62-d42e-1814a089)"
+      },
+      "description": {
+        "en": "Project : Niche Pride Thonglor-Phetchaburi\nLocation area:  New Petchaburi , Bang Kapi , Huai Khwang , Bangkok 10310\nGPS :  \nStation : BTS-Thong Lo \nListing ID : CX-164018 \nFOR RENT : 19,000 ฿ \n\nProperty type : Condo \nNo of floors : 33 \nUsable area : 35 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \n - Security 24 hours\n - Lift\n - Parking\n - CCTV\n - swimming pool\n - Fitness\n - garden\n - Sound\n - wifi\n - Shop in the project\n - Restaurant in the project\n\nNearby Facilities : \n - Top supermarket\n - 7 -11\n - Food Land\n - Bangkok International Hospital\n\nZone : \nRama9, RCA, Petchaburi, Dindaeng \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished property \nCall: [hidden phone] \nE-Mail: [hidden email] \nFacebook: Connex Property \n[hidden line] @connexproperty \n Whatsapp: [hidden phone] \nWechat ID : wxid_idbemm7t5gbj22 \n[hidden url] \nupdate : [hidden phone]:40:01\n",
+        "zh": "来自 DotProperty 挂牌 b5e734de1755-0310-bf62-d42e-1814a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty b5e734de1755-0310-bf62-d42e-1814a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-niche-pride-thonglor-phetchaburi-bang-kapi-bangkok_b5e734de1755-0310-bf62-d42e-1814a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU4MTgtYjc1Yy03M2FlLTk4NjktNDQyOGJjNTYyYjRlXC81MjAxODBhNDhkNWRiN2NhMzAwNTc1MGQyNmNiMmZhOGU4ZTg5YzFiODgxZTMwYTFhZmE5ZmNhNWE1YzM0YjgxLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "b5e734de1755-0310-bf62-d42e-1814a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-niche-pride-thonglor-phetchaburi-bang-kapi-bangkok_b5e734de1755-0310-bf62-d42e-1814a089",
+      "source_url_hash": "5aec53387b8a22cf8fa00460e3097312e94721d9dca0ed91e7106fc82b525cec",
+      "duplicate_fingerprint": "75d20cee2cac4c52ba5d1700e5b7a5303effc372b47e3faba2260610caab7627",
+      "soft_match_fingerprint": "58d77e76cbe7d7951534c5904ca41a0241d1c3814e9551cd48469370f24c3fd4",
+      "_computed_fingerprint": "ac221f1d9ad57231b5d60cbf54948f822487ba49522c1a2b247fe8575a4b56b1"
+    }
+  ]
+}

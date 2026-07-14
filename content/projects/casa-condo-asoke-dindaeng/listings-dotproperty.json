@@ -1,0 +1,335 @@
+{
+  "project_slug": "casa-condo-asoke-dindaeng",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "3150",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=3150",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=3150",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-b04dff432ca6-f28e-9902-41b6-4395b089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2890000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "25",
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Casa Condo Asoke-Dindaeng",
+        "zh": "1 Bedroom Condo for sale at Casa Condo Asoke-Dindaeng",
+        "th": "1 Bedroom Condo for sale at Casa Condo Asoke-Dindaeng"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 2,890,000 THB. Source DotProperty #b04dff432ca6-f28e-9902-41b6-4395b089.",
+        "zh": "出售：1卧，35㎡，2,890,000 泰铢。来源 DotProperty #b04dff432ca6-f28e-9902-41b6-4395b089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 2,890,000 บาท (DotProperty #b04dff432ca6-f28e-9902-41b6-4395b089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 35 squaremeters, located on the 25th floor, at Casa Condo\nAsoke - Dindaeng building, in the popular Din Daeng district near MRT Phra Ram 9 and near ARL Makkasan. Please contact us to\nschedule a viewing.\n\nBuilding features:\n * Building completed in 2013\n * 24-hours security\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 b04dff432ca6-f28e-9902-41b6-4395b089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty b04dff432ca6-f28e-9902-41b6-4395b089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_b04dff432ca6-f28e-9902-41b6-4395b089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZTQwNjUtM2U4NS03OTAwLWIxN2EtM2ZkNzY1YWFjNTllXC9jNjVmYmUxMDJkZDcyY2U3OWNiYWM0ZDgyOTNjNmYyYzZlMGYzNGE0MTJhNTM0YzVmZDk4MGJlMzM2NzJhNDUzLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "b04dff432ca6-f28e-9902-41b6-4395b089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_b04dff432ca6-f28e-9902-41b6-4395b089",
+      "source_url_hash": "bdc3061780dd7d08c131fc0d59dae30f9249c8c814a9ca5472547be4181ca56b",
+      "duplicate_fingerprint": "e8edc463ebd7e7127941449506176f96a1e32f17caecad4381bea32d69440690",
+      "soft_match_fingerprint": "c8451275779e0210b220b1b989a0d5e39588b5347579197ef4f1eb79b23c44e4",
+      "_computed_fingerprint": "b1e84c326e7b7f75c12e4990ce8c24a6d55f50615cc12eb4b731db5d9d304070"
+    },
+    {
+      "external_ref": "dotproperty-8e526dc0f15f-2bdf-eb62-f600-4f45f089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2890000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Casa Condo Asoke-Dindaeng",
+        "zh": "1 Bedroom Condo for sale at Casa Condo Asoke-Dindaeng",
+        "th": "1 Bedroom Condo for sale at Casa Condo Asoke-Dindaeng"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 2,890,000 THB. Source DotProperty #8e526dc0f15f-2bdf-eb62-f600-4f45f089.",
+        "zh": "出售：1卧，35㎡，2,890,000 泰铢。来源 DotProperty #8e526dc0f15f-2bdf-eb62-f600-4f45f089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 2,890,000 บาท (DotProperty #8e526dc0f15f-2bdf-eb62-f600-4f45f089)"
+      },
+      "description": {
+        "en": "Size: 35 sq.m. | 25th Floor | 1 Bedroom, 1 Bathroom | Unblocked City View✨ Fully renovated and move-in ready!\n📍 Prime City Location – Excellent Connectivity:\n\n\nOnly 800 meters to MRT Rama 9\n\n\nEasy access to BTS Asoke, MRT Phetchaburi, and Airport Rail Link Makkasan\n\n\nSurrounded by lifestyle hubs: Central Rama 9, Fortune Town, G Tower, and The Grand Rama 9\n\n\nClose to Asoke–Phetchaburi business district and Din Daeng Expressway\n\n\nQuick commute to Sukhumvit, Ratchada, or Victory Monument\n\n\nPerfect for both living and investment.\nขายด่วน! Casa อโศก–ดินแดง (Casa Asoke-Din Daeng)\nขนาด 35 ตร.ม. | ชั้น 25 | 1 ห้องนอน 1 ห้องน้ำ | วิวโล่งไม่บล็อก✨ ตกแต่งใหม่ทั้งห้อง พร้อมเข้าอยู่ทันที\n📍 ทำเลใจกลางเมือง เดินทางสะดวกมาก!\n\n\nเพียง 800 เมตรถึง MRT พระราม 9\n\n\nใกล้ BTS อโศก, MRT เพชรบุรี, และ แอร์พอร์ตลิงก์ มักกะสัน\n\n\nรายล้อมด้วยแหล่งไลฟ์สไตล์: Central พระราม 9, Fortune Town, G Tower, The Grand Rama 9\n\n\nใกล้ย่านออฟฟิศอโศก–เพชรบุรี และทางด่วนดินแดง\n\n\nเดินทางสะดวกทั้งเข้าอโศก สุขุมวิท รัชดา หรืออนุสาวรีย์ชัยฯ\n\n\n \nเหมาะทั้งอยู่อาศัยเองและลงทุนปล่อยเช่า",
+        "zh": "来自 DotProperty 挂牌 8e526dc0f15f-2bdf-eb62-f600-4f45f089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 8e526dc0f15f-2bdf-eb62-f600-4f45f089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_8e526dc0f15f-2bdf-eb62-f600-4f45f089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/U3w6W8ZGovlVvFJ4wFJbc5eiwXo/0x0/unit/5848709/576815952-4183981708509004-1988785591371519679-n.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "8e526dc0f15f-2bdf-eb62-f600-4f45f089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_8e526dc0f15f-2bdf-eb62-f600-4f45f089",
+      "source_url_hash": "a70cfc3750a0623bd8a74e2a26ab59cceea5d7eff303f97fa50380b2f6e948d9",
+      "duplicate_fingerprint": "c70c27898a65631bafefe651f6cce67c15e78aa1b8ebd36bb08a806035b0e61c",
+      "soft_match_fingerprint": "f111e57a2f5c3694c042087e03cfbf6c081d27e4a7f9061cc4cb2ddbbed9a8f1",
+      "_computed_fingerprint": "f4ddd685525724f1c41f9372a6785093f7187aec39f70790ce6c5cf1ed409710"
+    },
+    {
+      "external_ref": "dotproperty-ebdd8a0293ca-5c2f-bb72-5119-37b9d089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 2799000,
+      "bedrooms": 1,
+      "bathrooms": null,
+      "area_sqm": 35,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Casa Condo Asoke-Dindaeng",
+        "zh": "1 Bedroom Condo for sale at Casa Condo Asoke-Dindaeng",
+        "th": "1 Bedroom Condo for sale at Casa Condo Asoke-Dindaeng"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 2,799,000 THB. Source DotProperty #ebdd8a0293ca-5c2f-bb72-5119-37b9d089.",
+        "zh": "出售：1卧，35㎡，2,799,000 泰铢。来源 DotProperty #ebdd8a0293ca-5c2f-bb72-5119-37b9d089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 2,799,000 บาท (DotProperty #ebdd8a0293ca-5c2f-bb72-5119-37b9d089)"
+      },
+      "description": {
+        "en": "\"Sale at Loss , best deal for an investment\nProject name : Casa Asoke Dindaeng\nBedroom : 1\nBathoom : 1\nSize :   35 SQM\nSelling Price :  2,799,000 THB ( 82,571 THB/SQM )\nReference ID :  \n\n================\n\nFOR MORE INQUIRY OR VIEWING PLEASE CONTACT\nThe One Residence Co.,Ltd.\nTel :    [hidden phone]  \nWhatsapp :  [hidden phone]\n[hidden line]\nEmail : [hidden email]   \n\n================\"",
+        "zh": "来自 DotProperty 挂牌 ebdd8a0293ca-5c2f-bb72-5119-37b9d089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty ebdd8a0293ca-5c2f-bb72-5119-37b9d089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_ebdd8a0293ca-5c2f-bb72-5119-37b9d089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzXC8wMTljMGUyNi0wODg0LTcyZWUtYTdkNC1mZDYwNzlmMWNjZWJcLzAxOWMwZTI3LTljMjktNzAyZi1hNDU2LTAyOGU0MjRiZWM4Ny5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "ebdd8a0293ca-5c2f-bb72-5119-37b9d089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_ebdd8a0293ca-5c2f-bb72-5119-37b9d089",
+      "source_url_hash": "db74b09267264915e2b68a11db78c37930114ef0de3e610f217c140a680d04b1",
+      "duplicate_fingerprint": "2bd2ec572a65392c961358a3df2a036dae308782bd2c8c29028407ac845f48bd",
+      "soft_match_fingerprint": "f111e57a2f5c3694c042087e03cfbf6c081d27e4a7f9061cc4cb2ddbbed9a8f1",
+      "_computed_fingerprint": "fa84e72bc7deebc1387d674efed77c9d747604b97b72ce32b091af035cae0610"
+    },
+    {
+      "external_ref": "dotproperty-96f431e779d0-b89f-e672-cc5b-830a3089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 11000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Casa Condo Asoke-Dindaeng",
+        "zh": "1 Bedroom Condo for rent at Casa Condo Asoke-Dindaeng",
+        "th": "1 Bedroom Condo for rent at Casa Condo Asoke-Dindaeng"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 11,000 THB. Source DotProperty #96f431e779d0-b89f-e672-cc5b-830a3089.",
+        "zh": "出租：1卧，31㎡，11,000 泰铢。来源 DotProperty #96f431e779d0-b89f-e672-cc5b-830a3089。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 11,000 บาท (DotProperty #96f431e779d0-b89f-e672-cc5b-830a3089)"
+      },
+      "description": {
+        "en": "This property is a 30.60 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the Casa Condo Asoke-Dindaeng project in Din Daeng, Bangkok and was completed in Dec 2012. You can rent this condo long term for ฿11,000 per month.",
+        "zh": "来自 DotProperty 挂牌 96f431e779d0-b89f-e672-cc5b-830a3089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 96f431e779d0-b89f-e672-cc5b-830a3089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_96f431e779d0-b89f-e672-cc5b-830a3089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/oEV64ehx7HUSJ61wymY4Ti0jKmY/0x0/unit/1012184/240633079-555493669003295-1320244534642699854-n.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "96f431e779d0-b89f-e672-cc5b-830a3089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_96f431e779d0-b89f-e672-cc5b-830a3089",
+      "source_url_hash": "8044b4a9931eb2ebb3ffe4d78527d37f3c23673506241716388c8cc5bd501bd0",
+      "duplicate_fingerprint": "350a36e14a2729743b3fec170319f22b3705a520577ea5d0798bfdfdd8661fa7",
+      "soft_match_fingerprint": "fd27ee1e20e617b79004fe13e8c1ae9b1dee4a4d0aeca2460ee5325d23ea8a1c",
+      "_computed_fingerprint": "039a9691733fa5454d0d898dbf528fbcb7798d6686e22338d76521538f87afbd"
+    },
+    {
+      "external_ref": "dotproperty-0302440ad595-89a1-73b2-c29a-720a3089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 11000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 27,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Casa Condo Asoke-Dindaeng",
+        "zh": "1 Bedroom Condo for rent at Casa Condo Asoke-Dindaeng",
+        "th": "1 Bedroom Condo for rent at Casa Condo Asoke-Dindaeng"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 27 sq.m., 11,000 THB. Source DotProperty #0302440ad595-89a1-73b2-c29a-720a3089.",
+        "zh": "出租：1卧，27㎡，11,000 泰铢。来源 DotProperty #0302440ad595-89a1-73b2-c29a-720a3089。",
+        "th": "เช่า: 1 นอน 27 ตร.ม. ราคา 11,000 บาท (DotProperty #0302440ad595-89a1-73b2-c29a-720a3089)"
+      },
+      "description": {
+        "en": "Casa Condo Asoke-Dindaeng is a modern high-rise condominium located near the bustling Asoke and Din Daeng area in Bangkok. Developed by Q House, it offers stylish units with practical layouts, excellent facilities such as a swimming pool, gym, and garden, and easy access to major transportation routes, including MRT and BTS stations. Its convenient location near shopping centers, offices, and schools makes it ideal for urban professionals.\n ",
+        "zh": "来自 DotProperty 挂牌 0302440ad595-89a1-73b2-c29a-720a3089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 0302440ad595-89a1-73b2-c29a-720a3089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_0302440ad595-89a1-73b2-c29a-720a3089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/e8sYnnPbLA86f2H23VT_7p2mYYU/0x0/unit/1992048/471643270-10230294085409504-36099122270547931-n.jpeg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "0302440ad595-89a1-73b2-c29a-720a3089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_0302440ad595-89a1-73b2-c29a-720a3089",
+      "source_url_hash": "0cae7819ffb8ec02c3f755e26b7775dbd965927c3f6486b12db04220905cd8cf",
+      "duplicate_fingerprint": "fb898e664e835d18e211eccf74e72bdd855e9fc6b2195da021f38664f5430563",
+      "soft_match_fingerprint": "e396a38d19e34fe6d2e3bfd19a6d8c59ae1b67493d3bf066e1494080b5c9f4c0",
+      "_computed_fingerprint": "0b1ffeefa0ef65e42387aacddab4cbaa0c51297bb9cf3e0b032b0dc405f2729b"
+    },
+    {
+      "external_ref": "dotproperty-1300ed05751a-9ce0-da72-34e0-b77cd089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 15000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 31,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "developer_slug": "quality-houses",
+      "city_slug": "bangkok",
+      "district_slug": "din-daeng",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Casa Condo Asoke-Dindaeng",
+        "zh": "1 Bedroom Condo for rent at Casa Condo Asoke-Dindaeng",
+        "th": "1 Bedroom Condo for rent at Casa Condo Asoke-Dindaeng"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 31 sq.m., 15,000 THB. Source DotProperty #1300ed05751a-9ce0-da72-34e0-b77cd089.",
+        "zh": "出租：1卧，31㎡，15,000 泰铢。来源 DotProperty #1300ed05751a-9ce0-da72-34e0-b77cd089。",
+        "th": "เช่า: 1 นอน 31 ตร.ม. ราคา 15,000 บาท (DotProperty #1300ed05751a-9ce0-da72-34e0-b77cd089)"
+      },
+      "description": {
+        "en": "This property is a 31 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the Casa Condo Asoke-Dindaeng project in Din Daeng, Bangkok and was completed in Dec 2012. You can rent this condo long term for ฿15,000 per month.",
+        "zh": "来自 DotProperty 挂牌 1300ed05751a-9ce0-da72-34e0-b77cd089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 1300ed05751a-9ce0-da72-34e0-b77cd089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_1300ed05751a-9ce0-da72-34e0-b77cd089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/rNk7Kut3WGpDynikdkLMJMD-X8Q/0x0/unit/6092255/649040596-26349586547969511-4053400693820072205-n.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1300ed05751a-9ce0-da72-34e0-b77cd089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-casa-condo-asoke-dindaeng-din-daeng-bangkok_1300ed05751a-9ce0-da72-34e0-b77cd089",
+      "source_url_hash": "20cf536e7ec4eba1a50d61674ec43b68d9e1d847bbf6dd2b161138e42e064c7e",
+      "duplicate_fingerprint": "57048f016a50fbf08d66ec85e6b2c555223afce09f8dc73c5910b0b4d0993ba6",
+      "soft_match_fingerprint": "fd27ee1e20e617b79004fe13e8c1ae9b1dee4a4d0aeca2460ee5325d23ea8a1c",
+      "_computed_fingerprint": "420b7b6e39eb00228be306278a2220ed49f9a1d90322b980e56a6f0c804b53fa"
+    }
+  ]
+}

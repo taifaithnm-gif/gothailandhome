@@ -1,0 +1,335 @@
+{
+  "project_slug": "modiz-rhyme-ramkhamhaeng",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "16601",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=16601",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=16601",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-b8979f08a0f0-84ef-4382-4341-7323b089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3500000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": null,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Modiz Rhyme Ramkhamhaeng",
+        "zh": "1 Bedroom Condo for sale at Modiz Rhyme Ramkhamhaeng",
+        "th": "1 Bedroom Condo for sale at Modiz Rhyme Ramkhamhaeng"
+      },
+      "summary": {
+        "en": "Sale: 1BR, ? sq.m., 3,500,000 THB. Source DotProperty #b8979f08a0f0-84ef-4382-4341-7323b089.",
+        "zh": "出售：1卧，?㎡，3,500,000 泰铢。来源 DotProperty #b8979f08a0f0-84ef-4382-4341-7323b089。",
+        "th": "ขาย: 1 นอน ? ตร.ม. ราคา 3,500,000 บาท (DotProperty #b8979f08a0f0-84ef-4382-4341-7323b089)"
+      },
+      "description": {
+        "en": "Condo for sale in Ramkhamhaeng area | 1 Bedroom Plus 💎 \n \\\\\\\\\\\"Live life in the heart of Ramkhamhaeng, close to MRT only 80 meters - Modiz Rhyme, High Rise condo with luxurious central area\\\\\\\\\\\" \n \n \\\\\\\\\\\"Rare Item! Condo with 4.8 meter high ceiling (Vertical Suite), open view, near Ramkhamhaeng University - the investment is worth it, youll be happy to live in it yourself\\\\\\\\\\\" \n \n \\\\\\\\\\\"Fully decorated, ready to move in! Modiz Rhyme Ramkhamhaeng, spectacular central area, 3 floors on the rooftop\\\\\\\\\\\" \n \n [Project details] \n \n Location: Next to Ramkhamhaeng main road (opposite Ramkhamhaeng University) \n Project type: High Rise condominium, 30 floors, 1 building, 546 units \n \n Room style: * Simplex: Ceiling height 2.7 meters Vertical Suite: Extra high ceiling 4.8 meters \n Estimated selling price: Starting at approx. (Depends on room size and type) \n \n [Highlights worth buying] \n Potential location (Prime Location): Located only 80 meters from the MRT Ramkhamhaeng Station (Exit 4), making traveling into the city very convenient \n \n Sky center (The Cloud Facilities): fully equipped on 3 rooftop levels, such as a panoramic swimming pool, beautifully designed The Cloud Gym, Cinemati",
+        "zh": "来自 DotProperty 挂牌 b8979f08a0f0-84ef-4382-4341-7323b089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty b8979f08a0f0-84ef-4382-4341-7323b089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-modiz-rhyme-ramkhamhaeng-hua-mak-bangkok_b8979f08a0f0-84ef-4382-4341-7323b089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZTY3NjItODU2NS03MTY1LWFiNTEtOWE5ZjE5YTAyMDFlXC9jMjc3ODI5ZmNiYWIwYzBkODYzMTY2OGY5YWQ4OWFhMmE1MDUwNWRmYmQwYTczY2VmMzQ0NjgyN2Y0N2EzODZkLnBuZyIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "b8979f08a0f0-84ef-4382-4341-7323b089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-modiz-rhyme-ramkhamhaeng-hua-mak-bangkok_b8979f08a0f0-84ef-4382-4341-7323b089",
+      "source_url_hash": "bc4d4af274b8b50221812a70ec5bd11ee5f3bf64a5c74dbaf6b0256c368ffdde",
+      "duplicate_fingerprint": "7b0c32d1c620dce2b5fdce552a46a85d9090f89fe315ed83baa33c7edd81593b",
+      "soft_match_fingerprint": "c4614b9bacd161122105b0a76a6e512113c2d0e6713626f5b0910df5de10a813",
+      "_computed_fingerprint": "96d985cca84b3f0a7a76966a33ed828817f9eb2bbee8632cf8ef242ae1cd3f6c"
+    },
+    {
+      "external_ref": "dotproperty-a5e64cb77bdc-510e-d972-e19b-c423b089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5260000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": null,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Modiz Rhyme Ramkhamhaeng",
+        "zh": "1 Bedroom Condo for sale at Modiz Rhyme Ramkhamhaeng",
+        "th": "1 Bedroom Condo for sale at Modiz Rhyme Ramkhamhaeng"
+      },
+      "summary": {
+        "en": "Sale: 1BR, ? sq.m., 5,260,000 THB. Source DotProperty #a5e64cb77bdc-510e-d972-e19b-c423b089.",
+        "zh": "出售：1卧，?㎡，5,260,000 泰铢。来源 DotProperty #a5e64cb77bdc-510e-d972-e19b-c423b089。",
+        "th": "ขาย: 1 นอน ? ตร.ม. ราคา 5,260,000 บาท (DotProperty #a5e64cb77bdc-510e-d972-e19b-c423b089)"
+      },
+      "description": {
+        "en": "Condo for sale in Ramkhamhaeng area | 1 Bedroom Plus 💎 \n \\\\\\\"Live the high-ceiling life at the highest level with Vertical Suite, 4.8 meter high ceiling in the heart of Ramkhamhaeng\\\\\\\" \n \n \\\\\\\"The room is fully decorated in Urban Lifestyle style - perfect functions, complete space. Ready to be near MRT Ramkhamhaeng Station \n \n \\\\\\\"Smart Space Design! Wide front room Clear separation of kitchen and bedroom. Comfortable to live in. Easy to invest and rent out.\\\\\\\" \n \n [Details of functions within the room] \n Proportion division (Room Layout): \n \n 1 Bedroom Plus: Wide room with excellent proportions (Working from Home) \n \n Closed Kitchen: The kitchen area is clearly separated by sliding glass doors. Helps prevent disturbing odors from entering the resting area \n \n Smart Storage: There is a closet design with clear glass doors (Walk-in Closet Style) and shelves that make the most of the tall space \n \n Decoration (Interior Concept): Emphasis on modernity with gray-wood tone materials. And the use of hidden lights (Mood Lighting) adds to the luxury. \n [Highlight Features] \n The Cloud Facilities: The most complete sky center in the area, such as The Cloud Gym with full equipment and the",
+        "zh": "来自 DotProperty 挂牌 a5e64cb77bdc-510e-d972-e19b-c423b089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty a5e64cb77bdc-510e-d972-e19b-c423b089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-modiz-rhyme-ramkhamhaeng-hua-mak-bangkok_a5e64cb77bdc-510e-d972-e19b-c423b089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZTY3NWQtZTA4Yi03MjBjLWI5ODQtZGNlMjJlZDUzYjRmXC81MTljMzhhOTJkM2U3ODg2Yzg5YTJlNDc3ZjQ2NTMyNzZmODQ1N2RjZjc0ZDVjNzMzMDRjYTc0NzUzMTg0Y2RkLnBuZyIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "a5e64cb77bdc-510e-d972-e19b-c423b089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-modiz-rhyme-ramkhamhaeng-hua-mak-bangkok_a5e64cb77bdc-510e-d972-e19b-c423b089",
+      "source_url_hash": "a1e49643ec4a6725d614b44fdfc4331f873248150b5b1a1b27b0e689dcd9d9f8",
+      "duplicate_fingerprint": "acaf49c60bb88a7c3d4e9ccfd8cdded6d01f694703cae5906a62fc82e90fae83",
+      "soft_match_fingerprint": "c4614b9bacd161122105b0a76a6e512113c2d0e6713626f5b0910df5de10a813",
+      "_computed_fingerprint": "fd73e33020674bfd2373eaf8538aeef23fa1ada16fee699b5db108340d23a8f9"
+    },
+    {
+      "external_ref": "dotproperty-46fe530871fa-21ae-1b02-fcab-a523b089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3800000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": null,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Modiz Rhyme Ramkhamhaeng",
+        "zh": "1 Bedroom Condo for sale at Modiz Rhyme Ramkhamhaeng",
+        "th": "1 Bedroom Condo for sale at Modiz Rhyme Ramkhamhaeng"
+      },
+      "summary": {
+        "en": "Sale: 1BR, ? sq.m., 3,800,000 THB. Source DotProperty #46fe530871fa-21ae-1b02-fcab-a523b089.",
+        "zh": "出售：1卧，?㎡，3,800,000 泰铢。来源 DotProperty #46fe530871fa-21ae-1b02-fcab-a523b089。",
+        "th": "ขาย: 1 นอน ? ตร.ม. ราคา 3,800,000 บาท (DotProperty #46fe530871fa-21ae-1b02-fcab-a523b089)"
+      },
+      "description": {
+        "en": "✨ Condo for sale in Ramkhamhaeng area | 1 Bedroom Exlusive \n Details \n 1 bedroom \n 1 bathroom \n \\\\\\\\\\\\\\\\\\\\\\\"Wide front room, complete functions! 1 Bedroom Exclusive - The most perfect space in the heart of Ramkhamhaeng University.\\\\\\\" \n \n \\\\\\\\\\\\\\\\\\\\\\\"Im comfortable living on my own. Renting out is easy! Condo next to MRT 80 meters with central level. Top-Class\\\\\\\\\\\\\\\\\\\\\\\" \n \\\\\\\\\\\\\\\\\\\\\\\"Uplift your lifestyle at \n \n Details and highlights (Key Features)Smart Layout (1 Bedroom Exclusive): * Wide front room: designed to receive full natural light. Makes the room appear brighter and wider than its actual size \n \n Closed kitchen next to balcony: clearly separated kitchen area Excellent ventilation Suitable for people who like to cook \n Large Living Area: Spacious relaxation area. Able to place a large sofa and work desk without feeling uncomfortable \n \n The Cloud Facilities: 3 interconnected sky floors (floors 29-30-Rooftop) consisting of: Infinite Edge Pool: salt-water swimming pool. Panoramic city view \n \n The Cloud Gym: Fully equipped fitness center Luxurious design: Cinematic Room: a private movie theater that provides a movie theater-like experience \n \n Health &amp; Innovation: Ther",
+        "zh": "来自 DotProperty 挂牌 46fe530871fa-21ae-1b02-fcab-a523b089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 46fe530871fa-21ae-1b02-fcab-a523b089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-modiz-rhyme-ramkhamhaeng-hua-mak-bangkok_46fe530871fa-21ae-1b02-fcab-a523b089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZTY3NGYtZWZkYS03OWU4LWJmODctZmE4MjE5NjRiYTM1XC82NDJjZTljZmQ4MmEyZGI4NmQ4M2RkMjRkYjRmNjEyMWRjYjdhNmNmMTU0Y2JlY2I2ZDE0ZjU2ZmJlMjQ3MDJkLnBuZyIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "46fe530871fa-21ae-1b02-fcab-a523b089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-modiz-rhyme-ramkhamhaeng-hua-mak-bangkok_46fe530871fa-21ae-1b02-fcab-a523b089",
+      "source_url_hash": "acc509662321174c0f3d96ee498c62860bf7086329bde5aa5e8eec529397c13c",
+      "duplicate_fingerprint": "c4550a64f1604529a2957de47f215fd0d53444dc0338feab2bc5122b792705d0",
+      "soft_match_fingerprint": "c4614b9bacd161122105b0a76a6e512113c2d0e6713626f5b0910df5de10a813",
+      "_computed_fingerprint": "ca80b825035668a69f2f574256ed0895a38762082be8510d7df163a7e2be0105"
+    },
+    {
+      "external_ref": "dotproperty-648974518e4c-3c51-1662-9241-bb034089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 19000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Modiz Rhyme Ramkhamhaeng",
+        "zh": "1 Bedroom Condo for rent at Modiz Rhyme Ramkhamhaeng",
+        "th": "1 Bedroom Condo for rent at Modiz Rhyme Ramkhamhaeng"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 19,000 THB. Source DotProperty #648974518e4c-3c51-1662-9241-bb034089.",
+        "zh": "出租：1卧，34㎡，19,000 泰铢。来源 DotProperty #648974518e4c-3c51-1662-9241-bb034089。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 19,000 บาท (DotProperty #648974518e4c-3c51-1662-9241-bb034089)"
+      },
+      "description": {
+        "en": "This property is a 33.93 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the Modiz Rhyme Ramkhamhaeng project in Hua Mak, Bangkok and was completed in Jan 2023. You can rent this condo long term for ฿19,000 per month.",
+        "zh": "来自 DotProperty 挂牌 648974518e4c-3c51-1662-9241-bb034089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 648974518e4c-3c51-1662-9241-bb034089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-modiz-rhyme-ramkhamhaeng-hua-mak-bangkok_648974518e4c-3c51-1662-9241-bb034089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/084vAhD0HFFAEz40BYhujJ73dtA/0x0/unit/1867354/23389-0.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "648974518e4c-3c51-1662-9241-bb034089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-modiz-rhyme-ramkhamhaeng-hua-mak-bangkok_648974518e4c-3c51-1662-9241-bb034089",
+      "source_url_hash": "3a6db6736b35e99be4f10db2733708cb2c56f6f5f5b3c1f38feace155291f916",
+      "duplicate_fingerprint": "eba3cfe0d7a07e6786c50e6be4cd8ed299ab3a47fb95be9924f682c96d5e4637",
+      "soft_match_fingerprint": "b9b268b55dbe644ebb10ac6d04098e4d58a621ac1860eaff19b5ec18be1dba5a",
+      "_computed_fingerprint": "8aa65b9b7af0be09613fd8f002eabe0791209093c44fc516c0c9f3c956bc7ec8"
+    },
+    {
+      "external_ref": "dotproperty-68b2af3ea998-0d91-aa82-0b17-158c1089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14500,
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "Studio Condo for rent at Modiz Rhyme Ramkhamhaeng",
+        "zh": "Studio Condo for rent at Modiz Rhyme Ramkhamhaeng",
+        "th": "Studio Condo for rent at Modiz Rhyme Ramkhamhaeng"
+      },
+      "summary": {
+        "en": "Rent: 0BR, 24 sq.m., 14,500 THB. Source DotProperty #68b2af3ea998-0d91-aa82-0b17-158c1089.",
+        "zh": "出租：0卧，24㎡，14,500 泰铢。来源 DotProperty #68b2af3ea998-0d91-aa82-0b17-158c1089。",
+        "th": "เช่า: 0 นอน 24 ตร.ม. ราคา 14,500 บาท (DotProperty #68b2af3ea998-0d91-aa82-0b17-158c1089)"
+      },
+      "description": {
+        "en": "This property is a 24 SqM studio condo with 1 bathroom that is available for rent. It is part of the Modiz Rhyme Ramkhamhaeng project in Hua Mak, Bangkok and was completed in Jan 2023. You can rent this condo long term for ฿14,500 per month.",
+        "zh": "来自 DotProperty 挂牌 68b2af3ea998-0d91-aa82-0b17-158c1089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 68b2af3ea998-0d91-aa82-0b17-158c1089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/condo-for-rent-in-modiz-rhyme-ramkhamhaeng-hua-mak-bangkok_68b2af3ea998-0d91-aa82-0b17-158c1089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/QKWm-MaP4tisNZAjPR6AsCZSsO4/0x0/unit/5694667/line-note-250822-1.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "68b2af3ea998-0d91-aa82-0b17-158c1089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/condo-for-rent-in-modiz-rhyme-ramkhamhaeng-hua-mak-bangkok_68b2af3ea998-0d91-aa82-0b17-158c1089",
+      "source_url_hash": "3fa4faf5d832a34621dbb482ed422677c5a992c0dc7447bd7be4feef49cf0ff9",
+      "duplicate_fingerprint": "815ef07655462a748ee473a266f462bb745136715ccf6de1a2d0094747197071",
+      "soft_match_fingerprint": "44ef268c45b865292ae53d562cb4bf6e74f3d2a85572b5a0d8249a725716d3f2",
+      "_computed_fingerprint": "59eb7ba8e6b08593246fd3c8e17efde4535cbffd040ecfecd9dfba84aabe5a10"
+    },
+    {
+      "external_ref": "dotproperty-f906603699eb-213e-7392-c620-f03d1089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 13500,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 24,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "developer_slug": "assetwise",
+      "city_slug": "bangkok",
+      "district_slug": "bang-kapi",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Modiz Rhyme Ramkhamhaeng",
+        "zh": "1 Bedroom Condo for rent at Modiz Rhyme Ramkhamhaeng",
+        "th": "1 Bedroom Condo for rent at Modiz Rhyme Ramkhamhaeng"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 24 sq.m., 13,500 THB. Source DotProperty #f906603699eb-213e-7392-c620-f03d1089.",
+        "zh": "出租：1卧，24㎡，13,500 泰铢。来源 DotProperty #f906603699eb-213e-7392-c620-f03d1089。",
+        "th": "เช่า: 1 นอน 24 ตร.ม. ราคา 13,500 บาท (DotProperty #f906603699eb-213e-7392-c620-f03d1089)"
+      },
+      "description": {
+        "en": "This property is a 24 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the Modiz Rhyme Ramkhamhaeng project in Hua Mak, Bangkok and was completed in Jan 2023. You can rent this condo long term for ฿13,500 per month.",
+        "zh": "来自 DotProperty 挂牌 f906603699eb-213e-7392-c620-f03d1089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty f906603699eb-213e-7392-c620-f03d1089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-modiz-rhyme-ramkhamhaeng-hua-mak-bangkok_f906603699eb-213e-7392-c620-f03d1089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/kKIriavQWJzS7qvJ04_ytDd8jFU/0x0/unit/5690143/mo1.jpeg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "f906603699eb-213e-7392-c620-f03d1089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-modiz-rhyme-ramkhamhaeng-hua-mak-bangkok_f906603699eb-213e-7392-c620-f03d1089",
+      "source_url_hash": "363338ca30d5dfbee7fb7285194d3e6871b0007926b9f95a7916c89d6d53dc64",
+      "duplicate_fingerprint": "93cf640226d9ca3061a9f3a697cf608a3dfbeca29c5b953a5571d82d115d575c",
+      "soft_match_fingerprint": "814b2a8eab5c526908837134d50ce0df844e49de75932472d46c3871e08ba2c1",
+      "_computed_fingerprint": "41ac22afaf837653ece33094ee0a89677986b858b0b04e9ea3e8dba385c54ed1"
+    }
+  ]
+}

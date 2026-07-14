@@ -1,0 +1,335 @@
+{
+  "project_slug": "the-lofts-silom",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "12353",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=12353",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=12353",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-0894f4f7924f-6ab0-f772-bb46-0e24a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9590000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 53,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The Lofts Silom",
+        "zh": "1 Bedroom Condo for sale at The Lofts Silom",
+        "th": "1 Bedroom Condo for sale at The Lofts Silom"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 53 sq.m., 9,590,000 THB. Source DotProperty #0894f4f7924f-6ab0-f772-bb46-0e24a089.",
+        "zh": "出售：1卧，53㎡，9,590,000 泰铢。来源 DotProperty #0894f4f7924f-6ab0-f772-bb46-0e24a089。",
+        "th": "ขาย: 1 นอน 53 ตร.ม. ราคา 9,590,000 บาท (DotProperty #0894f4f7924f-6ab0-f772-bb46-0e24a089)"
+      },
+      "description": {
+        "en": "Project : The Lofts Silom\nLocation area:  Silom , Silom , Bang Rak , Bangkok 10500\nGPS :  \nStation : BTS-Surasak \nListing ID : CX-163969 \nFOR SELL : 9,590,000 ฿ \n\nProperty type : Condo \nNo of floors : 37 \nUsable area : 53 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \nWelcome hall\nMail room\nFragrant wooden garden\nHerbal garden\nRest\nPlayground\nStudy Room\nSwimming pool length 25 meters\nChildren s swimming pool\nJacuzzi\nFitness\nSauna\nStream\nSky Lounge\nSky Deck\nWiFi Free\nAcces Card Control\nclosed -circuit camera\nSecurity 24 hours\n\nNearby Facilities : \nBaan Silom 200 m.\nWat Kak 220 m.\nGreat Cube 950 m.\nAIA Sathorn Tower 1 km.\nRobinson 1.1 km.\nBang Rak District Office 1.1 km.\nTCDC 1.2 km.\nLumphini 2 km.\nIcon Siam 2.2 km.\nAsiatique 3.2 km.\nBurma Embassy 750 m.\nFrench embassy 1.2 km.\nSingapore Embassy 1.6 km.\nLord Sin Hospital 600 m.\nSt. Louis Hospital 750 m.\n\nZone : \nSilom, Saladaeng, Bangrak, Surawong, Si Phraya \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished property \nCall: [hidden phone] \nE-Mail",
+        "zh": "来自 DotProperty 挂牌 0894f4f7924f-6ab0-f772-bb46-0e24a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 0894f4f7924f-6ab0-f772-bb46-0e24a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-lofts-silom-si-lom-bangkok_0894f4f7924f-6ab0-f772-bb46-0e24a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU3YjktMzVlZS03MjJhLTllZjMtYTU3MDJhNWE1MDE5XC9hOGM5Y2MyNzQ5NWVkYjM1NzY0NzllNDc2ZDZlOTI2ZjQ2YjBlNDNlOTA2YzE4NWJjNWJjZmE1YjVhYWI3OWMwLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "0894f4f7924f-6ab0-f772-bb46-0e24a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-lofts-silom-si-lom-bangkok_0894f4f7924f-6ab0-f772-bb46-0e24a089",
+      "source_url_hash": "b5a0e6213a6ab1797f3451fa222112cd641c0bc5f8362e239e1c37333ee73780",
+      "duplicate_fingerprint": "43a266bbd6e570fa279164f573605dd01f79427480c1001d458c7ac16f87464b",
+      "soft_match_fingerprint": "671312ed6f3c53b30af7afebf39475525067636453859466cff54fe462fe16f6",
+      "_computed_fingerprint": "36f08945a97f54a08a24f5186eb12c14f4c3e43952bccef33e1c2155749c72f0"
+    },
+    {
+      "external_ref": "dotproperty-26f4508cd7ab-6a71-15d2-41ce-8194a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 49,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at The Lofts Silom",
+        "zh": "1 Bedroom Condo for sale at The Lofts Silom",
+        "th": "1 Bedroom Condo for sale at The Lofts Silom"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 49 sq.m., 9,600,000 THB. Source DotProperty #26f4508cd7ab-6a71-15d2-41ce-8194a089.",
+        "zh": "出售：1卧，49㎡，9,600,000 泰铢。来源 DotProperty #26f4508cd7ab-6a71-15d2-41ce-8194a089。",
+        "th": "ขาย: 1 นอน 49 ตร.ม. ราคา 9,600,000 บาท (DotProperty #26f4508cd7ab-6a71-15d2-41ce-8194a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 49 squaremeters, located on the 21st floor, at The Lofts\nSilom building, in the popular Bang Rak district near BTS Surasak and near MRT Sam Yan. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Microwave\n * Refrigerator\n * Stove\n * TV\n\nBuilding features:\n * Building completed in 2020\n * Security cameras\n * Covered car park\n * Beautiful garden area on premise\n * Gym\n * 24-hours security\n * Relaxing swimming pool\n * Sauna\n * Gym\n * Kids play area\n * Steam room\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Wha",
+        "zh": "来自 DotProperty 挂牌 26f4508cd7ab-6a71-15d2-41ce-8194a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 26f4508cd7ab-6a71-15d2-41ce-8194a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-lofts-silom-si-lom-bangkok_26f4508cd7ab-6a71-15d2-41ce-8194a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjUwODEtYmQ4NS03YzQ4LTgyZjMtZWYyY2QxOTQ1YTM3XC9hNmNkMWI5MTQ3OTAxOWRmOGI2NWFjZTA3ZGNiNjE3MTcxZTVmMDUzNjNkNzY0ZDk4Yjg0MTFkOTE0NTk2OWEyLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "26f4508cd7ab-6a71-15d2-41ce-8194a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-the-lofts-silom-si-lom-bangkok_26f4508cd7ab-6a71-15d2-41ce-8194a089",
+      "source_url_hash": "378f71bbb9dec01d0dc7ee82bc2fc3a9654c4ef4eb0503314fcddece9a0502c5",
+      "duplicate_fingerprint": "049313097eace9b8c646b8d896439aaa770349bcf024640049ff343f2413804f",
+      "soft_match_fingerprint": "50cfa58a9cb2330aa6d24578fe9fbba47272e0528150bf13db0d0560e891faed",
+      "_computed_fingerprint": "25f1cbaf9aee6e0875a713fa42c835ded2ee99d58bb5b9fff12dceb25bb3f4ec"
+    },
+    {
+      "external_ref": "dotproperty-4fe9841083dc-2941-a992-85b5-3512b089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 15500000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area_sqm": 78,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at The Lofts Silom",
+        "zh": "2 Bedroom Condo for sale at The Lofts Silom",
+        "th": "2 Bedroom Condo for sale at The Lofts Silom"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 78 sq.m., 15,500,000 THB. Source DotProperty #4fe9841083dc-2941-a992-85b5-3512b089.",
+        "zh": "出售：2卧，78㎡，15,500,000 泰铢。来源 DotProperty #4fe9841083dc-2941-a992-85b5-3512b089。",
+        "th": "ขาย: 2 นอน 78 ตร.ม. ราคา 15,500,000 บาท (DotProperty #4fe9841083dc-2941-a992-85b5-3512b089)"
+      },
+      "description": {
+        "en": "This property is a 78 SqM condo with 2 bedrooms and 1.5 bathroom that is available for sale. It is part of the The Lofts Silom project in Si Lom, Bangkok and was completed in Jun 2020. You can buy this condo for a base price of ฿15,500,000 (฿198,718/SqM).",
+        "zh": "来自 DotProperty 挂牌 4fe9841083dc-2941-a992-85b5-3512b089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 4fe9841083dc-2941-a992-85b5-3512b089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-lofts-silom-si-lom-bangkok_4fe9841083dc-2941-a992-85b5-3512b089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/hR7cWyVfvNTRkiWt1PsBh1i6AGo/0x0/unit/6413359/dsc07881.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "4fe9841083dc-2941-a992-85b5-3512b089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-the-lofts-silom-si-lom-bangkok_4fe9841083dc-2941-a992-85b5-3512b089",
+      "source_url_hash": "0c3100a1bd2d5b5012ac7bb2dba629d3eb5839334c26b02c4576bbcfedcb4aea",
+      "duplicate_fingerprint": "b9133328a2cb27122b57ab8e79aa07bdd0ec5136faff5826320fe208b9641887",
+      "soft_match_fingerprint": "f4890cc893cfe278cac2f37b96c127e31b667e8cfa249759dabc06e395296ae2",
+      "_computed_fingerprint": "4d7dd5250c4fcef890e548e3f9591f693f8c66efda44d1064f60c6744c7c53f3"
+    },
+    {
+      "external_ref": "dotproperty-c82ccf9ae59b-06b0-6172-e13a-d754a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 29000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 50,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Lofts Silom",
+        "zh": "1 Bedroom Condo for rent at The Lofts Silom",
+        "th": "1 Bedroom Condo for rent at The Lofts Silom"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 50 sq.m., 29,000 THB. Source DotProperty #c82ccf9ae59b-06b0-6172-e13a-d754a089.",
+        "zh": "出租：1卧，50㎡，29,000 泰铢。来源 DotProperty #c82ccf9ae59b-06b0-6172-e13a-d754a089。",
+        "th": "เช่า: 1 นอน 50 ตร.ม. ราคา 29,000 บาท (DotProperty #c82ccf9ae59b-06b0-6172-e13a-d754a089)"
+      },
+      "description": {
+        "en": "Thanks for checking this Property!\r\\We are BEYOND HORIZON - The Real Estate Agency that treats you like a \"CLOSE FRIEND\".\r\\If you like this Property (ID-72263) and you want to see similar options,​\r\nfeel free to contact us. We know Bangkok very well.​\r\nLet us know your preferences and we are happy to prepare a list of options for you.\r\n----------------------------------------------------------------------------------\r\n\r\nWe speak several languages (Thai, English, Deutsch, Español)\r\n[hidden line] (do not forget to put the \"@\" sign)\r\n\r\n----------------------------------------------------------------------------------​\r\nFeel free to contact our Sales Team​.\r\n We are happy to help on your search!​\r\n\r\nBeyond Horizon Co., Ltd.​\r\nProperty, Investment and Beyond​",
+        "zh": "来自 DotProperty 挂牌 c82ccf9ae59b-06b0-6172-e13a-d754a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty c82ccf9ae59b-06b0-6172-e13a-d754a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-lofts-silom-si-lom-bangkok_c82ccf9ae59b-06b0-6172-e13a-d754a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU0MmMtZjY4Yi03MjgzLTllMzktZTA0YmYwYWRkNzFkXC9hNzY3Yjc0ODdmMDRhOWFmNzJjMDYyYjIzOTllNDdmZDZmNzk3ZDZlNjI0NjQyMDZkMDBjMGJhMGJmYmQwMWUzLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "c82ccf9ae59b-06b0-6172-e13a-d754a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-lofts-silom-si-lom-bangkok_c82ccf9ae59b-06b0-6172-e13a-d754a089",
+      "source_url_hash": "4decc2b99d54430c5831044fa1794313a9c2f8706c9fa182a665402f1925aca1",
+      "duplicate_fingerprint": "1f7ee745b34adb3dce97b90eeda4ebd9fa555d7736d0ee2152ed3d9689ad5d97",
+      "soft_match_fingerprint": "b5f521ba94978ce4e6f3b320366eab8483f6172031be8913eeaf87de3e518702",
+      "_computed_fingerprint": "93a61b75afaa4ed2e59e6a9d4516ea0f54f50bb65b4c61b7114a3278d5493738"
+    },
+    {
+      "external_ref": "dotproperty-57be3eafd7ed-a381-4b26-51ca-8f6a849b",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 35000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 46,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Lofts Silom",
+        "zh": "1 Bedroom Condo for rent at The Lofts Silom",
+        "th": "1 Bedroom Condo for rent at The Lofts Silom"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 46 sq.m., 35,000 THB. Source DotProperty #57be3eafd7ed-a381-4b26-51ca-8f6a849b.",
+        "zh": "出租：1卧，46㎡，35,000 泰铢。来源 DotProperty #57be3eafd7ed-a381-4b26-51ca-8f6a849b。",
+        "th": "เช่า: 1 นอน 46 ตร.ม. ราคา 35,000 บาท (DotProperty #57be3eafd7ed-a381-4b26-51ca-8f6a849b)"
+      },
+      "description": {
+        "en": "This property is a 46 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the The Lofts Silom project in Si Lom, Bangkok and was completed in Jun 2020. You can rent this condo long term for ฿35,000 per month.",
+        "zh": "来自 DotProperty 挂牌 57be3eafd7ed-a381-4b26-51ca-8f6a849b。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 57be3eafd7ed-a381-4b26-51ca-8f6a849b ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-lofts-silom-si-lom-bangkok_57be3eafd7ed-a381-4b26-51ca-8f6a849b",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/zfwlMDOy_QO_JduVEhHuda3WT-U/0x0/unit/1071594/275919378-10159874997088665-9207561064402785172-n.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "57be3eafd7ed-a381-4b26-51ca-8f6a849b",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-lofts-silom-si-lom-bangkok_57be3eafd7ed-a381-4b26-51ca-8f6a849b",
+      "source_url_hash": "4e0e2c863596644b7776b9996df056eeb95f1c765090dc1b05c53b1fc70e70a7",
+      "duplicate_fingerprint": "0e27093357dd4a479810a2050a2ce59432f5cf0098927587c68e0c708004b004",
+      "soft_match_fingerprint": "93491a9d5d2182ebd19f2b7c76e90359c03945be312c484f8804544486da93d0",
+      "_computed_fingerprint": "c4b949e352b77a20d342bbebb8dc35dae92fae51bc2140466d1b485e4045c2b2"
+    },
+    {
+      "external_ref": "dotproperty-e1829c50e92c-eb4e-2792-6dbd-8c55b089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 33000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 50,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "the-lofts-silom",
+      "developer_slug": "raimon-land",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at The Lofts Silom",
+        "zh": "1 Bedroom Condo for rent at The Lofts Silom",
+        "th": "1 Bedroom Condo for rent at The Lofts Silom"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 50 sq.m., 33,000 THB. Source DotProperty #e1829c50e92c-eb4e-2792-6dbd-8c55b089.",
+        "zh": "出租：1卧，50㎡，33,000 泰铢。来源 DotProperty #e1829c50e92c-eb4e-2792-6dbd-8c55b089。",
+        "th": "เช่า: 1 นอน 50 ตร.ม. ราคา 33,000 บาท (DotProperty #e1829c50e92c-eb4e-2792-6dbd-8c55b089)"
+      },
+      "description": {
+        "en": "This property is a 50 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the The Lofts Silom project in Si Lom, Bangkok and was completed in Jun 2020. You can rent this condo long term for ฿33,000 per month.",
+        "zh": "来自 DotProperty 挂牌 e1829c50e92c-eb4e-2792-6dbd-8c55b089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty e1829c50e92c-eb4e-2792-6dbd-8c55b089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-lofts-silom-si-lom-bangkok_e1829c50e92c-eb4e-2792-6dbd-8c55b089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/UcUqjAG4Em6V6x2TMT8mM4TrN1o/0x0/unit/6307500/img-9319.jpeg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "e1829c50e92c-eb4e-2792-6dbd-8c55b089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-the-lofts-silom-si-lom-bangkok_e1829c50e92c-eb4e-2792-6dbd-8c55b089",
+      "source_url_hash": "d45f8b174f11ba3606cf5fc7ec17abec64038b1846657608380dafc8a3e4c254",
+      "duplicate_fingerprint": "94612c93b4953f37b9616e07b13d2da5e1a33ba6d79715972ccdbc7db4f48030",
+      "soft_match_fingerprint": "b5f521ba94978ce4e6f3b320366eab8483f6172031be8913eeaf87de3e518702",
+      "_computed_fingerprint": "0371c2d15e724e2b68321158141a1b9ab3d82e9236e0ff101b25ee99780044a7"
+    }
+  ]
+}

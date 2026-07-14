@@ -1,0 +1,335 @@
+{
+  "project_slug": "m-silom",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "1708",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=1708",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=1708",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-e42344821767-ed8f-d842-8d5c-63e5a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 52,
+      "floor_label": "20",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at M Silom",
+        "zh": "1 Bedroom Condo for sale at M Silom",
+        "th": "1 Bedroom Condo for sale at M Silom"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 52 sq.m., 9,900,000 THB. Source DotProperty #e42344821767-ed8f-d842-8d5c-63e5a089.",
+        "zh": "出售：1卧，52㎡，9,900,000 泰铢。来源 DotProperty #e42344821767-ed8f-d842-8d5c-63e5a089。",
+        "th": "ขาย: 1 นอน 52 ตร.ม. ราคา 9,900,000 บาท (DotProperty #e42344821767-ed8f-d842-8d5c-63e5a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nPet friendly 1 bedroom, 1 bathroom condo for sale with a floorsize of 52 squaremeters, located on the 20th floor, at M Silom\nbuilding, in the popular Bang Rak district near BTS Chong Nonsi and near MRT Sam Yan. Please contact us to schedule a viewing.\n\nUnit amenities:\n * Refrigerator\n * Microwave\n * Stove\n * Balcony\n\nBuilding features:\n * Building completed in 2012\n * Gym\n * Relaxing swimming pool\n * Security cameras\n * 24-hours security\n * Covered car park\n * Sauna\n * Gym\n * Beautiful garden area on premise\n * BBQ area\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [h",
+        "zh": "来自 DotProperty 挂牌 e42344821767-ed8f-d842-8d5c-63e5a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty e42344821767-ed8f-d842-8d5c-63e5a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-m-silom-suriyawong-bangkok_e42344821767-ed8f-d842-8d5c-63e5a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjRiNjMtZDRjMS03NTFjLWExY2ItMjMyODcxNTU2NzViXC9lYWRlMTRjZDhlOWZhYTE4N2FmZGNlYzA4YjRhZDJkNjVhZjc2MWEwNjFhNzY3NzgxNTE2ZGZjZDI3MjY2ZTMxLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "e42344821767-ed8f-d842-8d5c-63e5a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-m-silom-suriyawong-bangkok_e42344821767-ed8f-d842-8d5c-63e5a089",
+      "source_url_hash": "2d1ceb2aebe7d730700cb4b40e1968d8bb2730ec5e0dba60e6a40186a9709d1c",
+      "duplicate_fingerprint": "a166b672ff8de1f764a3114ce66cb898e088c5cc9eb75d56a996b80258af918a",
+      "soft_match_fingerprint": "55dbd7a46894127aa83c947e573d4fe518bea21e47df72785603e894b167b755",
+      "_computed_fingerprint": "4d94257c83e466987658cb8eda3350b5e93bc060d1343b0ff351c1223a552ef7"
+    },
+    {
+      "external_ref": "dotproperty-cf49263b0986-bc6e-6a72-940d-05dfe089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 11600000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 58,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at M Silom",
+        "zh": "1 Bedroom Condo for sale at M Silom",
+        "th": "1 Bedroom Condo for sale at M Silom"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 58 sq.m., 11,600,000 THB. Source DotProperty #cf49263b0986-bc6e-6a72-940d-05dfe089.",
+        "zh": "出售：1卧，58㎡，11,600,000 泰铢。来源 DotProperty #cf49263b0986-bc6e-6a72-940d-05dfe089。",
+        "th": "ขาย: 1 นอน 58 ตร.ม. ราคา 11,600,000 บาท (DotProperty #cf49263b0986-bc6e-6a72-940d-05dfe089)"
+      },
+      "description": {
+        "en": "58 SqmOne bedroom corner unit South face Mahanokorn view tower Near Chongnonsri BTS sta.Prime Business and Luxury residential area ",
+        "zh": "来自 DotProperty 挂牌 cf49263b0986-bc6e-6a72-940d-05dfe089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty cf49263b0986-bc6e-6a72-940d-05dfe089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-m-silom-suriyawong-bangkok_cf49263b0986-bc6e-6a72-940d-05dfe089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/aqEo98BukI0Khv-su5bCRGv46CI/0x0/unit/5973680/1000035493.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "cf49263b0986-bc6e-6a72-940d-05dfe089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-m-silom-suriyawong-bangkok_cf49263b0986-bc6e-6a72-940d-05dfe089",
+      "source_url_hash": "761f48396e26844ba837e601b6fa2c13e9c843e454b0efec90d9e8179c2219b0",
+      "duplicate_fingerprint": "b2e2b9fc7d3217805a118dddba1f9241d59884e8ff02992a736f5b788bee4fd5",
+      "soft_match_fingerprint": "b37a6f7f58a2a65be4e8d9f20b57f38afbb0e092a7cb9132e47a3ad9c7f59811",
+      "_computed_fingerprint": "90d72cd8d89c4489dd3467e29f79dd0c76b3ce66873e02e60c700e8a407da866"
+    },
+    {
+      "external_ref": "dotproperty-c62478db580e-c221-6972-8017-7fdf6089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 21649485,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 90,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at M Silom",
+        "zh": "2 Bedroom Condo for sale at M Silom",
+        "th": "2 Bedroom Condo for sale at M Silom"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 90 sq.m., 21,649,485 THB. Source DotProperty #c62478db580e-c221-6972-8017-7fdf6089.",
+        "zh": "出售：2卧，90㎡，21,649,485 泰铢。来源 DotProperty #c62478db580e-c221-6972-8017-7fdf6089。",
+        "th": "ขาย: 2 นอน 90 ตร.ม. ราคา 21,649,485 บาท (DotProperty #c62478db580e-c221-6972-8017-7fdf6089)"
+      },
+      "description": {
+        "en": "This property is a 90 SqM condo with 2 bedrooms and 2 bathrooms that is available for sale. It is part of the M Silom project in Suriyawong, Bangkok and was completed in Dec 2012. You can buy this condo for a base price of ฿21,649,485 (฿240,550/SqM) and it is also available for long term rentals starting from ฿65,000 per month.",
+        "zh": "来自 DotProperty 挂牌 c62478db580e-c221-6972-8017-7fdf6089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty c62478db580e-c221-6972-8017-7fdf6089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-m-silom-suriyawong-bangkok_c62478db580e-c221-6972-8017-7fdf6089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/HdT9BchmYRFoS95mCJBX2XtBE-g/0x0/unit/1979809/1000010938.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "c62478db580e-c221-6972-8017-7fdf6089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-m-silom-suriyawong-bangkok_c62478db580e-c221-6972-8017-7fdf6089",
+      "source_url_hash": "4e15a243da5e158a02bd788b25ba1bb531ef9b1c0b19a853ce768f38d925cb18",
+      "duplicate_fingerprint": "cad672e17458760cf1aeaadc5d312a61e2d8b93605e7116009319066475024bf",
+      "soft_match_fingerprint": "292e276e38b62836b22f965a3b8fcfc277e344c363ab7b6bd60516bb1ce02fa1",
+      "_computed_fingerprint": "92adb3ac092c95a53553dd544ebf0aeb0c6e0c76be32df2f3787da47a6dafd96"
+    },
+    {
+      "external_ref": "dotproperty-c3d86afffd74-d43f-0602-8b23-96b6a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 38000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 47,
+      "floor_label": "11",
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at M Silom",
+        "zh": "1 Bedroom Condo for rent at M Silom",
+        "th": "1 Bedroom Condo for rent at M Silom"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 47 sq.m., 38,000 THB. Source DotProperty #c3d86afffd74-d43f-0602-8b23-96b6a089.",
+        "zh": "出租：1卧，47㎡，38,000 泰铢。来源 DotProperty #c3d86afffd74-d43f-0602-8b23-96b6a089。",
+        "th": "เช่า: 1 นอน 47 ตร.ม. ราคา 38,000 บาท (DotProperty #c3d86afffd74-d43f-0602-8b23-96b6a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished pet friendly 1 bedroom, 1 bathroom condo for rent with a floorsize of 47 squaremeters, located on the 11th floor,\nat M Silom building, in the popular Bang Rak district near BTS Chong Nonsi and near MRT Sam Yan. Please contact us to schedule a\nviewing.\n\nUnit amenities:\n * Refrigerator\n * Microwave\n * Stove\n * Bathtub\n * Balcony\n * TV\n\nBuilding features:\n * Building completed in 2012\n * Gym\n * Relaxing swimming pool\n * Beautiful garden area on premise\n * Security cameras\n * 24-hours security\n * Covered car park\n * Bike Park\n * Sauna\n * Gym\n * BBQ area\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidde",
+        "zh": "来自 DotProperty 挂牌 c3d86afffd74-d43f-0602-8b23-96b6a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty c3d86afffd74-d43f-0602-8b23-96b6a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-m-silom-suriyawong-bangkok_c3d86afffd74-d43f-0602-8b23-96b6a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjNlMzAtNjdlMS03OTM5LWE2NWMtNTJjYWFhZjMxYzZkXC8yMjQ4MWRhZWViNzQ0MjIxOGIwNTc1YmI4ODU0Mjg1OTM4NjNiYzk5NmM3NGRjNDNhN2U3MWYwZTNjZDBiNWU0LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "c3d86afffd74-d43f-0602-8b23-96b6a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-m-silom-suriyawong-bangkok_c3d86afffd74-d43f-0602-8b23-96b6a089",
+      "source_url_hash": "8f35bd9e8c31409482d9084e304f2f9318ef4b8a1f0ce71a5abc0b0dcac20a65",
+      "duplicate_fingerprint": "0a38a9c0428b43320a5d3ea20b37d5ae2078ac21dc4dfbe1727f492f847efcd5",
+      "soft_match_fingerprint": "fbcad833122c2b6a15d00feb5ffe06c9902b539f9acde62b591fa1a54f2a407d",
+      "_computed_fingerprint": "6f2b7043bb5b36214779f46ee37a6d06df083cda2067329f4697cefb8c0ae5e8"
+    },
+    {
+      "external_ref": "dotproperty-05c1f327fdd0-6830-d032-a8fd-9007a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 38000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 53,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at M Silom",
+        "zh": "1 Bedroom Condo for rent at M Silom",
+        "th": "1 Bedroom Condo for rent at M Silom"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 53 sq.m., 38,000 THB. Source DotProperty #05c1f327fdd0-6830-d032-a8fd-9007a089.",
+        "zh": "出租：1卧，53㎡，38,000 泰铢。来源 DotProperty #05c1f327fdd0-6830-d032-a8fd-9007a089。",
+        "th": "เช่า: 1 นอน 53 ตร.ม. ราคา 38,000 บาท (DotProperty #05c1f327fdd0-6830-d032-a8fd-9007a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nVideo: [hidden url] /&gt;\n\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 05c1f327fdd0-6830-d032-a8fd-9007a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 05c1f327fdd0-6830-d032-a8fd-9007a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-m-silom-suriyawong-bangkok_05c1f327fdd0-6830-d032-a8fd-9007a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjI5OTAtY2ExZi03NjljLTk2MTMtOWNjYTI3NmE4ZDQ5XC9jNmNhNjE5YTQ1MDk3ZWFjMjYwNjhhNmNmMzhkNjYxYmRjNmE2M2IwYmIzNDkzNTUxMmZjMzE1MGEwMmVmMTIwLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "05c1f327fdd0-6830-d032-a8fd-9007a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-m-silom-suriyawong-bangkok_05c1f327fdd0-6830-d032-a8fd-9007a089",
+      "source_url_hash": "76d1a9173a12708c46253026533422952b7728f64fefa66e11061ae6a3f8a123",
+      "duplicate_fingerprint": "73406abd0d7247c5c838c74a9ac8d8e08e3f88aaf8b999acf81b0a832c361140",
+      "soft_match_fingerprint": "84d5efc976297eae55c12ea8d8300288deec3aa38b0d4c1a76b47996067f809f",
+      "_computed_fingerprint": "3bfe1bb6479a9df7ee99e5fd7f167f6ac69f22eaf7086bab6a54fc92dcaebc2f"
+    },
+    {
+      "external_ref": "dotproperty-eb6456e7acf1-252f-d022-3846-0608a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 72000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 83,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "m-silom",
+      "developer_slug": "major-development",
+      "city_slug": "bangkok",
+      "district_slug": "bang-rak",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at M Silom",
+        "zh": "2 Bedroom Condo for rent at M Silom",
+        "th": "2 Bedroom Condo for rent at M Silom"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 83 sq.m., 72,000 THB. Source DotProperty #eb6456e7acf1-252f-d022-3846-0608a089.",
+        "zh": "出租：2卧，83㎡，72,000 泰铢。来源 DotProperty #eb6456e7acf1-252f-d022-3846-0608a089。",
+        "th": "เช่า: 2 นอน 83 ตร.ม. ราคา 72,000 บาท (DotProperty #eb6456e7acf1-252f-d022-3846-0608a089)"
+      },
+      "description": {
+        "en": "This a 83 Sqm 2 bed / 2 bathroom unit offers ensuite baths with built-in quality closets and amazing city views.\n\nFully equipped kitchen is completely fitted with luxurious European equipment that comprises every contemporary built-in appliance.\n\nThe living area has a dining room, large TV, large storage room, washer room and foyer to place your shoes.\n\nThe dining and living areas are spacious with beautiful city view from the balcony which ensures cool breeze any time of the year.\n\nThe unit offers hard wood flooring and marble throughout.",
+        "zh": "来自 DotProperty 挂牌 eb6456e7acf1-252f-d022-3846-0608a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty eb6456e7acf1-252f-d022-3846-0608a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-m-silom-suriyawong-bangkok_eb6456e7acf1-252f-d022-3846-0608a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjE5MzktMzUxNi03NzljLWE3NDctOGFkZjJiMzQ1M2ViXC8wNDc1OTgwMjcyZTRjYjk0NWI1NDY5MjFmMWZmNjc4NjE2MDQ2ZmY5ZTkyOGMxNDE1NWVkNTEwYjBkMThiMDc5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "eb6456e7acf1-252f-d022-3846-0608a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-m-silom-suriyawong-bangkok_eb6456e7acf1-252f-d022-3846-0608a089",
+      "source_url_hash": "f339c7f819dd2996598dad3aa07a4c1faba2d2b9000275b2566c0ce3e8b0f4a6",
+      "duplicate_fingerprint": "c78dae0c5e00db0e2404b6121ca9ab503d26cbe587637ff042df2b9518cb676b",
+      "soft_match_fingerprint": "5d6709795ff9749ca70f877327a514b7e5d64c7fc856b98bca685656280037e9",
+      "_computed_fingerprint": "d784677652ff49b0f4ea335881ad2b19dd0cb8a5b38bb914b2f81b6f1a362de2"
+    }
+  ]
+}

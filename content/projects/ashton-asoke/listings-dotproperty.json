@@ -1,0 +1,335 @@
+{
+  "project_slug": "ashton-asoke",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "3647",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=3647",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=3647",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-7ea4366c199f-2abe-1532-9f2f-5ae6a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 17990000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 101,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Ashton Asoke",
+        "zh": "2 Bedroom Condo for sale at Ashton Asoke",
+        "th": "2 Bedroom Condo for sale at Ashton Asoke"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 101 sq.m., 17,990,000 THB. Source DotProperty #7ea4366c199f-2abe-1532-9f2f-5ae6a089.",
+        "zh": "出售：2卧，101㎡，17,990,000 泰铢。来源 DotProperty #7ea4366c199f-2abe-1532-9f2f-5ae6a089。",
+        "th": "ขาย: 2 นอน 101 ตร.ม. ราคา 17,990,000 บาท (DotProperty #7ea4366c199f-2abe-1532-9f2f-5ae6a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished pet friendly 2 bedrooms, 2 bathrooms condo for sale with a floorsize of 101 squaremeters, located on the 21st\nfloor, at The Lakes Bangkok building, in the popular Khlong Toei district near BTS Asok and near MRT Sukhumvit. Please contact us\nto schedule a viewing.\n\nBuilding features:\n * Building completed in 2004\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Kids play area\n * Steam room\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 7ea4366c199f-2abe-1532-9f2f-5ae6a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 7ea4366c199f-2abe-1532-9f2f-5ae6a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-ashton-asoke-khlong-toei-nuea-bangkok_7ea4366c199f-2abe-1532-9f2f-5ae6a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjNiZjQtYTdhMC03NjQ4LWJlZjctYTAwOGQzMzY1ZmIyXC9hZDBjYzc0NzEzMGI2M2I0ZmJiYWY0ZTUzMzY5ZmI2YTcxMmJhNjczYmE2NzI0NTU0OTQzODczMjBjZjcyNGIyLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "7ea4366c199f-2abe-1532-9f2f-5ae6a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-ashton-asoke-khlong-toei-nuea-bangkok_7ea4366c199f-2abe-1532-9f2f-5ae6a089",
+      "source_url_hash": "7b96beb26dca7fb35e9d5266bfb25b694b1d1a19b65098936a45459b210a5270",
+      "duplicate_fingerprint": "6ce6eba3c0a84fc3ff7d44b5162d81ecc81e5a65eb95ffa0e2140f1fd1ac7011",
+      "soft_match_fingerprint": "4624b9702be9cc5cefeb154413e4a2ef0af5117b98c5eec4e58f7a124ece034a",
+      "_computed_fingerprint": "3e6ea92611c1ff6e86fa3a9956ceb1f497aed099c720fc9bace5d083762fe18f"
+    },
+    {
+      "external_ref": "dotproperty-c86cec0622ad-829e-5b52-a587-82f6a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9230000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 36,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Ashton Asoke",
+        "zh": "1 Bedroom Condo for sale at Ashton Asoke",
+        "th": "1 Bedroom Condo for sale at Ashton Asoke"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 36 sq.m., 9,230,000 THB. Source DotProperty #c86cec0622ad-829e-5b52-a587-82f6a089.",
+        "zh": "出售：1卧，36㎡，9,230,000 泰铢。来源 DotProperty #c86cec0622ad-829e-5b52-a587-82f6a089。",
+        "th": "ขาย: 1 นอน 36 ตร.ม. ราคา 9,230,000 บาท (DotProperty #c86cec0622ad-829e-5b52-a587-82f6a089)"
+      },
+      "description": {
+        "en": "Thanks for checking this Property!\r\\We are BEYOND HORIZON - The Real Estate Agency that treats you like a \"CLOSE FRIEND\".\r\\If you like this Property (ID-63714) and you want to see similar options,​\r\nfeel free to contact us. We know Bangkok very well.​\r\nLet us know your preferences and we are happy to prepare a list of options for you.\r\n----------------------------------------------------------------------------------\r\n\r\nWe speak several languages (Thai, English, Deutsch, Español)\r\n[hidden line] (do not forget to put the \"@\" sign)\r\n\r\n----------------------------------------------------------------------------------​\r\nFeel free to contact our Sales Team​.\r\n We are happy to help on your search!​\r\n\r\nBeyond Horizon Co., Ltd.​\r\nProperty, Investment and Beyond​",
+        "zh": "来自 DotProperty 挂牌 c86cec0622ad-829e-5b52-a587-82f6a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty c86cec0622ad-829e-5b52-a587-82f6a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-ashton-asoke-khlong-toei-nuea-bangkok_c86cec0622ad-829e-5b52-a587-82f6a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjNhNzEtMjE0Zi03NGU0LWIwNzEtY2Y3NzM5ZGJkMzFkXC9hMzc3ZjAxY2FmMGRkNmQyZDE0ZmQ0MjdmMThlMzcyOWYxNzE1OTAyZTc0MDdmYWY3MTMxMzdiMmIwNTQ5NmZhLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "c86cec0622ad-829e-5b52-a587-82f6a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-ashton-asoke-khlong-toei-nuea-bangkok_c86cec0622ad-829e-5b52-a587-82f6a089",
+      "source_url_hash": "d80489b49d4bbfe0b952260eb01a2e9e965c7a349367d0eb7913d8a745ea4fae",
+      "duplicate_fingerprint": "9db45ac8d5a515b3df6c371114712862c634aa71dfe4d1a5678627e9c8b1c488",
+      "soft_match_fingerprint": "97f4e4a0f0c40c0c96ef33ef1f018d17fb292fb62cad2936c1cc4d88a349bf5f",
+      "_computed_fingerprint": "9bd3c7c3dd6b9f65804899a154216c7490abda9844fc1824133f15db88739e65"
+    },
+    {
+      "external_ref": "dotproperty-1b09f331286a-e24f-5612-10a8-32f6a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9740000,
+      "bedrooms": 1,
+      "bathrooms": null,
+      "area_sqm": 31,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Ashton Asoke",
+        "zh": "1 Bedroom Condo for sale at Ashton Asoke",
+        "th": "1 Bedroom Condo for sale at Ashton Asoke"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 31 sq.m., 9,740,000 THB. Source DotProperty #1b09f331286a-e24f-5612-10a8-32f6a089.",
+        "zh": "出售：1卧，31㎡，9,740,000 泰铢。来源 DotProperty #1b09f331286a-e24f-5612-10a8-32f6a089。",
+        "th": "ขาย: 1 นอน 31 ตร.ม. ราคา 9,740,000 บาท (DotProperty #1b09f331286a-e24f-5612-10a8-32f6a089)"
+      },
+      "description": {
+        "en": "Thanks for checking this Property!\r\\We are BEYOND HORIZON - The Real Estate Agency that treats you like a \"CLOSE FRIEND\".\r\\If you like this Property (ID-59153) and you want to see similar options,​\r\nfeel free to contact us. We know Bangkok very well.​\r\nLet us know your preferences and we are happy to prepare a list of options for you.\r\n----------------------------------------------------------------------------------\r\n\r\nWe speak several languages (Thai, English, Deutsch, Español)\r\n[hidden line] (do not forget to put the \"@\" sign)\r\n\r\n----------------------------------------------------------------------------------​\r\nFeel free to contact our Sales Team​.\r\n We are happy to help on your search!​\r\n\r\nBeyond Horizon Co., Ltd.​\r\nProperty, Investment and Beyond​",
+        "zh": "来自 DotProperty 挂牌 1b09f331286a-e24f-5612-10a8-32f6a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 1b09f331286a-e24f-5612-10a8-32f6a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-ashton-asoke-khlong-toei-nuea-bangkok_1b09f331286a-e24f-5612-10a8-32f6a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjNhNzYtMWY5OC03ODM0LWE1N2ItZjMxNzg2NmEwOWU4XC81OTFlM2NhMmMxYzAzNWNlNWY0YjllNWM1MmQ5YmVmZWYzMGE0ZTJjNTcwMTMwMDY0MWRhOGRjNjY1OGVlZjYxLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "1b09f331286a-e24f-5612-10a8-32f6a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-ashton-asoke-khlong-toei-nuea-bangkok_1b09f331286a-e24f-5612-10a8-32f6a089",
+      "source_url_hash": "a256de80b0c6ce1003eb7a5565c59d00f8a1737aa723747b2033bdb9862df81d",
+      "duplicate_fingerprint": "9576148c9b3d54b54da27a60ac64eff48f2406e27d9639c706a89ea4dc3fbc6b",
+      "soft_match_fingerprint": "577bb35725d399e1334f380f06e3039fbf3f33e30df727a7645feecd877ad3f6",
+      "_computed_fingerprint": "ecd16d71713520ce73b2e6373ae4edfa2663e4e25c5e904568cfd07a5931a4ec"
+    },
+    {
+      "external_ref": "dotproperty-c978fc2c46a9-635e-0c72-e361-57f4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 29000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 34,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Ashton Asoke",
+        "zh": "1 Bedroom Condo for rent at Ashton Asoke",
+        "th": "1 Bedroom Condo for rent at Ashton Asoke"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 34 sq.m., 29,000 THB. Source DotProperty #c978fc2c46a9-635e-0c72-e361-57f4a089.",
+        "zh": "出租：1卧，34㎡，29,000 泰铢。来源 DotProperty #c978fc2c46a9-635e-0c72-e361-57f4a089。",
+        "th": "เช่า: 1 นอน 34 ตร.ม. ราคา 29,000 บาท (DotProperty #c978fc2c46a9-635e-0c72-e361-57f4a089)"
+      },
+      "description": {
+        "en": "This property is a 34 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the Ashton Asoke project in Khlong Toei Nuea, Bangkok and was completed in Oct 2017. You can rent this condo long term for ฿29,000 per month.",
+        "zh": "来自 DotProperty 挂牌 c978fc2c46a9-635e-0c72-e361-57f4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty c978fc2c46a9-635e-0c72-e361-57f4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ashton-asoke-khlong-toei-nuea-bangkok_c978fc2c46a9-635e-0c72-e361-57f4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/TizYhnqjCie4MwmeAYiJkp8OyTY/0x0/unit/6578641/img-0154.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "c978fc2c46a9-635e-0c72-e361-57f4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ashton-asoke-khlong-toei-nuea-bangkok_c978fc2c46a9-635e-0c72-e361-57f4a089",
+      "source_url_hash": "0259c27700c1b087fdce468cf1f75ad8d38180880a40ffad71537ead308df613",
+      "duplicate_fingerprint": "4e12614fb246868c822d919d65a57bdf675adb8ebbde464463b01c71b0b62fac",
+      "soft_match_fingerprint": "a5d82f02ed7bdaf33104bea821252b726608fa57025fedc8cbdbcdac2afc65d7",
+      "_computed_fingerprint": "419a3ca83774b98b45f4735708ab687edb1b5280336915b821a8e0c3e95f2a8c"
+    },
+    {
+      "external_ref": "dotproperty-add654753e9f-6491-62c2-8e0a-28c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 36000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 38,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Ashton Asoke",
+        "zh": "1 Bedroom Condo for rent at Ashton Asoke",
+        "th": "1 Bedroom Condo for rent at Ashton Asoke"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 38 sq.m., 36,000 THB. Source DotProperty #add654753e9f-6491-62c2-8e0a-28c4a089.",
+        "zh": "出租：1卧，38㎡，36,000 泰铢。来源 DotProperty #add654753e9f-6491-62c2-8e0a-28c4a089。",
+        "th": "เช่า: 1 นอน 38 ตร.ม. ราคา 36,000 บาท (DotProperty #add654753e9f-6491-62c2-8e0a-28c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 38 squaremeters, located on the 29th floor, at Ashton\nAsoke building, in the popular Watthana district near BTS Asok, near MRT Sukhumvit and near ARL Makkasan. Please contact us to\nschedule a viewing.\n\nBuilding features:\n * Building completed in 2017\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n * Steam room\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 add654753e9f-6491-62c2-8e0a-28c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty add654753e9f-6491-62c2-8e0a-28c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ashton-asoke-khlong-toei-nuea-bangkok_add654753e9f-6491-62c2-8e0a-28c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTctZjliMS03ZDczLTgwNTMtYTBiNjQyNTQzY2NmXC8wMTU0OWI1ZmY4YjY4ZWY2MTJjNDcxZGU3ZDY4MmEyODNmYTRiZWM0YmE3ZTViNWQ2ZmMxYWRkNGY4OGMxZDMzLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "add654753e9f-6491-62c2-8e0a-28c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ashton-asoke-khlong-toei-nuea-bangkok_add654753e9f-6491-62c2-8e0a-28c4a089",
+      "source_url_hash": "c63d9a0312758bf36d02dbfb3da0af4f9aaf518ddbefa2122ca2ce2a71feec05",
+      "duplicate_fingerprint": "edc7f2ded40bca1297a3981480e7f8771f287ed08dc7972d98afdcdbae77f4df",
+      "soft_match_fingerprint": "ffa8e8fe071e8d63673aeffa8932f3f0fbe1347a7ecddb50db0cff7aee624434",
+      "_computed_fingerprint": "ab46e631dc820ae5705e63fa041f8d5b7416c019c5d1e78aca934d83302c2d20"
+    },
+    {
+      "external_ref": "dotproperty-ac4670d5b4eb-c8be-cdd2-3490-9cf4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 24000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "44",
+      "building_label": null,
+      "project_slug": "ashton-asoke",
+      "developer_slug": "ananda-development",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Ashton Asoke",
+        "zh": "1 Bedroom Condo for rent at Ashton Asoke",
+        "th": "1 Bedroom Condo for rent at Ashton Asoke"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 24,000 THB. Source DotProperty #ac4670d5b4eb-c8be-cdd2-3490-9cf4a089.",
+        "zh": "出租：1卧，35㎡，24,000 泰铢。来源 DotProperty #ac4670d5b4eb-c8be-cdd2-3490-9cf4a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 24,000 บาท (DotProperty #ac4670d5b4eb-c8be-cdd2-3490-9cf4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 35 squaremeters, located on the 44th floor, at Ashton\nAsoke building, in the popular Watthana district near BTS Asok, near MRT Sukhumvit and near ARL Makkasan. Please contact us to\nschedule a viewing.\n\nBuilding features:\n * Building completed in 2017\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Security cameras\n * Beautiful garden area on premise\n * Steam room\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 ac4670d5b4eb-c8be-cdd2-3490-9cf4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty ac4670d5b4eb-c8be-cdd2-3490-9cf4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ashton-asoke-khlong-toei-nuea-bangkok_ac4670d5b4eb-c8be-cdd2-3490-9cf4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVhZDAtOTA1Ni03Y2NkLWJlMWQtZWI1ZTRjOTIzNWRmXC80ZmE0MTk5NjUxZWQ0ZTZhYmU1YzgzYTMyN2Q3N2I1YTc2YjliYTI5NGEyZjkwM2UwNTZiY2UyYjg5ODM2NjU5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "ac4670d5b4eb-c8be-cdd2-3490-9cf4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-ashton-asoke-khlong-toei-nuea-bangkok_ac4670d5b4eb-c8be-cdd2-3490-9cf4a089",
+      "source_url_hash": "b81138233d451871649837ba0cc88c59ddb20a83b7457dcf4ee3cf5ba829dd60",
+      "duplicate_fingerprint": "4cf7a24994a7cd799d29c4653fc6955c82f1c8e7b2d7e70b38cab42914328574",
+      "soft_match_fingerprint": "4e6ff056225929e33ada51300f8671d008d339a915f381358b1502409217fade",
+      "_computed_fingerprint": "03ea91aef331377d44b92a13d8a7c650980eb4fdba19513b3e5433594da2dc99"
+    }
+  ]
+}

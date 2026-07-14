@@ -1,0 +1,335 @@
+{
+  "project_slug": "life-ladprao",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "12051",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=12051",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=12051",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-fd9566a1c8ec-104f-ec92-da50-10f9a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5155555,
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "area_sqm": 29,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "Studio Condo for sale at Life Ladprao",
+        "zh": "Studio Condo for sale at Life Ladprao",
+        "th": "Studio Condo for sale at Life Ladprao"
+      },
+      "summary": {
+        "en": "Sale: 0BR, 29 sq.m., 5,155,555 THB. Source DotProperty #fd9566a1c8ec-104f-ec92-da50-10f9a089.",
+        "zh": "出售：0卧，29㎡，5,155,555 泰铢。来源 DotProperty #fd9566a1c8ec-104f-ec92-da50-10f9a089。",
+        "th": "ขาย: 0 นอน 29 ตร.ม. ราคา 5,155,555 บาท (DotProperty #fd9566a1c8ec-104f-ec92-da50-10f9a089)"
+      },
+      "description": {
+        "en": "This property is a 29 SqM studio condo with 1 bathroom that is available for sale. It is part of the Life Ladprao project in Chomphon, Bangkok and was completed in May 2020. You can buy this condo for a base price of ฿5,155,555 (฿177,778/SqM) and it is also available for long term rentals starting from ฿20,000 per month.",
+        "zh": "来自 DotProperty 挂牌 fd9566a1c8ec-104f-ec92-da50-10f9a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty fd9566a1c8ec-104f-ec92-da50-10f9a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/condo-for-sale-in-life-ladprao-chomphon-bangkok_fd9566a1c8ec-104f-ec92-da50-10f9a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/UatiIxSufUk0_xxDFuAvs1RovCA/0x0/unit/6507488/01.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "fd9566a1c8ec-104f-ec92-da50-10f9a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/condo-for-sale-in-life-ladprao-chomphon-bangkok_fd9566a1c8ec-104f-ec92-da50-10f9a089",
+      "source_url_hash": "f637fcf57521da3b7d1a1a5ee9f4d4930c43c21fc4e2d540c415615087d06121",
+      "duplicate_fingerprint": "acf64ce4fa3b95ffa58221c7157a5a5b7e1b5814fec935d3e0e9ebfeb3581a85",
+      "soft_match_fingerprint": "c45faaf7a49a24a89a39811f9c72c5d3cb75a0c6cdb4a748bd8ad5a7b2be32b9",
+      "_computed_fingerprint": "e0a17444c3fd946744d15f1f727554aac8f3c854ae56c4ff6a23aa1a50f09078"
+    },
+    {
+      "external_ref": "dotproperty-2cd0fb5a7ac7-15be-c162-dc12-53e5a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "17",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Life Ladprao",
+        "zh": "1 Bedroom Condo for sale at Life Ladprao",
+        "th": "1 Bedroom Condo for sale at Life Ladprao"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 5,300,000 THB. Source DotProperty #2cd0fb5a7ac7-15be-c162-dc12-53e5a089.",
+        "zh": "出售：1卧，35㎡，5,300,000 泰铢。来源 DotProperty #2cd0fb5a7ac7-15be-c162-dc12-53e5a089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 5,300,000 บาท (DotProperty #2cd0fb5a7ac7-15be-c162-dc12-53e5a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 35 squaremeters, located on the 17th floor, at Life\nLadprao building, in the popular Chatuchak district near BTS Ha Yaek Lat Phrao and near MRT Phahon Yothin. Please contact us to\nschedule a viewing.\n\nUnit amenities:\n * Balcony\n * Microwave\n * Refrigerator\n * Stove\n * TV\n\nBuilding features:\n * Building completed in 2020\n * Security cameras\n * Gym\n * 24-hours security\n * Relaxing swimming pool\n * Steam room\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 2cd0fb5a7ac7-15be-c162-dc12-53e5a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 2cd0fb5a7ac7-15be-c162-dc12-53e5a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-ladprao-chomphon-bangkok_2cd0fb5a7ac7-15be-c162-dc12-53e5a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjRiNjQtNzhkYy03MzhkLWJlNDgtMmRmMmY0ZWE5Y2Q3XC9lMGQ5NThmNTNlMDg2YzQ0MGRjZmM1NjliZDdiYmZhZmFjNjczMjdiMDM2MDZjYjFmNTkyMGIzMzUxOTNmNzlmLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2cd0fb5a7ac7-15be-c162-dc12-53e5a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-ladprao-chomphon-bangkok_2cd0fb5a7ac7-15be-c162-dc12-53e5a089",
+      "source_url_hash": "b5cac46a3dc2bd8e333ae69a6a318933de96fa2f46fda2e6bf48f7daf8bfb754",
+      "duplicate_fingerprint": "04ad9ada39012bf6a17e5ec88fd142681f89fac245300713f90a735ede9787d6",
+      "soft_match_fingerprint": "1cd38fb33f2178feb48d8b656eb80c93ab2871365c17d6ec01a58910e2449bac",
+      "_computed_fingerprint": "fae60734a2c07187164cfa956e72b55190bed99762c3f983fb8986494cdbab8c"
+    },
+    {
+      "external_ref": "dotproperty-05624bc1ed80-36c1-7762-8f51-7a37a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 9790000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 66,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Life Ladprao",
+        "zh": "2 Bedroom Condo for sale at Life Ladprao",
+        "th": "2 Bedroom Condo for sale at Life Ladprao"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 66 sq.m., 9,790,000 THB. Source DotProperty #05624bc1ed80-36c1-7762-8f51-7a37a089.",
+        "zh": "出售：2卧，66㎡，9,790,000 泰铢。来源 DotProperty #05624bc1ed80-36c1-7762-8f51-7a37a089。",
+        "th": "ขาย: 2 นอน 66 ตร.ม. ราคา 9,790,000 บาท (DotProperty #05624bc1ed80-36c1-7762-8f51-7a37a089)"
+      },
+      "description": {
+        "en": "2 Bedroom for sale tab Life ladprao",
+        "zh": "来自 DotProperty 挂牌 05624bc1ed80-36c1-7762-8f51-7a37a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 05624bc1ed80-36c1-7762-8f51-7a37a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-life-ladprao-chomphon-bangkok_05624bc1ed80-36c1-7762-8f51-7a37a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/oV0zZ6la-as87S8wJxlK-edvItM/0x0/unit/6547182/67668e4c2ff86-6770.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "05624bc1ed80-36c1-7762-8f51-7a37a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-life-ladprao-chomphon-bangkok_05624bc1ed80-36c1-7762-8f51-7a37a089",
+      "source_url_hash": "240beb2f475947ffc36ab0ba6599dfb0a4f77d0ec471c2535b4532e43113bc14",
+      "duplicate_fingerprint": "3e58cd3d1b59af02fbee71457fff6031446ffd7d3081bfa97d3b9e44798b67c8",
+      "soft_match_fingerprint": "ad81a49ef1162e697eb5e9e4235b2dd950e5c5ed16037e2edae9d5bece0d4fb1",
+      "_computed_fingerprint": "cbb59936c3752a350b75e675c266266b5152a595c4ec58e2c9a04a2d26461756"
+    },
+    {
+      "external_ref": "dotproperty-8cc17742bd96-50d1-d9d6-b923-28fac577",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Life Ladprao",
+        "zh": "1 Bedroom Condo for rent at Life Ladprao",
+        "th": "1 Bedroom Condo for rent at Life Ladprao"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 20,000 THB. Source DotProperty #8cc17742bd96-50d1-d9d6-b923-28fac577.",
+        "zh": "出租：1卧，35㎡，20,000 泰铢。来源 DotProperty #8cc17742bd96-50d1-d9d6-b923-28fac577。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 20,000 บาท (DotProperty #8cc17742bd96-50d1-d9d6-b923-28fac577)"
+      },
+      "description": {
+        "en": "This property is a 35 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the Life Ladprao project in Chomphon, Bangkok and was completed in May 2020. You can rent this condo long term for ฿20,000 per month.",
+        "zh": "来自 DotProperty 挂牌 8cc17742bd96-50d1-d9d6-b923-28fac577。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 8cc17742bd96-50d1-d9d6-b923-28fac577 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-ladprao-chomphon-bangkok_8cc17742bd96-50d1-d9d6-b923-28fac577",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/FZNXv1gGdhVxm-9Las8eUTy_pxc/0x0/unit/1674914/384283504-10162012021342788-5470725077557598168-n.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "8cc17742bd96-50d1-d9d6-b923-28fac577",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-ladprao-chomphon-bangkok_8cc17742bd96-50d1-d9d6-b923-28fac577",
+      "source_url_hash": "1eaa594e3151218f410d9613b8922ea3d7659225d3d6fc6261864f3c40fed303",
+      "duplicate_fingerprint": "c087ea826ea19e71e0081f915d70a04e6e341d3c899e7f814cfa1f241f8da43d",
+      "soft_match_fingerprint": "5c2be7cff8812517b52782b5954d1399057a51af872f455907ee2ae73ddd7781",
+      "_computed_fingerprint": "dceda634994855698a7b3acb60f94cc0d5c28ed0c9604170601e85b2f6e2cb1c"
+    },
+    {
+      "external_ref": "dotproperty-8af48e3966a4-8dd0-45f2-8318-98c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Life Ladprao",
+        "zh": "1 Bedroom Condo for rent at Life Ladprao",
+        "th": "1 Bedroom Condo for rent at Life Ladprao"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 22,000 THB. Source DotProperty #8af48e3966a4-8dd0-45f2-8318-98c4a089.",
+        "zh": "出租：1卧，35㎡，22,000 泰铢。来源 DotProperty #8af48e3966a4-8dd0-45f2-8318-98c4a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 22,000 บาท (DotProperty #8af48e3966a4-8dd0-45f2-8318-98c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID 730069\n\n\n1 bedroom, 1 bathroom condo for rent with a floorsize of 35 squaremeters, located on the 18th floor, at Life Ladprao building, in\nthe popular Chatuchak district near BTS Ha Yaek Lat Phrao and near MRT Phahon Yothin. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 2020\n * 24-hours security\n * Steam room\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 8af48e3966a4-8dd0-45f2-8318-98c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 8af48e3966a4-8dd0-45f2-8318-98c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-ladprao-chomphon-bangkok_8af48e3966a4-8dd0-45f2-8318-98c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTAtMTg2MS03YTQ1LTljYzEtNWYzMzA2YjE1YWYxXC8wOWY0NzcyOWE1ZjFiYzE2NzA3OWNmMDcyZjZiYjliN2M2YzQ5ZmQzNjc4MTQxODdiZDExNDJkZjU2NjAyMWMxLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "8af48e3966a4-8dd0-45f2-8318-98c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-ladprao-chomphon-bangkok_8af48e3966a4-8dd0-45f2-8318-98c4a089",
+      "source_url_hash": "cf97a4da69b8dac608ec58fdd8ae0faf20e6fd36d5f0b728b0d1584dc104538b",
+      "duplicate_fingerprint": "2af98a850af0d550812753c2b4b6d6caad0a55e3389a8ae0f184dc7b4152c7fe",
+      "soft_match_fingerprint": "af0c0cf210b5bf87d8b273270ac0c5ce632286703a0da22752f65105fdf82ee2",
+      "_computed_fingerprint": "28f9ed6af34fb8bbdd9f59d03f48c9992959dc44b508f23d7ac1e44fa81e6809"
+    },
+    {
+      "external_ref": "dotproperty-525db81d82ec-6031-6282-e969-98c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "21",
+      "building_label": null,
+      "project_slug": "life-ladprao",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "chatuchak",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Life Ladprao",
+        "zh": "1 Bedroom Condo for rent at Life Ladprao",
+        "th": "1 Bedroom Condo for rent at Life Ladprao"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 23,000 THB. Source DotProperty #525db81d82ec-6031-6282-e969-98c4a089.",
+        "zh": "出租：1卧，35㎡，23,000 泰铢。来源 DotProperty #525db81d82ec-6031-6282-e969-98c4a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 23,000 บาท (DotProperty #525db81d82ec-6031-6282-e969-98c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 35 squaremeters, located on the 21st floor, at Life\nPhahon-Ladprao building, in the popular Chatuchak district near BTS Ha Yaek Lat Phrao and near MRT Phahon Yothin. Please contact\nus to schedule a viewing.\n\nBuilding features:\n * Building completed in 2024\n * Covered car park\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 525db81d82ec-6031-6282-e969-98c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 525db81d82ec-6031-6282-e969-98c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-ladprao-chomphon-bangkok_525db81d82ec-6031-6282-e969-98c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTAtMDMwYi03MTczLTg2OTMtZGI3MWM4MWVjNDc0XC8zM2RkNzFkM2ZlNDFiMWZlYWFhYWVjMmQzZWFlNmE3OTlmOGIzNzJmZGE2ODJhYTM1ZjgxNDQ5MWMzN2I2MDZhLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "525db81d82ec-6031-6282-e969-98c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-ladprao-chomphon-bangkok_525db81d82ec-6031-6282-e969-98c4a089",
+      "source_url_hash": "63da3c865b17647088ca5acec1b495f5ebd9260c0f0c65f5718494d8ebb63d61",
+      "duplicate_fingerprint": "3d177b879c18e4063841943ab5d410e64e91055991e9ce2b72dbfb2236017a9e",
+      "soft_match_fingerprint": "c363c088dd2ea5ae2b07496ba2b4802ee34a1fb88c4f6857765664b925a6f589",
+      "_computed_fingerprint": "2e3c51f32e55ddd2f1388ba843060ac32695833e4115678ef8d19731ad734a0a"
+    }
+  ]
+}

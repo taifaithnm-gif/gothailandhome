@@ -1,0 +1,335 @@
+{
+  "project_slug": "supalai-elite-phayathai",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "2694",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=2694",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=2694",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-922bf339555c-8c01-3542-e4b0-4215a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 11900000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 106,
+      "floor_label": "23",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Supalai Elite Phayathai",
+        "zh": "2 Bedroom Condo for sale at Supalai Elite Phayathai",
+        "th": "2 Bedroom Condo for sale at Supalai Elite Phayathai"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 106 sq.m., 11,900,000 THB. Source DotProperty #922bf339555c-8c01-3542-e4b0-4215a089.",
+        "zh": "出售：2卧，106㎡，11,900,000 泰铢。来源 DotProperty #922bf339555c-8c01-3542-e4b0-4215a089。",
+        "th": "ขาย: 2 นอน 106 ตร.ม. ราคา 11,900,000 บาท (DotProperty #922bf339555c-8c01-3542-e4b0-4215a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for sale with a floorsize of 106.03 squaremeters, located on the 23rd floor, at\nSupalai Elite Phayathai building, in the popular Ratchathewi district near BTS Phaya Thai and near ARL Ratchaprarop. Please\ncontact us to schedule a viewing.\n\nUnit amenities:\n * Balcony\n * Microwave\n * Refrigerator\n * TV\n\nBuilding features:\n * Building completed in 2015\n * Security cameras\n * Gym\n * 24-hours security\n * Relaxing swimming pool\n * Sauna\n * Gym\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidd",
+        "zh": "来自 DotProperty 挂牌 922bf339555c-8c01-3542-e4b0-4215a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 922bf339555c-8c01-3542-e4b0-4215a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_922bf339555c-8c01-3542-e4b0-4215a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjQ4NzUtOWU1Yi03NTQ2LTg5ZDEtZDQ0NDA2NmFlNzcwXC8zMjA3OTUxNWJiNGM4OTM0MTJlMWNlOWU0YjMxYzZkMjZkMDIzNTlmMmEzMWJlZTgyMDVjMTVjMWU3Y2QzZDBhLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "922bf339555c-8c01-3542-e4b0-4215a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_922bf339555c-8c01-3542-e4b0-4215a089",
+      "source_url_hash": "0e0d9b811e42806c03f99de550593cab6cc4b55593597506e6563b90f86d0167",
+      "duplicate_fingerprint": "39b97d6c58049797708f5020f1e76c5d8f7221071333a22ff0162ba64b9af9af",
+      "soft_match_fingerprint": "fd04d9c121028d559e5a84e722350d6e9efc7de0a0b0d3697233ff30ec084249",
+      "_computed_fingerprint": "02afa0448e4a7805655f8056f2f433a0ce2eb7d60996864515a1d1bb50f272ca"
+    },
+    {
+      "external_ref": "dotproperty-de0877c8a726-4581-4af2-e763-3ae6a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 8290000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 61,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Supalai Elite Phayathai",
+        "zh": "1 Bedroom Condo for sale at Supalai Elite Phayathai",
+        "th": "1 Bedroom Condo for sale at Supalai Elite Phayathai"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 61 sq.m., 8,290,000 THB. Source DotProperty #de0877c8a726-4581-4af2-e763-3ae6a089.",
+        "zh": "出售：1卧，61㎡，8,290,000 泰铢。来源 DotProperty #de0877c8a726-4581-4af2-e763-3ae6a089。",
+        "th": "ขาย: 1 นอน 61 ตร.ม. ราคา 8,290,000 บาท (DotProperty #de0877c8a726-4581-4af2-e763-3ae6a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 61 squaremeters, located on the 18th floor, at Supalai\nElite Phayathai building, in the popular Ratchathewi district near BTS Phaya Thai and near ARL Ratchaprarop. Please contact us to\nschedule a viewing.\n\nBuilding features:\n * Building completed in 2015\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 de0877c8a726-4581-4af2-e763-3ae6a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty de0877c8a726-4581-4af2-e763-3ae6a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_de0877c8a726-4581-4af2-e763-3ae6a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjNiZjYtNjMyYi03YWY1LTgxNDUtMzcyZjFkMjIxOWJjXC81YWI3MWJlNWZhNWNlMWQ1NTcyYjg2M2I4YjJlOGM5Yjg4OTVkMzYzMWFmNTQ5NzA0MDJjNzMwNzQ1OGM0MzA0LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "de0877c8a726-4581-4af2-e763-3ae6a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_de0877c8a726-4581-4af2-e763-3ae6a089",
+      "source_url_hash": "d3fa41dc8c81538697f335bea5b76c04cc5811f91837872e8d3050d799f42462",
+      "duplicate_fingerprint": "4eb44ce4fff3cb90fa3dc8ff8a8dd421b928eb80fa5d5f0a4b0cefbc05bde096",
+      "soft_match_fingerprint": "fe55688904e46151b0fc63c4e00c3654a90bc104cd963eb6cf1078e707b6b24d",
+      "_computed_fingerprint": "4a641f034114c83e5b4089abb0cff929143c0738a28e8a7978489ac74a9f4b56"
+    },
+    {
+      "external_ref": "dotproperty-324a92e0ba6e-00b1-fe72-1392-ef49a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7000000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 61,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Supalai Elite Phayathai",
+        "zh": "1 Bedroom Condo for sale at Supalai Elite Phayathai",
+        "th": "1 Bedroom Condo for sale at Supalai Elite Phayathai"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 61 sq.m., 7,000,000 THB. Source DotProperty #324a92e0ba6e-00b1-fe72-1392-ef49a089.",
+        "zh": "出售：1卧，61㎡，7,000,000 泰铢。来源 DotProperty #324a92e0ba6e-00b1-fe72-1392-ef49a089。",
+        "th": "ขาย: 1 นอน 61 ตร.ม. ราคา 7,000,000 บาท (DotProperty #324a92e0ba6e-00b1-fe72-1392-ef49a089)"
+      },
+      "description": {
+        "en": "Project : Supalai Elite Phayathai\nLocation area:  Si Ayutthaya , Thung Phaya Thai , Rat Thewi , Bangkok 10400\nGPS :  \nStation : BTS-Phaya Thai \nListing ID : CX-116048 \nFOR SELL : 7,000,000 ฿ \n\nProperty type : Condo \nNo of floors : 31 \nUsable area : 60.89 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\n\nHighlights :\n-high floor-nice viewFurniture : \n-Fully furnished\nCommon Facilities : \n - Lobby\n - Roof Garden\n - sauna room\n - Fitness\n - swimming pool\n - VDO Door Phone\n - CCTV camera system\n - Heat &amp; Smoke Detector, Fire Alarm\n - 24  -hour security system\n\nNearby Facilities : \n1. BTS Phayathai 650 m.\n2. Airport Link, Rajaphara 450 m.\n3. Output on the Uruphong Expressway 1.7 km.\n4. The Victory Monument Expressway Quick Output is 1.5 km.\n5. Central World 1.5 km.\n6. King Power Complex 550 m.\n7. Phaya Phayathai 180 m.\n8. Sri Ayutthaya School 50 m.\n\nZone : \nRatchathewi, Phayathai, Pratunam, Rangnam \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished property \nCall: [hidden phone] \nE-Mail: [hidden email] \nFacebook: Connex Property \n[hidden line] @c",
+        "zh": "来自 DotProperty 挂牌 324a92e0ba6e-00b1-fe72-1392-ef49a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 324a92e0ba6e-00b1-fe72-1392-ef49a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_324a92e0ba6e-00b1-fe72-1392-ef49a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjA1YWItNzA2OC03MmJhLThlOTktYjNmZTliNzBmNTc2XC9hYjczYmU2ZjE4ODYwMzMwNThiYTA2OTU5MDBmMDJmZDhiODdhYWIzOGFlYWEzYjIyNDU4YzJiNWM1ZjljN2M0LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "324a92e0ba6e-00b1-fe72-1392-ef49a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_324a92e0ba6e-00b1-fe72-1392-ef49a089",
+      "source_url_hash": "508eb00d050095e2ea993d908a69c6a496d8f66691b053b165381a0ffed533c5",
+      "duplicate_fingerprint": "6eec40773204b96f02d64302788f1a92f80c29287eeaa29bb7b2c48d58a2e28b",
+      "soft_match_fingerprint": "4286dad1ddf62ec55c59cb94de02e4252d34002599d9c46ff308e9fda79417a4",
+      "_computed_fingerprint": "eb5fa3913a1022a7b107007adb2098c26ba0a4f0be2128f78433d2f4fbf39fdf"
+    },
+    {
+      "external_ref": "dotproperty-2a26a0001dcf-3cee-b192-f126-4d74a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 48000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 94,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at Supalai Elite Phayathai",
+        "zh": "2 Bedroom Condo for rent at Supalai Elite Phayathai",
+        "th": "2 Bedroom Condo for rent at Supalai Elite Phayathai"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 94 sq.m., 48,000 THB. Source DotProperty #2a26a0001dcf-3cee-b192-f126-4d74a089.",
+        "zh": "出租：2卧，94㎡，48,000 泰铢。来源 DotProperty #2a26a0001dcf-3cee-b192-f126-4d74a089。",
+        "th": "เช่า: 2 นอน 94 ตร.ม. ราคา 48,000 บาท (DotProperty #2a26a0001dcf-3cee-b192-f126-4d74a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent with a floorsize of 94 squaremeters, located on the 29th floor, at Supalai\nElite Phayathai building, in the popular Ratchathewi district near BTS Phaya Thai and near ARL Ratchaprarop. Please contact us to\nschedule a viewing.\n\nBuilding features:\n * Building completed in 2015\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 2a26a0001dcf-3cee-b192-f126-4d74a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 2a26a0001dcf-3cee-b192-f126-4d74a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_2a26a0001dcf-3cee-b192-f126-4d74a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjUyYzUtMzc4YS03MDhlLWJiZDYtYWRjODk5OWYzN2Y3XC80MjBhMjA5YjMyYzAyMTkwZjM3YmRhMzg5NGY2ZWI1MDhlYTk0ZmU5Y2U4NDNhMTY3NTA4OTNhNmMwYTZhMTMwLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2a26a0001dcf-3cee-b192-f126-4d74a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_2a26a0001dcf-3cee-b192-f126-4d74a089",
+      "source_url_hash": "50e52b132785d6b301533e95189bd3b6ea43022e67340676d7d964f5a931a308",
+      "duplicate_fingerprint": "ab76f3feb480ba38bc01fcf2341854e535e923bd0f7901ec75461e0ba55a3aef",
+      "soft_match_fingerprint": "843e4c6e5cb02f0b658d67920309c342e62dcae897d744c842c5f5c1e75b54d7",
+      "_computed_fingerprint": "1dfabd2ebadd864fea76dde89b2c8d33b5f685c07c6c7184c083345abb6ebd84"
+    },
+    {
+      "external_ref": "dotproperty-2008b265402a-c8c1-7c22-5c76-4336a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": null,
+      "area_sqm": 44,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Supalai Elite Phayathai",
+        "zh": "1 Bedroom Condo for rent at Supalai Elite Phayathai",
+        "th": "1 Bedroom Condo for rent at Supalai Elite Phayathai"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 23,000 THB. Source DotProperty #2008b265402a-c8c1-7c22-5c76-4336a089.",
+        "zh": "出租：1卧，44㎡，23,000 泰铢。来源 DotProperty #2008b265402a-c8c1-7c22-5c76-4336a089。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 23,000 บาท (DotProperty #2008b265402a-c8c1-7c22-5c76-4336a089)"
+      },
+      "description": {
+        "en": "❖ Supalai Elite Phayathai ❖\n\n📌 Property Code: P-2668 🧸\n\n🏢 Unit Details\n• 1 Bedroom 1 Bathroom | 44 Sq.m.\n• 29th Floor | City View 🏙️\n• Rental Price: 23,000 THB/Month (Includes common fee+parking) 💰\n\n🛋 Furniture and Electrical Appliances\n• Fully furnished with washing machine, ready to move in! 🧺✨\n\n🌟 Project Highlights\n• Prime location in the Phaya Thai area, easy connectivity. 👨‍👩‍👧‍👦\n• Luxury project with high-floor city views and a peaceful atmosphere. 🚄\n\n📍 Nearby Locations\n• BTS Phaya Thai: 600 meters 🚇\n• Phyathai 1 Hospital: 500 meters 🏥\n• King Power Rangnam: 900 meters 🛍️\n\n💬 Contact for more information or viewing\nJoy (Easy Condo Plus) | Tel: [hidden phone] 📱\n[hidden line] | Facebook: EasyCondoPlus 💌\nE-mail: [hidden email]\n\nRental and sales services for condos and houses 🔗\nalong BTS/MRT lines in Bangkok.",
+        "zh": "来自 DotProperty 挂牌 2008b265402a-c8c1-7c22-5c76-4336a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 2008b265402a-c8c1-7c22-5c76-4336a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_2008b265402a-c8c1-7c22-5c76-4336a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzXC8wMTlmMzY2NS0zMmQ0LTc3ZDItOGQxZC1mNzk1NDM3ZTE5OTdcLzAxOWYzNjY1LWI0ODctNzI5NC1iNTI3LTIxNTM4YzdiNmM2Yy5qcGciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2008b265402a-c8c1-7c22-5c76-4336a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_2008b265402a-c8c1-7c22-5c76-4336a089",
+      "source_url_hash": "40c94f0dad3576946309b0675e1bd22f4f872888b2ecda56b0a54b3e8ad11f65",
+      "duplicate_fingerprint": "0d0a71ba5554e3869d0af13b3ae31e5b8ed0fc602e51b8796021c1a7ce2d163e",
+      "soft_match_fingerprint": "cc7b52a53c5cf85668d707d6857667a55e61326ab03b89f3412fa26d5d10b319",
+      "_computed_fingerprint": "93609644445921da88783acaf2b30d73d46806016cd88bf53869013bb3dd6bdb"
+    },
+    {
+      "external_ref": "dotproperty-122d2e98ae43-ff91-5272-1935-9856a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 22000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 44,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-elite-phayathai",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "ratchathewi",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Supalai Elite Phayathai",
+        "zh": "1 Bedroom Condo for rent at Supalai Elite Phayathai",
+        "th": "1 Bedroom Condo for rent at Supalai Elite Phayathai"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 44 sq.m., 22,000 THB. Source DotProperty #122d2e98ae43-ff91-5272-1935-9856a089.",
+        "zh": "出租：1卧，44㎡，22,000 泰铢。来源 DotProperty #122d2e98ae43-ff91-5272-1935-9856a089。",
+        "th": "เช่า: 1 นอน 44 ตร.ม. ราคา 22,000 บาท (DotProperty #122d2e98ae43-ff91-5272-1935-9856a089)"
+      },
+      "description": {
+        "en": "Project : Supalai Elite Phayathai\nLocation area:  Si Ayutthaya , Thung Phaya Thai , Rat Thewi , Bangkok 10400\nGPS :  \nStation : BTS-Phaya Thai \nListing ID : CX-158367 \nFOR RENT : 22,000 ฿ \n\nProperty type : Condo \nNo of floors : 31 \nUsable area : 44 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \n - Lobby\n - Roof Garden\n - sauna room\n - Fitness\n - swimming pool\n - VDO Door Phone\n - CCTV camera system\n - Heat &amp; Smoke Detector, Fire Alarm\n - 24  -hour security system\n\nNearby Facilities : \n1. BTS Phayathai 650 m.\n2. Airport Link, Rajaphara 450 m.\n3. Output on the Uruphong Expressway 1.7 km.\n4. The Victory Monument Expressway Quick Output is 1.5 km.\n5. Central World 1.5 km.\n6. King Power Complex 550 m.\n7. Phaya Phayathai 180 m.\n8. Sri Ayutthaya School 50 m.\n\nZone : \nRatchathewi, Phayathai, Pratunam, Rangnam \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished property \nCall: [hidden phone] \nE-Mail: [hidden email] \nFacebook: Connex Property \n[hidden line] @connexproperty \n Whatsapp: [hidden phone] ",
+        "zh": "来自 DotProperty 挂牌 122d2e98ae43-ff91-5272-1935-9856a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 122d2e98ae43-ff91-5272-1935-9856a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_122d2e98ae43-ff91-5272-1935-9856a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjM0MTAtNDYwOC03Mjc0LTgwYWEtNjViZjEwYjdjNzc4XC9mZWI4ZmRhNTQ2ZjFmMTllOWE3MGYyMDRkZThmNjU3Y2ZhNmQ2NjUwMWVjODg1Yjk1NmRjOTgyMGY2NDU0ODBjLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "122d2e98ae43-ff91-5272-1935-9856a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-elite-phayathai-thanon-phaya-thai-bangkok_122d2e98ae43-ff91-5272-1935-9856a089",
+      "source_url_hash": "16b13a7b4fea8434e4015ad09a4506e56aed099b86303e4cc7eedebf37ea3c68",
+      "duplicate_fingerprint": "5fed9df099e13f160c92f8712b6bfd44605681f96c3b7c05e6eecd645847ec0b",
+      "soft_match_fingerprint": "cc7b52a53c5cf85668d707d6857667a55e61326ab03b89f3412fa26d5d10b319",
+      "_computed_fingerprint": "f254eef3e294e275d2f0d3e5ddeb9de8dbf211ea19aefd1932306ee264686b69"
+    }
+  ]
+}

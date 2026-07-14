@@ -1,0 +1,335 @@
+{
+  "project_slug": "supalai-oriental-sukhumvit-39",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "12293",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=12293",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=12293",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-3aeceabebe1b-d5e0-8b46-49d7-95e4772a",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 24657000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqm": 157,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "3 Bedroom Condo for sale at Supalai Oriental Sukhumvit 39",
+        "zh": "3 Bedroom Condo for sale at Supalai Oriental Sukhumvit 39",
+        "th": "3 Bedroom Condo for sale at Supalai Oriental Sukhumvit 39"
+      },
+      "summary": {
+        "en": "Sale: 3BR, 157 sq.m., 24,657,000 THB. Source DotProperty #3aeceabebe1b-d5e0-8b46-49d7-95e4772a.",
+        "zh": "出售：3卧，157㎡，24,657,000 泰铢。来源 DotProperty #3aeceabebe1b-d5e0-8b46-49d7-95e4772a。",
+        "th": "ขาย: 3 นอน 157 ตร.ม. ราคา 24,657,000 บาท (DotProperty #3aeceabebe1b-d5e0-8b46-49d7-95e4772a)"
+      },
+      "description": {
+        "en": "Located in one of Bangkok’s most sought-after residential districts, this luxury three-bedroom residence at Supalai Oriental Sukhumvit 39 offers generous space, refined design, and strong investment potential.\nSpanning an impressive 157.01 sqm, this thoughtfully designed home provides three bedrooms and three bathrooms, making it ideal for families, expatriate professionals, or investors seeking a high-quality asset in central Sukhumvit.\nThe residence showcases a modern architectural layout with premium finishing, creating a home that feels both elegant and highly functional. Large windows invite natural light throughout the living areas, while the carefully arranged floor plan ensures comfortable privacy between bedrooms and shared living spaces.\nFully air-conditioned and built with high-quality materials, the unit reflects Supalai’s commitment to durability, craftsmanship, and long-term value.\n Investment Highlight\n\nCurrent ROI 5.84%\nCurrently rented at 120,000 THB/month\nTenant secured until 30 September 2026\nApprox. 170,037 THB per sqm\n\nThis makes the property an attractive income-generating investment in a prime expatriate neighborhood.\n Property Highlights\n\n3 Bedrooms | 3 Bath",
+        "zh": "来自 DotProperty 挂牌 3aeceabebe1b-d5e0-8b46-49d7-95e4772a。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 3aeceabebe1b-d5e0-8b46-49d7-95e4772a ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/3-bedroom-condo-for-sale-in-supalai-oriental-sukhumvit-39-khlong-tan-nuea-bangkok_3aeceabebe1b-d5e0-8b46-49d7-95e4772a",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/N0hp11tFmbG9kKBZ3guFimAQWtc/0x0/unit/668108/s-24813578.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "3aeceabebe1b-d5e0-8b46-49d7-95e4772a",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/3-bedroom-condo-for-sale-in-supalai-oriental-sukhumvit-39-khlong-tan-nuea-bangkok_3aeceabebe1b-d5e0-8b46-49d7-95e4772a",
+      "source_url_hash": "dc5d0bdf5fe3d466bd3eb8d32900a676507e8aeddcb1b57cd9ea7ebbd0f90898",
+      "duplicate_fingerprint": "0bd196d194218f1f0dbf7ce40b0bbfe192d5141633fe5626467e384ed522feab",
+      "soft_match_fingerprint": "8fdeb9520df6cff2982fd048a5e955922e5b626994cc8c4ef30717efaadb0b06",
+      "_computed_fingerprint": "ace83e75fc105c3b71ad959fdfd04ba4120950f435b8dd7194f719df81dced92"
+    },
+    {
+      "external_ref": "dotproperty-4be2657e3190-01bf-c9e2-01c2-4cf4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5790000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 97,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Supalai Oriental Sukhumvit 39",
+        "zh": "2 Bedroom Condo for sale at Supalai Oriental Sukhumvit 39",
+        "th": "2 Bedroom Condo for sale at Supalai Oriental Sukhumvit 39"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 97 sq.m., 5,790,000 THB. Source DotProperty #4be2657e3190-01bf-c9e2-01c2-4cf4a089.",
+        "zh": "出售：2卧，97㎡，5,790,000 泰铢。来源 DotProperty #4be2657e3190-01bf-c9e2-01c2-4cf4a089。",
+        "th": "ขาย: 2 นอน 97 ตร.ม. ราคา 5,790,000 บาท (DotProperty #4be2657e3190-01bf-c9e2-01c2-4cf4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for sale with a floorsize of 97 squaremeters, at Supalai Place Sukhumvit 39\nbuilding, in the popular Watthana district near BTS Phrom Phong and near MRT Phetchaburi. Please contact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 1994\n * 24-hours security\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Kids play area\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 4be2657e3190-01bf-c9e2-01c2-4cf4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 4be2657e3190-01bf-c9e2-01c2-4cf4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-supalai-oriental-sukhumvit-39-khlong-tan-nuea-bangkok_4be2657e3190-01bf-c9e2-01c2-4cf4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVhZDUtN2Q4OS03YjBkLWFlODktOTA4NmIyNDM3YmU1XC80N2U4Zjc2NjYxZWRmOWIwYTA2MjI3ZjdhMmNmNzgyZmI0YjMwYWVlMjI4OTEyMWZkZjdmYjc4MTg3ZmY4ZjljLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "4be2657e3190-01bf-c9e2-01c2-4cf4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-supalai-oriental-sukhumvit-39-khlong-tan-nuea-bangkok_4be2657e3190-01bf-c9e2-01c2-4cf4a089",
+      "source_url_hash": "16f08c860d85307cad4353b846ce8aa8fe840ea731d68e2365fd23baee05ca46",
+      "duplicate_fingerprint": "0fe4283e20c21ac4a48f603d9bb8e7e828d7758b6d1de92553711c072dd57e75",
+      "soft_match_fingerprint": "5624f4d9b415cc308d450dd535b0f3dd3bbaa6d09945776d7484291edfcc6404",
+      "_computed_fingerprint": "cd55d9410149bd4ea15130d255a9a2faea373790b927d2873d88cba5ecaf87cd"
+    },
+    {
+      "external_ref": "dotproperty-bf82f0d30d4e-67a1-9402-d09e-d9c4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7900000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 97,
+      "floor_label": "7",
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Supalai Oriental Sukhumvit 39",
+        "zh": "2 Bedroom Condo for sale at Supalai Oriental Sukhumvit 39",
+        "th": "2 Bedroom Condo for sale at Supalai Oriental Sukhumvit 39"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 97 sq.m., 7,900,000 THB. Source DotProperty #bf82f0d30d4e-67a1-9402-d09e-d9c4a089.",
+        "zh": "出售：2卧，97㎡，7,900,000 泰铢。来源 DotProperty #bf82f0d30d4e-67a1-9402-d09e-d9c4a089。",
+        "th": "ขาย: 2 นอน 97 ตร.ม. ราคา 7,900,000 บาท (DotProperty #bf82f0d30d4e-67a1-9402-d09e-d9c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent / sale with a floorsize of 97 squaremeters, located on the 7th floor, at\nSupalai Place Sukhumvit 39 building, in the popular Watthana district near BTS Phrom Phong and near MRT Phetchaburi. Please\ncontact us to schedule a viewing.\n\nBuilding features:\n * Building completed in 1994\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Kids play area\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 bf82f0d30d4e-67a1-9402-d09e-d9c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty bf82f0d30d4e-67a1-9402-d09e-d9c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-supalai-oriental-sukhumvit-39-khlong-tan-nuea-bangkok_bf82f0d30d4e-67a1-9402-d09e-d9c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMGMtYjA5Yy03OTUwLThmMjMtYjVjOTZjOWE3MWFlXC9lNGE5N2MxNjM4ZDBmMmMwYTVlYTBiNjc5ZmFkODg5NzA5ODZjYTlhYjhhMWQ1MTc0ZjA3ZDVlNTIzMWMxZWEzLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "bf82f0d30d4e-67a1-9402-d09e-d9c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-supalai-oriental-sukhumvit-39-khlong-tan-nuea-bangkok_bf82f0d30d4e-67a1-9402-d09e-d9c4a089",
+      "source_url_hash": "a14eb0a3d890ef78fed1eae10fdbebbcfa1d74a8f03083b98216eeef2965b061",
+      "duplicate_fingerprint": "e45bc1542f4c50529befe015a81382024a223a87b2729414db7aeb9ce8065259",
+      "soft_match_fingerprint": "aecbb3aaff1f8df2f3223421cbd1e9253d2c72bd80cf2c33af0616fb3b8fc0ec",
+      "_computed_fingerprint": "eaaef141326c371798a1d4b72ca9a57705ded04f5befa232485bd75a369f5170"
+    },
+    {
+      "external_ref": "dotproperty-6cad9fd9ac53-f22f-7d02-170b-58c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 28000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 47,
+      "floor_label": "19",
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Supalai Oriental Sukhumvit 39",
+        "zh": "1 Bedroom Condo for rent at Supalai Oriental Sukhumvit 39",
+        "th": "1 Bedroom Condo for rent at Supalai Oriental Sukhumvit 39"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 47 sq.m., 28,000 THB. Source DotProperty #6cad9fd9ac53-f22f-7d02-170b-58c4a089.",
+        "zh": "出租：1卧，47㎡，28,000 泰铢。来源 DotProperty #6cad9fd9ac53-f22f-7d02-170b-58c4a089。",
+        "th": "เช่า: 1 นอน 47 ตร.ม. ราคา 28,000 บาท (DotProperty #6cad9fd9ac53-f22f-7d02-170b-58c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 47 squaremeters, located on the 19th floor, at Supalai\nOriental Sukhumvit 39 building, in the popular Watthana district near MRT Phetchaburi and near ARL Makkasan. Please contact us to\nschedule a viewing.\n\nBuilding features:\n * Building completed in 2020\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Kids play area\n * Kids play area\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 6cad9fd9ac53-f22f-7d02-170b-58c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 6cad9fd9ac53-f22f-7d02-170b-58c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-oriental-sukhumvit-39-khlong-tan-nuea-bangkok_6cad9fd9ac53-f22f-7d02-170b-58c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTQtZTkyOC03OWMyLWE3N2EtNjRkZjBjYTBjZmQzXC8xNDBlYzkxMWU5YzNjZTU2MjUxMzZkMzA4MjViYmRkMTIwMzBjMGZhMGQwOTc5M2MwZWNkYWFiMzIyZWY3ZTA5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "6cad9fd9ac53-f22f-7d02-170b-58c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-oriental-sukhumvit-39-khlong-tan-nuea-bangkok_6cad9fd9ac53-f22f-7d02-170b-58c4a089",
+      "source_url_hash": "d911e1caf3fe4a8a58bd512bd61de4b11b7504ea1e99f914f82f6d43198b7152",
+      "duplicate_fingerprint": "b82be1b6395661b5ad7d1eca4006f8c53f73e866284f90ffe12a60fde972176f",
+      "soft_match_fingerprint": "4646271e5659486d15e8765d8b2f439cace581fdb503108d1e7ae0f39a7c0ce3",
+      "_computed_fingerprint": "3c55ef4f6326d02a9998f510691440702a11f51e2e8e8e249084060e3e86a990"
+    },
+    {
+      "external_ref": "dotproperty-a5b367800232-080f-8ec2-4a45-cb24a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 39,
+      "floor_label": "18",
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Supalai Oriental Sukhumvit 39",
+        "zh": "1 Bedroom Condo for rent at Supalai Oriental Sukhumvit 39",
+        "th": "1 Bedroom Condo for rent at Supalai Oriental Sukhumvit 39"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 39 sq.m., 23,000 THB. Source DotProperty #a5b367800232-080f-8ec2-4a45-cb24a089.",
+        "zh": "出租：1卧，39㎡，23,000 泰铢。来源 DotProperty #a5b367800232-080f-8ec2-4a45-cb24a089。",
+        "th": "เช่า: 1 นอน 39 ตร.ม. ราคา 23,000 บาท (DotProperty #a5b367800232-080f-8ec2-4a45-cb24a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 39 squaremeters, located on the 18th floor, at Supalai\nOriental Sukhumvit 39 building, in the popular Watthana district near MRT Phetchaburi and near ARL Makkasan. Please contact us to\nschedule a viewing.\n\nBuilding features:\n * Building completed in 2020\n * Covered car park\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Kids play area\n * Kids play area\n * Modern jacuzzi\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 a5b367800232-080f-8ec2-4a45-cb24a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty a5b367800232-080f-8ec2-4a45-cb24a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-oriental-sukhumvit-39-khlong-tan-nuea-bangkok_a5b367800232-080f-8ec2-4a45-cb24a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU3ZWQtNDVmNS03ZGIxLWE5MTktNzY3OTkxMjM2ZTRmXC8xMzlkNmIyMGNjMzdjZTFkYjcxOWY2NzY2OTIyYWJhYWVmYzI1MjY2M2E1MWIwYjE4NTE1NDU1ZTY4ZjkwNjk2LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "a5b367800232-080f-8ec2-4a45-cb24a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-oriental-sukhumvit-39-khlong-tan-nuea-bangkok_a5b367800232-080f-8ec2-4a45-cb24a089",
+      "source_url_hash": "eaae8d78fc206222239630dc98b0252ac9d1dc73da6b8225a8a832b7c72d1862",
+      "duplicate_fingerprint": "6030eab6698cc8b125204aa9a189f8fc11fa8b2cf00403a7e436714bfcbe49f5",
+      "soft_match_fingerprint": "f747294036f675091d4ea0b52ae89ee1e40b1d968603d401ceb32d812a008abc",
+      "_computed_fingerprint": "1862a6e0881e2bc144faf6a0274c613f2769a8fb8d8f1872f15c4a70d1e3e119"
+    },
+    {
+      "external_ref": "dotproperty-9a0874f96ca7-4f8e-8d32-bce5-2514a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 57,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "developer_slug": "supalai",
+      "city_slug": "bangkok",
+      "district_slug": "watthana",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Supalai Oriental Sukhumvit 39",
+        "zh": "1 Bedroom Condo for rent at Supalai Oriental Sukhumvit 39",
+        "th": "1 Bedroom Condo for rent at Supalai Oriental Sukhumvit 39"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 57 sq.m., 30,000 THB. Source DotProperty #9a0874f96ca7-4f8e-8d32-bce5-2514a089.",
+        "zh": "出租：1卧，57㎡，30,000 泰铢。来源 DotProperty #9a0874f96ca7-4f8e-8d32-bce5-2514a089。",
+        "th": "เช่า: 1 นอน 57 ตร.ม. ราคา 30,000 บาท (DotProperty #9a0874f96ca7-4f8e-8d32-bce5-2514a089)"
+      },
+      "description": {
+        "en": "Project : Supalai Oriental Sukhumvit 39\nLocation area: Sukhumvit 39 Sukhumvit , Khlong Tan Nuea , Watthana , Bangkok 10110\nGPS :  \nStation : MRT-Phetchaburi \nListing ID : CX-82589 \nFOR RENT : 30,000 ฿ \n\nProperty type : Condo \nNo of floors : 35 \nUsable area : 56.6 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \n  -24  -hour security\n -swimming pool\n -Fitness\n -Garden\n -sauna\n\nNearby Facilities : \n - UFM Fuji Super 350 m.\n - Shinsen Fish Market 400 m.\n - Taka Town 600 m.\n - Emquartier 1.1 km.\n - The Emporium 1.4 km.\n - Benjasiri Park 1.5 km.\n - Terminal 21 2.3 km.\n - Rain Hill 1.7 km.\n - Bangkok Model 2.9 km.\n - Gateway Ekamai 3.2 km.\n - J Avanue Thonglor 2.1 km.\n - K -Village 2.4 km.\n - Big C Rama 4 2.7 km.\n - Major Ekamai 2.9 km.\n - Big C Ekamai 2.9 km.\n - Samitivej Hospital 1.3 km.\n\nZone : \nSukhumvit, Asoke, Thonglor, Ekamai, Ekkamai, Prompong, Phrom Phong \n\n**Free consultation! seeking to buy/sell/rent properties in Thailand** \nInterested please contact : \nCONNEX PROPERTY | Connect you to your wished property \nCall: [hidden phone] \nE-Mail: [hidden email] \nFacebook: Connex Property \n[hidd",
+        "zh": "来自 DotProperty 挂牌 9a0874f96ca7-4f8e-8d32-bce5-2514a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 9a0874f96ca7-4f8e-8d32-bce5-2514a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-oriental-sukhumvit-39-khlong-tan-nuea-bangkok_9a0874f96ca7-4f8e-8d32-bce5-2514a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU4NDctNGJkZS03NmMxLWIxYTUtMmZkMzBhNTIxOWYwXC80MDM5YzAzNGU3MmM5YjRlYWZhYWU3ZGRiMzMyNTc4MWIzMGFmNjZjOTg2YWExOTEwZDg4MjY2NmQ2MDA2MTZkLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "9a0874f96ca7-4f8e-8d32-bce5-2514a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-supalai-oriental-sukhumvit-39-khlong-tan-nuea-bangkok_9a0874f96ca7-4f8e-8d32-bce5-2514a089",
+      "source_url_hash": "ecc42ecd94b3017ceba26acbd7492bf62dc84b0f92fa52bfa556ee50075eb8d5",
+      "duplicate_fingerprint": "4c4acafbb4b5c5097a203c1d3a56160870eabf5f591b95147b9b15e854f5b5bc",
+      "soft_match_fingerprint": "3931eb70095efc6d1066456247d81377c2ce688cf3db3e4577624d077ae4f649",
+      "_computed_fingerprint": "2a980a7adc670d010ee79c6f528faf21ed11eb51b17aa2f8853d6290006ef743"
+    }
+  ]
+}

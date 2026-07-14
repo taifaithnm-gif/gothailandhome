@@ -1,0 +1,335 @@
+{
+  "project_slug": "noble-revolve-ratchada",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "1807",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=1807",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=1807",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-2b4f95e33800-47ae-f1e2-2f01-53e5a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 3900000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26,
+      "floor_label": "35",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Noble Revolve Ratchada",
+        "zh": "1 Bedroom Condo for sale at Noble Revolve Ratchada",
+        "th": "1 Bedroom Condo for sale at Noble Revolve Ratchada"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 26 sq.m., 3,900,000 THB. Source DotProperty #2b4f95e33800-47ae-f1e2-2f01-53e5a089.",
+        "zh": "出售：1卧，26㎡，3,900,000 泰铢。来源 DotProperty #2b4f95e33800-47ae-f1e2-2f01-53e5a089。",
+        "th": "ขาย: 1 นอน 26 ตร.ม. ราคา 3,900,000 บาท (DotProperty #2b4f95e33800-47ae-f1e2-2f01-53e5a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for sale with a floorsize of 26 squaremeters, located on the 35th floor, at Noble\nRevolve Ratchada building, in the popular Huai Khwang district near MRT Thailand Cultural Centre. Please contact us to schedule a\nviewing.\n\nUnit amenities:\n * Balcony\n * Microwave\n * Refrigerator\n * Stove\n * TV\n\nBuilding features:\n * Building completed in 2017\n * Security cameras\n * Covered car park\n * Beautiful garden area on premise\n * Gym\n * Open car park\n * 24-hours security\n * Relaxing swimming pool\n * Kids play area\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: ",
+        "zh": "来自 DotProperty 挂牌 2b4f95e33800-47ae-f1e2-2f01-53e5a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 2b4f95e33800-47ae-f1e2-2f01-53e5a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-noble-revolve-ratchada-huai-khwang-bangkok_2b4f95e33800-47ae-f1e2-2f01-53e5a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjRiNjQtODlhNy03YjhhLWJmMjUtOTkxNjZiNDBhNWU3XC8xNDQyZjI1NDU5NDIzYzllN2ZjNTU3MDJlMTE3YTAwMzQxYjdlODE5ZWQ1NTk0ZmJiYTMzYzhjMzMzYWFkMmRhLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "2b4f95e33800-47ae-f1e2-2f01-53e5a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-noble-revolve-ratchada-huai-khwang-bangkok_2b4f95e33800-47ae-f1e2-2f01-53e5a089",
+      "source_url_hash": "f34d7198b4a167c423f92bcb53067f4af2d192be1512f20072c843634bb69636",
+      "duplicate_fingerprint": "52a9800571ead33a34fc5c68c6f788d4b0c2786f0cfb07d13bcbcc1b8953d85e",
+      "soft_match_fingerprint": "f8ff5c7c8726355d6ac22421c2b3f5145bb6387cab4a7f180f02076b1ad0e3e4",
+      "_computed_fingerprint": "57260200bb1000f606839c8cae7ddb1c9176f8cc9a9f7d7996b12a0127d76e38"
+    },
+    {
+      "external_ref": "dotproperty-20bc8864d777-3e80-7082-c3cc-9af5a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10400000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 54,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Noble Revolve Ratchada",
+        "zh": "2 Bedroom Condo for sale at Noble Revolve Ratchada",
+        "th": "2 Bedroom Condo for sale at Noble Revolve Ratchada"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 54 sq.m., 10,400,000 THB. Source DotProperty #20bc8864d777-3e80-7082-c3cc-9af5a089.",
+        "zh": "出售：2卧，54㎡，10,400,000 泰铢。来源 DotProperty #20bc8864d777-3e80-7082-c3cc-9af5a089。",
+        "th": "ขาย: 2 นอน 54 ตร.ม. ราคา 10,400,000 บาท (DotProperty #20bc8864d777-3e80-7082-c3cc-9af5a089)"
+      },
+      "description": {
+        "en": "Room for sale at  Noble Revolve RatchadaReady to moveinFully Furnished",
+        "zh": "来自 DotProperty 挂牌 20bc8864d777-3e80-7082-c3cc-9af5a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 20bc8864d777-3e80-7082-c3cc-9af5a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-noble-revolve-ratchada-huai-khwang-bangkok_20bc8864d777-3e80-7082-c3cc-9af5a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/JmIs7rEPLD2TJTvbc5TOVgA7pwI/0x0/unit/6572745/742930034-28019354720994822-2386060650833165156-n.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "20bc8864d777-3e80-7082-c3cc-9af5a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-noble-revolve-ratchada-huai-khwang-bangkok_20bc8864d777-3e80-7082-c3cc-9af5a089",
+      "source_url_hash": "734f381fa4d43c32d1369835e801de5fbcd431393d43afe90d332ff11c56c2ce",
+      "duplicate_fingerprint": "4f35333a4db03ffecedf1852534aa91b2c525e9bfafec163c6c6f4d5d0d9b131",
+      "soft_match_fingerprint": "5267d68b7f6b59297311fe8db3adf56c8c325572f8a16f0f7c0d8fc8295bbddd",
+      "_computed_fingerprint": "f1b7dfa74cc46f4897a15a54ef7ddfb84a2da98e9a87ccb4fcf685e2b41b7af7"
+    },
+    {
+      "external_ref": "dotproperty-93aca8ed9354-c06e-a702-39ef-0194a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 10700000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 54,
+      "floor_label": "13",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for sale at Noble Revolve Ratchada",
+        "zh": "2 Bedroom Condo for sale at Noble Revolve Ratchada",
+        "th": "2 Bedroom Condo for sale at Noble Revolve Ratchada"
+      },
+      "summary": {
+        "en": "Sale: 2BR, 54 sq.m., 10,700,000 THB. Source DotProperty #93aca8ed9354-c06e-a702-39ef-0194a089.",
+        "zh": "出售：2卧，54㎡，10,700,000 泰铢。来源 DotProperty #93aca8ed9354-c06e-a702-39ef-0194a089。",
+        "th": "ขาย: 2 นอน 54 ตร.ม. ราคา 10,700,000 บาท (DotProperty #93aca8ed9354-c06e-a702-39ef-0194a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent / sale with a floorsize of 54 squaremeters, located on the 13th floor, at\nNoble Revolve Ratchada building, in the popular Huai Khwang district near MRT Thailand Cultural Centre. Please contact us to\nschedule a viewing.\n\nUnit amenities:\n * Balcony\n * TV\n\nBuilding features:\n * Building completed in 2017\n * Security cameras\n * Gym\n * 24-hours security\n * Relaxing swimming pool\n * Covered car park\n * Kids play area\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 93aca8ed9354-c06e-a702-39ef-0194a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 93aca8ed9354-c06e-a702-39ef-0194a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-noble-revolve-ratchada-huai-khwang-bangkok_93aca8ed9354-c06e-a702-39ef-0194a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjUwODktYWIwNi03OTJmLWIzOWQtNTQ2MGNiMWZkZjYwXC9iNGY4ZTdiNTI2NzQ1NWNkYzdiYTZlMzJkMTM5ZjcwOWE1NWMzOGU2YzRmYTlhNzM0YzMyMmYzZTdjOTU3MTE5LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "93aca8ed9354-c06e-a702-39ef-0194a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-sale-in-noble-revolve-ratchada-huai-khwang-bangkok_93aca8ed9354-c06e-a702-39ef-0194a089",
+      "source_url_hash": "c2ffda5184a34e790af24c6909d3588dfb9ccd9d813080db908965ae37d72ab6",
+      "duplicate_fingerprint": "05e79c7ad1eee04cb67557791c6528c240ca46ee131b27ada03f00692e1b15a3",
+      "soft_match_fingerprint": "36ca259deee7dd29ef82fb2a94531628486d961f09cd93d2690f21bdcb6e7f20",
+      "_computed_fingerprint": "eac1634d3086aafb04cac5df0bf82695d746f22d2a75c95e27749fb07f56c035"
+    },
+    {
+      "external_ref": "dotproperty-bf0cb38fec53-8290-c732-0451-2514a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 16000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 26,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Noble Revolve Ratchada",
+        "zh": "1 Bedroom Condo for rent at Noble Revolve Ratchada",
+        "th": "1 Bedroom Condo for rent at Noble Revolve Ratchada"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 26 sq.m., 16,000 THB. Source DotProperty #bf0cb38fec53-8290-c732-0451-2514a089.",
+        "zh": "出租：1卧，26㎡，16,000 泰铢。来源 DotProperty #bf0cb38fec53-8290-c732-0451-2514a089。",
+        "th": "เช่า: 1 นอน 26 ตร.ม. ราคา 16,000 บาท (DotProperty #bf0cb38fec53-8290-c732-0451-2514a089)"
+      },
+      "description": {
+        "en": "Project : Noble Revolve Ratchada\nLocation area:  Ratchadaphisek , Huai Khwang , Huai Khwang , Bangkok 10310\nGPS :  \nStation : MRT-Thailand Cultural Centre \nListing ID : CX-41241 \nFOR RENT : 16,000 ฿ \n\nProperty type : Condo \nNo of floors : 38 \nUsable area : 26 sqm \nNo. of Bedroom 1 Room \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \nLarge lobby\nMail room\nSalt swimming pool\nFitness\nGarden\nAccess Card Control\nCCTV\n24  -hour security system\n\nNearby Facilities : \nmall\nEsplanade Ratchada 300 m.\nRatchada Soi 4 ??350 m.\nRatchada Food Center 500 m.\nRatchada Railway Market 500 m.\nBigC Extra Ratchada 700 m.\nCentral Rama 9 750 m.\nThe Street 850 m.\nTesco Lotus 1 km.\nFortune Town 1 km.\nBoonthavorn Ratchadaphisek 4 km.\nChokchai Market 4 7.5 km.\nOffice building And government offices\n\nAIA Capital Center 220 m.\nTrue Tower 230 m.\nThe Stock Exchange of Thailand 280 m.\nRS Tower 450 m.\nG Tower 1 km.\nThailand Cultural Center 1.2 km.\nCyber ??World Tower 1.3 km.\nSchool\n\nTriam Udom Suksa Phatthanakan Ratchada 1.2 m.\nSt. Dominic School 2.3 km.\nSWU, Prasarnmit University 3.7 km.\nWattana College 4.5 km.\nhospital\n\nRama 9 Hospital 2.1 km.\nPiyaw",
+        "zh": "来自 DotProperty 挂牌 bf0cb38fec53-8290-c732-0451-2514a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty bf0cb38fec53-8290-c732-0451-2514a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-noble-revolve-ratchada-huai-khwang-bangkok_bf0cb38fec53-8290-c732-0451-2514a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU4NDctODQ1OS03NjJkLTkwNzEtNjRkYmExNmVkOWFlXC81MzBiOWU5MGJkYzI2Y2QzNDQ0NGRkMDM1YTI1ZWZjMWMyZTFjZGU2MzRlZTQ3ZjNlNzYyZDc4Yjc1YzI3N2U1LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "bf0cb38fec53-8290-c732-0451-2514a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-noble-revolve-ratchada-huai-khwang-bangkok_bf0cb38fec53-8290-c732-0451-2514a089",
+      "source_url_hash": "ce2c49f374fb4c2b1b9eeafd30da5cf2ab777bffd857aaf0b79305ec25d25fc5",
+      "duplicate_fingerprint": "4fadccb02501d59ad4f10eceac75c7ecad9a3b8e9fee8a01a3c2c67a1454623b",
+      "soft_match_fingerprint": "2b05ceab7c6bff5659a38d587664021511c94debc6656813d8c2aef6dfff0655",
+      "_computed_fingerprint": "dcd3055df1db3692af826cec787390f96e2a388ba02dcbf7056b0f4e333a7b9d"
+    },
+    {
+      "external_ref": "dotproperty-44d82d2ed7bc-ccd1-4682-dfdd-f764a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 14000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 23,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Noble Revolve Ratchada",
+        "zh": "1 Bedroom Condo for rent at Noble Revolve Ratchada",
+        "th": "1 Bedroom Condo for rent at Noble Revolve Ratchada"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 23 sq.m., 14,000 THB. Source DotProperty #44d82d2ed7bc-ccd1-4682-dfdd-f764a089.",
+        "zh": "出租：1卧，23㎡，14,000 泰铢。来源 DotProperty #44d82d2ed7bc-ccd1-4682-dfdd-f764a089。",
+        "th": "เช่า: 1 นอน 23 ตร.ม. ราคา 14,000 บาท (DotProperty #44d82d2ed7bc-ccd1-4682-dfdd-f764a089)"
+      },
+      "description": {
+        "en": "Project : Noble Revolve Ratchada\nLocation area:  Ratchadaphisek , Huai Khwang , Huai Khwang , Bangkok 10310\nGPS :  \nStation : MRT-Thailand Cultural Centre \nListing ID : CX-101604 \nFOR RENT : 14,000 ฿ \n\nProperty type : Condo \nNo of floors : 38 \nUsable area : 23 sqm \nNo. of Bedroom Studio \nNo. of Bathroom : 1 Room \nOther :  \nParking : 0 \nDirection : 0\nFurniture : \n-Fully furnished\nCommon Facilities : \nLarge lobby\nMail room\nSalt swimming pool\nFitness\nGarden\nAccess Card Control\nCCTV\n24  -hour security system\n\nNearby Facilities : \nmall\nEsplanade Ratchada 300 m.\nRatchada Soi 4 ??350 m.\nRatchada Food Center 500 m.\nRatchada Railway Market 500 m.\nBigC Extra Ratchada 700 m.\nCentral Rama 9 750 m.\nThe Street 850 m.\nTesco Lotus 1 km.\nFortune Town 1 km.\nBoonthavorn Ratchadaphisek 4 km.\nChokchai Market 4 7.5 km.\nOffice building And government offices\n\nAIA Capital Center 220 m.\nTrue Tower 230 m.\nThe Stock Exchange of Thailand 280 m.\nRS Tower 450 m.\nG Tower 1 km.\nThailand Cultural Center 1.2 km.\nCyber ??World Tower 1.3 km.\nSchool\n\nTriam Udom Suksa Phatthanakan Ratchada 1.2 m.\nSt. Dominic School 2.3 km.\nSWU, Prasarnmit University 3.7 km.\nWattana College 4.5 km.\nhospital\n\nRama 9 Hospital 2.1 km.\nPiya",
+        "zh": "来自 DotProperty 挂牌 44d82d2ed7bc-ccd1-4682-dfdd-f764a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 44d82d2ed7bc-ccd1-4682-dfdd-f764a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-noble-revolve-ratchada-huai-khwang-bangkok_44d82d2ed7bc-ccd1-4682-dfdd-f764a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjUzMmEtY2NhYy03MTM1LThjZGQtZGUyY2I3YzcxYzU1XC8xOWM3MDlkMmY5OGUyZGQ1NGVmM2Y2OGE2OTI1Y2RmZDNjYzFkMTVlNGY0MjdkZmU0ZjFhYTFlMzVjMTMyNmVhLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "44d82d2ed7bc-ccd1-4682-dfdd-f764a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-noble-revolve-ratchada-huai-khwang-bangkok_44d82d2ed7bc-ccd1-4682-dfdd-f764a089",
+      "source_url_hash": "822a06ac6cc44484b019c583c57f5f3d5e5fd358f25d741328aef9d221fa1e6e",
+      "duplicate_fingerprint": "8ac0906eee558108e8ca2d222c37ebe7457cbacf87b347f791a00110f725bc10",
+      "soft_match_fingerprint": "e0922deafeefd9c5b07c8120de86b74c0594637086a81bec26ad31afd146f920",
+      "_computed_fingerprint": "123512696348ee3b6315abcb8bcd8e2ccb20d225a884dbb408a2ad7a30df0d54"
+    },
+    {
+      "external_ref": "dotproperty-92bbb7ed6ad6-ca41-2082-d2dd-db24a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 30000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqm": 54,
+      "floor_label": "13",
+      "building_label": null,
+      "project_slug": "noble-revolve-ratchada",
+      "developer_slug": "noble-development",
+      "city_slug": "bangkok",
+      "district_slug": "huai-khwang",
+      "transit_tags": [],
+      "title": {
+        "en": "2 Bedroom Condo for rent at Noble Revolve Ratchada",
+        "zh": "2 Bedroom Condo for rent at Noble Revolve Ratchada",
+        "th": "2 Bedroom Condo for rent at Noble Revolve Ratchada"
+      },
+      "summary": {
+        "en": "Rent: 2BR, 54 sq.m., 30,000 THB. Source DotProperty #92bbb7ed6ad6-ca41-2082-d2dd-db24a089.",
+        "zh": "出租：2卧，54㎡，30,000 泰铢。来源 DotProperty #92bbb7ed6ad6-ca41-2082-d2dd-db24a089。",
+        "th": "เช่า: 2 นอน 54 ตร.ม. ราคา 30,000 บาท (DotProperty #92bbb7ed6ad6-ca41-2082-d2dd-db24a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 2 bedrooms, 2 bathrooms condo for rent with a floorsize of 54 squaremeters, located on the 13th floor, at Noble\nRevolve Ratchada building, in the popular Huai Khwang district near MRT Thailand Cultural Centre. Please contact us to schedule a\nviewing.\n\nUnit amenities:\n * Balcony\n * Microwave\n * Refrigerator\n * Stove\n * TV\n\nBuilding features:\n * Building completed in 2017\n * Security cameras\n * Covered car park\n * Parking space available\n * Beautiful garden area on premise\n * Gym\n * Open car park\n * 24-hours security\n * Relaxing swimming pool\n * Kids play area\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;",
+        "zh": "来自 DotProperty 挂牌 92bbb7ed6ad6-ca41-2082-d2dd-db24a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 92bbb7ed6ad6-ca41-2082-d2dd-db24a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-noble-revolve-ratchada-huai-khwang-bangkok_92bbb7ed6ad6-ca41-2082-d2dd-db24a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU3ZWMtY2M3Yy03MTk3LTg1ZmQtM2NmM2NiMmVlZTcwXC8wYTBlMDc1ODExNjlhMjQ3MDBlMDg2Nzg2ODRhMzg5ZGQ4MTI5MjA2OGU4N2ZhM2Y5NWUwYzEzY2ZkZmMyNmEzLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "92bbb7ed6ad6-ca41-2082-d2dd-db24a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/2-bedroom-condo-for-rent-in-noble-revolve-ratchada-huai-khwang-bangkok_92bbb7ed6ad6-ca41-2082-d2dd-db24a089",
+      "source_url_hash": "99c2d0fdfb8d8b3573b00a4e419bba6d6d6cf2e5b88e9f837d713d2de24077f3",
+      "duplicate_fingerprint": "423a61db6949c013e783a29b456f8c4c1f4c05898d980eda749e3a5839e44823",
+      "soft_match_fingerprint": "c76c8549ad473f07494d38a9591a364c151dab78f453728b5d170337385a3428",
+      "_computed_fingerprint": "897d8746099a69be370c0feaa29793f083f80f95c732871ab557022457a52259"
+    }
+  ]
+}

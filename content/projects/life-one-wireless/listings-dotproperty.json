@@ -1,0 +1,335 @@
+{
+  "project_slug": "life-one-wireless",
+  "collected_at": "2026-07-14",
+  "source": "dotproperty",
+  "project_id": "12338",
+  "search_sale_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=12338",
+  "search_rent_url": "https://www.dotproperty.co.th/en/condos-for-rent/bangkok?projectId=12338",
+  "notes": "DotProperty harvest — verified only when public RealEstateListing ld+json exposes priced offer + listing type. No fabricated fields. Prior sources untouched.",
+  "listings": [
+    {
+      "external_ref": "dotproperty-b021f50709f6-2c9e-1582-915a-c5f4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 7800000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "22",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Life One Wireless",
+        "zh": "1 Bedroom Condo for sale at Life One Wireless",
+        "th": "1 Bedroom Condo for sale at Life One Wireless"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 7,800,000 THB. Source DotProperty #b021f50709f6-2c9e-1582-915a-c5f4a089.",
+        "zh": "出售：1卧，35㎡，7,800,000 泰铢。来源 DotProperty #b021f50709f6-2c9e-1582-915a-c5f4a089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 7,800,000 บาท (DotProperty #b021f50709f6-2c9e-1582-915a-c5f4a089)"
+      },
+      "description": {
+        "en": "Life One Wireless – Modern 1-Bedroom Condo with Stunning City View\nDiscover comfortable city living in this well-designed 1-bedroom condominium at Life One Wireless, located on the 22nd floor with a beautiful city view.\nOffering 36 sq.m. of functional living space, this unit is perfect for professionals, couples, or investors looking for a property in one of Bangkok's most desirable locations. The layout maximizes every square meter, providing a bright living area, a comfortable bedroom, and large windows that bring in natural light while showcasing the vibrant city skyline.\nProperty Details\n\nProject: Life One Wireless\nProperty Type: Condominium\nSize: 36 SQ.M.\nBedroom: 1\nFloor: 22\nView: City View\nAsking Price: THB 7,500,000\n\nEnjoy convenient access to Bangkok's CBD, shopping malls, restaurants, office buildings, and public transportation, making this an excellent choice for both owner-occupiers and investors.\nContact us today to arrange a viewing or request more information.",
+        "zh": "来自 DotProperty 挂牌 b021f50709f6-2c9e-1582-915a-c5f4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty b021f50709f6-2c9e-1582-915a-c5f4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-one-wireless-lumphini-bangkok_b021f50709f6-2c9e-1582-915a-c5f4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/o6rCxg-CSRBuoh_58ohb8iKytKc/0x0/unit/6578691/s-250216463.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "b021f50709f6-2c9e-1582-915a-c5f4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-one-wireless-lumphini-bangkok_b021f50709f6-2c9e-1582-915a-c5f4a089",
+      "source_url_hash": "2179f0daeecb065e3dec1d5a871ee386b691f867d26957816d0ddbc3ff70d851",
+      "duplicate_fingerprint": "0598c4a7bb2b94ece6a4a1f0629ec809950eebac77abeb0b304dce19814de049",
+      "soft_match_fingerprint": "fb2ce1b2304d52964e0d54978f6fb138b7724cdd819cd63030a46a0ec681be1c",
+      "_computed_fingerprint": "ee776cd4d90b9954c60e891cb897eba3c9a260f90a68c69fb279bcac52c247a0"
+    },
+    {
+      "external_ref": "dotproperty-822c206a3bfb-2700-8182-da62-9eb4a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 6290000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Life One Wireless",
+        "zh": "1 Bedroom Condo for sale at Life One Wireless",
+        "th": "1 Bedroom Condo for sale at Life One Wireless"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 35 sq.m., 6,290,000 THB. Source DotProperty #822c206a3bfb-2700-8182-da62-9eb4a089.",
+        "zh": "出售：1卧，35㎡，6,290,000 泰铢。来源 DotProperty #822c206a3bfb-2700-8182-da62-9eb4a089。",
+        "th": "ขาย: 1 นอน 35 ตร.ม. ราคา 6,290,000 บาท (DotProperty #822c206a3bfb-2700-8182-da62-9eb4a089)"
+      },
+      "description": {
+        "en": "\n\nPremium facilities including a swimming pool, For Sale | Life One Wireless\nModern 1-bedroom condominium in one of Bangkok's most prestigious neighborhoods.\nProperty Details\n\n1 Bedroom\n1 Bathroom\n35 sq.m.\n12A Floor\nFunctional layout with comfortable living space\nIdeal for both owner-occupiers and investors\n\nProject Highlights\n\nPrime Wireless Road location in the heart of Bangkok\nClose to BTS Ploenchit\nEasy access to Central Embassy, Central Chidlom, One Bangkok, and Lumphini Park\nfitness center, co-working space, sky lounge, and 24-hour security\n\n\n\nSelling Price: THB 6,290,000\nFor more information or to arrange a viewing, please feel free to contact us.",
+        "zh": "来自 DotProperty 挂牌 822c206a3bfb-2700-8182-da62-9eb4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 822c206a3bfb-2700-8182-da62-9eb4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-one-wireless-lumphini-bangkok_822c206a3bfb-2700-8182-da62-9eb4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/gwUyTSjBY-j7WsrVnNhlDblWHHo/0x0/unit/6582353/line-oa-chat-260714-103004.jpg",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "822c206a3bfb-2700-8182-da62-9eb4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-one-wireless-lumphini-bangkok_822c206a3bfb-2700-8182-da62-9eb4a089",
+      "source_url_hash": "506299346fe1e407b69261658a3448d438f8734b572415df8df3f46d589a90b6",
+      "duplicate_fingerprint": "82b316a7a55c1725c9f5434962b80f2d8d67cf5c9938aec581a09ee5fca00d09",
+      "soft_match_fingerprint": "e472f6b73bef5dc10d207193a8a77317025854953c26d86c89ebe30963fcc13d",
+      "_computed_fingerprint": "4e1e750545e700f7ecac2d620d0f4f90088e26d817cf7f694eab37bffc827725"
+    },
+    {
+      "external_ref": "dotproperty-c31c0d57696b-b72f-f5b2-d046-1f44a089",
+      "listing_type": "sale",
+      "property_type": "condo",
+      "price_thb": 5300000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 37,
+      "floor_label": "3",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for sale at Life One Wireless",
+        "zh": "1 Bedroom Condo for sale at Life One Wireless",
+        "th": "1 Bedroom Condo for sale at Life One Wireless"
+      },
+      "summary": {
+        "en": "Sale: 1BR, 37 sq.m., 5,300,000 THB. Source DotProperty #c31c0d57696b-b72f-f5b2-d046-1f44a089.",
+        "zh": "出售：1卧，37㎡，5,300,000 泰铢。来源 DotProperty #c31c0d57696b-b72f-f5b2-d046-1f44a089。",
+        "th": "ขาย: 1 นอน 37 ตร.ม. ราคา 5,300,000 บาท (DotProperty #c31c0d57696b-b72f-f5b2-d046-1f44a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent / sale with a floorsize of 37 squaremeters, located on the 3rd floor, at Life\nOne Wireless building, in the popular Pathum Wan district near BTS Phloen Chit and near ARL Ratchaprarop. Please contact us to\nschedule a viewing.\n\nBuilding features:\n * Building completed in 2020\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Functional rooms\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 c31c0d57696b-b72f-f5b2-d046-1f44a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty c31c0d57696b-b72f-f5b2-d046-1f44a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-one-wireless-lumphini-bangkok_c31c0d57696b-b72f-f5b2-d046-1f44a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjU1YTgtMzU5Yy03ZTRhLWE3MmUtZTMwMzI0YzlkODZkXC8zNjM4YWY2ZGE2MTNjOGU0MTYwNDQ2MTgwMzc3MWM3MzUxZmZlOWRlOTM2ODRmMWFmZDAxZjEwZTE0YTU5OTQ3LmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "c31c0d57696b-b72f-f5b2-d046-1f44a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-sale-in-life-one-wireless-lumphini-bangkok_c31c0d57696b-b72f-f5b2-d046-1f44a089",
+      "source_url_hash": "7ee5618e067519d7ad761e7378bc8273db4505b65416ae19d05401232a468e88",
+      "duplicate_fingerprint": "edffcd00c94a372cc0e72ad1afc59ae7d34d4bd4736fcb29ffe0e483bee51f1a",
+      "soft_match_fingerprint": "9c90e14f4706635485841398259087cdb45a2bf868afed1cff64540ef93cda5e",
+      "_computed_fingerprint": "3909708eb0bcd7936c6e2c180c48beec8157d99a2e2946a96b8ec07956e545f0"
+    },
+    {
+      "external_ref": "dotproperty-41ff5d59bc6f-22f1-1f92-7796-fbe0b089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 20000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 28,
+      "floor_label": null,
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Life One Wireless",
+        "zh": "1 Bedroom Condo for rent at Life One Wireless",
+        "th": "1 Bedroom Condo for rent at Life One Wireless"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 28 sq.m., 20,000 THB. Source DotProperty #41ff5d59bc6f-22f1-1f92-7796-fbe0b089.",
+        "zh": "出租：1卧，28㎡，20,000 泰铢。来源 DotProperty #41ff5d59bc6f-22f1-1f92-7796-fbe0b089。",
+        "th": "เช่า: 1 นอน 28 ตร.ม. ราคา 20,000 บาท (DotProperty #41ff5d59bc6f-22f1-1f92-7796-fbe0b089)"
+      },
+      "description": {
+        "en": "This property is a 28 SqM condo with 1 bedroom and 1 bathroom that is available for rent. It is part of the Life One Wireless project in Lumphini, Bangkok and was completed in Apr 2020. You can rent this condo long term for ฿20,000 per month.",
+        "zh": "来自 DotProperty 挂牌 41ff5d59bc6f-22f1-1f92-7796-fbe0b089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 41ff5d59bc6f-22f1-1f92-7796-fbe0b089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-one-wireless-lumphini-bangkok_41ff5d59bc6f-22f1-1f92-7796-fbe0b089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://cdn.fazwaz.com/wbr/P3fOSAtezPxafpjK7B4hn5-qhvc/0x0/unit/6443778/img-1812.JPG",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "41ff5d59bc6f-22f1-1f92-7796-fbe0b089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-one-wireless-lumphini-bangkok_41ff5d59bc6f-22f1-1f92-7796-fbe0b089",
+      "source_url_hash": "6c0d507e6cd889ae8fc6167a54d3bfab28bf2be5eb75f84f35165693af8a9e36",
+      "duplicate_fingerprint": "80299bfab2d3244f22dfef057f884879921138b6ec77bb9df69cfd00be9f3990",
+      "soft_match_fingerprint": "5b133e6fbaf8f113ec4ec14b433c8eacf6b1a99388fefd7e8ab6da1874e71ae7",
+      "_computed_fingerprint": "1c8748afe088ca9549c80228eab0529907dbf362db4bbceb91846886463ae450"
+    },
+    {
+      "external_ref": "dotproperty-6b748c8a795d-c9b1-1722-3607-98c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 23000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "34",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Life One Wireless",
+        "zh": "1 Bedroom Condo for rent at Life One Wireless",
+        "th": "1 Bedroom Condo for rent at Life One Wireless"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 23,000 THB. Source DotProperty #6b748c8a795d-c9b1-1722-3607-98c4a089.",
+        "zh": "出租：1卧，35㎡，23,000 泰铢。来源 DotProperty #6b748c8a795d-c9b1-1722-3607-98c4a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 23,000 บาท (DotProperty #6b748c8a795d-c9b1-1722-3607-98c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID 844502\n\n\n1 bedroom, 1 bathroom condo for rent with a floorsize of 35 squaremeters, located on the 34th floor, at Life One Wireless\nbuilding, in the popular Pathum Wan district near BTS Phloen Chit and near ARL Ratchaprarop. Please contact us to schedule a\nviewing.\n\nBuilding features:\n * Building completed in 2020\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Functional rooms\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 6b748c8a795d-c9b1-1722-3607-98c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 6b748c8a795d-c9b1-1722-3607-98c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-one-wireless-lumphini-bangkok_6b748c8a795d-c9b1-1722-3607-98c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTAtMjkzNi03NzI4LThlMGQtYzQwMmYxZDE1MmUzXC8zZjQ3ZWNlODQ4Y2E3ZDFlNDA5MzllYzA1YmVhYzMwMDYwMzRjYmMzMGZmYmJjNTIyYzdlZjM5NmQ2N2E5YzZlLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "6b748c8a795d-c9b1-1722-3607-98c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-one-wireless-lumphini-bangkok_6b748c8a795d-c9b1-1722-3607-98c4a089",
+      "source_url_hash": "c22210d29f8a6b51c7b759137aca51dc92f1cfecdfbe66643842eb2dda3deef3",
+      "duplicate_fingerprint": "8805b1a1c2f9a8fcf3ef65858b8c83ccf53c2b26bb4b3fd2889fd465674f9cf4",
+      "soft_match_fingerprint": "6af582948c44186ff9ea3aed2e8417261117229af8cff2fa52f0c0bfb9c89785",
+      "_computed_fingerprint": "7554bf737eb5d0b8883540a118346dd90aa3367d48c19bb7e29779fcb9c3aa0c"
+    },
+    {
+      "external_ref": "dotproperty-9acd7ff1a6d8-72ef-d6c2-2cb4-58c4a089",
+      "listing_type": "rent",
+      "property_type": "condo",
+      "price_thb": 28000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqm": 35,
+      "floor_label": "29",
+      "building_label": null,
+      "project_slug": "life-one-wireless",
+      "developer_slug": "ap-thailand",
+      "city_slug": "bangkok",
+      "district_slug": "pathum-wan",
+      "transit_tags": [],
+      "title": {
+        "en": "1 Bedroom Condo for rent at Life One Wireless",
+        "zh": "1 Bedroom Condo for rent at Life One Wireless",
+        "th": "1 Bedroom Condo for rent at Life One Wireless"
+      },
+      "summary": {
+        "en": "Rent: 1BR, 35 sq.m., 28,000 THB. Source DotProperty #9acd7ff1a6d8-72ef-d6c2-2cb4-58c4a089.",
+        "zh": "出租：1卧，35㎡，28,000 泰铢。来源 DotProperty #9acd7ff1a6d8-72ef-d6c2-2cb4-58c4a089。",
+        "th": "เช่า: 1 นอน 35 ตร.ม. ราคา 28,000 บาท (DotProperty #9acd7ff1a6d8-72ef-d6c2-2cb4-58c4a089)"
+      },
+      "description": {
+        "en": "PropertyScout ID [hidden phone]\n\n\nFully furnished 1 bedroom, 1 bathroom condo for rent with a floorsize of 35 squaremeters, located on the 29th floor, at Life One\nWireless building, in the popular Pathum Wan district near BTS Phloen Chit and near ARL Ratchaprarop. Please contact us to\nschedule a viewing.\n\nBuilding features:\n * Building completed in 2020\n * Sauna\n * Relaxing swimming pool\n * Gym\n * Security cameras\n * Beautiful garden area on premise\n * Functional rooms\n\n\n\n\nHaven’t found a place you love yet?\n\nOur fast, professional, and multilingual team focuses on residential properties for rent and sell across Thailand in Bangkok,\nPhuket, Pattaya, Hua Hin, Koh Samui, Chiang Mai and many other locations. We are one of the leading real estate agents in Thailand\nand can offer you all available rental and sale units.\n\nContact us today and let us find you the most suitable home or investment property for a great price - at no cost to you.\n\n\n\n\n--- PropertyScout ---\n\n  [hidden url] /&gt;\n  Mobile phone: [hidden phone]\n  Facebook: [hidden url] /&gt;\n  [hidden line]\n  Whatsapp: [hidden phone]\n  Email: [hidden email]",
+        "zh": "来自 DotProperty 挂牌 9acd7ff1a6d8-72ef-d6c2-2cb4-58c4a089。规格与价格取自公开详情页 ld+json。",
+        "th": "แปลงจากประกาศ DotProperty 9acd7ff1a6d8-72ef-d6c2-2cb4-58c4a089 ยึดข้อมูลจากหน้าต้นทาง"
+      },
+      "featured": false,
+      "source": "dotproperty",
+      "listing_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-one-wireless-lumphini-bangkok_9acd7ff1a6d8-72ef-d6c2-2cb4-58c4a089",
+      "source_updated_at": "2027-01-14",
+      "collected_at": "2026-07-14",
+      "source_captured_at": "2026-07-14",
+      "verification_status": "verified",
+      "publish_ready": true,
+      "listing_lifecycle_status": "active",
+      "images": [
+        {
+          "url": "https://img.fazwaz.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3RlclwvMDE5ZjVkMTQtNWVkNy03ZDNjLWFiNzItMWMzZjhhYTJjZGYwXC9jZDdhOTkzMDI3NDdjNzRhZjFjNGU4NjdhYzQwNTRhNzY2MTc3OTJmZjE1OTJmYjZiOWY4NjVjZWVjNTRmMTJkLmpwZWciLCJlZGl0cyI6eyJyb3RhdGUiOm51bGx9fQ==",
+          "role": "cover",
+          "source": "dotproperty",
+          "rights_note": "hotlink"
+        }
+      ],
+      "source_listing_id": "9acd7ff1a6d8-72ef-d6c2-2cb4-58c4a089",
+      "normalized_source_url": "https://www.dotproperty.co.th/en/ads/1-bedroom-condo-for-rent-in-life-one-wireless-lumphini-bangkok_9acd7ff1a6d8-72ef-d6c2-2cb4-58c4a089",
+      "source_url_hash": "1220f2779d2bf59a2dd4a0a338886174eabae3f298c24fe17f91c51948217acc",
+      "duplicate_fingerprint": "d086ea51dd3addcb38d884d1eaeaa64a940d60c8d0689dda8de32cc973112aa4",
+      "soft_match_fingerprint": "e5980f6c69076408dda4467770f5c4011773c62b4f965de995e9ef80d0610fcf",
+      "_computed_fingerprint": "952d80d61819dc754431630be4a0c4f87a4508009321ae0767d7d238b5ea6f83"
+    }
+  ]
+}
