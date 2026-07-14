@@ -1,0 +1,9 @@
+{
+  "project_slug": "kave-town-space",
+  "collected_at": "2026-07-14",
+  "source": "ddproperty",
+  "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Kave%20Town%20Space",
+  "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Kave%20Town%20Space",
+  "notes": "DDproperty harvest — verified only when public detail exposes priced offer + listing type. No fabricated fields. PropertyHub/LivingInsider untouched.",
+  "listings": []
+}

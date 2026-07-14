@@ -1,0 +1,16 @@
+{
+  "dry_run": false,
+  "started_at": "2026-07-14T15:46:24.051Z",
+  "validated": 0,
+  "validation_failed": [],
+  "inserted": 0,
+  "updated": 0,
+  "skipped": 0,
+  "price_history": 0,
+  "source_rows": 0,
+  "events": 0,
+  "errors": [],
+  "projects": [],
+  "finished_at": "2026-07-14T15:46:24.055Z",
+  "note": "No listings-ddproperty.json packages with listings — nothing to import (harvest empty/blocked)."
+}

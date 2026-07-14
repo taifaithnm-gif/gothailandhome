@@ -1,0 +1,9 @@
+{
+  "project_slug": "supalai-elite-phayathai",
+  "collected_at": "2026-07-14",
+  "source": "ddproperty",
+  "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Supalai%20Elite%20Phayathai",
+  "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Supalai%20Elite%20Phayathai",
+  "notes": "DDproperty harvest — verified only when public detail exposes priced offer + listing type. No fabricated fields. PropertyHub/LivingInsider untouched.",
+  "listings": []
+}

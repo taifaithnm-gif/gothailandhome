@@ -1,0 +1,9 @@
+{
+  "project_slug": "xt-huai-khwang",
+  "collected_at": "2026-07-14",
+  "source": "ddproperty",
+  "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=XT%20Huaikwang",
+  "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=XT%20Huaikwang",
+  "notes": "DDproperty harvest — verified only when public detail exposes priced offer + listing type. No fabricated fields. PropertyHub/LivingInsider untouched.",
+  "listings": []
+}

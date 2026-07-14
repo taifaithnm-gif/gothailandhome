@@ -1,0 +1,9 @@
+{
+  "project_slug": "noble-around-ari",
+  "collected_at": "2026-07-14",
+  "source": "ddproperty",
+  "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Noble%20Around%20Ari",
+  "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Noble%20Around%20Ari",
+  "notes": "DDproperty harvest — verified only when public detail exposes priced offer + listing type. No fabricated fields. PropertyHub/LivingInsider untouched.",
+  "listings": []
+}

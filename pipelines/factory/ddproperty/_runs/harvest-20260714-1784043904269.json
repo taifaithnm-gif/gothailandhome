@@ -1,0 +1,36 @@
+{
+  "source": "ddproperty",
+  "dry_run": false,
+  "started_at": "2026-07-14T15:45:02.623Z",
+  "per_project": 2,
+  "blocker": {
+    "type": "cloudflare_or_http",
+    "status": 403,
+    "sample_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Ashton%20Asoke",
+    "title": "Just a moment..."
+  },
+  "projects": [
+    {
+      "slug": "ashton-asoke",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/ashton-asoke/listings-ddproperty.json"
+    }
+  ],
+  "totals": {
+    "projects": 1,
+    "search_pages_ok": 0,
+    "search_pages_blocked": 2,
+    "detail_ids_seen": 0,
+    "detail_blocked": 0,
+    "parsed_ok": 0,
+    "validated": 0,
+    "rejected": 0
+  },
+  "finished_at": "2026-07-14T15:45:04.269Z",
+  "status": "BLOCKED",
+  "status_reason": "DDproperty search/detail pages returned Cloudflare challenges; no priced listings could be validated without fabricating data."
+}
