@@ -1,30 +1,17 @@
 # public/cities
 
 ## Purpose
-
-Public static assets for city-level geography pages (hero images, maps, icons).
+Public static assets for city landing and geography pages (heroes, maps, icons).
 
 ## Allowed files
-
-- Images: `.webp`, `.jpg`, `.png`, `.svg`
+- `.webp`, `.jpg`, `.png`, `.svg`
+- Optional subfolders: `{city-slug}/`
 - This `README.md`
-- Subfolders: `{city-slug}/`
 
-## Naming convention
-
+## Naming rules
 - City slug: lowercase kebab-case (`bangkok`, `phuket`)
-- Files: `{city-slug}-{asset}.{ext}` e.g. `bangkok-hero.webp`
+- Files: `{city-slug}-{asset}.{ext}`
 
-## Owner
-
-Content / SEO team
-
-## Validation rules
-
-- City slug must align with geography taxonomy / area standards
-- No fabricated skyline stock presented as owned photography without attribution
-- Keep hero images optimized for web
-
-## Future usage
-
-City landing pages and SEO social cards.
+## Example
+`bangkok-hero.webp`  
+`phuket/map.svg`

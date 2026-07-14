@@ -16,7 +16,11 @@ export type ContactRecord = {
   phone: string | null;
   whatsapp: string | null;
   line: string | null;
+  /** Public path under `/public`, e.g. `/contact/apple-line.png`. Null = do not render. */
+  line_qr: string | null;
   wechat: string | null;
+  /** Public path under `/public`, e.g. `/contact/apple-wechat.png`. Null = do not render. */
+  wechat_qr: string | null;
   email: string | null;
   availability: I18nText;
   active: boolean;

@@ -19,7 +19,9 @@ Public pages load this file via `src/lib/config/contacts.ts`.
 | `phone`        | String or null                   |
 | `whatsapp`     | String or null                   |
 | `line`         | LINE ID or null                  |
+| `line_qr`      | Public QR path or null (omit UI if null) |
 | `wechat`       | WeChat ID or null                |
+| `wechat_qr`    | Public QR path or null (omit UI if null) |
 | `email`        | String or null                   |
 | `availability` | i18n hours/note                  |
 | `active`       | Publish flag                     |

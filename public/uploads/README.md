@@ -1,30 +1,16 @@
 # public/uploads
 
 ## Purpose
-
-Reserved public path for lightweight, non-sensitive static uploads used in local/dev or explicitly allow-listed public files.
+Reserved public path for lightweight, allow-listed static uploads (prefer object storage in production).
 
 ## Allowed files
-
-- Images and documents explicitly approved for public serving
+- Approved public images/documents only
 - This `README.md`
-- Prefer empty in production repos; real uploads should use object storage
 
-## Naming convention
-
-- `{yyyy}/{mm}/{uuid-or-slug}.{ext}` to avoid collisions
+## Naming rules
+- `{yyyy}/{mm}/{uuid-or-slug}.{ext}`
 - Never use original filenames that contain PII
 
-## Owner
-
-Platform / Backend team
-
-## Validation rules
-
-- Do not commit user PII, contracts, or secrets
-- Production uploads should prefer Supabase Storage / CDN over git-tracked files
-- Virus/content-type checks required before publish when pipeline exists
-
-## Future usage
-
-Dev mirror and rare static exceptions; primary upload pipeline targets managed storage.
+## Example
+`2026/07/a1b2c3d4-cover.webp`  
+`2026/07/partner-flyer.pdf`

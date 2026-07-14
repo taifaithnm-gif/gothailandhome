@@ -15,45 +15,49 @@
   },
   "contacts": [
     {
-      "id": "platform-enquiries",
-      "name": "GoThailandHome Enquiries",
+      "id": "apple",
+      "name": "Apple",
       "role": {
-        "en": "Platform contact",
-        "zh": "平台联系人",
-        "th": "ผู้ติดต่อแพลตฟอร์ม"
+        "en": "Property consultant",
+        "zh": "房产顾问",
+        "th": "ที่ปรึกษาด้านอสังหาริมทรัพย์"
       },
-      "languages": ["en", "zh", "th"],
-      "phone": "+66 2 000 0000",
-      "whatsapp": "+6620000000",
-      "line": "@gothailandhome",
-      "wechat": "gothailandhome",
-      "email": "hello@gothailandhome.com",
+      "languages": ["zh", "en", "th"],
+      "phone": "+66 64 494 8060",
+      "whatsapp": "+66 64 494 8060",
+      "line": null,
+      "line_qr": "/contact/apple-line.png",
+      "wechat": null,
+      "wechat_qr": "/contact/apple-wechat.png",
+      "email": null,
       "availability": {
-        "en": "Mon–Fri 10:00–18:00 (ICT)",
-        "zh": "周一至周五 10:00–18:00（曼谷时间）",
-        "th": "จันทร์–ศุกร์ 10:00–18:00 (ICT)"
+        "en": "Daily by appointment (ICT)",
+        "zh": "预约服务（曼谷时间）",
+        "th": "นัดหมายล่วงหน้า (ICT)"
       },
       "active": true,
       "sort_order": 1
     },
     {
-      "id": "china-desk",
-      "name": "China Desk",
+      "id": "khun-ice",
+      "name": "Khun ICE",
       "role": {
-        "en": "Chinese-speaking support",
-        "zh": "中文咨询",
-        "th": "บริการภาษาจีน"
+        "en": "Property consultant",
+        "zh": "房产顾问",
+        "th": "ที่ปรึกษาด้านอสังหาริมทรัพย์"
       },
-      "languages": ["zh", "en"],
-      "phone": null,
-      "whatsapp": null,
+      "languages": ["th", "en"],
+      "phone": "+66 61 370 6123",
+      "whatsapp": "+66 61 370 6123",
       "line": null,
-      "wechat": "gth-china",
-      "email": "zh@gothailandhome.com",
+      "line_qr": null,
+      "wechat": null,
+      "wechat_qr": null,
+      "email": null,
       "availability": {
-        "en": "Mon–Sat 10:00–19:00 (ICT)",
-        "zh": "周一至周六 10:00–19:00（曼谷时间）",
-        "th": "จันทร์–เสาร์ 10:00–19:00 (ICT)"
+        "en": "Daily by appointment (ICT)",
+        "zh": "预约服务（曼谷时间）",
+        "th": "นัดหมายล่วงหน้า (ICT)"
       },
       "active": true,
       "sort_order": 2

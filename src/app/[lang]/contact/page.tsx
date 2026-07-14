@@ -121,10 +121,32 @@ export default async function ContactPage({
                     {dict.contact.line}: {contact.line}
                   </p>
                 ) : null}
+                {contact.line_qr ? (
+                  <div className="pt-1">
+                    <p className="mb-1">{dict.contact.line}</p>
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={contact.line_qr}
+                      alt={`${contact.name} LINE QR`}
+                      className="h-28 w-28 rounded-md bg-white object-contain p-1"
+                    />
+                  </div>
+                ) : null}
                 {contact.wechat ? (
                   <p>
                     {dict.contact.wechat}: {contact.wechat}
                   </p>
+                ) : null}
+                {contact.wechat_qr ? (
+                  <div className="pt-1">
+                    <p className="mb-1">{dict.contact.wechat}</p>
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={contact.wechat_qr}
+                      alt={`${contact.name} WeChat QR`}
+                      className="h-28 w-28 rounded-md bg-white object-contain p-1"
+                    />
+                  </div>
                 ) : null}
                 {contact.email ? (
                   <p>

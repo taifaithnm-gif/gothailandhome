@@ -1,30 +1,16 @@
 # public/icons
 
 ## Purpose
-
-UI and map icons used across the product (amenities, filters, nav).
+UI and map icons used across filters, amenities, and navigation.
 
 ## Allowed files
-
-- `.svg` preferred; `.png` for raster-only cases
+- `.svg` preferred; `.png` when raster-only
 - This `README.md`
-- Optional sprite sheets if documented
 
-## Naming convention
-
+## Naming rules
 - Lowercase kebab-case: `{category}-{name}.svg`
-- Examples: `amenity-pool.svg`, `transit-bts.svg`, `ui-chevron-right.svg`
+- Prefer monochrome SVGs suitable for `currentColor`
 
-## Owner
-
-Design / Frontend team
-
-## Validation rules
-
-- Prefer monochrome SVGs with `currentColor` where possible
-- Keep viewBox consistent within icon sets
-- Do not commit icon fonts unless approved
-
-## Future usage
-
-Shared icon set for filters, amenity chips, and maps.
+## Example
+`amenity-pool.svg`  
+`transit-bts.svg`
