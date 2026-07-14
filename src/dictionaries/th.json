@@ -165,10 +165,15 @@
     "message": "ข้อความ",
     "submit": "ส่งข้อความ",
     "note": "ยังไม่ได้เชื่อมต่อการส่งแบบฟอร์ม หน้านี้มีไว้สำหรับโครงสร้างเลย์เอาต์และ SEO",
-    "officeTitle": "ที่อยู่สำนักงาน (ตัวอย่าง)",
-    "officeBody": "กรุงเทพฯ ประเทศไทย — ที่อยู่ตัวอย่างสำหรับ MVP",
-    "emailValue": "hello@gothailandhome.com",
-    "phoneValue": "+66 (0)00 000 0000"
+    "officeTitle": "สำนักงาน",
+    "officeBody": "กรุงเทพฯ ประเทศไทย",
+    "role": "บทบาท",
+    "languages": "ภาษา",
+    "phone": "โทรศัพท์",
+    "whatsapp": "WhatsApp",
+    "line": "LINE",
+    "wechat": "WeChat",
+    "availability": "เวลาให้บริการ"
   },
   "footer": {
     "tagline": "อสังหาริมทรัพย์ไทยสำหรับผู้ซื้อ ผู้ขาย และผู้เช่า",

@@ -2,6 +2,12 @@ import { notFound } from "next/navigation";
 
 import { PageShell } from "@/components/layout/page-shell";
 import { isLocale } from "@/config/locales";
+import {
+  formatLanguages,
+  getActiveContacts,
+  getContactsConfiguration,
+  pickI18n,
+} from "@/lib/config/contacts";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata } from "@/lib/i18n/metadata";
 
@@ -27,6 +33,8 @@ export default async function ContactPage({
   if (!isLocale(lang)) notFound();
 
   const dict = await getDictionary(lang);
+  const config = getContactsConfiguration();
+  const contacts = getActiveContacts();
 
   return (
     <PageShell
@@ -78,13 +86,57 @@ export default async function ContactPage({
         <aside className="space-y-4 rounded-2xl bg-[var(--brand-deep)] p-6 text-white sm:p-8">
           <div>
             <h2 className="font-heading text-2xl">
-              {dict.contact.officeTitle}
+              {pickI18n(config.office.title, lang)}
             </h2>
-            <p className="mt-3 text-white/75">{dict.contact.officeBody}</p>
+            <p className="mt-3 text-white/75">
+              {pickI18n(config.office.body, lang)}
+            </p>
           </div>
-          <div className="space-y-1 text-sm text-white/80">
-            <p>{dict.contact.emailValue}</p>
-            <p>{dict.contact.phoneValue}</p>
+          <div className="space-y-4 text-sm text-white/80">
+            {contacts.map((contact) => (
+              <div
+                key={contact.id}
+                className="space-y-1 border-t border-white/15 pt-4 first:border-t-0 first:pt-0"
+              >
+                <p className="font-medium text-white">{contact.name}</p>
+                <p>
+                  {dict.contact.role}: {pickI18n(contact.role, lang)}
+                </p>
+                <p>
+                  {dict.contact.languages}:{" "}
+                  {formatLanguages(contact.languages, lang)}
+                </p>
+                {contact.phone ? (
+                  <p>
+                    {dict.contact.phone}: {contact.phone}
+                  </p>
+                ) : null}
+                {contact.whatsapp ? (
+                  <p>
+                    {dict.contact.whatsapp}: {contact.whatsapp}
+                  </p>
+                ) : null}
+                {contact.line ? (
+                  <p>
+                    {dict.contact.line}: {contact.line}
+                  </p>
+                ) : null}
+                {contact.wechat ? (
+                  <p>
+                    {dict.contact.wechat}: {contact.wechat}
+                  </p>
+                ) : null}
+                {contact.email ? (
+                  <p>
+                    {dict.contact.email}: {contact.email}
+                  </p>
+                ) : null}
+                <p>
+                  {dict.contact.availability}:{" "}
+                  {pickI18n(contact.availability, lang)}
+                </p>
+              </div>
+            ))}
           </div>
         </aside>
       </div>
