@@ -1,41 +1,43 @@
 # SUPABASE_IMPORT_REPORT
 
 **Date:** 2026-07-14  
-**Importer:** `pipelines/factory/livinginsider/import-li-only.mjs`  
-**Safety:** Only selects/updates `properties` where `source = 'livinginsider'`
+**Milestone:** Phase 6 M4 DDproperty Wave 1  
+**Importer:** `pipelines/factory/ddproperty/import-dd-only.mjs`  
+**Safety:** Only selects/updates `properties` where `source = 'ddproperty'`
 
 ## Import result
 
 | Metric | Count |
 |--------|------:|
-| Validated LI listings | 316 |
+| Validated DD listings | **0** |
 | Validation failures | 0 |
-| Inserted | 96 |
-| Updated (LI rows only) | 220 |
-| DB LivingInsider rows after import | **316** |
-| Sale / rent in DB | 200 / 116 |
-| `property_listing_sources` (livinginsider) | 316 |
-| Price history appends (this pass) | (see `import-li-only.json`) |
-| Verification events | 316-path events recorded |
+| Inserted | **0** |
+| Updated | **0** |
+| DB DDproperty rows after import | **0** |
+| `property_listing_sources` (ddproperty) | 0 |
+| Price history / verification events | 0 (nothing to import) |
 
-Evidence: `pipelines/factory/livinginsider/_runs/import-li-only.json`
+Evidence: `pipelines/factory/ddproperty/_runs/import-dd-only.json`
 
-## PropertyHub protection
+Note: harvest returned Cloudflare-blocked empty packages; importer correctly no-oped (`No listings-ddproperty.json packages with listings`).
+
+## Upstream protection
 
 | Check | Result |
 |-------|--------|
 | PropertyHub row count | **617** (unchanged) |
-| Package price match | **617 / 617** |
-| PropertyHub `updated_at` max | Unchanged through LI-only import (`2026-07-14T15:05:56…`) |
+| LivingInsider row count | **316** (unchanged) |
+| PropertyHub `updated_at` max | `2026-07-14T15:05:56.459976+00:00` (frozen) |
+| LivingInsider `updated_at` max | `2026-07-14T15:24:51.273471+00:00` (unchanged by DD import) |
 | Schema migrations this milestone | **None** |
 
-## Provenance reuse
+## Provenance reuse (ready when harvest unblocks)
 
-Per LI listing:
+Per DD listing the importer will write:
 
 - identity fingerprint / soft fingerprint  
 - `property_listing_sources` row  
 - `listing_price_history` on insert/price change  
-- `listing_verification_events` (`livinginsider_import`)
+- `listing_verification_events` (`ddproperty_import`)
 
-No Parent developer/project rewrite during LI-only import (resolve existing `property_projects` by slug only).
+No parent developer/project rewrite (resolve existing `property_projects` by slug only).
