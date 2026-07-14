@@ -3,7 +3,7 @@
 **Final status: PASS**
 
 **Date:** 2026-07-14  
-**Commit:** pending push on `main`  
+**Commit:** `f7074bd`  
 **Constraint preserved:** existing property/project page layouts not redesigned; homepage placeholder replaced with platform homepage  
 **Real inventory only:** no fabricated projects or prices
 
