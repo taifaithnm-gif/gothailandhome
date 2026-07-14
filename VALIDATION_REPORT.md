@@ -1,44 +1,42 @@
 # VALIDATION_REPORT
 
 **Date:** 2026-07-14  
-**Milestone:** Phase 6 M6 DotProperty Wave 1
+**Milestone:** Phase 6 M7 FazWaz Wave 1
 
 ## Data validation
 
 | Check | Result |
 |-------|--------|
-| DotProperty harvest | **PASS** (192 validated · 96 sale / 96 rent) |
-| DotProperty package ↔ DB | PASS (**192 / 192**, **0** price drift) |
-| PropertyHub row count | PASS **617** |
-| LivingInsider row count | PASS **316** |
-| PH / LI price drift (sample 120) | PASS **0** |
-| Hard duplicates (DotProperty) | PASS **0** |
-| Auto-merge | PASS **0** (26 soft candidates open only) |
+| FazWaz harvest | **PASS** (190 validated · 94 sale / 96 rent) |
+| FazWaz package ↔ DB | PASS (**190 / 190**, **0** drift) |
+| PropertyHub | PASS **617** · **0** drift |
+| LivingInsider | PASS **316** · **0** drift |
+| DotProperty | PASS **192** · **0** drift |
+| Hard duplicates (FazWaz) | PASS **0** |
+| Auto-merge | PASS **0** (70 soft candidates open) |
 | Schema change | PASS **none** |
-| DDproperty / Hipflat adapters | PASS untouched · still BLOCKED · 0 rows |
+| `fazwaz.com` Cloudflare | Documented blocked · harvest used public `fazwaz.co.th` only |
 
 ## Engineering checks
 
 | Check | Result |
 |-------|--------|
-| ESLint | PASS — 0 errors (2 pre-existing warnings) |
-| TypeScript via `next build` | PASS |
-| `next build` | PASS |
-| `npm test` | **N/A** — no `test` script in `package.json` |
-| Supabase reconciliation | PASS (PH 617 · LI 316 · DD 0 · HF 0 · DP 192) |
+| ESLint | PASS — 0 errors |
+| `next build` / TypeScript | PASS |
+| `npm test` | **N/A** — no test script |
+| Supabase reconciliation | PASS |
 
-## Stop conditions
+## Combined inventory
 
-| Condition | Triggered? |
-|-----------|------------|
-| Cloudflare / access-control block on DotProperty | **No** (site public) |
-| Verified PH/LI data at risk | **No** |
-| Schema change required | No |
-| Auto-merge performed | No |
-| Fabricated listings | No |
+| Source | Count |
+|--------|------:|
+| PropertyHub | 617 |
+| LivingInsider | 316 |
+| DotProperty | 192 |
+| FazWaz | 190 |
+| **Total active** | **1315** |
+| DDproperty / Hipflat | 0 (BLOCKED adapters preserved) |
 
 ## Status
 
 **PASS — ready to commit and push**
-
-Combined verified inventory after M6: PropertyHub 617 + LivingInsider 316 + DotProperty 192 = **1125** (plus blocked DD/HF adapters with 0 rows).
