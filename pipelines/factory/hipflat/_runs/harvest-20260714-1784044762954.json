@@ -1,0 +1,324 @@
+{
+  "source": "hipflat",
+  "dry_run": false,
+  "started_at": "2026-07-14T15:58:37.265Z",
+  "per_project": 4,
+  "blocker": {
+    "type": "cloudflare_or_http",
+    "status": 403,
+    "sample_url": "https://www.hipflat.co.th/en/search/sale/bangkok/condo?q=Ashton%20Asoke",
+    "title": "Just a moment..."
+  },
+  "projects": [
+    {
+      "slug": "ashton-asoke",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/ashton-asoke/listings-hipflat.json"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/casa-condo-asoke-dindaeng/listings-hipflat.json"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/chapter-one-midtown-ladprao-24/listings-hipflat.json"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/ideo-mobi-sukhumvit-66/listings-hipflat.json"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/ideo-q-sukhumvit-36/listings-hipflat.json"
+    },
+    {
+      "slug": "kave-town-space",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/kave-town-space/listings-hipflat.json"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/knightsbridge-prime-sathorn/listings-hipflat.json"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/life-asoke-rama-9/listings-hipflat.json"
+    },
+    {
+      "slug": "life-ladprao",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/life-ladprao/listings-hipflat.json"
+    },
+    {
+      "slug": "life-one-wireless",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/life-one-wireless/listings-hipflat.json"
+    },
+    {
+      "slug": "m-silom",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/m-silom/listings-hipflat.json"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/maestro-03-ratchada-rama-9/listings-hipflat.json"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/modiz-rhyme-ramkhamhaeng/listings-hipflat.json"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/niche-pride-thonglor-phetchaburi/listings-hipflat.json"
+    },
+    {
+      "slug": "noble-around-ari",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/noble-around-ari/listings-hipflat.json"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/noble-revolve-ratchada/listings-hipflat.json"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/rhythm-ekkamai/listings-hipflat.json"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/supalai-elite-phayathai/listings-hipflat.json"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/supalai-lite-sathorn-charoenrat/listings-hipflat.json"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/supalai-oriental-sukhumvit-39/listings-hipflat.json"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/supalai-veranda-rama-9/listings-hipflat.json"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-base-sukhumvit-77/listings-hipflat.json"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-esse-asoke/listings-hipflat.json"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-esse-sukhumvit-36/listings-hipflat.json"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-line-sukhumvit-101/listings-hipflat.json"
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-livin-ramkhamhaeng/listings-hipflat.json"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-lofts-silom/listings-hipflat.json"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-privacy-rama-9/listings-hipflat.json"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-room-sathorn-taksin/listings-hipflat.json"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/the-room-sukhumvit-62/listings-hipflat.json"
+    },
+    {
+      "slug": "whizdom-essence",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/whizdom-essence/listings-hipflat.json"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/xt-huai-khwang/listings-hipflat.json"
+    },
+    {
+      "slug": "xt-phayathai",
+      "status": "blocked_or_empty",
+      "ids_found": 0,
+      "listings": 0,
+      "rejected": 0,
+      "rejected_sample": [],
+      "package": "/Users/jun/AI-Workspace/Projects/GoThailandHome/content/projects/xt-phayathai/listings-hipflat.json"
+    }
+  ],
+  "totals": {
+    "projects": 33,
+    "search_pages_ok": 0,
+    "search_pages_blocked": 66,
+    "detail_ids_seen": 0,
+    "detail_blocked": 0,
+    "parsed_ok": 0,
+    "validated": 0,
+    "rejected": 0
+  },
+  "finished_at": "2026-07-14T15:59:22.954Z",
+  "status": "BLOCKED",
+  "status_reason": "Hipflat search/detail pages returned Cloudflare challenges; no priced listings could be validated without fabricating data or bypassing Cloudflare."
+}
