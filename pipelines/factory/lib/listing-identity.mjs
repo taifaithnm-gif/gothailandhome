@@ -47,6 +47,15 @@ export function deriveSourceListingId(source, externalRef, listingUrl) {
     if (fromUrl) return fromUrl[1];
     return null;
   }
+  if (key === "ddproperty") {
+    const fromRef = String(externalRef || "").match(
+      /(?:^|-)(?:ddproperty-)?(\d{6,})$/i,
+    );
+    if (fromRef) return fromRef[1];
+    const fromUrl = String(listingUrl || "").match(/(\d{6,})(?:\/?$|\?)/);
+    if (fromUrl) return fromUrl[1];
+    return null;
+  }
   if (externalRef) {
     const stripped = String(externalRef).replace(new RegExp(`^${key}-`, "i"), "");
     return stripped || String(externalRef);
@@ -85,6 +94,9 @@ export function normalizeSourceUrl(source, listingUrl, sourceListingId = null) {
   }
   if (key === "livinginsider" && sourceListingId) {
     return `https://www.livinginsider.com/re/en_${sourceListingId}`;
+  }
+  if (key === "ddproperty" && sourceListingId) {
+    return `https://www.ddproperty.com/en/listing/${sourceListingId}`;
   }
   u.hostname = u.hostname.toLowerCase();
   // Collapse default ports

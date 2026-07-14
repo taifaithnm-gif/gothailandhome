@@ -1,0 +1,269 @@
+{
+  "generated_at": "2026-07-14T15:44:07.202Z",
+  "projects": {
+    "ashton-asoke": {
+      "project_slug": "ashton-asoke",
+      "name_en": "Ashton Asoke",
+      "district_slug": "watthana",
+      "developer_slug": "ananda-development",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Ashton%20Asoke",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Ashton%20Asoke"
+    },
+    "casa-condo-asoke-dindaeng": {
+      "project_slug": "casa-condo-asoke-dindaeng",
+      "name_en": "Casa Condo Asoke-Dindaeng",
+      "district_slug": "din-daeng",
+      "developer_slug": "quality-houses",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Casa%20Condo%20Asoke-Dindaeng",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Casa%20Condo%20Asoke-Dindaeng"
+    },
+    "chapter-one-midtown-ladprao-24": {
+      "project_slug": "chapter-one-midtown-ladprao-24",
+      "name_en": "Chapter One Midtown Ladprao 24",
+      "district_slug": "lat-phrao",
+      "developer_slug": "pruksa-holding",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Chapter%20One%20Midtown%20Ladprao%2024",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Chapter%20One%20Midtown%20Ladprao%2024"
+    },
+    "ideo-mobi-sukhumvit-66": {
+      "project_slug": "ideo-mobi-sukhumvit-66",
+      "name_en": "IDEO MOBI Sukhumvit 66",
+      "district_slug": "phra-khanong",
+      "developer_slug": "ananda-development",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=IDEO%20MOBI%20Sukhumvit%2066",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=IDEO%20MOBI%20Sukhumvit%2066"
+    },
+    "ideo-q-sukhumvit-36": {
+      "project_slug": "ideo-q-sukhumvit-36",
+      "name_en": "IDEO Q Sukhumvit 36",
+      "district_slug": "khlong-toei",
+      "developer_slug": "ananda-development",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=IDEO%20Q%20Sukhumvit%2036",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=IDEO%20Q%20Sukhumvit%2036"
+    },
+    "kave-town-space": {
+      "project_slug": "kave-town-space",
+      "name_en": "Kave Town Space",
+      "district_slug": "bang-khen",
+      "developer_slug": "assetwise",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Kave%20Town%20Space",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Kave%20Town%20Space"
+    },
+    "knightsbridge-prime-sathorn": {
+      "project_slug": "knightsbridge-prime-sathorn",
+      "name_en": "Knightsbridge Prime Sathorn",
+      "district_slug": "yan-nawa",
+      "developer_slug": "origin-property",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Knightsbridge%20Prime%20Sathorn",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Knightsbridge%20Prime%20Sathorn"
+    },
+    "life-asoke-rama-9": {
+      "project_slug": "life-asoke-rama-9",
+      "name_en": "Life Asoke Rama 9",
+      "district_slug": "huai-khwang",
+      "developer_slug": "ap-thailand",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Life%20Asoke%20Rama%209",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Life%20Asoke%20Rama%209"
+    },
+    "life-ladprao": {
+      "project_slug": "life-ladprao",
+      "name_en": "Life Ladprao",
+      "district_slug": "chatuchak",
+      "developer_slug": "ap-thailand",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Life%20Ladprao",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Life%20Ladprao"
+    },
+    "life-one-wireless": {
+      "project_slug": "life-one-wireless",
+      "name_en": "Life One Wireless",
+      "district_slug": "pathum-wan",
+      "developer_slug": "ap-thailand",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Life%20One%20Wireless",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Life%20One%20Wireless"
+    },
+    "m-silom": {
+      "project_slug": "m-silom",
+      "name_en": "M Silom",
+      "district_slug": "bang-rak",
+      "developer_slug": "major-development",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=M%20Silom",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=M%20Silom"
+    },
+    "maestro-03-ratchada-rama-9": {
+      "project_slug": "maestro-03-ratchada-rama-9",
+      "name_en": "Maestro 03 Ratchada-Rama 9",
+      "district_slug": "huai-khwang",
+      "developer_slug": "major-development",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Maestro%2003%20Ratchada-Rama%209",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Maestro%2003%20Ratchada-Rama%209"
+    },
+    "modiz-rhyme-ramkhamhaeng": {
+      "project_slug": "modiz-rhyme-ramkhamhaeng",
+      "name_en": "Modiz Rhyme Ramkhamhaeng",
+      "district_slug": "bang-kapi",
+      "developer_slug": "assetwise",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Modiz%20Rhyme%20Ramkhamhaeng",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Modiz%20Rhyme%20Ramkhamhaeng"
+    },
+    "niche-pride-thonglor-phetchaburi": {
+      "project_slug": "niche-pride-thonglor-phetchaburi",
+      "name_en": "Niche Pride Thonglor-Phetchaburi",
+      "district_slug": "watthana",
+      "developer_slug": "sena-development",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Niche%20Pride%20Thonglor-Phetchaburi",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Niche%20Pride%20Thonglor-Phetchaburi"
+    },
+    "noble-around-ari": {
+      "project_slug": "noble-around-ari",
+      "name_en": "Noble Around Ari",
+      "district_slug": "phaya-thai",
+      "developer_slug": "noble-development",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Noble%20Around%20Ari",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Noble%20Around%20Ari"
+    },
+    "noble-revolve-ratchada": {
+      "project_slug": "noble-revolve-ratchada",
+      "name_en": "Noble Revolve Ratchada",
+      "district_slug": "huai-khwang",
+      "developer_slug": "noble-development",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Noble%20Revolve%20Ratchada",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Noble%20Revolve%20Ratchada"
+    },
+    "rhythm-ekkamai": {
+      "project_slug": "rhythm-ekkamai",
+      "name_en": "Rhythm Ekkamai",
+      "district_slug": "watthana",
+      "developer_slug": "ap-thailand",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Rhythm%20Ekkamai",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Rhythm%20Ekkamai"
+    },
+    "supalai-elite-phayathai": {
+      "project_slug": "supalai-elite-phayathai",
+      "name_en": "Supalai Elite Phayathai",
+      "district_slug": "ratchathewi",
+      "developer_slug": "supalai",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Supalai%20Elite%20Phayathai",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Supalai%20Elite%20Phayathai"
+    },
+    "supalai-lite-sathorn-charoenrat": {
+      "project_slug": "supalai-lite-sathorn-charoenrat",
+      "name_en": "Supalai Lite Sathorn-Charoenrat",
+      "district_slug": "yan-nawa",
+      "developer_slug": "supalai",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Supalai%20Lite%20Sathorn-Charoenrat",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Supalai%20Lite%20Sathorn-Charoenrat"
+    },
+    "supalai-oriental-sukhumvit-39": {
+      "project_slug": "supalai-oriental-sukhumvit-39",
+      "name_en": "Supalai Oriental Sukhumvit 39",
+      "district_slug": "watthana",
+      "developer_slug": "supalai",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Supalai%20Oriental%20Sukhumvit%2039",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Supalai%20Oriental%20Sukhumvit%2039"
+    },
+    "supalai-veranda-rama-9": {
+      "project_slug": "supalai-veranda-rama-9",
+      "name_en": "Supalai Veranda Rama 9",
+      "district_slug": "huai-khwang",
+      "developer_slug": "supalai",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Supalai%20Veranda%20Rama%209",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Supalai%20Veranda%20Rama%209"
+    },
+    "the-base-sukhumvit-77": {
+      "project_slug": "the-base-sukhumvit-77",
+      "name_en": "THE BASE Sukhumvit 77",
+      "district_slug": "suan-luang",
+      "developer_slug": "sansiri",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=THE%20BASE%20Sukhumvit%2077",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=THE%20BASE%20Sukhumvit%2077"
+    },
+    "the-esse-asoke": {
+      "project_slug": "the-esse-asoke",
+      "name_en": "The Esse Asoke",
+      "district_slug": "watthana",
+      "developer_slug": "sc-asset",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=The%20Esse%20Asoke",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=The%20Esse%20Asoke"
+    },
+    "the-esse-sukhumvit-36": {
+      "project_slug": "the-esse-sukhumvit-36",
+      "name_en": "The Esse Sukhumvit 36",
+      "district_slug": "khlong-toei",
+      "developer_slug": "sc-asset",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=The%20Esse%20Sukhumvit%2036",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=The%20Esse%20Sukhumvit%2036"
+    },
+    "the-line-sukhumvit-101": {
+      "project_slug": "the-line-sukhumvit-101",
+      "name_en": "THE LINE Sukhumvit 101",
+      "district_slug": "phra-khanong",
+      "developer_slug": "sansiri",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=THE%20LINE%20Sukhumvit%20101",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=THE%20LINE%20Sukhumvit%20101"
+    },
+    "the-livin-ramkhamhaeng": {
+      "project_slug": "the-livin-ramkhamhaeng",
+      "name_en": "The Livin Ramkhamhaeng",
+      "district_slug": "bang-kapi",
+      "developer_slug": "risland-thailand",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=The%20Livin%20Ramkhamhaeng",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=The%20Livin%20Ramkhamhaeng"
+    },
+    "the-lofts-silom": {
+      "project_slug": "the-lofts-silom",
+      "name_en": "The Lofts Silom",
+      "district_slug": "bang-rak",
+      "developer_slug": "raimon-land",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=The%20Lofts%20Silom",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=The%20Lofts%20Silom"
+    },
+    "the-privacy-rama-9": {
+      "project_slug": "the-privacy-rama-9",
+      "name_en": "The Privacy Rama 9",
+      "district_slug": "suan-luang",
+      "developer_slug": "pruksa-holding",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=The%20Privacy%20Rama%209",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=The%20Privacy%20Rama%209"
+    },
+    "the-room-sathorn-taksin": {
+      "project_slug": "the-room-sathorn-taksin",
+      "name_en": "The Room Sathorn-Taksin",
+      "district_slug": "khlong-san",
+      "developer_slug": "land-and-houses",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=The%20Room%20Sathorn-Taksin",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=The%20Room%20Sathorn-Taksin"
+    },
+    "the-room-sukhumvit-62": {
+      "project_slug": "the-room-sukhumvit-62",
+      "name_en": "The Room Sukhumvit 62",
+      "district_slug": "phra-khanong",
+      "developer_slug": "land-and-houses",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=The%20Room%20Sukhumvit%2062",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=The%20Room%20Sukhumvit%2062"
+    },
+    "whizdom-essence": {
+      "project_slug": "whizdom-essence",
+      "name_en": "Whizdom Essence Sukhumvit",
+      "district_slug": "phra-khanong",
+      "developer_slug": "mqdc",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=Whizdom%20Essence%20Sukhumvit",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=Whizdom%20Essence%20Sukhumvit"
+    },
+    "xt-huai-khwang": {
+      "project_slug": "xt-huai-khwang",
+      "name_en": "XT Huaikwang",
+      "district_slug": "huai-khwang",
+      "developer_slug": "sansiri",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=XT%20Huaikwang",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=XT%20Huaikwang"
+    },
+    "xt-phayathai": {
+      "project_slug": "xt-phayathai",
+      "name_en": "XT Phayathai",
+      "district_slug": "ratchathewi",
+      "developer_slug": "sansiri",
+      "search_sale_url": "https://www.ddproperty.com/en/property-for-sale?market=residential&freetext=XT%20Phayathai",
+      "search_rent_url": "https://www.ddproperty.com/en/property-for-rent?market=residential&freetext=XT%20Phayathai"
+    }
+  }
+}
