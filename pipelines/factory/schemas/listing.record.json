@@ -39,6 +39,16 @@
       "enum": ["unverified", "verified", "stale", "delisted"]
     },
     "duplicate_fingerprint": { "type": "string", "minLength": 8 },
+    "source_listing_id": { "type": "string" },
+    "normalized_source_url": { "type": "string" },
+    "source_url_hash": { "type": "string" },
+    "soft_match_fingerprint": { "type": "string" },
+    "last_seen_at": { "type": "string" },
+    "last_verified_at": { "type": "string" },
+    "listing_lifecycle_status": {
+      "type": "string",
+      "enum": ["active", "inactive", "delisted", "unknown"]
+    },
     "source_captured_at": { "type": "string" },
     "publish_ready": { "type": "boolean" },
     "collected_at": { "type": "string" },

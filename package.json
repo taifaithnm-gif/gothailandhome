@@ -14,6 +14,7 @@
     "db:migrate:phase4": "NODE_TLS_REJECT_UNAUTHORIZED=0 node scripts/apply-migration.mjs supabase/migrations/20260714183000_project_content_system.sql",
     "db:migrate:phase5": "NODE_TLS_REJECT_UNAUTHORIZED=0 node scripts/apply-migration.mjs supabase/migrations/20260714190000_platform_geography.sql",
     "db:migrate:phase6-m1": "NODE_TLS_REJECT_UNAUTHORIZED=0 node scripts/apply-migration.mjs supabase/migrations/20260714200000_factory_m1_foundation.sql",
+    "db:migrate:phase6-m2-harden": "NODE_TLS_REJECT_UNAUTHORIZED=0 node scripts/apply-migration.mjs supabase/migrations/20260714220000_wave1_hardening_multisource.sql",
     "db:seed:geography": "NODE_TLS_REJECT_UNAUTHORIZED=0 node scripts/apply-migration.mjs supabase/seed_platform_geography.sql",
     "content:import": "node pipelines/condo-import/import.mjs",
     "factory": "node pipelines/factory/cli.mjs",
@@ -26,7 +27,11 @@
     "factory:resume": "node pipelines/factory/cli.mjs resume",
     "factory:rollback": "node pipelines/factory/cli.mjs rollback",
     "db:verify-workflow": "node scripts/verify-admin-workflow.mjs",
-    "factory:harvest:ph": "node pipelines/factory/harvest-propertyhub-wave1.mjs"
+    "factory:harvest:ph": "node pipelines/factory/harvest-propertyhub-wave1.mjs",
+    "factory:audit:wave1": "node pipelines/factory/audit-wave1-listings.mjs",
+    "factory:audit:packages": "node pipelines/factory/audit-package-completeness.mjs",
+    "factory:investigate:empty": "node pipelines/factory/investigate-empty-projects.mjs",
+    "factory:backfill:wave1-identity": "node pipelines/factory/backfill-wave1-identity.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.6.0",
