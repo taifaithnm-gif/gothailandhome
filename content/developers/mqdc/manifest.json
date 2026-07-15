@@ -18,6 +18,16 @@
       "type": "facebook",
       "name": "MQDC Facebook",
       "url": "https://www.facebook.com/mqdc.thailand"
+    },
+    {
+      "type": "official_developer",
+      "name": "mqdc official (established_year_source)",
+      "url": "https://mqdc.com/about"
+    },
+    {
+      "type": "official_developer",
+      "name": "mqdc official (headquarters_source)",
+      "url": "https://mqdc.com/index.php/well-being/767/dtgo-launches-social-report"
     }
   ],
   "name": {
@@ -31,20 +41,20 @@
     "th": "บริษัท แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น จำกัด"
   },
   "description": {
-    "en": "Magnolia Quality Development Corporation Limited (MQDC) publishes corporate information on mqdc.com. This package does not claim SET listing without a SET factsheet citation.",
-    "zh": "Magnolia Quality Development Corporation Limited（MQDC）信息以 mqdc.com 为准。未引用 SET factsheet 前不声称上市。",
-    "th": "บริษัท แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น จำกัด (MQDC) อ้างอิง mqdc.com ไม่ระบุการจดทะเบียน SET หากไม่มี SET factsheet"
+    "en": "MQDC (Magnolia Quality Development Corporation) develops residences and theme projects under the mission “For All Well-Being”, emphasizing research and innovation for sustainable living. Official About page describes more than three decades of development in Thailand.",
+    "zh": "MQDC（Magnolia Quality Development Corporation）在“For All Well-Being”使命下开发住宅与主题项目，强调可持续生活研究与创新。官方 About 页描述其在泰国逾三十年的发展。",
+    "th": "MQDC พัฒนาที่อยู่อาศัยและโครงการแนวคิดภายใต้พันธกิจ For All Well-Being โดยมุ่งนวัตกรรมเพื่อการใช้ชีวิตอย่างยั่งยืน ตามหน้า About อย่างเป็นทางการ"
   },
   "company_profile": {
-    "en": "Magnolia Quality Development Corporation Limited (MQDC) publishes corporate information on mqdc.com. This package does not claim SET listing without a SET factsheet citation.",
-    "zh": "Magnolia Quality Development Corporation Limited（MQDC）信息以 mqdc.com 为准。未引用 SET factsheet 前不声称上市。",
-    "th": "บริษัท แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น จำกัด (MQDC) อ้างอิง mqdc.com ไม่ระบุการจดทะเบียน SET หากไม่มี SET factsheet"
+    "en": "MQDC (Magnolia Quality Development Corporation) develops residences and theme projects under the mission “For All Well-Being”, emphasizing research and innovation for sustainable living. Official About page describes more than three decades of development in Thailand.",
+    "zh": "MQDC（Magnolia Quality Development Corporation）在“For All Well-Being”使命下开发住宅与主题项目，强调可持续生活研究与创新。官方 About 页描述其在泰国逾三十年的发展。",
+    "th": "MQDC พัฒนาที่อยู่อาศัยและโครงการแนวคิดภายใต้พันธกิจ For All Well-Being โดยมุ่งนวัตกรรมเพื่อการใช้ชีวิตอย่างยั่งยืน ตามหน้า About อย่างเป็นทางการ"
   },
-  "established_year": null,
+  "established_year": 1994,
   "headquarters": {
-    "en": "Bangkok, Thailand",
-    "zh": "泰国曼谷",
-    "th": "กรุงเทพฯ ประเทศไทย"
+    "en": "695, Moo 12, Bang Kaeo, Bang Phli, Samut Prakan 10540",
+    "zh": "695, Moo 12, Bang Kaeo, Bang Phli, Samut Prakan 10540",
+    "th": "695 หมู่ 12 บางแก้ว บางพลี สมุทรปราการ 10540"
   },
   "listed_company": null,
   "major_brands": [
@@ -118,5 +128,63 @@
   "project_slugs": [
     "the-forestias",
     "whizdom-essence"
-  ]
+  ],
+  "logo_source": {
+    "status": "placeholder",
+    "path": "/developers/mqdc/logo.svg",
+    "official_logo_url": null,
+    "note": "Placeholder SVG only. Replace with rights-cleared official logo export. Do not treat this glyph as the registered trademark.",
+    "verified_at": "2026-07-15"
+  },
+  "established_year_provenance": {
+    "source_type": "official_developer_website",
+    "url": "https://mqdc.com/about",
+    "evidence": "MILESTONE section heading 1994 on MQDC About page",
+    "verified_at": "2026-07-15"
+  },
+  "headquarters_provenance": {
+    "source_type": "official_developer_website",
+    "url": "https://mqdc.com/index.php/well-being/767/dtgo-launches-social-report",
+    "verified_at": "2026-07-15"
+  },
+  "company_profile_provenance": {
+    "source_type": "official_developer_website",
+    "url": "https://mqdc.com/about",
+    "verified_at": "2026-07-15"
+  },
+  "completed_projects": [
+    {
+      "slug": "whizdom-essence",
+      "name": {
+        "en": "Whizdom Essence Sukhumvit"
+      },
+      "classification_source": "official_developer_website",
+      "evidence": "Milestone 2016 Whizdom Essence Sukhumvit on mqdc.com/about"
+    }
+  ],
+  "active_projects": [
+    {
+      "slug": "the-forestias",
+      "name": {
+        "en": "The Forestias"
+      },
+      "classification_source": "official_developer_website",
+      "evidence": "Milestone 2021 The Forestias on mqdc.com/about; delivery still ongoing per MQDC news"
+    }
+  ],
+  "unclassified_projects": [],
+  "developer_master": {
+    "phase": "7",
+    "verified_at": "2026-07-15",
+    "rule": "official_developer_websites_only_for_official_fields",
+    "fields_touched": [
+      "established_year",
+      "established_year_source",
+      "headquarters",
+      "headquarters_source",
+      "company_profile",
+      "company_profile_source",
+      "official_portfolio_notes"
+    ]
+  }
 }

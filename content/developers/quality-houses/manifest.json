@@ -108,5 +108,41 @@
   },
   "project_slugs": [
     "casa-condo-asoke-dindaeng"
-  ]
+  ],
+  "logo_source": {
+    "status": "placeholder",
+    "path": "/developers/quality-houses/logo.svg",
+    "official_logo_url": null,
+    "note": "Placeholder SVG only. Replace with rights-cleared official logo export. Do not treat this glyph as the registered trademark.",
+    "verified_at": "2026-07-15"
+  },
+  "headquarters_provenance": {
+    "source_type": "package_city_level_or_set_note",
+    "verified_at": "2026-07-15",
+    "street_level": false,
+    "note": "City-level or SET-noted HQ in package; confirm on official website before treating as street-level official."
+  },
+  "company_profile_provenance": {
+    "source_type": "package_existing_prose",
+    "verified_at": "2026-07-15",
+    "note": "Existing profile text may cite SET; Phase 7 did not fully replace from official About page."
+  },
+  "completed_projects": [
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "name": {
+        "en": "Casa Condo Asoke-Dindaeng"
+      },
+      "classification_source": "factory_project_package_status",
+      "factory_status": "completed"
+    }
+  ],
+  "active_projects": [],
+  "unclassified_projects": [],
+  "developer_master": {
+    "phase": "7",
+    "verified_at": "2026-07-15",
+    "rule": "official_developer_websites_only_for_official_fields",
+    "fields_touched": []
+  }
 }

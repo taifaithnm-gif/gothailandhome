@@ -18,6 +18,16 @@
       "type": "facebook",
       "name": "Sansiri Facebook",
       "url": "https://www.facebook.com/SansiriPLC"
+    },
+    {
+      "type": "official_developer",
+      "name": "sansiri official (established_year_source)",
+      "url": "https://assets.sansiri.com/o77site/pdf/investor/siri-ar-2024-en.pdf"
+    },
+    {
+      "type": "official_developer",
+      "name": "sansiri official (headquarters_source)",
+      "url": "https://sustainability.sansiri.com/en/document/viewer/62/sustainability-report-2019"
     }
   ],
   "name": {
@@ -31,20 +41,20 @@
     "th": "บริษัท แสนสิริ จำกัด (มหาชน)"
   },
   "description": {
-    "en": "Sansiri Public Company Limited develops residential properties including houses and condominiums. Company establish date on the SET factsheet is 28/09/1984; listed on SET under ticker SIRI.",
-    "zh": "Sansiri Public Company Limited 从事住宅（含独栋与公寓）开发。SET 公司概况记载成立日为 1984-09-28，股票代码 SIRI。",
-    "th": "บริษัท แสนสิริ จำกัด (มหาชน) พัฒนาที่อยู่อาศัย รวมบ้านและคอนโด SET ระบุวันก่อตั้ง 28/09/1984 ชื่อย่อหลักทรัพย์ SIRI"
+    "en": "Sansiri Public Company Limited develops residential properties (houses and condominiums) and related property services. Official Sansiri sustainability materials state the company was founded in 1984 and is listed on SET as SIRI.",
+    "zh": "Sansiri Public Company Limited 开发住宅及相关物业服务。官方永续报告记载公司成立于 1984 年，SET 代码 SIRI。",
+    "th": "บริษัท แสนสิริ จำกัด (มหาชน) พัฒนาที่อยู่อาศัยและบริการอสังหาฯ เอกสารอย่างเป็นทางการระบุก่อตั้งปี 2527 และจดทะเบียน SET ชื่อย่อ SIRI"
   },
   "company_profile": {
-    "en": "Sansiri Public Company Limited develops residential properties including houses and condominiums. Company establish date on the SET factsheet is 28/09/1984; listed on SET under ticker SIRI.",
-    "zh": "Sansiri Public Company Limited 从事住宅（含独栋与公寓）开发。SET 公司概况记载成立日为 1984-09-28，股票代码 SIRI。",
-    "th": "บริษัท แสนสิริ จำกัด (มหาชน) พัฒนาที่อยู่อาศัย รวมบ้านและคอนโด SET ระบุวันก่อตั้ง 28/09/1984 ชื่อย่อหลักทรัพย์ SIRI"
+    "en": "Sansiri Public Company Limited develops residential properties (houses and condominiums) and related property services. Official Sansiri sustainability materials state the company was founded in 1984 and is listed on SET as SIRI.",
+    "zh": "Sansiri Public Company Limited 开发住宅及相关物业服务。官方永续报告记载公司成立于 1984 年，SET 代码 SIRI。",
+    "th": "บริษัท แสนสิริ จำกัด (มหาชน) พัฒนาที่อยู่อาศัยและบริการอสังหาฯ เอกสารอย่างเป็นทางการระบุก่อตั้งปี 2527 และจดทะเบียน SET ชื่อย่อ SIRI"
   },
   "established_year": 1984,
   "headquarters": {
-    "en": "Bangkok, Thailand",
-    "zh": "泰国曼谷",
-    "th": "กรุงเทพฯ ประเทศไทย"
+    "en": "59 Soi Rim Khlong Phra Khanong, Phra Khanong Nuea, Watthana, Bangkok 10110",
+    "zh": "59 Soi Rim Khlong Phra Khanong, Phra Khanong Nuea, Watthana, Bangkok 10110",
+    "th": "59 ซอยริมคลองพระโขนง แขวงพระโขนงเหนือ เขตวัฒนา กรุงเทพฯ 10110"
   },
   "listed_company": {
     "exchange": "SET",
@@ -160,5 +170,86 @@
     "the-line-sukhumvit-101",
     "xt-huai-khwang",
     "xt-phayathai"
-  ]
+  ],
+  "logo_source": {
+    "status": "placeholder",
+    "path": "/developers/sansiri/logo.svg",
+    "official_logo_url": null,
+    "note": "Placeholder SVG only. Replace with rights-cleared official logo export. Do not treat this glyph as the registered trademark.",
+    "verified_at": "2026-07-15"
+  },
+  "established_year_provenance": {
+    "source_type": "official_developer_website",
+    "url": "https://assets.sansiri.com/o77site/pdf/investor/siri-ar-2024-en.pdf",
+    "evidence": "Annual Report 2024 on Sansiri assets CDN: Establishment Since 1984",
+    "verified_at": "2026-07-15"
+  },
+  "headquarters_provenance": {
+    "source_type": "official_developer_website",
+    "url": "https://sustainability.sansiri.com/en/document/viewer/62/sustainability-report-2019",
+    "verified_at": "2026-07-15"
+  },
+  "company_profile_provenance": {
+    "source_type": "official_developer_website",
+    "url": "https://sustainability.sansiri.com/en/document/viewer/62/sustainability-report-2019",
+    "verified_at": "2026-07-15"
+  },
+  "completed_projects": [
+    {
+      "slug": "the-base-sukhumvit-77",
+      "name": {
+        "en": "THE BASE Sukhumvit 77"
+      },
+      "classification_source": "factory_project_package_status",
+      "factory_status": "completed"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "name": {
+        "en": "THE LINE Sukhumvit 101"
+      },
+      "classification_source": "factory_project_package_status",
+      "factory_status": "completed"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "name": {
+        "en": "XT Huaikwang"
+      },
+      "classification_source": "factory_project_package_status",
+      "factory_status": "completed"
+    },
+    {
+      "slug": "xt-phayathai",
+      "name": {
+        "en": "XT Phayathai"
+      },
+      "classification_source": "factory_project_package_status",
+      "factory_status": "completed"
+    }
+  ],
+  "active_projects": [],
+  "unclassified_projects": [
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "name": {
+        "en": "CONDO U Sukhumvit 62-1"
+      },
+      "classification_source": "factory_project_package_status",
+      "factory_status": null
+    }
+  ],
+  "developer_master": {
+    "phase": "7",
+    "verified_at": "2026-07-15",
+    "rule": "official_developer_websites_only_for_official_fields",
+    "fields_touched": [
+      "established_year",
+      "established_year_source",
+      "headquarters",
+      "headquarters_source",
+      "company_profile",
+      "company_profile_source"
+    ]
+  }
 }
