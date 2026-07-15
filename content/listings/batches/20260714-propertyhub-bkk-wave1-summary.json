@@ -1,0 +1,129 @@
+{
+  "collected_at": "2026-07-14",
+  "dry_run": true,
+  "per_type": 6,
+  "projects": 17,
+  "ok": 0,
+  "listings_total": 0,
+  "results": [
+    {
+      "slug": "ascott-embassy-sathorn",
+      "district": "sathon",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "district": "phra-khanong",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "ideo-rama-9",
+      "district": "huai-khwang",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "district": "bang-kapi",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "district": "sathon",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "noble-beat",
+      "district": "watthana",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "one-bangkok",
+      "district": "pathum-wan",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "district": "phra-khanong",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "district": "pathum-wan",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "singha-complex",
+      "district": "huai-khwang",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "the-forestias",
+      "district": "bang-na",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "vyva-thonglor",
+      "district": "watthana",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "district": "dusit",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "district": "thon-buri",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "district": "bang-sue",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "district": "bang-khen",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "district": "bang-phlat",
+      "status": "empty",
+      "reason": "no priced listings parsed",
+      "listings": 0
+    }
+  ]
+}
