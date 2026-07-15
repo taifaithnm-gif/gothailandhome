@@ -276,6 +276,65 @@ export type InquiryRow = {
   created_at: string;
 };
 
+export type MarketplaceLeadType =
+  | "find_home"
+  | "list_property"
+  | "viewing_request"
+  | "developer_partnership"
+  | "agency_partnership"
+  | "platform_support";
+
+export type MarketplaceLeadStatus =
+  | "new"
+  | "qualified"
+  | "assigned"
+  | "contacted"
+  | "viewing_scheduled"
+  | "negotiating"
+  | "won"
+  | "lost"
+  | "spam"
+  | "archived";
+
+export type MarketplaceReviewStatus =
+  | "not_applicable"
+  | "pending_review"
+  | "approved"
+  | "rejected";
+
+export type MarketplaceLeadRow = {
+  id: string;
+  lead_type: MarketplaceLeadType;
+  status: MarketplaceLeadStatus;
+  review_status: MarketplaceReviewStatus;
+  source: string;
+  assigned_to: string | null;
+  locale: string;
+  name: string | null;
+  email: string | null;
+  phone: string | null;
+  line_id: string | null;
+  whatsapp: string | null;
+  message: string | null;
+  payload: Record<string, unknown>;
+  property_id: string | null;
+  project_id: string | null;
+  consent: boolean;
+  consent_at: string | null;
+  created_at: string;
+  updated_at: string;
+};
+
+export type MarketplaceLeadActivityRow = {
+  id: string;
+  lead_id: string;
+  activity_type: string;
+  note: string | null;
+  actor: string | null;
+  metadata: Record<string, unknown>;
+  created_at: string;
+};
+
 type TableDef<Row, Insert, Update> = {
   Row: Row;
   Insert: Insert;
@@ -385,6 +444,18 @@ export type Database = {
         Partial<InquiryRow> & Pick<InquiryRow, "name" | "email" | "message">,
         Partial<InquiryRow>
       >;
+      marketplace_leads: TableDef<
+        MarketplaceLeadRow,
+        Partial<MarketplaceLeadRow> &
+          Pick<MarketplaceLeadRow, "lead_type" | "consent">,
+        Partial<MarketplaceLeadRow>
+      >;
+      marketplace_lead_activities: TableDef<
+        MarketplaceLeadActivityRow,
+        Partial<MarketplaceLeadActivityRow> &
+          Pick<MarketplaceLeadActivityRow, "lead_id" | "activity_type">,
+        Partial<MarketplaceLeadActivityRow>
+      >;
     };
     Views: Record<string, never>;
     Functions: Record<string, never>;
@@ -393,6 +464,9 @@ export type Database = {
       property_type: PropertyType;
       property_status: PropertyStatus;
       inquiry_status: "new" | "reviewed" | "closed";
+      marketplace_lead_type: MarketplaceLeadType;
+      marketplace_lead_status: MarketplaceLeadStatus;
+      marketplace_review_status: MarketplaceReviewStatus;
     };
     CompositeTypes: Record<string, never>;
   };
