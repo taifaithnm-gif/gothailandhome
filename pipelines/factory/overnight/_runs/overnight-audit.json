@@ -1,0 +1,238 @@
+{
+  "generated_at": "2026-07-15T12:44:06.387Z",
+  "milestone": "Phase 6 M8 Multi-Source Overnight Consolidation Audit",
+  "sources": {
+    "propertyhub": {
+      "status": "imported",
+      "adapter_exists": true,
+      "harvest_status": "PASS",
+      "harvest_reason": null,
+      "package_file": "listings.json",
+      "package_listings": 617,
+      "package_sale": 308,
+      "package_rent": 309,
+      "db_listings": 617,
+      "db_updated_at_max": "2026-07-14T15:05:56.459976+00:00",
+      "expected_frozen_updated_at": "2026-07-14T15:05:56.459976+00:00"
+    },
+    "livinginsider": {
+      "status": "imported",
+      "adapter_exists": true,
+      "harvest_status": null,
+      "harvest_reason": null,
+      "package_file": "listings-livinginsider.json",
+      "package_listings": 316,
+      "package_sale": 200,
+      "package_rent": 116,
+      "db_listings": 316,
+      "db_updated_at_max": "2026-07-14T15:24:51.273471+00:00",
+      "expected_frozen_updated_at": null
+    },
+    "ddproperty": {
+      "status": "implemented_but_blocked",
+      "adapter_exists": true,
+      "harvest_status": "BLOCKED",
+      "harvest_reason": "DDproperty search/detail pages returned Cloudflare challenges; no priced listings could be validated without fabricating data.",
+      "package_file": "listings-ddproperty.json",
+      "package_listings": 0,
+      "package_sale": 0,
+      "package_rent": 0,
+      "db_listings": 0,
+      "db_updated_at_max": null,
+      "expected_frozen_updated_at": null
+    },
+    "hipflat": {
+      "status": "implemented_but_blocked",
+      "adapter_exists": true,
+      "harvest_status": "BLOCKED",
+      "harvest_reason": "Hipflat search/detail pages returned Cloudflare challenges; no priced listings could be validated without fabricating data or bypassing Cloudflare.",
+      "package_file": "listings-hipflat.json",
+      "package_listings": 0,
+      "package_sale": 0,
+      "package_rent": 0,
+      "db_listings": 0,
+      "db_updated_at_max": null,
+      "expected_frozen_updated_at": null
+    },
+    "dotproperty": {
+      "status": "imported",
+      "adapter_exists": true,
+      "harvest_status": "PASS",
+      "harvest_reason": {
+        "type": "cloudflare_or_http",
+        "status": 404,
+        "sample_url": "https://www.dotproperty.co.th/en/condos-for-sale/bangkok?projectId=11949",
+        "title": "Page Not Found | DotProperty"
+      },
+      "package_file": "listings-dotproperty.json",
+      "package_listings": 192,
+      "package_sale": 96,
+      "package_rent": 96,
+      "db_listings": 192,
+      "db_updated_at_max": "2026-07-14T16:25:47.603428+00:00",
+      "expected_frozen_updated_at": null
+    },
+    "fazwaz": {
+      "status": "imported",
+      "adapter_exists": true,
+      "harvest_status": "PASS",
+      "harvest_reason": null,
+      "package_file": "listings-fazwaz.json",
+      "package_listings": 190,
+      "package_sale": 94,
+      "package_rent": 96,
+      "db_listings": 190,
+      "db_updated_at_max": "2026-07-14T16:41:04.104352+00:00",
+      "expected_frozen_updated_at": null
+    }
+  },
+  "provenance": {
+    "propertyhub": {
+      "checked": 617,
+      "ok": 617,
+      "missing": {
+        "source_listing_id": 0,
+        "listing_url": 0,
+        "project_id": 0,
+        "price_thb": 0,
+        "duplicate_fingerprint": 0,
+        "provenance_source_row": 0,
+        "price_history": 0,
+        "verification_event": 0,
+        "listing_status": 0
+      },
+      "package_price_checked": 617,
+      "package_price_drift": 0
+    },
+    "livinginsider": {
+      "checked": 316,
+      "ok": 316,
+      "missing": {
+        "source_listing_id": 0,
+        "listing_url": 0,
+        "project_id": 0,
+        "price_thb": 0,
+        "duplicate_fingerprint": 0,
+        "provenance_source_row": 0,
+        "price_history": 0,
+        "verification_event": 0,
+        "listing_status": 0
+      },
+      "package_price_checked": 316,
+      "package_price_drift": 0
+    },
+    "ddproperty": {
+      "checked": 0,
+      "ok": 0,
+      "missing": {}
+    },
+    "hipflat": {
+      "checked": 0,
+      "ok": 0,
+      "missing": {}
+    },
+    "dotproperty": {
+      "checked": 192,
+      "ok": 192,
+      "missing": {
+        "source_listing_id": 0,
+        "listing_url": 0,
+        "project_id": 0,
+        "price_thb": 0,
+        "duplicate_fingerprint": 0,
+        "provenance_source_row": 0,
+        "price_history": 0,
+        "verification_event": 0,
+        "listing_status": 0
+      },
+      "package_price_checked": 192,
+      "package_price_drift": 0
+    },
+    "fazwaz": {
+      "checked": 190,
+      "ok": 190,
+      "missing": {
+        "source_listing_id": 0,
+        "listing_url": 0,
+        "project_id": 0,
+        "price_thb": 0,
+        "duplicate_fingerprint": 0,
+        "provenance_source_row": 0,
+        "price_history": 0,
+        "verification_event": 0,
+        "listing_status": 0
+      },
+      "package_price_checked": 190,
+      "package_price_drift": 0
+    }
+  },
+  "candidates": {
+    "total_rows": 191,
+    "open": 191,
+    "by_reason": {
+      "soft_match_fingerprint": 67,
+      "cross_source_soft_match": 28,
+      "cross_source_soft_match_dotproperty_propertyhub": 23,
+      "cross_source_soft_match_dotproperty_livinginsider": 3,
+      "cross_source_soft_match_fazwaz_propertyhub": 57,
+      "cross_source_soft_match_fazwaz_dotproperty": 8,
+      "cross_source_soft_match_fazwaz_livinginsider": 5
+    },
+    "auto_merged": 0,
+    "note": "Candidates consolidated for reporting only — never auto-merged"
+  },
+  "defects": {
+    "hard_duplicates": [],
+    "project_mapping_conflicts": [],
+    "district_mismatches": [],
+    "malformed_prices_or_areas": [],
+    "missing_evidence": [],
+    "partial_imports": [],
+    "orphan_source_rows": []
+  },
+  "drift": {
+    "propertyhub": {
+      "package_price_checked": 617,
+      "package_price_drift": 0,
+      "frozen_updated_at_expected": "2026-07-14T15:05:56.459976+00:00",
+      "frozen_updated_at_actual": "2026-07-14T15:05:56.459976+00:00",
+      "frozen_hold": true
+    },
+    "livinginsider": {
+      "package_price_checked": 316,
+      "package_price_drift": 0,
+      "frozen_updated_at_expected": null,
+      "frozen_updated_at_actual": "2026-07-14T15:24:51.273471+00:00",
+      "frozen_hold": true
+    },
+    "dotproperty": {
+      "package_price_checked": 192,
+      "package_price_drift": 0,
+      "frozen_updated_at_expected": null,
+      "frozen_updated_at_actual": "2026-07-14T16:25:47.603428+00:00",
+      "frozen_hold": true
+    },
+    "fazwaz": {
+      "package_price_checked": 190,
+      "package_price_drift": 0,
+      "frozen_updated_at_expected": null,
+      "frozen_updated_at_actual": "2026-07-14T16:41:04.104352+00:00",
+      "frozen_hold": true
+    }
+  },
+  "totals": {
+    "imported_by_source": {
+      "propertyhub": 617,
+      "livinginsider": 316,
+      "ddproperty": 0,
+      "hipflat": 0,
+      "dotproperty": 192,
+      "fazwaz": 190
+    },
+    "imported_total": 1315,
+    "open_candidates": 191,
+    "hard_duplicates": 0,
+    "package_price_drift_total": 0,
+    "schema_changes": 0
+  }
+}
