@@ -1,0 +1,13 @@
+{
+  "url": "http://127.0.0.1:3012/en/properties/kave-town-space-rent-livinginsider-2615264",
+  "formFactor": "mobile",
+  "performance": 0.75,
+  "accessibility": 1,
+  "LCP": "5.1 s",
+  "FCP": "3.0 s",
+  "CLS": "0",
+  "TBT": "0 ms",
+  "a11yFails": [
+    "bf-cache"
+  ]
+}
