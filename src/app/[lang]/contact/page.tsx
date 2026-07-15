@@ -1,11 +1,13 @@
 import { notFound } from "next/navigation";
 
 import { PageShell } from "@/components/layout/page-shell";
+import { PlatformSupportForm } from "@/components/marketplace/platform-support-form";
 import { isLocale } from "@/config/locales";
 import {
+  assertApplePlatformCustomerSuccessOnly,
   formatLanguages,
-  getActiveContacts,
   getContactsConfiguration,
+  getPlatformCustomerSuccessContacts,
   pickI18n,
 } from "@/lib/config/contacts";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
@@ -32,56 +34,19 @@ export default async function ContactPage({
   const { lang } = await params;
   if (!isLocale(lang)) notFound();
 
+  assertApplePlatformCustomerSuccessOnly();
+
   const dict = await getDictionary(lang);
   const config = getContactsConfiguration();
-  const contacts = getActiveContacts();
+  const contacts = getPlatformCustomerSuccessContacts();
 
   return (
     <PageShell
       title={dict.contact.title}
       subtitle={dict.contact.subtitle}
-      notice={dict.common.placeholderNotice}
     >
       <div className="grid gap-6 lg:grid-cols-[1.2fr_0.8fr]">
-        <form className="space-y-4 rounded-2xl border border-[var(--brand-line)] bg-white p-6 sm:p-8">
-          <label className="flex flex-col gap-2 text-sm">
-            <span className="font-medium text-[var(--brand-deep)]">
-              {dict.contact.name}
-            </span>
-            <input
-              type="text"
-              name="name"
-              className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
-            />
-          </label>
-          <label className="flex flex-col gap-2 text-sm">
-            <span className="font-medium text-[var(--brand-deep)]">
-              {dict.contact.email}
-            </span>
-            <input
-              type="email"
-              name="email"
-              className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
-            />
-          </label>
-          <label className="flex flex-col gap-2 text-sm">
-            <span className="font-medium text-[var(--brand-deep)]">
-              {dict.contact.message}
-            </span>
-            <textarea
-              name="message"
-              rows={5}
-              className="rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 py-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
-            />
-          </label>
-          <button
-            type="button"
-            className="inline-flex h-11 items-center justify-center rounded-xl bg-[var(--brand)] px-5 text-sm font-medium text-white transition hover:bg-[var(--brand-deep)]"
-          >
-            {dict.contact.submit}
-          </button>
-          <p className="text-sm text-stone-500">{dict.contact.note}</p>
-        </form>
+        <PlatformSupportForm locale={lang} dict={dict} />
 
         <aside className="space-y-4 rounded-2xl bg-[var(--brand-deep)] p-6 text-white sm:p-8">
           <div>
@@ -91,6 +56,10 @@ export default async function ContactPage({
             <p className="mt-3 text-white/75">
               {pickI18n(config.office.body, lang)}
             </p>
+            <p className="mt-4 text-sm text-[var(--brand-gold)]">
+              {dict.contact.platformSection}
+            </p>
+            <p className="mt-2 text-sm text-white/70">{dict.contact.note}</p>
           </div>
           <div className="space-y-4 text-sm text-white/80">
             {contacts.map((contact) => (

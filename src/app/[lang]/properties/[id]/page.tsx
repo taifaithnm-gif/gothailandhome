@@ -1,11 +1,12 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { PageShell } from "@/components/layout/page-shell";
+import { ListingContactCard } from "@/components/property/listing-contact-card";
 import { PropertyGrid } from "@/components/property/property-grid";
 import { isLocale } from "@/config/locales";
 import {
   formatPrice,
+  getAgentById,
   getPublishedPropertyBySlug,
   listPublishedProperties,
 } from "@/lib/data/properties";
@@ -13,7 +14,6 @@ import { getDictionary } from "@/lib/i18n/get-dictionary";
 import {
   buildPageMetadata,
   fillTemplate,
-  localePath,
   propertyTypeLabel,
 } from "@/lib/i18n/metadata";
 
@@ -51,6 +51,9 @@ export default async function PropertyDetailPage({
   if (!property) notFound();
 
   const dict = await getDictionary(lang);
+  const agent = property.agentId
+    ? await getAgentById(property.agentId)
+    : null;
   const similar = (await listPublishedProperties())
     .filter((item) => item.id !== property.id)
     .slice(0, 3);
@@ -59,7 +62,6 @@ export default async function PropertyDetailPage({
     <PageShell
       title={property.title[lang]}
       subtitle={property.location[lang]}
-      notice={dict.common.placeholderNotice}
     >
       <div className="grid gap-8 lg:grid-cols-[1.4fr_0.8fr]">
         <div className="space-y-6">
@@ -159,13 +161,14 @@ export default async function PropertyDetailPage({
                 </dd>
               </div>
             </dl>
-            <Link
-              href={localePath(lang, "/contact")}
-              className="mt-6 inline-flex h-11 w-full items-center justify-center rounded-xl bg-[var(--brand)] text-sm font-medium text-white transition hover:bg-[var(--brand-deep)]"
-            >
-              {dict.property.enquire}
-            </Link>
           </div>
+
+          <ListingContactCard
+            locale={lang}
+            dict={dict}
+            propertyId={property.id}
+            agent={agent}
+          />
         </aside>
       </div>
 

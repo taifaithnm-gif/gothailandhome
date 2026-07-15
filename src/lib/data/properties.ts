@@ -402,6 +402,21 @@ export async function listAgents() {
   return data ?? [];
 }
 
+export async function getAgentById(agentId: string) {
+  if (!hasSupabaseEnv() || !agentId) return null;
+  const supabase = await createClient();
+  const { data, error } = await supabase
+    .from("agents")
+    .select("*")
+    .eq("id", agentId)
+    .maybeSingle();
+  if (error) {
+    console.error("getAgentById", error.message);
+    return null;
+  }
+  return data;
+}
+
 export async function listProjects() {
   if (!hasSupabaseEnv()) return [];
   const supabase = await createClient();

@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated_at": "2026-07-14",
+  "version": 2,
+  "updated_at": "2026-07-15",
   "office": {
     "title": {
       "en": "Office",
@@ -17,10 +17,11 @@
     {
       "id": "apple",
       "name": "Apple",
+      "contact_role": "platform_customer_success",
       "role": {
-        "en": "Property consultant",
-        "zh": "房产顾问",
-        "th": "ที่ปรึกษาด้านอสังหาริมทรัพย์"
+        "en": "Platform Customer Success",
+        "zh": "平台客户成功",
+        "th": "ฝ่ายลูกค้าสัมพันธ์แพลตฟอร์ม"
       },
       "languages": ["zh", "en", "th"],
       "phone": "+66 64 494 8060",
@@ -41,10 +42,11 @@
     {
       "id": "khun-ice",
       "name": "Khun ICE",
+      "contact_role": "platform_customer_success",
       "role": {
-        "en": "Property consultant",
-        "zh": "房产顾问",
-        "th": "ที่ปรึกษาด้านอสังหาริมทรัพย์"
+        "en": "Platform Customer Success",
+        "zh": "平台客户成功",
+        "th": "ฝ่ายลูกค้าสัมพันธ์แพลตฟอร์ม"
       },
       "languages": ["th", "en"],
       "phone": "+66 61 370 6123",
