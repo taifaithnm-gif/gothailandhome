@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+import { ListingMediaFrame } from "@/components/property/listing-media-frame";
 import type { Locale } from "@/config/locales";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { localePath, propertyTypeLabel } from "@/lib/i18n/metadata";
@@ -11,6 +12,8 @@ type PropertyCardProps = {
   dict: Dictionary;
   property: PropertyView;
   className?: string;
+  /** First-row cards may set priority for LCP. */
+  imagePriority?: boolean;
 };
 
 export function PropertyCard({
@@ -18,6 +21,7 @@ export function PropertyCard({
   dict,
   property,
   className,
+  imagePriority = false,
 }: PropertyCardProps) {
   return (
     <article
@@ -26,17 +30,17 @@ export function PropertyCard({
         className,
       )}
     >
-      <div className="relative aspect-[16/10] overflow-hidden bg-[linear-gradient(135deg,#0a5c54_0%,#147a6f_45%,#c9a227_160%)]">
-        {property.coverUrl ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
-            src={property.coverUrl}
-            alt={property.title[locale]}
-            className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]"
-          />
-        ) : (
-          <div className="absolute inset-0 [background-image:radial-gradient(circle_at_20%_20%,white_0,transparent_45%),radial-gradient(circle_at_80%_10%,#e8b84a_0,transparent_35%)] opacity-30" />
-        )}
+      <div className="relative">
+        <ListingMediaFrame
+          locale={locale}
+          dict={dict}
+          title={property.title[locale]}
+          propertyType={property.type}
+          imageUrl={property.coverUrl}
+          imageSource={property.source}
+          priority={imagePriority}
+          showSource={Boolean(property.coverUrl && property.source)}
+        />
         {property.featured ? (
           <span className="absolute top-3 left-3 rounded-md bg-white/90 px-2 py-1 text-xs font-medium text-[var(--brand-deep)]">
             {dict.common.featured}

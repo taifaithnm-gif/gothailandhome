@@ -20,12 +20,13 @@ export function PropertyGrid({ locale, dict, properties }: PropertyGridProps) {
 
   return (
     <div className="grid gap-6 sm:grid-cols-2 xl:grid-cols-3">
-      {properties.map((property) => (
+      {properties.map((property, index) => (
         <PropertyCard
           key={property.id}
           locale={locale}
           dict={dict}
           property={property}
+          imagePriority={index < 3}
         />
       ))}
     </div>
