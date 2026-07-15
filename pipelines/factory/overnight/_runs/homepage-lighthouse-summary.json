@@ -1,0 +1,14 @@
+{
+  "url": "http://127.0.0.1:3001/en",
+  "formFactor": "mobile",
+  "performance": 0.75,
+  "accessibility": 1,
+  "LCP": "5.1 s",
+  "FCP": "3.2 s",
+  "TBT": "10 ms",
+  "SI": "3.2 s",
+  "a11yFails": [
+    "bf-cache"
+  ],
+  "baselineNote": "UI Foundation baseline was /en/properties mobile perf 0.87 a11y 0.99 — homepage is a different route"
+}
