@@ -42,6 +42,7 @@ export function ListingMediaFrame({
         "relative aspect-[16/10] min-h-[10rem] overflow-hidden bg-[linear-gradient(145deg,#0f4f49_0%,#1a6b63_48%,#c4a035_140%)]",
         className,
       )}
+      style={{ aspectRatio: "16 / 10" }}
     >
       {imageUrl ? (
         <>

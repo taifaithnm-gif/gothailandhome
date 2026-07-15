@@ -56,7 +56,7 @@ export function PropertyCard({
       : null;
 
   return (
-    <ListingCardShell className={cn(className)}>
+    <ListingCardShell className={cn("min-h-[26rem]", className)}>
       <div className="relative">
         <ListingMediaFrame
           locale={locale}
