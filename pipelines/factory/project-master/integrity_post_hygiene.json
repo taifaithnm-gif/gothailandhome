@@ -1,0 +1,14 @@
+{
+  "listing_files": 198,
+  "listing_files_byte_identical_to_HEAD": 198,
+  "listing_files_changed": 0,
+  "counts": {
+    "propertyhub": 617,
+    "livinginsider": 316,
+    "dotproperty": 192,
+    "fazwaz": 190
+  },
+  "n": 1315,
+  "sha256_baseline": "f0eb4b0ab5381dd47bc60bff0f6fed68d98346cb85cc3993df11f9477d78872c",
+  "note": "Listing files untouched; baseline SHA refers to prior identity fingerprint in listing_baseline.json"
+}

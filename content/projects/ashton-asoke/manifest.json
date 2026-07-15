@@ -729,8 +729,8 @@
     ],
     "project_master": {
       "phase": "7",
-      "verified_at": "2026-07-15T07:50:41Z",
-      "rule": "Tier1_official > Tier2_portal; never invent; never demote",
+      "verified_at": "2026-07-15T08:06:30Z",
+      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
       "fields_updated": [
         "official_project_url",
         "project_status",
@@ -739,7 +739,7 @@
         "facilities_official"
       ],
       "notes": "READY TO MOVE IN on official Ananda project page",
-      "audit_version": "2026-07-15-project-master-completion",
+      "audit_version": "2026-07-15-project-master-hygiene-v2",
       "field_classifications": {
         "official_project_name": "OFFICIAL",
         "thai_project_name": "OFFICIAL",
@@ -748,7 +748,7 @@
         "project_status": "OFFICIAL",
         "completion_year": "VERIFIED_PORTAL",
         "full_address": "VERIFIED_PORTAL",
-        "district": "OFFICIAL",
+        "district": "DERIVED",
         "subdistrict": "UNVERIFIED",
         "latitude": "VERIFIED_PORTAL",
         "longitude": "VERIFIED_PORTAL",
@@ -762,135 +762,130 @@
         "official_brochure": "UNVERIFIED",
         "official_floor_plans": "UNVERIFIED",
         "official_gallery_source": "OFFICIAL",
-        "verification_timestamp": "OFFICIAL"
+        "verification_timestamp": "DERIVED"
       },
       "field_provenance": {
         "official_project_name": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-          "note": "packaged name with official source entry",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Confirmed on project-specific official page"
         },
         "thai_project_name": {
           "tier": 1,
-          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-          "note": "packaged name with official source entry",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "source_url": "https://www.ananda.co.th/th/condominium/ashton-asoke",
+          "note": "Confirmed on project-specific official page"
         },
         "developer_relation": {
           "tier": 1,
-          "source_url": null,
-          "note": "developer.slug present in package",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+          "note": "Developer relation confirmed via project-specific official page domain/branding"
         },
         "official_project_url": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-          "note": null,
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Project-specific official URL"
         },
         "project_status": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-          "note": "READY TO MOVE IN",
-          "verified_at": "2026-07-15T07:50:58Z"
+          "note": "READY TO MOVE IN on Ananda project page"
         },
         "completion_year": {
           "tier": 2,
-          "source": "portal_package",
-          "note": "year present; not confirmed on official page this audit",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Completion year from portal/package; not promoted to OFFICIAL"
         },
         "full_address": {
           "tier": 2,
-          "source": "portal_package",
-          "note": "district-level placeholder address",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Address from portal/package (may be district-level placeholder)"
         },
         "district": {
-          "tier": 1,
-          "source_url": null,
-          "note": "location.district_slug",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "tier": 3,
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Derived from package location.district_slug/name — not Tier-1 OFFICIAL"
         },
         "subdistrict": {
           "tier": 4,
-          "note": "subdistrict_slug not present in packages",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "subdistrict not present / not Tier-1 confirmed"
         },
         "latitude": {
           "tier": 2,
-          "source": "portal_package",
-          "note": "coordinates from package (typically PropertyHub enrichment)",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Coordinates from portal/package"
         },
         "longitude": {
           "tier": 2,
-          "source": "portal_package",
-          "note": "coordinates from package (typically PropertyHub enrichment)",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Coordinates from portal/package"
         },
         "building_count": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-          "note": "DETAIL: BUILDING 1 Building",
-          "verified_at": "2026-07-15T07:50:58Z"
+          "note": "DETAIL on official project page"
         },
         "floor_count": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-          "note": "DETAIL floor list through 48th-50th Floor + Roof Floor",
-          "verified_at": "2026-07-15T07:50:58Z"
+          "note": "DETAIL on official project page"
         },
         "total_units": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-          "note": "DETAIL: UNIT 783 Units",
-          "verified_at": "2026-07-15T07:50:58Z"
+          "note": "DETAIL on official project page"
         },
         "unit_types": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "official_facilities": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-          "note": "facilities_official",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Facilities listed on official project page"
         },
         "nearest_bts": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-          "note": "named BTS from official",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Distance/station stated on official project page"
         },
         "nearest_mrt": {
           "tier": 1,
           "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-          "note": "named MRT from official",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Distance/station stated on official project page",
+          "verified_at": "2026-07-15T08:07:07Z"
         },
         "official_brochure": {
           "tier": 4,
-          "note": "no brochure source captured; media not downloaded",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "official_floor_plans": {
           "tier": 4,
-          "note": "no floor-plan source captured; media not downloaded",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "official_gallery_source": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-          "note": null,
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Gallery section URL on official project page; media not downloaded"
         },
         "verification_timestamp": {
-          "tier": 1,
-          "note": "Phase 7 project master audit timestamp",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "tier": 3,
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Audit metadata timestamp — not an official project fact"
         }
       }
     },
@@ -898,11 +893,11 @@
     "_official_enrichments": {
       "building_count": {
         "url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-        "evidence": "DETAIL: BUILDING 1 Building"
+        "evidence": "DETAIL on official project page"
       },
       "total_units": {
         "url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-        "evidence": "DETAIL: UNIT 783 Units"
+        "evidence": "DETAIL UNIT count on official project page"
       },
       "total_floors": {
         "url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
@@ -910,7 +905,11 @@
       },
       "floor_count": {
         "url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
-        "evidence": "DETAIL floor list through 48th-50th Floor + Roof Floor"
+        "evidence": "DETAIL floor list on official project page"
+      },
+      "status": {
+        "url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+        "evidence": "READY TO MOVE IN on Ananda project page"
       }
     },
     "total_units": 783,

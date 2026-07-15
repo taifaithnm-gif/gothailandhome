@@ -1,0 +1,2956 @@
+{
+  "generated_at": "2026-07-15T08:07:07Z",
+  "total_unverified_cells": 586,
+  "by_field": {
+    "official_project_name": 15,
+    "thai_project_name": 15,
+    "official_project_url": 42,
+    "project_status": 16,
+    "completion_year": 17,
+    "subdistrict": 50,
+    "latitude": 17,
+    "longitude": 17,
+    "building_count": 47,
+    "floor_count": 48,
+    "total_units": 47,
+    "unit_types": 48,
+    "official_facilities": 15,
+    "nearest_bts": 21,
+    "nearest_mrt": 28,
+    "official_brochure": 49,
+    "official_floor_plans": 49,
+    "official_gallery_source": 45
+  },
+  "items": [
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "ashton-asoke",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "ashton-asoke",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "ashton-asoke",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "ashton-asoke",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-ladprao",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "life-ladprao",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-ladprao",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-ladprao",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-ladprao",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-ladprao",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-ladprao",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-silom",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "m-silom",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "m-silom",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-silom",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-silom",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-silom",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-silom",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-silom",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "m-silom",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "official_project_name",
+      "note": "Packaged EN name without portal or project-page confirmation"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "thai_project_name",
+      "note": "Packaged Thai name without project-page confirmation"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "project_status",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "completion_year",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "latitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "longitude",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "official_facilities",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "nearest_bts",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "official_project_url",
+      "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "subdistrict",
+      "note": "subdistrict not present / not Tier-1 confirmed"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "building_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "floor_count",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "total_units",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "unit_types",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "nearest_mrt",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "official_brochure",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "official_floor_plans",
+      "note": "Missing"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "official_gallery_source",
+      "note": "Missing"
+    }
+  ]
+}

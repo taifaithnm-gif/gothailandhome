@@ -1,0 +1,1820 @@
+{
+  "generated_at": "2026-07-15T08:07:07Z",
+  "before_audit": "prior Phase 7 classifications (f3f2e3d era)",
+  "after_audit": "2026-07-15-project-master-hygiene-v2",
+  "cells_changed": 275,
+  "transition_counts": {
+    "OFFICIAL->UNVERIFIED": 72,
+    "OFFICIAL->DERIVED": 113,
+    "OFFICIAL->VERIFIED_PORTAL": 85,
+    "UNVERIFIED->OFFICIAL": 3,
+    "VERIFIED_PORTAL->OFFICIAL": 2
+  },
+  "class_totals_before": {
+    "OFFICIAL": 327,
+    "UNVERIFIED": 517,
+    "VERIFIED_PORTAL": 210,
+    "DERIVED": 46
+  },
+  "class_totals_after": {
+    "UNVERIFIED": 586,
+    "DERIVED": 159,
+    "VERIFIED_PORTAL": 293,
+    "OFFICIAL": 62
+  },
+  "changes": [
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "ashton-asoke",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "ashton-asoke",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "field": "unit_types",
+      "before": "UNVERIFIED",
+      "after": "OFFICIAL"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "kave-town-space",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "field": "project_status",
+      "before": "VERIFIED_PORTAL",
+      "after": "OFFICIAL"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "field": "official_gallery_source",
+      "before": "UNVERIFIED",
+      "after": "OFFICIAL"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "life-ladprao",
+      "field": "project_status",
+      "before": "VERIFIED_PORTAL",
+      "after": "OFFICIAL"
+    },
+    {
+      "slug": "life-ladprao",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "life-ladprao",
+      "field": "official_gallery_source",
+      "before": "UNVERIFIED",
+      "after": "OFFICIAL"
+    },
+    {
+      "slug": "life-ladprao",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "life-one-wireless",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "m-silom",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "m-silom",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "m-silom",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "m-silom",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "m-silom",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "m-silom",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "noble-around-ari",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "noble-beat",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "one-bangkok",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "singha-complex",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-esse-asoke",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-forestias",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "field": "full_address",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-lofts-silom",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "whizdom-essence",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "official_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "thai_project_name",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "developer_relation",
+      "before": "OFFICIAL",
+      "after": "VERIFIED_PORTAL"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "official_project_url",
+      "before": "OFFICIAL",
+      "after": "UNVERIFIED"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "district",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    },
+    {
+      "slug": "xt-phayathai",
+      "field": "verification_timestamp",
+      "before": "OFFICIAL",
+      "after": "DERIVED"
+    }
+  ],
+  "enrichments": [
+    {
+      "slug": "ashton-asoke",
+      "fields": [
+        "official_url",
+        "name_en",
+        "name_th",
+        "status",
+        "building_count",
+        "total_units",
+        "floor_count",
+        "bts",
+        "mrt",
+        "gallery"
+      ],
+      "url": "https://www.ananda.co.th/en/condominium/ashton-asoke"
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "fields": [
+        "official_url",
+        "name_en",
+        "name_th",
+        "status",
+        "building_count",
+        "total_units",
+        "bts",
+        "unit_types",
+        "gallery"
+      ],
+      "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "fields": [
+        "official_url",
+        "name_en",
+        "name_th",
+        "status",
+        "gallery"
+      ],
+      "url": "https://www.apthai.com/en/condominium/life-asoke-rama-9"
+    },
+    {
+      "slug": "life-ladprao",
+      "fields": [
+        "official_url",
+        "name_en",
+        "name_th",
+        "status",
+        "gallery"
+      ],
+      "url": "https://www.apthai.com/en/condominium/life-ladprao"
+    },
+    {
+      "slug": "one-bangkok",
+      "fields": [
+        "retain_prior_official"
+      ],
+      "url": "https://www.onebangkok.com/en/"
+    },
+    {
+      "slug": "the-forestias",
+      "fields": [
+        "retain_prior_official"
+      ],
+      "url": "https://www.theforestias.com/"
+    },
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "fields": [
+        "official_url",
+        "name_en",
+        "name_th",
+        "status",
+        "mrt",
+        "unit_types",
+        "gallery",
+        "brochure_pointer",
+        "floor_plan_pointer"
+      ],
+      "url": "https://www.livinram.com/en"
+    }
+  ],
+  "blocked": [
+    {
+      "slug": "life-one-wireless",
+      "reason": "Official AP page returns maintenance / Coming back soon"
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "reason": "Official AP page returns maintenance / Coming back soon"
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "reason": "Official AP /rhythm-ekkamai unavailable; live page is rhythm-ekkamai-estate (name mismatch — not applied)"
+    },
+    {
+      "slug": "ideo-rama-9",
+      "reason": "Candidate Ananda page is Ideo Rama 9 - Asoke (ideo-rama9-asoke); package name IDEO Rama 9 — identity not equated"
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "reason": "No Ananda /condominium/ DETAIL page found (blog only) — not used for OFFICIAL DETAIL upgrades"
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "reason": "supalai.com project page fetch timed out this pass"
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "reason": "No confirmed accessible project-specific DETAIL page this pass"
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "reason": "No confirmed accessible project-specific DETAIL page this pass"
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "reason": "No confirmed accessible project-specific DETAIL page this pass"
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "reason": "No Sansiri project-specific condo URL confirmed"
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "reason": "No Sansiri project-specific condo URL confirmed"
+    },
+    {
+      "slug": "xt-phayathai",
+      "reason": "No Sansiri project-specific condo URL confirmed"
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "reason": "No Sansiri project-specific condo URL confirmed"
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "reason": "No Sansiri project-specific condo URL confirmed"
+    }
+  ],
+  "listing_files_changed": []
+}

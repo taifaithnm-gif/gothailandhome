@@ -78,18 +78,18 @@
     },
     "project_master": {
       "phase": "7",
-      "audit_version": "2026-07-15-project-master-completion",
-      "verified_at": "2026-07-15T07:50:41Z",
-      "rule": "Tier1_official > Tier2_portal; never invent; never demote",
+      "audit_version": "2026-07-15-project-master-hygiene-v2",
+      "verified_at": "2026-07-15T08:06:30Z",
+      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
       "field_classifications": {
-        "official_project_name": "OFFICIAL",
-        "thai_project_name": "OFFICIAL",
-        "developer_relation": "OFFICIAL",
-        "official_project_url": "OFFICIAL",
+        "official_project_name": "UNVERIFIED",
+        "thai_project_name": "UNVERIFIED",
+        "developer_relation": "DERIVED",
+        "official_project_url": "UNVERIFIED",
         "project_status": "UNVERIFIED",
         "completion_year": "UNVERIFIED",
         "full_address": "VERIFIED_PORTAL",
-        "district": "OFFICIAL",
+        "district": "DERIVED",
         "subdistrict": "UNVERIFIED",
         "latitude": "UNVERIFIED",
         "longitude": "UNVERIFIED",
@@ -103,124 +103,119 @@
         "official_brochure": "UNVERIFIED",
         "official_floor_plans": "UNVERIFIED",
         "official_gallery_source": "UNVERIFIED",
-        "verification_timestamp": "OFFICIAL"
+        "verification_timestamp": "DERIVED"
       },
       "field_provenance": {
         "official_project_name": {
-          "tier": 1,
-          "source_url": "https://www.scasset.com/",
-          "note": "packaged name with official source entry",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "tier": 4,
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Packaged EN name without portal or project-page confirmation"
         },
         "thai_project_name": {
-          "tier": 1,
-          "source_url": "https://www.scasset.com/",
-          "note": "packaged name with official source entry",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "tier": 4,
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Packaged Thai name without project-page confirmation"
         },
         "developer_relation": {
-          "tier": 1,
-          "source_url": null,
-          "note": "developer.slug present in package",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "tier": 3,
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Package developer.slug only — not OFFICIAL without Tier-1 project page"
         },
         "official_project_url": {
-          "tier": 1,
+          "tier": 4,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.scasset.com/",
-          "note": null,
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
         },
         "project_status": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "completion_year": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "full_address": {
           "tier": 2,
-          "source": "portal_package",
-          "note": "district-level placeholder address",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Address from portal/package (may be district-level placeholder)"
         },
         "district": {
-          "tier": 1,
-          "source_url": null,
-          "note": "location.district_slug",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "tier": 3,
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Derived from package location.district_slug/name — not Tier-1 OFFICIAL"
         },
         "subdistrict": {
           "tier": 4,
-          "note": "subdistrict_slug not present in packages",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "subdistrict not present / not Tier-1 confirmed"
         },
         "latitude": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "longitude": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "building_count": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "floor_count": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "total_units": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "unit_types": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "official_facilities": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "nearest_bts": {
           "tier": 3,
-          "note": "transit_tags contains bts without named station",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Derived from package nearby_bts/transportation/transit_tags — not Tier-1 confirmed",
+          "verified_at": "2026-07-15T08:07:07Z"
         },
         "nearest_mrt": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Missing",
+          "verified_at": "2026-07-15T08:07:07Z"
         },
         "official_brochure": {
           "tier": 4,
-          "note": "no brochure source captured; media not downloaded",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "official_floor_plans": {
           "tier": 4,
-          "note": "no floor-plan source captured; media not downloaded",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "official_gallery_source": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Missing"
         },
         "verification_timestamp": {
-          "tier": 1,
-          "note": "Phase 7 project master audit timestamp",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "tier": 3,
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Audit metadata timestamp — not an official project fact"
         }
       }
     }

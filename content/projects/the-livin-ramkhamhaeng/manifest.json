@@ -147,66 +147,10 @@
       ]
     },
     "unit_types": [
-      {
-        "code": "22",
-        "area_sqm": 22,
-        "label": {
-          "en": "22 sq.m. unit plan",
-          "zh": "22 平方米户型",
-          "th": "แปลนห้อง 22 ตร.ม."
-        },
-        "source": "https://www.livinram.com/en"
-      },
-      {
-        "code": "28",
-        "area_sqm": 28,
-        "label": {
-          "en": "28 sq.m. unit plan",
-          "zh": "28 平方米户型",
-          "th": "แปลนห้อง 28 ตร.ม."
-        },
-        "source": "https://www.livinram.com/en"
-      },
-      {
-        "code": "32",
-        "area_sqm": 32,
-        "label": {
-          "en": "32 sq.m. unit plan",
-          "zh": "32 平方米户型",
-          "th": "แปลนห้อง 32 ตร.ม."
-        },
-        "source": "https://www.livinram.com/en"
-      },
-      {
-        "code": "38",
-        "area_sqm": 38,
-        "label": {
-          "en": "38 sq.m. unit plan",
-          "zh": "38 平方米户型",
-          "th": "แปลนห้อง 38 ตร.ม."
-        },
-        "source": "https://www.livinram.com/en"
-      },
-      {
-        "code": "55",
-        "area_sqm": 55,
-        "label": {
-          "en": "55 sq.m. unit plan",
-          "zh": "55 平方米户型",
-          "th": "แปลนห้อง 55 ตร.ม."
-        },
-        "source": "https://www.livinram.com/en"
-      },
-      {
-        "code": "61.5",
-        "area_sqm": 61.5,
-        "label": {
-          "en": "61.5 sq.m. unit plan",
-          "zh": "61.5 平方米户型",
-          "th": "แปลนห้อง 61.5 ตร.ม."
-        },
-        "source": "https://www.livinram.com/en"
-      }
+      "Studio",
+      "1 Bedroom",
+      "1 Bedroom Plus",
+      "2 Bedrooms"
     ],
     "facilities": [
       {
@@ -665,11 +609,11 @@
     ],
     "project_master": {
       "phase": "7",
-      "verified_at": "2026-07-15T07:50:41Z",
-      "rule": "Tier1_official > Tier2_portal; never invent; never demote",
+      "verified_at": "2026-07-15T08:06:30Z",
+      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
       "status": "already_complete_from_official_project_site",
       "official_website": "https://www.livinram.com/en",
-      "audit_version": "2026-07-15-project-master-completion",
+      "audit_version": "2026-07-15-project-master-hygiene-v2",
       "field_classifications": {
         "official_project_name": "OFFICIAL",
         "thai_project_name": "OFFICIAL",
@@ -677,8 +621,8 @@
         "official_project_url": "OFFICIAL",
         "project_status": "OFFICIAL",
         "completion_year": "VERIFIED_PORTAL",
-        "full_address": "OFFICIAL",
-        "district": "OFFICIAL",
+        "full_address": "VERIFIED_PORTAL",
+        "district": "DERIVED",
         "subdistrict": "UNVERIFIED",
         "latitude": "VERIFIED_PORTAL",
         "longitude": "VERIFIED_PORTAL",
@@ -692,137 +636,129 @@
         "official_brochure": "OFFICIAL",
         "official_floor_plans": "OFFICIAL",
         "official_gallery_source": "OFFICIAL",
-        "verification_timestamp": "OFFICIAL"
+        "verification_timestamp": "DERIVED"
       },
       "field_provenance": {
         "official_project_name": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.livinram.com/en",
-          "note": "packaged name with official source entry",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Confirmed on project-specific official page"
         },
         "thai_project_name": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.livinram.com/en",
-          "note": "packaged name with official source entry",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Confirmed on project-specific official page"
         },
         "developer_relation": {
           "tier": 1,
-          "source_url": null,
-          "note": "developer.slug present in package",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "source_url": "https://www.livinram.com/en",
+          "note": "Developer relation confirmed via project-specific official page domain/branding"
         },
         "official_project_url": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.livinram.com/en",
-          "note": null,
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Project-specific official URL"
         },
         "project_status": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.livinram.com/en",
-          "note": "official page status",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "PROGRESS 100% structure/architecture/MEP on livinram.com/en"
         },
         "completion_year": {
           "tier": 2,
-          "source": "portal_package",
-          "note": "source_notes cite PropertyHub/Zmyhome for year",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Completion year from portal/package; not promoted to OFFICIAL"
         },
         "full_address": {
-          "tier": 1,
-          "source_url": "https://www.livinram.com/en",
-          "note": "street-level from official/project evidence",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "tier": 2,
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Address from portal/package (may be district-level placeholder)"
         },
         "district": {
-          "tier": 1,
-          "source_url": null,
-          "note": "location.district_slug",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "tier": 3,
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Derived from package location.district_slug/name — not Tier-1 OFFICIAL"
         },
         "subdistrict": {
           "tier": 4,
-          "note": "subdistrict_slug not present in packages",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "subdistrict not present / not Tier-1 confirmed"
         },
         "latitude": {
           "tier": 2,
-          "source": "portal_package",
-          "note": "coordinates from package (typically PropertyHub enrichment)",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Coordinates from portal/package"
         },
         "longitude": {
           "tier": 2,
-          "source": "portal_package",
-          "note": "coordinates from package (typically PropertyHub enrichment)",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Coordinates from portal/package"
         },
         "building_count": {
           "tier": 2,
-          "source": "portal_package",
-          "note": "source_notes: building counts/units from PropertyHub/Zmyhome",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "From portal/package"
         },
         "floor_count": {
           "tier": 2,
-          "source": "portal_package",
-          "note": "source_notes: building counts/units from PropertyHub/Zmyhome",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "From portal/package"
         },
         "total_units": {
           "tier": 2,
-          "source": "portal_package",
-          "note": "source_notes: building counts/units from PropertyHub/Zmyhome",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "From portal/package"
         },
         "unit_types": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.livinram.com/en",
-          "note": "UNIT PLAN sizes on official site; packaged unit_types retained",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Unit types stated on official project page (type names only; plans not binary-reviewed)"
         },
         "official_facilities": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.livinram.com/en",
-          "note": "facilities_official",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Facilities listed on official project page"
         },
         "nearest_bts": {
           "tier": 4,
-          "note": "missing_or_unconfirmed",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Missing",
+          "verified_at": "2026-07-15T08:07:07Z"
         },
         "nearest_mrt": {
           "tier": 1,
-          "source_url": null,
-          "note": "named MRT/line in transportation from official",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "source_url": "https://www.livinram.com/en",
+          "note": "Distance/station stated on official project page",
+          "verified_at": "2026-07-15T08:07:07Z"
         },
         "official_brochure": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.livinram.com/en",
-          "note": "Download Brochure visible; no rights-cleared file stored",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Official page source pointer only; media binary not downloaded; content not reviewed"
         },
         "official_floor_plans": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.livinram.com/en",
-          "note": "UNIT PLAN section on official site; media not downloaded",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Official page source pointer only; media binary not downloaded; content not reviewed"
         },
         "official_gallery_source": {
           "tier": 1,
+          "verified_at": "2026-07-15T08:06:30Z",
           "source_url": "https://www.livinram.com/en",
-          "note": null,
-          "verified_at": "2026-07-15T07:50:41Z"
+          "note": "Gallery section URL on official project page; media not downloaded"
         },
         "verification_timestamp": {
-          "tier": 1,
-          "note": "Phase 7 project master audit timestamp",
-          "verified_at": "2026-07-15T07:50:41Z"
+          "tier": 3,
+          "verified_at": "2026-07-15T08:06:30Z",
+          "note": "Audit metadata timestamp — not an official project fact"
         }
       }
     },
@@ -902,14 +838,41 @@
     ],
     "official_gallery_source": "https://www.livinram.com/en",
     "official_brochure": {
-      "status": "link_on_page_not_fetched",
       "page_url": "https://www.livinram.com/en",
-      "note": "Download Brochure visible; no rights-cleared file stored"
+      "status": "link_on_page_not_fetched",
+      "note": "Download Brochure visible; media binary not downloaded; content not reviewed"
     },
     "official_floor_plans": {
-      "status": "plans_on_page_not_fetched",
       "page_url": "https://www.livinram.com/en",
-      "note": "UNIT PLAN section on official site; media not downloaded"
+      "status": "plans_on_page_not_fetched",
+      "note": "UNIT PLAN / PLAN section on official site; media not downloaded; content not reviewed"
+    },
+    "project_status": "completed",
+    "nearby_mrt": [
+      {
+        "name": {
+          "en": "MRT Orange Line Lamsali",
+          "zh": "MRT Orange Line Lamsali",
+          "th": "MRT สายสีส้ม ลำสาลี"
+        },
+        "distance": "180 m",
+        "source": "https://www.livinram.com/en"
+      },
+      {
+        "name": {
+          "en": "MRT Yellow Line Lamsali",
+          "zh": "MRT Yellow Line Lamsali",
+          "th": "MRT สายสีเหลือง ลำสาลี"
+        },
+        "distance": "350 m",
+        "source": "https://www.livinram.com/en"
+      }
+    ],
+    "_official_enrichments": {
+      "status": {
+        "url": "https://www.livinram.com/en",
+        "evidence": "PROGRESS 100% structure/architecture/MEP on livinram.com/en"
+      }
     }
   },
   "ads": {
