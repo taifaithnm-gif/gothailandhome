@@ -1,0 +1,22 @@
+{
+  "url": "http://127.0.0.1:3005/en/properties",
+  "formFactor": "mobile",
+  "performance": 0.8,
+  "accessibility": 0.98,
+  "LCP": "5.1 s",
+  "FCP": "1.8 s",
+  "CLS": "0",
+  "TBT": "0 ms",
+  "SI": "2.6 s",
+  "a11yFails": [
+    "heading-order",
+    "bf-cache"
+  ],
+  "baseline": {
+    "perf": 0.87,
+    "a11y": 0.99,
+    "LCP": "3.8 s",
+    "htmlBytes": 218642
+  },
+  "afterHtmlBytes": 300138
+}

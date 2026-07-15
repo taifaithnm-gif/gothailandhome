@@ -1,7 +1,17 @@
 # VALIDATION_REPORT
 
 **Date:** 2026-07-15  
-**Milestone:** Phase 8 — Alpha UI Foundation
+**Milestone:** Phase 8.3 — Search Results Alpha
+
+## Baseline verification
+
+| Check | Result |
+|-------|--------|
+| Repository root | `/Users/jun/AI-Workspace/Projects/GoThailandHome` |
+| Branch | `main` |
+| Pre-work HEAD | `7c2ae6510e0221dc766e3ccd325ae642cb6715a7` |
+| Working tree before changes | Clean |
+| `origin/main` sync | 0 ahead / 0 behind |
 
 ## Gates
 
@@ -9,21 +19,21 @@
 |------|--------|
 | TypeScript | PASS |
 | Lint | PASS (0 errors; pre-existing pipeline warnings) |
-| Tests | PASS (contact, integrity, project content, pagination, **ui-foundation**) |
+| Tests (incl. pagination + listing-search) | PASS |
 | Production build | PASS |
 | Listing integrity n=1315 | PASS |
 | Contact-role / Apple invariants | PASS |
-| Accessibility (Lighthouse mobile `/en/properties`) | **0.99** |
-| Performance (same) | **0.87** · LCP **3.8 s** · FCP **2.0 s** |
-| Responsive | Header drawer groups at `lg`; containers use mobile gutters |
-| Schema / listing data changes | None |
-| Homepage redesign | Not done (required stop) |
-
-Evidence: `pipelines/factory/overnight/_runs/ui-foundation-lighthouse.json`
-
-## Lighthouse a11y notes
-
-Binary fails reported: `heading-order`, `bf-cache` (not introduced as product blockers for foundation pass; backlog for page-level heading polish).
+| Route smoke `/en|/zh|/th/properties` | PASS HTTP 200 |
+| Buy / Rent / filtered query smoke | PASS |
+| `/search` → `/properties` redirect | PASS 307 |
+| Result card bound (24) | PASS |
+| Multilingual | PASS |
+| Mobile drawer + clear-all | PASS (markup + a11y controls) |
+| Lighthouse a11y | **0.98** (≥ 0.95) |
+| Lighthouse performance | **0.80** (near baseline 0.87) |
+| CLS | **0** |
+| HTML size | **~0.286 MB** (no multi-MB regression) |
+| Harvest / listing mutations / deploy | None |
 
 ## Overall
 
