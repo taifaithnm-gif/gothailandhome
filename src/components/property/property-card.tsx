@@ -1,10 +1,12 @@
 import Link from "next/link";
 
 import { ListingMediaFrame } from "@/components/property/listing-media-frame";
+import { SourceBadge } from "@/components/ui/badge";
+import { ListingCardShell } from "@/components/ui/card";
 import type { Locale } from "@/config/locales";
+import { formatPrice, type PropertyView } from "@/lib/data/properties";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { localePath, propertyTypeLabel } from "@/lib/i18n/metadata";
-import { formatPrice, type PropertyView } from "@/lib/data/properties";
 import { cn } from "@/lib/utils";
 
 type PropertyCardProps = {
@@ -12,7 +14,6 @@ type PropertyCardProps = {
   dict: Dictionary;
   property: PropertyView;
   className?: string;
-  /** First-row cards may set priority for LCP. */
   imagePriority?: boolean;
 };
 
@@ -24,12 +25,7 @@ export function PropertyCard({
   imagePriority = false,
 }: PropertyCardProps) {
   return (
-    <article
-      className={cn(
-        "group flex h-full flex-col overflow-hidden rounded-2xl border border-[var(--brand-line)] bg-white shadow-[0_1px_0_rgba(6,61,56,0.04)] transition duration-300 hover:-translate-y-0.5 hover:shadow-[0_18px_40px_rgba(6,61,56,0.10)]",
-        className,
-      )}
-    >
+    <ListingCardShell className={cn(className)}>
       <div className="relative">
         <ListingMediaFrame
           locale={locale}
@@ -51,6 +47,11 @@ export function PropertyCard({
             ? dict.common.rent
             : dict.common.sale}
         </span>
+        {property.source && !property.coverUrl ? (
+          <span className="absolute bottom-3 left-3">
+            <SourceBadge source={property.source} />
+          </span>
+        ) : null}
       </div>
 
       <div className="flex flex-1 flex-col gap-4 p-5">
@@ -104,6 +105,6 @@ export function PropertyCard({
           </Link>
         </div>
       </div>
-    </article>
+    </ListingCardShell>
   );
 }

@@ -2,6 +2,7 @@ import type { Locale } from "@/config/locales";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import type { PropertyView } from "@/lib/data/properties";
 import { PropertyCard } from "@/components/property/property-card";
+import { EmptyState } from "@/components/ui/states";
 
 type PropertyGridProps = {
   locale: Locale;
@@ -11,11 +12,7 @@ type PropertyGridProps = {
 
 export function PropertyGrid({ locale, dict, properties }: PropertyGridProps) {
   if (properties.length === 0) {
-    return (
-      <p className="rounded-2xl border border-dashed border-[var(--brand-line)] bg-white/70 px-6 py-12 text-center text-stone-600">
-        {dict.common.noResults}
-      </p>
-    );
+    return <EmptyState title={dict.common.noResults} />;
   }
 
   return (

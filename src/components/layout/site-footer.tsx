@@ -40,7 +40,7 @@ export function SiteFooter({ locale, dict }: SiteFooterProps) {
 
   return (
     <footer className="mt-auto border-t border-[var(--brand-line)] bg-[var(--brand-deep)] text-white">
-      <div className="mx-auto grid w-full max-w-6xl gap-10 px-4 py-12 sm:px-6 md:grid-cols-[1.4fr_1fr_1fr]">
+      <div className="ds-container grid gap-10 py-12 md:grid-cols-[1.4fr_1fr_1fr]">
         <div className="space-y-3">
           <p className="font-heading text-xl tracking-tight">
             {dict.common.brand}
@@ -82,7 +82,7 @@ export function SiteFooter({ locale, dict }: SiteFooterProps) {
       </div>
 
       <div className="border-t border-white/10">
-        <div className="mx-auto flex w-full max-w-6xl px-4 py-4 text-xs text-white/55 sm:px-6">
+        <div className="ds-container flex py-4 text-xs text-white/55">
           © {year} {dict.common.brand}. {dict.footer.rights}
         </div>
       </div>

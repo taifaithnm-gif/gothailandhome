@@ -28,25 +28,58 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
 
-  const links = [
+  const browse = [
     { href: localePath(locale), label: dict.nav.home },
     { href: localePath(locale, "/properties"), label: dict.nav.properties },
     { href: localePath(locale, "/projects"), label: dict.nav.projects },
     { href: localePath(locale, "/cities"), label: dict.nav.cities },
     { href: localePath(locale, "/developers"), label: dict.nav.developers },
+    { href: localePath(locale, "/search"), label: dict.nav.search },
+  ];
+
+  const marketplace = [
     { href: localePath(locale, "/find-my-home"), label: dict.nav.findMyHome },
     {
       href: localePath(locale, "/list-your-property"),
       label: dict.nav.listProperty,
     },
-    { href: localePath(locale, "/search"), label: dict.nav.search },
+  ];
+
+  const company = [
     { href: localePath(locale, "/about"), label: dict.nav.about },
     { href: localePath(locale, "/contact"), label: dict.nav.contact },
   ];
 
+  const desktopLinks = [...browse, ...marketplace, ...company];
+
+  function renderLink(
+    link: { href: string; label: string },
+    onNavigate?: () => void,
+  ) {
+    const active =
+      pathname === link.href ||
+      (link.href !== localePath(locale) && pathname.startsWith(link.href));
+
+    return (
+      <Link
+        key={link.href}
+        href={link.href}
+        className={cn(
+          "text-sm transition-colors",
+          active
+            ? "text-[var(--brand-gold)]"
+            : "text-white/80 hover:text-white",
+        )}
+        onClick={onNavigate}
+      >
+        {link.label}
+      </Link>
+    );
+  }
+
   return (
     <header className="sticky top-0 z-40 border-b border-white/10 bg-[var(--brand-deep)]/95 text-white backdrop-blur-md">
-      <div className="mx-auto flex h-16 w-full max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
+      <div className="ds-container flex h-16 items-center justify-between gap-4">
         <Link
           href={localePath(locale)}
           className="font-heading text-lg tracking-tight transition-opacity hover:opacity-90 sm:text-xl"
@@ -54,28 +87,11 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
           {dict.common.brand}
         </Link>
 
-        <nav className="hidden items-center gap-6 md:flex" aria-label="Primary">
-          {links.map((link) => {
-            const active =
-              pathname === link.href ||
-              (link.href !== localePath(locale) &&
-                pathname.startsWith(link.href));
-
-            return (
-              <Link
-                key={link.href}
-                href={link.href}
-                className={cn(
-                  "text-sm transition-colors",
-                  active
-                    ? "text-[var(--brand-gold)]"
-                    : "text-white/80 hover:text-white",
-                )}
-              >
-                {link.label}
-              </Link>
-            );
-          })}
+        <nav
+          className="hidden max-w-[42rem] items-center gap-5 overflow-x-auto lg:flex xl:max-w-none xl:gap-6"
+          aria-label="Primary"
+        >
+          {desktopLinks.map((link) => renderLink(link))}
         </nav>
 
         <div
@@ -103,7 +119,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
           type="button"
           variant="ghost"
           size="icon"
-          className="text-white hover:bg-white/10 hover:text-white md:hidden"
+          className="text-white hover:bg-white/10 hover:text-white lg:hidden"
           aria-expanded={open}
           aria-controls="mobile-nav"
           aria-label={open ? dict.nav.close : dict.nav.menu}
@@ -116,20 +132,49 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
       {open ? (
         <div
           id="mobile-nav"
-          className="border-t border-white/10 bg-[var(--brand-deep)] md:hidden"
+          className="border-t border-white/10 bg-[var(--brand-deep)] lg:hidden"
         >
-          <nav className="mx-auto flex max-w-6xl flex-col gap-1 px-4 py-4 sm:px-6">
-            {links.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                className="rounded-md px-3 py-2 text-sm text-white/90 hover:bg-white/10"
-                onClick={() => setOpen(false)}
-              >
-                {link.label}
-              </Link>
-            ))}
-            <div className="mt-3 flex flex-wrap gap-2 border-t border-white/10 pt-3">
+          <div className="ds-container flex flex-col gap-4 py-4">
+            <nav aria-label="Browse" className="flex flex-col gap-1">
+              <p className="ds-caption px-3 text-white/50">Browse</p>
+              {browse.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className="rounded-md px-3 py-2 text-sm text-white/90 hover:bg-white/10"
+                  onClick={() => setOpen(false)}
+                >
+                  {link.label}
+                </Link>
+              ))}
+            </nav>
+            <nav aria-label="Marketplace" className="flex flex-col gap-1">
+              <p className="ds-caption px-3 text-white/50">Marketplace</p>
+              {marketplace.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className="rounded-md px-3 py-2 text-sm text-white/90 hover:bg-white/10"
+                  onClick={() => setOpen(false)}
+                >
+                  {link.label}
+                </Link>
+              ))}
+            </nav>
+            <nav aria-label="Company" className="flex flex-col gap-1">
+              <p className="ds-caption px-3 text-white/50">Company</p>
+              {company.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className="rounded-md px-3 py-2 text-sm text-white/90 hover:bg-white/10"
+                  onClick={() => setOpen(false)}
+                >
+                  {link.label}
+                </Link>
+              ))}
+            </nav>
+            <div className="flex flex-wrap gap-2 border-t border-white/10 pt-3">
               {locales.map((item) => (
                 <Link
                   key={item}
@@ -146,7 +191,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
                 </Link>
               ))}
             </div>
-          </nav>
+          </div>
         </div>
       ) : null}
     </header>
