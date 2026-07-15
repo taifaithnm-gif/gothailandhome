@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "one-bangkok official project page",
+      "url": "https://www.onebangkok.com/en/"
+    },
+    {
+      "type": "official_developer",
       "name": "One Bangkok official / developer page",
       "url": "https://www.onebangkok.com/"
     }
@@ -50,18 +55,21 @@
       "th": "วัน แบงค็อก เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เฟรเซอร์ส พร็อพเพอร์ตี้ ประเทศไทย รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
     },
     "address": {
-      "en": "Pathum Wan, Bangkok",
-      "zh": "曼谷巴吞旺",
-      "th": "ปทุมวัน กรุงเทพฯ"
+      "en": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330",
+      "zh": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330",
+      "th": "ถนนวิทยุ ลุมพินี ปทุมวัน กรุงเทพฯ 10330"
     },
     "postal_code": "10330",
     "latitude": null,
     "longitude": null,
     "google_maps_url": null,
-    "official_website": "https://www.onebangkok.com/",
+    "official_website": "https://www.onebangkok.com/en/",
     "facebook_url": null,
     "completion_year": null,
-    "transit_tags": ["bts", "mrt"],
+    "transit_tags": [
+      "bts",
+      "mrt"
+    ],
     "seo": {
       "title": {
         "en": "One Bangkok Condo in Pathum Wan, Bangkok | GoThailandHome",
@@ -72,6 +80,273 @@
         "en": "Project page for One Bangkok in Pathum Wan, Bangkok. Sourced from the developer official site.",
         "zh": "One Bangkok项目页（曼谷巴吞旺），来源为开发商官方站点。",
         "th": "หน้าโครงการ วัน แบงค็อก เขตปทุมวัน อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    },
+    "facilities_official": [
+      {
+        "key": "retail",
+        "name": {
+          "en": "Retail (Parade / The Storeys)",
+          "zh": "Retail",
+          "th": "Retail"
+        },
+        "source": "onebangkok_official"
+      },
+      {
+        "key": "green_space",
+        "name": {
+          "en": "Green & Open Spaces / Urban Park",
+          "zh": "Green & Open Spaces",
+          "th": "Green & Open Spaces"
+        },
+        "source": "onebangkok_official"
+      },
+      {
+        "key": "hospitality",
+        "name": {
+          "en": "Hospitality (Ritz-Carlton / Andaz cited on site)",
+          "zh": "Hospitality",
+          "th": "Hospitality"
+        },
+        "source": "onebangkok_official"
+      },
+      {
+        "key": "workplace",
+        "name": {
+          "en": "Workplace / office towers",
+          "zh": "Workplace",
+          "th": "Workplace"
+        },
+        "source": "onebangkok_official"
+      }
+    ],
+    "facilities": [
+      {
+        "key": "retail",
+        "name": {
+          "en": "Retail (Parade / The Storeys)",
+          "zh": "Retail",
+          "th": "Retail"
+        },
+        "source": "onebangkok_official"
+      },
+      {
+        "key": "green_space",
+        "name": {
+          "en": "Green & Open Spaces / Urban Park",
+          "zh": "Green & Open Spaces",
+          "th": "Green & Open Spaces"
+        },
+        "source": "onebangkok_official"
+      },
+      {
+        "key": "hospitality",
+        "name": {
+          "en": "Hospitality (Ritz-Carlton / Andaz cited on site)",
+          "zh": "Hospitality",
+          "th": "Hospitality"
+        },
+        "source": "onebangkok_official"
+      },
+      {
+        "key": "workplace",
+        "name": {
+          "en": "Workplace / office towers",
+          "zh": "Workplace",
+          "th": "Workplace"
+        },
+        "source": "onebangkok_official"
+      }
+    ],
+    "nearby_bts": [],
+    "nearby_mrt": [
+      {
+        "name": {
+          "en": "MRT Lumphini",
+          "zh": "MRT 伦披尼",
+          "th": "MRT ลุมพินี"
+        },
+        "note": {
+          "en": "Direct underground link cited on Frasers Property press release for One Bangkok",
+          "zh": "Frasers Property 新闻稿称有地下连通道",
+          "th": "เชื่อมต่อใต้ดินตามข่าวของ Frasers Property"
+        },
+        "source": "https://www.frasersproperty.com/content/frasersproperty/corporate/press-releases/2024/one-bangkok-newest-neighbourhood-opens-in-the-heart-of-bangkok.html"
+      }
+    ],
+    "transportation": [
+      {
+        "name": {
+          "en": "MRT Lumphini",
+          "zh": "MRT 伦披尼",
+          "th": "MRT ลุมพินี"
+        },
+        "distance": null,
+        "note": {
+          "en": "Direct underground link cited on Frasers Property press release for One Bangkok",
+          "zh": "Frasers Property 新闻稿称有地下连通道",
+          "th": "เชื่อมต่อใต้ดินตามข่าวของ Frasers Property"
+        },
+        "source": "https://www.frasersproperty.com/content/frasersproperty/corporate/press-releases/2024/one-bangkok-newest-neighbourhood-opens-in-the-heart-of-bangkok.html",
+        "mode": "mrt"
+      }
+    ],
+    "project_master": {
+      "phase": "7",
+      "verified_at": "2026-07-15T07:50:41Z",
+      "rule": "Tier1_official > Tier2_portal; never invent; never demote",
+      "fields_updated": [
+        "official_project_url",
+        "address",
+        "postal_code",
+        "mrt",
+        "facilities_official"
+      ],
+      "notes": null,
+      "audit_version": "2026-07-15-project-master-completion",
+      "field_classifications": {
+        "official_project_name": "OFFICIAL",
+        "thai_project_name": "OFFICIAL",
+        "developer_relation": "OFFICIAL",
+        "official_project_url": "OFFICIAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "full_address": "OFFICIAL",
+        "district": "OFFICIAL",
+        "subdistrict": "UNVERIFIED",
+        "latitude": "UNVERIFIED",
+        "longitude": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED",
+        "unit_types": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "nearest_bts": "DERIVED",
+        "nearest_mrt": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plans": "UNVERIFIED",
+        "official_gallery_source": "UNVERIFIED",
+        "verification_timestamp": "OFFICIAL"
+      },
+      "field_provenance": {
+        "official_project_name": {
+          "tier": 1,
+          "source_url": "https://www.onebangkok.com/en/",
+          "note": "packaged name with official source entry",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "thai_project_name": {
+          "tier": 1,
+          "source_url": "https://www.onebangkok.com/en/",
+          "note": "packaged name with official source entry",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "developer_relation": {
+          "tier": 1,
+          "source_url": null,
+          "note": "developer.slug present in package",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_project_url": {
+          "tier": 1,
+          "source_url": "https://www.onebangkok.com/en/",
+          "note": null,
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "project_status": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "completion_year": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "full_address": {
+          "tier": 1,
+          "source_url": "https://www.onebangkok.com/en/",
+          "note": "street-level from official/project evidence",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "district": {
+          "tier": 1,
+          "source_url": null,
+          "note": "location.district_slug",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "subdistrict": {
+          "tier": 4,
+          "note": "subdistrict_slug not present in packages",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "latitude": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "longitude": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "building_count": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "floor_count": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "total_units": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "unit_types": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_facilities": {
+          "tier": 1,
+          "source_url": "https://www.onebangkok.com/en/",
+          "note": "facilities_official",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "nearest_bts": {
+          "tier": 3,
+          "note": "transit_tags contains bts without named station",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "nearest_mrt": {
+          "tier": 1,
+          "source_url": "https://www.frasersproperty.com/content/frasersproperty/corporate/press-releases/2024/one-bangkok-newest-neighbourhood-opens-in-the-heart-of-bangkok.html",
+          "note": "named MRT from official",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_brochure": {
+          "tier": 4,
+          "note": "no brochure source captured; media not downloaded",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_floor_plans": {
+          "tier": 4,
+          "note": "no floor-plan source captured; media not downloaded",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_gallery_source": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "verification_timestamp": {
+          "tier": 1,
+          "note": "Phase 7 project master audit timestamp",
+          "verified_at": "2026-07-15T07:50:41Z"
+        }
       }
     }
   }

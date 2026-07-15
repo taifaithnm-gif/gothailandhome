@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "ashton-asoke official project page",
+      "url": "https://www.ananda.co.th/en/condominium/ashton-asoke"
+    },
+    {
+      "type": "official_developer",
       "name": "Ashton Asoke official / developer page",
       "url": "https://www.ananda.co.th/"
     },
@@ -63,7 +68,7 @@
     "latitude": 13.738767940861846,
     "longitude": 100.56123998297682,
     "google_maps_url": "https://www.google.com/maps?q=13.738767940861846,100.56123998297682",
-    "official_website": "https://www.ananda.co.th/",
+    "official_website": "https://www.ananda.co.th/en/condominium/ashton-asoke",
     "facebook_url": "https://www.facebook.com/AnandaDevelopment",
     "completion_year": 2017,
     "transit_tags": [
@@ -555,6 +560,363 @@
           "th": "PropertyHub ระบุจำนวนยูนิตทั้งหมด 783"
         }
       }
-    ]
+    ],
+    "project_status": "completed",
+    "facilities_official": [
+      {
+        "key": "lobby",
+        "name": {
+          "en": "Lobby Lounge",
+          "zh": "Lobby Lounge",
+          "th": "Lobby Lounge"
+        },
+        "source": "ananda_official"
+      },
+      {
+        "key": "meeting_room",
+        "name": {
+          "en": "Meeting Room",
+          "zh": "Meeting Room",
+          "th": "Meeting Room"
+        },
+        "source": "ananda_official"
+      },
+      {
+        "key": "garden",
+        "name": {
+          "en": "Garden",
+          "zh": "Garden",
+          "th": "Garden"
+        },
+        "source": "ananda_official"
+      },
+      {
+        "key": "parking",
+        "name": {
+          "en": "Parking",
+          "zh": "Parking",
+          "th": "Parking"
+        },
+        "source": "ananda_official"
+      },
+      {
+        "key": "pool",
+        "name": {
+          "en": "Swimming Pool",
+          "zh": "Swimming Pool",
+          "th": "Swimming Pool"
+        },
+        "source": "ananda_official"
+      },
+      {
+        "key": "kids_pool",
+        "name": {
+          "en": "Kid's Pool",
+          "zh": "Kid's Pool",
+          "th": "Kid's Pool"
+        },
+        "source": "ananda_official"
+      },
+      {
+        "key": "jacuzzi",
+        "name": {
+          "en": "Jacuzzi",
+          "zh": "Jacuzzi",
+          "th": "Jacuzzi"
+        },
+        "source": "ananda_official"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness",
+          "zh": "Fitness",
+          "th": "Fitness"
+        },
+        "source": "ananda_official"
+      },
+      {
+        "key": "steam",
+        "name": {
+          "en": "Steam Room",
+          "zh": "Steam Room",
+          "th": "Steam Room"
+        },
+        "source": "ananda_official"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna Room",
+          "zh": "Sauna Room",
+          "th": "Sauna Room"
+        },
+        "source": "ananda_official"
+      },
+      {
+        "key": "library",
+        "name": {
+          "en": "Library",
+          "zh": "Library",
+          "th": "Library"
+        },
+        "source": "ananda_official"
+      },
+      {
+        "key": "laundry",
+        "name": {
+          "en": "Laundry",
+          "zh": "Laundry",
+          "th": "Laundry"
+        },
+        "source": "ananda_official"
+      },
+      {
+        "key": "social_club",
+        "name": {
+          "en": "Social Club",
+          "zh": "Social Club",
+          "th": "Social Club"
+        },
+        "source": "ananda_official"
+      }
+    ],
+    "nearby_bts": [
+      {
+        "name": {
+          "en": "BTS Asoke",
+          "zh": "BTS Asoke",
+          "th": "BTS อโศก"
+        },
+        "distance": "230 meters",
+        "source": "https://www.ananda.co.th/en/condominium/ashton-asoke"
+      }
+    ],
+    "nearby_mrt": [
+      {
+        "name": {
+          "en": "MRT Sukhumvit",
+          "zh": "MRT Sukhumvit",
+          "th": "MRT สุขุมวิท"
+        },
+        "distance": "20 meters",
+        "source": "https://www.ananda.co.th/en/condominium/ashton-asoke"
+      }
+    ],
+    "transportation": [
+      {
+        "name": {
+          "en": "BTS Asoke",
+          "zh": "BTS Asoke",
+          "th": "BTS อโศก"
+        },
+        "distance": "230 meters",
+        "note": null,
+        "source": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+        "mode": "bts"
+      },
+      {
+        "name": {
+          "en": "MRT Sukhumvit",
+          "zh": "MRT Sukhumvit",
+          "th": "MRT สุขุมวิท"
+        },
+        "distance": "20 meters",
+        "note": null,
+        "source": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+        "mode": "mrt"
+      }
+    ],
+    "project_master": {
+      "phase": "7",
+      "verified_at": "2026-07-15T07:50:41Z",
+      "rule": "Tier1_official > Tier2_portal; never invent; never demote",
+      "fields_updated": [
+        "official_project_url",
+        "project_status",
+        "bts",
+        "mrt",
+        "facilities_official"
+      ],
+      "notes": "READY TO MOVE IN on official Ananda project page",
+      "audit_version": "2026-07-15-project-master-completion",
+      "field_classifications": {
+        "official_project_name": "OFFICIAL",
+        "thai_project_name": "OFFICIAL",
+        "developer_relation": "OFFICIAL",
+        "official_project_url": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "VERIFIED_PORTAL",
+        "full_address": "VERIFIED_PORTAL",
+        "district": "OFFICIAL",
+        "subdistrict": "UNVERIFIED",
+        "latitude": "VERIFIED_PORTAL",
+        "longitude": "VERIFIED_PORTAL",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL",
+        "unit_types": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "nearest_bts": "OFFICIAL",
+        "nearest_mrt": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plans": "UNVERIFIED",
+        "official_gallery_source": "OFFICIAL",
+        "verification_timestamp": "OFFICIAL"
+      },
+      "field_provenance": {
+        "official_project_name": {
+          "tier": 1,
+          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+          "note": "packaged name with official source entry",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "thai_project_name": {
+          "tier": 1,
+          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+          "note": "packaged name with official source entry",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "developer_relation": {
+          "tier": 1,
+          "source_url": null,
+          "note": "developer.slug present in package",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_project_url": {
+          "tier": 1,
+          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+          "note": null,
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "project_status": {
+          "tier": 1,
+          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+          "note": "READY TO MOVE IN",
+          "verified_at": "2026-07-15T07:50:58Z"
+        },
+        "completion_year": {
+          "tier": 2,
+          "source": "portal_package",
+          "note": "year present; not confirmed on official page this audit",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "full_address": {
+          "tier": 2,
+          "source": "portal_package",
+          "note": "district-level placeholder address",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "district": {
+          "tier": 1,
+          "source_url": null,
+          "note": "location.district_slug",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "subdistrict": {
+          "tier": 4,
+          "note": "subdistrict_slug not present in packages",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "latitude": {
+          "tier": 2,
+          "source": "portal_package",
+          "note": "coordinates from package (typically PropertyHub enrichment)",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "longitude": {
+          "tier": 2,
+          "source": "portal_package",
+          "note": "coordinates from package (typically PropertyHub enrichment)",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "building_count": {
+          "tier": 1,
+          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+          "note": "DETAIL: BUILDING 1 Building",
+          "verified_at": "2026-07-15T07:50:58Z"
+        },
+        "floor_count": {
+          "tier": 1,
+          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+          "note": "DETAIL floor list through 48th-50th Floor + Roof Floor",
+          "verified_at": "2026-07-15T07:50:58Z"
+        },
+        "total_units": {
+          "tier": 1,
+          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+          "note": "DETAIL: UNIT 783 Units",
+          "verified_at": "2026-07-15T07:50:58Z"
+        },
+        "unit_types": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_facilities": {
+          "tier": 1,
+          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+          "note": "facilities_official",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "nearest_bts": {
+          "tier": 1,
+          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+          "note": "named BTS from official",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "nearest_mrt": {
+          "tier": 1,
+          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+          "note": "named MRT from official",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_brochure": {
+          "tier": 4,
+          "note": "no brochure source captured; media not downloaded",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_floor_plans": {
+          "tier": 4,
+          "note": "no floor-plan source captured; media not downloaded",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_gallery_source": {
+          "tier": 1,
+          "source_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+          "note": null,
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "verification_timestamp": {
+          "tier": 1,
+          "note": "Phase 7 project master audit timestamp",
+          "verified_at": "2026-07-15T07:50:41Z"
+        }
+      }
+    },
+    "building_count": 1,
+    "_official_enrichments": {
+      "building_count": {
+        "url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+        "evidence": "DETAIL: BUILDING 1 Building"
+      },
+      "total_units": {
+        "url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+        "evidence": "DETAIL: UNIT 783 Units"
+      },
+      "total_floors": {
+        "url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+        "evidence": "DETAIL floor list through 48th-50th Floor + Roof Floor"
+      },
+      "floor_count": {
+        "url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+        "evidence": "DETAIL floor list through 48th-50th Floor + Roof Floor"
+      }
+    },
+    "total_units": 783,
+    "total_floors": 50,
+    "official_gallery_source": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+    "official_brochure": null,
+    "official_floor_plans": null
   }
 }

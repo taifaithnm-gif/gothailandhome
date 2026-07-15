@@ -7,6 +7,11 @@
       "type": "official_developer",
       "name": "The Forestias official / developer page",
       "url": "https://www.theforestias.com/"
+    },
+    {
+      "type": "official_developer",
+      "name": "the-forestias address (MQDC)",
+      "url": "https://mqdc.com/theforestias-bangna"
     }
   ],
   "developer": {
@@ -50,9 +55,9 @@
       "th": "เดอะ ฟอเรสเทียส์ เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
     },
     "address": {
-      "en": "Bang Na, Bangkok",
-      "zh": "曼谷挽那",
-      "th": "บางนา กรุงเทพฯ"
+      "en": "Bangna-Trad Road Km 7, Bangkok",
+      "zh": "Bangna-Trad Road Km 7, Bangkok",
+      "th": "ถนนบางนา-ตราด กม. 7 กรุงเทพฯ"
     },
     "postal_code": "10260",
     "latitude": null,
@@ -72,6 +77,260 @@
         "en": "Project page for The Forestias in Bang Na, Bangkok. Sourced from the developer official site.",
         "zh": "The Forestias项目页（曼谷挽那），来源为开发商官方站点。",
         "th": "หน้าโครงการ เดอะ ฟอเรสเทียส์ เขตบางนา อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    },
+    "construction_status": "under_construction",
+    "project_status": "under_construction",
+    "facilities_official": [
+      {
+        "key": "forest",
+        "name": {
+          "en": "Forest / green space zones",
+          "zh": "Forest / green space",
+          "th": "Forest / green space"
+        },
+        "source": "theforestias_official"
+      },
+      {
+        "key": "sky_walk",
+        "name": {
+          "en": "Residence Sky Walk / Canopy Walk",
+          "zh": "Residence Sky Walk",
+          "th": "Residence Sky Walk"
+        },
+        "source": "theforestias_official"
+      },
+      {
+        "key": "learning_center",
+        "name": {
+          "en": "Forest Pavilion / ecosystem learning center",
+          "zh": "Learning center",
+          "th": "Learning center"
+        },
+        "source": "theforestias_official"
+      },
+      {
+        "key": "community_center",
+        "name": {
+          "en": "Community & Family center",
+          "zh": "Community & Family center",
+          "th": "Community & Family center"
+        },
+        "source": "theforestias_official"
+      },
+      {
+        "key": "hotel",
+        "name": {
+          "en": "6-star hotel (cited on official site)",
+          "zh": "6-star hotel",
+          "th": "6-star hotel"
+        },
+        "source": "theforestias_official"
+      }
+    ],
+    "facilities": [
+      {
+        "key": "forest",
+        "name": {
+          "en": "Forest / green space zones",
+          "zh": "Forest / green space",
+          "th": "Forest / green space"
+        },
+        "source": "theforestias_official"
+      },
+      {
+        "key": "sky_walk",
+        "name": {
+          "en": "Residence Sky Walk / Canopy Walk",
+          "zh": "Residence Sky Walk",
+          "th": "Residence Sky Walk"
+        },
+        "source": "theforestias_official"
+      },
+      {
+        "key": "learning_center",
+        "name": {
+          "en": "Forest Pavilion / ecosystem learning center",
+          "zh": "Learning center",
+          "th": "Learning center"
+        },
+        "source": "theforestias_official"
+      },
+      {
+        "key": "community_center",
+        "name": {
+          "en": "Community & Family center",
+          "zh": "Community & Family center",
+          "th": "Community & Family center"
+        },
+        "source": "theforestias_official"
+      },
+      {
+        "key": "hotel",
+        "name": {
+          "en": "6-star hotel (cited on official site)",
+          "zh": "6-star hotel",
+          "th": "6-star hotel"
+        },
+        "source": "theforestias_official"
+      }
+    ],
+    "project_master": {
+      "phase": "7",
+      "verified_at": "2026-07-15T07:50:41Z",
+      "rule": "Tier1_official > Tier2_portal; never invent; never demote",
+      "fields_updated": [
+        "official_project_url",
+        "address",
+        "address_source",
+        "project_status",
+        "facilities_official"
+      ],
+      "notes": "MQDC official progress/news describe ongoing construction and 2026 delivery targets; no single completed-year claimed as whole-district finish on project homepage",
+      "audit_version": "2026-07-15-project-master-completion",
+      "field_classifications": {
+        "official_project_name": "OFFICIAL",
+        "thai_project_name": "OFFICIAL",
+        "developer_relation": "OFFICIAL",
+        "official_project_url": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "full_address": "OFFICIAL",
+        "district": "OFFICIAL",
+        "subdistrict": "UNVERIFIED",
+        "latitude": "UNVERIFIED",
+        "longitude": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED",
+        "unit_types": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "nearest_bts": "UNVERIFIED",
+        "nearest_mrt": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plans": "UNVERIFIED",
+        "official_gallery_source": "UNVERIFIED",
+        "verification_timestamp": "OFFICIAL"
+      },
+      "field_provenance": {
+        "official_project_name": {
+          "tier": 1,
+          "source_url": "https://www.theforestias.com/",
+          "note": "packaged name with official source entry",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "thai_project_name": {
+          "tier": 1,
+          "source_url": "https://www.theforestias.com/",
+          "note": "packaged name with official source entry",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "developer_relation": {
+          "tier": 1,
+          "source_url": null,
+          "note": "developer.slug present in package",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_project_url": {
+          "tier": 1,
+          "source_url": "https://www.theforestias.com/",
+          "note": null,
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "project_status": {
+          "tier": 1,
+          "source_url": "https://www.theforestias.com/",
+          "note": "official page status",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "completion_year": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "full_address": {
+          "tier": 1,
+          "source_url": "https://www.theforestias.com/",
+          "note": "street-level from official/project evidence",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "district": {
+          "tier": 1,
+          "source_url": null,
+          "note": "location.district_slug",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "subdistrict": {
+          "tier": 4,
+          "note": "subdistrict_slug not present in packages",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "latitude": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "longitude": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "building_count": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "floor_count": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "total_units": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "unit_types": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_facilities": {
+          "tier": 1,
+          "source_url": "https://www.theforestias.com/",
+          "note": "facilities_official",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "nearest_bts": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "nearest_mrt": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_brochure": {
+          "tier": 4,
+          "note": "no brochure source captured; media not downloaded",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_floor_plans": {
+          "tier": 4,
+          "note": "no floor-plan source captured; media not downloaded",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_gallery_source": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "verification_timestamp": {
+          "tier": 1,
+          "note": "Phase 7 project master audit timestamp",
+          "verified_at": "2026-07-15T07:50:41Z"
+        }
       }
     }
   }

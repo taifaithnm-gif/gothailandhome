@@ -662,7 +662,255 @@
         "slug": "the-paseo-town-ramkhamhaeng",
         "source": "propertyhub"
       }
-    ]
+    ],
+    "project_master": {
+      "phase": "7",
+      "verified_at": "2026-07-15T07:50:41Z",
+      "rule": "Tier1_official > Tier2_portal; never invent; never demote",
+      "status": "already_complete_from_official_project_site",
+      "official_website": "https://www.livinram.com/en",
+      "audit_version": "2026-07-15-project-master-completion",
+      "field_classifications": {
+        "official_project_name": "OFFICIAL",
+        "thai_project_name": "OFFICIAL",
+        "developer_relation": "OFFICIAL",
+        "official_project_url": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "VERIFIED_PORTAL",
+        "full_address": "OFFICIAL",
+        "district": "OFFICIAL",
+        "subdistrict": "UNVERIFIED",
+        "latitude": "VERIFIED_PORTAL",
+        "longitude": "VERIFIED_PORTAL",
+        "building_count": "VERIFIED_PORTAL",
+        "floor_count": "VERIFIED_PORTAL",
+        "total_units": "VERIFIED_PORTAL",
+        "unit_types": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "nearest_bts": "UNVERIFIED",
+        "nearest_mrt": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plans": "OFFICIAL",
+        "official_gallery_source": "OFFICIAL",
+        "verification_timestamp": "OFFICIAL"
+      },
+      "field_provenance": {
+        "official_project_name": {
+          "tier": 1,
+          "source_url": "https://www.livinram.com/en",
+          "note": "packaged name with official source entry",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "thai_project_name": {
+          "tier": 1,
+          "source_url": "https://www.livinram.com/en",
+          "note": "packaged name with official source entry",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "developer_relation": {
+          "tier": 1,
+          "source_url": null,
+          "note": "developer.slug present in package",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_project_url": {
+          "tier": 1,
+          "source_url": "https://www.livinram.com/en",
+          "note": null,
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "project_status": {
+          "tier": 1,
+          "source_url": "https://www.livinram.com/en",
+          "note": "official page status",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "completion_year": {
+          "tier": 2,
+          "source": "portal_package",
+          "note": "source_notes cite PropertyHub/Zmyhome for year",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "full_address": {
+          "tier": 1,
+          "source_url": "https://www.livinram.com/en",
+          "note": "street-level from official/project evidence",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "district": {
+          "tier": 1,
+          "source_url": null,
+          "note": "location.district_slug",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "subdistrict": {
+          "tier": 4,
+          "note": "subdistrict_slug not present in packages",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "latitude": {
+          "tier": 2,
+          "source": "portal_package",
+          "note": "coordinates from package (typically PropertyHub enrichment)",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "longitude": {
+          "tier": 2,
+          "source": "portal_package",
+          "note": "coordinates from package (typically PropertyHub enrichment)",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "building_count": {
+          "tier": 2,
+          "source": "portal_package",
+          "note": "source_notes: building counts/units from PropertyHub/Zmyhome",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "floor_count": {
+          "tier": 2,
+          "source": "portal_package",
+          "note": "source_notes: building counts/units from PropertyHub/Zmyhome",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "total_units": {
+          "tier": 2,
+          "source": "portal_package",
+          "note": "source_notes: building counts/units from PropertyHub/Zmyhome",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "unit_types": {
+          "tier": 1,
+          "source_url": "https://www.livinram.com/en",
+          "note": "UNIT PLAN sizes on official site; packaged unit_types retained",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_facilities": {
+          "tier": 1,
+          "source_url": "https://www.livinram.com/en",
+          "note": "facilities_official",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "nearest_bts": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "nearest_mrt": {
+          "tier": 1,
+          "source_url": null,
+          "note": "named MRT/line in transportation from official",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_brochure": {
+          "tier": 1,
+          "source_url": "https://www.livinram.com/en",
+          "note": "Download Brochure visible; no rights-cleared file stored",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_floor_plans": {
+          "tier": 1,
+          "source_url": "https://www.livinram.com/en",
+          "note": "UNIT PLAN section on official site; media not downloaded",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_gallery_source": {
+          "tier": 1,
+          "source_url": "https://www.livinram.com/en",
+          "note": null,
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "verification_timestamp": {
+          "tier": 1,
+          "note": "Phase 7 project master audit timestamp",
+          "verified_at": "2026-07-15T07:50:41Z"
+        }
+      }
+    },
+    "facilities_official": [
+      {
+        "key": "lobby",
+        "name": {
+          "en": "Lobby / Livin Park",
+          "zh": "Lobby / Livin Park",
+          "th": "Lobby / Livin Park"
+        },
+        "source": "livinram_official"
+      },
+      {
+        "key": "pool",
+        "name": {
+          "en": "LIVIN Edge Lap Pool",
+          "zh": "LIVIN Edge Lap Pool",
+          "th": "LIVIN Edge Lap Pool"
+        },
+        "source": "livinram_official"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "LIVIN Gym",
+          "zh": "LIVIN Gym",
+          "th": "LIVIN Gym"
+        },
+        "source": "livinram_official"
+      },
+      {
+        "key": "kids",
+        "name": {
+          "en": "LIVIN Kids Planet",
+          "zh": "LIVIN Kids Planet",
+          "th": "LIVIN Kids Planet"
+        },
+        "source": "livinram_official"
+      },
+      {
+        "key": "coworking",
+        "name": {
+          "en": "LIVIN Co-Working Space",
+          "zh": "LIVIN Co-Working Space",
+          "th": "LIVIN Co-Working Space"
+        },
+        "source": "livinram_official"
+      },
+      {
+        "key": "meeting",
+        "name": {
+          "en": "LIVIN Meeting Room",
+          "zh": "LIVIN Meeting Room",
+          "th": "LIVIN Meeting Room"
+        },
+        "source": "livinram_official"
+      },
+      {
+        "key": "garden",
+        "name": {
+          "en": "Roof Top Garden",
+          "zh": "Roof Top Garden",
+          "th": "Roof Top Garden"
+        },
+        "source": "livinram_official"
+      },
+      {
+        "key": "jogging",
+        "name": {
+          "en": "LIVIN Jogging Track",
+          "zh": "LIVIN Jogging Track",
+          "th": "LIVIN Jogging Track"
+        },
+        "source": "livinram_official"
+      }
+    ],
+    "official_gallery_source": "https://www.livinram.com/en",
+    "official_brochure": {
+      "status": "link_on_page_not_fetched",
+      "page_url": "https://www.livinram.com/en",
+      "note": "Download Brochure visible; no rights-cleared file stored"
+    },
+    "official_floor_plans": {
+      "status": "plans_on_page_not_fetched",
+      "page_url": "https://www.livinram.com/en",
+      "note": "UNIT PLAN section on official site; media not downloaded"
+    }
   },
   "ads": {
     "landing_path": "/projects/the-livin-ramkhamhaeng",

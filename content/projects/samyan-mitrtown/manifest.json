@@ -61,7 +61,10 @@
     "official_website": "https://www.samyanmitrtown.com/",
     "facebook_url": null,
     "completion_year": null,
-    "transit_tags": ["mrt", "mrt-blue"],
+    "transit_tags": [
+      "mrt",
+      "mrt-blue"
+    ],
     "seo": {
       "title": {
         "en": "Samyan Mitrtown Condo in Pathum Wan, Bangkok | GoThailandHome",
@@ -72,6 +75,154 @@
         "en": "Project page for Samyan Mitrtown in Pathum Wan, Bangkok. Sourced from the developer official site.",
         "zh": "三岩 Mitrtown项目页（曼谷巴吞旺），来源为开发商官方站点。",
         "th": "หน้าโครงการ สามย่าน มิตรทาวน์ เขตปทุมวัน อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
+      }
+    },
+    "project_master": {
+      "phase": "7",
+      "audit_version": "2026-07-15-project-master-completion",
+      "verified_at": "2026-07-15T07:50:41Z",
+      "rule": "Tier1_official > Tier2_portal; never invent; never demote",
+      "field_classifications": {
+        "official_project_name": "OFFICIAL",
+        "thai_project_name": "OFFICIAL",
+        "developer_relation": "OFFICIAL",
+        "official_project_url": "OFFICIAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "full_address": "VERIFIED_PORTAL",
+        "district": "OFFICIAL",
+        "subdistrict": "UNVERIFIED",
+        "latitude": "UNVERIFIED",
+        "longitude": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED",
+        "unit_types": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "nearest_bts": "UNVERIFIED",
+        "nearest_mrt": "DERIVED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plans": "UNVERIFIED",
+        "official_gallery_source": "UNVERIFIED",
+        "verification_timestamp": "OFFICIAL"
+      },
+      "field_provenance": {
+        "official_project_name": {
+          "tier": 1,
+          "source_url": "https://www.samyanmitrtown.com/",
+          "note": "packaged name with official source entry",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "thai_project_name": {
+          "tier": 1,
+          "source_url": "https://www.samyanmitrtown.com/",
+          "note": "packaged name with official source entry",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "developer_relation": {
+          "tier": 1,
+          "source_url": null,
+          "note": "developer.slug present in package",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_project_url": {
+          "tier": 1,
+          "source_url": "https://www.samyanmitrtown.com/",
+          "note": null,
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "project_status": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "completion_year": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "full_address": {
+          "tier": 2,
+          "source": "portal_package",
+          "note": "district-level placeholder address",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "district": {
+          "tier": 1,
+          "source_url": null,
+          "note": "location.district_slug",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "subdistrict": {
+          "tier": 4,
+          "note": "subdistrict_slug not present in packages",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "latitude": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "longitude": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "building_count": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "floor_count": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "total_units": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "unit_types": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_facilities": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "nearest_bts": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "nearest_mrt": {
+          "tier": 3,
+          "note": "transit_tags contains mrt without named station",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_brochure": {
+          "tier": 4,
+          "note": "no brochure source captured; media not downloaded",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_floor_plans": {
+          "tier": 4,
+          "note": "no floor-plan source captured; media not downloaded",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "official_gallery_source": {
+          "tier": 4,
+          "note": "missing_or_unconfirmed",
+          "verified_at": "2026-07-15T07:50:41Z"
+        },
+        "verification_timestamp": {
+          "tier": 1,
+          "note": "Phase 7 project master audit timestamp",
+          "verified_at": "2026-07-15T07:50:41Z"
+        }
       }
     }
   }
