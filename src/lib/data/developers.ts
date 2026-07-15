@@ -89,13 +89,18 @@ export async function listProjectsForDeveloper(
 ): Promise<ProjectView[]> {
   if (!hasSupabaseEnv()) return [];
   const supabase = await createClient();
-  const { data, error } = await supabase
-    .from("property_projects")
+  const { data: developer } = await supabase
+    .from("developers")
     .select("slug")
-    .eq("status", "published")
-    .eq("developer_id", developerId);
-  if (error || !data?.length) return [];
-  const slugs = new Set(data.map((row) => row.slug as string));
-  const projects = await listPublishedProjects();
-  return projects.filter((project) => slugs.has(project.slug));
+    .eq("id", developerId)
+    .maybeSingle();
+  if (!developer?.slug) return [];
+  return listPublishedProjects({ developerSlug: developer.slug });
+}
+
+/** Direct slug lookup — preferred for detail pages. */
+export async function listProjectsForDeveloperSlug(
+  developerSlug: string,
+): Promise<ProjectView[]> {
+  return listPublishedProjects({ developerSlug });
 }
