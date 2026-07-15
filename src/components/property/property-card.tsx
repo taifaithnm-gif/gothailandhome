@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 import { ListingMediaFrame } from "@/components/property/listing-media-frame";
-import { SourceBadge } from "@/components/ui/badge";
+import { Badge, SourceBadge } from "@/components/ui/badge";
 import { ListingCardShell } from "@/components/ui/card";
 import type { Locale } from "@/config/locales";
 import { formatPrice, type PropertyView } from "@/lib/data/properties";
@@ -17,6 +17,17 @@ type PropertyCardProps = {
   imagePriority?: boolean;
 };
 
+function formatEvidenceDate(iso: string, locale: Locale) {
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return iso;
+  const tag = locale === "zh" ? "zh-CN" : locale === "th" ? "th-TH" : "en-GB";
+  return new Intl.DateTimeFormat(tag, {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  }).format(date);
+}
+
 export function PropertyCard({
   locale,
   dict,
@@ -24,6 +35,26 @@ export function PropertyCard({
   className,
   imagePriority = false,
 }: PropertyCardProps) {
+  const projectLabel = property.projectName[locale] || property.projectName.en;
+  const districtLabel =
+    property.districtName[locale] || property.districtName.en;
+  const placeBits = [
+    propertyTypeLabel(dict, property.type),
+    districtLabel || property.location[locale],
+  ].filter(Boolean);
+
+  const verifiedLabel = property.lastVerifiedAt
+    ? dict.properties.lastVerified.replace(
+        "{date}",
+        formatEvidenceDate(property.lastVerifiedAt, locale),
+      )
+    : property.sourceUpdatedAt
+      ? dict.properties.sourceUpdated.replace(
+          "{date}",
+          formatEvidenceDate(property.sourceUpdatedAt, locale),
+        )
+      : null;
+
   return (
     <ListingCardShell className={cn(className)}>
       <div className="relative">
@@ -56,16 +87,28 @@ export function PropertyCard({
 
       <div className="flex flex-1 flex-col gap-4 p-5">
         <div className="space-y-2">
+          <div className="flex min-h-6 flex-wrap items-center gap-2">
+            {property.isVerifiedListing ? (
+              <Badge tone="verified">{dict.properties.verified}</Badge>
+            ) : null}
+            {property.source && property.coverUrl ? (
+              <SourceBadge source={property.source} />
+            ) : null}
+          </div>
           <p className="text-xs tracking-wide text-[var(--brand)] uppercase">
-            {propertyTypeLabel(dict, property.type)} ·{" "}
-            {property.location[locale]}
+            {placeBits.join(" · ")}
           </p>
+          {projectLabel ? (
+            <p className="text-xs text-stone-500">
+              {dict.properties.project}: {projectLabel}
+            </p>
+          ) : null}
           <h3 className="font-heading text-xl leading-snug text-[var(--brand-deep)]">
             {property.title[locale]}
           </h3>
-          <p className="text-sm leading-relaxed text-stone-600">
-            {property.summary[locale]}
-          </p>
+          {verifiedLabel ? (
+            <p className="text-xs text-stone-500">{verifiedLabel}</p>
+          ) : null}
         </div>
 
         <dl className="mt-auto grid grid-cols-3 gap-2 border-t border-[var(--brand-line)] pt-4 text-xs text-stone-600">
@@ -99,11 +142,18 @@ export function PropertyCard({
           </p>
           <Link
             href={localePath(locale, `/properties/${property.slug}`)}
-            className="text-sm font-medium text-[var(--brand)] underline-offset-4 transition hover:underline"
+            className="min-h-11 min-w-[5rem] text-sm font-medium text-[var(--brand)] underline-offset-4 transition hover:underline"
           >
             {dict.common.viewProperty}
           </Link>
         </div>
+
+        <Link
+          href={localePath(locale, "/contact")}
+          className="text-xs font-medium text-stone-500 underline-offset-4 hover:text-[var(--brand)] hover:underline"
+        >
+          {dict.properties.platformHelp}
+        </Link>
       </div>
     </ListingCardShell>
   );

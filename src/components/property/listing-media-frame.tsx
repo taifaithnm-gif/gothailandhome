@@ -39,7 +39,7 @@ export function ListingMediaFrame({
   return (
     <div
       className={cn(
-        "relative aspect-[16/10] overflow-hidden bg-[linear-gradient(145deg,#0f4f49_0%,#1a6b63_48%,#c4a035_140%)]",
+        "relative aspect-[16/10] min-h-[10rem] overflow-hidden bg-[linear-gradient(145deg,#0f4f49_0%,#1a6b63_48%,#c4a035_140%)]",
         className,
       )}
     >
@@ -49,6 +49,8 @@ export function ListingMediaFrame({
           <img
             src={imageUrl}
             alt={title}
+            width={640}
+            height={400}
             loading={priority ? "eager" : "lazy"}
             decoding="async"
             className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]"
