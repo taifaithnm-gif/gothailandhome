@@ -27,6 +27,9 @@ export type PropertyView = {
   districtId: string | null;
   developerSlug: string | null;
   projectSlug: string | null;
+  projectName: Record<Locale, string>;
+  districtSlug: string | null;
+  districtName: Record<Locale, string>;
   bedrooms: number | null;
   bathrooms: number | null;
   areaSqm: number | null;
@@ -37,6 +40,7 @@ export type PropertyView = {
   source: string | null;
   listingUrl: string | null;
   sourceUpdatedAt: string | null;
+  lastVerifiedAt: string | null;
   isVerifiedListing: boolean;
   publishedAt: string | null;
   title: Record<Locale, string>;
@@ -48,18 +52,24 @@ export type PropertyView = {
   features: PropertyFeatureRow[];
 };
 
+type PropertyProjectRelation = Pick<
+  import("@/lib/supabase/types").PropertyProjectRow,
+  "slug" | "developer_id" | "name_en" | "name_zh" | "name_th"
+> & {
+  developers: { slug: string } | null;
+};
+
+type DistrictRelation = Pick<
+  import("@/lib/supabase/types").DistrictRow,
+  "slug" | "name_en" | "name_zh" | "name_th"
+>;
+
 type PropertyWithRelations = PropertyRow & {
   locations: LocationRow | null;
   property_media: PropertyMediaRow[] | null;
   property_features: PropertyFeatureRow[] | null;
-  property_projects:
-    | (Pick<
-        import("@/lib/supabase/types").PropertyProjectRow,
-        "slug" | "developer_id"
-      > & {
-        developers: { slug: string } | null;
-      })
-    | null;
+  property_projects: PropertyProjectRelation | null;
+  districts: DistrictRelation | null;
 };
 
 const propertySelect = `
@@ -67,9 +77,13 @@ const propertySelect = `
   locations (*),
   property_media (*),
   property_features (*),
+  districts ( slug, name_en, name_zh, name_th ),
   property_projects (
     slug,
     developer_id,
+    name_en,
+    name_zh,
+    name_th,
     developers ( slug )
   )
 `;
@@ -88,6 +102,10 @@ function localizedLocation(
   };
 }
 
+function emptyI18n(): Record<Locale, string> {
+  return { en: "", zh: "", th: "" };
+}
+
 export function mapProperty(row: PropertyWithRelations): PropertyView {
   const media = [...(row.property_media ?? [])].sort(
     (a, b) => a.sort_order - b.sort_order,
@@ -96,6 +114,9 @@ export function mapProperty(row: PropertyWithRelations): PropertyView {
     media.find((item) => item.is_cover)?.public_url ??
     media[0]?.public_url ??
     null;
+
+  const project = row.property_projects;
+  const district = row.districts;
 
   return {
     id: row.id,
@@ -108,8 +129,19 @@ export function mapProperty(row: PropertyWithRelations): PropertyView {
     agentId: row.agent_id,
     cityId: row.city_id,
     districtId: row.district_id,
-    developerSlug: row.property_projects?.developers?.slug ?? null,
-    projectSlug: row.property_projects?.slug ?? null,
+    developerSlug: project?.developers?.slug ?? null,
+    projectSlug: project?.slug ?? null,
+    projectName: project
+      ? { en: project.name_en, zh: project.name_zh, th: project.name_th }
+      : emptyI18n(),
+    districtSlug: district?.slug ?? null,
+    districtName: district
+      ? {
+          en: district.name_en,
+          zh: district.name_zh,
+          th: district.name_th,
+        }
+      : emptyI18n(),
     bedrooms: row.bedrooms,
     bathrooms: row.bathrooms,
     areaSqm: row.area_sqm == null ? null : Number(row.area_sqm),
@@ -120,6 +152,7 @@ export function mapProperty(row: PropertyWithRelations): PropertyView {
     source: row.source,
     listingUrl: row.listing_url,
     sourceUpdatedAt: row.source_updated_at,
+    lastVerifiedAt: row.last_verified_at ?? null,
     isVerifiedListing: Boolean(row.is_verified_listing),
     publishedAt: row.published_at,
     title: {
@@ -134,9 +167,9 @@ export function mapProperty(row: PropertyWithRelations): PropertyView {
       th: row.summary_th,
     },
     description: {
-      en: row.description_en,
-      zh: row.description_zh,
-      th: row.description_th,
+      en: row.description_en ?? "",
+      zh: row.description_zh ?? "",
+      th: row.description_th ?? "",
     },
     coverUrl: cover,
     media,
@@ -165,7 +198,13 @@ export function formatPrice(
   return formatted;
 }
 
-export type ListingSort = "newest" | "price_asc" | "price_desc" | "featured";
+export type ListingSort =
+  | "newest_verified"
+  | "newest"
+  | "price_asc"
+  | "price_desc"
+  | "area_desc"
+  | "featured";
 
 export type ListingFilters = {
   query?: string;
@@ -176,11 +215,14 @@ export type ListingFilters = {
   listingType?: ListingType | "all";
   citySlug?: string;
   districtSlug?: string;
+  projectSlug?: string;
   developerSlug?: string;
   transit?: string;
   bedrooms?: number;
   minPrice?: number;
   maxPrice?: number;
+  minArea?: number;
+  maxArea?: number;
   sort?: ListingSort;
 };
 
@@ -198,21 +240,26 @@ export type PagedProperties = {
   page: number;
   pageSize: number;
   totalPages: number;
+  /** Set when the database query failed (items empty). */
+  error?: string | null;
 };
 
-/** Lightweight select for result grids — omits features and long descriptions. */
+/** Lightweight select for result grids — omits features payloads. */
 const propertyListSelect = `
   id, slug, status, listing_type, property_type, location_id, project_id, agent_id,
   city_id, district_id, bedrooms, bathrooms, area_sqm, land_area_sqm, price_thb,
-  featured, transit_tags, source, listing_url, source_updated_at, is_verified_listing,
-  published_at, updated_at, title_en, title_zh, title_th,
+  featured, transit_tags, source, listing_url, source_updated_at, last_verified_at,
+  is_verified_listing, published_at, updated_at, title_en, title_zh, title_th,
   summary_en, summary_zh, summary_th,
-  description_en, description_zh, description_th,
   locations (name_en, name_zh, name_th),
+  districts ( slug, name_en, name_zh, name_th ),
   property_media (public_url, is_cover, sort_order),
   property_projects (
     slug,
     developer_id,
+    name_en,
+    name_zh,
+    name_th,
     developers ( slug )
   )
 `;
@@ -233,12 +280,25 @@ function applyListingSort(
   if (sort === "price_desc") {
     return request.order("price_thb", { ascending: false });
   }
+  if (sort === "area_desc") {
+    return request.order("area_sqm", {
+      ascending: false,
+      nullsFirst: false,
+    });
+  }
   if (sort === "featured") {
     return request
       .order("featured", { ascending: false })
       .order("published_at", { ascending: false });
   }
-  return request.order("published_at", { ascending: false });
+  if (sort === "newest") {
+    return request.order("published_at", { ascending: false });
+  }
+  // newest_verified — prefer last_verified_at, then source_updated_at, then published
+  return request
+    .order("last_verified_at", { ascending: false, nullsFirst: false })
+    .order("source_updated_at", { ascending: false, nullsFirst: false })
+    .order("published_at", { ascending: false });
 }
 
 async function resolveListingScopeIds(
@@ -274,7 +334,28 @@ async function resolveListingScopeIds(
     districtId = data.id;
   }
 
-  if (options?.developerSlug) {
+  if (options?.projectSlug) {
+    const { data: project } = await supabase
+      .from("property_projects")
+      .select("id, developer_id")
+      .eq("slug", options.projectSlug)
+      .eq("status", "published")
+      .maybeSingle();
+    if (!project?.id) return { empty: true };
+
+    if (options?.developerSlug) {
+      const { data: developer } = await supabase
+        .from("developers")
+        .select("id")
+        .eq("slug", options.developerSlug)
+        .maybeSingle();
+      if (!developer?.id || project.developer_id !== developer.id) {
+        return { empty: true };
+      }
+    }
+
+    projectIds = [project.id];
+  } else if (options?.developerSlug) {
     const { data: developer } = await supabase
       .from("developers")
       .select("id")
@@ -310,6 +391,7 @@ export async function listPublishedPropertiesPaged(
     page,
     pageSize,
     totalPages: 0,
+    error: null,
   };
 
   if (!hasSupabaseEnv()) return empty;
@@ -341,6 +423,12 @@ export async function listPublishedPropertiesPaged(
   }
   if (options?.maxPrice != null && Number.isFinite(options.maxPrice)) {
     request = request.lte("price_thb", options.maxPrice);
+  }
+  if (options?.minArea != null && Number.isFinite(options.minArea)) {
+    request = request.gte("area_sqm", options.minArea);
+  }
+  if (options?.maxArea != null && Number.isFinite(options.maxArea)) {
+    request = request.lte("area_sqm", options.maxArea);
   }
   if (options?.transit) {
     request = request.contains("transit_tags", [options.transit]);
@@ -383,7 +471,7 @@ export async function listPublishedPropertiesPaged(
     request = request.in("location_id", locationIds);
   }
 
-  const sort = options?.sort ?? "newest";
+  const sort = options?.sort ?? "newest_verified";
   request = applyListingSort(request, sort);
 
   const from = (page - 1) * pageSize;
@@ -392,7 +480,7 @@ export async function listPublishedPropertiesPaged(
 
   if (error) {
     console.error("listPublishedPropertiesPaged", error.message);
-    return empty;
+    return { ...empty, error: error.message };
   }
 
   const items = (data as PropertyWithRelations[]).map(mapProperty);
@@ -403,6 +491,7 @@ export async function listPublishedPropertiesPaged(
     page,
     pageSize,
     totalPages: total === 0 ? 0 : Math.ceil(total / pageSize),
+    error: null,
   };
 }
 
@@ -439,6 +528,12 @@ export async function listPublishedProperties(
   if (options?.maxPrice != null && Number.isFinite(options.maxPrice)) {
     request = request.lte("price_thb", options.maxPrice);
   }
+  if (options?.minArea != null && Number.isFinite(options.minArea)) {
+    request = request.gte("area_sqm", options.minArea);
+  }
+  if (options?.maxArea != null && Number.isFinite(options.maxArea)) {
+    request = request.lte("area_sqm", options.maxArea);
+  }
   if (options?.transit) {
     request = request.contains("transit_tags", [options.transit]);
   }
@@ -446,7 +541,7 @@ export async function listPublishedProperties(
   if (scope.districtId) request = request.eq("district_id", scope.districtId);
   if (scope.projectIds) request = request.in("project_id", scope.projectIds);
 
-  const sort = options?.sort ?? "newest";
+  const sort = options?.sort ?? "newest_verified";
   request = applyListingSort(request, sort);
 
   const { data, error } = await request;
