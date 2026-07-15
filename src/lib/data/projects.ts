@@ -72,13 +72,26 @@ export type ProjectView = {
   location: LocalizedText;
   cityId: string | null;
   districtId: string | null;
+  districtSlug: string | null;
+  districtName: LocalizedText;
   transitTags: string[];
+};
+
+type DistrictRelation = {
+  slug: string;
+  name_en: string;
+  name_zh: string;
+  name_th: string;
 };
 
 type ProjectWithRelations = PropertyProjectRow & {
   developers: DeveloperRow | null;
   locations: LocationRow | null;
+  districts: DistrictRelation | null;
 };
+
+const projectSelect =
+  "*, developers (*), locations (*), districts ( slug, name_en, name_zh, name_th )";
 
 function asLocalized(
   en?: string | null,
@@ -90,6 +103,7 @@ function asLocalized(
 
 function mapProject(row: ProjectWithRelations): ProjectView {
   const developer = row.developers;
+  const district = row.districts;
   return {
     id: row.id,
     slug: row.slug,
@@ -166,6 +180,10 @@ function mapProject(row: ProjectWithRelations): ProjectView {
       : asLocalized(),
     cityId: row.city_id,
     districtId: row.district_id,
+    districtSlug: district?.slug ?? null,
+    districtName: district
+      ? asLocalized(district.name_en, district.name_zh, district.name_th)
+      : asLocalized(),
     transitTags: row.transit_tags ?? [],
   };
 }
@@ -178,7 +196,7 @@ export async function getPublishedProjectBySlug(
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("property_projects")
-    .select("*, developers (*), locations (*)")
+    .select(projectSelect)
     .eq("slug", slug)
     .eq("status", "published")
     .maybeSingle();
@@ -190,13 +208,14 @@ export async function getPublishedProjectBySlug(
 export async function listPublishedProjects(options?: {
   cityId?: string;
   districtId?: string;
+  developerSlug?: string;
 }): Promise<ProjectView[]> {
   if (!hasSupabaseEnv()) return [];
 
   const supabase = await createClient();
   let request = supabase
     .from("property_projects")
-    .select("*, developers (*), locations (*)")
+    .select(projectSelect)
     .eq("status", "published")
     .order("name_en", { ascending: true });
 
@@ -205,6 +224,15 @@ export async function listPublishedProjects(options?: {
   }
   if (options?.districtId) {
     request = request.eq("district_id", options.districtId);
+  }
+  if (options?.developerSlug) {
+    const { data: developer } = await supabase
+      .from("developers")
+      .select("id")
+      .eq("slug", options.developerSlug)
+      .maybeSingle();
+    if (!developer?.id) return [];
+    request = request.eq("developer_id", developer.id);
   }
 
   const { data, error } = await request;
