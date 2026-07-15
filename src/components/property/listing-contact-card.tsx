@@ -14,14 +14,14 @@ type Props = {
   dict: Dictionary;
   propertyId: string;
   agent: AgentRow | null;
-  /** Optional Alpha assistive panel — never a listing agent substitute. */
   showAiConcierge?: boolean;
 };
 
 /**
- * Listing contact card — composes ListingContact + viewing form + Platform CS.
+ * Contact presentation for Listing Detail Alpha.
+ * A = listing contact only when evidence exists (never invent).
+ * B = Platform Customer Success (Apple) + AI Concierge — platform help only.
  * Never silently substitutes Apple/platform CS as the listing owner.
- * Platform support is shown only as a separate help/escalation path.
  */
 export function ListingContactCard({
   locale,
@@ -31,14 +31,42 @@ export function ListingContactCard({
   showAiConcierge = true,
 }: Props) {
   return (
-    <SurfaceCard className="space-y-4 p-6!" data-slot="listing-contact-card">
-      <ListingContact locale={locale} dict={dict} agent={agent} />
+    <div className="space-y-4" data-slot="listing-contact-card">
+      <SurfaceCard className="space-y-3 p-5!" data-slot="listing-contact-block">
+        <p className="ds-caption text-[var(--brand)]">
+          {dict.property.contactListing}
+        </p>
+        <ListingContact locale={locale} dict={dict} agent={agent} />
+      </SurfaceCard>
 
-      <ViewingRequestForm locale={locale} dict={dict} propertyId={propertyId} />
+      <SurfaceCard className="space-y-3 p-5!" data-slot="request-viewing-block">
+        <ViewingRequestForm
+          locale={locale}
+          dict={dict}
+          propertyId={propertyId}
+        />
+      </SurfaceCard>
 
-      <PlatformCustomerSuccess locale={locale} dict={dict} />
-
-      {showAiConcierge ? <AiConcierge dict={dict} /> : null}
-    </SurfaceCard>
+      <SurfaceCard
+        tone="dashed"
+        className="space-y-3 p-5!"
+        data-slot="platform-support-block"
+      >
+        <div>
+          <p className="ds-caption text-[var(--brand)]">
+            {dict.property.contactPlatform}
+          </p>
+          <p className="mt-1 text-xs text-stone-600">
+            {dict.property.contactPlatformNote}
+          </p>
+        </div>
+        <PlatformCustomerSuccess
+          locale={locale}
+          dict={dict}
+          showEscalationLink
+        />
+        {showAiConcierge ? <AiConcierge dict={dict} /> : null}
+      </SurfaceCard>
+    </div>
   );
 }

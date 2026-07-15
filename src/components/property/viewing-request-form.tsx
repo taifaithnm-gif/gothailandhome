@@ -33,10 +33,12 @@ export function ViewingRequestForm({ locale, dict, propertyId }: Props) {
   }
 
   return (
-    <form action={action} className="mt-4 space-y-3 border-t border-[var(--brand-line)] pt-4">
+    <form action={action} className="space-y-3">
       <input type="hidden" name="locale" value={locale} />
       <input type="hidden" name="property_id" value={propertyId} />
-      <p className="text-sm font-medium text-[var(--brand-deep)]">{m.requestViewing}</p>
+      <p className="text-sm font-medium text-[var(--brand-deep)]">
+        {dict.property.requestViewing}
+      </p>
       <input name="name" required placeholder={m.name} className={inputClass} />
       <input name="phone" placeholder={m.phone} className={inputClass} />
       <input name="email" type="email" placeholder={m.email} className={inputClass} />

@@ -1,22 +1,36 @@
+import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { PageShell } from "@/components/layout/page-shell";
 import { ListingContactCard } from "@/components/property/listing-contact-card";
-import { ListingMediaFrame } from "@/components/property/listing-media-frame";
+import { ListingGallery } from "@/components/property/listing-gallery";
 import { PropertyGrid } from "@/components/property/property-grid";
-import { isLocale } from "@/config/locales";
+import { Badge, SourceBadge } from "@/components/ui/badge";
+import {
+  ProjectCardShell,
+  SurfaceCard,
+} from "@/components/ui/card";
+import { isLocale, type Locale } from "@/config/locales";
 import {
   formatPrice,
   getAgentById,
   getPublishedPropertyBySlug,
   listPublishedPropertiesPaged,
+  type PropertyView,
 } from "@/lib/data/properties";
+import { getPublishedProjectBySlug } from "@/lib/data/projects";
+import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import {
   buildPageMetadata,
   fillTemplate,
+  localePath,
   propertyTypeLabel,
 } from "@/lib/i18n/metadata";
+import {
+  poiDisplayName,
+  type ProjectPoi,
+} from "@/lib/projects/normalize-project-content";
 
 export const revalidate = 60;
 
@@ -42,6 +56,99 @@ export async function generateMetadata({
   });
 }
 
+function formatEvidenceDate(iso: string | null, locale: Locale) {
+  if (!iso) return null;
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return null;
+  const tag = locale === "zh" ? "zh-CN" : locale === "th" ? "th-TH" : "en-GB";
+  return new Intl.DateTimeFormat(tag, {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  }).format(date);
+}
+
+function displayOrUnknown(
+  value: string | number | null | undefined,
+  unknown: string,
+) {
+  if (value == null || value === "") return unknown;
+  return String(value);
+}
+
+function transitLabel(tag: string, dict: Dictionary) {
+  const t = tag.toLowerCase();
+  if (t === "bts") return dict.listings.bts;
+  if (t === "mrt") return dict.listings.mrt;
+  return tag;
+}
+
+function NearbyList({
+  items,
+  locale,
+}: {
+  items: ProjectPoi[];
+  locale: Locale;
+}) {
+  if (!items.length) return null;
+  return (
+    <ul className="space-y-2 text-sm text-stone-700">
+      {items.map((item, index) => {
+        const label = poiDisplayName(item, locale);
+        if (!label) return null;
+        return (
+          <li
+            key={`${label}-${item.distance ?? ""}-${index}`}
+            className="flex justify-between gap-4 border-b border-[var(--brand-line)]/70 py-2"
+          >
+            <span>{label}</span>
+            {item.distance ? (
+              <span className="shrink-0 text-stone-500">{item.distance}</span>
+            ) : null}
+          </li>
+        );
+      })}
+    </ul>
+  );
+}
+
+async function loadSimilar(property: PropertyView) {
+  const tries = [
+    property.districtSlug
+      ? {
+          districtSlug: property.districtSlug,
+          listingType: property.listingType,
+        }
+      : null,
+    property.projectSlug
+      ? {
+          projectSlug: property.projectSlug,
+          listingType: property.listingType,
+        }
+      : null,
+    { listingType: property.listingType },
+  ].filter(Boolean) as Array<{
+    districtSlug?: string;
+    projectSlug?: string;
+    listingType: PropertyView["listingType"];
+  }>;
+
+  for (const opts of tries) {
+    const page = await listPublishedPropertiesPaged({
+      verifiedOnly: true,
+      page: 1,
+      pageSize: 6,
+      sort: "newest_verified",
+      ...opts,
+    });
+    const items = page.items
+      .filter((item) => item.id !== property.id)
+      .slice(0, 3);
+    if (items.length) return items;
+  }
+  return [];
+}
+
 export default async function PropertyDetailPage({
   params,
 }: PageProps<"/[lang]/properties/[id]">) {
@@ -52,125 +159,441 @@ export default async function PropertyDetailPage({
   if (!property) notFound();
 
   const dict = await getDictionary(lang);
-  const agent = property.agentId
-    ? await getAgentById(property.agentId)
-    : null;
-  const similarPage = await listPublishedPropertiesPaged({
-    verifiedOnly: true,
-    page: 1,
-    pageSize: 4,
-    sort: "newest",
-  });
-  const similar = similarPage.items
-    .filter((item) => item.id !== property.id)
-    .slice(0, 3);
+  const unknown = dict.property.unknown;
+
+  const [agent, project, similar] = await Promise.all([
+    property.agentId ? getAgentById(property.agentId) : Promise.resolve(null),
+    property.projectSlug
+      ? getPublishedProjectBySlug(property.projectSlug)
+      : Promise.resolve(null),
+    loadSimilar(property),
+  ]);
+
+  const galleryImages = property.media
+    .map((item) => ({
+      url: item.public_url,
+      alt:
+        lang === "zh"
+          ? item.alt_zh
+          : lang === "th"
+            ? item.alt_th
+            : item.alt_en,
+    }))
+    .filter((item) => Boolean(item.url));
+
+  if (!galleryImages.length && property.coverUrl) {
+    galleryImages.push({ url: property.coverUrl, alt: property.title[lang] });
+  }
+
+  const lastVerified = formatEvidenceDate(property.lastVerifiedAt, lang);
+  const sourceUpdated = formatEvidenceDate(property.sourceUpdatedAt, lang);
+
+  const areaLabel =
+    property.areaSqm != null
+      ? `${property.areaSqm} ${dict.common.sqm}`
+      : property.landAreaSqm != null
+        ? `${property.landAreaSqm} ${dict.common.sqm}`
+        : unknown;
+
+  const mapReady =
+    project &&
+    ((project.latitude != null && project.longitude != null) ||
+      project.googleMapsUrl);
+
+  const nearbyTransport = project?.transportation ?? [];
+  const nearbyPlaces = [
+    ...(project?.nearbyMalls ?? []),
+    ...(project?.nearbySchools ?? []),
+    ...(project?.nearbyHospitals ?? []),
+  ];
+  const hasNearby =
+    property.transitTags.length > 0 ||
+    nearbyTransport.length > 0 ||
+    nearbyPlaces.length > 0;
+
+  const facts: Array<{ label: string; value: string }> = [
+    {
+      label: dict.common.type,
+      value: propertyTypeLabel(dict, property.type),
+    },
+    {
+      label: dict.common.sale,
+      value:
+        property.listingType === "rent"
+          ? dict.common.rent
+          : dict.common.sale,
+    },
+    {
+      label: dict.common.price,
+      value: formatPrice(property.priceThb, lang, property.listingType),
+    },
+    {
+      label: dict.common.bedrooms,
+      value: displayOrUnknown(property.bedrooms, unknown),
+    },
+    {
+      label: dict.common.bathrooms,
+      value: displayOrUnknown(property.bathrooms, unknown),
+    },
+    { label: dict.common.area, value: areaLabel },
+    {
+      label: dict.property.floor,
+      value: displayOrUnknown(property.floorLabel, unknown),
+    },
+    {
+      label: dict.property.building,
+      value: displayOrUnknown(property.buildingLabel, unknown),
+    },
+    {
+      label: dict.common.location,
+      value: displayOrUnknown(property.location[lang], unknown),
+    },
+    {
+      label: dict.property.district,
+      value: displayOrUnknown(property.districtName[lang], unknown),
+    },
+  ];
 
   return (
     <PageShell
       title={property.title[lang]}
-      subtitle={property.location[lang]}
+      subtitle={
+        property.districtName[lang] ||
+        property.location[lang] ||
+        property.summary[lang]
+      }
     >
-      <div className="grid gap-8 lg:grid-cols-[1.4fr_0.8fr]">
-        <div className="space-y-6">
-          <div className="overflow-hidden rounded-[1.5rem] border border-[var(--brand-line)]">
-            <ListingMediaFrame
-              locale={lang}
-              dict={dict}
-              title={property.title[lang]}
-              propertyType={property.type}
-              imageUrl={property.coverUrl}
-              imageSource={property.source}
-              priority
-              showSource={Boolean(property.coverUrl && property.source)}
-              className="aspect-[16/9]"
-            />
-          </div>
+      <div className="grid min-h-[40rem] gap-8 lg:grid-cols-[1.45fr_0.9fr]">
+        <div className="space-y-10">
+          {/* 1. Gallery */}
+          <ListingGallery
+            locale={lang}
+            dict={dict}
+            title={property.title[lang]}
+            propertyType={property.type}
+            images={galleryImages}
+            imageSource={property.source}
+          />
 
-          <section className="space-y-3 rounded-2xl border border-[var(--brand-line)] bg-white p-6">
-            <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
-              {dict.property.overview}
-            </h2>
-            <p className="leading-relaxed text-stone-600">
-              {property.description[lang]}
-            </p>
-            {property.features.length > 0 ? (
-              <ul className="mt-4 grid gap-2 sm:grid-cols-2">
-                {property.features.map((feature) => (
-                  <li
-                    key={feature.id}
-                    className="rounded-xl bg-[var(--brand-soft)] px-3 py-2 text-sm text-[var(--brand-deep)]"
-                  >
-                    <span className="font-medium">
-                      {lang === "zh"
-                        ? feature.label_zh
-                        : lang === "th"
-                          ? feature.label_th
-                          : feature.label_en}
-                    </span>
-                    {(lang === "zh"
-                      ? feature.value_zh
-                      : lang === "th"
-                        ? feature.value_th
-                        : feature.value_en) && (
-                      <>
-                        {": "}
-                        {lang === "zh"
-                          ? feature.value_zh
-                          : lang === "th"
-                            ? feature.value_th
-                            : feature.value_en}
-                      </>
-                    )}
-                  </li>
-                ))}
-              </ul>
-            ) : null}
-          </section>
-        </div>
-
-        <aside className="space-y-4">
-          <div className="rounded-2xl border border-[var(--brand-line)] bg-white p-6 shadow-[0_1px_0_rgba(6,61,56,0.04)]">
-            <p className="text-sm tracking-wide text-[var(--brand)] uppercase">
-              {propertyTypeLabel(dict, property.type)} ·{" "}
-              {property.listingType === "rent"
-                ? dict.common.rent
-                : dict.common.sale}
-            </p>
-            <p className="font-heading mt-3 text-3xl text-[var(--brand-deep)]">
+          {/* 2. Key Summary */}
+          <SurfaceCard className="p-5!" data-slot="listing-key-summary">
+            <div className="flex flex-wrap items-center gap-2">
+              <Badge tone="brand">
+                {property.listingType === "rent"
+                  ? dict.common.rent
+                  : dict.common.sale}
+              </Badge>
+              {property.isVerifiedListing ? (
+                <Badge tone="verified">{dict.property.verified}</Badge>
+              ) : (
+                <Badge tone="unverified">{dict.property.unverified}</Badge>
+              )}
+              {property.source ? (
+                <SourceBadge source={property.source} />
+              ) : null}
+            </div>
+            <p className="font-heading mt-4 text-3xl text-[var(--brand-deep)]">
               {formatPrice(property.priceThb, lang, property.listingType)}
             </p>
-            <dl className="mt-6 grid grid-cols-2 gap-4 text-sm text-stone-600">
+            <dl className="mt-5 grid grid-cols-2 gap-4 sm:grid-cols-4">
               <div>
-                <dt>{dict.common.bedrooms}</dt>
-                <dd className="mt-1 font-medium text-[var(--brand-deep)]">
-                  {property.bedrooms ?? "—"}
+                <dt className="ds-caption text-stone-500">
+                  {dict.common.area}
+                </dt>
+                <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+                  {areaLabel}
                 </dd>
               </div>
               <div>
-                <dt>{dict.common.bathrooms}</dt>
-                <dd className="mt-1 font-medium text-[var(--brand-deep)]">
-                  {property.bathrooms ?? "—"}
+                <dt className="ds-caption text-stone-500">
+                  {dict.common.bedrooms}
+                </dt>
+                <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+                  {displayOrUnknown(property.bedrooms, unknown)}
                 </dd>
               </div>
               <div>
-                <dt>{dict.common.area}</dt>
-                <dd className="mt-1 font-medium text-[var(--brand-deep)]">
-                  {property.areaSqm != null
-                    ? `${property.areaSqm} ${dict.common.sqm}`
-                    : property.landAreaSqm != null
-                      ? `${property.landAreaSqm} ${dict.common.sqm}`
-                      : "—"}
+                <dt className="ds-caption text-stone-500">
+                  {dict.common.bathrooms}
+                </dt>
+                <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+                  {displayOrUnknown(property.bathrooms, unknown)}
                 </dd>
               </div>
               <div>
-                <dt>{dict.common.location}</dt>
-                <dd className="mt-1 font-medium text-[var(--brand-deep)]">
-                  {property.location[lang]}
+                <dt className="ds-caption text-stone-500">
+                  {dict.property.floor}
+                </dt>
+                <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+                  {displayOrUnknown(property.floorLabel, unknown)}
                 </dd>
               </div>
             </dl>
-          </div>
+          </SurfaceCard>
 
+          {/* 3. Property Facts */}
+          <section aria-labelledby="listing-facts-heading">
+            <h2
+              id="listing-facts-heading"
+              className="ds-h2 text-2xl"
+            >
+              {dict.property.facts}
+            </h2>
+            <dl className="mt-4 grid gap-3 sm:grid-cols-2">
+              {facts.map((fact) => (
+                <div
+                  key={fact.label}
+                  className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
+                >
+                  <dt className="ds-caption text-stone-500">{fact.label}</dt>
+                  <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+                    {fact.value}
+                  </dd>
+                </div>
+              ))}
+            </dl>
+            {property.features.length > 0 ? (
+              <ul className="mt-4 grid gap-2 sm:grid-cols-2">
+                {property.features.map((feature) => {
+                  const label =
+                    lang === "zh"
+                      ? feature.label_zh
+                      : lang === "th"
+                        ? feature.label_th
+                        : feature.label_en;
+                  const value =
+                    lang === "zh"
+                      ? feature.value_zh
+                      : lang === "th"
+                        ? feature.value_th
+                        : feature.value_en;
+                  if (!label) return null;
+                  return (
+                    <li
+                      key={feature.id}
+                      className="rounded-xl bg-[var(--brand-soft)] px-3 py-2 text-sm text-[var(--brand-deep)]"
+                    >
+                      <span className="font-medium">{label}</span>
+                      {value ? `: ${value}` : null}
+                    </li>
+                  );
+                })}
+              </ul>
+            ) : null}
+            {property.description[lang] ? (
+              <p className="mt-5 leading-relaxed text-stone-600">
+                {property.description[lang]}
+              </p>
+            ) : null}
+          </section>
+
+          {/* 4. Project */}
+          <section aria-labelledby="listing-project-heading">
+            <h2 id="listing-project-heading" className="ds-h2 text-2xl">
+              {dict.property.projectSection}
+            </h2>
+            <div className="mt-4 grid gap-3">
+              {property.projectSlug &&
+              (property.projectName[lang] || property.projectName.en) ? (
+                <Link
+                  href={localePath(lang, `/projects/${property.projectSlug}`)}
+                  className="block"
+                >
+                  <ProjectCardShell className="p-5">
+                    <p className="ds-caption text-[var(--brand)]">
+                      {dict.property.projectSection}
+                    </p>
+                    <h3 className="font-heading mt-1 text-xl text-[var(--brand-deep)]">
+                      {property.projectName[lang] || property.projectName.en}
+                    </h3>
+                    <p className="mt-2 text-sm text-[var(--brand)]">
+                      {dict.property.viewProject} →
+                    </p>
+                  </ProjectCardShell>
+                </Link>
+              ) : (
+                <p className="text-sm text-stone-500">{unknown}</p>
+              )}
+
+              {property.developerSlug && project?.developer ? (
+                <Link
+                  href={localePath(
+                    lang,
+                    `/developers/${property.developerSlug}`,
+                  )}
+                  className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3 transition hover:border-[var(--brand)]"
+                >
+                  <p className="ds-caption text-stone-500">
+                    {dict.property.developer}
+                  </p>
+                  <p className="mt-1 font-medium text-[var(--brand-deep)]">
+                    {project.developer.name[lang] ||
+                      project.developer.name.en}
+                  </p>
+                  <p className="mt-1 text-sm text-[var(--brand)]">
+                    {dict.property.viewDeveloper} →
+                  </p>
+                </Link>
+              ) : property.developerSlug ? (
+                <Link
+                  href={localePath(
+                    lang,
+                    `/developers/${property.developerSlug}`,
+                  )}
+                  className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3 transition hover:border-[var(--brand)]"
+                >
+                  <p className="ds-caption text-stone-500">
+                    {dict.property.developer}
+                  </p>
+                  <p className="mt-1 font-medium text-[var(--brand-deep)]">
+                    {property.developerSlug}
+                  </p>
+                </Link>
+              ) : null}
+
+              {property.districtSlug && property.districtName[lang] ? (
+                <Link
+                  href={localePath(
+                    lang,
+                    `/districts/${property.districtSlug}`,
+                  )}
+                  className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3 transition hover:border-[var(--brand)]"
+                >
+                  <p className="ds-caption text-stone-500">
+                    {dict.property.district}
+                  </p>
+                  <p className="mt-1 font-medium text-[var(--brand-deep)]">
+                    {property.districtName[lang]}
+                  </p>
+                  <p className="mt-1 text-sm text-[var(--brand)]">
+                    {dict.property.viewDistrict} →
+                  </p>
+                </Link>
+              ) : null}
+            </div>
+          </section>
+
+          {/* 5. Map */}
+          <section aria-labelledby="listing-map-heading">
+            <h2 id="listing-map-heading" className="ds-h2 text-2xl">
+              {dict.property.map}
+            </h2>
+            {mapReady && project ? (
+              <SurfaceCard className="mt-4 space-y-2 p-5!">
+                {project.latitude != null && project.longitude != null ? (
+                  <p className="text-sm text-stone-600">
+                    {dict.projectLanding.coordinates}: {project.latitude},{" "}
+                    {project.longitude}
+                  </p>
+                ) : null}
+                {project.googleMapsUrl ? (
+                  <a
+                    href={project.googleMapsUrl}
+                    className="inline-flex text-sm font-medium text-[var(--brand)] underline-offset-4 hover:underline"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Google Maps
+                  </a>
+                ) : null}
+              </SurfaceCard>
+            ) : (
+              <p className="mt-3 text-sm text-stone-500">
+                {dict.property.mapMissing}
+              </p>
+            )}
+          </section>
+
+          {/* 6. Nearby */}
+          <section aria-labelledby="listing-nearby-heading">
+            <h2 id="listing-nearby-heading" className="ds-h2 text-2xl">
+              {dict.property.nearby}
+            </h2>
+            {hasNearby ? (
+              <div className="mt-4 space-y-5">
+                {property.transitTags.length > 0 ? (
+                  <div>
+                    <h3 className="text-sm font-semibold text-[var(--brand-deep)]">
+                      {dict.property.transit}
+                    </h3>
+                    <ul className="mt-2 flex flex-wrap gap-2">
+                      {property.transitTags.map((tag) => (
+                        <li key={tag}>
+                          <Badge tone="brand">{transitLabel(tag, dict)}</Badge>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ) : null}
+                {nearbyTransport.length > 0 ? (
+                  <div>
+                    <h3 className="text-sm font-semibold text-[var(--brand-deep)]">
+                      {dict.projectLanding.transport}
+                    </h3>
+                    <div className="mt-2">
+                      <NearbyList items={nearbyTransport} locale={lang} />
+                    </div>
+                  </div>
+                ) : null}
+                {nearbyPlaces.length > 0 ? (
+                  <div>
+                    <NearbyList items={nearbyPlaces} locale={lang} />
+                  </div>
+                ) : null}
+              </div>
+            ) : (
+              <p className="mt-3 text-sm text-stone-500">
+                {dict.property.nearbyMissing}
+              </p>
+            )}
+          </section>
+
+          {/* 10. Source & Verification */}
+          <section aria-labelledby="listing-source-heading">
+            <h2 id="listing-source-heading" className="ds-h2 text-2xl">
+              {dict.property.sourceVerification}
+            </h2>
+            <SurfaceCard className="mt-4 space-y-2 p-5!">
+              <div className="flex flex-wrap items-center gap-2">
+                {property.isVerifiedListing ? (
+                  <Badge tone="verified">{dict.property.verified}</Badge>
+                ) : (
+                  <Badge tone="unverified">{dict.property.unverified}</Badge>
+                )}
+                {property.source ? (
+                  <SourceBadge source={property.source} />
+                ) : (
+                  <span className="text-sm text-stone-500">
+                    {dict.property.source}: {unknown}
+                  </span>
+                )}
+              </div>
+              {lastVerified ? (
+                <p className="text-sm text-stone-600">
+                  {dict.property.lastVerified}: {lastVerified}
+                </p>
+              ) : null}
+              {sourceUpdated ? (
+                <p className="text-sm text-stone-600">
+                  {dict.property.sourceUpdated}: {sourceUpdated}
+                </p>
+              ) : null}
+              {property.listingUrl ? (
+                <a
+                  href={property.listingUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex text-sm font-medium text-[var(--brand)] underline-offset-4 hover:underline"
+                >
+                  {dict.property.sourceLink}
+                </a>
+              ) : null}
+            </SurfaceCard>
+          </section>
+        </div>
+
+        {/* 7–8. Contact + Request Viewing */}
+        <aside className="space-y-4 lg:sticky lg:top-24 lg:self-start">
           <ListingContactCard
             locale={lang}
             dict={dict}
@@ -180,11 +603,17 @@ export default async function PropertyDetailPage({
         </aside>
       </div>
 
-      <section className="mt-14 space-y-6">
-        <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
+      {/* 9. Find Similar */}
+      <section className="mt-14 space-y-6" aria-labelledby="listing-similar-heading">
+        <h2 id="listing-similar-heading" className="ds-h2 text-2xl">
           {dict.property.similar}
         </h2>
-        <PropertyGrid locale={lang} dict={dict} properties={similar} />
+        <PropertyGrid
+          locale={lang}
+          dict={dict}
+          properties={similar}
+          imagePriorityCount={0}
+        />
       </section>
     </PageShell>
   );
