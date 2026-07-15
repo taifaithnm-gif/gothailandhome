@@ -1,0 +1,104 @@
+{
+  "pubWithAgent": 0,
+  "draftWithAgent": 12,
+  "anyAgent": 12,
+  "importedWithAgent": 0,
+  "drafts": [
+    {
+      "slug": "bangkok-riverside-condo",
+      "status": "draft",
+      "agent_id": "33333333-3333-4333-8333-333333333301",
+      "source": null,
+      "updated_at": "2026-07-14T11:33:22.972431+00:00",
+      "is_verified_listing": false
+    },
+    {
+      "slug": "bangkok-sukhumvit-condo",
+      "status": "draft",
+      "agent_id": "33333333-3333-4333-8333-333333333301",
+      "source": null,
+      "updated_at": "2026-07-14T11:33:22.972431+00:00",
+      "is_verified_listing": false
+    },
+    {
+      "slug": "bangtao-land-plot",
+      "status": "draft",
+      "agent_id": "33333333-3333-4333-8333-333333333302",
+      "source": null,
+      "updated_at": "2026-07-14T11:33:22.972431+00:00",
+      "is_verified_listing": false
+    },
+    {
+      "slug": "chiang-mai-cafe-commercial",
+      "status": "draft",
+      "agent_id": "33333333-3333-4333-8333-333333333301",
+      "source": null,
+      "updated_at": "2026-07-14T11:33:22.972431+00:00",
+      "is_verified_listing": false
+    },
+    {
+      "slug": "chiang-mai-garden-house",
+      "status": "draft",
+      "agent_id": "33333333-3333-4333-8333-333333333301",
+      "source": null,
+      "updated_at": "2026-07-14T11:33:22.972431+00:00",
+      "is_verified_listing": false
+    },
+    {
+      "slug": "hua-hin-beach-house",
+      "status": "draft",
+      "agent_id": "33333333-3333-4333-8333-333333333302",
+      "source": null,
+      "updated_at": "2026-07-14T11:33:22.972431+00:00",
+      "is_verified_listing": false
+    },
+    {
+      "slug": "hua-hin-land-near-golf",
+      "status": "draft",
+      "agent_id": "33333333-3333-4333-8333-333333333302",
+      "source": null,
+      "updated_at": "2026-07-14T11:33:22.972431+00:00",
+      "is_verified_listing": false
+    },
+    {
+      "slug": "pattaya-sea-view-condo",
+      "status": "draft",
+      "agent_id": "33333333-3333-4333-8333-333333333301",
+      "source": null,
+      "updated_at": "2026-07-14T11:33:22.972431+00:00",
+      "is_verified_listing": false
+    },
+    {
+      "slug": "phuket-hillside-villa-rent",
+      "status": "draft",
+      "agent_id": "33333333-3333-4333-8333-333333333302",
+      "source": null,
+      "updated_at": "2026-07-14T11:33:22.972431+00:00",
+      "is_verified_listing": false
+    },
+    {
+      "slug": "phuket-pool-villa",
+      "status": "draft",
+      "agent_id": "33333333-3333-4333-8333-333333333302",
+      "source": null,
+      "updated_at": "2026-07-14T11:33:22.972431+00:00",
+      "is_verified_listing": false
+    },
+    {
+      "slug": "riverside-family-condo",
+      "status": "draft",
+      "agent_id": "33333333-3333-4333-8333-333333333301",
+      "source": null,
+      "updated_at": "2026-07-14T11:33:22.972431+00:00",
+      "is_verified_listing": false
+    },
+    {
+      "slug": "silom-office-floor",
+      "status": "draft",
+      "agent_id": "33333333-3333-4333-8333-333333333301",
+      "source": null,
+      "updated_at": "2026-07-14T11:33:22.972431+00:00",
+      "is_verified_listing": false
+    }
+  ]
+}

@@ -45,9 +45,13 @@ Evidence: `pipelines/factory/overnight/_runs/p0-supabase-reconcile.json`
 | Metric | Count |
 |--------|------:|
 | properties with `agent_id` | 12 |
-| Live DB at P0 validation (read-only; not modified) | 0 |
+| of which `status=draft` seed demos (live) | 12 |
+| of which `status=published` (live) | 0 |
+| imported/`source` listings with `agent_id` | 0 |
 
-Offline contact tests assert the freeze baseline row (`properties with agent_id` = 12). Live count is pre-existing drift.
+**Clarification (2026-07-15 reconciliation):** The freeze-era “12” are Phase 3 **seed demo** rows. They still have `agent_id` linked to demo agents Anya/Somchai, but Phase 5 geography migration set `status='draft'` for placeholders without `listing_url`/source. Published Alpha inventory therefore shows **0** agents. See [AGENT_ID_RECONCILIATION_REPORT.md](AGENT_ID_RECONCILIATION_REPORT.md).
+
+Offline contact tests still assert the freeze baseline row (`properties with agent_id` = 12).
 
 ## P0 mutations of verified listing business data
 

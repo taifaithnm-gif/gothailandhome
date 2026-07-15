@@ -1,0 +1,265 @@
+{
+  "at": "2026-07-15T13:49:11.535Z",
+  "rows": [
+    {
+      "path": "/en",
+      "status": 200,
+      "bytes": 124713,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 25,
+      "missingContact": true,
+      "title": "GoThailandHome | Thailand Property Platform"
+    },
+    {
+      "path": "/zh",
+      "status": 200,
+      "bytes": 122580,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": false,
+      "imagesUnavailable": 0,
+      "missingContact": false,
+      "title": "GoThailandHome | 泰国房产平台"
+    },
+    {
+      "path": "/th",
+      "status": 200,
+      "bytes": 150764,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": false,
+      "imagesUnavailable": 0,
+      "missingContact": false,
+      "title": "GoThailandHome | แพลตฟอร์มอสังหาริมทรัพย์ไทย"
+    },
+    {
+      "path": "/en/properties",
+      "status": 200,
+      "bytes": 218642,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 97,
+      "missingContact": true,
+      "title": "Property Listings | GoThailandHome"
+    },
+    {
+      "path": "/en/properties?listing_type=sale",
+      "status": 200,
+      "bytes": 219127,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 97,
+      "missingContact": true,
+      "title": "Property Listings | GoThailandHome"
+    },
+    {
+      "path": "/en/properties?listing_type=rent",
+      "status": 200,
+      "bytes": 218843,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 97,
+      "missingContact": true,
+      "title": "Property Listings | GoThailandHome"
+    },
+    {
+      "path": "/en/properties?q=zzzz-no-match-xyz",
+      "status": 200,
+      "bytes": 61646,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 1,
+      "missingContact": true,
+      "title": "Property Listings | GoThailandHome"
+    },
+    {
+      "path": "/en/search",
+      "status": 200,
+      "bytes": 199111,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 97,
+      "missingContact": true,
+      "title": "Search Properties | GoThailandHome"
+    },
+    {
+      "path": "/en/search?page=2",
+      "status": 200,
+      "bytes": 199800,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 97,
+      "missingContact": true,
+      "title": "Search Properties | GoThailandHome"
+    },
+    {
+      "path": "/en/properties/xt-phayathai-rent-fazwaz-6200779",
+      "status": 200,
+      "bytes": 70546,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 17,
+      "missingContact": true,
+      "title": "1 Bedroom Condo for Rent at XT Phayathai for ฿25,000/mo | U6200779 | GoThailandHome"
+    },
+    {
+      "path": "/zh/properties/xt-phayathai-rent-fazwaz-6200779",
+      "status": 200,
+      "bytes": 69366,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": false,
+      "imagesUnavailable": 0,
+      "missingContact": false,
+      "title": "1 Bedroom Condo for Rent at XT Phayathai for ฿25,000/mo | U6200779 | GoThailandHome"
+    },
+    {
+      "path": "/en/projects/ashton-asoke",
+      "status": 200,
+      "bytes": 153657,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 1,
+      "missingContact": true,
+      "title": "Ashton Asoke Condo in Watthana, Bangkok | GoThailandHome"
+    },
+    {
+      "path": "/en/projects/ideo-rama-9",
+      "status": 200,
+      "bytes": 59629,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 1,
+      "missingContact": true,
+      "title": "IDEO Rama 9 Condo in Huai Khwang, Bangkok | GoThailandHome"
+    },
+    {
+      "path": "/en/developers/sansiri",
+      "status": 200,
+      "bytes": 1110782,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 649,
+      "missingContact": true,
+      "title": "Sansiri | GoThailandHome"
+    },
+    {
+      "path": "/en/districts/watthana",
+      "status": 200,
+      "bytes": 1403307,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 829,
+      "missingContact": true,
+      "title": "Watthana Bangkok Property | GoThailandHome"
+    },
+    {
+      "path": "/en/cities/bangkok",
+      "status": 200,
+      "bytes": 6712885,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 4001,
+      "missingContact": true,
+      "title": "Bangkok Property | GoThailandHome"
+    },
+    {
+      "path": "/en/find-my-home",
+      "status": 200,
+      "bytes": 47026,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 1,
+      "missingContact": true,
+      "title": "Find My Home | GoThailandHome"
+    },
+    {
+      "path": "/en/list-your-property",
+      "status": 200,
+      "bytes": 45966,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 1,
+      "missingContact": true,
+      "title": "List Your Property | GoThailandHome"
+    },
+    {
+      "path": "/en/partners/developers",
+      "status": 200,
+      "bytes": 43920,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 1,
+      "missingContact": true,
+      "title": "Developer Partnership | GoThailandHome"
+    },
+    {
+      "path": "/en/partners/agencies",
+      "status": 200,
+      "bytes": 43869,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 1,
+      "missingContact": true,
+      "title": "Agency Partnership | GoThailandHome"
+    },
+    {
+      "path": "/en/contact",
+      "status": 200,
+      "bytes": 45590,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 1,
+      "missingContact": true,
+      "title": "Contact | GoThailandHome"
+    },
+    {
+      "path": "/en/about",
+      "status": 200,
+      "bytes": 39856,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": true,
+      "imagesUnavailable": 1,
+      "missingContact": true,
+      "title": "About | GoThailandHome"
+    },
+    {
+      "path": "/en/does-not-exist-404",
+      "status": 404,
+      "bytes": 11161,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": false,
+      "imagesUnavailable": 0,
+      "missingContact": false,
+      "title": "GoThailandHome"
+    },
+    {
+      "path": "/zh/properties",
+      "status": 200,
+      "bytes": 217499,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": false,
+      "imagesUnavailable": 0,
+      "missingContact": false,
+      "title": "房源列表 | GoThailandHome"
+    },
+    {
+      "path": "/th/contact",
+      "status": 200,
+      "bytes": 60050,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": false,
+      "imagesUnavailable": 0,
+      "missingContact": false,
+      "title": "ติดต่อเรา | GoThailandHome"
+    },
+    {
+      "path": "/zh/projects/ashton-asoke",
+      "status": 200,
+      "bytes": 152714,
+      "hasAppleAsAgent": false,
+      "hasPlatformHelp": false,
+      "imagesUnavailable": 0,
+      "missingContact": false,
+      "title": "Ashton Asoke｜曼谷瓦他那 | GoThailandHome"
+    }
+  ]
+}
