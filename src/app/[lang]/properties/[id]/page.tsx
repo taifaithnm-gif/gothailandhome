@@ -2,13 +2,14 @@ import { notFound } from "next/navigation";
 
 import { PageShell } from "@/components/layout/page-shell";
 import { ListingContactCard } from "@/components/property/listing-contact-card";
+import { ListingMediaFrame } from "@/components/property/listing-media-frame";
 import { PropertyGrid } from "@/components/property/property-grid";
 import { isLocale } from "@/config/locales";
 import {
   formatPrice,
   getAgentById,
   getPublishedPropertyBySlug,
-  listPublishedProperties,
+  listPublishedPropertiesPaged,
 } from "@/lib/data/properties";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import {
@@ -54,7 +55,13 @@ export default async function PropertyDetailPage({
   const agent = property.agentId
     ? await getAgentById(property.agentId)
     : null;
-  const similar = (await listPublishedProperties())
+  const similarPage = await listPublishedPropertiesPaged({
+    verifiedOnly: true,
+    page: 1,
+    pageSize: 4,
+    sort: "newest",
+  });
+  const similar = similarPage.items
     .filter((item) => item.id !== property.id)
     .slice(0, 3);
 
@@ -66,16 +73,17 @@ export default async function PropertyDetailPage({
       <div className="grid gap-8 lg:grid-cols-[1.4fr_0.8fr]">
         <div className="space-y-6">
           <div className="overflow-hidden rounded-[1.5rem] border border-[var(--brand-line)]">
-            {property.coverUrl ? (
-              // eslint-disable-next-line @next/next/no-img-element
-              <img
-                src={property.coverUrl}
-                alt={property.title[lang]}
-                className="aspect-[16/9] w-full object-cover"
-              />
-            ) : (
-              <div className="aspect-[16/9] bg-[linear-gradient(135deg,#063d38_0%,#0a5c54_40%,#e0b34d_140%)]" />
-            )}
+            <ListingMediaFrame
+              locale={lang}
+              dict={dict}
+              title={property.title[lang]}
+              propertyType={property.type}
+              imageUrl={property.coverUrl}
+              imageSource={property.source}
+              priority
+              showSource={Boolean(property.coverUrl && property.source)}
+              className="aspect-[16/9]"
+            />
           </div>
 
           <section className="space-y-3 rounded-2xl border border-[var(--brand-line)] bg-white p-6">

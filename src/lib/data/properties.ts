@@ -184,61 +184,270 @@ export type ListingFilters = {
   sort?: ListingSort;
 };
 
+/** Alpha-safe default page size for `/properties` and `/search`. */
+export const DEFAULT_LISTING_PAGE_SIZE = 24;
+
+export type ListingPageOptions = ListingFilters & {
+  page?: number;
+  pageSize?: number;
+};
+
+export type PagedProperties = {
+  items: PropertyView[];
+  total: number;
+  page: number;
+  pageSize: number;
+  totalPages: number;
+};
+
+/** Lightweight select for result grids — omits features and long descriptions. */
+const propertyListSelect = `
+  id, slug, status, listing_type, property_type, location_id, project_id, agent_id,
+  city_id, district_id, bedrooms, bathrooms, area_sqm, land_area_sqm, price_thb,
+  featured, transit_tags, source, listing_url, source_updated_at, is_verified_listing,
+  published_at, updated_at, title_en, title_zh, title_th,
+  summary_en, summary_zh, summary_th,
+  description_en, description_zh, description_th,
+  locations (name_en, name_zh, name_th),
+  property_media (public_url, is_cover, sort_order),
+  property_projects (
+    slug,
+    developer_id,
+    developers ( slug )
+  )
+`;
+
+function escapeIlike(value: string): string {
+  return value.replace(/[%_,]/g, " ").replace(/\s+/g, " ").trim();
+}
+
+function applyListingSort(
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  request: any,
+  sort: ListingSort,
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+): any {
+  if (sort === "price_asc") {
+    return request.order("price_thb", { ascending: true });
+  }
+  if (sort === "price_desc") {
+    return request.order("price_thb", { ascending: false });
+  }
+  if (sort === "featured") {
+    return request
+      .order("featured", { ascending: false })
+      .order("published_at", { ascending: false });
+  }
+  return request.order("published_at", { ascending: false });
+}
+
+async function resolveListingScopeIds(
+  supabase: Awaited<ReturnType<typeof createClient>>,
+  options?: ListingFilters,
+): Promise<{
+  cityId?: string;
+  districtId?: string;
+  projectIds?: string[];
+  empty: boolean;
+}> {
+  let cityId: string | undefined;
+  let districtId: string | undefined;
+  let projectIds: string[] | undefined;
+
+  if (options?.citySlug) {
+    const { data } = await supabase
+      .from("cities")
+      .select("id")
+      .eq("slug", options.citySlug)
+      .maybeSingle();
+    if (!data?.id) return { empty: true };
+    cityId = data.id;
+  }
+
+  if (options?.districtSlug) {
+    const { data } = await supabase
+      .from("districts")
+      .select("id")
+      .eq("slug", options.districtSlug)
+      .maybeSingle();
+    if (!data?.id) return { empty: true };
+    districtId = data.id;
+  }
+
+  if (options?.developerSlug) {
+    const { data: developer } = await supabase
+      .from("developers")
+      .select("id")
+      .eq("slug", options.developerSlug)
+      .maybeSingle();
+    if (!developer?.id) return { empty: true };
+    const { data: projects } = await supabase
+      .from("property_projects")
+      .select("id")
+      .eq("developer_id", developer.id);
+    projectIds = (projects ?? []).map((row) => row.id);
+    if (!projectIds.length) return { empty: true };
+  }
+
+  return { cityId, districtId, projectIds, empty: false };
+}
+
+/**
+ * Paged listing query for public result pages.
+ * Sorts and filters deterministically; does not load the full catalog into HTML.
+ */
+export async function listPublishedPropertiesPaged(
+  options?: ListingPageOptions,
+): Promise<PagedProperties> {
+  const pageSize = Math.min(
+    Math.max(options?.pageSize ?? DEFAULT_LISTING_PAGE_SIZE, 1),
+    48,
+  );
+  const page = Math.max(options?.page ?? 1, 1);
+  const empty: PagedProperties = {
+    items: [],
+    total: 0,
+    page,
+    pageSize,
+    totalPages: 0,
+  };
+
+  if (!hasSupabaseEnv()) return empty;
+
+  const supabase = await createClient();
+  const scope = await resolveListingScopeIds(supabase, options);
+  if (scope.empty) return empty;
+
+  let request = supabase
+    .from("properties")
+    .select(propertyListSelect, { count: "exact" })
+    .eq("status", "published");
+
+  if (options?.featuredOnly) request = request.eq("featured", true);
+  if (options?.verifiedOnly) {
+    request = request.eq("is_verified_listing", true);
+  }
+  if (options?.listingType && options.listingType !== "all") {
+    request = request.eq("listing_type", options.listingType);
+  }
+  if (options?.type && options.type !== "all") {
+    request = request.eq("property_type", options.type as PropertyType);
+  }
+  if (options?.bedrooms != null && Number.isFinite(options.bedrooms)) {
+    request = request.eq("bedrooms", options.bedrooms);
+  }
+  if (options?.minPrice != null && Number.isFinite(options.minPrice)) {
+    request = request.gte("price_thb", options.minPrice);
+  }
+  if (options?.maxPrice != null && Number.isFinite(options.maxPrice)) {
+    request = request.lte("price_thb", options.maxPrice);
+  }
+  if (options?.transit) {
+    request = request.contains("transit_tags", [options.transit]);
+  }
+  if (scope.cityId) request = request.eq("city_id", scope.cityId);
+  if (scope.districtId) request = request.eq("district_id", scope.districtId);
+  if (scope.projectIds) request = request.in("project_id", scope.projectIds);
+
+  const query = escapeIlike(options?.query ?? "");
+  if (query) {
+    const pattern = `%${query}%`;
+    request = request.or(
+      [
+        `title_en.ilike.${pattern}`,
+        `title_zh.ilike.${pattern}`,
+        `title_th.ilike.${pattern}`,
+        `summary_en.ilike.${pattern}`,
+        `summary_zh.ilike.${pattern}`,
+        `summary_th.ilike.${pattern}`,
+        `slug.ilike.${pattern}`,
+      ].join(","),
+    );
+  }
+
+  const location = escapeIlike(options?.location ?? "");
+  if (location) {
+    const pattern = `%${location}%`;
+    const { data: locations } = await supabase
+      .from("locations")
+      .select("id")
+      .or(
+        [
+          `name_en.ilike.${pattern}`,
+          `name_zh.ilike.${pattern}`,
+          `name_th.ilike.${pattern}`,
+        ].join(","),
+      );
+    const locationIds = (locations ?? []).map((row) => row.id);
+    if (!locationIds.length) return empty;
+    request = request.in("location_id", locationIds);
+  }
+
+  const sort = options?.sort ?? "newest";
+  request = applyListingSort(request, sort);
+
+  const from = (page - 1) * pageSize;
+  const to = from + pageSize - 1;
+  const { data, error, count } = await request.range(from, to);
+
+  if (error) {
+    console.error("listPublishedPropertiesPaged", error.message);
+    return empty;
+  }
+
+  const items = (data as PropertyWithRelations[]).map(mapProperty);
+  const total = count ?? items.length;
+  return {
+    items,
+    total,
+    page,
+    pageSize,
+    totalPages: total === 0 ? 0 : Math.ceil(total / pageSize),
+  };
+}
+
 export async function listPublishedProperties(
   options?: ListingFilters,
 ): Promise<PropertyView[]> {
   if (!hasSupabaseEnv()) return [];
 
   const supabase = await createClient();
+  const scope = await resolveListingScopeIds(supabase, options);
+  if (scope.empty) return [];
+
   let request = supabase
     .from("properties")
     .select(propertySelect)
     .eq("status", "published");
 
-  if (options?.featuredOnly) {
-    request = request.eq("featured", true);
-  }
-
+  if (options?.featuredOnly) request = request.eq("featured", true);
   if (options?.verifiedOnly) {
     request = request.eq("is_verified_listing", true);
   }
-
   if (options?.listingType && options.listingType !== "all") {
     request = request.eq("listing_type", options.listingType);
   }
-
   if (options?.type && options.type !== "all") {
     request = request.eq("property_type", options.type as PropertyType);
   }
-
   if (options?.bedrooms != null && Number.isFinite(options.bedrooms)) {
     request = request.eq("bedrooms", options.bedrooms);
   }
-
   if (options?.minPrice != null && Number.isFinite(options.minPrice)) {
     request = request.gte("price_thb", options.minPrice);
   }
-
   if (options?.maxPrice != null && Number.isFinite(options.maxPrice)) {
     request = request.lte("price_thb", options.maxPrice);
   }
-
   if (options?.transit) {
     request = request.contains("transit_tags", [options.transit]);
   }
+  if (scope.cityId) request = request.eq("city_id", scope.cityId);
+  if (scope.districtId) request = request.eq("district_id", scope.districtId);
+  if (scope.projectIds) request = request.in("project_id", scope.projectIds);
 
   const sort = options?.sort ?? "newest";
-  if (sort === "price_asc") {
-    request = request.order("price_thb", { ascending: true });
-  } else if (sort === "price_desc") {
-    request = request.order("price_thb", { ascending: false });
-  } else if (sort === "featured") {
-    request = request
-      .order("featured", { ascending: false })
-      .order("published_at", { ascending: false });
-  } else {
-    request = request.order("published_at", { ascending: false });
-  }
+  request = applyListingSort(request, sort);
 
   const { data, error } = await request;
   if (error) {
@@ -272,42 +481,6 @@ export async function listPublishedProperties(
         value.toLowerCase().includes(location),
       ),
     );
-  }
-
-  if (options?.developerSlug) {
-    properties = properties.filter(
-      (property) => property.developerSlug === options.developerSlug,
-    );
-  }
-
-  if (options?.citySlug || options?.districtSlug) {
-    const { data: cities } = options.citySlug
-      ? await supabase
-          .from("cities")
-          .select("id")
-          .eq("slug", options.citySlug)
-          .maybeSingle()
-      : { data: null };
-    const { data: districts } = options.districtSlug
-      ? await supabase
-          .from("districts")
-          .select("id")
-          .eq("slug", options.districtSlug)
-          .maybeSingle()
-      : { data: null };
-
-    if (options.citySlug) {
-      const cityId = cities?.id;
-      properties = cityId
-        ? properties.filter((property) => property.cityId === cityId)
-        : [];
-    }
-    if (options.districtSlug) {
-      const districtId = districts?.id;
-      properties = districtId
-        ? properties.filter((property) => property.districtId === districtId)
-        : [];
-    }
   }
 
   return properties;

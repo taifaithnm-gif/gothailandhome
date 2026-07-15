@@ -104,7 +104,9 @@
     "land": "Land",
     "commercial": "Commercial",
     "sale": "Sale",
-    "rent": "Rent"
+    "rent": "Rent",
+    "imagesUnavailable": "Images unavailable",
+    "imageSource": "Image source"
   },
   "home": {
     "headline": "Thailand property, city by city",
@@ -158,7 +160,11 @@
     "locationPlaceholder": "City or area",
     "typeLabel": "Property type",
     "submit": "Search",
-    "showing": "Showing {count} listings"
+    "showing": "Showing {count} listings",
+    "pageSummary": "{from}–{to} of {total} listings",
+    "pageOf": "Page {page} of {totalPages}",
+    "prevPage": "Previous",
+    "nextPage": "Next"
   },
   "about": {
     "title": "About GoThailandHome",
@@ -309,10 +315,10 @@
     "successViewing": "Thank you. Your viewing request was received.",
     "listingContactTitle": "Listing contact",
     "listingContactRole": "Listing contact",
-    "listingContactMissing": "No listing contact is on file for this property. Platform Customer Success can help escalate — they are not the listing owner.",
-    "platformSupportTitle": "Platform Customer Success (help / escalation)",
-    "platformSupportNote": "Separate from the listing contact. Apple and platform staff never replace the listing owner or agent.",
-    "escalationCta": "Contact platform support",
+    "listingContactMissing": "No listing contact is on file for this property. Ask GoThailandHome for help reaching the source — platform staff are not the listing agent.",
+    "platformSupportTitle": "Ask GoThailandHome to help contact the source",
+    "platformSupportNote": "Platform assistance only. Apple and platform staff are never the listing owner, agent, agency, or developer contact.",
+    "escalationCta": "Ask GoThailandHome to help contact the source",
     "requestViewing": "Request a viewing",
     "submitViewing": "Send viewing request",
     "preferredDatetime": "Preferred date / time"

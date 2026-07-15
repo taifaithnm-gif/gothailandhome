@@ -104,7 +104,9 @@
     "land": "ที่ดิน",
     "commercial": "เชิงพาณิชย์",
     "sale": "ขาย",
-    "rent": "เช่า"
+    "rent": "เช่า",
+    "imagesUnavailable": "ไม่มีรูปภาพ",
+    "imageSource": "แหล่งที่มาของรูป"
   },
   "home": {
     "headline": "อสังหาริมทรัพย์ไทย ตามเมือง",
@@ -158,7 +160,11 @@
     "locationPlaceholder": "เมืองหรือย่าน",
     "typeLabel": "ประเภทอสังหาริมทรัพย์",
     "submit": "ค้นหา",
-    "showing": "แสดง {count} รายการ"
+    "showing": "แสดง {count} รายการ",
+    "pageSummary": "{from}–{to} จาก {total} รายการ",
+    "pageOf": "หน้า {page} จาก {totalPages}",
+    "prevPage": "ก่อนหน้า",
+    "nextPage": "ถัดไป"
   },
   "about": {
     "title": "เกี่ยวกับ GoThailandHome",
@@ -309,10 +315,10 @@
     "successViewing": "ขอบคุณ ได้รับคำขอนัดชมทรัพย์แล้ว",
     "listingContactTitle": "ผู้ติดต่อของประกาศ",
     "listingContactRole": "ผู้ติดต่อของประกาศ",
-    "listingContactMissing": "ยังไม่มีผู้ติดต่อของประกาศนี้ ฝ่ายลูกค้าสัมพันธ์สามารถช่วยประสานได้ — พวกเขาไม่ใช่เจ้าของประกาศ",
-    "platformSupportTitle": "ฝ่ายลูกค้าสัมพันธ์แพลตฟอร์ม (ช่วยเหลือ / ยกระดับ)",
-    "platformSupportNote": "แยกจากผู้ติดต่อของประกาศ Apple และทีมแพลตฟอร์มจะไม่แทนที่เจ้าของหรือเอเจนซี่",
-    "escalationCta": "ติดต่อฝ่ายสนับสนุนแพลตฟอร์ม",
+    "listingContactMissing": "ยังไม่มีผู้ติดต่อของประกาศนี้ ขอให้ GoThailandHome ช่วยติดต่อแหล่งข้อมูล — ทีมแพลตฟอร์มไม่ใช่เอเจนต์ของประกาศ",
+    "platformSupportTitle": "ขอให้ GoThailandHome ช่วยติดต่อแหล่งข้อมูล",
+    "platformSupportNote": "เป็นการช่วยเหลือจากแพลตฟอร์มเท่านั้น Apple และทีมแพลตฟอร์มไม่ใช่เจ้าของ เอเจนต์ เอเจนซี่ หรือผู้พัฒนา",
+    "escalationCta": "ขอให้ GoThailandHome ช่วยติดต่อแหล่งข้อมูล",
     "requestViewing": "ขอนัดชมทรัพย์",
     "submitViewing": "ส่งคำขอนัดชม",
     "preferredDatetime": "วัน / เวลาที่สะดวก"

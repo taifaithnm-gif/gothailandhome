@@ -1,12 +1,16 @@
 import { notFound } from "next/navigation";
 
 import { PageShell } from "@/components/layout/page-shell";
+import { ListingPagination } from "@/components/listings/listing-pagination";
 import { PropertyGrid } from "@/components/property/property-grid";
 import { SearchForm } from "@/components/search/search-form";
 import { isLocale } from "@/config/locales";
-import { listPublishedProperties } from "@/lib/data/properties";
+import {
+  DEFAULT_LISTING_PAGE_SIZE,
+  listPublishedPropertiesPaged,
+} from "@/lib/data/properties";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
-import { buildPageMetadata, fillTemplate } from "@/lib/i18n/metadata";
+import { buildPageMetadata } from "@/lib/i18n/metadata";
 
 export const dynamic = "force-dynamic";
 
@@ -37,14 +41,26 @@ export default async function SearchPage({
   const q = typeof query.q === "string" ? query.q : "";
   const location = typeof query.location === "string" ? query.location : "";
   const type = typeof query.type === "string" ? query.type : "all";
+  const pageRaw = Number(
+    typeof query.page === "string" ? query.page : "1",
+  );
+  const page = Number.isFinite(pageRaw) && pageRaw > 0 ? pageRaw : 1;
 
-  const results = await listPublishedProperties({
+  const paged = await listPublishedPropertiesPaged({
     query: q,
     location,
     type,
     verifiedOnly: true,
     sort: "newest",
+    page,
+    pageSize: DEFAULT_LISTING_PAGE_SIZE,
   });
+
+  const filterParams = {
+    q: q || undefined,
+    location: location || undefined,
+    type: type === "all" ? undefined : type,
+  };
 
   return (
     <PageShell
@@ -58,12 +74,27 @@ export default async function SearchPage({
           dict={dict}
           defaults={{ q, location, type }}
         />
-        <p className="text-sm text-stone-600">
-          {fillTemplate(dict.search.showing, {
-            count: String(results.length),
-          })}
-        </p>
-        <PropertyGrid locale={lang} dict={dict} properties={results} />
+        <ListingPagination
+          locale={lang}
+          dict={dict}
+          basePath="/search"
+          page={paged.page}
+          totalPages={paged.totalPages}
+          total={paged.total}
+          pageSize={paged.pageSize}
+          params={filterParams}
+        />
+        <PropertyGrid locale={lang} dict={dict} properties={paged.items} />
+        <ListingPagination
+          locale={lang}
+          dict={dict}
+          basePath="/search"
+          page={paged.page}
+          totalPages={paged.totalPages}
+          total={paged.total}
+          pageSize={paged.pageSize}
+          params={filterParams}
+        />
       </div>
     </PageShell>
   );

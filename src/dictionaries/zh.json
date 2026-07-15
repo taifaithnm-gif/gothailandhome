@@ -104,7 +104,9 @@
     "land": "土地",
     "commercial": "商业",
     "sale": "出售",
-    "rent": "出租"
+    "rent": "出租",
+    "imagesUnavailable": "暂无图片",
+    "imageSource": "图片来源"
   },
   "home": {
     "headline": "按城市发现泰国房产",
@@ -158,7 +160,11 @@
     "locationPlaceholder": "城市或区域",
     "typeLabel": "房型",
     "submit": "搜索",
-    "showing": "共 {count} 套房源"
+    "showing": "共 {count} 套房源",
+    "pageSummary": "第 {from}–{to} 条，共 {total} 套房源",
+    "pageOf": "第 {page} / {totalPages} 页",
+    "prevPage": "上一页",
+    "nextPage": "下一页"
   },
   "about": {
     "title": "关于 GoThailandHome",
@@ -309,10 +315,10 @@
     "successViewing": "谢谢。已收到您的看房请求。",
     "listingContactTitle": "房源联系人",
     "listingContactRole": "房源联系人",
-    "listingContactMissing": "此房源暂无登记联系人。平台客户成功可协助升级处理——他们不是房源业主。",
-    "platformSupportTitle": "平台客户成功（帮助 / 升级）",
-    "platformSupportNote": "与房源联系人分开。Apple 及平台工作人员不会替代业主或中介。",
-    "escalationCta": "联系平台客服",
+    "listingContactMissing": "此房源暂无登记联系人。可请 GoThailandHome 协助联系信息来源——平台工作人员不是房源中介。",
+    "platformSupportTitle": "请 GoThailandHome 协助联系信息来源",
+    "platformSupportNote": "仅为平台协助。Apple 与平台工作人员绝不是业主、中介、经纪公司或开发商联系人。",
+    "escalationCta": "请 GoThailandHome 协助联系信息来源",
     "requestViewing": "预约看房",
     "submitViewing": "提交看房请求",
     "preferredDatetime": "期望日期 / 时间"

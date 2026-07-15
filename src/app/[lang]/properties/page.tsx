@@ -2,12 +2,14 @@ import { notFound } from "next/navigation";
 
 import { PageShell } from "@/components/layout/page-shell";
 import { ListingFilters } from "@/components/listings/listing-filters";
+import { ListingPagination } from "@/components/listings/listing-pagination";
 import { PropertyGrid } from "@/components/property/property-grid";
 import { isLocale } from "@/config/locales";
 import { listPublishedDevelopers } from "@/lib/data/developers";
 import { listCities, listDistricts } from "@/lib/data/geography";
 import {
-  listPublishedProperties,
+  DEFAULT_LISTING_PAGE_SIZE,
+  listPublishedPropertiesPaged,
   type ListingSort,
   type ListingType,
 } from "@/lib/data/properties";
@@ -55,13 +57,15 @@ export default async function PropertiesPage({
   const minPriceRaw = one(query.min_price);
   const maxPriceRaw = one(query.max_price);
   const q = one(query.q) || undefined;
+  const pageRaw = Number(one(query.page) || "1");
+  const page = Number.isFinite(pageRaw) && pageRaw > 0 ? pageRaw : 1;
 
   const dict = await getDictionary(lang);
-  const [cities, districts, developers, properties] = await Promise.all([
+  const [cities, districts, developers, paged] = await Promise.all([
     listCities(),
     listDistricts(),
     listPublishedDevelopers(),
-    listPublishedProperties({
+    listPublishedPropertiesPaged({
       query: q,
       verifiedOnly: true,
       listingType,
@@ -73,8 +77,23 @@ export default async function PropertiesPage({
       minPrice: minPriceRaw ? Number(minPriceRaw) : undefined,
       maxPrice: maxPriceRaw ? Number(maxPriceRaw) : undefined,
       sort,
+      page,
+      pageSize: DEFAULT_LISTING_PAGE_SIZE,
     }),
   ]);
+
+  const filterParams = {
+    sort,
+    listing_type: listingType === "all" ? undefined : listingType,
+    city,
+    district,
+    developer,
+    transit,
+    bedrooms: bedroomsRaw,
+    min_price: minPriceRaw,
+    max_price: maxPriceRaw,
+    q,
+  };
 
   return (
     <PageShell
@@ -101,11 +120,30 @@ export default async function PropertiesPage({
             q: q || "",
           }}
         />
-        <p className="text-sm text-stone-500">
-          {dict.search.showing.replace("{count}", String(properties.length))}
-        </p>
+        <ListingPagination
+          locale={lang}
+          dict={dict}
+          basePath="/properties"
+          page={paged.page}
+          totalPages={paged.totalPages}
+          total={paged.total}
+          pageSize={paged.pageSize}
+          params={filterParams}
+        />
       </div>
-      <PropertyGrid locale={lang} dict={dict} properties={properties} />
+      <PropertyGrid locale={lang} dict={dict} properties={paged.items} />
+      <div className="mt-8">
+        <ListingPagination
+          locale={lang}
+          dict={dict}
+          basePath="/properties"
+          page={paged.page}
+          totalPages={paged.totalPages}
+          total={paged.total}
+          pageSize={paged.pageSize}
+          params={filterParams}
+        />
+      </div>
     </PageShell>
   );
 }
