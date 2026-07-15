@@ -1,40 +1,47 @@
 # VALIDATION_REPORT
 
-**Date:** 2026-07-15  
-**Milestone:** Phase 8.3 — Search Results Alpha
+**Date:** 2026-07-16  
+**Milestone:** Phase 8.5 — Project Detail Alpha  
+**Repository:** `/Users/jun/AI-Workspace/Projects/GoThailandHome`  
+**Branch:** `main`  
+**Pre-work HEAD:** `0e09644f81cf05031675b426f83c492921c43f5f`
 
-## Baseline verification
+## Checks
 
 | Check | Result |
 |-------|--------|
-| Repository root | `/Users/jun/AI-Workspace/Projects/GoThailandHome` |
-| Branch | `main` |
-| Pre-work HEAD | `7c2ae6510e0221dc766e3ccd325ae642cb6715a7` |
-| Working tree before changes | Clean |
-| `origin/main` sync | 0 ahead / 0 behind |
+| TypeScript (`npm run typecheck`) | PASS |
+| ESLint (`npm run lint`) | PASS (0 errors; preexisting pipeline warnings only) |
+| Tests (`npm test`) | PASS (includes new `test:project-evidence`) |
+| POI / facility normalize (`test:project-content`) | PASS |
+| Evidence labels (`test:project-evidence`) | PASS |
+| Listing integrity / source counts | PASS — 617 / 316 / 192 / 190 = **1,315** |
+| Production build (`npm run build`) | PASS |
+| Project routes | **50/50** non-500 |
+| Responsive / structure spots | Hero + bounded grids + sticky aside slots present |
+| Accessibility (Lighthouse) | 93 (dense + sparse) |
+| Lighthouse performance | 77 dense / 76 sparse (measured; not claimed as targets) |
+| LCP | 5.0 s / 5.1 s |
+| CLS | 0 / 0 |
+| Contact presentation | A official ≠ B platform CS |
+| Evidence presentation | User labels; matrix unchanged |
+| UI/DB drift 1315 vs 1318 | Documented; **not** “fixed” |
 
-## Gates
+## Stop conditions
 
-| Gate | Result |
-|------|--------|
-| TypeScript | PASS |
-| Lint | PASS (0 errors; pre-existing pipeline warnings) |
-| Tests (incl. pagination + listing-search) | PASS |
-| Production build | PASS |
-| Listing integrity n=1315 | PASS |
-| Contact-role / Apple invariants | PASS |
-| Route smoke `/en|/zh|/th/properties` | PASS HTTP 200 |
-| Buy / Rent / filtered query smoke | PASS |
-| `/search` → `/properties` redirect | PASS 307 |
-| Result card bound (24) | PASS |
-| Multilingual | PASS |
-| Mobile drawer + clear-all | PASS (markup + a11y controls) |
-| Lighthouse a11y | **0.98** (≥ 0.95) |
-| Lighthouse performance | **0.80** (near baseline 0.87) |
-| CLS | **0** |
-| HTML size | **~0.286 MB** (no multi-MB regression) |
-| Harvest / listing mutations / deploy | None |
+None triggered. Did not begin Developer, District, Marketplace forms, or deployment.
+
+## Related reports
+
+- PROJECT_DETAIL_IMPLEMENTATION_REPORT.md
+- PROJECT_EVIDENCE_PRESENTATION_REPORT.md
+- PROJECT_LISTING_SUMMARY_REPORT.md
+- PROJECT_CONTACT_PRESENTATION_REPORT.md
+- PROJECT_ROUTE_VALIDATION_REPORT.md
+- PROJECT_PERFORMANCE_REPORT.md
+- PROJECT_DATA_INTEGRITY_REPORT.md
 
 ## Overall
 
-# PASS
+# PASS — Phase 8.5 Project Detail Alpha
+
