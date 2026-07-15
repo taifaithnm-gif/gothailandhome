@@ -17,6 +17,10 @@ import {
 } from "@/lib/data/projects";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
+import {
+  facilityZoneHasHeading,
+  poiDisplayName,
+} from "@/lib/projects/normalize-project-content";
 
 export async function generateMetadata({
   params,
@@ -55,17 +59,21 @@ function PoiList({ items, locale }: { items: ProjectPoi[]; locale: Locale }) {
   if (!items.length) return null;
   return (
     <ul className="space-y-2 text-sm text-stone-700">
-      {items.map((item) => (
-        <li
-          key={`${item.name.en}-${item.distance ?? ""}`}
-          className="flex justify-between gap-4 border-b border-[var(--brand-line)]/70 py-2"
-        >
-          <span>{item.name[locale]}</span>
-          {item.distance ? (
-            <span className="shrink-0 text-stone-500">{item.distance}</span>
-          ) : null}
-        </li>
-      ))}
+      {items.map((item, index) => {
+        const label = poiDisplayName(item, locale);
+        if (!label) return null;
+        return (
+          <li
+            key={`${label}-${item.distance ?? ""}-${index}`}
+            className="flex justify-between gap-4 border-b border-[var(--brand-line)]/70 py-2"
+          >
+            <span>{label}</span>
+            {item.distance ? (
+              <span className="shrink-0 text-stone-500">{item.distance}</span>
+            ) : null}
+          </li>
+        );
+      })}
     </ul>
   );
 }
@@ -258,17 +266,19 @@ export default async function ProjectLandingPage({
               {dict.projectLanding.unitTypes}
             </h2>
             <ul className="mt-4 grid gap-3 sm:grid-cols-2">
-              {project.unitTypes.map((unit) => (
+              {project.unitTypes.map((unit, index) => (
                 <li
-                  key={unit.code}
+                  key={`${unit.code}-${index}`}
                   className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
                 >
                   <p className="font-medium text-[var(--brand-deep)]">
-                    {unit.label[lang]}
+                    {unit.label[lang] || unit.label.en || unit.code}
                   </p>
-                  <p className="text-sm text-stone-600">
-                    {unit.area_sqm} {dict.common.sqm}
-                  </p>
+                  {unit.area_sqm > 0 ? (
+                    <p className="text-sm text-stone-600">
+                      {unit.area_sqm} {dict.common.sqm}
+                    </p>
+                  ) : null}
                 </li>
               ))}
             </ul>
@@ -279,20 +289,32 @@ export default async function ProjectLandingPage({
               {dict.projectLanding.facilities}
             </h2>
             <div className="mt-4 space-y-5">
-              {project.facilities.map((zone) => (
-                <div key={zone.zone.en}>
-                  <h3 className="text-sm font-semibold tracking-wide text-[var(--brand)] uppercase">
-                    {zone.zone[lang]}
-                  </h3>
-                  <ul className="mt-2 flex flex-wrap gap-2">
-                    {zone.items.map((item) => (
-                      <li
-                        key={item.en}
-                        className="rounded-full bg-[var(--brand-soft)] px-3 py-1 text-sm text-stone-700"
-                      >
-                        {item[lang]}
-                      </li>
-                    ))}
+              {project.facilities.map((zone, zoneIndex) => (
+                <div key={`facility-zone-${zoneIndex}`}>
+                  {facilityZoneHasHeading(zone) ? (
+                    <h3 className="text-sm font-semibold tracking-wide text-[var(--brand)] uppercase">
+                      {zone.zone[lang] || zone.zone.en}
+                    </h3>
+                  ) : null}
+                  <ul
+                    className={
+                      facilityZoneHasHeading(zone)
+                        ? "mt-2 flex flex-wrap gap-2"
+                        : "flex flex-wrap gap-2"
+                    }
+                  >
+                    {zone.items.map((item, itemIndex) => {
+                      const label = item[lang] || item.en || item.zh || item.th;
+                      if (!label) return null;
+                      return (
+                        <li
+                          key={`${label}-${itemIndex}`}
+                          className="rounded-full bg-[var(--brand-soft)] px-3 py-1 text-sm text-stone-700"
+                        >
+                          {label}
+                        </li>
+                      );
+                    })}
                   </ul>
                 </div>
               ))}
@@ -487,19 +509,30 @@ export default async function ProjectLandingPage({
               {dict.projectLanding.faq}
             </h2>
             <div className="mt-4 space-y-4">
-              {project.faq.map((item) => (
-                <details
-                  key={item.question.en}
-                  className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
-                >
-                  <summary className="cursor-pointer font-medium text-[var(--brand-deep)]">
-                    {item.question[lang]}
-                  </summary>
-                  <p className="mt-2 text-sm text-stone-700">
-                    {item.answer[lang]}
-                  </p>
-                </details>
-              ))}
+              {project.faq.map((item, index) => {
+                const question =
+                  item.question[lang] ||
+                  item.question.en ||
+                  item.question.zh ||
+                  item.question.th;
+                const answer =
+                  item.answer[lang] ||
+                  item.answer.en ||
+                  item.answer.zh ||
+                  item.answer.th;
+                if (!question || !answer) return null;
+                return (
+                  <details
+                    key={`faq-${index}`}
+                    className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
+                  >
+                    <summary className="cursor-pointer font-medium text-[var(--brand-deep)]">
+                      {question}
+                    </summary>
+                    <p className="mt-2 text-sm text-stone-700">{answer}</p>
+                  </details>
+                );
+              })}
             </div>
           </section>
         </div>

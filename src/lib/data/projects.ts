@@ -1,6 +1,16 @@
 import "server-only";
 
-import type { Locale } from "@/config/locales";
+import {
+  normalizeFacilities,
+  normalizeFaqs,
+  normalizePois,
+  normalizeUnitTypes,
+  type LocalizedText,
+  type ProjectFacilityZone,
+  type ProjectFaq,
+  type ProjectPoi,
+  type ProjectUnitType,
+} from "@/lib/projects/normalize-project-content";
 import { createClient } from "@/lib/supabase/server";
 import { hasSupabaseEnv } from "@/lib/supabase/env";
 import type {
@@ -10,31 +20,12 @@ import type {
   PropertyRow,
 } from "@/lib/supabase/types";
 
-export type LocalizedText = Record<Locale, string>;
-
-export type ProjectPoi = {
-  name: LocalizedText;
-  distance?: string;
-  note?: LocalizedText;
-  source?: string;
-};
-
-export type ProjectFacilityZone = {
-  zone: LocalizedText;
-  items: LocalizedText[];
-  source?: string;
-};
-
-export type ProjectUnitType = {
-  code: string;
-  area_sqm: number;
-  label: LocalizedText;
-  source?: string;
-};
-
-export type ProjectFaq = {
-  question: LocalizedText;
-  answer: LocalizedText;
+export type {
+  LocalizedText,
+  ProjectFacilityZone,
+  ProjectFaq,
+  ProjectPoi,
+  ProjectUnitType,
 };
 
 export type ProjectView = {
@@ -128,13 +119,13 @@ function mapProject(row: ProjectWithRelations): ProjectView {
         ? null
         : Number(row.common_fee_thb_per_sqm),
     specifications: (row.specifications ?? {}) as Record<string, unknown>,
-    unitTypes: (row.unit_types ?? []) as ProjectUnitType[],
-    facilities: (row.facilities ?? []) as ProjectFacilityZone[],
-    transportation: (row.transportation ?? []) as ProjectPoi[],
-    nearbySchools: (row.nearby_schools ?? []) as ProjectPoi[],
-    nearbyHospitals: (row.nearby_hospitals ?? []) as ProjectPoi[],
-    nearbyMalls: (row.nearby_malls ?? []) as ProjectPoi[],
-    faq: (row.faq ?? []) as ProjectFaq[],
+    unitTypes: normalizeUnitTypes(row.unit_types),
+    facilities: normalizeFacilities(row.facilities),
+    transportation: normalizePois(row.transportation),
+    nearbySchools: normalizePois(row.nearby_schools),
+    nearbyHospitals: normalizePois(row.nearby_hospitals),
+    nearbyMalls: normalizePois(row.nearby_malls),
+    faq: normalizeFaqs(row.faq),
     seoTitle: asLocalized(row.seo_title_en, row.seo_title_zh, row.seo_title_th),
     seoDescription: asLocalized(
       row.seo_description_en,
