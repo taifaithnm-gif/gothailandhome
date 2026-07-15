@@ -321,6 +321,11 @@
     "escalationCta": "请 GoThailandHome 协助联系信息来源",
     "requestViewing": "预约看房",
     "submitViewing": "提交看房请求",
-    "preferredDatetime": "期望日期 / 时间"
+    "preferredDatetime": "期望日期 / 时间",
+    "aiConcierge": {
+      "eyebrow": "AI 助理",
+      "title": "协助筛选房源",
+      "note": "仅提供辅助建议。AI 助理不是房源中介，也不会替代平台客户成功或已核实的房源联系人。"
+    }
   }
 }

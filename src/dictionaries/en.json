@@ -321,6 +321,11 @@
     "escalationCta": "Ask GoThailandHome to help contact the source",
     "requestViewing": "Request a viewing",
     "submitViewing": "Send viewing request",
-    "preferredDatetime": "Preferred date / time"
+    "preferredDatetime": "Preferred date / time",
+    "aiConcierge": {
+      "eyebrow": "AI concierge",
+      "title": "Ask for shortlist help",
+      "note": "Assistive suggestions only. The AI concierge is not a listing agent and never replaces Platform Customer Success or a verified listing contact."
+    }
   }
 }
