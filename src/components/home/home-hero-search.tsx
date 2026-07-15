@@ -118,17 +118,7 @@ export function HomeHeroSearch({
 
         <Field>
           <FieldLabel htmlFor="home-project">{h.project}</FieldLabel>
-          <Select
-            id="home-project"
-            defaultValue=""
-            onChange={(e) => {
-              const slug = e.target.value;
-              const project = projects.find((p) => p.slug === slug);
-              if (project) {
-                setQuery(project.name.en || project.name[locale]);
-              }
-            }}
-          >
+          <Select id="home-project" name="project" defaultValue="">
             <option value="">{dict.listings.all}</option>
             {projects.slice(0, 40).map((p) => (
               <option key={p.id} value={p.slug}>
@@ -142,8 +132,8 @@ export function HomeHeroSearch({
           <FieldLabel htmlFor="home-transit">{h.transit}</FieldLabel>
           <Select id="home-transit" name="transit" defaultValue="">
             <option value="">{dict.listings.all}</option>
-            <option value="BTS">BTS</option>
-            <option value="MRT">MRT</option>
+            <option value="bts">BTS</option>
+            <option value="mrt">MRT</option>
           </Select>
         </Field>
 
