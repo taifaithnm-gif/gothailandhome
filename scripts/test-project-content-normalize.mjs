@@ -85,10 +85,14 @@ check("flat facilities {key,name,source}", () => {
     null,
     { key: "gym", name: { en: "Fitness" } },
   ]);
-  assert.equal(zones.length, 1);
-  assert.equal(zones[0].zone.en, "", "must not invent zone heading");
-  assert.equal(zones[0].items.length, 2);
-  assert.equal(zones[0].items[0].en, "Swimming pool");
+  assert.equal(zones.length, 2, "group by source without inventing headings");
+  const withSource = zones.find((z) => z.source === "propertyhub");
+  const without = zones.find((z) => !z.source);
+  assert.ok(withSource);
+  assert.equal(withSource.zone.en, "", "must not invent zone heading");
+  assert.equal(withSource.items[0].en, "Swimming pool");
+  assert.ok(without);
+  assert.equal(without.items[0].en, "Fitness");
 });
 
 check("zoned facilities preserved", () => {

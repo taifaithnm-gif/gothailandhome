@@ -176,23 +176,42 @@ export function normalizeFacilities(raw: unknown): ProjectFacilityZone[] {
     return zones;
   }
 
-  // Flat list: { key, name } or { name }
-  const items: LocalizedText[] = [];
+  // Flat list: { key, name, source? } — preserve source by grouping (no invented zone titles).
+  const bySource = new Map<string, LocalizedText[]>();
   for (const entry of raw) {
     if (entry == null) continue;
     if (typeof entry === "string") {
       const text = coerceLocalizedText(entry);
-      if (text) items.push(text);
+      if (text) {
+        const list = bySource.get("") ?? [];
+        list.push(text);
+        bySource.set("", list);
+      }
       continue;
     }
     if (typeof entry !== "object" || Array.isArray(entry)) continue;
     const obj = entry as Record<string, unknown>;
     const name = coerceLocalizedText(obj.name) ?? coerceLocalizedText(obj);
-    if (name) items.push(name);
+    if (!name) continue;
+    const source =
+      typeof obj.source === "string" && obj.source.trim()
+        ? obj.source.trim()
+        : "";
+    const list = bySource.get(source) ?? [];
+    list.push(name);
+    bySource.set(source, list);
   }
 
-  if (items.length === 0) return [];
-  return [{ zone: emptyLocalized(), items }];
+  const zones: ProjectFacilityZone[] = [];
+  for (const [source, items] of bySource) {
+    if (items.length === 0) continue;
+    zones.push({
+      zone: emptyLocalized(),
+      items,
+      ...(source ? { source } : {}),
+    });
+  }
+  return zones;
 }
 
 export function normalizeUnitTypes(raw: unknown): ProjectUnitType[] {
