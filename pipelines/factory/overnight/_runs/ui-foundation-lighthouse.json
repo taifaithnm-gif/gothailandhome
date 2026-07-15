@@ -1,0 +1,11 @@
+{
+  "url": "http://127.0.0.1:3000/en/properties",
+  "performance": 0.87,
+  "accessibility": 0.99,
+  "LCP": "3.8 s",
+  "FCP": "2.0 s",
+  "a11yFails": [
+    "heading-order",
+    "bf-cache"
+  ]
+}
