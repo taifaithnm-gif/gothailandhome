@@ -101,11 +101,17 @@ try {
   } else {
     ok("platform support title is not labeled as listing agent");
   }
+  if (!m.aiConcierge?.note || !/not a listing agent/i.test(m.aiConcierge.note)) {
+    fail("aiConcierge note must state it is not a listing agent");
+    failures += 1;
+  } else {
+    ok("AI concierge copy is non-agent");
+  }
   const card = readFileSync(
     resolve(process.cwd(), "src/components/property/listing-contact-card.tsx"),
     "utf8",
   );
-  if (!card.includes("never silently substitutes Apple")) {
+  if (!/never silently substitutes Apple/i.test(card)) {
     fail("listing-contact-card missing Apple substitute guard comment/policy");
     failures += 1;
   } else {
@@ -117,7 +123,39 @@ try {
   } else {
     ok("listing-contact-card does not hardcode Apple as listing agent");
   }
-// Live agent_id coverage is validated in CONTACT_SAFETY_VALIDATION_REPORT /
+  const blocks = readFileSync(
+    resolve(process.cwd(), "src/components/marketplace/contact-blocks.tsx"),
+    "utf8",
+  );
+  if (!blocks.includes('data-slot="listing-contact"')) {
+    fail("ListingContact foundation component missing");
+    failures += 1;
+  } else {
+    ok("ListingContact foundation component present");
+  }
+  if (!blocks.includes('data-slot="platform-customer-success"')) {
+    fail("PlatformCustomerSuccess foundation component missing");
+    failures += 1;
+  } else {
+    ok("PlatformCustomerSuccess foundation component present");
+  }
+  if (!blocks.includes('data-slot="ai-concierge"')) {
+    fail("AiConcierge foundation component missing");
+    failures += 1;
+  } else {
+    ok("AiConcierge foundation component present");
+  }
+  const listingFn = blocks.slice(
+    blocks.indexOf("export function ListingContact"),
+    blocks.indexOf("export function PlatformCustomerSuccess"),
+  );
+  if (listingFn.includes("getPlatformCustomerSuccessContacts")) {
+    fail("ListingContact must not load platform CS contacts");
+    failures += 1;
+  } else {
+    ok("ListingContact does not load platform CS contacts");
+  }
+  // Live agent_id coverage is validated in CONTACT_SAFETY_VALIDATION_REPORT /
   // scripts/check-agent-relations.mjs (requires Supabase network). Offline gate
   // asserts the documented freeze baseline still claims 12 relations.
   try {
