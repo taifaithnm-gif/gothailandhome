@@ -1,0 +1,574 @@
+# PROJECT_UNVERIFIED_ITEMS
+
+**Phase:** 7 — Project Master Completion
+**Date:** 2026-07-15
+**Total UNVERIFIED field cells:** 517
+
+These items are **not invented**. They remain blank or Tier-gated until Tier 1 evidence exists.
+
+## Counts by field
+
+| Field | UNVERIFIED count |
+|-------|-----------------:|
+| subdistrict | 50 |
+| unit_types | 49 |
+| official_brochure | 49 |
+| official_floor_plans | 49 |
+| floor_count | 48 |
+| building_count | 47 |
+| total_units | 47 |
+| official_gallery_source | 47 |
+| nearest_mrt | 28 |
+| nearest_bts | 21 |
+| completion_year | 17 |
+| latitude | 17 |
+| longitude | 17 |
+| project_status | 16 |
+| official_facilities | 15 |
+
+## Top projects by UNVERIFIED field count
+
+| Project | UNVERIFIED fields |
+|---------|------------------:|
+| 168-sukhothai-residences | 15 |
+| condo-u-sukhumvit-62-1 | 15 |
+| knightbridge-collage-ramkhamhaeng | 15 |
+| ascott-embassy-sathorn | 14 |
+| aspire-sathorn-taksin | 14 |
+| chapter-one-shine-bang-pho | 14 |
+| ideo-rama-9 | 14 |
+| lumpini-ville-phahol-saphanmai | 14 |
+| noble-beat | 14 |
+| origin-plug-play-sukhumvit-101 | 14 |
+| samyan-mitrtown | 14 |
+| singha-complex | 14 |
+| the-tree-rio-bang-aor | 14 |
+| vyva-thonglor | 14 |
+| m-jive-sathorn-lumphini | 13 |
+| the-forestias | 13 |
+| one-bangkok | 12 |
+| kave-town-space | 10 |
+| modiz-rhyme-ramkhamhaeng | 10 |
+| supalai-lite-sathorn-charoenrat | 10 |
+
+## Full list (slug · field)
+
+- `168-sukhothai-residences` · `building_count` — missing_or_unconfirmed
+- `ascott-embassy-sathorn` · `building_count` — missing_or_unconfirmed
+- `aspire-sathorn-taksin` · `building_count` — missing_or_unconfirmed
+- `casa-condo-asoke-dindaeng` · `building_count` — missing_or_unconfirmed
+- `chapter-one-midtown-ladprao-24` · `building_count` — missing_or_unconfirmed
+- `chapter-one-shine-bang-pho` · `building_count` — missing_or_unconfirmed
+- `condo-u-sukhumvit-62-1` · `building_count` — missing_or_unconfirmed
+- `ideo-mobi-sukhumvit-66` · `building_count` — missing_or_unconfirmed
+- `ideo-rama-9` · `building_count` — missing_or_unconfirmed
+- `kave-town-space` · `building_count` — missing_or_unconfirmed
+- `knightbridge-collage-ramkhamhaeng` · `building_count` — missing_or_unconfirmed
+- `knightsbridge-prime-sathorn` · `building_count` — missing_or_unconfirmed
+- `life-asoke-rama-9` · `building_count` — missing_or_unconfirmed
+- `life-ladprao` · `building_count` — missing_or_unconfirmed
+- `life-one-wireless` · `building_count` — missing_or_unconfirmed
+- `lumpini-ville-phahol-saphanmai` · `building_count` — missing_or_unconfirmed
+- `m-jive-sathorn-lumphini` · `building_count` — missing_or_unconfirmed
+- `m-silom` · `building_count` — missing_or_unconfirmed
+- `maestro-03-ratchada-rama-9` · `building_count` — missing_or_unconfirmed
+- `modiz-rhyme-ramkhamhaeng` · `building_count` — missing_or_unconfirmed
+- `niche-pride-thonglor-phetchaburi` · `building_count` — missing_or_unconfirmed
+- `noble-around-ari` · `building_count` — missing_or_unconfirmed
+- `noble-beat` · `building_count` — missing_or_unconfirmed
+- `noble-revolve-ratchada` · `building_count` — missing_or_unconfirmed
+- `one-bangkok` · `building_count` — missing_or_unconfirmed
+- `origin-plug-play-sukhumvit-101` · `building_count` — missing_or_unconfirmed
+- `rhythm-ekkamai` · `building_count` — missing_or_unconfirmed
+- `samyan-mitrtown` · `building_count` — missing_or_unconfirmed
+- `singha-complex` · `building_count` — missing_or_unconfirmed
+- `supalai-elite-phayathai` · `building_count` — missing_or_unconfirmed
+- `supalai-lite-sathorn-charoenrat` · `building_count` — missing_or_unconfirmed
+- `supalai-oriental-sukhumvit-39` · `building_count` — missing_or_unconfirmed
+- `supalai-veranda-rama-9` · `building_count` — missing_or_unconfirmed
+- `the-base-sukhumvit-77` · `building_count` — missing_or_unconfirmed
+- `the-esse-asoke` · `building_count` — missing_or_unconfirmed
+- `the-esse-sukhumvit-36` · `building_count` — missing_or_unconfirmed
+- `the-forestias` · `building_count` — missing_or_unconfirmed
+- `the-line-sukhumvit-101` · `building_count` — missing_or_unconfirmed
+- `the-lofts-silom` · `building_count` — missing_or_unconfirmed
+- `the-privacy-rama-9` · `building_count` — missing_or_unconfirmed
+- `the-room-sathorn-taksin` · `building_count` — missing_or_unconfirmed
+- `the-room-sukhumvit-62` · `building_count` — missing_or_unconfirmed
+- `the-tree-rio-bang-aor` · `building_count` — missing_or_unconfirmed
+- `vyva-thonglor` · `building_count` — missing_or_unconfirmed
+- `whizdom-essence` · `building_count` — missing_or_unconfirmed
+- `xt-huai-khwang` · `building_count` — missing_or_unconfirmed
+- `xt-phayathai` · `building_count` — missing_or_unconfirmed
+- `168-sukhothai-residences` · `completion_year` — missing_or_unconfirmed
+- `ascott-embassy-sathorn` · `completion_year` — missing_or_unconfirmed
+- `aspire-sathorn-taksin` · `completion_year` — missing_or_unconfirmed
+- `chapter-one-shine-bang-pho` · `completion_year` — missing_or_unconfirmed
+- `condo-u-sukhumvit-62-1` · `completion_year` — missing_or_unconfirmed
+- `ideo-rama-9` · `completion_year` — missing_or_unconfirmed
+- `knightbridge-collage-ramkhamhaeng` · `completion_year` — missing_or_unconfirmed
+- `lumpini-ville-phahol-saphanmai` · `completion_year` — missing_or_unconfirmed
+- `m-jive-sathorn-lumphini` · `completion_year` — missing_or_unconfirmed
+- `noble-beat` · `completion_year` — missing_or_unconfirmed
+- `one-bangkok` · `completion_year` — missing_or_unconfirmed
+- `origin-plug-play-sukhumvit-101` · `completion_year` — missing_or_unconfirmed
+- `samyan-mitrtown` · `completion_year` — missing_or_unconfirmed
+- `singha-complex` · `completion_year` — missing_or_unconfirmed
+- `the-forestias` · `completion_year` — missing_or_unconfirmed
+- `the-tree-rio-bang-aor` · `completion_year` — missing_or_unconfirmed
+- `vyva-thonglor` · `completion_year` — missing_or_unconfirmed
+- `168-sukhothai-residences` · `floor_count` — missing_or_unconfirmed
+- `ascott-embassy-sathorn` · `floor_count` — missing_or_unconfirmed
+- `aspire-sathorn-taksin` · `floor_count` — missing_or_unconfirmed
+- `casa-condo-asoke-dindaeng` · `floor_count` — missing_or_unconfirmed
+- `chapter-one-midtown-ladprao-24` · `floor_count` — missing_or_unconfirmed
+- `chapter-one-shine-bang-pho` · `floor_count` — missing_or_unconfirmed
+- `condo-u-sukhumvit-62-1` · `floor_count` — missing_or_unconfirmed
+- `ideo-mobi-sukhumvit-66` · `floor_count` — missing_or_unconfirmed
+- `ideo-q-sukhumvit-36` · `floor_count` — missing_or_unconfirmed
+- `ideo-rama-9` · `floor_count` — missing_or_unconfirmed
+- `kave-town-space` · `floor_count` — missing_or_unconfirmed
+- `knightbridge-collage-ramkhamhaeng` · `floor_count` — missing_or_unconfirmed
+- `knightsbridge-prime-sathorn` · `floor_count` — missing_or_unconfirmed
+- `life-asoke-rama-9` · `floor_count` — missing_or_unconfirmed
+- `life-ladprao` · `floor_count` — missing_or_unconfirmed
+- `life-one-wireless` · `floor_count` — missing_or_unconfirmed
+- `lumpini-ville-phahol-saphanmai` · `floor_count` — missing_or_unconfirmed
+- `m-jive-sathorn-lumphini` · `floor_count` — missing_or_unconfirmed
+- `m-silom` · `floor_count` — missing_or_unconfirmed
+- `maestro-03-ratchada-rama-9` · `floor_count` — missing_or_unconfirmed
+- `modiz-rhyme-ramkhamhaeng` · `floor_count` — missing_or_unconfirmed
+- `niche-pride-thonglor-phetchaburi` · `floor_count` — missing_or_unconfirmed
+- `noble-around-ari` · `floor_count` — missing_or_unconfirmed
+- `noble-beat` · `floor_count` — missing_or_unconfirmed
+- `noble-revolve-ratchada` · `floor_count` — missing_or_unconfirmed
+- `one-bangkok` · `floor_count` — missing_or_unconfirmed
+- `origin-plug-play-sukhumvit-101` · `floor_count` — missing_or_unconfirmed
+- `rhythm-ekkamai` · `floor_count` — missing_or_unconfirmed
+- `samyan-mitrtown` · `floor_count` — missing_or_unconfirmed
+- `singha-complex` · `floor_count` — missing_or_unconfirmed
+- `supalai-elite-phayathai` · `floor_count` — missing_or_unconfirmed
+- `supalai-lite-sathorn-charoenrat` · `floor_count` — missing_or_unconfirmed
+- `supalai-oriental-sukhumvit-39` · `floor_count` — missing_or_unconfirmed
+- `supalai-veranda-rama-9` · `floor_count` — missing_or_unconfirmed
+- `the-base-sukhumvit-77` · `floor_count` — missing_or_unconfirmed
+- `the-esse-asoke` · `floor_count` — missing_or_unconfirmed
+- `the-esse-sukhumvit-36` · `floor_count` — missing_or_unconfirmed
+- `the-forestias` · `floor_count` — missing_or_unconfirmed
+- `the-line-sukhumvit-101` · `floor_count` — missing_or_unconfirmed
+- `the-lofts-silom` · `floor_count` — missing_or_unconfirmed
+- `the-privacy-rama-9` · `floor_count` — missing_or_unconfirmed
+- `the-room-sathorn-taksin` · `floor_count` — missing_or_unconfirmed
+- `the-room-sukhumvit-62` · `floor_count` — missing_or_unconfirmed
+- `the-tree-rio-bang-aor` · `floor_count` — missing_or_unconfirmed
+- `vyva-thonglor` · `floor_count` — missing_or_unconfirmed
+- `whizdom-essence` · `floor_count` — missing_or_unconfirmed
+- `xt-huai-khwang` · `floor_count` — missing_or_unconfirmed
+- `xt-phayathai` · `floor_count` — missing_or_unconfirmed
+- `168-sukhothai-residences` · `latitude` — missing_or_unconfirmed
+- `ascott-embassy-sathorn` · `latitude` — missing_or_unconfirmed
+- `aspire-sathorn-taksin` · `latitude` — missing_or_unconfirmed
+- `chapter-one-shine-bang-pho` · `latitude` — missing_or_unconfirmed
+- `condo-u-sukhumvit-62-1` · `latitude` — missing_or_unconfirmed
+- `ideo-rama-9` · `latitude` — missing_or_unconfirmed
+- `knightbridge-collage-ramkhamhaeng` · `latitude` — missing_or_unconfirmed
+- `lumpini-ville-phahol-saphanmai` · `latitude` — missing_or_unconfirmed
+- `m-jive-sathorn-lumphini` · `latitude` — missing_or_unconfirmed
+- `noble-beat` · `latitude` — missing_or_unconfirmed
+- `one-bangkok` · `latitude` — missing_or_unconfirmed
+- `origin-plug-play-sukhumvit-101` · `latitude` — missing_or_unconfirmed
+- `samyan-mitrtown` · `latitude` — missing_or_unconfirmed
+- `singha-complex` · `latitude` — missing_or_unconfirmed
+- `the-forestias` · `latitude` — missing_or_unconfirmed
+- `the-tree-rio-bang-aor` · `latitude` — missing_or_unconfirmed
+- `vyva-thonglor` · `latitude` — missing_or_unconfirmed
+- `168-sukhothai-residences` · `longitude` — missing_or_unconfirmed
+- `ascott-embassy-sathorn` · `longitude` — missing_or_unconfirmed
+- `aspire-sathorn-taksin` · `longitude` — missing_or_unconfirmed
+- `chapter-one-shine-bang-pho` · `longitude` — missing_or_unconfirmed
+- `condo-u-sukhumvit-62-1` · `longitude` — missing_or_unconfirmed
+- `ideo-rama-9` · `longitude` — missing_or_unconfirmed
+- `knightbridge-collage-ramkhamhaeng` · `longitude` — missing_or_unconfirmed
+- `lumpini-ville-phahol-saphanmai` · `longitude` — missing_or_unconfirmed
+- `m-jive-sathorn-lumphini` · `longitude` — missing_or_unconfirmed
+- `noble-beat` · `longitude` — missing_or_unconfirmed
+- `one-bangkok` · `longitude` — missing_or_unconfirmed
+- `origin-plug-play-sukhumvit-101` · `longitude` — missing_or_unconfirmed
+- `samyan-mitrtown` · `longitude` — missing_or_unconfirmed
+- `singha-complex` · `longitude` — missing_or_unconfirmed
+- `the-forestias` · `longitude` — missing_or_unconfirmed
+- `the-tree-rio-bang-aor` · `longitude` — missing_or_unconfirmed
+- `vyva-thonglor` · `longitude` — missing_or_unconfirmed
+- `168-sukhothai-residences` · `nearest_bts` — missing_or_unconfirmed
+- `casa-condo-asoke-dindaeng` · `nearest_bts` — missing_or_unconfirmed
+- `chapter-one-midtown-ladprao-24` · `nearest_bts` — missing_or_unconfirmed
+- `chapter-one-shine-bang-pho` · `nearest_bts` — missing_or_unconfirmed
+- `condo-u-sukhumvit-62-1` · `nearest_bts` — missing_or_unconfirmed
+- `ideo-rama-9` · `nearest_bts` — missing_or_unconfirmed
+- `kave-town-space` · `nearest_bts` — missing_or_unconfirmed
+- `knightbridge-collage-ramkhamhaeng` · `nearest_bts` — missing_or_unconfirmed
+- `life-asoke-rama-9` · `nearest_bts` — missing_or_unconfirmed
+- `maestro-03-ratchada-rama-9` · `nearest_bts` — missing_or_unconfirmed
+- `modiz-rhyme-ramkhamhaeng` · `nearest_bts` — missing_or_unconfirmed
+- `noble-revolve-ratchada` · `nearest_bts` — missing_or_unconfirmed
+- `samyan-mitrtown` · `nearest_bts` — missing_or_unconfirmed
+- `singha-complex` · `nearest_bts` — missing_or_unconfirmed
+- `supalai-lite-sathorn-charoenrat` · `nearest_bts` — missing_or_unconfirmed
+- `supalai-veranda-rama-9` · `nearest_bts` — missing_or_unconfirmed
+- `the-forestias` · `nearest_bts` — missing_or_unconfirmed
+- `the-livin-ramkhamhaeng` · `nearest_bts` — missing_or_unconfirmed
+- `the-privacy-rama-9` · `nearest_bts` — missing_or_unconfirmed
+- `the-tree-rio-bang-aor` · `nearest_bts` — missing_or_unconfirmed
+- `xt-huai-khwang` · `nearest_bts` — missing_or_unconfirmed
+- `168-sukhothai-residences` · `nearest_mrt` — missing_or_unconfirmed
+- `ascott-embassy-sathorn` · `nearest_mrt` — missing_or_unconfirmed
+- `aspire-sathorn-taksin` · `nearest_mrt` — missing_or_unconfirmed
+- `condo-u-sukhumvit-62-1` · `nearest_mrt` — missing_or_unconfirmed
+- `ideo-mobi-sukhumvit-66` · `nearest_mrt` — missing_or_unconfirmed
+- `ideo-q-sukhumvit-36` · `nearest_mrt` — missing_or_unconfirmed
+- `kave-town-space` · `nearest_mrt` — missing_or_unconfirmed
+- `knightbridge-collage-ramkhamhaeng` · `nearest_mrt` — missing_or_unconfirmed
+- `life-one-wireless` · `nearest_mrt` — missing_or_unconfirmed
+- `lumpini-ville-phahol-saphanmai` · `nearest_mrt` — missing_or_unconfirmed
+- `modiz-rhyme-ramkhamhaeng` · `nearest_mrt` — missing_or_unconfirmed
+- `niche-pride-thonglor-phetchaburi` · `nearest_mrt` — missing_or_unconfirmed
+- `noble-around-ari` · `nearest_mrt` — missing_or_unconfirmed
+- `noble-beat` · `nearest_mrt` — missing_or_unconfirmed
+- `origin-plug-play-sukhumvit-101` · `nearest_mrt` — missing_or_unconfirmed
+- `rhythm-ekkamai` · `nearest_mrt` — missing_or_unconfirmed
+- `supalai-elite-phayathai` · `nearest_mrt` — missing_or_unconfirmed
+- `supalai-lite-sathorn-charoenrat` · `nearest_mrt` — missing_or_unconfirmed
+- `the-base-sukhumvit-77` · `nearest_mrt` — missing_or_unconfirmed
+- `the-esse-sukhumvit-36` · `nearest_mrt` — missing_or_unconfirmed
+- `the-forestias` · `nearest_mrt` — missing_or_unconfirmed
+- `the-line-sukhumvit-101` · `nearest_mrt` — missing_or_unconfirmed
+- `the-privacy-rama-9` · `nearest_mrt` — missing_or_unconfirmed
+- `the-room-sathorn-taksin` · `nearest_mrt` — missing_or_unconfirmed
+- `the-room-sukhumvit-62` · `nearest_mrt` — missing_or_unconfirmed
+- `vyva-thonglor` · `nearest_mrt` — missing_or_unconfirmed
+- `whizdom-essence` · `nearest_mrt` — missing_or_unconfirmed
+- `xt-phayathai` · `nearest_mrt` — missing_or_unconfirmed
+- `168-sukhothai-residences` · `official_brochure` — no brochure source captured; media not downloaded
+- `ascott-embassy-sathorn` · `official_brochure` — no brochure source captured; media not downloaded
+- `ashton-asoke` · `official_brochure` — no brochure source captured; media not downloaded
+- `aspire-sathorn-taksin` · `official_brochure` — no brochure source captured; media not downloaded
+- `casa-condo-asoke-dindaeng` · `official_brochure` — no brochure source captured; media not downloaded
+- `chapter-one-midtown-ladprao-24` · `official_brochure` — no brochure source captured; media not downloaded
+- `chapter-one-shine-bang-pho` · `official_brochure` — no brochure source captured; media not downloaded
+- `condo-u-sukhumvit-62-1` · `official_brochure` — no brochure source captured; media not downloaded
+- `ideo-mobi-sukhumvit-66` · `official_brochure` — no brochure source captured; media not downloaded
+- `ideo-q-sukhumvit-36` · `official_brochure` — no brochure source captured; media not downloaded
+- `ideo-rama-9` · `official_brochure` — no brochure source captured; media not downloaded
+- `kave-town-space` · `official_brochure` — no brochure source captured; media not downloaded
+- `knightbridge-collage-ramkhamhaeng` · `official_brochure` — no brochure source captured; media not downloaded
+- `knightsbridge-prime-sathorn` · `official_brochure` — no brochure source captured; media not downloaded
+- `life-asoke-rama-9` · `official_brochure` — no brochure source captured; media not downloaded
+- `life-ladprao` · `official_brochure` — no brochure source captured; media not downloaded
+- `life-one-wireless` · `official_brochure` — no brochure source captured; media not downloaded
+- `lumpini-ville-phahol-saphanmai` · `official_brochure` — no brochure source captured; media not downloaded
+- `m-jive-sathorn-lumphini` · `official_brochure` — no brochure source captured; media not downloaded
+- `m-silom` · `official_brochure` — no brochure source captured; media not downloaded
+- `maestro-03-ratchada-rama-9` · `official_brochure` — no brochure source captured; media not downloaded
+- `modiz-rhyme-ramkhamhaeng` · `official_brochure` — no brochure source captured; media not downloaded
+- `niche-pride-thonglor-phetchaburi` · `official_brochure` — no brochure source captured; media not downloaded
+- `noble-around-ari` · `official_brochure` — no brochure source captured; media not downloaded
+- `noble-beat` · `official_brochure` — no brochure source captured; media not downloaded
+- `noble-revolve-ratchada` · `official_brochure` — no brochure source captured; media not downloaded
+- `one-bangkok` · `official_brochure` — no brochure source captured; media not downloaded
+- `origin-plug-play-sukhumvit-101` · `official_brochure` — no brochure source captured; media not downloaded
+- `rhythm-ekkamai` · `official_brochure` — no brochure source captured; media not downloaded
+- `samyan-mitrtown` · `official_brochure` — no brochure source captured; media not downloaded
+- `singha-complex` · `official_brochure` — no brochure source captured; media not downloaded
+- `supalai-elite-phayathai` · `official_brochure` — no brochure source captured; media not downloaded
+- `supalai-lite-sathorn-charoenrat` · `official_brochure` — no brochure source captured; media not downloaded
+- `supalai-oriental-sukhumvit-39` · `official_brochure` — no brochure source captured; media not downloaded
+- `supalai-veranda-rama-9` · `official_brochure` — no brochure source captured; media not downloaded
+- `the-base-sukhumvit-77` · `official_brochure` — no brochure source captured; media not downloaded
+- `the-esse-asoke` · `official_brochure` — no brochure source captured; media not downloaded
+- `the-esse-sukhumvit-36` · `official_brochure` — no brochure source captured; media not downloaded
+- `the-forestias` · `official_brochure` — no brochure source captured; media not downloaded
+- `the-line-sukhumvit-101` · `official_brochure` — no brochure source captured; media not downloaded
+- `the-lofts-silom` · `official_brochure` — no brochure source captured; media not downloaded
+- `the-privacy-rama-9` · `official_brochure` — no brochure source captured; media not downloaded
+- `the-room-sathorn-taksin` · `official_brochure` — no brochure source captured; media not downloaded
+- `the-room-sukhumvit-62` · `official_brochure` — no brochure source captured; media not downloaded
+- `the-tree-rio-bang-aor` · `official_brochure` — no brochure source captured; media not downloaded
+- `vyva-thonglor` · `official_brochure` — no brochure source captured; media not downloaded
+- `whizdom-essence` · `official_brochure` — no brochure source captured; media not downloaded
+- `xt-huai-khwang` · `official_brochure` — no brochure source captured; media not downloaded
+- `xt-phayathai` · `official_brochure` — no brochure source captured; media not downloaded
+- `168-sukhothai-residences` · `official_facilities` — missing_or_unconfirmed
+- `ascott-embassy-sathorn` · `official_facilities` — missing_or_unconfirmed
+- `aspire-sathorn-taksin` · `official_facilities` — missing_or_unconfirmed
+- `chapter-one-shine-bang-pho` · `official_facilities` — missing_or_unconfirmed
+- `condo-u-sukhumvit-62-1` · `official_facilities` — missing_or_unconfirmed
+- `ideo-rama-9` · `official_facilities` — missing_or_unconfirmed
+- `knightbridge-collage-ramkhamhaeng` · `official_facilities` — missing_or_unconfirmed
+- `lumpini-ville-phahol-saphanmai` · `official_facilities` — missing_or_unconfirmed
+- `m-jive-sathorn-lumphini` · `official_facilities` — missing_or_unconfirmed
+- `noble-beat` · `official_facilities` — missing_or_unconfirmed
+- `origin-plug-play-sukhumvit-101` · `official_facilities` — missing_or_unconfirmed
+- `samyan-mitrtown` · `official_facilities` — missing_or_unconfirmed
+- `singha-complex` · `official_facilities` — missing_or_unconfirmed
+- `the-tree-rio-bang-aor` · `official_facilities` — missing_or_unconfirmed
+- `vyva-thonglor` · `official_facilities` — missing_or_unconfirmed
+- `168-sukhothai-residences` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `ascott-embassy-sathorn` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `ashton-asoke` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `aspire-sathorn-taksin` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `casa-condo-asoke-dindaeng` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `chapter-one-midtown-ladprao-24` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `chapter-one-shine-bang-pho` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `condo-u-sukhumvit-62-1` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `ideo-mobi-sukhumvit-66` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `ideo-q-sukhumvit-36` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `ideo-rama-9` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `kave-town-space` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `knightbridge-collage-ramkhamhaeng` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `knightsbridge-prime-sathorn` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `life-asoke-rama-9` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `life-ladprao` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `life-one-wireless` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `lumpini-ville-phahol-saphanmai` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `m-jive-sathorn-lumphini` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `m-silom` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `maestro-03-ratchada-rama-9` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `modiz-rhyme-ramkhamhaeng` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `niche-pride-thonglor-phetchaburi` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `noble-around-ari` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `noble-beat` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `noble-revolve-ratchada` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `one-bangkok` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `origin-plug-play-sukhumvit-101` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `rhythm-ekkamai` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `samyan-mitrtown` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `singha-complex` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `supalai-elite-phayathai` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `supalai-lite-sathorn-charoenrat` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `supalai-oriental-sukhumvit-39` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `supalai-veranda-rama-9` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `the-base-sukhumvit-77` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `the-esse-asoke` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `the-esse-sukhumvit-36` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `the-forestias` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `the-line-sukhumvit-101` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `the-lofts-silom` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `the-privacy-rama-9` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `the-room-sathorn-taksin` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `the-room-sukhumvit-62` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `the-tree-rio-bang-aor` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `vyva-thonglor` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `whizdom-essence` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `xt-huai-khwang` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `xt-phayathai` · `official_floor_plans` — no floor-plan source captured; media not downloaded
+- `168-sukhothai-residences` · `official_gallery_source` — missing_or_unconfirmed
+- `ascott-embassy-sathorn` · `official_gallery_source` — missing_or_unconfirmed
+- `aspire-sathorn-taksin` · `official_gallery_source` — missing_or_unconfirmed
+- `casa-condo-asoke-dindaeng` · `official_gallery_source` — missing_or_unconfirmed
+- `chapter-one-midtown-ladprao-24` · `official_gallery_source` — missing_or_unconfirmed
+- `chapter-one-shine-bang-pho` · `official_gallery_source` — missing_or_unconfirmed
+- `condo-u-sukhumvit-62-1` · `official_gallery_source` — missing_or_unconfirmed
+- `ideo-mobi-sukhumvit-66` · `official_gallery_source` — missing_or_unconfirmed
+- `ideo-rama-9` · `official_gallery_source` — missing_or_unconfirmed
+- `kave-town-space` · `official_gallery_source` — missing_or_unconfirmed
+- `knightbridge-collage-ramkhamhaeng` · `official_gallery_source` — missing_or_unconfirmed
+- `knightsbridge-prime-sathorn` · `official_gallery_source` — missing_or_unconfirmed
+- `life-asoke-rama-9` · `official_gallery_source` — missing_or_unconfirmed
+- `life-ladprao` · `official_gallery_source` — missing_or_unconfirmed
+- `life-one-wireless` · `official_gallery_source` — missing_or_unconfirmed
+- `lumpini-ville-phahol-saphanmai` · `official_gallery_source` — missing_or_unconfirmed
+- `m-jive-sathorn-lumphini` · `official_gallery_source` — missing_or_unconfirmed
+- `m-silom` · `official_gallery_source` — missing_or_unconfirmed
+- `maestro-03-ratchada-rama-9` · `official_gallery_source` — missing_or_unconfirmed
+- `modiz-rhyme-ramkhamhaeng` · `official_gallery_source` — missing_or_unconfirmed
+- `niche-pride-thonglor-phetchaburi` · `official_gallery_source` — missing_or_unconfirmed
+- `noble-around-ari` · `official_gallery_source` — missing_or_unconfirmed
+- `noble-beat` · `official_gallery_source` — missing_or_unconfirmed
+- `noble-revolve-ratchada` · `official_gallery_source` — missing_or_unconfirmed
+- `one-bangkok` · `official_gallery_source` — missing_or_unconfirmed
+- `origin-plug-play-sukhumvit-101` · `official_gallery_source` — missing_or_unconfirmed
+- `rhythm-ekkamai` · `official_gallery_source` — missing_or_unconfirmed
+- `samyan-mitrtown` · `official_gallery_source` — missing_or_unconfirmed
+- `singha-complex` · `official_gallery_source` — missing_or_unconfirmed
+- `supalai-elite-phayathai` · `official_gallery_source` — missing_or_unconfirmed
+- `supalai-lite-sathorn-charoenrat` · `official_gallery_source` — missing_or_unconfirmed
+- `supalai-oriental-sukhumvit-39` · `official_gallery_source` — missing_or_unconfirmed
+- `supalai-veranda-rama-9` · `official_gallery_source` — missing_or_unconfirmed
+- `the-base-sukhumvit-77` · `official_gallery_source` — missing_or_unconfirmed
+- `the-esse-asoke` · `official_gallery_source` — missing_or_unconfirmed
+- `the-esse-sukhumvit-36` · `official_gallery_source` — missing_or_unconfirmed
+- `the-forestias` · `official_gallery_source` — missing_or_unconfirmed
+- `the-line-sukhumvit-101` · `official_gallery_source` — missing_or_unconfirmed
+- `the-lofts-silom` · `official_gallery_source` — missing_or_unconfirmed
+- `the-privacy-rama-9` · `official_gallery_source` — missing_or_unconfirmed
+- `the-room-sathorn-taksin` · `official_gallery_source` — missing_or_unconfirmed
+- `the-room-sukhumvit-62` · `official_gallery_source` — missing_or_unconfirmed
+- `the-tree-rio-bang-aor` · `official_gallery_source` — missing_or_unconfirmed
+- `vyva-thonglor` · `official_gallery_source` — missing_or_unconfirmed
+- `whizdom-essence` · `official_gallery_source` — missing_or_unconfirmed
+- `xt-huai-khwang` · `official_gallery_source` — missing_or_unconfirmed
+- `xt-phayathai` · `official_gallery_source` — missing_or_unconfirmed
+- `168-sukhothai-residences` · `project_status` — missing_or_unconfirmed
+- `ascott-embassy-sathorn` · `project_status` — missing_or_unconfirmed
+- `aspire-sathorn-taksin` · `project_status` — missing_or_unconfirmed
+- `chapter-one-shine-bang-pho` · `project_status` — missing_or_unconfirmed
+- `condo-u-sukhumvit-62-1` · `project_status` — missing_or_unconfirmed
+- `ideo-rama-9` · `project_status` — missing_or_unconfirmed
+- `knightbridge-collage-ramkhamhaeng` · `project_status` — missing_or_unconfirmed
+- `lumpini-ville-phahol-saphanmai` · `project_status` — missing_or_unconfirmed
+- `m-jive-sathorn-lumphini` · `project_status` — missing_or_unconfirmed
+- `noble-beat` · `project_status` — missing_or_unconfirmed
+- `one-bangkok` · `project_status` — missing_or_unconfirmed
+- `origin-plug-play-sukhumvit-101` · `project_status` — missing_or_unconfirmed
+- `samyan-mitrtown` · `project_status` — missing_or_unconfirmed
+- `singha-complex` · `project_status` — missing_or_unconfirmed
+- `the-tree-rio-bang-aor` · `project_status` — missing_or_unconfirmed
+- `vyva-thonglor` · `project_status` — missing_or_unconfirmed
+- `168-sukhothai-residences` · `subdistrict` — subdistrict_slug not present in packages
+- `ascott-embassy-sathorn` · `subdistrict` — subdistrict_slug not present in packages
+- `ashton-asoke` · `subdistrict` — subdistrict_slug not present in packages
+- `aspire-sathorn-taksin` · `subdistrict` — subdistrict_slug not present in packages
+- `casa-condo-asoke-dindaeng` · `subdistrict` — subdistrict_slug not present in packages
+- `chapter-one-midtown-ladprao-24` · `subdistrict` — subdistrict_slug not present in packages
+- `chapter-one-shine-bang-pho` · `subdistrict` — subdistrict_slug not present in packages
+- `condo-u-sukhumvit-62-1` · `subdistrict` — subdistrict_slug not present in packages
+- `ideo-mobi-sukhumvit-66` · `subdistrict` — subdistrict_slug not present in packages
+- `ideo-q-sukhumvit-36` · `subdistrict` — subdistrict_slug not present in packages
+- `ideo-rama-9` · `subdistrict` — subdistrict_slug not present in packages
+- `kave-town-space` · `subdistrict` — subdistrict_slug not present in packages
+- `knightbridge-collage-ramkhamhaeng` · `subdistrict` — subdistrict_slug not present in packages
+- `knightsbridge-prime-sathorn` · `subdistrict` — subdistrict_slug not present in packages
+- `life-asoke-rama-9` · `subdistrict` — subdistrict_slug not present in packages
+- `life-ladprao` · `subdistrict` — subdistrict_slug not present in packages
+- `life-one-wireless` · `subdistrict` — subdistrict_slug not present in packages
+- `lumpini-ville-phahol-saphanmai` · `subdistrict` — subdistrict_slug not present in packages
+- `m-jive-sathorn-lumphini` · `subdistrict` — subdistrict_slug not present in packages
+- `m-silom` · `subdistrict` — subdistrict_slug not present in packages
+- `maestro-03-ratchada-rama-9` · `subdistrict` — subdistrict_slug not present in packages
+- `modiz-rhyme-ramkhamhaeng` · `subdistrict` — subdistrict_slug not present in packages
+- `niche-pride-thonglor-phetchaburi` · `subdistrict` — subdistrict_slug not present in packages
+- `noble-around-ari` · `subdistrict` — subdistrict_slug not present in packages
+- `noble-beat` · `subdistrict` — subdistrict_slug not present in packages
+- `noble-revolve-ratchada` · `subdistrict` — subdistrict_slug not present in packages
+- `one-bangkok` · `subdistrict` — subdistrict_slug not present in packages
+- `origin-plug-play-sukhumvit-101` · `subdistrict` — subdistrict_slug not present in packages
+- `rhythm-ekkamai` · `subdistrict` — subdistrict_slug not present in packages
+- `samyan-mitrtown` · `subdistrict` — subdistrict_slug not present in packages
+- `singha-complex` · `subdistrict` — subdistrict_slug not present in packages
+- `supalai-elite-phayathai` · `subdistrict` — subdistrict_slug not present in packages
+- `supalai-lite-sathorn-charoenrat` · `subdistrict` — subdistrict_slug not present in packages
+- `supalai-oriental-sukhumvit-39` · `subdistrict` — subdistrict_slug not present in packages
+- `supalai-veranda-rama-9` · `subdistrict` — subdistrict_slug not present in packages
+- `the-base-sukhumvit-77` · `subdistrict` — subdistrict_slug not present in packages
+- `the-esse-asoke` · `subdistrict` — subdistrict_slug not present in packages
+- `the-esse-sukhumvit-36` · `subdistrict` — subdistrict_slug not present in packages
+- `the-forestias` · `subdistrict` — subdistrict_slug not present in packages
+- `the-line-sukhumvit-101` · `subdistrict` — subdistrict_slug not present in packages
+- `the-livin-ramkhamhaeng` · `subdistrict` — subdistrict_slug not present in packages
+- `the-lofts-silom` · `subdistrict` — subdistrict_slug not present in packages
+- `the-privacy-rama-9` · `subdistrict` — subdistrict_slug not present in packages
+- `the-room-sathorn-taksin` · `subdistrict` — subdistrict_slug not present in packages
+- `the-room-sukhumvit-62` · `subdistrict` — subdistrict_slug not present in packages
+- `the-tree-rio-bang-aor` · `subdistrict` — subdistrict_slug not present in packages
+- `vyva-thonglor` · `subdistrict` — subdistrict_slug not present in packages
+- `whizdom-essence` · `subdistrict` — subdistrict_slug not present in packages
+- `xt-huai-khwang` · `subdistrict` — subdistrict_slug not present in packages
+- `xt-phayathai` · `subdistrict` — subdistrict_slug not present in packages
+- `168-sukhothai-residences` · `total_units` — missing_or_unconfirmed
+- `ascott-embassy-sathorn` · `total_units` — missing_or_unconfirmed
+- `aspire-sathorn-taksin` · `total_units` — missing_or_unconfirmed
+- `casa-condo-asoke-dindaeng` · `total_units` — missing_or_unconfirmed
+- `chapter-one-midtown-ladprao-24` · `total_units` — missing_or_unconfirmed
+- `chapter-one-shine-bang-pho` · `total_units` — missing_or_unconfirmed
+- `condo-u-sukhumvit-62-1` · `total_units` — missing_or_unconfirmed
+- `ideo-mobi-sukhumvit-66` · `total_units` — missing_or_unconfirmed
+- `ideo-rama-9` · `total_units` — missing_or_unconfirmed
+- `kave-town-space` · `total_units` — missing_or_unconfirmed
+- `knightbridge-collage-ramkhamhaeng` · `total_units` — missing_or_unconfirmed
+- `knightsbridge-prime-sathorn` · `total_units` — missing_or_unconfirmed
+- `life-asoke-rama-9` · `total_units` — missing_or_unconfirmed
+- `life-ladprao` · `total_units` — missing_or_unconfirmed
+- `life-one-wireless` · `total_units` — missing_or_unconfirmed
+- `lumpini-ville-phahol-saphanmai` · `total_units` — missing_or_unconfirmed
+- `m-jive-sathorn-lumphini` · `total_units` — missing_or_unconfirmed
+- `m-silom` · `total_units` — missing_or_unconfirmed
+- `maestro-03-ratchada-rama-9` · `total_units` — missing_or_unconfirmed
+- `modiz-rhyme-ramkhamhaeng` · `total_units` — missing_or_unconfirmed
+- `niche-pride-thonglor-phetchaburi` · `total_units` — missing_or_unconfirmed
+- `noble-around-ari` · `total_units` — missing_or_unconfirmed
+- `noble-beat` · `total_units` — missing_or_unconfirmed
+- `noble-revolve-ratchada` · `total_units` — missing_or_unconfirmed
+- `one-bangkok` · `total_units` — missing_or_unconfirmed
+- `origin-plug-play-sukhumvit-101` · `total_units` — missing_or_unconfirmed
+- `rhythm-ekkamai` · `total_units` — missing_or_unconfirmed
+- `samyan-mitrtown` · `total_units` — missing_or_unconfirmed
+- `singha-complex` · `total_units` — missing_or_unconfirmed
+- `supalai-elite-phayathai` · `total_units` — missing_or_unconfirmed
+- `supalai-lite-sathorn-charoenrat` · `total_units` — missing_or_unconfirmed
+- `supalai-oriental-sukhumvit-39` · `total_units` — missing_or_unconfirmed
+- `supalai-veranda-rama-9` · `total_units` — missing_or_unconfirmed
+- `the-base-sukhumvit-77` · `total_units` — missing_or_unconfirmed
+- `the-esse-asoke` · `total_units` — missing_or_unconfirmed
+- `the-esse-sukhumvit-36` · `total_units` — missing_or_unconfirmed
+- `the-forestias` · `total_units` — missing_or_unconfirmed
+- `the-line-sukhumvit-101` · `total_units` — missing_or_unconfirmed
+- `the-lofts-silom` · `total_units` — missing_or_unconfirmed
+- `the-privacy-rama-9` · `total_units` — missing_or_unconfirmed
+- `the-room-sathorn-taksin` · `total_units` — missing_or_unconfirmed
+- `the-room-sukhumvit-62` · `total_units` — missing_or_unconfirmed
+- `the-tree-rio-bang-aor` · `total_units` — missing_or_unconfirmed
+- `vyva-thonglor` · `total_units` — missing_or_unconfirmed
+- `whizdom-essence` · `total_units` — missing_or_unconfirmed
+- `xt-huai-khwang` · `total_units` — missing_or_unconfirmed
+- `xt-phayathai` · `total_units` — missing_or_unconfirmed
+- `168-sukhothai-residences` · `unit_types` — missing_or_unconfirmed
+- `ascott-embassy-sathorn` · `unit_types` — missing_or_unconfirmed
+- `ashton-asoke` · `unit_types` — missing_or_unconfirmed
+- `aspire-sathorn-taksin` · `unit_types` — missing_or_unconfirmed
+- `casa-condo-asoke-dindaeng` · `unit_types` — missing_or_unconfirmed
+- `chapter-one-midtown-ladprao-24` · `unit_types` — missing_or_unconfirmed
+- `chapter-one-shine-bang-pho` · `unit_types` — missing_or_unconfirmed
+- `condo-u-sukhumvit-62-1` · `unit_types` — missing_or_unconfirmed
+- `ideo-mobi-sukhumvit-66` · `unit_types` — missing_or_unconfirmed
+- `ideo-q-sukhumvit-36` · `unit_types` — missing_or_unconfirmed
+- `ideo-rama-9` · `unit_types` — missing_or_unconfirmed
+- `kave-town-space` · `unit_types` — missing_or_unconfirmed
+- `knightbridge-collage-ramkhamhaeng` · `unit_types` — missing_or_unconfirmed
+- `knightsbridge-prime-sathorn` · `unit_types` — missing_or_unconfirmed
+- `life-asoke-rama-9` · `unit_types` — missing_or_unconfirmed
+- `life-ladprao` · `unit_types` — missing_or_unconfirmed
+- `life-one-wireless` · `unit_types` — missing_or_unconfirmed
+- `lumpini-ville-phahol-saphanmai` · `unit_types` — missing_or_unconfirmed
+- `m-jive-sathorn-lumphini` · `unit_types` — missing_or_unconfirmed
+- `m-silom` · `unit_types` — missing_or_unconfirmed
+- `maestro-03-ratchada-rama-9` · `unit_types` — missing_or_unconfirmed
+- `modiz-rhyme-ramkhamhaeng` · `unit_types` — missing_or_unconfirmed
+- `niche-pride-thonglor-phetchaburi` · `unit_types` — missing_or_unconfirmed
+- `noble-around-ari` · `unit_types` — missing_or_unconfirmed
+- `noble-beat` · `unit_types` — missing_or_unconfirmed
+- `noble-revolve-ratchada` · `unit_types` — missing_or_unconfirmed
+- `one-bangkok` · `unit_types` — missing_or_unconfirmed
+- `origin-plug-play-sukhumvit-101` · `unit_types` — missing_or_unconfirmed
+- `rhythm-ekkamai` · `unit_types` — missing_or_unconfirmed
+- `samyan-mitrtown` · `unit_types` — missing_or_unconfirmed
+- `singha-complex` · `unit_types` — missing_or_unconfirmed
+- `supalai-elite-phayathai` · `unit_types` — missing_or_unconfirmed
+- `supalai-lite-sathorn-charoenrat` · `unit_types` — missing_or_unconfirmed
+- `supalai-oriental-sukhumvit-39` · `unit_types` — missing_or_unconfirmed
+- `supalai-veranda-rama-9` · `unit_types` — missing_or_unconfirmed
+- `the-base-sukhumvit-77` · `unit_types` — missing_or_unconfirmed
+- `the-esse-asoke` · `unit_types` — missing_or_unconfirmed
+- `the-esse-sukhumvit-36` · `unit_types` — missing_or_unconfirmed
+- `the-forestias` · `unit_types` — missing_or_unconfirmed
+- `the-line-sukhumvit-101` · `unit_types` — missing_or_unconfirmed
+- `the-lofts-silom` · `unit_types` — missing_or_unconfirmed
+- `the-privacy-rama-9` · `unit_types` — missing_or_unconfirmed
+- `the-room-sathorn-taksin` · `unit_types` — missing_or_unconfirmed
+- `the-room-sukhumvit-62` · `unit_types` — missing_or_unconfirmed
+- `the-tree-rio-bang-aor` · `unit_types` — missing_or_unconfirmed
+- `vyva-thonglor` · `unit_types` — missing_or_unconfirmed
+- `whizdom-essence` · `unit_types` — missing_or_unconfirmed
+- `xt-huai-khwang` · `unit_types` — missing_or_unconfirmed
+- `xt-phayathai` · `unit_types` — missing_or_unconfirmed
+
+**Status:** UNVERIFIED REGISTER COMPLETE
