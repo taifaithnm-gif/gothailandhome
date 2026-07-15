@@ -1,0 +1,641 @@
+# PROJECT_UNVERIFIED_ITEMS_V2
+
+**Audit:** `2026-07-15-project-master-hygiene-v2`  
+**Total UNVERIFIED cells:** 586
+
+## Counts by field
+
+| Field | UNVERIFIED |
+|-------|----------:|
+| subdistrict | 50 |
+| official_brochure | 49 |
+| official_floor_plans | 49 |
+| floor_count | 48 |
+| unit_types | 48 |
+| building_count | 47 |
+| total_units | 47 |
+| official_gallery_source | 45 |
+| official_project_url | 42 |
+| nearest_mrt | 28 |
+| nearest_bts | 21 |
+| completion_year | 17 |
+| latitude | 17 |
+| longitude | 17 |
+| project_status | 16 |
+| official_project_name | 15 |
+| thai_project_name | 15 |
+| official_facilities | 15 |
+
+## Top projects by UNVERIFIED count
+
+| Project | Count |
+|---------|------:|
+| `168-sukhothai-residences` | 18 |
+| `condo-u-sukhumvit-62-1` | 18 |
+| `knightbridge-collage-ramkhamhaeng` | 18 |
+| `ascott-embassy-sathorn` | 17 |
+| `aspire-sathorn-taksin` | 17 |
+| `chapter-one-shine-bang-pho` | 17 |
+| `ideo-rama-9` | 17 |
+| `lumpini-ville-phahol-saphanmai` | 17 |
+| `noble-beat` | 17 |
+| `origin-plug-play-sukhumvit-101` | 17 |
+| `singha-complex` | 17 |
+| `the-tree-rio-bang-aor` | 17 |
+| `vyva-thonglor` | 17 |
+| `m-jive-sathorn-lumphini` | 16 |
+| `samyan-mitrtown` | 16 |
+| `the-forestias` | 13 |
+| `one-bangkok` | 12 |
+| `kave-town-space` | 11 |
+| `modiz-rhyme-ramkhamhaeng` | 11 |
+| `supalai-lite-sathorn-charoenrat` | 11 |
+
+## Full list (slug · field)
+
+- `168-sukhothai-residences` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `168-sukhothai-residences` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `168-sukhothai-residences` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `168-sukhothai-residences` · `project_status` — Missing
+- `168-sukhothai-residences` · `completion_year` — Missing
+- `168-sukhothai-residences` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `168-sukhothai-residences` · `latitude` — Missing
+- `168-sukhothai-residences` · `longitude` — Missing
+- `168-sukhothai-residences` · `building_count` — Missing
+- `168-sukhothai-residences` · `floor_count` — Missing
+- `168-sukhothai-residences` · `total_units` — Missing
+- `168-sukhothai-residences` · `unit_types` — Missing
+- `168-sukhothai-residences` · `official_facilities` — Missing
+- `168-sukhothai-residences` · `nearest_bts` — Missing
+- `168-sukhothai-residences` · `nearest_mrt` — Missing
+- `168-sukhothai-residences` · `official_brochure` — Missing
+- `168-sukhothai-residences` · `official_floor_plans` — Missing
+- `168-sukhothai-residences` · `official_gallery_source` — Missing
+- `ascott-embassy-sathorn` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `ascott-embassy-sathorn` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `ascott-embassy-sathorn` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `ascott-embassy-sathorn` · `project_status` — Missing
+- `ascott-embassy-sathorn` · `completion_year` — Missing
+- `ascott-embassy-sathorn` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `ascott-embassy-sathorn` · `latitude` — Missing
+- `ascott-embassy-sathorn` · `longitude` — Missing
+- `ascott-embassy-sathorn` · `building_count` — Missing
+- `ascott-embassy-sathorn` · `floor_count` — Missing
+- `ascott-embassy-sathorn` · `total_units` — Missing
+- `ascott-embassy-sathorn` · `unit_types` — Missing
+- `ascott-embassy-sathorn` · `official_facilities` — Missing
+- `ascott-embassy-sathorn` · `nearest_mrt` — Missing
+- `ascott-embassy-sathorn` · `official_brochure` — Missing
+- `ascott-embassy-sathorn` · `official_floor_plans` — Missing
+- `ascott-embassy-sathorn` · `official_gallery_source` — Missing
+- `ashton-asoke` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `ashton-asoke` · `unit_types` — Missing
+- `ashton-asoke` · `official_brochure` — Missing
+- `ashton-asoke` · `official_floor_plans` — Missing
+- `aspire-sathorn-taksin` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `aspire-sathorn-taksin` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `aspire-sathorn-taksin` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `aspire-sathorn-taksin` · `project_status` — Missing
+- `aspire-sathorn-taksin` · `completion_year` — Missing
+- `aspire-sathorn-taksin` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `aspire-sathorn-taksin` · `latitude` — Missing
+- `aspire-sathorn-taksin` · `longitude` — Missing
+- `aspire-sathorn-taksin` · `building_count` — Missing
+- `aspire-sathorn-taksin` · `floor_count` — Missing
+- `aspire-sathorn-taksin` · `total_units` — Missing
+- `aspire-sathorn-taksin` · `unit_types` — Missing
+- `aspire-sathorn-taksin` · `official_facilities` — Missing
+- `aspire-sathorn-taksin` · `nearest_mrt` — Missing
+- `aspire-sathorn-taksin` · `official_brochure` — Missing
+- `aspire-sathorn-taksin` · `official_floor_plans` — Missing
+- `aspire-sathorn-taksin` · `official_gallery_source` — Missing
+- `casa-condo-asoke-dindaeng` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `casa-condo-asoke-dindaeng` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `casa-condo-asoke-dindaeng` · `building_count` — Missing
+- `casa-condo-asoke-dindaeng` · `floor_count` — Missing
+- `casa-condo-asoke-dindaeng` · `total_units` — Missing
+- `casa-condo-asoke-dindaeng` · `unit_types` — Missing
+- `casa-condo-asoke-dindaeng` · `nearest_bts` — Missing
+- `casa-condo-asoke-dindaeng` · `official_brochure` — Missing
+- `casa-condo-asoke-dindaeng` · `official_floor_plans` — Missing
+- `casa-condo-asoke-dindaeng` · `official_gallery_source` — Missing
+- `chapter-one-midtown-ladprao-24` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `chapter-one-midtown-ladprao-24` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `chapter-one-midtown-ladprao-24` · `building_count` — Missing
+- `chapter-one-midtown-ladprao-24` · `floor_count` — Missing
+- `chapter-one-midtown-ladprao-24` · `total_units` — Missing
+- `chapter-one-midtown-ladprao-24` · `unit_types` — Missing
+- `chapter-one-midtown-ladprao-24` · `nearest_bts` — Missing
+- `chapter-one-midtown-ladprao-24` · `official_brochure` — Missing
+- `chapter-one-midtown-ladprao-24` · `official_floor_plans` — Missing
+- `chapter-one-midtown-ladprao-24` · `official_gallery_source` — Missing
+- `chapter-one-shine-bang-pho` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `chapter-one-shine-bang-pho` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `chapter-one-shine-bang-pho` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `chapter-one-shine-bang-pho` · `project_status` — Missing
+- `chapter-one-shine-bang-pho` · `completion_year` — Missing
+- `chapter-one-shine-bang-pho` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `chapter-one-shine-bang-pho` · `latitude` — Missing
+- `chapter-one-shine-bang-pho` · `longitude` — Missing
+- `chapter-one-shine-bang-pho` · `building_count` — Missing
+- `chapter-one-shine-bang-pho` · `floor_count` — Missing
+- `chapter-one-shine-bang-pho` · `total_units` — Missing
+- `chapter-one-shine-bang-pho` · `unit_types` — Missing
+- `chapter-one-shine-bang-pho` · `official_facilities` — Missing
+- `chapter-one-shine-bang-pho` · `nearest_bts` — Missing
+- `chapter-one-shine-bang-pho` · `official_brochure` — Missing
+- `chapter-one-shine-bang-pho` · `official_floor_plans` — Missing
+- `chapter-one-shine-bang-pho` · `official_gallery_source` — Missing
+- `condo-u-sukhumvit-62-1` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `condo-u-sukhumvit-62-1` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `condo-u-sukhumvit-62-1` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `condo-u-sukhumvit-62-1` · `project_status` — Missing
+- `condo-u-sukhumvit-62-1` · `completion_year` — Missing
+- `condo-u-sukhumvit-62-1` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `condo-u-sukhumvit-62-1` · `latitude` — Missing
+- `condo-u-sukhumvit-62-1` · `longitude` — Missing
+- `condo-u-sukhumvit-62-1` · `building_count` — Missing
+- `condo-u-sukhumvit-62-1` · `floor_count` — Missing
+- `condo-u-sukhumvit-62-1` · `total_units` — Missing
+- `condo-u-sukhumvit-62-1` · `unit_types` — Missing
+- `condo-u-sukhumvit-62-1` · `official_facilities` — Missing
+- `condo-u-sukhumvit-62-1` · `nearest_bts` — Missing
+- `condo-u-sukhumvit-62-1` · `nearest_mrt` — Missing
+- `condo-u-sukhumvit-62-1` · `official_brochure` — Missing
+- `condo-u-sukhumvit-62-1` · `official_floor_plans` — Missing
+- `condo-u-sukhumvit-62-1` · `official_gallery_source` — Missing
+- `ideo-mobi-sukhumvit-66` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `ideo-mobi-sukhumvit-66` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `ideo-mobi-sukhumvit-66` · `building_count` — Missing
+- `ideo-mobi-sukhumvit-66` · `floor_count` — Missing
+- `ideo-mobi-sukhumvit-66` · `total_units` — Missing
+- `ideo-mobi-sukhumvit-66` · `unit_types` — Missing
+- `ideo-mobi-sukhumvit-66` · `nearest_mrt` — Missing
+- `ideo-mobi-sukhumvit-66` · `official_brochure` — Missing
+- `ideo-mobi-sukhumvit-66` · `official_floor_plans` — Missing
+- `ideo-mobi-sukhumvit-66` · `official_gallery_source` — Missing
+- `ideo-q-sukhumvit-36` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `ideo-q-sukhumvit-36` · `floor_count` — Missing
+- `ideo-q-sukhumvit-36` · `nearest_mrt` — Missing
+- `ideo-q-sukhumvit-36` · `official_brochure` — Missing
+- `ideo-q-sukhumvit-36` · `official_floor_plans` — Missing
+- `ideo-rama-9` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `ideo-rama-9` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `ideo-rama-9` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `ideo-rama-9` · `project_status` — Missing
+- `ideo-rama-9` · `completion_year` — Missing
+- `ideo-rama-9` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `ideo-rama-9` · `latitude` — Missing
+- `ideo-rama-9` · `longitude` — Missing
+- `ideo-rama-9` · `building_count` — Missing
+- `ideo-rama-9` · `floor_count` — Missing
+- `ideo-rama-9` · `total_units` — Missing
+- `ideo-rama-9` · `unit_types` — Missing
+- `ideo-rama-9` · `official_facilities` — Missing
+- `ideo-rama-9` · `nearest_bts` — Missing
+- `ideo-rama-9` · `official_brochure` — Missing
+- `ideo-rama-9` · `official_floor_plans` — Missing
+- `ideo-rama-9` · `official_gallery_source` — Missing
+- `kave-town-space` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `kave-town-space` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `kave-town-space` · `building_count` — Missing
+- `kave-town-space` · `floor_count` — Missing
+- `kave-town-space` · `total_units` — Missing
+- `kave-town-space` · `unit_types` — Missing
+- `kave-town-space` · `nearest_bts` — Missing
+- `kave-town-space` · `nearest_mrt` — Missing
+- `kave-town-space` · `official_brochure` — Missing
+- `kave-town-space` · `official_floor_plans` — Missing
+- `kave-town-space` · `official_gallery_source` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `knightbridge-collage-ramkhamhaeng` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `knightbridge-collage-ramkhamhaeng` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `knightbridge-collage-ramkhamhaeng` · `project_status` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `completion_year` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `knightbridge-collage-ramkhamhaeng` · `latitude` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `longitude` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `building_count` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `floor_count` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `total_units` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `unit_types` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `official_facilities` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `nearest_bts` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `nearest_mrt` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `official_brochure` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `official_floor_plans` — Missing
+- `knightbridge-collage-ramkhamhaeng` · `official_gallery_source` — Missing
+- `knightsbridge-prime-sathorn` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `knightsbridge-prime-sathorn` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `knightsbridge-prime-sathorn` · `building_count` — Missing
+- `knightsbridge-prime-sathorn` · `floor_count` — Missing
+- `knightsbridge-prime-sathorn` · `total_units` — Missing
+- `knightsbridge-prime-sathorn` · `unit_types` — Missing
+- `knightsbridge-prime-sathorn` · `official_brochure` — Missing
+- `knightsbridge-prime-sathorn` · `official_floor_plans` — Missing
+- `knightsbridge-prime-sathorn` · `official_gallery_source` — Missing
+- `life-asoke-rama-9` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `life-asoke-rama-9` · `building_count` — Missing
+- `life-asoke-rama-9` · `floor_count` — Missing
+- `life-asoke-rama-9` · `total_units` — Missing
+- `life-asoke-rama-9` · `unit_types` — Missing
+- `life-asoke-rama-9` · `nearest_bts` — Missing
+- `life-asoke-rama-9` · `official_brochure` — Missing
+- `life-asoke-rama-9` · `official_floor_plans` — Missing
+- `life-ladprao` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `life-ladprao` · `building_count` — Missing
+- `life-ladprao` · `floor_count` — Missing
+- `life-ladprao` · `total_units` — Missing
+- `life-ladprao` · `unit_types` — Missing
+- `life-ladprao` · `official_brochure` — Missing
+- `life-ladprao` · `official_floor_plans` — Missing
+- `life-one-wireless` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `life-one-wireless` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `life-one-wireless` · `building_count` — Missing
+- `life-one-wireless` · `floor_count` — Missing
+- `life-one-wireless` · `total_units` — Missing
+- `life-one-wireless` · `unit_types` — Missing
+- `life-one-wireless` · `nearest_mrt` — Missing
+- `life-one-wireless` · `official_brochure` — Missing
+- `life-one-wireless` · `official_floor_plans` — Missing
+- `life-one-wireless` · `official_gallery_source` — Missing
+- `lumpini-ville-phahol-saphanmai` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `lumpini-ville-phahol-saphanmai` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `lumpini-ville-phahol-saphanmai` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `lumpini-ville-phahol-saphanmai` · `project_status` — Missing
+- `lumpini-ville-phahol-saphanmai` · `completion_year` — Missing
+- `lumpini-ville-phahol-saphanmai` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `lumpini-ville-phahol-saphanmai` · `latitude` — Missing
+- `lumpini-ville-phahol-saphanmai` · `longitude` — Missing
+- `lumpini-ville-phahol-saphanmai` · `building_count` — Missing
+- `lumpini-ville-phahol-saphanmai` · `floor_count` — Missing
+- `lumpini-ville-phahol-saphanmai` · `total_units` — Missing
+- `lumpini-ville-phahol-saphanmai` · `unit_types` — Missing
+- `lumpini-ville-phahol-saphanmai` · `official_facilities` — Missing
+- `lumpini-ville-phahol-saphanmai` · `nearest_mrt` — Missing
+- `lumpini-ville-phahol-saphanmai` · `official_brochure` — Missing
+- `lumpini-ville-phahol-saphanmai` · `official_floor_plans` — Missing
+- `lumpini-ville-phahol-saphanmai` · `official_gallery_source` — Missing
+- `m-jive-sathorn-lumphini` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `m-jive-sathorn-lumphini` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `m-jive-sathorn-lumphini` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `m-jive-sathorn-lumphini` · `project_status` — Missing
+- `m-jive-sathorn-lumphini` · `completion_year` — Missing
+- `m-jive-sathorn-lumphini` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `m-jive-sathorn-lumphini` · `latitude` — Missing
+- `m-jive-sathorn-lumphini` · `longitude` — Missing
+- `m-jive-sathorn-lumphini` · `building_count` — Missing
+- `m-jive-sathorn-lumphini` · `floor_count` — Missing
+- `m-jive-sathorn-lumphini` · `total_units` — Missing
+- `m-jive-sathorn-lumphini` · `unit_types` — Missing
+- `m-jive-sathorn-lumphini` · `official_facilities` — Missing
+- `m-jive-sathorn-lumphini` · `official_brochure` — Missing
+- `m-jive-sathorn-lumphini` · `official_floor_plans` — Missing
+- `m-jive-sathorn-lumphini` · `official_gallery_source` — Missing
+- `m-silom` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `m-silom` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `m-silom` · `building_count` — Missing
+- `m-silom` · `floor_count` — Missing
+- `m-silom` · `total_units` — Missing
+- `m-silom` · `unit_types` — Missing
+- `m-silom` · `official_brochure` — Missing
+- `m-silom` · `official_floor_plans` — Missing
+- `m-silom` · `official_gallery_source` — Missing
+- `maestro-03-ratchada-rama-9` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `maestro-03-ratchada-rama-9` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `maestro-03-ratchada-rama-9` · `building_count` — Missing
+- `maestro-03-ratchada-rama-9` · `floor_count` — Missing
+- `maestro-03-ratchada-rama-9` · `total_units` — Missing
+- `maestro-03-ratchada-rama-9` · `unit_types` — Missing
+- `maestro-03-ratchada-rama-9` · `nearest_bts` — Missing
+- `maestro-03-ratchada-rama-9` · `official_brochure` — Missing
+- `maestro-03-ratchada-rama-9` · `official_floor_plans` — Missing
+- `maestro-03-ratchada-rama-9` · `official_gallery_source` — Missing
+- `modiz-rhyme-ramkhamhaeng` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `modiz-rhyme-ramkhamhaeng` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `modiz-rhyme-ramkhamhaeng` · `building_count` — Missing
+- `modiz-rhyme-ramkhamhaeng` · `floor_count` — Missing
+- `modiz-rhyme-ramkhamhaeng` · `total_units` — Missing
+- `modiz-rhyme-ramkhamhaeng` · `unit_types` — Missing
+- `modiz-rhyme-ramkhamhaeng` · `nearest_bts` — Missing
+- `modiz-rhyme-ramkhamhaeng` · `nearest_mrt` — Missing
+- `modiz-rhyme-ramkhamhaeng` · `official_brochure` — Missing
+- `modiz-rhyme-ramkhamhaeng` · `official_floor_plans` — Missing
+- `modiz-rhyme-ramkhamhaeng` · `official_gallery_source` — Missing
+- `niche-pride-thonglor-phetchaburi` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `niche-pride-thonglor-phetchaburi` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `niche-pride-thonglor-phetchaburi` · `building_count` — Missing
+- `niche-pride-thonglor-phetchaburi` · `floor_count` — Missing
+- `niche-pride-thonglor-phetchaburi` · `total_units` — Missing
+- `niche-pride-thonglor-phetchaburi` · `unit_types` — Missing
+- `niche-pride-thonglor-phetchaburi` · `nearest_mrt` — Missing
+- `niche-pride-thonglor-phetchaburi` · `official_brochure` — Missing
+- `niche-pride-thonglor-phetchaburi` · `official_floor_plans` — Missing
+- `niche-pride-thonglor-phetchaburi` · `official_gallery_source` — Missing
+- `noble-around-ari` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `noble-around-ari` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `noble-around-ari` · `building_count` — Missing
+- `noble-around-ari` · `floor_count` — Missing
+- `noble-around-ari` · `total_units` — Missing
+- `noble-around-ari` · `unit_types` — Missing
+- `noble-around-ari` · `nearest_mrt` — Missing
+- `noble-around-ari` · `official_brochure` — Missing
+- `noble-around-ari` · `official_floor_plans` — Missing
+- `noble-around-ari` · `official_gallery_source` — Missing
+- `noble-beat` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `noble-beat` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `noble-beat` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `noble-beat` · `project_status` — Missing
+- `noble-beat` · `completion_year` — Missing
+- `noble-beat` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `noble-beat` · `latitude` — Missing
+- `noble-beat` · `longitude` — Missing
+- `noble-beat` · `building_count` — Missing
+- `noble-beat` · `floor_count` — Missing
+- `noble-beat` · `total_units` — Missing
+- `noble-beat` · `unit_types` — Missing
+- `noble-beat` · `official_facilities` — Missing
+- `noble-beat` · `nearest_mrt` — Missing
+- `noble-beat` · `official_brochure` — Missing
+- `noble-beat` · `official_floor_plans` — Missing
+- `noble-beat` · `official_gallery_source` — Missing
+- `noble-revolve-ratchada` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `noble-revolve-ratchada` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `noble-revolve-ratchada` · `building_count` — Missing
+- `noble-revolve-ratchada` · `floor_count` — Missing
+- `noble-revolve-ratchada` · `total_units` — Missing
+- `noble-revolve-ratchada` · `unit_types` — Missing
+- `noble-revolve-ratchada` · `nearest_bts` — Missing
+- `noble-revolve-ratchada` · `official_brochure` — Missing
+- `noble-revolve-ratchada` · `official_floor_plans` — Missing
+- `noble-revolve-ratchada` · `official_gallery_source` — Missing
+- `one-bangkok` · `project_status` — Missing
+- `one-bangkok` · `completion_year` — Missing
+- `one-bangkok` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `one-bangkok` · `latitude` — Missing
+- `one-bangkok` · `longitude` — Missing
+- `one-bangkok` · `building_count` — Missing
+- `one-bangkok` · `floor_count` — Missing
+- `one-bangkok` · `total_units` — Missing
+- `one-bangkok` · `unit_types` — Missing
+- `one-bangkok` · `official_brochure` — Missing
+- `one-bangkok` · `official_floor_plans` — Missing
+- `one-bangkok` · `official_gallery_source` — Missing
+- `origin-plug-play-sukhumvit-101` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `origin-plug-play-sukhumvit-101` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `origin-plug-play-sukhumvit-101` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `origin-plug-play-sukhumvit-101` · `project_status` — Missing
+- `origin-plug-play-sukhumvit-101` · `completion_year` — Missing
+- `origin-plug-play-sukhumvit-101` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `origin-plug-play-sukhumvit-101` · `latitude` — Missing
+- `origin-plug-play-sukhumvit-101` · `longitude` — Missing
+- `origin-plug-play-sukhumvit-101` · `building_count` — Missing
+- `origin-plug-play-sukhumvit-101` · `floor_count` — Missing
+- `origin-plug-play-sukhumvit-101` · `total_units` — Missing
+- `origin-plug-play-sukhumvit-101` · `unit_types` — Missing
+- `origin-plug-play-sukhumvit-101` · `official_facilities` — Missing
+- `origin-plug-play-sukhumvit-101` · `nearest_mrt` — Missing
+- `origin-plug-play-sukhumvit-101` · `official_brochure` — Missing
+- `origin-plug-play-sukhumvit-101` · `official_floor_plans` — Missing
+- `origin-plug-play-sukhumvit-101` · `official_gallery_source` — Missing
+- `rhythm-ekkamai` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `rhythm-ekkamai` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `rhythm-ekkamai` · `building_count` — Missing
+- `rhythm-ekkamai` · `floor_count` — Missing
+- `rhythm-ekkamai` · `total_units` — Missing
+- `rhythm-ekkamai` · `unit_types` — Missing
+- `rhythm-ekkamai` · `nearest_mrt` — Missing
+- `rhythm-ekkamai` · `official_brochure` — Missing
+- `rhythm-ekkamai` · `official_floor_plans` — Missing
+- `rhythm-ekkamai` · `official_gallery_source` — Missing
+- `samyan-mitrtown` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `samyan-mitrtown` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `samyan-mitrtown` · `project_status` — Missing
+- `samyan-mitrtown` · `completion_year` — Missing
+- `samyan-mitrtown` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `samyan-mitrtown` · `latitude` — Missing
+- `samyan-mitrtown` · `longitude` — Missing
+- `samyan-mitrtown` · `building_count` — Missing
+- `samyan-mitrtown` · `floor_count` — Missing
+- `samyan-mitrtown` · `total_units` — Missing
+- `samyan-mitrtown` · `unit_types` — Missing
+- `samyan-mitrtown` · `official_facilities` — Missing
+- `samyan-mitrtown` · `nearest_bts` — Missing
+- `samyan-mitrtown` · `official_brochure` — Missing
+- `samyan-mitrtown` · `official_floor_plans` — Missing
+- `samyan-mitrtown` · `official_gallery_source` — Missing
+- `singha-complex` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `singha-complex` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `singha-complex` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `singha-complex` · `project_status` — Missing
+- `singha-complex` · `completion_year` — Missing
+- `singha-complex` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `singha-complex` · `latitude` — Missing
+- `singha-complex` · `longitude` — Missing
+- `singha-complex` · `building_count` — Missing
+- `singha-complex` · `floor_count` — Missing
+- `singha-complex` · `total_units` — Missing
+- `singha-complex` · `unit_types` — Missing
+- `singha-complex` · `official_facilities` — Missing
+- `singha-complex` · `nearest_bts` — Missing
+- `singha-complex` · `official_brochure` — Missing
+- `singha-complex` · `official_floor_plans` — Missing
+- `singha-complex` · `official_gallery_source` — Missing
+- `supalai-elite-phayathai` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `supalai-elite-phayathai` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `supalai-elite-phayathai` · `building_count` — Missing
+- `supalai-elite-phayathai` · `floor_count` — Missing
+- `supalai-elite-phayathai` · `total_units` — Missing
+- `supalai-elite-phayathai` · `unit_types` — Missing
+- `supalai-elite-phayathai` · `nearest_mrt` — Missing
+- `supalai-elite-phayathai` · `official_brochure` — Missing
+- `supalai-elite-phayathai` · `official_floor_plans` — Missing
+- `supalai-elite-phayathai` · `official_gallery_source` — Missing
+- `supalai-lite-sathorn-charoenrat` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `supalai-lite-sathorn-charoenrat` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `supalai-lite-sathorn-charoenrat` · `building_count` — Missing
+- `supalai-lite-sathorn-charoenrat` · `floor_count` — Missing
+- `supalai-lite-sathorn-charoenrat` · `total_units` — Missing
+- `supalai-lite-sathorn-charoenrat` · `unit_types` — Missing
+- `supalai-lite-sathorn-charoenrat` · `nearest_bts` — Missing
+- `supalai-lite-sathorn-charoenrat` · `nearest_mrt` — Missing
+- `supalai-lite-sathorn-charoenrat` · `official_brochure` — Missing
+- `supalai-lite-sathorn-charoenrat` · `official_floor_plans` — Missing
+- `supalai-lite-sathorn-charoenrat` · `official_gallery_source` — Missing
+- `supalai-oriental-sukhumvit-39` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `supalai-oriental-sukhumvit-39` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `supalai-oriental-sukhumvit-39` · `building_count` — Missing
+- `supalai-oriental-sukhumvit-39` · `floor_count` — Missing
+- `supalai-oriental-sukhumvit-39` · `total_units` — Missing
+- `supalai-oriental-sukhumvit-39` · `unit_types` — Missing
+- `supalai-oriental-sukhumvit-39` · `official_brochure` — Missing
+- `supalai-oriental-sukhumvit-39` · `official_floor_plans` — Missing
+- `supalai-oriental-sukhumvit-39` · `official_gallery_source` — Missing
+- `supalai-veranda-rama-9` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `supalai-veranda-rama-9` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `supalai-veranda-rama-9` · `building_count` — Missing
+- `supalai-veranda-rama-9` · `floor_count` — Missing
+- `supalai-veranda-rama-9` · `total_units` — Missing
+- `supalai-veranda-rama-9` · `unit_types` — Missing
+- `supalai-veranda-rama-9` · `nearest_bts` — Missing
+- `supalai-veranda-rama-9` · `official_brochure` — Missing
+- `supalai-veranda-rama-9` · `official_floor_plans` — Missing
+- `supalai-veranda-rama-9` · `official_gallery_source` — Missing
+- `the-base-sukhumvit-77` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `the-base-sukhumvit-77` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `the-base-sukhumvit-77` · `building_count` — Missing
+- `the-base-sukhumvit-77` · `floor_count` — Missing
+- `the-base-sukhumvit-77` · `total_units` — Missing
+- `the-base-sukhumvit-77` · `unit_types` — Missing
+- `the-base-sukhumvit-77` · `nearest_mrt` — Missing
+- `the-base-sukhumvit-77` · `official_brochure` — Missing
+- `the-base-sukhumvit-77` · `official_floor_plans` — Missing
+- `the-base-sukhumvit-77` · `official_gallery_source` — Missing
+- `the-esse-asoke` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `the-esse-asoke` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `the-esse-asoke` · `building_count` — Missing
+- `the-esse-asoke` · `floor_count` — Missing
+- `the-esse-asoke` · `total_units` — Missing
+- `the-esse-asoke` · `unit_types` — Missing
+- `the-esse-asoke` · `official_brochure` — Missing
+- `the-esse-asoke` · `official_floor_plans` — Missing
+- `the-esse-asoke` · `official_gallery_source` — Missing
+- `the-esse-sukhumvit-36` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `the-esse-sukhumvit-36` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `the-esse-sukhumvit-36` · `building_count` — Missing
+- `the-esse-sukhumvit-36` · `floor_count` — Missing
+- `the-esse-sukhumvit-36` · `total_units` — Missing
+- `the-esse-sukhumvit-36` · `unit_types` — Missing
+- `the-esse-sukhumvit-36` · `nearest_mrt` — Missing
+- `the-esse-sukhumvit-36` · `official_brochure` — Missing
+- `the-esse-sukhumvit-36` · `official_floor_plans` — Missing
+- `the-esse-sukhumvit-36` · `official_gallery_source` — Missing
+- `the-forestias` · `completion_year` — Missing
+- `the-forestias` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `the-forestias` · `latitude` — Missing
+- `the-forestias` · `longitude` — Missing
+- `the-forestias` · `building_count` — Missing
+- `the-forestias` · `floor_count` — Missing
+- `the-forestias` · `total_units` — Missing
+- `the-forestias` · `unit_types` — Missing
+- `the-forestias` · `nearest_bts` — Missing
+- `the-forestias` · `nearest_mrt` — Missing
+- `the-forestias` · `official_brochure` — Missing
+- `the-forestias` · `official_floor_plans` — Missing
+- `the-forestias` · `official_gallery_source` — Missing
+- `the-line-sukhumvit-101` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `the-line-sukhumvit-101` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `the-line-sukhumvit-101` · `building_count` — Missing
+- `the-line-sukhumvit-101` · `floor_count` — Missing
+- `the-line-sukhumvit-101` · `total_units` — Missing
+- `the-line-sukhumvit-101` · `unit_types` — Missing
+- `the-line-sukhumvit-101` · `nearest_mrt` — Missing
+- `the-line-sukhumvit-101` · `official_brochure` — Missing
+- `the-line-sukhumvit-101` · `official_floor_plans` — Missing
+- `the-line-sukhumvit-101` · `official_gallery_source` — Missing
+- `the-livin-ramkhamhaeng` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `the-livin-ramkhamhaeng` · `nearest_bts` — Missing
+- `the-lofts-silom` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `the-lofts-silom` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `the-lofts-silom` · `building_count` — Missing
+- `the-lofts-silom` · `floor_count` — Missing
+- `the-lofts-silom` · `total_units` — Missing
+- `the-lofts-silom` · `unit_types` — Missing
+- `the-lofts-silom` · `official_brochure` — Missing
+- `the-lofts-silom` · `official_floor_plans` — Missing
+- `the-lofts-silom` · `official_gallery_source` — Missing
+- `the-privacy-rama-9` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `the-privacy-rama-9` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `the-privacy-rama-9` · `building_count` — Missing
+- `the-privacy-rama-9` · `floor_count` — Missing
+- `the-privacy-rama-9` · `total_units` — Missing
+- `the-privacy-rama-9` · `unit_types` — Missing
+- `the-privacy-rama-9` · `nearest_bts` — Missing
+- `the-privacy-rama-9` · `nearest_mrt` — Missing
+- `the-privacy-rama-9` · `official_brochure` — Missing
+- `the-privacy-rama-9` · `official_floor_plans` — Missing
+- `the-privacy-rama-9` · `official_gallery_source` — Missing
+- `the-room-sathorn-taksin` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `the-room-sathorn-taksin` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `the-room-sathorn-taksin` · `building_count` — Missing
+- `the-room-sathorn-taksin` · `floor_count` — Missing
+- `the-room-sathorn-taksin` · `total_units` — Missing
+- `the-room-sathorn-taksin` · `unit_types` — Missing
+- `the-room-sathorn-taksin` · `nearest_mrt` — Missing
+- `the-room-sathorn-taksin` · `official_brochure` — Missing
+- `the-room-sathorn-taksin` · `official_floor_plans` — Missing
+- `the-room-sathorn-taksin` · `official_gallery_source` — Missing
+- `the-room-sukhumvit-62` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `the-room-sukhumvit-62` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `the-room-sukhumvit-62` · `building_count` — Missing
+- `the-room-sukhumvit-62` · `floor_count` — Missing
+- `the-room-sukhumvit-62` · `total_units` — Missing
+- `the-room-sukhumvit-62` · `unit_types` — Missing
+- `the-room-sukhumvit-62` · `nearest_mrt` — Missing
+- `the-room-sukhumvit-62` · `official_brochure` — Missing
+- `the-room-sukhumvit-62` · `official_floor_plans` — Missing
+- `the-room-sukhumvit-62` · `official_gallery_source` — Missing
+- `the-tree-rio-bang-aor` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `the-tree-rio-bang-aor` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `the-tree-rio-bang-aor` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `the-tree-rio-bang-aor` · `project_status` — Missing
+- `the-tree-rio-bang-aor` · `completion_year` — Missing
+- `the-tree-rio-bang-aor` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `the-tree-rio-bang-aor` · `latitude` — Missing
+- `the-tree-rio-bang-aor` · `longitude` — Missing
+- `the-tree-rio-bang-aor` · `building_count` — Missing
+- `the-tree-rio-bang-aor` · `floor_count` — Missing
+- `the-tree-rio-bang-aor` · `total_units` — Missing
+- `the-tree-rio-bang-aor` · `unit_types` — Missing
+- `the-tree-rio-bang-aor` · `official_facilities` — Missing
+- `the-tree-rio-bang-aor` · `nearest_bts` — Missing
+- `the-tree-rio-bang-aor` · `official_brochure` — Missing
+- `the-tree-rio-bang-aor` · `official_floor_plans` — Missing
+- `the-tree-rio-bang-aor` · `official_gallery_source` — Missing
+- `vyva-thonglor` · `official_project_name` — Packaged EN name without portal or project-page confirmation
+- `vyva-thonglor` · `thai_project_name` — Packaged Thai name without project-page confirmation
+- `vyva-thonglor` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `vyva-thonglor` · `project_status` — Missing
+- `vyva-thonglor` · `completion_year` — Missing
+- `vyva-thonglor` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `vyva-thonglor` · `latitude` — Missing
+- `vyva-thonglor` · `longitude` — Missing
+- `vyva-thonglor` · `building_count` — Missing
+- `vyva-thonglor` · `floor_count` — Missing
+- `vyva-thonglor` · `total_units` — Missing
+- `vyva-thonglor` · `unit_types` — Missing
+- `vyva-thonglor` · `official_facilities` — Missing
+- `vyva-thonglor` · `nearest_mrt` — Missing
+- `vyva-thonglor` · `official_brochure` — Missing
+- `vyva-thonglor` · `official_floor_plans` — Missing
+- `vyva-thonglor` · `official_gallery_source` — Missing
+- `whizdom-essence` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `whizdom-essence` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `whizdom-essence` · `building_count` — Missing
+- `whizdom-essence` · `floor_count` — Missing
+- `whizdom-essence` · `total_units` — Missing
+- `whizdom-essence` · `unit_types` — Missing
+- `whizdom-essence` · `nearest_mrt` — Missing
+- `whizdom-essence` · `official_brochure` — Missing
+- `whizdom-essence` · `official_floor_plans` — Missing
+- `whizdom-essence` · `official_gallery_source` — Missing
+- `xt-huai-khwang` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `xt-huai-khwang` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `xt-huai-khwang` · `building_count` — Missing
+- `xt-huai-khwang` · `floor_count` — Missing
+- `xt-huai-khwang` · `total_units` — Missing
+- `xt-huai-khwang` · `unit_types` — Missing
+- `xt-huai-khwang` · `nearest_bts` — Missing
+- `xt-huai-khwang` · `official_brochure` — Missing
+- `xt-huai-khwang` · `official_floor_plans` — Missing
+- `xt-huai-khwang` · `official_gallery_source` — Missing
+- `xt-phayathai` · `official_project_url` — Developer homepage alone is not a project-specific OFFICIAL URL
+- `xt-phayathai` · `subdistrict` — subdistrict not present / not Tier-1 confirmed
+- `xt-phayathai` · `building_count` — Missing
+- `xt-phayathai` · `floor_count` — Missing
+- `xt-phayathai` · `total_units` — Missing
+- `xt-phayathai` · `unit_types` — Missing
+- `xt-phayathai` · `nearest_mrt` — Missing
+- `xt-phayathai` · `official_brochure` — Missing
+- `xt-phayathai` · `official_floor_plans` — Missing
+- `xt-phayathai` · `official_gallery_source` — Missing
