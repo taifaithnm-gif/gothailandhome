@@ -83,6 +83,63 @@ if (platform.length < 1) {
   ok(`${platform.length} platform_customer_success contact(s)`);
 }
 
+// Display copy must never present Apple / platform CS as listing agent.
+try {
+  const en = JSON.parse(
+    readFileSync(resolve(process.cwd(), "src/dictionaries/en.json"), "utf8"),
+  );
+  const m = en.marketplace || {};
+  if (!/Ask GoThailandHome to help contact the source/i.test(m.escalationCta || "")) {
+    fail("escalationCta must ask GoThailandHome to help contact the source");
+    failures += 1;
+  } else {
+    ok("escalation CTA is platform assistance, not listing agent");
+  }
+  if (/listing agent|listing owner/i.test(m.platformSupportTitle || "")) {
+    fail("platformSupportTitle must not claim listing agent/owner");
+    failures += 1;
+  } else {
+    ok("platform support title is not labeled as listing agent");
+  }
+  const card = readFileSync(
+    resolve(process.cwd(), "src/components/property/listing-contact-card.tsx"),
+    "utf8",
+  );
+  if (!card.includes("never silently substitutes Apple")) {
+    fail("listing-contact-card missing Apple substitute guard comment/policy");
+    failures += 1;
+  } else {
+    ok("listing-contact-card documents Apple non-substitution");
+  }
+  if (/agent\.name.*apple|apple.*listingContactRole/i.test(card)) {
+    fail("listing-contact-card appears to render Apple as listing agent");
+    failures += 1;
+  } else {
+    ok("listing-contact-card does not hardcode Apple as listing agent");
+  }
+// Live agent_id coverage is validated in CONTACT_SAFETY_VALIDATION_REPORT /
+  // scripts/check-agent-relations.mjs (requires Supabase network). Offline gate
+  // asserts the documented freeze baseline still claims 12 relations.
+  try {
+    const integrity = readFileSync(
+      resolve(process.cwd(), "DATA_INTEGRITY_REPORT.md"),
+      "utf8",
+    );
+    if (!/\|\s*properties with `agent_id`\s*\|\s*12\s*\|/.test(integrity)) {
+      fail("DATA_INTEGRITY_REPORT.md must document 12 properties with agent_id");
+      failures += 1;
+    } else {
+      ok("documented freeze baseline retains 12 listing-agent relations");
+    }
+  } catch (error) {
+    fail(`agent baseline doc check failed: ${error.message}`);
+    failures += 1;
+  }
+} catch (error) {
+  fail(`dictionary/contact card checks failed: ${error.message}`);
+  failures += 1;
+}
+
 if (failures === 0) {
   console.log(JSON.stringify({ ok: true, failures: 0 }));
 } else {
