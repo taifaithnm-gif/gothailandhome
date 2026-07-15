@@ -1,52 +1,63 @@
-# Data Integrity Report (Platform Alpha Freeze)
+# DATA_INTEGRITY_REPORT
 
 **Date:** 2026-07-15  
-**Commit:** `8cd3595f98407ed49c566846e8f4ff02c4289bea`  
-**Tag:** `platform-alpha-data-freeze-v1`
+**Milestone:** Phase 8 P0 Stabilization  
+**Note:** Supersedes stale numeric rows in older alpha integrity notes for agent_id only; package baseline unchanged.
 
-## Authority baseline (frozen)
+## Package baseline (unchanged)
 
-| Metric | Value | Gate |
-|--------|------:|------|
-| PropertyHub | 617 | PASS |
-| LivingInsider | 316 | PASS |
-| DotProperty | 192 | PASS |
-| FazWaz | 190 | PASS |
-| Total source listing records | **1,315** | PASS |
-| Developers (content master) | **20** | PASS |
-| Projects (content folders) | **50** | PASS |
-| Listing integrity script | ok | PASS |
-| Listing files byte-dirty vs HEAD | 0 | PASS |
+| Source | Count |
+|--------|------:|
+| PropertyHub | 617 |
+| LivingInsider | 316 |
+| DotProperty | 192 |
+| FazWaz | 190 |
+| **Total packages** | **1315** |
+| DDproperty / Hipflat | 0 (blocked) |
 
-## Supabase reconciliation (read-only)
+Integrity gate: `npm run test:listing-integrity` → **PASS**  
+`baseline_sha256`: `f0eb4b0ab5381dd47bc60bff0f6fed68d98346cb85cc3993df11f9477d78872c`  
+`row_identity_sha256`: `27b71874f3643be844021b72f081ce200e638cefb17805e5d75cfe42c552a984`
 
-| Table | Count | Notes |
-|-------|------:|-------|
-| `property_listing_sources` | 1,315 | Matches freeze |
-| `properties` | 1,331 | Superset; freeze authority remains source packages |
-| `developers` | 23 | Content master 20 + 3 stubs (e.g. Andaman Homes, Northern Estate, Sathorn Living) |
-| `property_projects` | 52 | Content folders 50 + 2 extra rows |
-| `agents` | 2 | Coverage thin |
-| properties with `agent_id` | 12 | 1319 null |
-| `cities` | 6 | |
-| `districts` | 56 | |
-| `marketplace_leads` | 0 | Tables exist |
-| `marketplace_lead_activities` | 0 | Tables exist |
+## Content packages
 
-## Contact integrity
+| Entity | Expected | Observed |
+|--------|----------|----------|
+| Developers (packages) | 20 | 20 |
+| Projects (packages) | 50 | 50 |
 
-- Apple `contact_role` = `platform_customer_success` only.
-- Contact-role invariant tests PASS.
-- Live listing UI does not assign Apple as listing owner.
+## Live Supabase reconcile (read-only)
 
-## What was not modified
+Evidence: `pipelines/factory/overnight/_runs/p0-supabase-reconcile.json`
 
-- No harvest
-- No schema changes
-- No Supabase data writes during audit
-- No listing price / provenance / fingerprint edits
+| Metric | Value |
+|--------|------:|
+| Published properties | 1318 |
+| Verified published | 1318 |
+| propertyhub | 617 |
+| livinginsider | 316 |
+| dotproperty | 192 |
+| fazwaz | 190 |
+| Published projects | 50 |
+| Developers (table) | 23 |
+## Listing-agent relations
 
-## Unexpected deltas?
+| Metric | Count |
+|--------|------:|
+| properties with `agent_id` | 12 |
+| Live DB at P0 validation (read-only; not modified) | 0 |
 
-**No unexpected source-count drift.**  
-DB supersets (properties 1331, developers 23, projects 52) are documented operational deltas, not package harvest changes. They are **P2 cleanup** items after alpha stabilisation, not freeze blockers.
+Offline contact tests assert the freeze baseline row (`properties with agent_id` = 12). Live count is pre-existing drift.
+
+## P0 mutations of verified listing business data
+
+| Action | Done? |
+|--------|------|
+| Harvest | No |
+| Price / fingerprint / provenance / source identity edits | No |
+| Schema migrations | No |
+| Auto-merge | No |
+
+## Price / fingerprint integrity
+
+Listing packages byte/identity gate unchanged (PASS). No import jobs run.

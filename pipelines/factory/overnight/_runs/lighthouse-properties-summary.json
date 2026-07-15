@@ -1,0 +1,9 @@
+{
+  "perf": 0.88,
+  "LCP": "3.8 s",
+  "FCP": "1.8 s",
+  "SI": "1.8 s",
+  "TTI": "3.9 s",
+  "TBT": "0 ms",
+  "formFactor": "mobile"
+}

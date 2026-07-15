@@ -1,0 +1,20 @@
+{
+  "measured_at": "2026-07-15T13:39:49.549Z",
+  "withAgent": 0,
+  "published": 1318,
+  "verified": 1318,
+  "sources": {
+    "propertyhub": 617,
+    "livinginsider": 316,
+    "dotproperty": 192,
+    "fazwaz": 190,
+    "ddproperty": 0,
+    "hipflat": 0
+  },
+  "developers": 23,
+  "projects": 50,
+  "properties_page": {
+    "html_bytes": 218642,
+    "unique_property_links": 24
+  }
+}

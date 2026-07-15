@@ -1,0 +1,34 @@
+{
+  "measured_at": "2026-07-15T13:39:50.547Z",
+  "before_mb_documented": 4.7,
+  "rows": [
+    {
+      "path": "/en/properties",
+      "status": 200,
+      "bytes": 218642,
+      "mb": 0.209,
+      "unique_cards": 24
+    },
+    {
+      "path": "/en/properties?page=2",
+      "status": 200,
+      "bytes": 219421,
+      "mb": 0.209,
+      "unique_cards": 24
+    },
+    {
+      "path": "/en/search",
+      "status": 200,
+      "bytes": 199111,
+      "mb": 0.19,
+      "unique_cards": 24
+    },
+    {
+      "path": "/en/search?page=2",
+      "status": 200,
+      "bytes": 199800,
+      "mb": 0.191,
+      "unique_cards": 24
+    }
+  ]
+}
