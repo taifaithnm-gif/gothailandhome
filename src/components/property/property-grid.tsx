@@ -8,9 +8,16 @@ type PropertyGridProps = {
   locale: Locale;
   dict: Dictionary;
   properties: PropertyView[];
+  /** How many lead cards get image priority (default 3). */
+  imagePriorityCount?: number;
 };
 
-export function PropertyGrid({ locale, dict, properties }: PropertyGridProps) {
+export function PropertyGrid({
+  locale,
+  dict,
+  properties,
+  imagePriorityCount = 3,
+}: PropertyGridProps) {
   if (properties.length === 0) {
     return <EmptyState title={dict.common.noResults} />;
   }
@@ -23,7 +30,7 @@ export function PropertyGrid({ locale, dict, properties }: PropertyGridProps) {
           locale={locale}
           dict={dict}
           property={property}
-          imagePriority={index < 3}
+          imagePriority={index < imagePriorityCount}
         />
       ))}
     </div>

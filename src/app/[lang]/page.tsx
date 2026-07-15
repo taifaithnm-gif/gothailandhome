@@ -1,17 +1,45 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
-import { HeroSearch } from "@/components/listings/hero-search";
+import { HomeHeroSearch } from "@/components/home/home-hero-search";
+import {
+  AiConcierge,
+  PlatformCustomerSuccess,
+} from "@/components/marketplace/contact-blocks";
 import { PropertyGrid } from "@/components/property/property-grid";
+import { buttonVariants } from "@/components/ui/button";
+import {
+  DeveloperCardShell,
+  ProjectCardShell,
+  SurfaceCard,
+} from "@/components/ui/card";
 import { isLocale } from "@/config/locales";
 import { listPublishedDevelopers } from "@/lib/data/developers";
-import { listCities } from "@/lib/data/geography";
+import {
+  getCityBySlug,
+  listDistrictsByCity,
+} from "@/lib/data/geography";
 import { listPublishedProjects } from "@/lib/data/projects";
-import { listPublishedProperties } from "@/lib/data/properties";
+import { listPublishedPropertiesPaged } from "@/lib/data/properties";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
+import { cn } from "@/lib/utils";
 
 export const revalidate = 60;
+
+/** Seed demo developers — never surface on Alpha homepage as “verified”. */
+const SEED_DEMO_DEVELOPER_SLUGS = new Set([
+  "sathorn-living",
+  "andaman-homes",
+  "northern-estate",
+]);
+
+const INDEXED_SOURCES = [
+  "PropertyHub",
+  "LivingInsider",
+  "DotProperty",
+  "FazWaz",
+] as const;
 
 export async function generateMetadata({ params }: PageProps<"/[lang]">) {
   const { lang } = await params;
@@ -30,249 +58,384 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
   if (!isLocale(lang)) notFound();
 
   const dict = await getDictionary(lang);
-  const [cities, developers, projects, featured, latest, sale, rent] =
+  const bangkok = await getCityBySlug("bangkok");
+
+  const [districts, developers, bangkokProjects, featuredPaged, latestPaged] =
     await Promise.all([
-      listCities(),
+      bangkok ? listDistrictsByCity(bangkok.id) : Promise.resolve([]),
       listPublishedDevelopers(),
-      listPublishedProjects(),
-      listPublishedProperties({
+      bangkok
+        ? listPublishedProjects({ cityId: bangkok.id })
+        : listPublishedProjects(),
+      listPublishedPropertiesPaged({
+        verifiedOnly: true,
         featuredOnly: true,
-        verifiedOnly: true,
+        citySlug: "bangkok",
         sort: "featured",
+        page: 1,
+        pageSize: 6,
       }),
-      listPublishedProperties({ verifiedOnly: true, sort: "newest" }),
-      listPublishedProperties({
-        listingType: "sale",
+      listPublishedPropertiesPaged({
         verifiedOnly: true,
+        citySlug: "bangkok",
         sort: "newest",
-      }),
-      listPublishedProperties({
-        listingType: "rent",
-        verifiedOnly: true,
-        sort: "newest",
+        page: 1,
+        pageSize: 6,
       }),
     ]);
 
+  const verifiedDevelopers = developers
+    .filter((d) => !SEED_DEMO_DEVELOPER_SLUGS.has(d.slug))
+    .slice(0, 6);
+
+  const projectCatalog = bangkokProjects;
+  const featuredProjects = projectCatalog.slice(0, 6);
+
+  const latestListings =
+    featuredPaged.items.length > 0
+      ? featuredPaged.items
+      : latestPaged.items;
+
+  const districtCards = districts.slice(0, 12);
+  const h = dict.home;
+  const m = dict.marketplace;
+
   return (
     <>
+      {/* 1–2. Hero + Search */}
       <section className="relative overflow-hidden border-b border-[var(--brand-line)]">
-        <div className="absolute inset-0 bg-[linear-gradient(120deg,#063d38_0%,#0a5c54_42%,#1d7a6d_72%,#c9a227_140%)]" />
-        <div className="absolute inset-0 [background-image:radial-gradient(circle_at_15%_20%,white_0,transparent_28%),radial-gradient(circle_at_85%_15%,#e0b34d_0,transparent_22%)] opacity-35" />
-        <div className="relative mx-auto flex min-h-[78vh] w-full max-w-6xl flex-col justify-end gap-8 px-4 py-14 sm:px-6 sm:py-16">
+        <div
+          className="absolute inset-0 bg-[linear-gradient(120deg,#063d38_0%,#0a5c54_42%,#1d7a6d_72%,#c9a227_140%)]"
+          aria-hidden
+        />
+        <div
+          className="absolute inset-0 [background-image:radial-gradient(circle_at_15%_20%,white_0,transparent_28%),radial-gradient(circle_at_85%_15%,#e0b34d_0,transparent_22%)] opacity-35"
+          aria-hidden
+        />
+        <div className="ds-container relative flex min-h-[78vh] flex-col justify-end gap-8 py-14 sm:py-16">
           <div className="max-w-2xl space-y-4 text-white">
             <p className="font-heading text-4xl tracking-tight sm:text-5xl md:text-6xl">
               {dict.common.brand}
             </p>
             <h1 className="max-w-xl text-2xl leading-snug font-medium text-white/95 sm:text-3xl">
-              {dict.home.headline}
+              {h.headline}
             </h1>
             <p className="max-w-lg text-base leading-relaxed text-white/80 sm:text-lg">
-              {dict.home.subheadline}
+              {h.subheadline}
+            </p>
+            <p className="max-w-lg text-sm leading-relaxed text-white/70">
+              {h.positioning}
             </p>
           </div>
-          <HeroSearch locale={lang} dict={dict} cities={cities} />
-        </div>
-      </section>
-
-      <section className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
-        <div className="mb-8 flex items-end justify-between gap-4">
-          <div>
-            <h2 className="font-heading text-3xl text-[var(--brand-deep)]">
-              {dict.home.featuredProjectsTitle}
-            </h2>
-            <p className="mt-2 text-stone-600">
-              {dict.home.featuredProjectsSubtitle}
-            </p>
-          </div>
-          <Link
-            href={localePath(lang, "/projects")}
-            className="text-sm text-[var(--brand)] hover:underline"
-          >
-            {dict.common.viewAll}
-          </Link>
-        </div>
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {projects.slice(0, 6).map((project) => (
-            <Link
-              key={project.id}
-              href={localePath(lang, `/projects/${project.slug}`)}
-              className="rounded-2xl border border-[var(--brand-line)] bg-white p-5 transition hover:border-[var(--brand)]"
-            >
-              <p className="text-xs tracking-wide text-[var(--brand)] uppercase">
-                {project.developer?.name[lang]}
-              </p>
-              <h3 className="font-heading mt-2 text-xl text-[var(--brand-deep)]">
-                {project.name[lang]}
-              </h3>
-              <p className="mt-2 line-clamp-3 text-sm text-stone-600">
-                {project.description[lang]}
-              </p>
-            </Link>
-          ))}
-          {!projects.length ? (
-            <p className="text-sm text-stone-500">
-              {dict.cities.emptyProjects}
-            </p>
-          ) : null}
-        </div>
-      </section>
-
-      <section className="border-y border-[var(--brand-line)] bg-white/70">
-        <div className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
-          <div className="mb-8">
-            <h2 className="font-heading text-3xl text-[var(--brand-deep)]">
-              {dict.home.latestListingsTitle}
-            </h2>
-            <p className="mt-2 text-stone-600">
-              {dict.home.latestListingsSubtitle}
-            </p>
-          </div>
-          <PropertyGrid
+          <HomeHeroSearch
             locale={lang}
             dict={dict}
-            properties={(featured.length ? featured : latest).slice(0, 6)}
+            districts={districts}
+            projects={projectCatalog.slice(0, 40)}
           />
         </div>
       </section>
 
-      <section className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
-        <div className="mb-8 flex items-end justify-between gap-4">
-          <div>
-            <h2 className="font-heading text-3xl text-[var(--brand-deep)]">
-              {dict.home.citiesTitle}
-            </h2>
-            <p className="mt-2 text-stone-600">{dict.home.citiesSubtitle}</p>
-          </div>
-          <Link
-            href={localePath(lang, "/cities")}
-            className="text-sm text-[var(--brand)] hover:underline"
-          >
-            {dict.common.viewAll}
-          </Link>
-        </div>
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {cities.map((city) => (
-            <Link
-              key={city.id}
-              href={localePath(lang, `/cities/${city.slug}`)}
-              className="rounded-2xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-5 py-8 transition hover:-translate-y-0.5 hover:border-[var(--brand)] hover:shadow-md"
-            >
-              <span className="font-heading text-xl text-[var(--brand-deep)]">
-                {city.name[lang]}
-              </span>
-              <p className="mt-2 line-clamp-2 text-sm text-stone-600">
-                {city.summary[lang]}
-              </p>
-            </Link>
-          ))}
+      <section
+        className="border-b border-[var(--brand-line)] bg-white/80"
+        aria-label={h.sourcesLabel}
+      >
+        <div className="ds-container flex flex-col gap-2 py-4 sm:flex-row sm:items-center sm:justify-between">
+          <p className="ds-caption text-stone-600">
+            {h.sourcesLabel}: {INDEXED_SOURCES.join(" · ")}
+          </p>
+          <p className="text-xs text-stone-500">{h.coverageNote}</p>
         </div>
       </section>
 
-      <section className="border-y border-[var(--brand-line)] bg-white/70">
-        <div className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
+      {/* 3. Featured Projects */}
+      <section className="ds-section">
+        <div className="ds-container">
           <div className="mb-8 flex items-end justify-between gap-4">
             <div>
-              <h2 className="font-heading text-3xl text-[var(--brand-deep)]">
-                {dict.home.developersTitle}
-              </h2>
-              <p className="mt-2 text-stone-600">
-                {dict.home.developersSubtitle}
-              </p>
+              <h2 className="ds-h2">{h.featuredProjectsTitle}</h2>
+              <p className="mt-2 text-stone-600">{h.featuredProjectsSubtitle}</p>
             </div>
             <Link
-              href={localePath(lang, "/developers")}
-              className="text-sm text-[var(--brand)] hover:underline"
+              href={localePath(lang, "/projects")}
+              className="shrink-0 text-sm text-[var(--brand)] hover:underline"
             >
               {dict.common.viewAll}
             </Link>
           </div>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {developers.map((developer) => (
+            {featuredProjects.map((project) => (
               <Link
-                key={developer.id}
-                href={localePath(lang, `/developers/${developer.slug}`)}
-                className="rounded-2xl border border-[var(--brand-line)] bg-white p-5 hover:border-[var(--brand)]"
+                key={project.id}
+                href={localePath(lang, `/projects/${project.slug}`)}
+                className="block h-full"
               >
-                <h3 className="font-heading text-xl text-[var(--brand-deep)]">
-                  {developer.name[lang]}
-                </h3>
-                <p className="mt-2 line-clamp-3 text-sm text-stone-600">
-                  {developer.description[lang]}
-                </p>
+                <ProjectCardShell className="h-full p-5">
+                  <p className="ds-caption text-[var(--brand)]">
+                    {project.developer?.name[lang]}
+                  </p>
+                  <h3 className="font-heading mt-2 text-xl text-[var(--brand-deep)]">
+                    {project.name[lang]}
+                  </h3>
+                  <p className="mt-2 line-clamp-3 text-sm text-stone-600">
+                    {project.description[lang]}
+                  </p>
+                </ProjectCardShell>
               </Link>
             ))}
-            {!developers.length ? (
+            {!featuredProjects.length ? (
+              <p className="text-sm text-stone-500">
+                {dict.cities.emptyProjects}
+              </p>
+            ) : null}
+          </div>
+        </div>
+      </section>
+
+      {/* 4. Latest Listings */}
+      <section className="border-y border-[var(--brand-line)] bg-white/70">
+        <div className="ds-container ds-section">
+          <div className="mb-8 flex items-end justify-between gap-4">
+            <div>
+              <h2 className="ds-h2">{h.latestListingsTitle}</h2>
+              <p className="mt-2 text-stone-600">{h.latestListingsSubtitle}</p>
+            </div>
+            <Link
+              href={`${localePath(lang, "/properties")}?city=bangkok`}
+              className="shrink-0 text-sm text-[var(--brand)] hover:underline"
+            >
+              {dict.common.viewAll}
+            </Link>
+          </div>
+          <PropertyGrid
+            locale={lang}
+            dict={dict}
+            properties={latestListings}
+            imagePriorityCount={1}
+          />
+        </div>
+      </section>
+
+      {/* 5. Explore Bangkok */}
+      <section className="ds-section">
+        <div className="ds-container">
+          <div className="mb-8 flex items-end justify-between gap-4">
+            <div>
+              <h2 className="ds-h2">{h.citiesTitle}</h2>
+              <p className="mt-2 text-stone-600">{h.citiesSubtitle}</p>
+            </div>
+            {bangkok ? (
+              <Link
+                href={localePath(lang, `/cities/${bangkok.slug}`)}
+                className="shrink-0 text-sm text-[var(--brand)] hover:underline"
+              >
+                {dict.common.viewAll}
+              </Link>
+            ) : null}
+          </div>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {districtCards.map((district) => (
+              <Link
+                key={district.id}
+                href={localePath(lang, `/districts/${district.slug}`)}
+                className="rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-[var(--brand-soft)] px-5 py-8 transition hover:-translate-y-0.5 hover:border-[var(--brand)] hover:shadow-md"
+              >
+                <span className="font-heading text-xl text-[var(--brand-deep)]">
+                  {district.name[lang]}
+                </span>
+                {district.summary[lang] ? (
+                  <p className="mt-2 line-clamp-2 text-sm text-stone-600">
+                    {district.summary[lang]}
+                  </p>
+                ) : (
+                  <p className="mt-2 text-sm text-stone-500">{h.viewDistricts}</p>
+                )}
+              </Link>
+            ))}
+            {!districtCards.length ? (
               <p className="text-sm text-stone-500">{dict.common.noResults}</p>
             ) : null}
           </div>
         </div>
       </section>
 
-      <section className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
-        <div className="grid gap-6 lg:grid-cols-3">
-          <div className="rounded-2xl border border-[var(--brand-line)] bg-white p-6">
-            <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
-              {dict.home.buy}
-            </h2>
-            <p className="mt-2 text-sm text-stone-600">{dict.home.buyBody}</p>
-            <PropertyGrid
-              locale={lang}
-              dict={dict}
-              properties={sale.slice(0, 2)}
-            />
+      {/* 6. Developers */}
+      <section className="border-y border-[var(--brand-line)] bg-white/70">
+        <div className="ds-container ds-section">
+          <div className="mb-8 flex items-end justify-between gap-4">
+            <div>
+              <h2 className="ds-h2">{h.developersTitle}</h2>
+              <p className="mt-2 text-stone-600">{h.developersSubtitle}</p>
+            </div>
             <Link
-              href={`${localePath(lang, "/properties")}?listing_type=sale`}
-              className="mt-4 inline-flex text-sm text-[var(--brand)] hover:underline"
+              href={localePath(lang, "/developers")}
+              className="shrink-0 text-sm text-[var(--brand)] hover:underline"
             >
               {dict.common.viewAll}
             </Link>
           </div>
-          <div className="rounded-2xl border border-[var(--brand-line)] bg-white p-6">
-            <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
-              {dict.home.rent}
-            </h2>
-            <p className="mt-2 text-sm text-stone-600">{dict.home.rentBody}</p>
-            <PropertyGrid
-              locale={lang}
-              dict={dict}
-              properties={rent.slice(0, 2)}
-            />
-            <Link
-              href={`${localePath(lang, "/properties")}?listing_type=rent`}
-              className="mt-4 inline-flex text-sm text-[var(--brand)] hover:underline"
-            >
-              {dict.common.viewAll}
-            </Link>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {verifiedDevelopers.map((developer) => (
+              <Link
+                key={developer.id}
+                href={localePath(lang, `/developers/${developer.slug}`)}
+                className="block h-full"
+              >
+                <DeveloperCardShell className="h-full p-5">
+                  <h3 className="font-heading text-xl text-[var(--brand-deep)]">
+                    {developer.name[lang]}
+                  </h3>
+                  <p className="mt-2 line-clamp-3 text-sm text-stone-600">
+                    {developer.description[lang]}
+                  </p>
+                </DeveloperCardShell>
+              </Link>
+            ))}
+            {!verifiedDevelopers.length ? (
+              <p className="text-sm text-stone-500">{dict.common.noResults}</p>
+            ) : null}
           </div>
-          <div className="rounded-2xl bg-[var(--brand-deep)] p-6 text-white">
-            <h2 className="font-heading text-2xl">{dict.home.investment}</h2>
-            <p className="mt-2 text-sm text-white/75">
-              {dict.home.investmentBody}
-            </p>
+        </div>
+      </section>
+
+      {/* 7. Why GoThailandHome */}
+      <section className="ds-section">
+        <div className="ds-container">
+          <div className="mb-8 max-w-2xl">
+            <h2 className="ds-h2">{h.whyTitle}</h2>
+            <p className="mt-2 text-stone-600">{h.whySubtitle}</p>
+          </div>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {(
+              [
+                [h.whyVerifiedTitle, h.whyVerifiedBody],
+                [h.whyMultiTitle, h.whyMultiBody],
+                [h.whyTransparencyTitle, h.whyTransparencyBody],
+                [h.whyMarketplaceTitle, h.whyMarketplaceBody],
+              ] as const
+            ).map(([title, body]) => (
+              <SurfaceCard key={title} className="p-5">
+                <h3 className="font-heading text-lg text-[var(--brand-deep)]">
+                  {title}
+                </h3>
+                <p className="mt-2 text-sm leading-relaxed text-stone-600">
+                  {body}
+                </p>
+              </SurfaceCard>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* 8. Marketplace */}
+      <section className="border-y border-[var(--brand-line)] bg-[var(--brand-soft)]">
+        <div className="ds-container ds-section">
+          <div className="mb-8 max-w-2xl">
+            <h2 className="ds-h2">{h.marketplaceTitle}</h2>
+            <p className="mt-2 text-stone-600">{h.marketplaceSubtitle}</p>
+          </div>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {(
+              [
+                {
+                  href: "/find-my-home",
+                  title: m.findTitle,
+                  body: m.findSubtitle,
+                },
+                {
+                  href: "/list-your-property",
+                  title: m.listTitle,
+                  body: m.listSubtitle,
+                },
+                {
+                  href: "/partners/developers",
+                  title: m.developerPartnerTitle,
+                  body: m.developerPartnerSubtitle,
+                },
+                {
+                  href: "/partners/agencies",
+                  title: m.agencyPartnerTitle,
+                  body: m.agencyPartnerSubtitle,
+                },
+              ] as const
+            ).map((item) => (
+              <Link
+                key={item.href}
+                href={localePath(lang, item.href)}
+                className="flex h-full flex-col rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white p-5 transition hover:border-[var(--brand)]"
+              >
+                <h3 className="font-heading text-lg text-[var(--brand-deep)]">
+                  {item.title}
+                </h3>
+                <p className="mt-2 flex-1 text-sm text-stone-600">{item.body}</p>
+                <span className="mt-4 text-sm font-medium text-[var(--brand)]">
+                  →
+                </span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* 9. Knowledge */}
+      <section className="ds-section">
+        <div className="ds-container">
+          <div className="mb-8 max-w-2xl">
+            <h2 className="ds-h2">{h.knowledgeTitle}</h2>
+            <p className="mt-2 text-stone-600">{h.knowledgeSubtitle}</p>
+            <p className="mt-1 text-sm text-stone-500">{h.knowledgeComing}</p>
+          </div>
+          <div className="grid gap-4 md:grid-cols-3">
             <Link
-              href={`${localePath(lang, "/properties")}?listing_type=sale&sort=price_asc`}
-              className="mt-6 inline-flex h-11 items-center rounded-xl bg-[var(--brand-gold)] px-5 text-sm font-semibold text-[var(--brand-deep)]"
+              href={localePath(lang, "/about")}
+              className="block rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white p-5 transition hover:border-[var(--brand)]"
             >
-              {dict.home.investmentCta}
+              <h3 className="font-heading text-lg text-[var(--brand-deep)]">
+                {h.guidePlatformTitle}
+              </h3>
+              <p className="mt-2 text-sm text-stone-600">{h.guidePlatformBody}</p>
+            </Link>
+            <Link
+              href={localePath(lang, "/find-my-home")}
+              className="block rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white p-5 transition hover:border-[var(--brand)]"
+            >
+              <h3 className="font-heading text-lg text-[var(--brand-deep)]">
+                {h.guideVerifiedTitle}
+              </h3>
+              <p className="mt-2 text-sm text-stone-600">{h.guideVerifiedBody}</p>
+            </Link>
+            <Link
+              href={localePath(lang, "/contact")}
+              className="block rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white p-5 transition hover:border-[var(--brand)]"
+            >
+              <h3 className="font-heading text-lg text-[var(--brand-deep)]">
+                {h.guideContactTitle}
+              </h3>
+              <p className="mt-2 text-sm text-stone-600">{h.guideContactBody}</p>
             </Link>
           </div>
         </div>
       </section>
 
-      <section className="border-t border-[var(--brand-line)] bg-[var(--brand-soft)]">
-        <div className="mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-14 sm:flex-row sm:items-center sm:justify-between sm:px-6">
-          <div>
-            <h2 className="font-heading text-3xl text-[var(--brand-deep)]">
-              {dict.home.ctaTitle}
-            </h2>
-            <p className="mt-2 max-w-xl text-stone-600">{dict.home.ctaBody}</p>
+      {/* 10. Platform Support */}
+      <section className="border-t border-[var(--brand-line)] bg-white/70">
+        <div className="ds-container ds-section">
+          <div className="mb-8 max-w-2xl">
+            <h2 className="ds-h2">{h.supportTitle}</h2>
+            <p className="mt-2 text-stone-600">{h.supportSubtitle}</p>
           </div>
-          <Link
-            href={localePath(lang, "/contact")}
-            className="inline-flex h-12 items-center justify-center rounded-xl bg-[var(--brand)] px-6 text-sm font-semibold text-white hover:bg-[var(--brand-deep)]"
-          >
-            {dict.home.ctaButton}
-          </Link>
+          <div className="grid gap-4 lg:grid-cols-2">
+            <PlatformCustomerSuccess locale={lang} dict={dict} />
+            <AiConcierge dict={dict} />
+          </div>
+          <div className="mt-8">
+            <Link
+              href={localePath(lang, "/contact")}
+              className={cn(buttonVariants({ variant: "primary", size: "lg" }))}
+            >
+              {h.ctaButton}
+            </Link>
+          </div>
         </div>
       </section>
     </>

@@ -57,6 +57,7 @@ export default async function PropertiesPage({
   const minPriceRaw = one(query.min_price);
   const maxPriceRaw = one(query.max_price);
   const q = one(query.q) || undefined;
+  const type = one(query.type) || undefined;
   const pageRaw = Number(one(query.page) || "1");
   const page = Number.isFinite(pageRaw) && pageRaw > 0 ? pageRaw : 1;
 
@@ -69,6 +70,7 @@ export default async function PropertiesPage({
       query: q,
       verifiedOnly: true,
       listingType,
+      type,
       citySlug: city,
       districtSlug: district,
       developerSlug: developer,
@@ -85,6 +87,7 @@ export default async function PropertiesPage({
   const filterParams = {
     sort,
     listing_type: listingType === "all" ? undefined : listingType,
+    type: type && type !== "all" ? type : undefined,
     city,
     district,
     developer,
