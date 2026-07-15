@@ -1,42 +1,19 @@
 # VALIDATION_REPORT
 
-**Date:** 2026-07-14  
-**Milestone:** Phase 6 M7 FazWaz Wave 1
+| Gate | Result |
+|------|--------|
+| TypeScript (`tsc --noEmit`) | PASS |
+| Lint (`eslint`) | PASS (0 errors; 2 pre-existing warnings) |
+| Tests (`npm test` contact roles + listing integrity) | PASS |
+| Production build (`npm run build`) | PASS |
+| Migration (`db:migrate:phase8-m1`) | PASS |
+| Supabase reconciliation (tables/enums present) | PASS |
+| Contact-role invariants | PASS |
+| Listing count integrity | PASS (PH 617 / LI 316 / DP 192 / FZ 190) |
 
-## Data validation
+## New routes confirmed in build
 
-| Check | Result |
-|-------|--------|
-| FazWaz harvest | **PASS** (190 validated · 94 sale / 96 rent) |
-| FazWaz package ↔ DB | PASS (**190 / 190**, **0** drift) |
-| PropertyHub | PASS **617** · **0** drift |
-| LivingInsider | PASS **316** · **0** drift |
-| DotProperty | PASS **192** · **0** drift |
-| Hard duplicates (FazWaz) | PASS **0** |
-| Auto-merge | PASS **0** (70 soft candidates open) |
-| Schema change | PASS **none** |
-| `fazwaz.com` Cloudflare | Documented blocked · harvest used public `fazwaz.co.th` only |
-
-## Engineering checks
-
-| Check | Result |
-|-------|--------|
-| ESLint | PASS — 0 errors |
-| `next build` / TypeScript | PASS |
-| `npm test` | **N/A** — no test script |
-| Supabase reconciliation | PASS |
-
-## Combined inventory
-
-| Source | Count |
-|--------|------:|
-| PropertyHub | 617 |
-| LivingInsider | 316 |
-| DotProperty | 192 |
-| FazWaz | 190 |
-| **Total active** | **1315** |
-| DDproperty / Hipflat | 0 (BLOCKED adapters preserved) |
-
-## Status
-
-**PASS — ready to commit and push**
+- `/[lang]/find-my-home`
+- `/[lang]/list-your-property`
+- `/[lang]/partners/developers`
+- `/[lang]/partners/agencies`
