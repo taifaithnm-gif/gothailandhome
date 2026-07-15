@@ -34,6 +34,8 @@ export type PropertyView = {
   bathrooms: number | null;
   areaSqm: number | null;
   landAreaSqm: number | null;
+  floorLabel: string | null;
+  buildingLabel: string | null;
   priceThb: number;
   featured: boolean;
   transitTags: string[];
@@ -146,6 +148,8 @@ export function mapProperty(row: PropertyWithRelations): PropertyView {
     bathrooms: row.bathrooms,
     areaSqm: row.area_sqm == null ? null : Number(row.area_sqm),
     landAreaSqm: row.land_area_sqm == null ? null : Number(row.land_area_sqm),
+    floorLabel: row.floor_label ?? null,
+    buildingLabel: row.building_label ?? null,
     priceThb: Number(row.price_thb),
     featured: row.featured,
     transitTags: row.transit_tags ?? [],
