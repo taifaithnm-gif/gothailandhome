@@ -1,0 +1,435 @@
+{
+  "life-asoke-rama-9": {
+    "official_url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
+    "detail_key": "projectDetail-life-asoke-rama-9-condominium",
+    "official_name": "LIFE ASOKE RAMA 9",
+    "status": "sold_out",
+    "slug_official": "life-asoke-rama-9",
+    "code": "60016",
+    "completionDate": null,
+    "startDate": "2018-09-27 16:54:58",
+    "address_fields": {
+      "address": "Makkasan, Rat Thewi, Bangkok",
+      "projectTagTranslation": ""
+    },
+    "location_keys": [
+      "address",
+      "map"
+    ],
+    "factsheets": [
+      {
+        "type": "price"
+      },
+      {
+        "description": "8-3-11.4 Rai",
+        "title": "project_area",
+        "type": "project_area"
+      },
+      {
+        "description": "2,248 units",
+        "title": "total_unit",
+        "type": "total_unit"
+      },
+      {
+        "description": "43% Excluded Double Parking",
+        "title": "num_parking",
+        "type": "num_parking"
+      },
+      {
+        "description": "25,27.5,32,35,40,45 & 58 sq.m.",
+        "title": "usable_area",
+        "type": "usable_area"
+      }
+    ],
+    "units": 2248,
+    "floors": null,
+    "buildings": null,
+    "towers_inferred": [],
+    "project_area": "8-3-11.4 Rai",
+    "facilities": [
+      {
+        "en": "Panoramic View Active Pool",
+        "description": "It’s a novel experience to immerse yourself in a large & stylish glass-edge pool, enjoy your active exercise while indulging a breathtaking panoramic view second to none.  Jacuzzi is also available for your complete relaxation."
+      },
+      {
+        "en": "Immersive Vertical Landscape",
+        "description": "Energize your exclusive lifestyle at Horizon Bay Rooftop with 360º vista, its unique design delivers new sensation by joining asymmetrical areas together with the aim to heighten your pleasure and allow you to relax in private."
+      },
+      {
+        "en": "An Elevated Relaxation",
+        "description": "The new height of relaxation with horizontal view of the capital, 2-level glass-edge swimming pool with leading-edge design will elevate your relaxation to the next level as if you were in a contemporary resort in the city’s center."
+      },
+      {
+        "en": "Work your way to the top",
+        "description": "Co-Working Sphere รองรับทุกไลฟ์สไตล์การทำงานของคนรุ่นใหม่ ช่วยให้ทุกก้าวสู่ความสำเร็จของคุณง่ายขึ้นกว่าที่เคย ผ่านพื้นที่ทำงานส่วนตัวแบบ Cocoon การประชุมย่อยใน Private Co-Working ที่ครบครันด้วยระบบและเครื่องมือทันสมัยตอบโจทย์ทุกความสำเร็จ"
+      },
+      {
+        "en": "Tranquility Sky Garden",
+        "description": "Large sky garden is a green area for your leisure experience and for refilling your lung with fresh air.  It’s been proportionally designed to provide serenity and privacy where you can indulge the city’s beauty at all times in all seasons."
+      }
+    ],
+    "gallery_urls": [
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_1-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_10-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_11-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_12-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_13-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_14-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_15-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_2-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_3-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_4-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_5-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_6-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_7-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_8-en.jpg",
+      "https://www.apthai.com/images/production/condo_60016-gallery_image_9-en.jpg"
+    ],
+    "floor_plan_items": [],
+    "brochure_urls": [
+      "https://www.apthai.com/images/production/zB8SXHVzYtABk71XgDyfgBoAlniSh4-metaTGlmZS1Bc29rZS1SYW1hOS5wZGY=-.pdf"
+    ],
+    "faq_bits": []
+  },
+  "life-ladprao": {
+    "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
+    "detail_key": "projectDetail-life-ladprao-condominium",
+    "official_name": "LIFE LADPRAO",
+    "status": "sold_out",
+    "slug_official": "life-ladprao",
+    "code": "60010",
+    "completionDate": null,
+    "startDate": "2018-09-26 14:55:25",
+    "address_fields": {
+      "address": "992 Phahonyothin Road, Chom Phon, Chatuchak, Bangkok",
+      "projectTagTranslation": ""
+    },
+    "location_keys": [
+      "address",
+      "map"
+    ],
+    "factsheets": [
+      {
+        "type": "price"
+      },
+      {
+        "description": "7 Rais 71.4 Square Wah",
+        "title": "project_area",
+        "type": "project_area"
+      },
+      {
+        "description": "1,615 Units",
+        "title": "total_unit",
+        "type": "total_unit"
+      },
+      {
+        "description": "44% excluded double parking",
+        "title": "num_parking",
+        "type": "num_parking"
+      },
+      {
+        "description": "26-29, 35, 48.5-75 Sq.m.",
+        "title": "usable_area",
+        "type": "usable_area"
+      }
+    ],
+    "units": 1615,
+    "floors": null,
+    "buildings": null,
+    "towers_inferred": [],
+    "project_area": "7 Rais 71.4 Square Wah",
+    "facilities": [
+      {
+        "en": "Luxurious and relaxing skyline view facilities",
+        "description": "Enjoy your swim among the highest and infinity skyline with exclusive Sky Cabana at nightfall.  You can entertain your social life at Sky Social Club or hold private function at Theatre Lounge."
+      },
+      {
+        "en": "Platform of Success",
+        "description": null
+      },
+      {
+        "en": "New Leisure Dimension",
+        "description": "Common space has been designed to suit your leisure activities from Panoramic Wellness for your private workout session to sitting peacefully or strolling under shaded Green Landscape with modern design on 2-rai of land."
+      }
+    ],
+    "gallery_urls": [
+      "https://www.apthai.com/images/production/condo_60010-gallery_image_1-en.jpg",
+      "https://www.apthai.com/images/production/condo_60010-gallery_image_2-en.jpg",
+      "https://www.apthai.com/images/production/condo_60010-gallery_image_3-en.jpg",
+      "https://www.apthai.com/images/production/condo_60010-gallery_image_4-en.jpg",
+      "https://www.apthai.com/images/production/condo_60010-gallery_image_5-en.jpg",
+      "https://www.apthai.com/images/production/condo_60010-gallery_image_6-en.jpg"
+    ],
+    "floor_plan_items": [],
+    "brochure_urls": [
+      "https://www.apthai.com/images/production/LaurEIXqeyPrdeAuClpxnftVFBImkr-metaRS1CUk9DSFVSRV9MQURQUkFPXzMxMDgyMS5wZGY=-.pdf"
+    ],
+    "faq_bits": []
+  },
+  "aspire-sathorn-taksin": {
+    "official_url": "https://www.apthai.com/en/condominium/aspire-sathorn-taksin-priva",
+    "detail_key": "projectDetail-aspire-sathorn-taksin-priva-condominium",
+    "official_name": "ASPIRE Sathorn - Taksin Priva",
+    "status": "coming_soon",
+    "slug_official": "aspire-sathorn-taksin-priva",
+    "code": "10131",
+    "completionDate": null,
+    "startDate": "2026-07-07 14:57:13",
+    "address_fields": {
+      "address": "Ratchaphruek Road, Bang Kho Sub District, Chom Thong District, Bangkok 10150",
+      "projectTagTranslation": ""
+    },
+    "location_keys": [
+      "address",
+      "map"
+    ],
+    "factsheets": [
+      {
+        "type": "price"
+      },
+      {
+        "description": "2 - 1 - 64",
+        "title": "project_area",
+        "type": "project_area"
+      },
+      {
+        "description": "381",
+        "title": "total_unit",
+        "type": "total_unit"
+      },
+      {
+        "description": "1 Shop",
+        "title": "total_unit_remark",
+        "type": "total_unit_remark"
+      },
+      {
+        "description": "168",
+        "title": "num_parking",
+        "type": "num_parking"
+      },
+      {
+        "description": "44%",
+        "title": "num_parking_remark",
+        "type": "num_parking_remark"
+      },
+      {
+        "description": "1 Bedroom, 1 Bedroom Extra, 1 Bedroom Plus, 2 Bedroom",
+        "title": "unit_type_description",
+        "type": "unit_type_description"
+      }
+    ],
+    "units": null,
+    "floors": null,
+    "buildings": null,
+    "towers_inferred": [],
+    "project_area": "2 - 1 - 64",
+    "facilities": [],
+    "gallery_urls": [],
+    "floor_plan_items": [],
+    "brochure_urls": [],
+    "faq_bits": []
+  },
+  "rhythm-ekkamai": {
+    "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+    "detail_key": "projectDetail-rhythm-ekkamai-estate-condominium",
+    "official_name": "RHYTHM EKKAMAI ESTATE",
+    "status": "ready_to_move",
+    "slug_official": "rhythm-ekkamai-estate",
+    "code": "60029",
+    "completionDate": null,
+    "startDate": "2019-02-14 14:17:54",
+    "address_fields": {
+      "address": "Soi Ekkamai, Sukhumvit 63 Road, Khlong Tan Nuea Sub District, Watthana District, Bangkok 10110",
+      "projectTagTranslation": ""
+    },
+    "location_keys": [
+      "address",
+      "map"
+    ],
+    "factsheets": [
+      {
+        "type": "price"
+      },
+      {
+        "description": "2 - 0 - 84.1",
+        "title": "project_area",
+        "type": "project_area"
+      },
+      {
+        "description": "303",
+        "title": "total_unit",
+        "type": "total_unit"
+      },
+      {
+        "description": "1 Shop",
+        "title": "total_unit_remark",
+        "type": "total_unit_remark"
+      },
+      {
+        "description": "202",
+        "title": "num_parking",
+        "type": "num_parking"
+      },
+      {
+        "description": "35 - 177",
+        "title": "usable_area",
+        "type": "usable_area"
+      },
+      {
+        "description": "32",
+        "title": "num_floor",
+        "type": "num_floor"
+      }
+    ],
+    "units": 6,
+    "floors": 32,
+    "buildings": 1,
+    "towers_inferred": [],
+    "project_area": "2 - 0 - 84.1",
+    "facilities": [
+      {
+        "en": "TEA AND COMPANY",
+        "description": "Cozy and refined, the Tea Pavilion is a private hideaway in the Floating Lobby, framed by vivid cityscapes that echo the lively heartbeat of the metropolis."
+      },
+      {
+        "en": "CROWNED, THE TRIPLEX ROOFTOP FACILITIES",
+        "description": "Enjoy the rare balance of private-home serenity and 360° Ekkamai skyline views. Your world, perfectly secluded yet spectacular."
+      },
+      {
+        "en": "GYM WITH MILLION-DOLLAR VIEWS",
+        "description": "Whether your goal is to challenge yourself or simply give your body a fuss-free workout, you can fulfill it at panoramic fitness gym, which also offers a private fitness room."
+      },
+      {
+        "en": "360-DEGREE INFINITY EDGE POOL",
+        "description": "Craft your own perfect world and let your mind run free in the swimming pool with beautiful views in every direction, or unwind at the honeymoon sunken deck and feel the breeze go by."
+      },
+      {
+        "en": "WELLNESS SPA AT HOME",
+        "description": "Unwind and rejuvenate. White ION micro bubbles boost oxygen for healthier, more radiant skin. A gentle ritual to reset the mind, body, and every cell within."
+      }
+    ],
+    "gallery_urls": [
+      "https://www.apthai.com/images/production/Teiuc8G0PyO0OJCe0o73otNBM6SFbN-metaRDNoNEc5ZFRJOC0xNzY3NzUzNTMxNTQ3LWltYWdlLmpwZw==-.jpg",
+      "https://www.apthai.com/images/production/wH4mx8h5DdbESgNAh8RXbdolmxyH1a-metaR2FsbGVyeTEucG5n-.png",
+      "https://www.apthai.com/images/production/UEkb95sS5PwziNbFBdVvLWw45yBkDA-metaR2FsbGVyeTIuanBn-.jpg",
+      "https://www.apthai.com/images/production/oAdPNUHjh9guPFGBqo7Nj4RCNrqf8i-metaR2FsbGVyeTMucG5n-.png",
+      "https://www.apthai.com/images/production/OihamrnrrqpGnrNIw3MSgshOTZ0zMj-metaR2FsbGVyeTQucG5n-.png",
+      "https://www.apthai.com/images/production/Va85PyGrzVW1E1CfVk4uV177WRzgEb-metaR2FsbGVyeTUucG5n-.png",
+      "https://www.apthai.com/images/production/KAAl6IuiNcbg0A9OU8Wyh9WTBgCLSY-metaR2FsbGVyeTYucG5n-.png",
+      "https://www.apthai.com/images/production/CcYygF7tuHobvNfTx43yRwhNAaAQHd-metaR2FsbGVyeTcucG5n-.png",
+      "https://www.apthai.com/images/production/vYS7rsn3oAvlxyv4Y38F1kkMBloxg1-metaR2FsbGVyeTgucG5n-.png",
+      "https://www.apthai.com/images/production/RdYnBSjHPmoryy9TxnNF4PK7TrPgvw-metaR2FsbGVyeTkucG5n-.png",
+      "https://www.apthai.com/images/production/24Q48yPyrtl7F1vwTDLmu4nP8SPMmw-metaR2FsbGVyeTEwLnBuZw==-.png",
+      "https://www.apthai.com/images/production/SBagcEvdZPlOylnXiUfUQ5SkwVkdi2-metaR2FsbGVyeTExLnBuZw==-.png",
+      "https://www.apthai.com/images/production/W8YywPqd1eVU2OIrjQs8Qqq27SPG9Y-metaR2FsbGVyeTEyLnBuZw==-.png",
+      "https://www.apthai.com/images/production/YPedvaLOmM4edRHF1UxNAdHi4ItrYd-metaR2FsbGVyeTEzLnBuZw==-.png",
+      "https://www.apthai.com/images/production/n4jlb5qP22xmOMcF879FrTE7eQMpfa-metaR2FsbGVyeTE0LnBuZw==-.png",
+      "https://www.apthai.com/images/production/hqdvgX37tdiW426B1MBSCYTIjbyUCf-metaR2FsbGVyeTE1LnBuZw==-.png",
+      "https://www.apthai.com/images/production/zM9QanLjN0M7TY0YRlkrt1KZLplJ0i-metaR2FsbGVyeTE2LnBuZw==-.png",
+      "https://www.apthai.com/images/production/1fWzMQ4tVhGbJmb3CDbgPfBWW7cZXR-metaR2FsbGVyeTE3LnBuZw==-.png",
+      "https://www.apthai.com/images/production/R9ctXTTsrczlsPaEZTIARR3NUiMrtd-metaR2FsbGVyeTE4LnBuZw==-.png",
+      "https://www.apthai.com/images/production/pcl6xcUXnoKdIQX4NGZe06omi7Hzuw-metaR2FsbGVyeTE5LnBuZw==-.png",
+      "https://www.apthai.com/images/production/Zm2HGtnAuzgJZ0wWmvC08ce6teKs0y-metaR2FsbGVyeTIwLnBuZw==-.png",
+      "https://www.apthai.com/images/production/kUq62Jq1EVDuFvqSUppvze7KAQeNeU-metaR2FsbGVyeTIxLnBuZw==-.png",
+      "https://www.apthai.com/images/production/gYgDJ0xmDUtONGGrk7yvM8kFraT23Y-metaR2FsbGVyeTIyLnBuZw==-.png",
+      "https://www.apthai.com/images/production/Buli5JHkX08pvhbuidnNAIukhg5LEC-metaMi1iZWRyb29tLTcwIC0gc3EubS5fMS5qcGc=-.jpg"
+    ],
+    "floor_plan_items": [],
+    "brochure_urls": [
+      "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf"
+    ],
+    "faq_bits": [
+      "RHYTHM EKKAMAI ESTATE is a high-rise condominium with 1 building, 33 floors, and a total of 303 units. It provides 202 parking spaces.",
+      "RHYTHM EKKAMAI ESTATE [*project_rhythm-ekkamai-estate_price*]&nbsp;, offering 6 unit types with usable areas of 35-177 sq.m.:\n\n\n\n\n\n1 Bedroom: 35 sq.m. (1 bedroom, 1 bathroom)\n1 Bedroom Plus: 40 sq.m. (1 bedroom, 1 bathroom)\n2 Bedroom: 74.5-86.5 sq.m. (2 bedrooms, 2 bathrooms)\n2 Bedroom Duplex: 64-129.5 sq.m. (2 bedrooms, 2 bathrooms)\nSKY Villa: 109-121 sq.m. (2 bedrooms, 2 bathrooms)\nPenthouse: 100-177 sq.m. (2-4 bedrooms, 3-5 bathrooms)\n\n\n\n\n",
+      "RHYTHM EKKAMAI ESTATE is close to key locations:\n\nTransport: BTS Ekkamai&nbsp; 1.2 km\nLifestyle: Donki Mall Thonglor 200 m, Big C Ekkamai 280 m\nHospital: Samitivej Sukhumvit Hospital 1.4 km, Bangkok Hospital 3 km\nInstitute / Office Building: Ekkamai International School (EIS) 950 m, St. Andrews International School Sukhumvit 71 1.7 km\n"
+    ]
+  },
+  "life-one-wireless": {
+    "official_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+    "detail_key": "projectDetail-life-1-wireless-condominium",
+    "official_name": "LIFE ONE WIRELESS",
+    "status": "sold_out",
+    "slug_official": "life-1-wireless",
+    "code": "60015",
+    "completionDate": null,
+    "startDate": "2018-09-24 11:58:01",
+    "address_fields": {
+      "address": "1 Wireless Road, Lumphini, Pathum Wan, Bangkok",
+      "projectTagTranslation": ""
+    },
+    "location_keys": [
+      "address",
+      "map"
+    ],
+    "factsheets": [
+      {
+        "type": "price"
+      },
+      {
+        "description": "4-2-47.1 Rai",
+        "title": "project_area",
+        "type": "project_area"
+      },
+      {
+        "description": "1,344  Units, 2 Shops Units",
+        "title": "total_unit",
+        "type": "total_unit"
+      },
+      {
+        "description": "566 CARS (44%) Excluded double parking",
+        "title": "num_parking",
+        "type": "num_parking"
+      },
+      {
+        "description": "Studio, 1 Bedroom, 1 Bedroom Plus, 2 Bedroom",
+        "title": "unit_type_description",
+        "type": "unit_type_description"
+      },
+      {
+        "description": "24 - 63 Sq.m.",
+        "title": "usable_area",
+        "type": "usable_area"
+      }
+    ],
+    "units": 1344,
+    "floors": null,
+    "buildings": null,
+    "towers_inferred": [],
+    "project_area": "4-2-47.1 Rai",
+    "facilities": [
+      {
+        "en": "Botanic Metropolis",
+        "description": "One Wireless Botany is where you can be as one with nature with over 1-rai of green area and unique old trees. Evergreen River is landscape architecture designed to provide serene and harmonious environment."
+      },
+      {
+        "en": "Cascade garden",
+        "description": "Multi-level sky-high garden on 10th floor surrounded with Square Lagoon, stone arrangement leading your eyesight towards The Illuminated Pavilion with serene nature and designed for private relaxation to elevate the quality of urban living."
+      },
+      {
+        "en": "Dazzling pool",
+        "description": "Here’s where you’ll swim & be as one with nature in a large 36-m pool with panoramic view. A private Jacuzzi is decorated with nightlight allowing you to relax among stars with 360º open view."
+      },
+      {
+        "en": "The Vista Deck",
+        "description": "Panoramic viewpoint and sky garden on 42nd floor with distinctive asymmetrical design like Amphitheater giving an appealing silhouette. It gives you freedom and privacy to relax or enjoy urban leisure activities as you desire."
+      },
+      {
+        "en": "Co-Working Space",
+        "description": "We understand how to design an area to fuel creative energy and imagination, this Co-Working Space is think-outside-the-box design concept to transform dull working space into limitless imagination one."
+      }
+    ],
+    "gallery_urls": [
+      "https://www.apthai.com/images/production/condo_60015-gallery_image_1-en.jpg",
+      "https://www.apthai.com/images/production/condo_60015-gallery_image_2-en.jpg",
+      "https://www.apthai.com/images/production/condo_60015-gallery_image_3-en.jpg",
+      "https://www.apthai.com/images/production/condo_60015-gallery_image_4-en.jpg",
+      "https://www.apthai.com/images/production/condo_60015-gallery_image_5-en.jpg",
+      "https://www.apthai.com/images/production/condo_60015-gallery_image_6-en.jpg"
+    ],
+    "floor_plan_items": [],
+    "brochure_urls": [
+      "https://www.apthai.com/images/production/nINTvd3zSuGHvTsxNXSNaxWykFYKyN-metaRS1CUk9DSFVSRV9PTkUtV0lSRUxFU1NfMDUwNDIxLnBkZg==-.pdf"
+    ],
+    "faq_bits": []
+  }
+}

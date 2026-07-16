@@ -18,6 +18,16 @@
       "type": "facebook",
       "name": "AP Thailand Facebook",
       "url": "https://www.facebook.com/APthai"
+    },
+    {
+      "type": "instagram",
+      "name": "AP Thailand Instagram",
+      "url": "https://www.instagram.com/ap_thai"
+    },
+    {
+      "type": "youtube",
+      "name": "AP Thailand YouTube",
+      "url": "https://www.youtube.com/user/apciti"
     }
   ],
   "name": {
@@ -121,6 +131,9 @@
   "google_maps_url": null,
   "social_links": {
     "facebook": "https://www.facebook.com/APthai",
+    "instagram": "https://www.instagram.com/ap_thai",
+    "youtube": "https://www.youtube.com/user/apciti",
+    "tiktok": "https://www.tiktok.com/@apthai",
     "website": "https://www.apthai.com/"
   },
   "contact": {
@@ -239,25 +252,12 @@
     }
   ],
   "developer_master": {
-    "phase": "10-sprint-2",
+    "phase": "11-batch-1",
     "verified_at": "2026-07-16",
-    "rule": "official_developer_websites_and_set_factsheets_for_official_fields",
-    "fields_touched": [
-      "official_website",
-      "official_logo",
-      "favicon",
-      "headquarters",
-      "established_year",
-      "company_profile",
-      "corporate_overview",
-      "company_history",
-      "official_contact_page",
-      "listed_company_code",
-      "official_social_links"
-    ],
-    "sprint": "phase10-sprint-2"
+    "rule": "official_apthai_and_set_only",
+    "developer": "ap-thailand"
   },
-  "official_contact_page": "https://www.apthai.com/th/contact",
+  "official_contact_page": "https://www.apthai.com/en/contact",
   "field_evidence": {
     "official_website": {
       "field": "official_website",
@@ -350,10 +350,10 @@
       "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_website",
-        "url": "https://www.apthai.com/th/contact"
+        "url": "https://www.apthai.com/en/contact"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.apthai.com/th/contact"
+      "value": "https://www.apthai.com/en/contact"
     },
     "listed_company_code": {
       "field": "listed_company_code",
@@ -369,14 +369,24 @@
       "field": "official_social_links",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_package_social",
-        "url": "https://www.facebook.com/APthai"
+        "source_type": "official_developer_contact_page",
+        "url": "https://www.apthai.com/en/contact"
       },
       "verified_at": "2026-07-16",
       "value": {
         "facebook": "https://www.facebook.com/APthai",
+        "instagram": "https://www.instagram.com/ap_thai",
+        "youtube": "https://www.youtube.com/user/apciti",
+        "tiktok": "https://www.tiktok.com/@apthai",
         "website": "https://www.apthai.com/"
       }
     }
+  },
+  "instagram_url": "https://www.instagram.com/ap_thai",
+  "youtube_url": "https://www.youtube.com/user/apciti",
+  "company_history": {
+    "en": "AP (Thailand) Public Company Limited — SET establish date 20/07/1984 (ticker AP).",
+    "zh": "AP (Thailand) Public Company Limited — SET 成立日 1984-07-20（代码 AP）。",
+    "th": "บริษัท เอพี (ไทยแลนด์) จำกัด (มหาชน) — วันก่อตั้งตาม SET 20/07/1984 (ชื่อย่อ AP)"
   }
 }

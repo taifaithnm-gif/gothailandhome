@@ -55,14 +55,14 @@
       "th": "ไลฟ์ ลาดพร้าว"
     },
     "description": {
-      "en": "Life Ladprao is a real Bangkok project associated with AP Thailand. Details beyond name, district, and official URL are omitted until separately sourced.",
-      "zh": "Life 叻抛为曼谷真实项目，关联开发商 AP泰国。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
-      "th": "ไลฟ์ ลาดพร้าว เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เอพี ไทยแลนด์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+      "en": "LIFE LADPRAO is an AP Thailand condominium project. Facts on this page are taken from the official AP project page (https://www.apthai.com/en/condominium/life-ladprao).",
+      "zh": "LIFE LADPRAO 为 AP Thailand 公寓项目。本页事实来自 AP 官方项目页。",
+      "th": "LIFE LADPRAO เป็นโครงการคอนโดของ เอพี ไทยแลนด์ ข้อมูลในหน้านี้มาจากหน้าโครงการทางการของ AP"
     },
     "address": {
-      "en": "Chatuchak, Bangkok",
-      "zh": "曼谷乍都乍",
-      "th": "จตุจักร กรุงเทพฯ"
+      "en": "992 Phahonyothin Road, Chom Phon, Chatuchak, Bangkok",
+      "zh": "992 Phahonyothin Road, Chom Phon, Chatuchak, Bangkok",
+      "th": "992 Phahonyothin Road, Chom Phon, Chatuchak, Bangkok"
     },
     "postal_code": "10900",
     "latitude": 13.817115444456586,
@@ -90,85 +90,44 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "pool",
+        "key": "luxurious_and_relaxing_skyline_view_facilities",
         "name": {
-          "en": "Swimming pool",
-          "zh": "Swimming pool",
-          "th": "Swimming pool"
+          "en": "Luxurious and relaxing skyline view facilities",
+          "zh": "Luxurious and relaxing skyline view facilities",
+          "th": "Luxurious and relaxing skyline view facilities"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/life-ladprao",
+        "description": {
+          "en": "Enjoy your swim among the highest and infinity skyline with exclusive Sky Cabana at nightfall.  You can entertain your social life at Sky Social Club or hold private function at Theatre Lounge.",
+          "zh": "Enjoy your swim among the highest and infinity skyline with exclusive Sky Cabana at nightfall.  You can entertain your social life at Sky Social Club or hold private function at Theatre Lounge.",
+          "th": "Enjoy your swim among the highest and infinity skyline with exclusive Sky Cabana at nightfall.  You can entertain your social life at Sky Social Club or hold private function at Theatre Lounge."
+        }
       },
       {
-        "key": "fitness",
+        "key": "platform_of_success",
         "name": {
-          "en": "Fitness / gym",
-          "zh": "Fitness / gym",
-          "th": "Fitness / gym"
+          "en": "Platform of Success",
+          "zh": "Platform of Success",
+          "th": "Platform of Success"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/life-ladprao"
       },
       {
-        "key": "parking",
+        "key": "new_leisure_dimension",
         "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
+          "en": "New Leisure Dimension",
+          "zh": "New Leisure Dimension",
+          "th": "New Leisure Dimension"
         },
-        "source": "propertyhub"
-      },
-      {
-        "key": "security",
-        "name": {
-          "en": "24h security",
-          "zh": "24h security",
-          "th": "24h security"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "park",
-        "name": {
-          "en": "Garden / courtyard",
-          "zh": "Garden / courtyard",
-          "th": "Garden / courtyard"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "sauna",
-        "name": {
-          "en": "Sauna",
-          "zh": "Sauna",
-          "th": "Sauna"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "steam",
-        "name": {
-          "en": "Steam",
-          "zh": "Steam",
-          "th": "Steam"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "lift",
-        "name": {
-          "en": "Elevator",
-          "zh": "Elevator",
-          "th": "Elevator"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "cctv",
-        "name": {
-          "en": "CCTV",
-          "zh": "CCTV",
-          "th": "CCTV"
-        },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/life-ladprao",
+        "description": {
+          "en": "Common space has been designed to suit your leisure activities from Panoramic Wellness for your private workout session to sitting peacefully or strolling under shaded Green Landscape with modern design on 2-rai of land.",
+          "zh": "Common space has been designed to suit your leisure activities from Panoramic Wellness for your private workout session to sitting peacefully or strolling under shaded Green Landscape with modern design on 2-rai of land.",
+          "th": "Common space has been designed to suit your leisure activities from Panoramic Wellness for your private workout session to sitting peacefully or strolling under shaded Green Landscape with modern design on 2-rai of land."
+        }
       }
     ],
     "nearby_schools": [
@@ -405,151 +364,22 @@
       }
     ],
     "project_master": {
-      "phase": "7",
-      "audit_version": "2026-07-15-project-master-hygiene-v2",
-      "verified_at": "2026-07-15T08:06:30Z",
-      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
+      "phase": "11-batch-1",
+      "verified_at": "2026-07-16",
+      "rule": "official_apthai_project_pages_only",
+      "developer": "ap-thailand",
       "field_classifications": {
-        "official_project_name": "OFFICIAL",
-        "thai_project_name": "OFFICIAL",
-        "developer_relation": "OFFICIAL",
-        "official_project_url": "OFFICIAL",
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
         "project_status": "OFFICIAL",
-        "completion_year": "VERIFIED_PORTAL",
-        "full_address": "VERIFIED_PORTAL",
-        "district": "DERIVED",
-        "subdistrict": "UNVERIFIED",
-        "latitude": "VERIFIED_PORTAL",
-        "longitude": "VERIFIED_PORTAL",
-        "building_count": "UNVERIFIED",
-        "floor_count": "UNVERIFIED",
-        "total_units": "UNVERIFIED",
-        "unit_types": "UNVERIFIED",
-        "official_facilities": "VERIFIED_PORTAL",
-        "nearest_bts": "DERIVED",
-        "nearest_mrt": "DERIVED",
-        "official_brochure": "UNVERIFIED",
-        "official_floor_plans": "UNVERIFIED",
-        "official_gallery_source": "OFFICIAL",
-        "verification_timestamp": "DERIVED"
-      },
-      "field_provenance": {
-        "official_project_name": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.apthai.com/en/condominium/life-ladprao",
-          "note": "Confirmed on project-specific official page"
-        },
-        "thai_project_name": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.apthai.com/th/condominium/life-ladprao",
-          "note": "Confirmed on project-specific official page"
-        },
-        "developer_relation": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.apthai.com/en/condominium/life-ladprao",
-          "note": "Developer relation confirmed via project-specific official page domain/branding"
-        },
-        "official_project_url": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.apthai.com/en/condominium/life-ladprao",
-          "note": "Project-specific official URL"
-        },
-        "project_status": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.apthai.com/en/condominium/life-ladprao",
-          "note": "SOLD OUT on AP Thai project page"
-        },
-        "completion_year": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Completion year from portal/package; not promoted to OFFICIAL"
-        },
-        "full_address": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Address from portal/package (may be district-level placeholder)"
-        },
-        "district": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Derived from package location.district_slug/name — not Tier-1 OFFICIAL"
-        },
-        "subdistrict": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "subdistrict not present / not Tier-1 confirmed"
-        },
-        "latitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "longitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "building_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "floor_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "total_units": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "unit_types": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_facilities": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Facilities from portal/package"
-        },
-        "nearest_bts": {
-          "tier": 3,
-          "note": "Derived from package nearby_bts/transportation/transit_tags — not Tier-1 confirmed",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "nearest_mrt": {
-          "tier": 3,
-          "note": "Derived from package nearby_mrt/transportation/transit_tags — not Tier-1 confirmed",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "official_brochure": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_floor_plans": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_gallery_source": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.apthai.com/en/condominium/life-ladprao",
-          "note": "Gallery section URL on official project page; media not downloaded"
-        },
-        "verification_timestamp": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Audit metadata timestamp — not an official project fact"
-        }
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
       }
     },
     "project_status": "sold_out",
@@ -559,14 +389,20 @@
         "url": "https://www.apthai.com/en/condominium/life-ladprao",
         "evidence": "SOLD OUT on AP Thai project page"
       }
-    }
+    },
+    "total_units": 1615,
+    "unit_count": 1615,
+    "floor_count": 46,
+    "floors": 46,
+    "building_count": 2,
+    "buildings": 2
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/en/condominium/life-ladprao"
       },
       "verified_at": "2026-07-16",
@@ -574,59 +410,64 @@
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/en/condominium/life-ladprao"
       },
       "verified_at": "2026-07-16",
-      "value": "Chatuchak, Bangkok"
+      "value": "992 Phahonyothin Road, Chom Phon, Chatuchak, Bangkok"
     },
     "official_gallery": {
       "field": "official_gallery",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao",
+        "note": "Image binaries not mirrored pending license; URLs registered"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.apthai.com/en/condominium/life-ladprao"
+      "value": "6 gallery URLs on official page"
     },
     "official_brochure": {
       "field": "official_brochure",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/images/production/LaurEIXqeyPrdeAuClpxnftVFBImkr-metaRS1CUk9DSFVSRV9MQURQUkFPXzMxMDgyMS5wZGY=-.pdf"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "https://www.apthai.com/images/production/LaurEIXqeyPrdeAuClpxnftVFBImkr-metaRS1CUk9DSFVSRV9MQURQUkFPXzMxMDgyMS5wZGY=-.pdf"
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/en/condominium/life-ladprao"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "Floor/unit plan section present on official project page (hotlink; binaries not mirrored)"
     },
     "official_facilities": {
       "field": "official_facilities",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/en/condominium/life-ladprao"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": [
+        "Luxurious and relaxing skyline view facilities",
+        "Platform of Success",
+        "New Leisure Dimension"
+      ]
     },
     "project_status": {
       "field": "project_status",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/en/condominium/life-ladprao"
       },
       "verified_at": "2026-07-16",
@@ -634,43 +475,46 @@
     },
     "completion_year": {
       "field": "completion_year",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao",
+        "note": "Completion calendar year not stated as a clear factsheet field on the official page payload; retained packaged value is not upgraded to OFFICIAL"
       },
       "verified_at": "2026-07-16",
       "value": 2020
     },
     "building_count": {
       "field": "building_count",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao",
+        "note": "Inferred from named Tower A/B labels on official floor-plan UI"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": 2
     },
     "floor_count": {
       "field": "floor_count",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao",
+        "note": "From highest named floor label on official floor-plan UI"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": 46
     },
     "total_units": {
       "field": "total_units",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/en/condominium/life-ladprao"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": 1615
     }
   },
   "project_master": {
@@ -684,22 +528,52 @@
   "media_library": {
     "gallery": {
       "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
-      "copyright_source": "© AP Thailand / LIFE Ladprao — official project materials",
+      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE LADPRAO",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license",
+      "gallery_image_urls": [
+        "https://www.apthai.com/images/production/condo_60010-gallery_image_1-en.jpg",
+        "https://www.apthai.com/images/production/condo_60010-gallery_image_2-en.jpg",
+        "https://www.apthai.com/images/production/condo_60010-gallery_image_3-en.jpg",
+        "https://www.apthai.com/images/production/condo_60010-gallery_image_4-en.jpg",
+        "https://www.apthai.com/images/production/condo_60010-gallery_image_5-en.jpg",
+        "https://www.apthai.com/images/production/condo_60010-gallery_image_6-en.jpg"
+      ]
+    },
+    "brochure": {
+      "official_url": "https://www.apthai.com/images/production/LaurEIXqeyPrdeAuClpxnftVFBImkr-metaRS1CUk9DSFVSRV9MQURQUkFPXzMxMDgyMS5wZGY=-.pdf",
+      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE LADPRAO — official brochure PDF",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
       "download_status": "not_downloaded_pending_license"
     },
+    "floor_plans": {
+      "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
+      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE LADPRAO",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "not_downloaded_pending_license"
+    },
     "hero": {
       "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
-      "copyright_source": "© AP Thailand / LIFE Ladprao — official project materials",
+      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE LADPRAO",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
-      "placeholder_path": null
+      "download_status": "placeholder_pending_official_mirror"
     }
+  },
+  "content_factory": {
+    "phase": "11-batch-1",
+    "developer": "ap-thailand",
+    "verified_at": "2026-07-16"
   }
 }

@@ -1,0 +1,406 @@
+{
+  "verified_at": "2026-07-16",
+  "phase": "11-batch-1",
+  "developer": "ap-thailand",
+  "developer_completeness_pct": 100,
+  "project_avg_completeness_pct": 72,
+  "combined_ap_score_pct": 86,
+  "projects": [
+    {
+      "slug": "rhythm-ekkamai",
+      "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+      "status": "ready_to_move",
+      "mapped_status": "completed",
+      "units": 303,
+      "floors": 33,
+      "buildings": 1,
+      "facilities": 5,
+      "gallery_urls": 24,
+      "brochure": true,
+      "address": "Soi Ekkamai, Sukhumvit 63 Road, Khlong Tan Nuea Sub District, Watthana District, Bangkok 10110",
+      "completion_year": 2018,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 90,
+      "field_evidence": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "project_status": "OFFICIAL",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "official_url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
+      "status": "sold_out",
+      "mapped_status": "completed",
+      "units": 2248,
+      "floors": 42,
+      "buildings": 2,
+      "facilities": 5,
+      "gallery_urls": 15,
+      "brochure": true,
+      "address": "Makkasan, Rat Thewi, Bangkok",
+      "completion_year": 2020,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 90,
+      "field_evidence": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "project_status": "OFFICIAL",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "life-ladprao",
+      "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
+      "status": "sold_out",
+      "mapped_status": "completed",
+      "units": 1615,
+      "floors": 46,
+      "buildings": 2,
+      "facilities": 3,
+      "gallery_urls": 6,
+      "brochure": true,
+      "address": "992 Phahonyothin Road, Chom Phon, Chatuchak, Bangkok",
+      "completion_year": 2020,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 90,
+      "field_evidence": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "project_status": "OFFICIAL",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "life-one-wireless",
+      "official_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+      "status": "sold_out",
+      "mapped_status": "completed",
+      "units": 1344,
+      "floors": null,
+      "buildings": null,
+      "facilities": 5,
+      "gallery_urls": 6,
+      "brochure": true,
+      "address": "1 Wireless Road, Lumphini, Pathum Wan, Bangkok",
+      "completion_year": 2020,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 60,
+      "field_evidence": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "project_status": "OFFICIAL",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "official_url": "https://www.apthai.com/en/condominium/aspire-sathorn-taksin-priva",
+      "status": "coming_soon",
+      "mapped_status": "selling",
+      "units": 381,
+      "floors": null,
+      "buildings": null,
+      "facilities": 0,
+      "gallery_urls": 0,
+      "brochure": false,
+      "address": "Ratchaphruek Road, Bang Kho Sub District, Chom Thong District, Bangkok 10150",
+      "completion_year": null,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 30,
+      "field_evidence": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "project_status": "OFFICIAL",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "OFFICIAL"
+      }
+    }
+  ],
+  "media": [
+    {
+      "slug": "rhythm-ekkamai",
+      "gallery": {
+        "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "copyright_source": "© AP (Thailand) Public Company Limited / RHYTHM EKKAMAI ESTATE",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license",
+        "gallery_image_urls": [
+          "https://www.apthai.com/images/production/Teiuc8G0PyO0OJCe0o73otNBM6SFbN-metaRDNoNEc5ZFRJOC0xNzY3NzUzNTMxNTQ3LWltYWdlLmpwZw==-.jpg",
+          "https://www.apthai.com/images/production/wH4mx8h5DdbESgNAh8RXbdolmxyH1a-metaR2FsbGVyeTEucG5n-.png",
+          "https://www.apthai.com/images/production/UEkb95sS5PwziNbFBdVvLWw45yBkDA-metaR2FsbGVyeTIuanBn-.jpg",
+          "https://www.apthai.com/images/production/oAdPNUHjh9guPFGBqo7Nj4RCNrqf8i-metaR2FsbGVyeTMucG5n-.png",
+          "https://www.apthai.com/images/production/OihamrnrrqpGnrNIw3MSgshOTZ0zMj-metaR2FsbGVyeTQucG5n-.png",
+          "https://www.apthai.com/images/production/Va85PyGrzVW1E1CfVk4uV177WRzgEb-metaR2FsbGVyeTUucG5n-.png",
+          "https://www.apthai.com/images/production/KAAl6IuiNcbg0A9OU8Wyh9WTBgCLSY-metaR2FsbGVyeTYucG5n-.png",
+          "https://www.apthai.com/images/production/CcYygF7tuHobvNfTx43yRwhNAaAQHd-metaR2FsbGVyeTcucG5n-.png",
+          "https://www.apthai.com/images/production/vYS7rsn3oAvlxyv4Y38F1kkMBloxg1-metaR2FsbGVyeTgucG5n-.png",
+          "https://www.apthai.com/images/production/RdYnBSjHPmoryy9TxnNF4PK7TrPgvw-metaR2FsbGVyeTkucG5n-.png",
+          "https://www.apthai.com/images/production/24Q48yPyrtl7F1vwTDLmu4nP8SPMmw-metaR2FsbGVyeTEwLnBuZw==-.png",
+          "https://www.apthai.com/images/production/SBagcEvdZPlOylnXiUfUQ5SkwVkdi2-metaR2FsbGVyeTExLnBuZw==-.png",
+          "https://www.apthai.com/images/production/W8YywPqd1eVU2OIrjQs8Qqq27SPG9Y-metaR2FsbGVyeTEyLnBuZw==-.png",
+          "https://www.apthai.com/images/production/YPedvaLOmM4edRHF1UxNAdHi4ItrYd-metaR2FsbGVyeTEzLnBuZw==-.png",
+          "https://www.apthai.com/images/production/n4jlb5qP22xmOMcF879FrTE7eQMpfa-metaR2FsbGVyeTE0LnBuZw==-.png",
+          "https://www.apthai.com/images/production/hqdvgX37tdiW426B1MBSCYTIjbyUCf-metaR2FsbGVyeTE1LnBuZw==-.png",
+          "https://www.apthai.com/images/production/zM9QanLjN0M7TY0YRlkrt1KZLplJ0i-metaR2FsbGVyeTE2LnBuZw==-.png",
+          "https://www.apthai.com/images/production/1fWzMQ4tVhGbJmb3CDbgPfBWW7cZXR-metaR2FsbGVyeTE3LnBuZw==-.png",
+          "https://www.apthai.com/images/production/R9ctXTTsrczlsPaEZTIARR3NUiMrtd-metaR2FsbGVyeTE4LnBuZw==-.png",
+          "https://www.apthai.com/images/production/pcl6xcUXnoKdIQX4NGZe06omi7Hzuw-metaR2FsbGVyeTE5LnBuZw==-.png",
+          "https://www.apthai.com/images/production/Zm2HGtnAuzgJZ0wWmvC08ce6teKs0y-metaR2FsbGVyeTIwLnBuZw==-.png",
+          "https://www.apthai.com/images/production/kUq62Jq1EVDuFvqSUppvze7KAQeNeU-metaR2FsbGVyeTIxLnBuZw==-.png",
+          "https://www.apthai.com/images/production/gYgDJ0xmDUtONGGrk7yvM8kFraT23Y-metaR2FsbGVyeTIyLnBuZw==-.png",
+          "https://www.apthai.com/images/production/Buli5JHkX08pvhbuidnNAIukhg5LEC-metaMi1iZWRyb29tLTcwIC0gc3EubS5fMS5qcGc=-.jpg"
+        ]
+      },
+      "brochure": {
+        "official_url": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf",
+        "copyright_source": "© AP (Thailand) Public Company Limited — official project brochure PDF",
+        "downloaded_date": "2026-07-16",
+        "checksum_sha256": "bb07d3ef2355c14c3332cb34a1053cf777345d8b0f97bfa182633dd28bc41c2d",
+        "local_storage_path": "content/media/library/projects/rhythm-ekkamai/brochure.pdf",
+        "rights_note": "hotlink",
+        "download_status": "downloaded"
+      },
+      "floor_plans": {
+        "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "copyright_source": "© AP (Thailand) Public Company Limited / RHYTHM EKKAMAI ESTATE",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "hero": {
+        "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "copyright_source": "© AP (Thailand) Public Company Limited / RHYTHM EKKAMAI ESTATE",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "placeholder_pending_official_mirror"
+      }
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "gallery": {
+        "official_url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
+        "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ASOKE RAMA 9",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license",
+        "gallery_image_urls": [
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_1-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_10-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_11-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_12-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_13-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_14-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_15-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_2-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_3-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_4-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_5-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_6-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_7-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_8-en.jpg",
+          "https://www.apthai.com/images/production/condo_60016-gallery_image_9-en.jpg"
+        ]
+      },
+      "brochure": {
+        "official_url": "https://www.apthai.com/images/production/zB8SXHVzYtABk71XgDyfgBoAlniSh4-metaTGlmZS1Bc29rZS1SYW1hOS5wZGY=-.pdf",
+        "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ASOKE RAMA 9 — official brochure PDF",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "floor_plans": {
+        "official_url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
+        "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ASOKE RAMA 9",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "hero": {
+        "official_url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
+        "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ASOKE RAMA 9",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "placeholder_pending_official_mirror"
+      }
+    },
+    {
+      "slug": "life-ladprao",
+      "gallery": {
+        "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
+        "copyright_source": "© AP (Thailand) Public Company Limited / LIFE LADPRAO",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license",
+        "gallery_image_urls": [
+          "https://www.apthai.com/images/production/condo_60010-gallery_image_1-en.jpg",
+          "https://www.apthai.com/images/production/condo_60010-gallery_image_2-en.jpg",
+          "https://www.apthai.com/images/production/condo_60010-gallery_image_3-en.jpg",
+          "https://www.apthai.com/images/production/condo_60010-gallery_image_4-en.jpg",
+          "https://www.apthai.com/images/production/condo_60010-gallery_image_5-en.jpg",
+          "https://www.apthai.com/images/production/condo_60010-gallery_image_6-en.jpg"
+        ]
+      },
+      "brochure": {
+        "official_url": "https://www.apthai.com/images/production/LaurEIXqeyPrdeAuClpxnftVFBImkr-metaRS1CUk9DSFVSRV9MQURQUkFPXzMxMDgyMS5wZGY=-.pdf",
+        "copyright_source": "© AP (Thailand) Public Company Limited / LIFE LADPRAO — official brochure PDF",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "floor_plans": {
+        "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
+        "copyright_source": "© AP (Thailand) Public Company Limited / LIFE LADPRAO",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "hero": {
+        "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
+        "copyright_source": "© AP (Thailand) Public Company Limited / LIFE LADPRAO",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "placeholder_pending_official_mirror"
+      }
+    },
+    {
+      "slug": "life-one-wireless",
+      "gallery": {
+        "official_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+        "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ONE WIRELESS",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license",
+        "gallery_image_urls": [
+          "https://www.apthai.com/images/production/condo_60015-gallery_image_1-en.jpg",
+          "https://www.apthai.com/images/production/condo_60015-gallery_image_2-en.jpg",
+          "https://www.apthai.com/images/production/condo_60015-gallery_image_3-en.jpg",
+          "https://www.apthai.com/images/production/condo_60015-gallery_image_4-en.jpg",
+          "https://www.apthai.com/images/production/condo_60015-gallery_image_5-en.jpg",
+          "https://www.apthai.com/images/production/condo_60015-gallery_image_6-en.jpg"
+        ]
+      },
+      "brochure": {
+        "official_url": "https://www.apthai.com/images/production/nINTvd3zSuGHvTsxNXSNaxWykFYKyN-metaRS1CUk9DSFVSRV9PTkUtV0lSRUxFU1NfMDUwNDIxLnBkZg==-.pdf",
+        "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ONE WIRELESS — official brochure PDF",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "floor_plans": {
+        "official_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+        "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ONE WIRELESS",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "hero": {
+        "official_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+        "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ONE WIRELESS",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "placeholder_pending_official_mirror"
+      }
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "gallery": {
+        "official_url": "https://www.apthai.com/en/condominium/aspire-sathorn-taksin-priva",
+        "copyright_source": "© AP (Thailand) Public Company Limited / ASPIRE Sathorn - Taksin Priva",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "brochure": {
+        "official_url": "https://www.apthai.com/en/condominium/aspire-sathorn-taksin-priva",
+        "copyright_source": "© AP (Thailand) Public Company Limited / ASPIRE Sathorn - Taksin Priva",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_pdf"
+      },
+      "floor_plans": {
+        "official_url": "https://www.apthai.com/en/condominium/aspire-sathorn-taksin-priva",
+        "copyright_source": "© AP (Thailand) Public Company Limited / ASPIRE Sathorn - Taksin Priva",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "unverified_no_official_plans_published"
+      },
+      "hero": {
+        "official_url": "https://www.apthai.com/en/condominium/aspire-sathorn-taksin-priva",
+        "copyright_source": "© AP (Thailand) Public Company Limited / ASPIRE Sathorn - Taksin Priva",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "placeholder_pending_official_mirror"
+      }
+    }
+  ]
+}

@@ -60,14 +60,14 @@
       "th": "ริทึ่ม เอกมัย"
     },
     "description": {
-      "en": "Rhythm Ekkamai is a real Bangkok project associated with AP Thailand. Details beyond name, district, and official URL are omitted until separately sourced.",
-      "zh": "Rhythm 埃卡迈为曼谷真实项目，关联开发商 AP泰国。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
-      "th": "ริทึ่ม เอกมัย เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เอพี ไทยแลนด์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+      "en": "RHYTHM EKKAMAI ESTATE is an AP Thailand condominium project. Facts on this page are taken from the official AP project page (https://www.apthai.com/en/condominium/rhythm-ekkamai-estate).",
+      "zh": "RHYTHM EKKAMAI ESTATE 为 AP Thailand 公寓项目。本页事实来自 AP 官方项目页。",
+      "th": "RHYTHM EKKAMAI ESTATE เป็นโครงการคอนโดของ เอพี ไทยแลนด์ ข้อมูลในหน้านี้มาจากหน้าโครงการทางการของ AP"
     },
     "address": {
-      "en": "Soi Sukhumvit 63 (Ekkamai Soi 1), Khlong Tan Nuea, Watthana, Bangkok",
-      "zh": "Soi Sukhumvit 63 (Ekkamai Soi 1), Khlong Tan Nuea, Watthana, Bangkok",
-      "th": "ซอยสุขุมวิท 63 (เอกมัยซอย 1) แขวงคลองตันเหนือ เขตวัฒนา กรุงเทพฯ"
+      "en": "Soi Ekkamai, Sukhumvit 63 Road, Khlong Tan Nuea Sub District, Watthana District, Bangkok 10110",
+      "zh": "Soi Ekkamai, Sukhumvit 63 Road, Khlong Tan Nuea Sub District, Watthana District, Bangkok 10110",
+      "th": "Soi Ekkamai, Sukhumvit 63 Road, Khlong Tan Nuea Sub District, Watthana District, Bangkok 10110"
     },
     "postal_code": "10110",
     "latitude": 13.7227299552121,
@@ -94,64 +94,79 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "infinity_pool",
+        "key": "tea_and_company",
         "name": {
-          "en": "Infinity pool",
-          "zh": "Infinity pool",
-          "th": "Infinity pool"
+          "en": "TEA AND COMPANY",
+          "zh": "TEA AND COMPANY",
+          "th": "TEA AND COMPANY"
         },
         "source": "official_developer",
-        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "description": {
+          "en": "Cozy and refined, the Tea Pavilion is a private hideaway in the Floating Lobby, framed by vivid cityscapes that echo the lively heartbeat of the metropolis.",
+          "zh": "Cozy and refined, the Tea Pavilion is a private hideaway in the Floating Lobby, framed by vivid cityscapes that echo the lively heartbeat of the metropolis.",
+          "th": "Cozy and refined, the Tea Pavilion is a private hideaway in the Floating Lobby, framed by vivid cityscapes that echo the lively heartbeat of the metropolis."
+        }
       },
       {
-        "key": "floating_lobby",
+        "key": "crowned_the_triplex_rooftop_facilities",
         "name": {
-          "en": "Floating lobby",
-          "zh": "Floating lobby",
-          "th": "Floating lobby"
+          "en": "CROWNED, THE TRIPLEX ROOFTOP FACILITIES",
+          "zh": "CROWNED, THE TRIPLEX ROOFTOP FACILITIES",
+          "th": "CROWNED, THE TRIPLEX ROOFTOP FACILITIES"
         },
         "source": "official_developer",
-        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "description": {
+          "en": "Enjoy the rare balance of private-home serenity and 360° Ekkamai skyline views. Your world, perfectly secluded yet spectacular.",
+          "zh": "Enjoy the rare balance of private-home serenity and 360° Ekkamai skyline views. Your world, perfectly secluded yet spectacular.",
+          "th": "Enjoy the rare balance of private-home serenity and 360° Ekkamai skyline views. Your world, perfectly secluded yet spectacular."
+        }
       },
       {
-        "key": "sky_lounge_library",
+        "key": "gym_with_million_dollar_views",
         "name": {
-          "en": "Sky lounge & library",
-          "zh": "Sky lounge & library",
-          "th": "Sky lounge & library"
+          "en": "GYM WITH MILLION-DOLLAR VIEWS",
+          "zh": "GYM WITH MILLION-DOLLAR VIEWS",
+          "th": "GYM WITH MILLION-DOLLAR VIEWS"
         },
         "source": "official_developer",
-        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "description": {
+          "en": "Whether your goal is to challenge yourself or simply give your body a fuss-free workout, you can fulfill it at panoramic fitness gym, which also offers a private fitness room.",
+          "zh": "Whether your goal is to challenge yourself or simply give your body a fuss-free workout, you can fulfill it at panoramic fitness gym, which also offers a private fitness room.",
+          "th": "Whether your goal is to challenge yourself or simply give your body a fuss-free workout, you can fulfill it at panoramic fitness gym, which also offers a private fitness room."
+        }
       },
       {
-        "key": "fitness_center",
+        "key": "360_degree_infinity_edge_pool",
         "name": {
-          "en": "Fitness center",
-          "zh": "Fitness center",
-          "th": "Fitness center"
+          "en": "360-DEGREE INFINITY EDGE POOL",
+          "zh": "360-DEGREE INFINITY EDGE POOL",
+          "th": "360-DEGREE INFINITY EDGE POOL"
         },
         "source": "official_developer",
-        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "description": {
+          "en": "Craft your own perfect world and let your mind run free in the swimming pool with beautiful views in every direction, or unwind at the honeymoon sunken deck and feel the breeze go by.",
+          "zh": "Craft your own perfect world and let your mind run free in the swimming pool with beautiful views in every direction, or unwind at the honeymoon sunken deck and feel the breeze go by.",
+          "th": "Craft your own perfect world and let your mind run free in the swimming pool with beautiful views in every direction, or unwind at the honeymoon sunken deck and feel the breeze go by."
+        }
       },
       {
-        "key": "sky_spa_wellness_spa",
+        "key": "wellness_spa_at_home",
         "name": {
-          "en": "Sky spa / wellness spa",
-          "zh": "Sky spa / wellness spa",
-          "th": "Sky spa / wellness spa"
+          "en": "WELLNESS SPA AT HOME",
+          "zh": "WELLNESS SPA AT HOME",
+          "th": "WELLNESS SPA AT HOME"
         },
         "source": "official_developer",
-        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
-      },
-      {
-        "key": "sky_garden",
-        "name": {
-          "en": "Sky garden",
-          "zh": "Sky garden",
-          "th": "Sky garden"
-        },
-        "source": "official_developer",
-        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "description": {
+          "en": "Unwind and rejuvenate. White ION micro bubbles boost oxygen for healthier, more radiant skin. A gentle ritual to reset the mind, body, and every cell within.",
+          "zh": "Unwind and rejuvenate. White ION micro bubbles boost oxygen for healthier, more radiant skin. A gentle ritual to reset the mind, body, and every cell within.",
+          "th": "Unwind and rejuvenate. White ION micro bubbles boost oxygen for healthier, more radiant skin. A gentle ritual to reset the mind, body, and every cell within."
+        }
       }
     ],
     "nearby_schools": [
@@ -509,147 +524,22 @@
       }
     ],
     "project_master": {
-      "phase": "7",
-      "audit_version": "2026-07-15-project-master-hygiene-v2",
-      "verified_at": "2026-07-15T08:06:30Z",
-      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
+      "phase": "11-batch-1",
+      "verified_at": "2026-07-16",
+      "rule": "official_apthai_project_pages_only",
+      "developer": "ap-thailand",
       "field_classifications": {
-        "official_project_name": "VERIFIED_PORTAL",
-        "thai_project_name": "VERIFIED_PORTAL",
-        "developer_relation": "VERIFIED_PORTAL",
-        "official_project_url": "UNVERIFIED",
-        "project_status": "VERIFIED_PORTAL",
-        "completion_year": "VERIFIED_PORTAL",
-        "full_address": "VERIFIED_PORTAL",
-        "district": "DERIVED",
-        "subdistrict": "UNVERIFIED",
-        "latitude": "VERIFIED_PORTAL",
-        "longitude": "VERIFIED_PORTAL",
-        "building_count": "UNVERIFIED",
-        "floor_count": "UNVERIFIED",
-        "total_units": "UNVERIFIED",
-        "unit_types": "UNVERIFIED",
-        "official_facilities": "VERIFIED_PORTAL",
-        "nearest_bts": "DERIVED",
-        "nearest_mrt": "UNVERIFIED",
-        "official_brochure": "UNVERIFIED",
-        "official_floor_plans": "UNVERIFIED",
-        "official_gallery_source": "UNVERIFIED",
-        "verification_timestamp": "DERIVED"
-      },
-      "field_provenance": {
-        "official_project_name": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://propertyhub.in.th/en/projects/rhythm-ekkamai",
-          "note": "Packaged EN name retained as portal/package; not Tier-1 project-page confirmed"
-        },
-        "thai_project_name": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Packaged Thai name from portal/package; not project-page confirmed"
-        },
-        "developer_relation": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Package developer.slug only — not OFFICIAL without Tier-1 project page"
-        },
-        "official_project_url": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.apthai.com/",
-          "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
-        },
-        "project_status": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Status from portal/package"
-        },
-        "completion_year": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Completion year from portal/package; not promoted to OFFICIAL"
-        },
-        "full_address": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Address from portal/package (may be district-level placeholder)"
-        },
-        "district": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Derived from package location.district_slug/name — not Tier-1 OFFICIAL"
-        },
-        "subdistrict": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "subdistrict not present / not Tier-1 confirmed"
-        },
-        "latitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "longitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "building_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "floor_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "total_units": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "unit_types": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_facilities": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Facilities from portal/package"
-        },
-        "nearest_bts": {
-          "tier": 3,
-          "note": "Derived from package nearby_bts/transportation/transit_tags — not Tier-1 confirmed",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "nearest_mrt": {
-          "tier": 4,
-          "note": "Missing",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "official_brochure": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_floor_plans": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_gallery_source": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "verification_timestamp": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Audit metadata timestamp — not an official project fact"
-        }
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
       }
     },
     "facilities_official": [
@@ -721,14 +611,17 @@
     "total_units": 303,
     "official_gallery_source": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
     "official_floor_plans": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
-    "brochure_local_path": "/projects/rhythm-ekkamai/brochure.pdf"
+    "brochure_local_path": "/projects/rhythm-ekkamai/brochure.pdf",
+    "unit_count": 303,
+    "floors": 33,
+    "buildings": 1
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       "verified_at": "2026-07-16",
@@ -738,27 +631,28 @@
       "field": "official_address",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       "verified_at": "2026-07-16",
-      "value": "Soi Sukhumvit 63 (Ekkamai Soi 1), Khlong Tan Nuea, Watthana, Bangkok"
+      "value": "Soi Ekkamai, Sukhumvit 63 Road, Khlong Tan Nuea Sub District, Watthana District, Bangkok 10110"
     },
     "official_gallery": {
       "field": "official_gallery",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "note": "Image binaries not mirrored pending license; URLs registered"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      "value": "24 gallery URLs on official page"
     },
     "official_brochure": {
       "field": "official_brochure",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf"
       },
       "verified_at": "2026-07-16",
@@ -768,45 +662,45 @@
       "field": "official_floor_plan",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      "value": "Floor/unit plan section present on official project page (hotlink; binaries not mirrored)"
     },
     "official_facilities": {
       "field": "official_facilities",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       "verified_at": "2026-07-16",
       "value": [
-        "Infinity pool",
-        "Floating lobby",
-        "Sky lounge & library",
-        "Fitness center",
-        "Sky spa / wellness spa",
-        "Sky garden"
+        "TEA AND COMPANY",
+        "CROWNED, THE TRIPLEX ROOFTOP FACILITIES",
+        "GYM WITH MILLION-DOLLAR VIEWS",
+        "360-DEGREE INFINITY EDGE POOL",
+        "WELLNESS SPA AT HOME"
       ]
     },
     "project_status": {
       "field": "project_status",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       "verified_at": "2026-07-16",
-      "value": "completed"
+      "value": "ready_to_move"
     },
     "completion_year": {
       "field": "completion_year",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "note": "Completion calendar year not stated as a clear factsheet field on the official page payload; retained packaged value is not upgraded to OFFICIAL"
       },
       "verified_at": "2026-07-16",
       "value": 2018
@@ -815,8 +709,9 @@
       "field": "building_count",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "note": "Official FAQ: 1 building"
       },
       "verified_at": "2026-07-16",
       "value": 1
@@ -825,8 +720,9 @@
       "field": "floor_count",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "note": "Official FAQ: 33 floors (factsheet num_floor also lists 32)"
       },
       "verified_at": "2026-07-16",
       "value": 33
@@ -835,7 +731,7 @@
       "field": "total_units",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       "verified_at": "2026-07-16",
@@ -851,40 +747,72 @@
     "notes": "AP official Ready-to-Move-In page + brochure PDF + floor plan section"
   },
   "media_library": {
-    "brochure": {
-      "official_url": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf",
-      "local_storage_path": "content/media/library/projects/rhythm-ekkamai/brochure.pdf",
-      "checksum_sha256": "bb07d3ef2355c14c3332cb34a1053cf777345d8b0f97bfa182633dd28bc41c2d",
-      "downloaded_date": "2026-07-16",
-      "copyright_source": "© AP (Thailand) Public Company Limited — official project brochure PDF"
-    },
     "gallery": {
       "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
-      "copyright_source": "© AP Thailand / Rhythm Ekkamai — official project materials",
+      "copyright_source": "© AP (Thailand) Public Company Limited / RHYTHM EKKAMAI ESTATE",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "download_status": "not_downloaded_pending_license",
+      "gallery_image_urls": [
+        "https://www.apthai.com/images/production/Teiuc8G0PyO0OJCe0o73otNBM6SFbN-metaRDNoNEc5ZFRJOC0xNzY3NzUzNTMxNTQ3LWltYWdlLmpwZw==-.jpg",
+        "https://www.apthai.com/images/production/wH4mx8h5DdbESgNAh8RXbdolmxyH1a-metaR2FsbGVyeTEucG5n-.png",
+        "https://www.apthai.com/images/production/UEkb95sS5PwziNbFBdVvLWw45yBkDA-metaR2FsbGVyeTIuanBn-.jpg",
+        "https://www.apthai.com/images/production/oAdPNUHjh9guPFGBqo7Nj4RCNrqf8i-metaR2FsbGVyeTMucG5n-.png",
+        "https://www.apthai.com/images/production/OihamrnrrqpGnrNIw3MSgshOTZ0zMj-metaR2FsbGVyeTQucG5n-.png",
+        "https://www.apthai.com/images/production/Va85PyGrzVW1E1CfVk4uV177WRzgEb-metaR2FsbGVyeTUucG5n-.png",
+        "https://www.apthai.com/images/production/KAAl6IuiNcbg0A9OU8Wyh9WTBgCLSY-metaR2FsbGVyeTYucG5n-.png",
+        "https://www.apthai.com/images/production/CcYygF7tuHobvNfTx43yRwhNAaAQHd-metaR2FsbGVyeTcucG5n-.png",
+        "https://www.apthai.com/images/production/vYS7rsn3oAvlxyv4Y38F1kkMBloxg1-metaR2FsbGVyeTgucG5n-.png",
+        "https://www.apthai.com/images/production/RdYnBSjHPmoryy9TxnNF4PK7TrPgvw-metaR2FsbGVyeTkucG5n-.png",
+        "https://www.apthai.com/images/production/24Q48yPyrtl7F1vwTDLmu4nP8SPMmw-metaR2FsbGVyeTEwLnBuZw==-.png",
+        "https://www.apthai.com/images/production/SBagcEvdZPlOylnXiUfUQ5SkwVkdi2-metaR2FsbGVyeTExLnBuZw==-.png",
+        "https://www.apthai.com/images/production/W8YywPqd1eVU2OIrjQs8Qqq27SPG9Y-metaR2FsbGVyeTEyLnBuZw==-.png",
+        "https://www.apthai.com/images/production/YPedvaLOmM4edRHF1UxNAdHi4ItrYd-metaR2FsbGVyeTEzLnBuZw==-.png",
+        "https://www.apthai.com/images/production/n4jlb5qP22xmOMcF879FrTE7eQMpfa-metaR2FsbGVyeTE0LnBuZw==-.png",
+        "https://www.apthai.com/images/production/hqdvgX37tdiW426B1MBSCYTIjbyUCf-metaR2FsbGVyeTE1LnBuZw==-.png",
+        "https://www.apthai.com/images/production/zM9QanLjN0M7TY0YRlkrt1KZLplJ0i-metaR2FsbGVyeTE2LnBuZw==-.png",
+        "https://www.apthai.com/images/production/1fWzMQ4tVhGbJmb3CDbgPfBWW7cZXR-metaR2FsbGVyeTE3LnBuZw==-.png",
+        "https://www.apthai.com/images/production/R9ctXTTsrczlsPaEZTIARR3NUiMrtd-metaR2FsbGVyeTE4LnBuZw==-.png",
+        "https://www.apthai.com/images/production/pcl6xcUXnoKdIQX4NGZe06omi7Hzuw-metaR2FsbGVyeTE5LnBuZw==-.png",
+        "https://www.apthai.com/images/production/Zm2HGtnAuzgJZ0wWmvC08ce6teKs0y-metaR2FsbGVyeTIwLnBuZw==-.png",
+        "https://www.apthai.com/images/production/kUq62Jq1EVDuFvqSUppvze7KAQeNeU-metaR2FsbGVyeTIxLnBuZw==-.png",
+        "https://www.apthai.com/images/production/gYgDJ0xmDUtONGGrk7yvM8kFraT23Y-metaR2FsbGVyeTIyLnBuZw==-.png",
+        "https://www.apthai.com/images/production/Buli5JHkX08pvhbuidnNAIukhg5LEC-metaMi1iZWRyb29tLTcwIC0gc3EubS5fMS5qcGc=-.jpg"
+      ]
+    },
+    "brochure": {
+      "official_url": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf",
+      "copyright_source": "© AP (Thailand) Public Company Limited — official project brochure PDF",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "bb07d3ef2355c14c3332cb34a1053cf777345d8b0f97bfa182633dd28bc41c2d",
+      "local_storage_path": "content/media/library/projects/rhythm-ekkamai/brochure.pdf",
+      "rights_note": "hotlink",
+      "download_status": "downloaded"
     },
     "floor_plans": {
       "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
-      "copyright_source": "© AP Thailand / Rhythm Ekkamai — official project materials",
+      "copyright_source": "© AP (Thailand) Public Company Limited / RHYTHM EKKAMAI ESTATE",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
-      "rights_note": "hotlink",
+      "rights_note": "hotlink_section",
       "download_status": "not_downloaded_pending_license"
     },
     "hero": {
       "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
-      "copyright_source": "© AP Thailand / Rhythm Ekkamai — official project materials",
+      "copyright_source": "© AP (Thailand) Public Company Limited / RHYTHM EKKAMAI ESTATE",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
-      "placeholder_path": null
+      "download_status": "placeholder_pending_official_mirror"
     }
+  },
+  "content_factory": {
+    "phase": "11-batch-1",
+    "developer": "ap-thailand",
+    "verified_at": "2026-07-16"
   }
 }

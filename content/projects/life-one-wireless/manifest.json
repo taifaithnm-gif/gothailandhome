@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "LIFE ONE WIRELESS official project page",
+      "url": "https://www.apthai.com/en/condominium/life-1-wireless"
+    },
+    {
+      "type": "official_developer",
       "name": "Life One Wireless official / developer page",
       "url": "https://www.apthai.com/"
     },
@@ -50,20 +55,20 @@
       "th": "ไลฟ์ วัน ไวร์เลส"
     },
     "description": {
-      "en": "Life One Wireless is a real Bangkok project associated with AP Thailand. Details beyond name, district, and official URL are omitted until separately sourced.",
-      "zh": "Life One Wireless为曼谷真实项目，关联开发商 AP泰国。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
-      "th": "ไลฟ์ วัน ไวร์เลส เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เอพี ไทยแลนด์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+      "en": "LIFE ONE WIRELESS is an AP Thailand condominium project. Facts on this page are taken from the official AP project page (https://www.apthai.com/en/condominium/life-1-wireless).",
+      "zh": "LIFE ONE WIRELESS 为 AP Thailand 公寓项目。本页事实来自 AP 官方项目页。",
+      "th": "LIFE ONE WIRELESS เป็นโครงการคอนโดของ เอพี ไทยแลนด์ ข้อมูลในหน้านี้มาจากหน้าโครงการทางการของ AP"
     },
     "address": {
-      "en": "Pathum Wan, Bangkok",
-      "zh": "曼谷巴吞旺",
-      "th": "ปทุมวัน กรุงเทพฯ"
+      "en": "1 Wireless Road, Lumphini, Pathum Wan, Bangkok",
+      "zh": "1 Wireless Road, Lumphini, Pathum Wan, Bangkok",
+      "th": "1 Wireless Road, Lumphini, Pathum Wan, Bangkok"
     },
     "postal_code": "10330",
     "latitude": 13.748008595979432,
     "longitude": 100.54857880153557,
     "google_maps_url": "https://www.google.com/maps?q=13.748008595979432,100.54857880153557",
-    "official_website": "https://www.apthai.com/",
+    "official_website": "https://www.apthai.com/en/condominium/life-1-wireless",
     "facebook_url": "https://www.facebook.com/APthai",
     "completion_year": 2020,
     "transit_tags": [
@@ -84,76 +89,79 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "pool",
+        "key": "botanic_metropolis",
         "name": {
-          "en": "Swimming pool",
-          "zh": "Swimming pool",
-          "th": "Swimming pool"
+          "en": "Botanic Metropolis",
+          "zh": "Botanic Metropolis",
+          "th": "Botanic Metropolis"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+        "description": {
+          "en": "One Wireless Botany is where you can be as one with nature with over 1-rai of green area and unique old trees. Evergreen River is landscape architecture designed to provide serene and harmonious environment.",
+          "zh": "One Wireless Botany is where you can be as one with nature with over 1-rai of green area and unique old trees. Evergreen River is landscape architecture designed to provide serene and harmonious environment.",
+          "th": "One Wireless Botany is where you can be as one with nature with over 1-rai of green area and unique old trees. Evergreen River is landscape architecture designed to provide serene and harmonious environment."
+        }
       },
       {
-        "key": "fitness",
+        "key": "cascade_garden",
         "name": {
-          "en": "Fitness / gym",
-          "zh": "Fitness / gym",
-          "th": "Fitness / gym"
+          "en": "Cascade garden",
+          "zh": "Cascade garden",
+          "th": "Cascade garden"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+        "description": {
+          "en": "Multi-level sky-high garden on 10th floor surrounded with Square Lagoon, stone arrangement leading your eyesight towards The Illuminated Pavilion with serene nature and designed for private relaxation to elevate the quality of urban living.",
+          "zh": "Multi-level sky-high garden on 10th floor surrounded with Square Lagoon, stone arrangement leading your eyesight towards The Illuminated Pavilion with serene nature and designed for private relaxation to elevate the quality of urban living.",
+          "th": "Multi-level sky-high garden on 10th floor surrounded with Square Lagoon, stone arrangement leading your eyesight towards The Illuminated Pavilion with serene nature and designed for private relaxation to elevate the quality of urban living."
+        }
       },
       {
-        "key": "parking",
+        "key": "dazzling_pool",
         "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
+          "en": "Dazzling pool",
+          "zh": "Dazzling pool",
+          "th": "Dazzling pool"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+        "description": {
+          "en": "Here’s where you’ll swim & be as one with nature in a large 36-m pool with panoramic view. A private Jacuzzi is decorated with nightlight allowing you to relax among stars with 360º open view.",
+          "zh": "Here’s where you’ll swim & be as one with nature in a large 36-m pool with panoramic view. A private Jacuzzi is decorated with nightlight allowing you to relax among stars with 360º open view.",
+          "th": "Here’s where you’ll swim & be as one with nature in a large 36-m pool with panoramic view. A private Jacuzzi is decorated with nightlight allowing you to relax among stars with 360º open view."
+        }
       },
       {
-        "key": "security",
+        "key": "the_vista_deck",
         "name": {
-          "en": "24h security",
-          "zh": "24h security",
-          "th": "24h security"
+          "en": "The Vista Deck",
+          "zh": "The Vista Deck",
+          "th": "The Vista Deck"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+        "description": {
+          "en": "Panoramic viewpoint and sky garden on 42nd floor with distinctive asymmetrical design like Amphitheater giving an appealing silhouette. It gives you freedom and privacy to relax or enjoy urban leisure activities as you desire.",
+          "zh": "Panoramic viewpoint and sky garden on 42nd floor with distinctive asymmetrical design like Amphitheater giving an appealing silhouette. It gives you freedom and privacy to relax or enjoy urban leisure activities as you desire.",
+          "th": "Panoramic viewpoint and sky garden on 42nd floor with distinctive asymmetrical design like Amphitheater giving an appealing silhouette. It gives you freedom and privacy to relax or enjoy urban leisure activities as you desire."
+        }
       },
       {
-        "key": "park",
+        "key": "co_working_space",
         "name": {
-          "en": "Garden / courtyard",
-          "zh": "Garden / courtyard",
-          "th": "Garden / courtyard"
+          "en": "Co-Working Space",
+          "zh": "Co-Working Space",
+          "th": "Co-Working Space"
         },
-        "source": "propertyhub"
-      },
-      {
-        "key": "library",
-        "name": {
-          "en": "Library",
-          "zh": "Library",
-          "th": "Library"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "lift",
-        "name": {
-          "en": "Elevator",
-          "zh": "Elevator",
-          "th": "Elevator"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "cctv",
-        "name": {
-          "en": "CCTV",
-          "zh": "CCTV",
-          "th": "CCTV"
-        },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+        "description": {
+          "en": "We understand how to design an area to fuel creative energy and imagination, this Co-Working Space is think-outside-the-box design concept to transform dull working space into limitless imagination one.",
+          "zh": "We understand how to design an area to fuel creative energy and imagination, this Co-Working Space is think-outside-the-box design concept to transform dull working space into limitless imagination one.",
+          "th": "We understand how to design an area to fuel creative energy and imagination, this Co-Working Space is think-outside-the-box design concept to transform dull working space into limitless imagination one."
+        }
       }
     ],
     "nearby_schools": [
@@ -511,211 +519,146 @@
       }
     ],
     "project_master": {
-      "phase": "7",
-      "audit_version": "2026-07-15-project-master-hygiene-v2",
-      "verified_at": "2026-07-15T08:06:30Z",
-      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
+      "phase": "11-batch-1",
+      "verified_at": "2026-07-16",
+      "rule": "official_apthai_project_pages_only",
+      "developer": "ap-thailand",
       "field_classifications": {
-        "official_project_name": "VERIFIED_PORTAL",
-        "thai_project_name": "VERIFIED_PORTAL",
-        "developer_relation": "VERIFIED_PORTAL",
-        "official_project_url": "UNVERIFIED",
-        "project_status": "VERIFIED_PORTAL",
-        "completion_year": "VERIFIED_PORTAL",
-        "full_address": "VERIFIED_PORTAL",
-        "district": "DERIVED",
-        "subdistrict": "UNVERIFIED",
-        "latitude": "VERIFIED_PORTAL",
-        "longitude": "VERIFIED_PORTAL",
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
         "building_count": "UNVERIFIED",
         "floor_count": "UNVERIFIED",
-        "total_units": "UNVERIFIED",
-        "unit_types": "UNVERIFIED",
-        "official_facilities": "VERIFIED_PORTAL",
-        "nearest_bts": "DERIVED",
-        "nearest_mrt": "UNVERIFIED",
-        "official_brochure": "UNVERIFIED",
-        "official_floor_plans": "UNVERIFIED",
-        "official_gallery_source": "UNVERIFIED",
-        "verification_timestamp": "DERIVED"
-      },
-      "field_provenance": {
-        "official_project_name": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://propertyhub.in.th/en/projects/life-one-wireless",
-          "note": "Packaged EN name retained as portal/package; not Tier-1 project-page confirmed"
-        },
-        "thai_project_name": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Packaged Thai name from portal/package; not project-page confirmed"
-        },
-        "developer_relation": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Package developer.slug only — not OFFICIAL without Tier-1 project page"
-        },
-        "official_project_url": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.apthai.com/",
-          "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
-        },
-        "project_status": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Status from portal/package"
-        },
-        "completion_year": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Completion year from portal/package; not promoted to OFFICIAL"
-        },
-        "full_address": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Address from portal/package (may be district-level placeholder)"
-        },
-        "district": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Derived from package location.district_slug/name — not Tier-1 OFFICIAL"
-        },
-        "subdistrict": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "subdistrict not present / not Tier-1 confirmed"
-        },
-        "latitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "longitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "building_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "floor_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "total_units": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "unit_types": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_facilities": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Facilities from portal/package"
-        },
-        "nearest_bts": {
-          "tier": 3,
-          "note": "Derived from package nearby_bts/transportation/transit_tags — not Tier-1 confirmed",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "nearest_mrt": {
-          "tier": 4,
-          "note": "Missing",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "official_brochure": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_floor_plans": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_gallery_source": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "verification_timestamp": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Audit metadata timestamp — not an official project fact"
-        }
+        "total_units": "OFFICIAL"
       }
-    }
+    },
+    "total_units": 1344,
+    "unit_count": 1344
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.apthai.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-1-wireless"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.apthai.com/"
+      "value": "https://www.apthai.com/en/condominium/life-1-wireless"
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.apthai.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-1-wireless"
       },
       "verified_at": "2026-07-16",
-      "value": "Pathum Wan, Bangkok"
+      "value": "1 Wireless Road, Lumphini, Pathum Wan, Bangkok"
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.apthai.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-1-wireless",
+        "note": "Image binaries not mirrored pending license; URLs registered"
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "value": "6 gallery URLs on official page"
     },
     "official_brochure": {
       "field": "official_brochure",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.apthai.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/images/production/nINTvd3zSuGHvTsxNXSNaxWykFYKyN-metaRS1CUk9DSFVSRV9PTkUtV0lSRUxFU1NfMDUwNDIxLnBkZg==-.pdf"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "https://www.apthai.com/images/production/nINTvd3zSuGHvTsxNXSNaxWykFYKyN-metaRS1CUk9DSFVSRV9PTkUtV0lSRUxFU1NfMDUwNDIxLnBkZg==-.pdf"
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.apthai.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-1-wireless",
+        "note": "No floor/unit plan section resolved from official page payload"
       },
       "verified_at": "2026-07-16",
       "value": null
     },
     "official_facilities": {
       "field": "official_facilities",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.apthai.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-1-wireless"
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "Botanic Metropolis",
+        "Cascade garden",
+        "Dazzling pool",
+        "The Vista Deck",
+        "Co-Working Space"
+      ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-1-wireless"
+      },
+      "verified_at": "2026-07-16",
+      "value": "sold_out"
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-1-wireless",
+        "note": "Completion calendar year not stated as a clear factsheet field on the official page payload; retained packaged value is not upgraded to OFFICIAL"
+      },
+      "verified_at": "2026-07-16",
+      "value": 2020
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-1-wireless"
       },
       "verified_at": "2026-07-16",
       "value": null
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-1-wireless"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.apthai.com/en/condominium/life-1-wireless"
+      },
+      "verified_at": "2026-07-16",
+      "value": 1344
     }
   },
   "project_master": {
@@ -725,15 +668,54 @@
     "sprint": "phase10-sprint-3"
   },
   "media_library": {
-    "hero": {
-      "official_url": "https://www.apthai.com/",
-      "copyright_source": "© AP Thailand / Life One Wireless — official project materials",
+    "gallery": {
+      "official_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ONE WIRELESS",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
-      "placeholder_path": null
+      "download_status": "not_downloaded_pending_license",
+      "gallery_image_urls": [
+        "https://www.apthai.com/images/production/condo_60015-gallery_image_1-en.jpg",
+        "https://www.apthai.com/images/production/condo_60015-gallery_image_2-en.jpg",
+        "https://www.apthai.com/images/production/condo_60015-gallery_image_3-en.jpg",
+        "https://www.apthai.com/images/production/condo_60015-gallery_image_4-en.jpg",
+        "https://www.apthai.com/images/production/condo_60015-gallery_image_5-en.jpg",
+        "https://www.apthai.com/images/production/condo_60015-gallery_image_6-en.jpg"
+      ]
+    },
+    "brochure": {
+      "official_url": "https://www.apthai.com/images/production/nINTvd3zSuGHvTsxNXSNaxWykFYKyN-metaRS1CUk9DSFVSRV9PTkUtV0lSRUxFU1NfMDUwNDIxLnBkZg==-.pdf",
+      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ONE WIRELESS — official brochure PDF",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "floor_plans": {
+      "official_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ONE WIRELESS",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "unverified_no_official_plans_published"
+    },
+    "hero": {
+      "official_url": "https://www.apthai.com/en/condominium/life-1-wireless",
+      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ONE WIRELESS",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "placeholder_pending_official_mirror"
     }
+  },
+  "content_factory": {
+    "phase": "11-batch-1",
+    "developer": "ap-thailand",
+    "verified_at": "2026-07-16"
   }
 }
