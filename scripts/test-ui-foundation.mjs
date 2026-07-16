@@ -23,6 +23,7 @@ const required = [
   "src/components/ui/states.tsx",
   "src/components/ui/breadcrumb.tsx",
   "src/components/marketplace/contact-blocks.tsx",
+  "src/components/marketplace/form-kit.tsx",
 ];
 
 for (const file of required) {

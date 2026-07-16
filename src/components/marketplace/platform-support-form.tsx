@@ -6,6 +6,17 @@ import {
   submitPlatformSupportLead,
   type MarketplaceFormState,
 } from "@/app/[lang]/marketplace/actions";
+import {
+  ConsentCheckbox,
+  FormFailureBanner,
+  FormField,
+  FormShell,
+  FormSubmitButton,
+  FormSuccessState,
+  Input,
+  Textarea,
+  resolveMarketplaceError,
+} from "@/components/marketplace/form-kit";
 import type { Locale } from "@/config/locales";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 
@@ -14,8 +25,15 @@ type Props = {
   dict: Dictionary;
 };
 
-const initial: MarketplaceFormState = { ok: false, message: "" };
+const initial: MarketplaceFormState = {
+  ok: false,
+  message: "",
+  errorCode: null,
+  reference: null,
+  mode: null,
+};
 
+/** Platform Customer Success only — Apple brand appears here, not on listing forms. */
 export function PlatformSupportForm({ locale, dict }: Props) {
   const m = dict.marketplace;
   const c = dict.contact;
@@ -26,47 +44,51 @@ export function PlatformSupportForm({ locale, dict }: Props) {
 
   if (state.ok) {
     return (
-      <p className="rounded-2xl border border-[var(--brand-line)] bg-white p-6 text-[var(--brand-deep)]">
-        {m.successSupport}
-      </p>
+      <FormSuccessState
+        title={m.successTitle}
+        body={m.successSupport}
+        reference={state.reference}
+        referenceLabel={m.referenceLabel}
+        nextSteps={m.nextSteps}
+      />
     );
   }
 
+  const errorMessage =
+    state.errorCode || state.message
+      ? resolveMarketplaceError(m, state.errorCode, state.message)
+      : null;
+
   return (
-    <form action={action} className="space-y-4 rounded-2xl border border-[var(--brand-line)] bg-white p-6 sm:p-8">
-      <input type="hidden" name="locale" value={locale} />
-      <p className="text-sm text-stone-500">{m.supportFormNote}</p>
-      <label className="flex flex-col gap-2 text-sm">
-        <span className="font-medium text-[var(--brand-deep)]">{c.name}</span>
-        <input name="name" required className={inputClass} />
-      </label>
-      <label className="flex flex-col gap-2 text-sm">
-        <span className="font-medium text-[var(--brand-deep)]">{c.email}</span>
-        <input name="email" type="email" required className={inputClass} />
-      </label>
-      <label className="flex flex-col gap-2 text-sm">
-        <span className="font-medium text-[var(--brand-deep)]">{c.phone}</span>
-        <input name="phone" className={inputClass} />
-      </label>
-      <label className="flex flex-col gap-2 text-sm">
-        <span className="font-medium text-[var(--brand-deep)]">{c.message}</span>
-        <textarea name="message" rows={5} required className={textareaClass} />
-      </label>
-      <label className="flex items-start gap-2 text-sm text-stone-600">
-        <input type="checkbox" name="consent" value="true" required className="mt-1" />
-        <span>{m.consent}</span>
-      </label>
-      {state.message && !state.ok ? <p className="text-sm text-red-700">{state.message}</p> : null}
-      <button type="submit" disabled={pending} className={buttonClass}>
-        {pending ? m.sending : c.submit}
-      </button>
+    <form action={action}>
+      <FormShell notice={m.supportFormNote}>
+        <input type="hidden" name="locale" value={locale} />
+        <FormField label={c.name} htmlFor="pcs-name" required>
+          <Input id="pcs-name" name="name" required autoComplete="name" />
+        </FormField>
+        <FormField label={c.email} htmlFor="pcs-email" required>
+          <Input
+            id="pcs-email"
+            name="email"
+            type="email"
+            required
+            autoComplete="email"
+          />
+        </FormField>
+        <FormField label={c.phone} htmlFor="pcs-phone">
+          <Input id="pcs-phone" name="phone" type="tel" autoComplete="tel" />
+        </FormField>
+        <FormField label={c.message} htmlFor="pcs-message" required>
+          <Textarea id="pcs-message" name="message" rows={5} required />
+        </FormField>
+        <ConsentCheckbox label={m.consent} />
+        {errorMessage ? <FormFailureBanner message={errorMessage} /> : null}
+        <FormSubmitButton
+          pending={pending}
+          idleLabel={c.submit}
+          pendingLabel={m.sending}
+        />
+      </FormShell>
     </form>
   );
 }
-
-const inputClass =
-  "h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20";
-const textareaClass =
-  "rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 py-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20";
-const buttonClass =
-  "inline-flex h-11 items-center justify-center rounded-xl bg-[var(--brand)] px-5 text-sm font-medium text-white transition hover:bg-[var(--brand-deep)] disabled:opacity-60";
