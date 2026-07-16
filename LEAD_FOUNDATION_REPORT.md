@@ -1,30 +1,70 @@
 # LEAD_FOUNDATION_REPORT
 
-## Migration
+**Phase:** 9 — M4 Lead Foundation (frontend)  
+**Date:** 2026-07-16  
+**Baseline HEAD:** `bff74aa`  
+**Scope:** Frontend only · no CRM backend · no automation · no schema · no harvest · no deploy
 
-`supabase/migrations/20260715120000_marketplace_foundation_m1.sql`
+## Overall result
 
-Applied via `npm run db:migrate:phase8-m1`.
+**PASS**
 
-## Tables
+Unified Lead layer connects the five marketplace entry forms through shared validation and shared success/error pages.
 
-- `marketplace_leads`
-- `marketplace_lead_activities`
+## Connected channels
 
-## Lead types
+| Channel | Form | Success redirect |
+|---------|------|------------------|
+| Find My Home | `find-my-home-form` | `/[lang]/leads/success?channel=find_my_home` |
+| List Your Property | `list-your-property-form` | `…channel=list_your_property` |
+| Viewing Request | `viewing-request-form` | `…channel=viewing_request` |
+| Developer Partnership | `developer-partnership-form` | `…channel=developer_partnership` |
+| Agency Partnership | `agency-partnership-form` | `…channel=agency_partnership` |
 
-find_home · list_property · viewing_request · developer_partnership · agency_partnership · platform_support
+Platform Customer Success remains on shared validators but is **not** one of the five entry channels (inline success retained).
 
-## Lifecycle statuses
+## Shared foundation
 
-new · qualified · assigned · contacted · viewing_scheduled · negotiating · won · lost · spam · archived
+| Piece | Path |
+|-------|------|
+| Channels + prefixes | `src/lib/leads/channels.ts` |
+| Success/error URLs | `src/lib/leads/urls.ts` |
+| Public re-exports + validation | `src/lib/leads/index.ts` |
+| Validators (existing) | `src/lib/marketplace/form-validation.ts` |
+| Form kit (failure/loading) | `src/components/marketplace/form-kit.tsx` |
+| Success/error UI | `src/components/leads/lead-result.tsx` |
+| Success page | `src/app/[lang]/leads/success/page.tsx` (noindex) |
+| Error page | `src/app/[lang]/leads/error/page.tsx` (noindex) |
+| Actions | `src/app/[lang]/marketplace/actions.ts` → `redirect` on accept |
 
-## Recorded fields
+## Behavior
 
-source · status · assigned_to · created_at · updated_at · consent / consent_at · activity history
+- **Validation failures** — stay on the form (`FormFailureBanner` + shared error codes)
+- **Accepted submits** — redirect to shared success page with reference + `stored` / `placeholder` mode
+- **Placeholder path** — no email, no CRM ticket automation
+- Success/error pages are **noindex**
 
-## Notes
+## Explicit non-actions
 
-- Existing `inquiries` table left intact for legacy project lead form
-- No billing / automatic lead resale
-- Anon may INSERT consented leads only; no public SELECT of demand
+- No CRM backend work  
+- No email sending  
+- No automation / assignment workflows  
+- No schema / migration changes  
+
+## Gates
+
+| Gate | Result |
+|------|--------|
+| typecheck | PASS |
+| test:lead-foundation | PASS |
+| test:marketplace-forms | PASS |
+| npm test | PASS |
+| build | PASS |
+
+## Prior note (Phase 8)
+
+DB tables `marketplace_leads` / activities from Phase 8 remain available when storage is configured; M4 does not change them.
+
+## Status
+
+**PHASE 9 M4 LEAD FOUNDATION — PASS**

@@ -131,7 +131,7 @@ check("form kit exists", () => {
   assert.ok(existsSync(resolve(root, "src/components/marketplace/form-kit.tsx")));
 });
 
-check("five entry forms use form-kit", () => {
+check("five entry forms use form-kit and shared failure/loading", () => {
   const files = [
     "src/components/marketplace/find-my-home-form.tsx",
     "src/components/marketplace/list-your-property-form.tsx",
@@ -142,10 +142,23 @@ check("five entry forms use form-kit", () => {
   for (const file of files) {
     const src = readFileSync(resolve(root, file), "utf8");
     assert.ok(src.includes("form-kit"), `${file} must import form-kit`);
-    assert.ok(src.includes("FormSuccessState"), `${file} success state`);
     assert.ok(src.includes("FormFailureBanner"), `${file} failure state`);
     assert.ok(src.includes("FormSubmitButton"), `${file} loading/submit`);
+    assert.ok(
+      !src.includes("FormSuccessState"),
+      `${file} success must redirect to shared lead page`,
+    );
   }
+});
+
+check("actions redirect to shared lead success", () => {
+  const src = readFileSync(
+    resolve(root, "src/app/[lang]/marketplace/actions.ts"),
+    "utf8",
+  );
+  assert.ok(src.includes("buildLeadSuccessPath"));
+  assert.ok(src.includes("finalizeLead"));
+  assert.ok(src.includes("redirect("));
 });
 
 check("dictionary error keys en/zh/th", () => {
