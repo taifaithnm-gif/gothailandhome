@@ -8,7 +8,7 @@
 2. **Developer logos** — All 20 Developer Master logos remain **PLACEHOLDER**. UI uses a neutral mark; placeholders are not treated as trademarks.
 3. **Factory-linked portfolios** — Developer/project lists on GoThailandHome are platform-linked subsets, not claimed complete official portfolios (unless an OFFICIAL label applies).
 4. **District pages** — Functional but **not** Redesigned under District Detail Alpha (not started).
-5. **Marketplace forms** — Present as Alpha capture surfaces; not a completed partnership/ops workflow.
+5. **Marketplace forms** — Shared Alpha form kit + hub entry layer (`/[lang]/marketplace`). Still not a completed partnership/ops workflow (no CRM / email automation).
 6. **Evidence gaps** — Many project/developer fields remain PARTIAL / UNVERIFIED / FACTORY by design; unavailable stays unavailable.
 7. **Sitemap listing coverage** — `listPublishedProperties` used by `sitemap.ts` is subject to Supabase/PostgREST default row caps (~**1000** listing URLs per locale observed vs ~1318 published). Not a silent invent — incomplete SEO coverage until paged sitemap generation.
 8. **Maps** — Verified coordinates linked out; no embedded map product SLA.

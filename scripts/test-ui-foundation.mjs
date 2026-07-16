@@ -24,6 +24,8 @@ const required = [
   "src/components/ui/breadcrumb.tsx",
   "src/components/marketplace/contact-blocks.tsx",
   "src/components/marketplace/form-kit.tsx",
+  "src/components/marketplace/marketplace-entry-grid.tsx",
+  "src/app/[lang]/marketplace/page.tsx",
 ];
 
 for (const file of required) {
