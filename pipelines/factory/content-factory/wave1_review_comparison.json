@@ -1,0 +1,899 @@
+{
+  "review": "Phase 11 Developer Wave 1 Review",
+  "before_rev": "4b692bc",
+  "after_rev": "595b863",
+  "before_label": "Pre–Phase 11 (post Phase 10 Sprint 6)",
+  "after_label": "Post–Phase 11 Official Content Factory (Batches 1–6)",
+  "scope": {
+    "developers": [
+      "ap-thailand",
+      "sansiri",
+      "mqdc",
+      "supalai",
+      "ananda-development",
+      "assetwise"
+    ],
+    "project_count": 22,
+    "note": "Wave 1 Official Content Factory developer sequence only (6 of 20 Bangkok Wave 1 developers). No further enrichment in this review."
+  },
+  "developers": [
+    {
+      "slug": "ap-thailand",
+      "before_pct": 100,
+      "after_pct": 100,
+      "logo_before": true,
+      "logo_after": true,
+      "batch_reported_dev_pct": 100,
+      "batch_reported_proj_avg": 72,
+      "batch_combined": 86,
+      "commit": "d097bed",
+      "before_detail": {
+        "official_logo": "OFFICIAL",
+        "favicon": "OFFICIAL",
+        "company_profile": "OFFICIAL",
+        "established_year": "OFFICIAL",
+        "headquarters": "OFFICIAL",
+        "official_website": "OFFICIAL",
+        "listed_company_code": "OFFICIAL",
+        "official_contact_page": "OFFICIAL",
+        "official_social_links": "OFFICIAL",
+        "company_history": "OFFICIAL"
+      },
+      "after_detail": {
+        "official_logo": "OFFICIAL",
+        "favicon": "OFFICIAL",
+        "company_profile": "OFFICIAL",
+        "established_year": "OFFICIAL",
+        "headquarters": "OFFICIAL",
+        "official_website": "OFFICIAL",
+        "listed_company_code": "OFFICIAL",
+        "official_contact_page": "OFFICIAL",
+        "official_social_links": "OFFICIAL",
+        "company_history": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "sansiri",
+      "before_pct": 100,
+      "after_pct": 100,
+      "logo_before": true,
+      "logo_after": true,
+      "batch_reported_dev_pct": 100,
+      "batch_reported_proj_avg": 64,
+      "batch_combined": 82,
+      "commit": "3c706d3",
+      "before_detail": {
+        "official_logo": "OFFICIAL",
+        "favicon": "OFFICIAL",
+        "company_profile": "OFFICIAL",
+        "established_year": "OFFICIAL",
+        "headquarters": "OFFICIAL",
+        "official_website": "OFFICIAL",
+        "listed_company_code": "OFFICIAL",
+        "official_contact_page": "OFFICIAL",
+        "official_social_links": "OFFICIAL",
+        "company_history": "OFFICIAL"
+      },
+      "after_detail": {
+        "official_logo": "OFFICIAL",
+        "favicon": "OFFICIAL",
+        "company_profile": "OFFICIAL",
+        "established_year": "OFFICIAL",
+        "headquarters": "OFFICIAL",
+        "official_website": "OFFICIAL",
+        "listed_company_code": "OFFICIAL",
+        "official_contact_page": "OFFICIAL",
+        "official_social_links": "OFFICIAL",
+        "company_history": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "mqdc",
+      "before_pct": 100,
+      "after_pct": 100,
+      "logo_before": true,
+      "logo_after": true,
+      "batch_reported_dev_pct": 100,
+      "batch_reported_proj_avg": 50,
+      "batch_combined": 75,
+      "commit": "c93ccf8",
+      "before_detail": {
+        "official_logo": "OFFICIAL",
+        "favicon": "OFFICIAL",
+        "company_profile": "OFFICIAL",
+        "established_year": "OFFICIAL",
+        "headquarters": "OFFICIAL",
+        "official_website": "OFFICIAL",
+        "listed_company_code": "NOT_APPLICABLE",
+        "official_contact_page": "OFFICIAL",
+        "official_social_links": "OFFICIAL",
+        "company_history": "OFFICIAL"
+      },
+      "after_detail": {
+        "official_logo": "OFFICIAL",
+        "favicon": "OFFICIAL",
+        "company_profile": "OFFICIAL",
+        "established_year": "OFFICIAL",
+        "headquarters": "OFFICIAL",
+        "official_website": "OFFICIAL",
+        "listed_company_code": "NOT_APPLICABLE",
+        "official_contact_page": "OFFICIAL",
+        "official_social_links": "OFFICIAL",
+        "company_history": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "supalai",
+      "before_pct": 100,
+      "after_pct": 100,
+      "logo_before": true,
+      "logo_after": true,
+      "batch_reported_dev_pct": 100,
+      "batch_reported_proj_avg": 22.5,
+      "batch_combined": 61.3,
+      "commit": "f9721b8",
+      "before_detail": {
+        "official_logo": "OFFICIAL",
+        "favicon": "OFFICIAL",
+        "company_profile": "OFFICIAL",
+        "established_year": "OFFICIAL",
+        "headquarters": "OFFICIAL",
+        "official_website": "OFFICIAL",
+        "listed_company_code": "OFFICIAL",
+        "official_contact_page": "OFFICIAL",
+        "official_social_links": "OFFICIAL",
+        "company_history": "OFFICIAL"
+      },
+      "after_detail": {
+        "official_logo": "OFFICIAL",
+        "favicon": "OFFICIAL",
+        "company_profile": "OFFICIAL",
+        "established_year": "OFFICIAL",
+        "headquarters": "OFFICIAL",
+        "official_website": "OFFICIAL",
+        "listed_company_code": "OFFICIAL",
+        "official_contact_page": "OFFICIAL",
+        "official_social_links": "OFFICIAL",
+        "company_history": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "ananda-development",
+      "before_pct": 100,
+      "after_pct": 100,
+      "logo_before": true,
+      "logo_after": true,
+      "batch_reported_dev_pct": 100,
+      "batch_reported_proj_avg": 60,
+      "batch_combined": 80,
+      "commit": "bc34b1f",
+      "before_detail": {
+        "official_logo": "OFFICIAL",
+        "favicon": "OFFICIAL",
+        "company_profile": "OFFICIAL",
+        "established_year": "OFFICIAL",
+        "headquarters": "OFFICIAL",
+        "official_website": "OFFICIAL",
+        "listed_company_code": "OFFICIAL",
+        "official_contact_page": "OFFICIAL",
+        "official_social_links": "OFFICIAL",
+        "company_history": "OFFICIAL"
+      },
+      "after_detail": {
+        "official_logo": "OFFICIAL",
+        "favicon": "OFFICIAL",
+        "company_profile": "OFFICIAL",
+        "established_year": "OFFICIAL",
+        "headquarters": "OFFICIAL",
+        "official_website": "OFFICIAL",
+        "listed_company_code": "OFFICIAL",
+        "official_contact_page": "OFFICIAL",
+        "official_social_links": "OFFICIAL",
+        "company_history": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "assetwise",
+      "before_pct": 100,
+      "after_pct": 100,
+      "logo_before": true,
+      "logo_after": true,
+      "batch_reported_dev_pct": 100,
+      "batch_reported_proj_avg": 45,
+      "batch_combined": 72.5,
+      "commit": "bc34b1f",
+      "before_detail": {
+        "official_logo": "OFFICIAL",
+        "favicon": "OFFICIAL",
+        "company_profile": "OFFICIAL",
+        "established_year": "OFFICIAL",
+        "headquarters": "OFFICIAL",
+        "official_website": "OFFICIAL",
+        "listed_company_code": "OFFICIAL",
+        "official_contact_page": "OFFICIAL",
+        "official_social_links": "OFFICIAL",
+        "company_history": "OFFICIAL"
+      },
+      "after_detail": {
+        "official_logo": "OFFICIAL",
+        "favicon": "OFFICIAL",
+        "company_profile": "OFFICIAL",
+        "established_year": "OFFICIAL",
+        "headquarters": "OFFICIAL",
+        "official_website": "OFFICIAL",
+        "listed_company_code": "OFFICIAL",
+        "official_contact_page": "OFFICIAL",
+        "official_social_links": "OFFICIAL",
+        "company_history": "OFFICIAL"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "developer": "ap-thailand",
+      "slug": "rhythm-ekkamai",
+      "before_7field_pct": 85.7,
+      "after_7field_pct": 85.7,
+      "before_10field_pct": 90,
+      "after_10field_pct": 90,
+      "delta_10": 0,
+      "before_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "VERIFIED_PORTAL"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "ap-thailand",
+      "slug": "life-asoke-rama-9",
+      "before_7field_pct": 28.6,
+      "after_7field_pct": 85.7,
+      "before_10field_pct": 20,
+      "after_10field_pct": 90,
+      "delta_10": 70,
+      "before_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "VERIFIED_PORTAL"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "ap-thailand",
+      "slug": "life-ladprao",
+      "before_7field_pct": 28.6,
+      "after_7field_pct": 85.7,
+      "before_10field_pct": 20,
+      "after_10field_pct": 90,
+      "delta_10": 70,
+      "before_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "VERIFIED_PORTAL"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "ap-thailand",
+      "slug": "life-one-wireless",
+      "before_7field_pct": 0,
+      "after_7field_pct": 71.4,
+      "before_10field_pct": 0,
+      "after_10field_pct": 60,
+      "delta_10": 60,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "ap-thailand",
+      "slug": "aspire-sathorn-taksin",
+      "before_7field_pct": 0,
+      "after_7field_pct": 28.6,
+      "before_10field_pct": 0,
+      "after_10field_pct": 30,
+      "delta_10": 30,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "sansiri",
+      "slug": "xt-phayathai",
+      "before_7field_pct": 42.9,
+      "after_7field_pct": 100,
+      "before_10field_pct": 40,
+      "after_10field_pct": 100,
+      "delta_10": 60,
+      "before_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "VERIFIED_PORTAL"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "OFFICIAL"
+      }
+    },
+    {
+      "developer": "sansiri",
+      "slug": "xt-huai-khwang",
+      "before_7field_pct": 0,
+      "after_7field_pct": 100,
+      "before_10field_pct": 0,
+      "after_10field_pct": 100,
+      "delta_10": 100,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "OFFICIAL"
+      }
+    },
+    {
+      "developer": "sansiri",
+      "slug": "the-line-sukhumvit-101",
+      "before_7field_pct": 0,
+      "after_7field_pct": 100,
+      "before_10field_pct": 0,
+      "after_10field_pct": 100,
+      "delta_10": 100,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "OFFICIAL"
+      }
+    },
+    {
+      "developer": "sansiri",
+      "slug": "the-base-sukhumvit-77",
+      "before_7field_pct": 0,
+      "after_7field_pct": 28.6,
+      "before_10field_pct": 0,
+      "after_10field_pct": 20,
+      "delta_10": 20,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "official_address": "UNVERIFIED",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "sansiri",
+      "slug": "condo-u-sukhumvit-62-1",
+      "before_7field_pct": 0,
+      "after_7field_pct": 0,
+      "before_10field_pct": 0,
+      "after_10field_pct": 0,
+      "delta_10": 0,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "mqdc",
+      "slug": "the-forestias",
+      "before_7field_pct": 57.1,
+      "after_7field_pct": 57.1,
+      "before_10field_pct": 40,
+      "after_10field_pct": 40,
+      "delta_10": 0,
+      "before_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "mqdc",
+      "slug": "whizdom-essence",
+      "before_7field_pct": 0,
+      "after_7field_pct": 57.1,
+      "before_10field_pct": 0,
+      "after_10field_pct": 60,
+      "delta_10": 60,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "supalai",
+      "slug": "supalai-oriental-sukhumvit-39",
+      "before_7field_pct": 28.6,
+      "after_7field_pct": 85.7,
+      "before_10field_pct": 50,
+      "after_10field_pct": 90,
+      "delta_10": 40,
+      "before_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "VERIFIED_PORTAL",
+        "completion_year": "VERIFIED_PORTAL"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "supalai",
+      "slug": "supalai-elite-phayathai",
+      "before_7field_pct": 0,
+      "after_7field_pct": 0,
+      "before_10field_pct": 0,
+      "after_10field_pct": 0,
+      "delta_10": 0,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "supalai",
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "before_7field_pct": 0,
+      "after_7field_pct": 0,
+      "before_10field_pct": 0,
+      "after_10field_pct": 0,
+      "delta_10": 0,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "supalai",
+      "slug": "supalai-veranda-rama-9",
+      "before_7field_pct": 0,
+      "after_7field_pct": 0,
+      "before_10field_pct": 0,
+      "after_10field_pct": 0,
+      "delta_10": 0,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "ananda-development",
+      "slug": "ashton-asoke",
+      "before_7field_pct": 71.4,
+      "after_7field_pct": 71.4,
+      "before_10field_pct": 80,
+      "after_10field_pct": 80,
+      "delta_10": 0,
+      "before_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "VERIFIED_PORTAL"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "ananda-development",
+      "slug": "ideo-q-sukhumvit-36",
+      "before_7field_pct": 57.1,
+      "after_7field_pct": 71.4,
+      "before_10field_pct": 70,
+      "after_10field_pct": 80,
+      "delta_10": 10,
+      "before_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "VERIFIED_PORTAL"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "ananda-development",
+      "slug": "ideo-rama-9",
+      "before_7field_pct": 0,
+      "after_7field_pct": 71.4,
+      "before_10field_pct": 0,
+      "after_10field_pct": 80,
+      "delta_10": 80,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "ananda-development",
+      "slug": "ideo-mobi-sukhumvit-66",
+      "before_7field_pct": 0,
+      "after_7field_pct": 0,
+      "before_10field_pct": 0,
+      "after_10field_pct": 0,
+      "delta_10": 0,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "VERIFIED_PORTAL",
+        "completion_year": "VERIFIED_PORTAL"
+      },
+      "after_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "assetwise",
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "before_7field_pct": 0,
+      "after_7field_pct": 85.7,
+      "before_10field_pct": 0,
+      "after_10field_pct": 90,
+      "delta_10": 90,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED"
+      }
+    },
+    {
+      "developer": "assetwise",
+      "slug": "kave-town-space",
+      "before_7field_pct": 0,
+      "after_7field_pct": 0,
+      "before_10field_pct": 0,
+      "after_10field_pct": 0,
+      "delta_10": 0,
+      "before_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "VERIFIED_PORTAL",
+        "official_address": "VERIFIED_PORTAL",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      },
+      "after_detail": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED"
+      }
+    }
+  ],
+  "summary": {
+    "developer_completeness": {
+      "before_avg_pct": 100,
+      "after_avg_pct": 100,
+      "batch_reported_after_avg_pct": 100
+    },
+    "project_completeness_10field": {
+      "before_avg_pct": 18.6,
+      "after_avg_pct": 54.5
+    },
+    "project_completeness_7field_review_dims": {
+      "before_avg_pct": 18.2,
+      "after_avg_pct": 53.9
+    },
+    "official_logos": {
+      "before": 6,
+      "after": 6,
+      "n": 6,
+      "before_pct": 100,
+      "after_pct": 100
+    },
+    "field_official_coverage": {
+      "n_projects": 22,
+      "before_counts": {
+        "official_gallery": 8,
+        "official_brochure": 1,
+        "official_floor_plan": 3,
+        "official_facilities": 5,
+        "official_address": 4,
+        "project_status": 7,
+        "completion_year": 0
+      },
+      "after_counts": {
+        "official_gallery": 14,
+        "official_brochure": 9,
+        "official_floor_plan": 11,
+        "official_facilities": 15,
+        "official_address": 15,
+        "project_status": 16,
+        "completion_year": 3
+      },
+      "before_pct": {
+        "official_gallery": 36.4,
+        "official_brochure": 4.5,
+        "official_floor_plan": 13.6,
+        "official_facilities": 22.7,
+        "official_address": 18.2,
+        "project_status": 31.8,
+        "completion_year": 0
+      },
+      "after_pct": {
+        "official_gallery": 63.6,
+        "official_brochure": 40.9,
+        "official_floor_plan": 50,
+        "official_facilities": 68.2,
+        "official_address": 68.2,
+        "project_status": 72.7,
+        "completion_year": 13.6
+      }
+    },
+    "phase11_mean_combined_pct": 76.1,
+    "zero_pct_projects": [
+      "condo-u-sukhumvit-62-1",
+      "supalai-elite-phayathai",
+      "supalai-lite-sathorn-charoenrat",
+      "supalai-veranda-rama-9",
+      "ideo-mobi-sukhumvit-66",
+      "kave-town-space"
+    ],
+    "improved_projects": 13,
+    "unchanged_projects": 9
+  }
+}
