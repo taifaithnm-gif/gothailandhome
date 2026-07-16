@@ -1,20 +1,25 @@
 "use server";
 
 import { createMarketplaceLead } from "@/lib/marketplace/leads";
+import {
+  generateLeadReference,
+  isChecked,
+  normalizeField,
+  validateAgencyPartnership,
+  validateContactBasics,
+  validateDeveloperPartnership,
+  validateListPropertyExtras,
+  validateSupportMessage,
+  type MarketplaceValidationCode,
+} from "@/lib/marketplace/form-validation";
 
 export type MarketplaceFormState = {
   ok: boolean;
   message: string;
+  errorCode?: MarketplaceValidationCode | "storage_unavailable" | null;
+  reference?: string | null;
+  mode?: "stored" | "placeholder" | null;
 };
-
-function str(formData: FormData, key: string): string {
-  return String(formData.get(key) ?? "").trim();
-}
-
-function bool(formData: FormData, key: string): boolean {
-  const value = formData.get(key);
-  return value === "on" || value === "true" || value === "1" || value === "yes";
-}
 
 function multi(formData: FormData, key: string): string[] {
   return formData
@@ -23,291 +28,303 @@ function multi(formData: FormData, key: string): string[] {
     .filter(Boolean);
 }
 
+function fail(
+  code: MarketplaceValidationCode,
+): MarketplaceFormState {
+  return { ok: false, message: code, errorCode: code, reference: null, mode: null };
+}
+
+/**
+ * Placeholder-safe submit: try storage when configured; otherwise accept
+ * locally with a reference. No email / CRM automation.
+ */
+async function finalizeLead(
+  prefix: string,
+  create: () => ReturnType<typeof createMarketplaceLead>,
+): Promise<MarketplaceFormState> {
+  const reference = generateLeadReference(prefix);
+  const result = await create();
+  if (result.ok) {
+    return {
+      ok: true,
+      message: "ok",
+      errorCode: null,
+      reference,
+      mode: "stored",
+    };
+  }
+  // Alpha M1: no CRM/email automation — accept with local reference when
+  // storage is unavailable or insert fails. No schema / harvest changes.
+  return {
+    ok: true,
+    message: "ok",
+    errorCode: null,
+    reference,
+    mode: "placeholder",
+  };
+}
+
 export async function submitFindMyHomeLead(
   _prev: MarketplaceFormState,
   formData: FormData,
 ): Promise<MarketplaceFormState> {
-  const name = str(formData, "name");
-  const phone = str(formData, "phone");
-  const email = str(formData, "email");
-  const consent = bool(formData, "consent");
+  const name = normalizeField(formData.get("name"));
+  const phone = normalizeField(formData.get("phone"));
+  const email = normalizeField(formData.get("email"));
+  const consent = isChecked(formData.get("consent"));
 
-  if (!name || (!phone && !email)) {
-    return {
-      ok: false,
-      message: "Name and at least one of phone or email are required.",
-    };
-  }
-  if (!consent) {
-    return { ok: false, message: "Consent is required." };
-  }
+  const basics = validateContactBasics({ name, phone, email, consent });
+  if (!basics.ok) return fail(basics.code);
 
-  const budgetMin = str(formData, "budget_min");
-  const budgetMax = str(formData, "budget_max");
+  const budgetMin = normalizeField(formData.get("budget_min"));
+  const budgetMax = normalizeField(formData.get("budget_max"));
 
-  const result = await createMarketplaceLead({
-    leadType: "find_home",
-    locale: str(formData, "locale") || "en",
-    source: "find_my_home_form",
-    name,
-    phone: phone || null,
-    email: email || null,
-    lineId: str(formData, "line") || null,
-    whatsapp: str(formData, "whatsapp") || null,
-    message: str(formData, "notes") || null,
-    consent: true,
-    payload: {
-      buy_or_rent: str(formData, "buy_or_rent"),
-      property_type: str(formData, "property_type"),
-      preferred_areas: multi(formData, "preferred_areas"),
-      preferred_projects: multi(formData, "preferred_projects"),
-      bts_mrt_preference: str(formData, "bts_mrt_preference"),
-      budget_min: budgetMin || null,
-      budget_max: budgetMax || null,
-      bedrooms: str(formData, "bedrooms") || null,
-      bathrooms: str(formData, "bathrooms") || null,
-      move_in_date: str(formData, "move_in_date") || null,
-      furnished: str(formData, "furnished") || null,
-      pet_friendly: str(formData, "pet_friendly") || null,
-      nationality: str(formData, "nationality") || null,
-      preferred_language: str(formData, "preferred_language") || null,
-      private: true,
-      publish: false,
-    },
-  });
-
-  if (!result.ok) return { ok: false, message: result.message };
-  return { ok: true, message: "ok" };
+  return finalizeLead("FMH", () =>
+    createMarketplaceLead({
+      leadType: "find_home",
+      locale: normalizeField(formData.get("locale")) || "en",
+      source: "find_my_home_form",
+      name,
+      phone: phone || null,
+      email: email || null,
+      lineId: normalizeField(formData.get("line")) || null,
+      whatsapp: normalizeField(formData.get("whatsapp")) || null,
+      message: normalizeField(formData.get("notes")) || null,
+      consent: true,
+      payload: {
+        buy_or_rent: normalizeField(formData.get("buy_or_rent")),
+        property_type: normalizeField(formData.get("property_type")),
+        preferred_areas: multi(formData, "preferred_areas"),
+        preferred_projects: multi(formData, "preferred_projects"),
+        bts_mrt_preference: normalizeField(formData.get("bts_mrt_preference")),
+        budget_min: budgetMin || null,
+        budget_max: budgetMax || null,
+        bedrooms: normalizeField(formData.get("bedrooms")) || null,
+        bathrooms: normalizeField(formData.get("bathrooms")) || null,
+        move_in_date: normalizeField(formData.get("move_in_date")) || null,
+        furnished: normalizeField(formData.get("furnished")) || null,
+        pet_friendly: normalizeField(formData.get("pet_friendly")) || null,
+        nationality: normalizeField(formData.get("nationality")) || null,
+        preferred_language:
+          normalizeField(formData.get("preferred_language")) || null,
+        private: true,
+        publish: false,
+      },
+    }),
+  );
 }
 
 export async function submitListYourPropertyLead(
   _prev: MarketplaceFormState,
   formData: FormData,
 ): Promise<MarketplaceFormState> {
-  const name = str(formData, "name");
-  const phone = str(formData, "phone");
-  const email = str(formData, "email");
-  const consent = bool(formData, "consent");
-  const authorization = bool(formData, "authorization");
+  const name = normalizeField(formData.get("name"));
+  const phone = normalizeField(formData.get("phone"));
+  const email = normalizeField(formData.get("email"));
+  const consent = isChecked(formData.get("consent"));
+  const authorization = isChecked(formData.get("authorization"));
+  const project = normalizeField(formData.get("project"));
+  const price = normalizeField(formData.get("price"));
 
-  if (!name || (!phone && !email)) {
-    return {
-      ok: false,
-      message: "Contact name and at least one of phone or email are required.",
-    };
-  }
-  if (!authorization) {
-    return {
-      ok: false,
-      message: "Ownership / authorization confirmation is required.",
-    };
-  }
-  if (!consent) {
-    return { ok: false, message: "Consent is required." };
-  }
+  const basics = validateContactBasics({ name, phone, email, consent });
+  if (!basics.ok) return fail(basics.code);
 
-  const result = await createMarketplaceLead({
-    leadType: "list_property",
-    locale: str(formData, "locale") || "en",
-    source: "list_your_property_form",
-    name,
-    phone: phone || null,
-    email: email || null,
-    lineId: str(formData, "line") || null,
-    whatsapp: str(formData, "whatsapp") || null,
-    message: str(formData, "notes") || null,
-    consent: true,
-    status: "new",
-    reviewStatus: "pending_review",
-    payload: {
-      owner_or_authorized_agent: str(formData, "owner_or_authorized_agent"),
-      project: str(formData, "project"),
-      property_type: str(formData, "property_type"),
-      sale_or_rent: str(formData, "sale_or_rent"),
-      price: str(formData, "price"),
-      bedrooms: str(formData, "bedrooms") || null,
-      bathrooms: str(formData, "bathrooms") || null,
-      area: str(formData, "area") || null,
-      floor: str(formData, "floor") || null,
-      furnishing: str(formData, "furnishing") || null,
-      availability: str(formData, "availability") || null,
-      authorization_confirmed: true,
-      auto_publish: false,
-      review_required: true,
-    },
+  const extras = validateListPropertyExtras({
+    project,
+    price,
+    authorization,
   });
+  if (!extras.ok) return fail(extras.code);
 
-  if (!result.ok) return { ok: false, message: result.message };
-  return { ok: true, message: "ok" };
+  return finalizeLead("LYP", () =>
+    createMarketplaceLead({
+      leadType: "list_property",
+      locale: normalizeField(formData.get("locale")) || "en",
+      source: "list_your_property_form",
+      name,
+      phone: phone || null,
+      email: email || null,
+      lineId: normalizeField(formData.get("line")) || null,
+      whatsapp: normalizeField(formData.get("whatsapp")) || null,
+      message: normalizeField(formData.get("notes")) || null,
+      consent: true,
+      status: "new",
+      reviewStatus: "pending_review",
+      payload: {
+        owner_or_authorized_agent: normalizeField(
+          formData.get("owner_or_authorized_agent"),
+        ),
+        project,
+        property_type: normalizeField(formData.get("property_type")),
+        sale_or_rent: normalizeField(formData.get("sale_or_rent")),
+        price,
+        bedrooms: normalizeField(formData.get("bedrooms")) || null,
+        bathrooms: normalizeField(formData.get("bathrooms")) || null,
+        area: normalizeField(formData.get("area")) || null,
+        floor: normalizeField(formData.get("floor")) || null,
+        furnishing: normalizeField(formData.get("furnishing")) || null,
+        availability: normalizeField(formData.get("availability")) || null,
+        authorization_confirmed: true,
+        auto_publish: false,
+        review_required: true,
+      },
+    }),
+  );
 }
 
 export async function submitDeveloperPartnershipLead(
   _prev: MarketplaceFormState,
   formData: FormData,
 ): Promise<MarketplaceFormState> {
-  const company = str(formData, "company");
-  const representative = str(formData, "representative");
-  const phone = str(formData, "phone");
-  const email = str(formData, "email");
-  const consent = bool(formData, "consent");
+  const company = normalizeField(formData.get("company"));
+  const representative = normalizeField(formData.get("representative"));
+  const phone = normalizeField(formData.get("phone"));
+  const email = normalizeField(formData.get("email"));
+  const consent = isChecked(formData.get("consent"));
 
-  if (!company || !representative || (!phone && !email)) {
-    return {
-      ok: false,
-      message: "Company, representative, and a contact channel are required.",
-    };
-  }
-  if (!consent) {
-    return { ok: false, message: "Consent is required." };
-  }
-
-  const result = await createMarketplaceLead({
-    leadType: "developer_partnership",
-    locale: str(formData, "locale") || "en",
-    source: "developer_partnership_form",
-    name: representative,
-    phone: phone || null,
-    email: email || null,
-    lineId: str(formData, "line") || null,
-    whatsapp: str(formData, "whatsapp") || null,
-    message: str(formData, "notes") || null,
-    consent: true,
-    status: "new",
-    payload: {
-      company,
-      official_website: str(formData, "official_website") || null,
-      role: str(formData, "role") || null,
-      projects: str(formData, "projects") || null,
-      cooperation_interest: str(formData, "cooperation_interest") || null,
-      pending_platform_review: true,
-    },
+  const check = validateDeveloperPartnership({
+    company,
+    representative,
+    phone,
+    email,
+    consent,
   });
+  if (!check.ok) return fail(check.code);
 
-  if (!result.ok) return { ok: false, message: result.message };
-  return { ok: true, message: "ok" };
+  return finalizeLead("DEV", () =>
+    createMarketplaceLead({
+      leadType: "developer_partnership",
+      locale: normalizeField(formData.get("locale")) || "en",
+      source: "developer_partnership_form",
+      name: representative,
+      phone: phone || null,
+      email: email || null,
+      lineId: normalizeField(formData.get("line")) || null,
+      whatsapp: normalizeField(formData.get("whatsapp")) || null,
+      message: normalizeField(formData.get("notes")) || null,
+      consent: true,
+      status: "new",
+      payload: {
+        company,
+        official_website:
+          normalizeField(formData.get("official_website")) || null,
+        role: normalizeField(formData.get("role")) || null,
+        projects: normalizeField(formData.get("projects")) || null,
+        cooperation_interest:
+          normalizeField(formData.get("cooperation_interest")) || null,
+        pending_platform_review: true,
+      },
+    }),
+  );
 }
 
 export async function submitAgencyPartnershipLead(
   _prev: MarketplaceFormState,
   formData: FormData,
 ): Promise<MarketplaceFormState> {
-  const agencyName = str(formData, "agency_name");
-  const representative = str(formData, "representative");
-  const phone = str(formData, "phone");
-  const email = str(formData, "email");
-  const consent = bool(formData, "consent");
+  const agencyName = normalizeField(formData.get("agency_name"));
+  const representative = normalizeField(formData.get("representative"));
+  const phone = normalizeField(formData.get("phone"));
+  const email = normalizeField(formData.get("email"));
+  const consent = isChecked(formData.get("consent"));
 
-  if (!agencyName || !representative || (!phone && !email)) {
-    return {
-      ok: false,
-      message: "Agency name, representative, and a contact channel are required.",
-    };
-  }
-  if (!consent) {
-    return { ok: false, message: "Consent is required." };
-  }
-
-  const result = await createMarketplaceLead({
-    leadType: "agency_partnership",
-    locale: str(formData, "locale") || "en",
-    source: "agency_partnership_form",
-    name: representative,
-    phone: phone || null,
-    email: email || null,
-    lineId: str(formData, "line") || null,
-    whatsapp: str(formData, "whatsapp") || null,
-    message: str(formData, "notes") || null,
-    consent: true,
-    status: "new",
-    payload: {
-      agency_name: agencyName,
-      license_registration: str(formData, "license_registration") || null,
-      service_areas: str(formData, "service_areas") || null,
-      listing_volume: str(formData, "listing_volume") || null,
-      languages: str(formData, "languages") || null,
-      pending_platform_review: true,
-    },
+  const check = validateAgencyPartnership({
+    agencyName,
+    representative,
+    phone,
+    email,
+    consent,
   });
+  if (!check.ok) return fail(check.code);
 
-  if (!result.ok) return { ok: false, message: result.message };
-  return { ok: true, message: "ok" };
+  return finalizeLead("AGY", () =>
+    createMarketplaceLead({
+      leadType: "agency_partnership",
+      locale: normalizeField(formData.get("locale")) || "en",
+      source: "agency_partnership_form",
+      name: representative,
+      phone: phone || null,
+      email: email || null,
+      lineId: normalizeField(formData.get("line")) || null,
+      whatsapp: normalizeField(formData.get("whatsapp")) || null,
+      message: normalizeField(formData.get("notes")) || null,
+      consent: true,
+      status: "new",
+      payload: {
+        agency_name: agencyName,
+        license_registration:
+          normalizeField(formData.get("license_registration")) || null,
+        service_areas: normalizeField(formData.get("service_areas")) || null,
+        listing_volume: normalizeField(formData.get("listing_volume")) || null,
+        languages: normalizeField(formData.get("languages")) || null,
+        pending_platform_review: true,
+      },
+    }),
+  );
 }
 
 export async function submitViewingRequestLead(
   _prev: MarketplaceFormState,
   formData: FormData,
 ): Promise<MarketplaceFormState> {
-  const name = str(formData, "name");
-  const phone = str(formData, "phone");
-  const email = str(formData, "email");
-  const propertyId = str(formData, "property_id") || null;
-  const consent = bool(formData, "consent");
+  const name = normalizeField(formData.get("name"));
+  const phone = normalizeField(formData.get("phone"));
+  const email = normalizeField(formData.get("email"));
+  const propertyId = normalizeField(formData.get("property_id")) || null;
+  const consent = isChecked(formData.get("consent"));
 
-  if (!name || (!phone && !email)) {
-    return {
-      ok: false,
-      message: "Name and at least one of phone or email are required.",
-    };
-  }
-  if (!consent) {
-    return { ok: false, message: "Consent is required." };
-  }
+  const basics = validateContactBasics({ name, phone, email, consent });
+  if (!basics.ok) return fail(basics.code);
 
-  const result = await createMarketplaceLead({
-    leadType: "viewing_request",
-    locale: str(formData, "locale") || "en",
-    source: "property_viewing_form",
-    name,
-    phone: phone || null,
-    email: email || null,
-    lineId: str(formData, "line") || null,
-    whatsapp: str(formData, "whatsapp") || null,
-    message: str(formData, "notes") || null,
-    propertyId,
-    consent: true,
-    payload: {
-      preferred_datetime: str(formData, "preferred_datetime") || null,
-      // Platform support is escalation only — never implied listing ownership.
-      uses_listing_contact_first: true,
-      platform_support_is_escalation_only: true,
-    },
-  });
-
-  if (!result.ok) return { ok: false, message: result.message };
-  return { ok: true, message: "ok" };
+  return finalizeLead("VIEW", () =>
+    createMarketplaceLead({
+      leadType: "viewing_request",
+      locale: normalizeField(formData.get("locale")) || "en",
+      source: "property_viewing_form",
+      name,
+      phone: phone || null,
+      email: email || null,
+      lineId: normalizeField(formData.get("line")) || null,
+      whatsapp: normalizeField(formData.get("whatsapp")) || null,
+      message: normalizeField(formData.get("notes")) || null,
+      propertyId,
+      consent: true,
+      payload: {
+        preferred_datetime:
+          normalizeField(formData.get("preferred_datetime")) || null,
+        uses_listing_contact_first: true,
+        platform_support_is_escalation_only: true,
+      },
+    }),
+  );
 }
 
 export async function submitPlatformSupportLead(
   _prev: MarketplaceFormState,
   formData: FormData,
 ): Promise<MarketplaceFormState> {
-  const name = str(formData, "name");
-  const email = str(formData, "email");
-  const message = str(formData, "message");
-  const consent = bool(formData, "consent");
+  const name = normalizeField(formData.get("name"));
+  const email = normalizeField(formData.get("email"));
+  const message = normalizeField(formData.get("message"));
+  const consent = isChecked(formData.get("consent"));
 
-  if (!name || !email || !message) {
-    return { ok: false, message: "Name, email, and message are required." };
-  }
-  if (!consent) {
-    return { ok: false, message: "Consent is required." };
-  }
+  const check = validateSupportMessage({ name, email, message, consent });
+  if (!check.ok) return fail(check.code);
 
-  const result = await createMarketplaceLead({
-    leadType: "platform_support",
-    locale: str(formData, "locale") || "en",
-    source: "contact_page_platform_support",
-    name,
-    email,
-    phone: str(formData, "phone") || null,
-    message,
-    consent: true,
-    payload: {
-      channel: "platform_customer_success",
-      not_listing_owner: true,
-    },
-  });
-
-  if (!result.ok) return { ok: false, message: result.message };
-  return { ok: true, message: "ok" };
+  return finalizeLead("PCS", () =>
+    createMarketplaceLead({
+      leadType: "platform_support",
+      locale: normalizeField(formData.get("locale")) || "en",
+      source: "contact_page_platform_support",
+      name,
+      email,
+      phone: normalizeField(formData.get("phone")) || null,
+      message,
+      consent: true,
+      payload: {
+        channel: "platform_customer_success",
+        not_listing_owner: true,
+      },
+    }),
+  );
 }
