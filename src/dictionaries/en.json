@@ -39,11 +39,17 @@
     "leadSuccessTitle": "Request received | GoThailandHome",
     "leadSuccessDescription": "Your marketplace lead was received. No automated CRM email was sent.",
     "leadErrorTitle": "Request could not be completed | GoThailandHome",
-    "leadErrorDescription": "Something went wrong with this marketplace lead. You can try again or contact Platform Customer Success."
+    "leadErrorDescription": "Something went wrong with this marketplace lead. You can try again or contact Platform Customer Success.",
+    "buyTitle": "Buy in Bangkok | GoThailandHome",
+    "buyDescription": "Browse verified public Bangkok sale listings. GoThailandHome is a discovery marketplace, not the listing agent.",
+    "rentTitle": "Rent in Bangkok | GoThailandHome",
+    "rentDescription": "Browse verified public Bangkok rent listings. GoThailandHome is a discovery marketplace, not the listing agent."
   },
   "nav": {
     "home": "Home",
     "properties": "Properties",
+    "buy": "Buy",
+    "rent": "Rent",
     "projects": "Projects",
     "search": "Search",
     "about": "About",
@@ -417,6 +423,21 @@
     "backToForm": "Back to form",
     "backToMarketplace": "Marketplace",
     "tryAgain": "Try again"
+  },
+  "buyRent": {
+    "buyTitle": "Buy",
+    "buySubtitle": "Verified public Bangkok sale listings from indexed sources.",
+    "rentTitle": "Rent",
+    "rentSubtitle": "Verified public Bangkok rent listings from indexed sources.",
+    "trustNote": "GoThailandHome indexes public listings. We are not the listing agent.",
+    "inventoryNote": "Counts below are verified listings currently published on this platform — not a complete market census.",
+    "verifiedSaleCount": "verified sale listings on platform",
+    "verifiedRentCount": "verified rent listings on platform",
+    "previewTitle": "Latest verified listings",
+    "browseSale": "Browse all sale listings",
+    "browseRent": "Browse all rent listings",
+    "switchToRent": "Looking to rent?",
+    "switchToBuy": "Looking to buy?"
   },
   "districtCenter": {
     "heroEyebrow": "District center",

@@ -13,6 +13,8 @@ export function SiteFooter({ locale, dict }: SiteFooterProps) {
   const year = new Date().getFullYear();
 
   const explore = [
+    { href: localePath(locale, "/buy"), label: dict.nav.buy },
+    { href: localePath(locale, "/rent"), label: dict.nav.rent },
     { href: localePath(locale, "/properties"), label: dict.nav.properties },
     { href: localePath(locale, "/projects"), label: dict.nav.projects },
     { href: localePath(locale, "/cities"), label: dict.nav.cities },

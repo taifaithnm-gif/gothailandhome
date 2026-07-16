@@ -39,11 +39,17 @@
     "leadSuccessTitle": "已收到请求 | GoThailandHome",
     "leadSuccessDescription": "已收到您的市场线索。未发送自动 CRM 邮件。",
     "leadErrorTitle": "请求未能完成 | GoThailandHome",
-    "leadErrorDescription": "该市场线索处理出错。可重试或联系平台客户成功。"
+    "leadErrorDescription": "该市场线索处理出错。可重试或联系平台客户成功。",
+    "buyTitle": "买房 | GoThailandHome",
+    "buyDescription": "浏览曼谷已核对公开出售挂牌。GoThailandHome 是发现平台，不是挂牌中介。",
+    "rentTitle": "租房 | GoThailandHome",
+    "rentDescription": "浏览曼谷已核对公开出租挂牌。GoThailandHome 是发现平台，不是挂牌中介。"
   },
   "nav": {
     "home": "首页",
     "properties": "房源",
+    "buy": "买房",
+    "rent": "租房",
     "projects": "项目",
     "search": "搜索",
     "about": "关于",
@@ -417,6 +423,21 @@
     "backToForm": "返回表单",
     "backToMarketplace": "市场入口",
     "tryAgain": "重试"
+  },
+  "buyRent": {
+    "buyTitle": "买房",
+    "buySubtitle": "来自已索引来源的曼谷已核对公开出售挂牌。",
+    "rentTitle": "租房",
+    "rentSubtitle": "来自已索引来源的曼谷已核对公开出租挂牌。",
+    "trustNote": "GoThailandHome 索引公开挂牌。我们不是挂牌中介。",
+    "inventoryNote": "以下数量为本平台当前已发布的已核对挂牌——并非完整市场普查。",
+    "verifiedSaleCount": "套平台已核对出售挂牌",
+    "verifiedRentCount": "套平台已核对出租挂牌",
+    "previewTitle": "最新已核对挂牌",
+    "browseSale": "浏览全部出售挂牌",
+    "browseRent": "浏览全部出租挂牌",
+    "switchToRent": "想租房？",
+    "switchToBuy": "想买房？"
   },
   "districtCenter": {
     "heroEyebrow": "区域中心",

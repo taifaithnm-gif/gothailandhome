@@ -9,6 +9,8 @@ import { listPublishedProperties } from "@/lib/data/properties";
 
 const staticPaths = [
   "",
+  "/buy",
+  "/rent",
   "/properties",
   "/projects",
   "/cities",
