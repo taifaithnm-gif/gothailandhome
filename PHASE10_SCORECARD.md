@@ -13,7 +13,7 @@
 | 3 / 3b | Project Official Completion | **FAIL ~40.5%** six-field (target 70%) — media wall | `3524ad5` / `72df022` |
 | 4a | District Official Amenities | **FAIL 59.3%** (target 90%+) | `f38d1d2` |
 | 4b | Official Media Library | Catalog built; **~71%** completeness; logos 20/20; heroes/galleries hotlink-only | `d6a1528` |
-| 5 | District Knowledge Base | **FAIL 79%** ten-field (target 90%+; Places harvest deepen) | upcoming |
+| 5 | District Knowledge Base | **FAIL 79%** ten-field (target 90%+; Places harvest deepen) | `c231b40` |
 
 ## Platform credibility (equal-weight families)
 
