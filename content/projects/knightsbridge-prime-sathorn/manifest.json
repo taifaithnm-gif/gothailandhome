@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "KnightsBridge Prime Sathorn official project page",
+      "url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
+    },
+    {
+      "type": "official_developer",
       "name": "Knightsbridge Prime Sathorn official / developer page",
       "url": "https://www.origin.co.th/"
     },
@@ -55,15 +60,15 @@
       "th": "ไนท์บริดจ์ ไพร์ม สาทร เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา ออริจิ้น พร็อพเพอร์ตี้ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
     },
     "address": {
-      "en": "Yan Nawa, Bangkok",
-      "zh": "曼谷央那瓦",
-      "th": "ยานนาวา กรุงเทพฯ"
+      "en": "Near Sathorn Road / BRT Arkarn Song-Khro, Bangkok (450m from Sathorn Road; 650m from BTS Chong Nonsi)",
+      "zh": "Near Sathorn Road / BRT Arkarn Song-Khro, Bangkok (450m from Sathorn Road; 650m from BTS Chong Nonsi)",
+      "th": "Near Sathorn Road / BRT Arkarn Song-Khro, Bangkok (450m from Sathorn Road; 650m from BTS Chong Nonsi)"
     },
     "postal_code": "10120",
     "latitude": 13.71689371382067,
     "longitude": 100.5329907391493,
     "google_maps_url": "https://www.google.com/maps?q=13.71689371382067,100.5329907391493",
-    "official_website": "https://www.origin.co.th/",
+    "official_website": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
     "facebook_url": "https://www.facebook.com/OriginProperty",
     "completion_year": 2019,
     "transit_tags": [
@@ -85,85 +90,114 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "pool",
+        "key": "lobby",
         "name": {
-          "en": "Swimming pool",
-          "zh": "Swimming pool",
-          "th": "Swimming pool"
+          "en": "Lobby",
+          "zh": "Lobby",
+          "th": "Lobby"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
       },
       {
-        "key": "fitness",
+        "key": "mailbox",
         "name": {
-          "en": "Fitness / gym",
-          "zh": "Fitness / gym",
-          "th": "Fitness / gym"
+          "en": "Mailbox",
+          "zh": "Mailbox",
+          "th": "Mailbox"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
       },
       {
-        "key": "parking",
+        "key": "swimming_pool",
         "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
+          "en": "Swimming Pool",
+          "zh": "Swimming Pool",
+          "th": "Swimming Pool"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
       },
       {
-        "key": "security",
+        "key": "fitness_room",
         "name": {
-          "en": "24h security",
-          "zh": "24h security",
-          "th": "24h security"
+          "en": "Fitness room",
+          "zh": "Fitness room",
+          "th": "Fitness room"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
       },
       {
-        "key": "park",
+        "key": "library_room",
         "name": {
-          "en": "Garden / courtyard",
-          "zh": "Garden / courtyard",
-          "th": "Garden / courtyard"
+          "en": "Library room",
+          "zh": "Library room",
+          "th": "Library room"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
       },
       {
-        "key": "library",
+        "key": "jogging_track",
         "name": {
-          "en": "Library",
-          "zh": "Library",
-          "th": "Library"
+          "en": "Jogging Track",
+          "zh": "Jogging Track",
+          "th": "Jogging Track"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
       },
       {
-        "key": "lift",
+        "key": "green_park",
         "name": {
-          "en": "Elevator",
-          "zh": "Elevator",
-          "th": "Elevator"
+          "en": "Green Park",
+          "zh": "Green Park",
+          "th": "Green Park"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
       },
       {
-        "key": "cctv",
+        "key": "auto_parking_70",
         "name": {
-          "en": "CCTV",
-          "zh": "CCTV",
-          "th": "CCTV"
+          "en": "Auto-parking 70%",
+          "zh": "Auto-parking 70%",
+          "th": "Auto-parking 70%"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
       },
       {
-        "key": "keycard",
+        "key": "24hours_cctv",
         "name": {
-          "en": "Keycard access",
-          "zh": "Keycard access",
-          "th": "Keycard access"
+          "en": "24hours CCTV",
+          "zh": "24hours CCTV",
+          "th": "24hours CCTV"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
+      },
+      {
+        "key": "key_card_access_control",
+        "name": {
+          "en": "Key card access control",
+          "zh": "Key card access control",
+          "th": "Key card access control"
+        },
+        "source": "official_developer",
+        "source_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
+      },
+      {
+        "key": "24hours_security_guard",
+        "name": {
+          "en": "24hours security guard",
+          "zh": "24hours security guard",
+          "th": "24hours security guard"
+        },
+        "source": "official_developer",
+        "source_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
       }
     ],
     "nearby_schools": [
@@ -633,69 +667,146 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
-    }
+    },
+    "total_units": 726,
+    "unit_count": 726,
+    "floor_count": 43,
+    "floors": 43,
+    "building_count": 1,
+    "buildings": 1
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.origin.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+        "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated."
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.origin.co.th/"
+      "value": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.origin.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+        "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated."
       },
       "verified_at": "2026-07-16",
-      "value": "Yan Nawa, Bangkok"
+      "value": "Near Sathorn Road / BRT Arkarn Song-Khro, Bangkok (450m from Sathorn Road; 650m from BTS Chong Nonsi)"
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.origin.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+        "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated."
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "value": "11 gallery URLs (hotlink)"
     },
     "official_brochure": {
       "field": "official_brochure",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.origin.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://en.origin.co.th/wp-content/uploads/2019/04/KNB-Prime-Sathorn-A4-.pdf",
+        "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated."
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "https://en.origin.co.th/wp-content/uploads/2019/04/KNB-Prime-Sathorn-A4-.pdf"
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.origin.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+        "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated."
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "Official floor / unit plan section"
     },
     "official_facilities": {
       "field": "official_facilities",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.origin.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+        "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated."
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": [
+        "Lobby",
+        "Mailbox",
+        "Swimming Pool",
+        "Fitness room",
+        "Library room",
+        "Jogging Track",
+        "Green Park",
+        "Auto-parking 70%",
+        "24hours CCTV",
+        "Key card access control",
+        "24hours security guard"
+      ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+        "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated."
+      },
+      "verified_at": "2026-07-16",
+      "value": "completed"
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+        "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated."
+      },
+      "verified_at": "2026-07-16"
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+        "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated."
+      },
+      "verified_at": "2026-07-16",
+      "value": 1
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+        "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated."
+      },
+      "verified_at": "2026-07-16",
+      "value": 43
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+        "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated."
+      },
+      "verified_at": "2026-07-16",
+      "value": 726
     }
   },
   "project_master": {
@@ -714,6 +825,52 @@
       "rights_note": "hotlink",
       "download_status": "placeholder_pending_official_mirror",
       "placeholder_path": null
+    },
+    "gallery": {
+      "official_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+      "copyright_source": "© origin-property / KnightsBridge Prime Sathorn",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license",
+      "gallery_image_urls": [
+        "https://en.origin.co.th/wp-content/uploads/2019/04/1474541692-1-2.jpg",
+        "https://en.origin.co.th/wp-content/uploads/2019/04/1474541701-1-1.jpg",
+        "https://en.origin.co.th/wp-content/uploads/2019/04/1474541711-1.jpg",
+        "https://en.origin.co.th/wp-content/uploads/2019/04/1474541721-1.jpg",
+        "https://en.origin.co.th/wp-content/uploads/2019/04/1474541730-1.jpg",
+        "https://en.origin.co.th/wp-content/uploads/2019/04/1474541745-1.jpg",
+        "https://en.origin.co.th/wp-content/uploads/2019/04/1474541759-1.jpg",
+        "https://en.origin.co.th/wp-content/uploads/2019/04/1474541768-1.jpg",
+        "https://en.origin.co.th/wp-content/uploads/2019/04/1474541778-1.jpg",
+        "https://en.origin.co.th/wp-content/uploads/2019/04/1474541788-1-1.jpg",
+        "https://en.origin.co.th/wp-content/uploads/2019/04/1474541797-1.jpg"
+      ]
+    },
+    "brochure": {
+      "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/KNB-Prime-Sathorn-A4-.pdf",
+      "copyright_source": "© origin-property / KnightsBridge Prime Sathorn — official brochure PDF",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "floor_plans": {
+      "official_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+      "copyright_source": "© origin-property / KnightsBridge Prime Sathorn",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "not_downloaded_pending_license"
     }
+  },
+  "project_factory": {
+    "phase": "11-wave-2",
+    "verified_at": "2026-07-16",
+    "wave": 2,
+    "developer": "origin-property"
   }
 }

@@ -60,9 +60,9 @@
       "th": "Modiz Rhyme Ramkhamhaeng เป็นโครงการคอนโดของ AssetWise ข้อมูลมาจากหน้าโครงการทางการ"
     },
     "address": {
-      "en": "Ramkhamhaeng Road",
-      "zh": "Ramkhamhaeng Road",
-      "th": "Ramkhamhaeng Road"
+      "en": "Ramkhamhaeng Road, Bangkok",
+      "zh": "Ramkhamhaeng Road, Bangkok",
+      "th": "Ramkhamhaeng Road, Bangkok"
     },
     "postal_code": "10240",
     "latitude": 13.759265096735861,
@@ -87,6 +87,16 @@
     "construction_status": "completed",
     "facilities": [
       {
+        "key": "haven_lounge",
+        "name": {
+          "en": "Haven Lounge",
+          "zh": "Haven Lounge",
+          "th": "Haven Lounge"
+        },
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+      },
+      {
         "key": "fitness",
         "name": {
           "en": "Fitness",
@@ -97,21 +107,21 @@
         "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
       },
       {
-        "key": "co_kitchen",
+        "key": "swimming_pool",
         "name": {
-          "en": "Co-Kitchen",
-          "zh": "Co-Kitchen",
-          "th": "Co-Kitchen"
+          "en": "Swimming Pool",
+          "zh": "Swimming Pool",
+          "th": "Swimming Pool"
         },
         "source": "official_developer",
         "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
       },
       {
-        "key": "private_theater",
+        "key": "co_working",
         "name": {
-          "en": "Private theater",
-          "zh": "Private theater",
-          "th": "Private theater"
+          "en": "Co-working",
+          "zh": "Co-working",
+          "th": "Co-working"
         },
         "source": "official_developer",
         "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
@@ -122,46 +132,6 @@
           "en": "Garden",
           "zh": "Garden",
           "th": "Garden"
-        },
-        "source": "official_developer",
-        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
-      },
-      {
-        "key": "smart_locker",
-        "name": {
-          "en": "Smart Locker",
-          "zh": "Smart Locker",
-          "th": "Smart Locker"
-        },
-        "source": "official_developer",
-        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
-      },
-      {
-        "key": "pool",
-        "name": {
-          "en": "Pool",
-          "zh": "Pool",
-          "th": "Pool"
-        },
-        "source": "official_developer",
-        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
-      },
-      {
-        "key": "digital_door_lock",
-        "name": {
-          "en": "Digital Door Lock",
-          "zh": "Digital Door Lock",
-          "th": "Digital Door Lock"
-        },
-        "source": "official_developer",
-        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
-      },
-      {
-        "key": "bluetooth_sound_system",
-        "name": {
-          "en": "Bluetooth Sound System",
-          "zh": "Bluetooth Sound System",
-          "th": "Bluetooth Sound System"
         },
         "source": "official_developer",
         "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
@@ -587,7 +557,8 @@
       "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_project_page",
-        "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+        "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
+        "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained)."
       },
       "verified_at": "2026-07-16",
       "value": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
@@ -597,10 +568,11 @@
       "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_project_page",
-        "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+        "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
+        "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained)."
       },
       "verified_at": "2026-07-16",
-      "value": "Ramkhamhaeng Road"
+      "value": "Ramkhamhaeng Road, Bangkok"
     },
     "official_gallery": {
       "field": "official_gallery",
@@ -608,17 +580,18 @@
       "provenance": {
         "source_type": "official_developer_project_page",
         "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
-        "note": "Binaries not mirrored pending license"
+        "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained)."
       },
       "verified_at": "2026-07-16",
-      "value": "40 gallery URLs"
+      "value": "Official gallery section present"
     },
     "official_brochure": {
       "field": "official_brochure",
       "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_project_page",
-        "url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/10/Page-Modiz-Rhyme-Brochure.pdf"
+        "url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/10/Page-Modiz-Rhyme-Brochure.pdf",
+        "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained)."
       },
       "verified_at": "2026-07-16",
       "value": "https://cdn.assetwise.co.th/wp-content/uploads/2023/10/Page-Modiz-Rhyme-Brochure.pdf"
@@ -628,28 +601,27 @@
       "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_project_page",
-        "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+        "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
+        "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained)."
       },
       "verified_at": "2026-07-16",
-      "value": "9 official floor-plan asset URLs"
+      "value": "Official floor / unit plan section"
     },
     "official_facilities": {
       "field": "official_facilities",
       "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_project_page",
-        "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+        "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
+        "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained)."
       },
       "verified_at": "2026-07-16",
       "value": [
+        "Haven Lounge",
         "Fitness",
-        "Co-Kitchen",
-        "Private theater",
-        "Garden",
-        "Smart Locker",
-        "Pool",
-        "Digital Door Lock",
-        "Bluetooth Sound System"
+        "Swimming Pool",
+        "Co-working",
+        "Garden"
       ]
     },
     "project_status": {
@@ -657,12 +629,11 @@
       "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_project_page",
-        "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+        "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
+        "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained)."
       },
       "verified_at": "2026-07-16",
-      "value": [
-        "ready_to_move"
-      ]
+      "value": "completed"
     },
     "completion_year": {
       "field": "completion_year",
@@ -670,10 +641,9 @@
       "provenance": {
         "source_type": "official_developer_project_page",
         "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
-        "note": "Completion calendar year not stated on official page; packaged value not upgraded"
+        "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained)."
       },
-      "verified_at": "2026-07-16",
-      "value": 2023
+      "verified_at": "2026-07-16"
     },
     "building_count": {
       "field": "building_count",
@@ -681,7 +651,7 @@
       "provenance": {
         "source_type": "official_developer_project_page",
         "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
-        "note": "Official Project Type: 1 Residential Building"
+        "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained)."
       },
       "verified_at": "2026-07-16",
       "value": 1
@@ -692,7 +662,7 @@
       "provenance": {
         "source_type": "official_developer_project_page",
         "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
-        "note": "Official Project Type: 1 Residential Building 30 Storey"
+        "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained)."
       },
       "verified_at": "2026-07-16",
       "value": 30
@@ -703,7 +673,7 @@
       "provenance": {
         "source_type": "official_developer_project_page",
         "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
-        "note": "Official: 546 Residential Units, 9 Shops — residential count used"
+        "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained)."
       },
       "verified_at": "2026-07-16",
       "value": 546
@@ -720,58 +690,16 @@
   "media_library": {
     "gallery": {
       "official_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
-      "copyright_source": "© AssetWise Public Company Limited / Modiz Rhyme Ramkhamhaeng",
+      "copyright_source": "© assetwise / Modiz Rhyme Ramkhamhaeng",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license",
-      "gallery_image_urls": [
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-New-Web-Material-1425-x-585-px.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/Modiz-Rhyme-Ramkhamhaeng-thumb.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/10/Vector-9.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/11/shutterstock_1574382076-1-1.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/10/Screen-Shot-2565-07-14-at-17.49-1.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/11/image-74.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2024/10/HRAssetwise.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/11/Rectangle-235-1.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2024/05/atmoz-6-brands-ENG-1.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/11/atmoz.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2024/04/coming-sooon2.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/11/kave.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/modiz-bangpho_concept-left-rev.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/11/modiz.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2025/06/maroonratchada32-2.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2024/07/Aquarous-Jomtien-Pattaya-Desktop-EN-scaled.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/ivory-menu.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/11/ivory.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2024/05/brown67-banner.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/11/brown.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2024/05/maxxi-banner-web.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/11/maxxi-prime.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/11/Rectangle-235-2.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/05/The-Honor-Yothin-desktop.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2024/05/CHANN-The-Riverside-WebBanner_Desktop_1440x592.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/thearbor-menu.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/esta-menu.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/glam-menu.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/11/glam.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/baan-puripuri-menu.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2022/11/ban-puri-puri.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-Ready-to-Serve-Clean-03-e1695477705816.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/Icon.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/Icon-1.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/modiz-rhyme-concept_img-update1-e1695483977935.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-rooftop.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/work-play-live_revise-20210529-105915-e1695483838504.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-Gym.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-room.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-invest.png"
-      ]
+      "download_status": "official_section_hotlink_pending_license"
     },
     "brochure": {
       "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/10/Page-Modiz-Rhyme-Brochure.pdf",
-      "copyright_source": "© AssetWise Public Company Limited / Modiz Rhyme Ramkhamhaeng — official brochure PDF",
+      "copyright_source": "© assetwise / Modiz Rhyme Ramkhamhaeng — official brochure PDF",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
@@ -780,23 +708,12 @@
     },
     "floor_plans": {
       "official_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
-      "copyright_source": "© AssetWise Public Company Limited / Modiz Rhyme Ramkhamhaeng",
+      "copyright_source": "© assetwise / Modiz Rhyme Ramkhamhaeng",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink_section",
-      "download_status": "not_downloaded_pending_license",
-      "gallery_image_urls": [
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-rooftop.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-rooftop-1024x642.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/g-floor-20210529-110844-1536x782.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/8th_floor-revise-1536x922.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/9-27th_floor-revise-1536x922.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/28th_floor-revise-1536x922.png",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/29th-floor-20210529-110904-1536x782.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/30th-floor-20210529-110915-1536x781.jpg",
-        "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/rooftop-20210529-110924-1536x782.jpg"
-      ]
+      "download_status": "not_downloaded_pending_license"
     },
     "hero": {
       "official_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
@@ -812,5 +729,11 @@
     "phase": "11-batch-6",
     "developer": "assetwise",
     "verified_at": "2026-07-16"
+  },
+  "project_factory": {
+    "phase": "11-wave-2",
+    "verified_at": "2026-07-16",
+    "wave": 2,
+    "developer": "assetwise"
   }
 }

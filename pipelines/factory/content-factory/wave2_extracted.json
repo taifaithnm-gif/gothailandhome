@@ -1,0 +1,240 @@
+{
+  "modiz-rhyme-ramkhamhaeng": {
+    "developer": "assetwise",
+    "official_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
+    "official_name": "Modiz Rhyme Ramkhamhaeng",
+    "address": "Ramkhamhaeng Road, Bangkok",
+    "status": "ready_to_move",
+    "mapped_status": "completed",
+    "buildings": 1,
+    "floors": 30,
+    "units": 546,
+    "facilities": [
+      "Haven Lounge",
+      "Fitness",
+      "Swimming Pool",
+      "Co-working",
+      "Garden"
+    ],
+    "gallery_urls": [],
+    "brochure_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/10/Page-Modiz-Rhyme-Brochure.pdf",
+    "has_gallery": true,
+    "has_floor_plan": true,
+    "has_brochure": true,
+    "completion_year": null,
+    "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained)."
+  },
+  "kave-town-space": {
+    "developer": "assetwise",
+    "official_url": null,
+    "official_name": "KAVE Town Space",
+    "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony."
+  },
+  "knightsbridge-prime-sathorn": {
+    "developer": "origin-property",
+    "official_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+    "official_name": "KnightsBridge Prime Sathorn",
+    "address": "Near Sathorn Road / BRT Arkarn Song-Khro, Bangkok (450m from Sathorn Road; 650m from BTS Chong Nonsi)",
+    "status": "ready_to_move",
+    "mapped_status": "completed",
+    "buildings": 1,
+    "floors": 43,
+    "units": 726,
+    "facilities": [
+      "Lobby",
+      "Mailbox",
+      "Swimming Pool",
+      "Fitness room",
+      "Library room",
+      "Jogging Track",
+      "Green Park",
+      "Auto-parking 70%",
+      "24hours CCTV",
+      "Key card access control",
+      "24hours security guard"
+    ],
+    "gallery_urls": [
+      "https://en.origin.co.th/wp-content/uploads/2019/04/1474541692-1-2.jpg",
+      "https://en.origin.co.th/wp-content/uploads/2019/04/1474541701-1-1.jpg",
+      "https://en.origin.co.th/wp-content/uploads/2019/04/1474541711-1.jpg",
+      "https://en.origin.co.th/wp-content/uploads/2019/04/1474541721-1.jpg",
+      "https://en.origin.co.th/wp-content/uploads/2019/04/1474541730-1.jpg",
+      "https://en.origin.co.th/wp-content/uploads/2019/04/1474541745-1.jpg",
+      "https://en.origin.co.th/wp-content/uploads/2019/04/1474541759-1.jpg",
+      "https://en.origin.co.th/wp-content/uploads/2019/04/1474541768-1.jpg",
+      "https://en.origin.co.th/wp-content/uploads/2019/04/1474541778-1.jpg",
+      "https://en.origin.co.th/wp-content/uploads/2019/04/1474541788-1-1.jpg",
+      "https://en.origin.co.th/wp-content/uploads/2019/04/1474541797-1.jpg"
+    ],
+    "brochure_url": "https://en.origin.co.th/wp-content/uploads/2019/04/KNB-Prime-Sathorn-A4-.pdf",
+    "has_gallery": true,
+    "has_floor_plan": true,
+    "has_brochure": true,
+    "completion_year": null,
+    "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated."
+  },
+  "knightbridge-collage-ramkhamhaeng": {
+    "developer": "origin-property",
+    "official_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+    "official_name": "KnightsBridge Collage Ramkhamhaeng",
+    "address": "Ramkhamhaeng area, Bangkok (near MRT Hua Mak / Yellow Line Lam Sali)",
+    "status": "ready_to_move",
+    "mapped_status": "completed",
+    "buildings": 1,
+    "floors": 25,
+    "units": 682,
+    "facilities": [
+      "Lobby",
+      "Mailbox",
+      "Co-working space & Library",
+      "Co-kitchen & Co-pantry space",
+      "Pool in the park",
+      "Health Club",
+      "Sky Jogging Track",
+      "Access Card Control",
+      "CCTV 24 hours",
+      "24-hour security"
+    ],
+    "gallery_urls": [
+      "https://origin.co.th/wp-content/uploads/2019/04/DSC2667.jpg",
+      "https://origin.co.th/wp-content/uploads/2019/04/DSC2696.jpg",
+      "https://origin.co.th/wp-content/uploads/2019/04/DSC2702.jpg",
+      "https://origin.co.th/wp-content/uploads/2019/04/DSC2758.jpg",
+      "https://origin.co.th/wp-content/uploads/2019/04/DSC2762.jpg",
+      "https://origin.co.th/wp-content/uploads/2019/04/DSC2808-1.jpg",
+      "https://origin.co.th/wp-content/uploads/2019/04/DSC2801.jpg",
+      "https://origin.co.th/wp-content/uploads/2019/04/DSC2793-retouch.jpg",
+      "https://origin.co.th/wp-content/uploads/2019/04/DSC2787.jpg"
+    ],
+    "brochure_url": "https://origin.co.th/wp-content/uploads/2019/04/E-Brochure-KNB-Collage-RamKhamhaeng-small.pdf",
+    "has_gallery": true,
+    "has_floor_plan": true,
+    "has_brochure": true,
+    "completion_year": null,
+    "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated."
+  },
+  "origin-plug-play-sukhumvit-101": {
+    "developer": "origin-property",
+    "official_url": null,
+    "official_name": "Origin Plug & Play Sukhumvit 101",
+    "note": "No Origin official project page for Sukhumvit 101 Plug & Play (404). Brand has other Plug & Play sites (e.g. Ramkhamhaeng) — not substituted."
+  },
+  "the-esse-asoke": {
+    "developer": "sc-asset",
+    "official_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+    "official_publisher": "singha-estate",
+    "official_name": "THE ESSE Asoke",
+    "address": "Asoke Montri Road / Sukhumvit, Bangkok (prime Asoke plot)",
+    "status": "sold_out",
+    "mapped_status": "completed",
+    "buildings": 1,
+    "floors": 55,
+    "units": 419,
+    "facilities": [
+      "Amenities (official Amenities section)",
+      "Services (official Services section)",
+      "Gallery facilities visuals"
+    ],
+    "gallery_urls": [],
+    "brochure_url": null,
+    "has_gallery": true,
+    "has_floor_plan": true,
+    "has_brochure": false,
+    "completion_year": null,
+    "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured."
+  },
+  "the-esse-sukhumvit-36": {
+    "developer": "sc-asset",
+    "official_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+    "official_publisher": "singha-estate",
+    "official_name": "THE ESSE Sukhumvit 36",
+    "address": "Sukhumvit Road, Bangkok — 20 meters from BTS Thonglor Station",
+    "status": "ready_to_move",
+    "mapped_status": "completed",
+    "buildings": 1,
+    "floors": 43,
+    "units": 338,
+    "facilities": [
+      "Amenities (official Amenities section)",
+      "Services (official Services section)"
+    ],
+    "gallery_urls": [],
+    "brochure_url": null,
+    "has_gallery": true,
+    "has_floor_plan": true,
+    "has_brochure": true,
+    "completion_year": null,
+    "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details."
+  },
+  "vyva-thonglor": {
+    "developer": "sc-asset",
+    "official_url": null,
+    "official_name": "Vyva Thonglor",
+    "note": "No dedicated official SC Asset / brand project page found for Vyva Thonglor."
+  },
+  "one-bangkok": {
+    "developer": "frasers-property-thailand",
+    "official_url": "https://www.onebangkok.com/en/",
+    "secondary_url": "https://www.frasersproperty.com/th/one-bangkok",
+    "official_name": "One Bangkok",
+    "address": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330 (corner of Wireless and Rama 4 Roads)",
+    "status": "selling",
+    "mapped_status": "under_construction",
+    "buildings": 3,
+    "floors": null,
+    "units": null,
+    "facilities": [
+      "Retail destinations",
+      "Premium office towers",
+      "Luxury and lifestyle hotels",
+      "Upscale residential towers",
+      "Arts and culture",
+      "Public realm / green space"
+    ],
+    "gallery_urls": [],
+    "brochure_url": null,
+    "has_gallery": false,
+    "has_floor_plan": false,
+    "has_brochure": false,
+    "completion_year": null,
+    "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
+  },
+  "samyan-mitrtown": {
+    "developer": "frasers-property-thailand",
+    "official_url": null,
+    "official_name": "Samyan Mitrtown",
+    "note": "Prior URL https://www.samyanmitrtown.com/ did not resolve in Wave 2 (connection failure). No replacement official DETAIL page confirmed."
+  },
+  "the-room-sathorn-taksin": {
+    "developer": "land-and-houses",
+    "official_url": null,
+    "candidate_url": "https://www.lh.co.th/en/the-room/the-room-sathorn-taksin",
+    "official_name": "THE ROOM Sathorn-Taksin",
+    "note": "Candidate LH URL https://www.lh.co.th/en/the-room/the-room-sathorn-taksin returns HTTP 200 and routes projectSlug, but Project Information is client-fetched / privacy-shell — no OFFICIAL DETAIL facts extractable. Treated as no usable official project page (soft-land). Ten fields UNVERIFIED."
+  },
+  "the-room-sukhumvit-62": {
+    "developer": "land-and-houses",
+    "official_url": null,
+    "candidate_url": "https://www.lh.co.th/en/the-room/the-room-sukhumvit-62",
+    "official_name": "THE ROOM Sukhumvit 62",
+    "note": "Candidate LH URL https://www.lh.co.th/en/the-room/the-room-sukhumvit-62 returns HTTP 200 but DETAIL payload not extractable (SSR shell). Treated as no usable official project page. Ten fields UNVERIFIED."
+  },
+  "m-jive-sathorn-lumphini": {
+    "developer": "major-development",
+    "official_url": null,
+    "official_name": "M Jive Sathorn-Lumphini",
+    "note": "major.co.th project paths redirect/empty; UAT project pages unreachable. No live official DETAIL page confirmed."
+  },
+  "m-silom": {
+    "developer": "major-development",
+    "official_url": null,
+    "official_name": "M Silom",
+    "note": "No live official Major project DETAIL page confirmed for M Silom."
+  },
+  "maestro-03-ratchada-rama-9": {
+    "developer": "major-development",
+    "official_url": null,
+    "official_name": "Maestro 03 Ratchada-Rama 9",
+    "note": "Historical major.co.th/th/project/maestro03 redirects; no live official DETAIL page confirmed. Portal counts not used."
+  }
+}

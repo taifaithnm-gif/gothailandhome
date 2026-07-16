@@ -1,0 +1,641 @@
+{
+  "phase": "11-wave-2",
+  "verified_at": "2026-07-16",
+  "objective": "Raise project completeness from Wave 1 mean 54.5% toward 80%",
+  "project_count": 15,
+  "wave2_mean_pct": 32,
+  "by_developer": {
+    "assetwise": {
+      "avg_pct": 45,
+      "projects": [
+        {
+          "slug": "modiz-rhyme-ramkhamhaeng",
+          "developer": "assetwise",
+          "official_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
+          "completeness_pct": 90,
+          "field_evidence": {
+            "official_gallery": "OFFICIAL",
+            "official_brochure": "OFFICIAL",
+            "official_floor_plan": "OFFICIAL",
+            "official_facilities": "OFFICIAL",
+            "official_address": "OFFICIAL",
+            "project_status": "OFFICIAL",
+            "completion_year": "UNVERIFIED",
+            "building_count": "OFFICIAL",
+            "floor_count": "OFFICIAL",
+            "total_units": "OFFICIAL"
+          },
+          "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained).",
+          "official_publisher": null
+        },
+        {
+          "slug": "kave-town-space",
+          "developer": "assetwise",
+          "official_url": null,
+          "completeness_pct": 0,
+          "field_evidence": {
+            "official_gallery": "UNVERIFIED",
+            "official_brochure": "UNVERIFIED",
+            "official_floor_plan": "UNVERIFIED",
+            "official_facilities": "UNVERIFIED",
+            "official_address": "UNVERIFIED",
+            "project_status": "UNVERIFIED",
+            "completion_year": "UNVERIFIED",
+            "building_count": "UNVERIFIED",
+            "floor_count": "UNVERIFIED",
+            "total_units": "UNVERIFIED"
+          },
+          "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony.",
+          "official_publisher": null
+        }
+      ]
+    },
+    "origin-property": {
+      "avg_pct": 60,
+      "projects": [
+        {
+          "slug": "knightsbridge-prime-sathorn",
+          "developer": "origin-property",
+          "official_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+          "completeness_pct": 90,
+          "field_evidence": {
+            "official_gallery": "OFFICIAL",
+            "official_brochure": "OFFICIAL",
+            "official_floor_plan": "OFFICIAL",
+            "official_facilities": "OFFICIAL",
+            "official_address": "OFFICIAL",
+            "project_status": "OFFICIAL",
+            "completion_year": "UNVERIFIED",
+            "building_count": "OFFICIAL",
+            "floor_count": "OFFICIAL",
+            "total_units": "OFFICIAL"
+          },
+          "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated.",
+          "official_publisher": null
+        },
+        {
+          "slug": "knightbridge-collage-ramkhamhaeng",
+          "developer": "origin-property",
+          "official_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+          "completeness_pct": 90,
+          "field_evidence": {
+            "official_gallery": "OFFICIAL",
+            "official_brochure": "OFFICIAL",
+            "official_floor_plan": "OFFICIAL",
+            "official_facilities": "OFFICIAL",
+            "official_address": "OFFICIAL",
+            "project_status": "OFFICIAL",
+            "completion_year": "UNVERIFIED",
+            "building_count": "OFFICIAL",
+            "floor_count": "OFFICIAL",
+            "total_units": "OFFICIAL"
+          },
+          "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated.",
+          "official_publisher": null
+        },
+        {
+          "slug": "origin-plug-play-sukhumvit-101",
+          "developer": "origin-property",
+          "official_url": null,
+          "completeness_pct": 0,
+          "field_evidence": {
+            "official_gallery": "UNVERIFIED",
+            "official_brochure": "UNVERIFIED",
+            "official_floor_plan": "UNVERIFIED",
+            "official_facilities": "UNVERIFIED",
+            "official_address": "UNVERIFIED",
+            "project_status": "UNVERIFIED",
+            "completion_year": "UNVERIFIED",
+            "building_count": "UNVERIFIED",
+            "floor_count": "UNVERIFIED",
+            "total_units": "UNVERIFIED"
+          },
+          "note": "No Origin official project page for Sukhumvit 101 Plug & Play (404). Brand has other Plug & Play sites (e.g. Ramkhamhaeng) — not substituted.",
+          "official_publisher": null
+        }
+      ]
+    },
+    "sc-asset": {
+      "avg_pct": 56.7,
+      "projects": [
+        {
+          "slug": "the-esse-asoke",
+          "developer": "sc-asset",
+          "official_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+          "completeness_pct": 80,
+          "field_evidence": {
+            "official_gallery": "OFFICIAL",
+            "official_brochure": "UNVERIFIED",
+            "official_floor_plan": "OFFICIAL",
+            "official_facilities": "OFFICIAL",
+            "official_address": "OFFICIAL",
+            "project_status": "OFFICIAL",
+            "completion_year": "UNVERIFIED",
+            "building_count": "OFFICIAL",
+            "floor_count": "OFFICIAL",
+            "total_units": "OFFICIAL"
+          },
+          "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured.",
+          "official_publisher": "singha-estate"
+        },
+        {
+          "slug": "the-esse-sukhumvit-36",
+          "developer": "sc-asset",
+          "official_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+          "completeness_pct": 90,
+          "field_evidence": {
+            "official_gallery": "OFFICIAL",
+            "official_brochure": "OFFICIAL",
+            "official_floor_plan": "OFFICIAL",
+            "official_facilities": "OFFICIAL",
+            "official_address": "OFFICIAL",
+            "project_status": "OFFICIAL",
+            "completion_year": "UNVERIFIED",
+            "building_count": "OFFICIAL",
+            "floor_count": "OFFICIAL",
+            "total_units": "OFFICIAL"
+          },
+          "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details.",
+          "official_publisher": "singha-estate"
+        },
+        {
+          "slug": "vyva-thonglor",
+          "developer": "sc-asset",
+          "official_url": null,
+          "completeness_pct": 0,
+          "field_evidence": {
+            "official_gallery": "UNVERIFIED",
+            "official_brochure": "UNVERIFIED",
+            "official_floor_plan": "UNVERIFIED",
+            "official_facilities": "UNVERIFIED",
+            "official_address": "UNVERIFIED",
+            "project_status": "UNVERIFIED",
+            "completion_year": "UNVERIFIED",
+            "building_count": "UNVERIFIED",
+            "floor_count": "UNVERIFIED",
+            "total_units": "UNVERIFIED"
+          },
+          "note": "No dedicated official SC Asset / brand project page found for Vyva Thonglor.",
+          "official_publisher": null
+        }
+      ]
+    },
+    "frasers-property-thailand": {
+      "avg_pct": 20,
+      "projects": [
+        {
+          "slug": "one-bangkok",
+          "developer": "frasers-property-thailand",
+          "official_url": "https://www.onebangkok.com/en/",
+          "completeness_pct": 40,
+          "field_evidence": {
+            "official_gallery": "UNVERIFIED",
+            "official_brochure": "UNVERIFIED",
+            "official_floor_plan": "UNVERIFIED",
+            "official_facilities": "OFFICIAL",
+            "official_address": "OFFICIAL",
+            "project_status": "OFFICIAL",
+            "completion_year": "UNVERIFIED",
+            "building_count": "OFFICIAL",
+            "floor_count": "UNVERIFIED",
+            "total_units": "UNVERIFIED"
+          },
+          "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture.",
+          "official_publisher": null
+        },
+        {
+          "slug": "samyan-mitrtown",
+          "developer": "frasers-property-thailand",
+          "official_url": null,
+          "completeness_pct": 0,
+          "field_evidence": {
+            "official_gallery": "UNVERIFIED",
+            "official_brochure": "UNVERIFIED",
+            "official_floor_plan": "UNVERIFIED",
+            "official_facilities": "UNVERIFIED",
+            "official_address": "UNVERIFIED",
+            "project_status": "UNVERIFIED",
+            "completion_year": "UNVERIFIED",
+            "building_count": "UNVERIFIED",
+            "floor_count": "UNVERIFIED",
+            "total_units": "UNVERIFIED"
+          },
+          "note": "Prior URL https://www.samyanmitrtown.com/ did not resolve in Wave 2 (connection failure). No replacement official DETAIL page confirmed.",
+          "official_publisher": null
+        }
+      ]
+    },
+    "land-and-houses": {
+      "avg_pct": 0,
+      "projects": [
+        {
+          "slug": "the-room-sathorn-taksin",
+          "developer": "land-and-houses",
+          "official_url": null,
+          "completeness_pct": 0,
+          "field_evidence": {
+            "official_gallery": "UNVERIFIED",
+            "official_brochure": "UNVERIFIED",
+            "official_floor_plan": "UNVERIFIED",
+            "official_facilities": "UNVERIFIED",
+            "official_address": "UNVERIFIED",
+            "project_status": "UNVERIFIED",
+            "completion_year": "UNVERIFIED",
+            "building_count": "UNVERIFIED",
+            "floor_count": "UNVERIFIED",
+            "total_units": "UNVERIFIED"
+          },
+          "note": "Candidate LH URL https://www.lh.co.th/en/the-room/the-room-sathorn-taksin returns HTTP 200 and routes projectSlug, but Project Information is client-fetched / privacy-shell — no OFFICIAL DETAIL facts extractable. Treated as no usable official project page (soft-land). Ten fields UNVERIFIED.",
+          "official_publisher": null
+        },
+        {
+          "slug": "the-room-sukhumvit-62",
+          "developer": "land-and-houses",
+          "official_url": null,
+          "completeness_pct": 0,
+          "field_evidence": {
+            "official_gallery": "UNVERIFIED",
+            "official_brochure": "UNVERIFIED",
+            "official_floor_plan": "UNVERIFIED",
+            "official_facilities": "UNVERIFIED",
+            "official_address": "UNVERIFIED",
+            "project_status": "UNVERIFIED",
+            "completion_year": "UNVERIFIED",
+            "building_count": "UNVERIFIED",
+            "floor_count": "UNVERIFIED",
+            "total_units": "UNVERIFIED"
+          },
+          "note": "Candidate LH URL https://www.lh.co.th/en/the-room/the-room-sukhumvit-62 returns HTTP 200 but DETAIL payload not extractable (SSR shell). Treated as no usable official project page. Ten fields UNVERIFIED.",
+          "official_publisher": null
+        }
+      ]
+    },
+    "major-development": {
+      "avg_pct": 0,
+      "projects": [
+        {
+          "slug": "m-jive-sathorn-lumphini",
+          "developer": "major-development",
+          "official_url": null,
+          "completeness_pct": 0,
+          "field_evidence": {
+            "official_gallery": "UNVERIFIED",
+            "official_brochure": "UNVERIFIED",
+            "official_floor_plan": "UNVERIFIED",
+            "official_facilities": "UNVERIFIED",
+            "official_address": "UNVERIFIED",
+            "project_status": "UNVERIFIED",
+            "completion_year": "UNVERIFIED",
+            "building_count": "UNVERIFIED",
+            "floor_count": "UNVERIFIED",
+            "total_units": "UNVERIFIED"
+          },
+          "note": "major.co.th project paths redirect/empty; UAT project pages unreachable. No live official DETAIL page confirmed.",
+          "official_publisher": null
+        },
+        {
+          "slug": "m-silom",
+          "developer": "major-development",
+          "official_url": null,
+          "completeness_pct": 0,
+          "field_evidence": {
+            "official_gallery": "UNVERIFIED",
+            "official_brochure": "UNVERIFIED",
+            "official_floor_plan": "UNVERIFIED",
+            "official_facilities": "UNVERIFIED",
+            "official_address": "UNVERIFIED",
+            "project_status": "UNVERIFIED",
+            "completion_year": "UNVERIFIED",
+            "building_count": "UNVERIFIED",
+            "floor_count": "UNVERIFIED",
+            "total_units": "UNVERIFIED"
+          },
+          "note": "No live official Major project DETAIL page confirmed for M Silom.",
+          "official_publisher": null
+        },
+        {
+          "slug": "maestro-03-ratchada-rama-9",
+          "developer": "major-development",
+          "official_url": null,
+          "completeness_pct": 0,
+          "field_evidence": {
+            "official_gallery": "UNVERIFIED",
+            "official_brochure": "UNVERIFIED",
+            "official_floor_plan": "UNVERIFIED",
+            "official_facilities": "UNVERIFIED",
+            "official_address": "UNVERIFIED",
+            "project_status": "UNVERIFIED",
+            "completion_year": "UNVERIFIED",
+            "building_count": "UNVERIFIED",
+            "floor_count": "UNVERIFIED",
+            "total_units": "UNVERIFIED"
+          },
+          "note": "Historical major.co.th/th/project/maestro03 redirects; no live official DETAIL page confirmed. Portal counts not used.",
+          "official_publisher": null
+        }
+      ]
+    }
+  },
+  "projects": [
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "developer": "assetwise",
+      "official_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
+      "completeness_pct": 90,
+      "field_evidence": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      },
+      "note": "Wave 2 re-verify: completion year still not stated as a clear year on official page (prior Batch 6 retained).",
+      "official_publisher": null
+    },
+    {
+      "slug": "kave-town-space",
+      "developer": "assetwise",
+      "official_url": null,
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      },
+      "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony.",
+      "official_publisher": null
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "developer": "origin-property",
+      "official_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+      "completeness_pct": 90,
+      "field_evidence": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      },
+      "note": "FACTSHEET: 1 high-rise (43 floors), 726 units. Overview 100%. Completion year not stated.",
+      "official_publisher": null
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "developer": "origin-property",
+      "official_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+      "completeness_pct": 90,
+      "field_evidence": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      },
+      "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated.",
+      "official_publisher": null
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "developer": "origin-property",
+      "official_url": null,
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      },
+      "note": "No Origin official project page for Sukhumvit 101 Plug & Play (404). Brand has other Plug & Play sites (e.g. Ramkhamhaeng) — not substituted.",
+      "official_publisher": null
+    },
+    {
+      "slug": "the-esse-asoke",
+      "developer": "sc-asset",
+      "official_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+      "completeness_pct": 80,
+      "field_evidence": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      },
+      "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured.",
+      "official_publisher": "singha-estate"
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "developer": "sc-asset",
+      "official_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+      "completeness_pct": 90,
+      "field_evidence": {
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      },
+      "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details.",
+      "official_publisher": "singha-estate"
+    },
+    {
+      "slug": "vyva-thonglor",
+      "developer": "sc-asset",
+      "official_url": null,
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      },
+      "note": "No dedicated official SC Asset / brand project page found for Vyva Thonglor.",
+      "official_publisher": null
+    },
+    {
+      "slug": "one-bangkok",
+      "developer": "frasers-property-thailand",
+      "official_url": "https://www.onebangkok.com/en/",
+      "completeness_pct": 40,
+      "field_evidence": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      },
+      "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture.",
+      "official_publisher": null
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "developer": "frasers-property-thailand",
+      "official_url": null,
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      },
+      "note": "Prior URL https://www.samyanmitrtown.com/ did not resolve in Wave 2 (connection failure). No replacement official DETAIL page confirmed.",
+      "official_publisher": null
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "developer": "land-and-houses",
+      "official_url": null,
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      },
+      "note": "Candidate LH URL https://www.lh.co.th/en/the-room/the-room-sathorn-taksin returns HTTP 200 and routes projectSlug, but Project Information is client-fetched / privacy-shell — no OFFICIAL DETAIL facts extractable. Treated as no usable official project page (soft-land). Ten fields UNVERIFIED.",
+      "official_publisher": null
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "developer": "land-and-houses",
+      "official_url": null,
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      },
+      "note": "Candidate LH URL https://www.lh.co.th/en/the-room/the-room-sukhumvit-62 returns HTTP 200 but DETAIL payload not extractable (SSR shell). Treated as no usable official project page. Ten fields UNVERIFIED.",
+      "official_publisher": null
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "developer": "major-development",
+      "official_url": null,
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      },
+      "note": "major.co.th project paths redirect/empty; UAT project pages unreachable. No live official DETAIL page confirmed.",
+      "official_publisher": null
+    },
+    {
+      "slug": "m-silom",
+      "developer": "major-development",
+      "official_url": null,
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      },
+      "note": "No live official Major project DETAIL page confirmed for M Silom.",
+      "official_publisher": null
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "developer": "major-development",
+      "official_url": null,
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      },
+      "note": "Historical major.co.th/th/project/maestro03 redirects; no live official DETAIL page confirmed. Portal counts not used.",
+      "official_publisher": null
+    }
+  ]
+}

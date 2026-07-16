@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "THE ESSE Sukhumvit 36 official project page",
+      "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36"
+    },
+    {
+      "type": "official_developer",
       "name": "The Esse Sukhumvit 36 official / developer page",
       "url": "https://www.scasset.com/"
     },
@@ -55,15 +60,15 @@
       "th": "ดิ เอสส์ สุขุมวิท 36 เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เอสซี แอสเสท รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
     },
     "address": {
-      "en": "Khlong Toei, Bangkok",
-      "zh": "曼谷空堤",
-      "th": "คลองเตย กรุงเทพฯ"
+      "en": "Sukhumvit Road, Bangkok — 20 meters from BTS Thonglor Station",
+      "zh": "Sukhumvit Road, Bangkok — 20 meters from BTS Thonglor Station",
+      "th": "Sukhumvit Road, Bangkok — 20 meters from BTS Thonglor Station"
     },
     "postal_code": "10110",
     "latitude": 13.724627636205499,
     "longitude": 100.5777777840099,
     "google_maps_url": "https://www.google.com/maps?q=13.724627636205499,100.5777777840099",
-    "official_website": "https://www.scasset.com/",
+    "official_website": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
     "facebook_url": "https://www.facebook.com/SCAsset",
     "completion_year": 2020,
     "transit_tags": [
@@ -84,103 +89,24 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "pool",
+        "key": "amenities_official_amenities_section",
         "name": {
-          "en": "Swimming pool",
-          "zh": "Swimming pool",
-          "th": "Swimming pool"
+          "en": "Amenities (official Amenities section)",
+          "zh": "Amenities (official Amenities section)",
+          "th": "Amenities (official Amenities section)"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36"
       },
       {
-        "key": "fitness",
+        "key": "services_official_services_section",
         "name": {
-          "en": "Fitness / gym",
-          "zh": "Fitness / gym",
-          "th": "Fitness / gym"
+          "en": "Services (official Services section)",
+          "zh": "Services (official Services section)",
+          "th": "Services (official Services section)"
         },
-        "source": "propertyhub"
-      },
-      {
-        "key": "parking",
-        "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "security",
-        "name": {
-          "en": "24h security",
-          "zh": "24h security",
-          "th": "24h security"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "park",
-        "name": {
-          "en": "Garden / courtyard",
-          "zh": "Garden / courtyard",
-          "th": "Garden / courtyard"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "library",
-        "name": {
-          "en": "Library",
-          "zh": "Library",
-          "th": "Library"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "sauna",
-        "name": {
-          "en": "Sauna",
-          "zh": "Sauna",
-          "th": "Sauna"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "steam",
-        "name": {
-          "en": "Steam",
-          "zh": "Steam",
-          "th": "Steam"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "lift",
-        "name": {
-          "en": "Elevator",
-          "zh": "Elevator",
-          "th": "Elevator"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "cctv",
-        "name": {
-          "en": "CCTV",
-          "zh": "CCTV",
-          "th": "CCTV"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "keycard",
-        "name": {
-          "en": "Keycard access",
-          "zh": "Keycard access",
-          "th": "Keycard access"
-        },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36"
       }
     ],
     "nearby_schools": [
@@ -680,69 +606,137 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
-    }
+    },
+    "total_units": 338,
+    "unit_count": 338,
+    "floor_count": 43,
+    "floors": 43,
+    "building_count": 1,
+    "buildings": 1
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.scasset.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+        "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.scasset.com/"
+      "value": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36"
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.scasset.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+        "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
       },
       "verified_at": "2026-07-16",
-      "value": "Khlong Toei, Bangkok"
+      "value": "Sukhumvit Road, Bangkok — 20 meters from BTS Thonglor Station"
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.scasset.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+        "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "value": "Official gallery section present"
     },
     "official_brochure": {
       "field": "official_brochure",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.scasset.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+        "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "Download Brochure control on official page"
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.scasset.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+        "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "Official floor / unit plan section"
     },
     "official_facilities": {
       "field": "official_facilities",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.scasset.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+        "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": [
+        "Amenities (official Amenities section)",
+        "Services (official Services section)"
+      ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+        "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
+      },
+      "verified_at": "2026-07-16",
+      "value": "completed"
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+        "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
+      },
+      "verified_at": "2026-07-16"
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+        "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
+      },
+      "verified_at": "2026-07-16",
+      "value": 1
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+        "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
+      },
+      "verified_at": "2026-07-16",
+      "value": 43
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+        "note": "Singha Estate official: 43-storey, 338 units. Download Brochure control present (no direct PDF URL captured). Completion year not stated on Project Details. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
+      },
+      "verified_at": "2026-07-16",
+      "value": 338
     }
   },
   "project_master": {
@@ -761,6 +755,39 @@
       "rights_note": "hotlink",
       "download_status": "placeholder_pending_official_mirror",
       "placeholder_path": null
+    },
+    "gallery": {
+      "official_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+      "copyright_source": "© singha-estate / THE ESSE Sukhumvit 36",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "official_section_hotlink_pending_license"
+    },
+    "brochure": {
+      "official_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+      "copyright_source": "© singha-estate / THE ESSE Sukhumvit 36",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "official_download_control_pending_license"
+    },
+    "floor_plans": {
+      "official_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36",
+      "copyright_source": "© singha-estate / THE ESSE Sukhumvit 36",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "not_downloaded_pending_license"
     }
+  },
+  "project_factory": {
+    "phase": "11-wave-2",
+    "verified_at": "2026-07-16",
+    "wave": 2,
+    "developer": "sc-asset"
   }
 }

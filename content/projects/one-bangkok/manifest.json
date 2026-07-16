@@ -55,9 +55,9 @@
       "th": "วัน แบงค็อก เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เฟรเซอร์ส พร็อพเพอร์ตี้ ประเทศไทย รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
     },
     "address": {
-      "en": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330",
-      "zh": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330",
-      "th": "ถนนวิทยุ ลุมพินี ปทุมวัน กรุงเทพฯ 10330"
+      "en": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330 (corner of Wireless and Rama 4 Roads)",
+      "zh": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330 (corner of Wireless and Rama 4 Roads)",
+      "th": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330 (corner of Wireless and Rama 4 Roads)"
     },
     "postal_code": "10330",
     "latitude": null,
@@ -122,40 +122,64 @@
     ],
     "facilities": [
       {
-        "key": "retail",
+        "key": "retail_destinations",
         "name": {
-          "en": "Retail (Parade / The Storeys)",
-          "zh": "Retail",
-          "th": "Retail"
+          "en": "Retail destinations",
+          "zh": "Retail destinations",
+          "th": "Retail destinations"
         },
-        "source": "onebangkok_official"
+        "source": "official_developer",
+        "source_url": "https://www.onebangkok.com/en/"
       },
       {
-        "key": "green_space",
+        "key": "premium_office_towers",
         "name": {
-          "en": "Green & Open Spaces / Urban Park",
-          "zh": "Green & Open Spaces",
-          "th": "Green & Open Spaces"
+          "en": "Premium office towers",
+          "zh": "Premium office towers",
+          "th": "Premium office towers"
         },
-        "source": "onebangkok_official"
+        "source": "official_developer",
+        "source_url": "https://www.onebangkok.com/en/"
       },
       {
-        "key": "hospitality",
+        "key": "luxury_and_lifestyle_hotels",
         "name": {
-          "en": "Hospitality (Ritz-Carlton / Andaz cited on site)",
-          "zh": "Hospitality",
-          "th": "Hospitality"
+          "en": "Luxury and lifestyle hotels",
+          "zh": "Luxury and lifestyle hotels",
+          "th": "Luxury and lifestyle hotels"
         },
-        "source": "onebangkok_official"
+        "source": "official_developer",
+        "source_url": "https://www.onebangkok.com/en/"
       },
       {
-        "key": "workplace",
+        "key": "upscale_residential_towers",
         "name": {
-          "en": "Workplace / office towers",
-          "zh": "Workplace",
-          "th": "Workplace"
+          "en": "Upscale residential towers",
+          "zh": "Upscale residential towers",
+          "th": "Upscale residential towers"
         },
-        "source": "onebangkok_official"
+        "source": "official_developer",
+        "source_url": "https://www.onebangkok.com/en/"
+      },
+      {
+        "key": "arts_and_culture",
+        "name": {
+          "en": "Arts and culture",
+          "zh": "Arts and culture",
+          "th": "Arts and culture"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.onebangkok.com/en/"
+      },
+      {
+        "key": "public_realm_green_space",
+        "name": {
+          "en": "Public realm / green space",
+          "zh": "Public realm / green space",
+          "th": "Public realm / green space"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.onebangkok.com/en/"
       }
     ],
     "nearby_bts": [],
@@ -348,15 +372,19 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
-    }
+    },
+    "construction_status": "under_construction",
+    "building_count": 3,
+    "buildings": 3
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.onebangkok.com/en/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.onebangkok.com/en/",
+        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
       },
       "verified_at": "2026-07-16",
       "value": "https://www.onebangkok.com/en/"
@@ -365,52 +393,112 @@
       "field": "official_address",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.onebangkok.com/en/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.onebangkok.com/en/",
+        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
       },
       "verified_at": "2026-07-16",
-      "value": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330"
+      "value": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330 (corner of Wireless and Rama 4 Roads)"
     },
     "official_gallery": {
       "field": "official_gallery",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.onebangkok.com/en/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.onebangkok.com/en/",
+        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
       },
-      "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "verified_at": "2026-07-16"
     },
     "official_brochure": {
       "field": "official_brochure",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.onebangkok.com/en/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.onebangkok.com/en/",
+        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.onebangkok.com/en/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.onebangkok.com/en/",
+        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     },
     "official_facilities": {
       "field": "official_facilities",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.onebangkok.com/en/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.onebangkok.com/en/",
+        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": [
+        "Retail destinations",
+        "Premium office towers",
+        "Luxury and lifestyle hotels",
+        "Upscale residential towers",
+        "Arts and culture",
+        "Public realm / green space"
+      ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.onebangkok.com/en/",
+        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
+      },
+      "verified_at": "2026-07-16",
+      "value": "under_construction"
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.onebangkok.com/en/",
+        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
+      },
+      "verified_at": "2026-07-16"
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.onebangkok.com/en/",
+        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
+      },
+      "verified_at": "2026-07-16",
+      "value": 3
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.onebangkok.com/en/",
+        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
+      },
+      "verified_at": "2026-07-16"
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.onebangkok.com/en/",
+        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
+      },
+      "verified_at": "2026-07-16"
     }
   },
   "project_master": {
@@ -429,6 +517,39 @@
       "rights_note": "hotlink",
       "download_status": "placeholder_pending_official_mirror",
       "placeholder_path": null
+    },
+    "gallery": {
+      "official_url": "https://www.onebangkok.com/en/",
+      "copyright_source": "© frasers-property-thailand / One Bangkok",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "unverified_no_official_gallery"
+    },
+    "brochure": {
+      "official_url": "https://www.onebangkok.com/en/",
+      "copyright_source": "© frasers-property-thailand / One Bangkok",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "unverified_no_official_pdf"
+    },
+    "floor_plans": {
+      "official_url": "https://www.onebangkok.com/en/",
+      "copyright_source": "© frasers-property-thailand / One Bangkok",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "unverified_no_official_plans_published"
     }
+  },
+  "project_factory": {
+    "phase": "11-wave-2",
+    "verified_at": "2026-07-16",
+    "wave": 2,
+    "developer": "frasers-property-thailand"
   }
 }

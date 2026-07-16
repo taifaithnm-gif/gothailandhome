@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "THE ESSE Asoke official project page",
+      "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke"
+    },
+    {
+      "type": "official_developer",
       "name": "The Esse Asoke official / developer page",
       "url": "https://www.scasset.com/"
     },
@@ -55,15 +60,15 @@
       "th": "ดิ เอสส์ อโศก เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เอสซี แอสเสท รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
     },
     "address": {
-      "en": "Watthana, Bangkok",
-      "zh": "曼谷瓦他那",
-      "th": "วัฒนา กรุงเทพฯ"
+      "en": "Asoke Montri Road / Sukhumvit, Bangkok (prime Asoke plot)",
+      "zh": "Asoke Montri Road / Sukhumvit, Bangkok (prime Asoke plot)",
+      "th": "Asoke Montri Road / Sukhumvit, Bangkok (prime Asoke plot)"
     },
     "postal_code": "10110",
     "latitude": 13.74304753689878,
     "longitude": 100.5620725387915,
     "google_maps_url": "https://www.google.com/maps?q=13.74304753689878,100.5620725387915",
-    "official_website": "https://www.scasset.com/",
+    "official_website": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
     "facebook_url": "https://www.facebook.com/SCAsset",
     "completion_year": 2018,
     "transit_tags": [
@@ -85,121 +90,34 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "pool",
+        "key": "amenities_official_amenities_section",
         "name": {
-          "en": "Swimming pool",
-          "zh": "Swimming pool",
-          "th": "Swimming pool"
+          "en": "Amenities (official Amenities section)",
+          "zh": "Amenities (official Amenities section)",
+          "th": "Amenities (official Amenities section)"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke"
       },
       {
-        "key": "fitness",
+        "key": "services_official_services_section",
         "name": {
-          "en": "Fitness / gym",
-          "zh": "Fitness / gym",
-          "th": "Fitness / gym"
+          "en": "Services (official Services section)",
+          "zh": "Services (official Services section)",
+          "th": "Services (official Services section)"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke"
       },
       {
-        "key": "parking",
+        "key": "gallery_facilities_visuals",
         "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
+          "en": "Gallery facilities visuals",
+          "zh": "Gallery facilities visuals",
+          "th": "Gallery facilities visuals"
         },
-        "source": "propertyhub"
-      },
-      {
-        "key": "security",
-        "name": {
-          "en": "24h security",
-          "zh": "24h security",
-          "th": "24h security"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "park",
-        "name": {
-          "en": "Garden / courtyard",
-          "zh": "Garden / courtyard",
-          "th": "Garden / courtyard"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "library",
-        "name": {
-          "en": "Library",
-          "zh": "Library",
-          "th": "Library"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "sauna",
-        "name": {
-          "en": "Sauna",
-          "zh": "Sauna",
-          "th": "Sauna"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "steam",
-        "name": {
-          "en": "Steam",
-          "zh": "Steam",
-          "th": "Steam"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "jacuzzi",
-        "name": {
-          "en": "Jacuzzi",
-          "zh": "Jacuzzi",
-          "th": "Jacuzzi"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "lift",
-        "name": {
-          "en": "Elevator",
-          "zh": "Elevator",
-          "th": "Elevator"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "cctv",
-        "name": {
-          "en": "CCTV",
-          "zh": "CCTV",
-          "th": "CCTV"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "keycard",
-        "name": {
-          "en": "Keycard access",
-          "zh": "Keycard access",
-          "th": "Keycard access"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "meeting-room",
-        "name": {
-          "en": "Meeting room",
-          "zh": "Meeting room",
-          "th": "Meeting room"
-        },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke"
       }
     ],
     "nearby_schools": [
@@ -699,69 +617,137 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
-    }
+    },
+    "total_units": 419,
+    "unit_count": 419,
+    "floor_count": 55,
+    "floors": 55,
+    "building_count": 1,
+    "buildings": 1
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.scasset.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+        "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.scasset.com/"
+      "value": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke"
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.scasset.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+        "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
       },
       "verified_at": "2026-07-16",
-      "value": "Watthana, Bangkok"
+      "value": "Asoke Montri Road / Sukhumvit, Bangkok (prime Asoke plot)"
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.scasset.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+        "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "value": "Official gallery section present"
     },
     "official_brochure": {
       "field": "official_brochure",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.scasset.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+        "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.scasset.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+        "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "Official floor / unit plan section"
     },
     "official_facilities": {
       "field": "official_facilities",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.scasset.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+        "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": [
+        "Amenities (official Amenities section)",
+        "Services (official Services section)",
+        "Gallery facilities visuals"
+      ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+        "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
+      },
+      "verified_at": "2026-07-16",
+      "value": "completed"
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+        "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
+      },
+      "verified_at": "2026-07-16"
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+        "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
+      },
+      "verified_at": "2026-07-16",
+      "value": 1
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+        "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
+      },
+      "verified_at": "2026-07-16",
+      "value": 55
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+        "note": "Singha Estate official residential page: 55-storey, 419 units. Sold Out on brand index. Catalog lists sc-asset — publisher conflict noted; facts from Singha official project page only. Completion year / brochure PDF URL not captured. Official publisher site: singha-estate (catalog developer_slug=sc-asset)."
+      },
+      "verified_at": "2026-07-16",
+      "value": 419
     }
   },
   "project_master": {
@@ -780,6 +766,39 @@
       "rights_note": "hotlink",
       "download_status": "placeholder_pending_official_mirror",
       "placeholder_path": null
+    },
+    "gallery": {
+      "official_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+      "copyright_source": "© singha-estate / THE ESSE Asoke",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "official_section_hotlink_pending_license"
+    },
+    "brochure": {
+      "official_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+      "copyright_source": "© singha-estate / THE ESSE Asoke",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "unverified_no_official_pdf"
+    },
+    "floor_plans": {
+      "official_url": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke",
+      "copyright_source": "© singha-estate / THE ESSE Asoke",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "not_downloaded_pending_license"
     }
+  },
+  "project_factory": {
+    "phase": "11-wave-2",
+    "verified_at": "2026-07-16",
+    "wave": 2,
+    "developer": "sc-asset"
   }
 }

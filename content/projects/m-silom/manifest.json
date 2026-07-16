@@ -656,64 +656,103 @@
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
-      "evidence_class": "OFFICIAL",
+      "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.major.co.th/"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No live official Major project DETAIL page confirmed for M Silom."
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.major.co.th/"
+      "value": null
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.major.co.th/"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No live official Major project DETAIL page confirmed for M Silom."
       },
-      "verified_at": "2026-07-16",
-      "value": "Bang Rak, Bangkok"
+      "verified_at": "2026-07-16"
     },
     "official_gallery": {
       "field": "official_gallery",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.major.co.th/"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No live official Major project DETAIL page confirmed for M Silom."
       },
-      "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "verified_at": "2026-07-16"
     },
     "official_brochure": {
       "field": "official_brochure",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.major.co.th/"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No live official Major project DETAIL page confirmed for M Silom."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.major.co.th/"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No live official Major project DETAIL page confirmed for M Silom."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     },
     "official_facilities": {
       "field": "official_facilities",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.major.co.th/"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No live official Major project DETAIL page confirmed for M Silom."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unverified_no_official_project_page",
+        "note": "No live official Major project DETAIL page confirmed for M Silom."
+      },
+      "verified_at": "2026-07-16"
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unverified_no_official_project_page",
+        "note": "No live official Major project DETAIL page confirmed for M Silom."
+      },
+      "verified_at": "2026-07-16"
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unverified_no_official_project_page",
+        "note": "No live official Major project DETAIL page confirmed for M Silom."
+      },
+      "verified_at": "2026-07-16"
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unverified_no_official_project_page",
+        "note": "No live official Major project DETAIL page confirmed for M Silom."
+      },
+      "verified_at": "2026-07-16"
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unverified_no_official_project_page",
+        "note": "No live official Major project DETAIL page confirmed for M Silom."
+      },
+      "verified_at": "2026-07-16"
     }
   },
   "project_master": {
@@ -732,6 +771,39 @@
       "rights_note": "hotlink",
       "download_status": "placeholder_pending_official_mirror",
       "placeholder_path": null
+    },
+    "gallery": {
+      "official_url": null,
+      "copyright_source": "© major-development / M Silom",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "unverified_no_official_gallery"
+    },
+    "brochure": {
+      "official_url": null,
+      "copyright_source": "© major-development / M Silom",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "unverified_no_official_pdf"
+    },
+    "floor_plans": {
+      "official_url": null,
+      "copyright_source": "© major-development / M Silom",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "unverified_no_official_plans_published"
     }
+  },
+  "project_factory": {
+    "phase": "11-wave-2",
+    "verified_at": "2026-07-16",
+    "wave": 2,
+    "developer": "major-development"
   }
 }

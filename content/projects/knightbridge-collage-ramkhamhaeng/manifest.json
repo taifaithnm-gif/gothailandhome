@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "KnightsBridge Collage Ramkhamhaeng official project page",
+      "url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
+    },
+    {
+      "type": "official_developer",
       "name": "KnightBridge Collage Ramkhamhaeng official / developer page",
       "url": "https://www.origin.co.th/"
     }
@@ -50,15 +55,15 @@
       "th": "ไนท์บริดจ์ คอลลาจ รามคำแหง เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา ออริจิ้น พร็อพเพอร์ตี้ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
     },
     "address": {
-      "en": "Bang Kapi, Bangkok",
-      "zh": "曼谷挽甲必",
-      "th": "บางกะปิ กรุงเทพฯ"
+      "en": "Ramkhamhaeng area, Bangkok (near MRT Hua Mak / Yellow Line Lam Sali)",
+      "zh": "Ramkhamhaeng area, Bangkok (near MRT Hua Mak / Yellow Line Lam Sali)",
+      "th": "Ramkhamhaeng area, Bangkok (near MRT Hua Mak / Yellow Line Lam Sali)"
     },
     "postal_code": "10240",
     "latitude": null,
     "longitude": null,
     "google_maps_url": null,
-    "official_website": "https://www.origin.co.th/",
+    "official_website": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
     "facebook_url": null,
     "completion_year": null,
     "transit_tags": [],
@@ -216,69 +221,248 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
-    }
+    },
+    "construction_status": "completed",
+    "total_units": 682,
+    "unit_count": 682,
+    "floor_count": 25,
+    "floors": 25,
+    "building_count": 1,
+    "buildings": 1,
+    "facilities": [
+      {
+        "key": "lobby",
+        "name": {
+          "en": "Lobby",
+          "zh": "Lobby",
+          "th": "Lobby"
+        },
+        "source": "official_developer",
+        "source_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
+      },
+      {
+        "key": "mailbox",
+        "name": {
+          "en": "Mailbox",
+          "zh": "Mailbox",
+          "th": "Mailbox"
+        },
+        "source": "official_developer",
+        "source_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
+      },
+      {
+        "key": "co_working_space_library",
+        "name": {
+          "en": "Co-working space & Library",
+          "zh": "Co-working space & Library",
+          "th": "Co-working space & Library"
+        },
+        "source": "official_developer",
+        "source_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
+      },
+      {
+        "key": "co_kitchen_co_pantry_space",
+        "name": {
+          "en": "Co-kitchen & Co-pantry space",
+          "zh": "Co-kitchen & Co-pantry space",
+          "th": "Co-kitchen & Co-pantry space"
+        },
+        "source": "official_developer",
+        "source_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
+      },
+      {
+        "key": "pool_in_the_park",
+        "name": {
+          "en": "Pool in the park",
+          "zh": "Pool in the park",
+          "th": "Pool in the park"
+        },
+        "source": "official_developer",
+        "source_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
+      },
+      {
+        "key": "health_club",
+        "name": {
+          "en": "Health Club",
+          "zh": "Health Club",
+          "th": "Health Club"
+        },
+        "source": "official_developer",
+        "source_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
+      },
+      {
+        "key": "sky_jogging_track",
+        "name": {
+          "en": "Sky Jogging Track",
+          "zh": "Sky Jogging Track",
+          "th": "Sky Jogging Track"
+        },
+        "source": "official_developer",
+        "source_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
+      },
+      {
+        "key": "access_card_control",
+        "name": {
+          "en": "Access Card Control",
+          "zh": "Access Card Control",
+          "th": "Access Card Control"
+        },
+        "source": "official_developer",
+        "source_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
+      },
+      {
+        "key": "cctv_24_hours",
+        "name": {
+          "en": "CCTV 24 hours",
+          "zh": "CCTV 24 hours",
+          "th": "CCTV 24 hours"
+        },
+        "source": "official_developer",
+        "source_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
+      },
+      {
+        "key": "24_hour_security",
+        "name": {
+          "en": "24-hour security",
+          "zh": "24-hour security",
+          "th": "24-hour security"
+        },
+        "source": "official_developer",
+        "source_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
+      }
+    ]
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.origin.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+        "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated."
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.origin.co.th/"
+      "value": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.origin.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+        "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated."
       },
       "verified_at": "2026-07-16",
-      "value": "Bang Kapi, Bangkok"
+      "value": "Ramkhamhaeng area, Bangkok (near MRT Hua Mak / Yellow Line Lam Sali)"
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.origin.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+        "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated."
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "value": "9 gallery URLs (hotlink)"
     },
     "official_brochure": {
       "field": "official_brochure",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.origin.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://origin.co.th/wp-content/uploads/2019/04/E-Brochure-KNB-Collage-RamKhamhaeng-small.pdf",
+        "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated."
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "https://origin.co.th/wp-content/uploads/2019/04/E-Brochure-KNB-Collage-RamKhamhaeng-small.pdf"
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.origin.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+        "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated."
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "Official floor / unit plan section"
     },
     "official_facilities": {
       "field": "official_facilities",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.origin.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+        "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated."
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": [
+        "Lobby",
+        "Mailbox",
+        "Co-working space & Library",
+        "Co-kitchen & Co-pantry space",
+        "Pool in the park",
+        "Health Club",
+        "Sky Jogging Track",
+        "Access Card Control",
+        "CCTV 24 hours",
+        "24-hour security"
+      ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+        "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated."
+      },
+      "verified_at": "2026-07-16",
+      "value": "completed"
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+        "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated."
+      },
+      "verified_at": "2026-07-16"
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+        "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated."
+      },
+      "verified_at": "2026-07-16",
+      "value": 1
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+        "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated."
+      },
+      "verified_at": "2026-07-16",
+      "value": 25
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+        "note": "Official Thai page: อาคาร 25 ชั้น 1 อาคาร / 682 ยูนิต. Unit plan section present. Completion year not stated."
+      },
+      "verified_at": "2026-07-16",
+      "value": 682
     }
   },
   "project_master": {
@@ -297,6 +481,50 @@
       "rights_note": "hotlink",
       "download_status": "placeholder_pending_official_mirror",
       "placeholder_path": null
+    },
+    "gallery": {
+      "official_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+      "copyright_source": "© origin-property / KnightsBridge Collage Ramkhamhaeng",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license",
+      "gallery_image_urls": [
+        "https://origin.co.th/wp-content/uploads/2019/04/DSC2667.jpg",
+        "https://origin.co.th/wp-content/uploads/2019/04/DSC2696.jpg",
+        "https://origin.co.th/wp-content/uploads/2019/04/DSC2702.jpg",
+        "https://origin.co.th/wp-content/uploads/2019/04/DSC2758.jpg",
+        "https://origin.co.th/wp-content/uploads/2019/04/DSC2762.jpg",
+        "https://origin.co.th/wp-content/uploads/2019/04/DSC2808-1.jpg",
+        "https://origin.co.th/wp-content/uploads/2019/04/DSC2801.jpg",
+        "https://origin.co.th/wp-content/uploads/2019/04/DSC2793-retouch.jpg",
+        "https://origin.co.th/wp-content/uploads/2019/04/DSC2787.jpg"
+      ]
+    },
+    "brochure": {
+      "official_url": "https://origin.co.th/wp-content/uploads/2019/04/E-Brochure-KNB-Collage-RamKhamhaeng-small.pdf",
+      "copyright_source": "© origin-property / KnightsBridge Collage Ramkhamhaeng — official brochure PDF",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "floor_plans": {
+      "official_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
+      "copyright_source": "© origin-property / KnightsBridge Collage Ramkhamhaeng",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "not_downloaded_pending_license"
     }
+  },
+  "project_factory": {
+    "phase": "11-wave-2",
+    "verified_at": "2026-07-16",
+    "wave": 2,
+    "developer": "origin-property"
   }
 }

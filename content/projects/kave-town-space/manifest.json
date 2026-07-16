@@ -333,7 +333,7 @@
       "evidence_class": "UNVERIFIED",
       "provenance": {
         "source_type": "unverified_no_official_project_page",
-        "note": "No dedicated official AssetWise project page found (404). Closest live KAVE pages are other KAVE products (e.g. kave-town-island), not Town Space."
+        "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony."
       },
       "verified_at": "2026-07-16",
       "value": null
@@ -342,93 +342,91 @@
       "field": "official_address",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unverified_no_official_project_page"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     },
     "official_gallery": {
       "field": "official_gallery",
       "evidence_class": "UNVERIFIED",
       "provenance": {
         "source_type": "unverified_no_official_project_page",
-        "note": "Binaries not mirrored pending license"
+        "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     },
     "official_brochure": {
       "field": "official_brochure",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unverified_no_official_project_page"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unverified_no_official_project_page"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     },
     "official_facilities": {
       "field": "official_facilities",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unverified_no_official_project_page"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     },
     "project_status": {
       "field": "project_status",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unverified_no_official_project_page"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony."
       },
-      "verified_at": "2026-07-16",
-      "value": "completed"
+      "verified_at": "2026-07-16"
     },
     "completion_year": {
       "field": "completion_year",
       "evidence_class": "UNVERIFIED",
       "provenance": {
         "source_type": "unverified_no_official_project_page",
-        "note": "Completion calendar year not stated on official page; packaged value not upgraded"
+        "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony."
       },
-      "verified_at": "2026-07-16",
-      "value": 2020
+      "verified_at": "2026-07-16"
     },
     "building_count": {
       "field": "building_count",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unverified_no_official_project_page"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     },
     "floor_count": {
       "field": "floor_count",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unverified_no_official_project_page"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     },
     "total_units": {
       "field": "total_units",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unverified_no_official_project_page"
+        "source_type": "unverified_no_official_project_page",
+        "note": "No dedicated AssetWise project page (404). Not equated to KAVE Town Island/Colony."
       },
-      "verified_at": "2026-07-16",
-      "value": null
+      "verified_at": "2026-07-16"
     }
   },
   "project_master": {
@@ -439,8 +437,8 @@
   },
   "media_library": {
     "gallery": {
-      "official_url": "https://www.assetwise.co.th/",
-      "copyright_source": "© AssetWise Public Company Limited / Kave Town Space",
+      "official_url": null,
+      "copyright_source": "© assetwise / KAVE Town Space",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
@@ -448,8 +446,8 @@
       "download_status": "unverified_no_official_gallery"
     },
     "brochure": {
-      "official_url": "https://www.assetwise.co.th/",
-      "copyright_source": "© AssetWise Public Company Limited / Kave Town Space",
+      "official_url": null,
+      "copyright_source": "© assetwise / KAVE Town Space",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
@@ -457,8 +455,8 @@
       "download_status": "unverified_no_official_pdf"
     },
     "floor_plans": {
-      "official_url": "https://www.assetwise.co.th/",
-      "copyright_source": "© AssetWise Public Company Limited / Kave Town Space",
+      "official_url": null,
+      "copyright_source": "© assetwise / KAVE Town Space",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
@@ -479,5 +477,11 @@
     "phase": "11-batch-6",
     "developer": "assetwise",
     "verified_at": "2026-07-16"
+  },
+  "project_factory": {
+    "phase": "11-wave-2",
+    "verified_at": "2026-07-16",
+    "wave": 2,
+    "developer": "assetwise"
   }
 }
