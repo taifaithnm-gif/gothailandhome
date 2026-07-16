@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "noble-around-ari official project page",
+      "url": "https://www.noblehome.com/en/condominium/around-ari"
+    },
+    {
+      "type": "official_developer",
       "name": "Noble Around Ari official / developer page",
       "url": "https://www.noblehome.com/"
     },
@@ -55,15 +60,15 @@
       "th": "โนเบิล อราวน์ อารีย์ เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา โนเบิล ดีเวลลอปเมนท์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
     },
     "address": {
-      "en": "Phaya Thai, Bangkok",
-      "zh": "曼谷帕亚泰",
-      "th": "พญาไท กรุงเทพฯ"
+      "en": "308/1 Phahonyothin Road, Samsen Nai, Phaya Thai, Bangkok 10400",
+      "zh": "308/1 Phahonyothin Road, Samsen Nai, Phaya Thai, Bangkok 10400",
+      "th": "308/1 ถนนพหลโยธิน แขวงสามเสนใน เขตพญาไท กรุงเทพฯ 10400"
     },
     "postal_code": "10400",
     "latitude": 13.778012358807468,
     "longitude": 100.54423048297679,
     "google_maps_url": "https://www.google.com/maps?q=13.778012358807468,100.54423048297679",
-    "official_website": "https://www.noblehome.com/",
+    "official_website": "https://www.noblehome.com/en/condominium/around-ari",
     "facebook_url": "https://www.facebook.com/NobleDevelopment",
     "completion_year": 2023,
     "transit_tags": [
@@ -84,94 +89,54 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "pool",
+        "key": "lobby_x",
         "name": {
-          "en": "Swimming pool",
-          "zh": "Swimming pool",
-          "th": "Swimming pool"
+          "en": "LOBBY-X & The Mezzanine Library",
+          "zh": "LOBBY-X & The Mezzanine Library",
+          "th": "LOBBY-X & The Mezzanine Library"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.noblehome.com/en/condominium/around-ari"
       },
       {
-        "key": "fitness",
+        "key": "around_garden",
         "name": {
-          "en": "Fitness / gym",
-          "zh": "Fitness / gym",
-          "th": "Fitness / gym"
+          "en": "Around Garden",
+          "zh": "Around Garden",
+          "th": "Around Garden"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.noblehome.com/en/condominium/around-ari"
       },
       {
-        "key": "parking",
+        "key": "dimensional_pool",
         "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
+          "en": "Dimensional Pool & Horizontal Gym",
+          "zh": "Dimensional Pool & Horizontal Gym",
+          "th": "Dimensional Pool & Horizontal Gym"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.noblehome.com/en/condominium/around-ari"
       },
       {
-        "key": "security",
+        "key": "uptown_sky_lounge",
         "name": {
-          "en": "24h security",
-          "zh": "24h security",
-          "th": "24h security"
+          "en": "Uptown Sky Lounge",
+          "zh": "Uptown Sky Lounge",
+          "th": "Uptown Sky Lounge"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.noblehome.com/en/condominium/around-ari"
       },
       {
-        "key": "park",
+        "key": "ari_cloud_forest",
         "name": {
-          "en": "Garden / courtyard",
-          "zh": "Garden / courtyard",
-          "th": "Garden / courtyard"
+          "en": "Ari Cloud Forest",
+          "zh": "Ari Cloud Forest",
+          "th": "Ari Cloud Forest"
         },
-        "source": "propertyhub"
-      },
-      {
-        "key": "library",
-        "name": {
-          "en": "Library",
-          "zh": "Library",
-          "th": "Library"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "lift",
-        "name": {
-          "en": "Elevator",
-          "zh": "Elevator",
-          "th": "Elevator"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "cctv",
-        "name": {
-          "en": "CCTV",
-          "zh": "CCTV",
-          "th": "CCTV"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "keycard",
-        "name": {
-          "en": "Keycard access",
-          "zh": "Keycard access",
-          "th": "Keycard access"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "meeting-room",
-        "name": {
-          "en": "Meeting room",
-          "zh": "Meeting room",
-          "th": "Meeting room"
-        },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.noblehome.com/en/condominium/around-ari"
       }
     ],
     "nearby_schools": [
@@ -591,6 +556,133 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
+    },
+    "facilities_official": [
+      {
+        "key": "lobby_x",
+        "name": {
+          "en": "LOBBY-X & The Mezzanine Library",
+          "zh": "LOBBY-X & The Mezzanine Library",
+          "th": "LOBBY-X & The Mezzanine Library"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.noblehome.com/en/condominium/around-ari"
+      },
+      {
+        "key": "around_garden",
+        "name": {
+          "en": "Around Garden",
+          "zh": "Around Garden",
+          "th": "Around Garden"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.noblehome.com/en/condominium/around-ari"
+      },
+      {
+        "key": "dimensional_pool",
+        "name": {
+          "en": "Dimensional Pool & Horizontal Gym",
+          "zh": "Dimensional Pool & Horizontal Gym",
+          "th": "Dimensional Pool & Horizontal Gym"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.noblehome.com/en/condominium/around-ari"
+      },
+      {
+        "key": "uptown_sky_lounge",
+        "name": {
+          "en": "Uptown Sky Lounge",
+          "zh": "Uptown Sky Lounge",
+          "th": "Uptown Sky Lounge"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.noblehome.com/en/condominium/around-ari"
+      },
+      {
+        "key": "ari_cloud_forest",
+        "name": {
+          "en": "Ari Cloud Forest",
+          "zh": "Ari Cloud Forest",
+          "th": "Ari Cloud Forest"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.noblehome.com/en/condominium/around-ari"
+      }
+    ]
+  },
+  "field_evidence": {
+    "official_project_page": {
+      "field": "official_project_page",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.noblehome.com/en/condominium/around-ari"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.noblehome.com/en/condominium/around-ari"
+    },
+    "official_address": {
+      "field": "official_address",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.noblehome.com/en/condominium/around-ari"
+      },
+      "verified_at": "2026-07-16",
+      "value": "308/1 Phahonyothin Road, Samsen Nai, Phaya Thai, Bangkok 10400"
+    },
+    "official_gallery": {
+      "field": "official_gallery",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.noblehome.com/en/condominium/around-ari"
+      },
+      "verified_at": "2026-07-16",
+      "value": null,
+      "note": "No rights-cleared official gallery harvested this sprint."
+    },
+    "official_brochure": {
+      "field": "official_brochure",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.noblehome.com/en/condominium/around-ari"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "official_floor_plan": {
+      "field": "official_floor_plan",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.noblehome.com/en/condominium/around-ari"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "official_facilities": {
+      "field": "official_facilities",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.noblehome.com/en/condominium/around-ari"
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "LOBBY-X & The Mezzanine Library",
+        "Around Garden",
+        "Dimensional Pool & Horizontal Gym",
+        "Uptown Sky Lounge",
+        "Ari Cloud Forest"
+      ]
     }
+  },
+  "project_master": {
+    "phase": "10-sprint-3",
+    "verified_at": "2026-07-16",
+    "rule": "official_project_pages_only_for_official_field_upgrades",
+    "sprint": "phase10-sprint-3"
   }
 }

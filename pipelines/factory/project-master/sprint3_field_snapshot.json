@@ -1,0 +1,598 @@
+{
+  "verified_at": "2026-07-16",
+  "baseline_s1_avg_pct": 33.6,
+  "avg_completeness_pct": 35,
+  "delta_pp": 1.4,
+  "target_pct": 90,
+  "target_met": false,
+  "field_counts": {
+    "official_project_page": {
+      "OFFICIAL": 50,
+      "VERIFIED_PORTAL": 0,
+      "UNVERIFIED": 0,
+      "DERIVED": 0
+    },
+    "official_address": {
+      "OFFICIAL": 6,
+      "VERIFIED_PORTAL": 44,
+      "UNVERIFIED": 0,
+      "DERIVED": 0
+    },
+    "official_gallery": {
+      "OFFICIAL": 3,
+      "VERIFIED_PORTAL": 0,
+      "UNVERIFIED": 47,
+      "DERIVED": 0
+    },
+    "official_brochure": {
+      "OFFICIAL": 2,
+      "VERIFIED_PORTAL": 0,
+      "UNVERIFIED": 48,
+      "DERIVED": 0
+    },
+    "official_floor_plan": {
+      "OFFICIAL": 1,
+      "VERIFIED_PORTAL": 0,
+      "UNVERIFIED": 49,
+      "DERIVED": 0
+    },
+    "official_facilities": {
+      "OFFICIAL": 7,
+      "VERIFIED_PORTAL": 28,
+      "UNVERIFIED": 15,
+      "DERIVED": 0
+    }
+  },
+  "rows": [
+    {
+      "slug": "the-livin-ramkhamhaeng",
+      "official_url": "https://www.livinram.com/en",
+      "official_project_page": "OFFICIAL",
+      "official_address": "OFFICIAL",
+      "official_gallery": "OFFICIAL",
+      "official_brochure": "OFFICIAL",
+      "official_floor_plan": "OFFICIAL",
+      "official_facilities": "OFFICIAL",
+      "completeness_pct": 100
+    },
+    {
+      "slug": "rhythm-ekkamai",
+      "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+      "official_project_page": "OFFICIAL",
+      "official_address": "OFFICIAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "OFFICIAL",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "OFFICIAL",
+      "completeness_pct": 66.7
+    },
+    {
+      "slug": "ashton-asoke",
+      "official_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "OFFICIAL",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "OFFICIAL",
+      "completeness_pct": 58.3
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "official_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "OFFICIAL",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 50
+    },
+    {
+      "slug": "noble-around-ari",
+      "official_url": "https://www.noblehome.com/en/condominium/around-ari",
+      "official_project_page": "OFFICIAL",
+      "official_address": "OFFICIAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "OFFICIAL",
+      "completeness_pct": 50
+    },
+    {
+      "slug": "one-bangkok",
+      "official_url": "https://www.onebangkok.com/en/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "OFFICIAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "OFFICIAL",
+      "completeness_pct": 50
+    },
+    {
+      "slug": "the-forestias",
+      "official_url": "https://www.theforestias.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "OFFICIAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "OFFICIAL",
+      "completeness_pct": 50
+    },
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "OFFICIAL",
+      "completeness_pct": 41.7
+    },
+    {
+      "slug": "xt-phayathai",
+      "official_url": "https://www.sansiri.com/hotdeal/project/xt-phayathai",
+      "official_project_page": "OFFICIAL",
+      "official_address": "OFFICIAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 41.7
+    },
+    {
+      "slug": "casa-condo-asoke-dindaeng",
+      "official_url": "https://www.qh.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "chapter-one-midtown-ladprao-24",
+      "official_url": "https://www.pruksa.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "official_url": "https://www.ananda.co.th/en/condominium/ideo-mobi-sukhumvit-66",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "kave-town-space",
+      "official_url": "https://www.assetwise.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "knightsbridge-prime-sathorn",
+      "official_url": "https://www.origin.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "life-asoke-rama-9",
+      "official_url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "life-ladprao",
+      "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "life-one-wireless",
+      "official_url": "https://www.apthai.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "m-silom",
+      "official_url": "https://www.major.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "maestro-03-ratchada-rama-9",
+      "official_url": "https://www.major.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "modiz-rhyme-ramkhamhaeng",
+      "official_url": "https://www.assetwise.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "niche-pride-thonglor-phetchaburi",
+      "official_url": "https://www.sena.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "noble-revolve-ratchada",
+      "official_url": "https://www.noblehome.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "official_url": "https://www.supalai.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "official_url": "https://www.supalai.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "official_url": "https://www.supalai.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "official_url": "https://www.sansiri.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "the-esse-asoke",
+      "official_url": "https://www.scasset.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "the-esse-sukhumvit-36",
+      "official_url": "https://www.scasset.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "official_url": "https://www.sansiri.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "the-lofts-silom",
+      "official_url": "https://www.raimonland.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "the-privacy-rama-9",
+      "official_url": "https://www.pruksa.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "the-room-sathorn-taksin",
+      "official_url": "https://www.lh.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "the-room-sukhumvit-62",
+      "official_url": "https://www.lh.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "whizdom-essence",
+      "official_url": "https://www.mqdc.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "official_url": "https://www.sansiri.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "VERIFIED_PORTAL",
+      "completeness_pct": 33.3
+    },
+    {
+      "slug": "168-sukhothai-residences",
+      "official_url": "https://www.raimonland.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "ascott-embassy-sathorn",
+      "official_url": "https://www.capitaland.com/th/en.html",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "official_url": "https://www.apthai.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "chapter-one-shine-bang-pho",
+      "official_url": "https://www.pruksa.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "official_url": "https://www.sansiri.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "ideo-rama-9",
+      "official_url": "https://www.ananda.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "knightbridge-collage-ramkhamhaeng",
+      "official_url": "https://www.origin.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "lumpini-ville-phahol-saphanmai",
+      "official_url": "https://www.lpn.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "m-jive-sathorn-lumphini",
+      "official_url": "https://www.major.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "noble-beat",
+      "official_url": "https://www.noblehome.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "origin-plug-play-sukhumvit-101",
+      "official_url": "https://www.origin.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "samyan-mitrtown",
+      "official_url": "https://www.samyanmitrtown.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "singha-complex",
+      "official_url": "https://www.singhaestate.co.th/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "the-tree-rio-bang-aor",
+      "official_url": "https://www.pruksa.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    },
+    {
+      "slug": "vyva-thonglor",
+      "official_url": "https://www.scasset.com/",
+      "official_project_page": "OFFICIAL",
+      "official_address": "VERIFIED_PORTAL",
+      "official_gallery": "UNVERIFIED",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plan": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "completeness_pct": 25
+    }
+  ]
+}

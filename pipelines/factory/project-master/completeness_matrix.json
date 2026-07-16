@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T07:50:58Z",
+  "generated_at": "2026-07-16T03:20:00Z",
   "classification_enum": [
     "OFFICIAL",
     "VERIFIED_PORTAL",
@@ -614,7 +614,7 @@
       "C_official_project_url": "OFFICIAL",
       "C_project_status": "VERIFIED_PORTAL",
       "C_completion_year": "VERIFIED_PORTAL",
-      "C_full_address": "VERIFIED_PORTAL",
+      "C_full_address": "OFFICIAL",
       "C_district": "OFFICIAL",
       "C_subdistrict": "UNVERIFIED",
       "C_latitude": "VERIFIED_PORTAL",
@@ -623,7 +623,7 @@
       "C_floor_count": "UNVERIFIED",
       "C_total_units": "UNVERIFIED",
       "C_unit_types": "UNVERIFIED",
-      "C_official_facilities": "VERIFIED_PORTAL",
+      "C_official_facilities": "OFFICIAL",
       "C_nearest_bts": "DERIVED",
       "C_nearest_mrt": "UNVERIFIED",
       "C_official_brochure": "UNVERIFIED",
@@ -739,7 +739,7 @@
       "C_official_project_url": "OFFICIAL",
       "C_project_status": "VERIFIED_PORTAL",
       "C_completion_year": "VERIFIED_PORTAL",
-      "C_full_address": "VERIFIED_PORTAL",
+      "C_full_address": "OFFICIAL",
       "C_district": "OFFICIAL",
       "C_subdistrict": "UNVERIFIED",
       "C_latitude": "VERIFIED_PORTAL",
@@ -748,10 +748,10 @@
       "C_floor_count": "UNVERIFIED",
       "C_total_units": "UNVERIFIED",
       "C_unit_types": "UNVERIFIED",
-      "C_official_facilities": "VERIFIED_PORTAL",
+      "C_official_facilities": "OFFICIAL",
       "C_nearest_bts": "DERIVED",
       "C_nearest_mrt": "UNVERIFIED",
-      "C_official_brochure": "UNVERIFIED",
+      "C_official_brochure": "OFFICIAL",
       "C_official_floor_plans": "UNVERIFIED",
       "C_official_gallery_source": "UNVERIFIED",
       "C_verification_timestamp": "OFFICIAL"
@@ -873,7 +873,7 @@
       "C_floor_count": "UNVERIFIED",
       "C_total_units": "UNVERIFIED",
       "C_unit_types": "UNVERIFIED",
-      "C_official_facilities": "VERIFIED_PORTAL",
+      "C_official_facilities": "OFFICIAL",
       "C_nearest_bts": "DERIVED",
       "C_nearest_mrt": "DERIVED",
       "C_official_brochure": "UNVERIFIED",
@@ -1264,7 +1264,7 @@
       "C_official_project_url": "OFFICIAL",
       "C_project_status": "VERIFIED_PORTAL",
       "C_completion_year": "VERIFIED_PORTAL",
-      "C_full_address": "VERIFIED_PORTAL",
+      "C_full_address": "OFFICIAL",
       "C_district": "OFFICIAL",
       "C_subdistrict": "UNVERIFIED",
       "C_latitude": "VERIFIED_PORTAL",
@@ -1371,5 +1371,6 @@
     "verification_timestamp": {
       "OFFICIAL": 50
     }
-  }
+  },
+  "sprint": "phase10-sprint-3"
 }

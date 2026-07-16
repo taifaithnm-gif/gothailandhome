@@ -560,5 +560,74 @@
         "evidence": "SOLD OUT on AP Thai project page"
       }
     }
+  },
+  "field_evidence": {
+    "official_project_page": {
+      "field": "official_project_page",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.apthai.com/en/condominium/life-ladprao"
+    },
+    "official_address": {
+      "field": "official_address",
+      "evidence_class": "VERIFIED_PORTAL",
+      "provenance": {
+        "source_type": "verified_portal",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+      },
+      "verified_at": "2026-07-16",
+      "value": "Chatuchak, Bangkok"
+    },
+    "official_gallery": {
+      "field": "official_gallery",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+      },
+      "verified_at": "2026-07-16",
+      "value": null,
+      "note": "No rights-cleared official gallery harvested this sprint."
+    },
+    "official_brochure": {
+      "field": "official_brochure",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "official_floor_plan": {
+      "field": "official_floor_plan",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "official_facilities": {
+      "field": "official_facilities",
+      "evidence_class": "VERIFIED_PORTAL",
+      "provenance": {
+        "source_type": "verified_portal",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    }
+  },
+  "project_master": {
+    "phase": "10-sprint-3",
+    "verified_at": "2026-07-16",
+    "rule": "official_project_pages_only_for_official_field_upgrades",
+    "sprint": "phase10-sprint-3"
   }
 }

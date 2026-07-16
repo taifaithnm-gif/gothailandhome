@@ -165,8 +165,13 @@
   },
   {
     "slug": "ideo-mobi-sukhumvit-66",
-    "official_project_url": "https://www.ananda.co.th/",
+    "official_project_url": "https://www.ananda.co.th/en/condominium/ideo-mobi-sukhumvit-66",
     "official_sources": [
+      {
+        "name": "ideo-mobi-sukhumvit-66 official project page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-mobi-sukhumvit-66",
+        "type": "official_developer"
+      },
       {
         "name": "IDEO MOBI Sukhumvit 66 official / developer page",
         "url": "https://www.ananda.co.th/",
@@ -299,8 +304,13 @@
   },
   {
     "slug": "life-asoke-rama-9",
-    "official_project_url": "https://www.apthai.com/",
+    "official_project_url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
     "official_sources": [
+      {
+        "name": "life-asoke-rama-9 official project page",
+        "url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
+        "type": "official_developer"
+      },
       {
         "name": "Life Asoke Rama 9 official / developer page",
         "url": "https://www.apthai.com/",
@@ -323,8 +333,13 @@
   },
   {
     "slug": "life-ladprao",
-    "official_project_url": "https://www.apthai.com/",
+    "official_project_url": "https://www.apthai.com/en/condominium/life-ladprao",
     "official_sources": [
+      {
+        "name": "life-ladprao official project page",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao",
+        "type": "official_developer"
+      },
       {
         "name": "Life Ladprao official / developer page",
         "url": "https://www.apthai.com/",
@@ -502,8 +517,13 @@
   },
   {
     "slug": "noble-around-ari",
-    "official_project_url": "https://www.noblehome.com/",
+    "official_project_url": "https://www.noblehome.com/en/condominium/around-ari",
     "official_sources": [
+      {
+        "name": "noble-around-ari official project page",
+        "url": "https://www.noblehome.com/en/condominium/around-ari",
+        "type": "official_developer"
+      },
       {
         "name": "Noble Around Ari official / developer page",
         "url": "https://www.noblehome.com/",
@@ -608,8 +628,18 @@
   },
   {
     "slug": "rhythm-ekkamai",
-    "official_project_url": "https://www.apthai.com/",
+    "official_project_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
     "official_sources": [
+      {
+        "name": "RHYTHM Ekkamai Estate official project page",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+        "type": "official_developer"
+      },
+      {
+        "name": "RHYTHM Ekkamai Estate official brochure PDF",
+        "url": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf",
+        "type": "official_brochure"
+      },
       {
         "name": "Rhythm Ekkamai official / developer page",
         "url": "https://www.apthai.com/",
@@ -715,8 +745,13 @@
   },
   {
     "slug": "supalai-oriental-sukhumvit-39",
-    "official_project_url": "https://www.supalai.com/",
+    "official_project_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
     "official_sources": [
+      {
+        "name": "supalai-oriental-sukhumvit-39 official project page",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+        "type": "official_developer"
+      },
       {
         "name": "Supalai Oriental Sukhumvit 39 official / developer page",
         "url": "https://www.supalai.com/",
@@ -1092,8 +1127,13 @@
   },
   {
     "slug": "xt-phayathai",
-    "official_project_url": "https://www.sansiri.com/",
+    "official_project_url": "https://www.sansiri.com/hotdeal/project/xt-phayathai",
     "official_sources": [
+      {
+        "name": "xt-phayathai official project page",
+        "url": "https://www.sansiri.com/hotdeal/project/xt-phayathai",
+        "type": "official_developer"
+      },
       {
         "name": "XT Phayathai official / developer page",
         "url": "https://www.sansiri.com/",

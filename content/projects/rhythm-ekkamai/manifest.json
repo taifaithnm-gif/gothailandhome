@@ -4,6 +4,16 @@
   "publish_ready": true,
   "sources": [
     {
+      "type": "official_brochure",
+      "name": "RHYTHM Ekkamai Estate official brochure PDF",
+      "url": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf"
+    },
+    {
+      "type": "official_developer",
+      "name": "RHYTHM Ekkamai Estate official project page",
+      "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+    },
+    {
       "type": "official_developer",
       "name": "Rhythm Ekkamai official / developer page",
       "url": "https://www.apthai.com/"
@@ -55,15 +65,15 @@
       "th": "ริทึ่ม เอกมัย เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เอพี ไทยแลนด์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
     },
     "address": {
-      "en": "Watthana, Bangkok",
-      "zh": "曼谷瓦他那",
-      "th": "วัฒนา กรุงเทพฯ"
+      "en": "Soi Sukhumvit 63 (Ekkamai Soi 1), Khlong Tan Nuea, Watthana, Bangkok",
+      "zh": "Soi Sukhumvit 63 (Ekkamai Soi 1), Khlong Tan Nuea, Watthana, Bangkok",
+      "th": "ซอยสุขุมวิท 63 (เอกมัยซอย 1) แขวงคลองตันเหนือ เขตวัฒนา กรุงเทพฯ"
     },
     "postal_code": "10110",
     "latitude": 13.7227299552121,
     "longitude": 100.58457323033679,
     "google_maps_url": "https://www.google.com/maps?q=13.7227299552121,100.58457323033679",
-    "official_website": "https://www.apthai.com/",
+    "official_website": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
     "facebook_url": "https://www.facebook.com/APthai",
     "completion_year": 2018,
     "transit_tags": [
@@ -84,94 +94,64 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "pool",
+        "key": "infinity_pool",
         "name": {
-          "en": "Swimming pool",
-          "zh": "Swimming pool",
-          "th": "Swimming pool"
+          "en": "Infinity pool",
+          "zh": "Infinity pool",
+          "th": "Infinity pool"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      {
+        "key": "floating_lobby",
+        "name": {
+          "en": "Floating lobby",
+          "zh": "Floating lobby",
+          "th": "Floating lobby"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      {
+        "key": "sky_lounge_library",
+        "name": {
+          "en": "Sky lounge & library",
+          "zh": "Sky lounge & library",
+          "th": "Sky lounge & library"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       {
         "key": "fitness",
         "name": {
-          "en": "Fitness / gym",
-          "zh": "Fitness / gym",
-          "th": "Fitness / gym"
+          "en": "Fitness center",
+          "zh": "Fitness center",
+          "th": "Fitness center"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       {
-        "key": "parking",
+        "key": "sky_spa",
         "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
+          "en": "Sky spa / wellness spa",
+          "zh": "Sky spa / wellness spa",
+          "th": "Sky spa / wellness spa"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       {
-        "key": "security",
+        "key": "sky_garden",
         "name": {
-          "en": "24h security",
-          "zh": "24h security",
-          "th": "24h security"
+          "en": "Sky garden",
+          "zh": "Sky garden",
+          "th": "Sky garden"
         },
-        "source": "propertyhub"
-      },
-      {
-        "key": "park",
-        "name": {
-          "en": "Garden / courtyard",
-          "zh": "Garden / courtyard",
-          "th": "Garden / courtyard"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "sauna",
-        "name": {
-          "en": "Sauna",
-          "zh": "Sauna",
-          "th": "Sauna"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "steam",
-        "name": {
-          "en": "Steam",
-          "zh": "Steam",
-          "th": "Steam"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "lift",
-        "name": {
-          "en": "Elevator",
-          "zh": "Elevator",
-          "th": "Elevator"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "cctv",
-        "name": {
-          "en": "CCTV",
-          "zh": "CCTV",
-          "th": "CCTV"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "keycard",
-        "name": {
-          "en": "Keycard access",
-          "zh": "Keycard access",
-          "th": "Keycard access"
-        },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       }
     ],
     "nearby_schools": [
@@ -671,6 +651,145 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
+    },
+    "facilities_official": [
+      {
+        "key": "infinity_pool",
+        "name": {
+          "en": "Infinity pool",
+          "zh": "Infinity pool",
+          "th": "Infinity pool"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      {
+        "key": "floating_lobby",
+        "name": {
+          "en": "Floating lobby",
+          "zh": "Floating lobby",
+          "th": "Floating lobby"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      {
+        "key": "sky_lounge_library",
+        "name": {
+          "en": "Sky lounge & library",
+          "zh": "Sky lounge & library",
+          "th": "Sky lounge & library"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness center",
+          "zh": "Fitness center",
+          "th": "Fitness center"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      {
+        "key": "sky_spa",
+        "name": {
+          "en": "Sky spa / wellness spa",
+          "zh": "Sky spa / wellness spa",
+          "th": "Sky spa / wellness spa"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      {
+        "key": "sky_garden",
+        "name": {
+          "en": "Sky garden",
+          "zh": "Sky garden",
+          "th": "Sky garden"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      }
+    ],
+    "official_brochure": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf"
+  },
+  "field_evidence": {
+    "official_project_page": {
+      "field": "official_project_page",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+    },
+    "official_address": {
+      "field": "official_address",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf"
+      },
+      "verified_at": "2026-07-16",
+      "value": "Soi Sukhumvit 63 (Ekkamai Soi 1), Khlong Tan Nuea, Watthana, Bangkok"
+    },
+    "official_gallery": {
+      "field": "official_gallery",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      "verified_at": "2026-07-16",
+      "value": null,
+      "note": "No rights-cleared gallery harvested."
+    },
+    "official_brochure": {
+      "field": "official_brochure",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf"
+    },
+    "official_floor_plan": {
+      "field": "official_floor_plan",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "official_facilities": {
+      "field": "official_facilities",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "Infinity pool",
+        "Floating lobby",
+        "Sky lounge & library",
+        "Fitness center",
+        "Sky spa / wellness spa",
+        "Sky garden"
+      ]
     }
+  },
+  "project_master": {
+    "phase": "10-sprint-3",
+    "verified_at": "2026-07-16",
+    "rule": "official_project_pages_only_for_official_field_upgrades",
+    "sprint": "phase10-sprint-3-pass2"
   }
 }

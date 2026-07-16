@@ -883,5 +883,74 @@
     "lead_form_event": "generate_lead",
     "og_image_placeholder": "/og/projects/the-livin-ramkhamhaeng.svg"
   },
-  "publish_ready": true
+  "publish_ready": true,
+  "field_evidence": {
+    "official_project_page": {
+      "field": "official_project_page",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.livinram.com/en"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.livinram.com/en"
+    },
+    "official_address": {
+      "field": "official_address",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.livinram.com/en"
+      },
+      "verified_at": "2026-07-16",
+      "value": "Soi Ramkhamhaeng 97/2, Hua Mak, Bang Kapi, Bangkok 10240"
+    },
+    "official_gallery": {
+      "field": "official_gallery",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.livinram.com/en"
+      },
+      "verified_at": "2026-07-16",
+      "value": null,
+      "note": "Already classified OFFICIAL in project master matrix."
+    },
+    "official_brochure": {
+      "field": "official_brochure",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.livinram.com/en"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "official_floor_plan": {
+      "field": "official_floor_plan",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.livinram.com/en"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "official_facilities": {
+      "field": "official_facilities",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.livinram.com/en"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    }
+  },
+  "project_master": {
+    "phase": "10-sprint-3",
+    "verified_at": "2026-07-16",
+    "rule": "official_project_pages_only_for_official_field_upgrades",
+    "sprint": "phase10-sprint-3"
+  }
 }

@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "supalai-oriental-sukhumvit-39 official project page",
+      "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+    },
+    {
+      "type": "official_developer",
       "name": "Supalai Oriental Sukhumvit 39 official / developer page",
       "url": "https://www.supalai.com/"
     },
@@ -63,7 +68,7 @@
     "latitude": 13.74501692569838,
     "longitude": 100.5728109056107,
     "google_maps_url": "https://www.google.com/maps?q=13.74501692569838,100.5728109056107",
-    "official_website": "https://www.supalai.com/",
+    "official_website": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
     "facebook_url": "https://www.facebook.com/Supalai",
     "completion_year": 2020,
     "transit_tags": [
@@ -85,49 +90,64 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "pool",
+        "key": "swimming_pool",
         "name": {
-          "en": "Swimming pool",
-          "zh": "Swimming pool",
-          "th": "Swimming pool"
+          "en": "Swimming Pool",
+          "zh": "Swimming Pool",
+          "th": "Swimming Pool"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
         "key": "fitness",
         "name": {
-          "en": "Fitness / gym",
-          "zh": "Fitness / gym",
-          "th": "Fitness / gym"
+          "en": "Fitness",
+          "zh": "Fitness",
+          "th": "Fitness"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
-        "key": "parking",
+        "key": "sky_lounge",
         "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
+          "en": "Sky lounge",
+          "zh": "Sky lounge",
+          "th": "Sky lounge"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
-        "key": "security",
+        "key": "coworking",
         "name": {
-          "en": "24h security",
-          "zh": "24h security",
-          "th": "24h security"
+          "en": "Co-working space",
+          "zh": "Co-working space",
+          "th": "Co-working space"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
-        "key": "park",
+        "key": "garden",
         "name": {
-          "en": "Garden / courtyard",
-          "zh": "Garden / courtyard",
-          "th": "Garden / courtyard"
+          "en": "Garden / Park",
+          "zh": "Garden / Park",
+          "th": "Garden / Park"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "kids_room",
+        "name": {
+          "en": "Kid’s Room",
+          "zh": "Kid’s Room",
+          "th": "Kid’s Room"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
         "key": "sauna",
@@ -136,43 +156,18 @@
           "zh": "Sauna",
           "th": "Sauna"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
-        "key": "jacuzzi",
+        "key": "security",
         "name": {
-          "en": "Jacuzzi",
-          "zh": "Jacuzzi",
-          "th": "Jacuzzi"
+          "en": "24-hour Security",
+          "zh": "24-hour Security",
+          "th": "24-hour Security"
         },
-        "source": "propertyhub"
-      },
-      {
-        "key": "lift",
-        "name": {
-          "en": "Elevator",
-          "zh": "Elevator",
-          "th": "Elevator"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "cctv",
-        "name": {
-          "en": "CCTV",
-          "zh": "CCTV",
-          "th": "CCTV"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "keycard",
-        "name": {
-          "en": "Keycard access",
-          "zh": "Keycard access",
-          "th": "Keycard access"
-        },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       }
     ],
     "nearby_schools": [
@@ -662,6 +657,166 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
+    },
+    "facilities_official": [
+      {
+        "key": "swimming_pool",
+        "name": {
+          "en": "Swimming Pool",
+          "zh": "Swimming Pool",
+          "th": "Swimming Pool"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness",
+          "zh": "Fitness",
+          "th": "Fitness"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "sky_lounge",
+        "name": {
+          "en": "Sky lounge",
+          "zh": "Sky lounge",
+          "th": "Sky lounge"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "coworking",
+        "name": {
+          "en": "Co-working space",
+          "zh": "Co-working space",
+          "th": "Co-working space"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "garden",
+        "name": {
+          "en": "Garden / Park",
+          "zh": "Garden / Park",
+          "th": "Garden / Park"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "kids_room",
+        "name": {
+          "en": "Kid’s Room",
+          "zh": "Kid’s Room",
+          "th": "Kid’s Room"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "security",
+        "name": {
+          "en": "24-hour Security",
+          "zh": "24-hour Security",
+          "th": "24-hour Security"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      }
+    ]
+  },
+  "field_evidence": {
+    "official_project_page": {
+      "field": "official_project_page",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+    },
+    "official_address": {
+      "field": "official_address",
+      "evidence_class": "VERIFIED_PORTAL",
+      "provenance": {
+        "source_type": "verified_portal",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      "verified_at": "2026-07-16",
+      "value": "Watthana, Bangkok"
+    },
+    "official_gallery": {
+      "field": "official_gallery",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      "verified_at": "2026-07-16",
+      "value": null,
+      "note": "No rights-cleared official gallery harvested this sprint."
+    },
+    "official_brochure": {
+      "field": "official_brochure",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "official_floor_plan": {
+      "field": "official_floor_plan",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "official_facilities": {
+      "field": "official_facilities",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "Swimming Pool",
+        "Fitness",
+        "Sky lounge",
+        "Co-working space",
+        "Garden / Park",
+        "Kid’s Room",
+        "Sauna",
+        "24-hour Security"
+      ]
     }
+  },
+  "project_master": {
+    "phase": "10-sprint-3",
+    "verified_at": "2026-07-16",
+    "rule": "official_project_pages_only_for_official_field_upgrades",
+    "sprint": "phase10-sprint-3"
   }
 }
