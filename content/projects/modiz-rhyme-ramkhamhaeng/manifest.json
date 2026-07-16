@@ -773,5 +773,26 @@
     "sprint": "phase10-sprint-3",
     "batch": "AssetWise",
     "notes": "AssetWise official Modiz Rhyme page: 1 residential building 30 storeys, 546 units"
+  },
+  "media_library": {
+    "gallery": {
+      "official_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
+      "copyright_source": "© AssetWise / Modiz Rhyme Ramkhamhaeng — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "hero": {
+      "official_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
+      "copyright_source": "© AssetWise / Modiz Rhyme Ramkhamhaeng — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "placeholder_pending_official_mirror",
+      "placeholder_path": null
+    }
   }
 }

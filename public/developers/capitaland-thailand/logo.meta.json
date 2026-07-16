@@ -1,10 +1,16 @@
 {
   "slug": "capitaland-thailand",
-  "status": "official_remote",
-  "note": "Official remote logo/favicon URL recorded. Local SVG is fallback only — not the trademark.",
+  "status": "official_cached",
+  "note": "Official logo cached from developer domain. Local SVG remains non-trademark fallback only.",
   "official_website": "https://www.capitaland.com/th/en.html",
   "official_logo_url": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png",
   "favicon_url": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png",
   "public_path": "/developers/capitaland-thailand/logo.svg",
-  "collected_at": "2026-07-16"
+  "collected_at": "2026-07-16",
+  "cached_local_path": "/developers/capitaland-thailand/official-logo.png",
+  "library_path": "content/media/library/developers/capitaland-thailand/logo.png",
+  "checksum_sha256": "84da33caefc7715e6caa76792856dc51fe7b19eda18ae7a28a19762f791c64da",
+  "downloaded_date": "2026-07-16",
+  "copyright_source": "© CapitaLand Thailand — official website identity asset",
+  "placeholder_fallback": "/developers/capitaland-thailand/logo.svg"
 }

@@ -105,7 +105,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/mqdc/logo.svg",
-  "logo_url": "/developers/mqdc/logo.svg",
+  "logo_url": "/developers/mqdc/official-logo.webp",
   "phone": null,
   "email": null,
   "seo": {
@@ -140,7 +140,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.mqdc.com/",
       "asset_url": "https://mqdc.com/images/mqdc.webp"
-    }
+    },
+    "cached_path": "/developers/mqdc/official-logo.webp",
+    "checksum_sha256": "2555cf537dbf955a82c887c482530e1d451db35e206d5572df95b84a11b92a8b",
+    "downloaded_date": "2026-07-16"
   },
   "established_year_provenance": {
     "source_type": "official_developer_website",

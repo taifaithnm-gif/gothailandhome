@@ -1,0 +1,16 @@
+{
+  "id": "developer:ap-thailand:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "ap-thailand",
+  "role": "favicon",
+  "official_url": "https://www.apthai.com/favicon.ico",
+  "copyright_source": "© AP Thailand — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "bd5e1351c08072fd62b09eef761fe395e4a2c92b6ae6067576093a4bd8683d57",
+  "local_storage_path": "content/media/library/developers/ap-thailand/favicon.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/ap-thailand/favicon.ico. Placeholder SVG retained as non-trademark fallback."
+}

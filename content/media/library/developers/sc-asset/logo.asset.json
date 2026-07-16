@@ -1,0 +1,16 @@
+{
+  "id": "developer:sc-asset:logo",
+  "class": "developer_logo",
+  "entity_type": "developer",
+  "entity_slug": "sc-asset",
+  "role": "logo",
+  "official_url": "https://www.scasset.com/images/layout/logo/sc-logo.svg",
+  "copyright_source": "© SC Asset — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "10f538722fb65c96b8f855714544eaa77ade7c51f140e20da15135a0dcdbd296",
+  "local_storage_path": "content/media/library/developers/sc-asset/logo.svg",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/sc-asset/official-logo.svg. Placeholder SVG retained as non-trademark fallback."
+}

@@ -733,5 +733,26 @@
     "sprint": "phase10-sprint-3b-developer-batches",
     "batch": "AP",
     "notes": "AP official page marks SOLD OUT; unit/floor counts not published on current page"
+  },
+  "media_library": {
+    "gallery": {
+      "official_url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
+      "copyright_source": "© AP Thailand / LIFE Asoke Rama 9 — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "hero": {
+      "official_url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
+      "copyright_source": "© AP Thailand / LIFE Asoke Rama 9 — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "placeholder_pending_official_mirror",
+      "placeholder_path": null
+    }
   }
 }

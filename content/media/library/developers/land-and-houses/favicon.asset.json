@@ -1,0 +1,16 @@
+{
+  "id": "developer:land-and-houses:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "land-and-houses",
+  "role": "favicon",
+  "official_url": "https://www.lh.co.th/icon.ico?c09c4c2462d726db",
+  "copyright_source": "© Land and Houses — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "5f9986d54aa21fbf4ef4ef8b5e1f1da2ae4738a5cf5eedd6a7bd1f5434da2fd0",
+  "local_storage_path": "content/media/library/developers/land-and-houses/favicon.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/land-and-houses/favicon.ico. Placeholder SVG retained as non-trademark fallback."
+}

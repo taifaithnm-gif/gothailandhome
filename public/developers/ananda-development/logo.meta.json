@@ -1,10 +1,16 @@
 {
   "slug": "ananda-development",
-  "status": "official_remote",
-  "note": "Official remote logo/favicon URL recorded. Local SVG is fallback only — not the trademark.",
+  "status": "official_cached",
+  "note": "Official logo cached from developer domain. Local SVG remains non-trademark fallback only.",
   "official_website": "https://www.ananda.co.th/",
   "official_logo_url": "https://www.ananda.co.th/favicon.ico",
   "favicon_url": "https://www.ananda.co.th/favicon.ico",
   "public_path": "/developers/ananda-development/logo.svg",
-  "collected_at": "2026-07-16"
+  "collected_at": "2026-07-16",
+  "cached_local_path": "/developers/ananda-development/official-logo.ico",
+  "library_path": "content/media/library/developers/ananda-development/logo.ico",
+  "checksum_sha256": "ede8a89a2764151aadc2583e7941e67cdfb91804599726fd3e202524aebb5596",
+  "downloaded_date": "2026-07-16",
+  "copyright_source": "© Ananda Development — official website identity asset",
+  "placeholder_fallback": "/developers/ananda-development/logo.svg"
 }

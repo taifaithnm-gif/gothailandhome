@@ -1,10 +1,16 @@
 {
   "slug": "pruksa-holding",
-  "status": "official_remote",
-  "note": "Official remote logo/favicon URL recorded. Local SVG is fallback only — not the trademark.",
+  "status": "official_cached",
+  "note": "Official logo cached from developer domain. Local SVG remains non-trademark fallback only.",
   "official_website": "https://www.pruksa.com/",
   "official_logo_url": "https://static.pruksa.com/static/favicons/safari-pinned-tab.svg",
   "favicon_url": "https://static.pruksa.com/static/favicons/safari-pinned-tab.svg",
   "public_path": "/developers/pruksa-holding/logo.svg",
-  "collected_at": "2026-07-16"
+  "collected_at": "2026-07-16",
+  "cached_local_path": "/developers/pruksa-holding/official-logo.svg",
+  "library_path": "content/media/library/developers/pruksa-holding/logo.svg",
+  "checksum_sha256": "1530c0fb3b8a92270d64888d0dc40a410c2268705ea2dc5cdf75702007b87a79",
+  "downloaded_date": "2026-07-16",
+  "copyright_source": "© Pruksa Holding — official website identity asset",
+  "placeholder_fallback": "/developers/pruksa-holding/logo.svg"
 }

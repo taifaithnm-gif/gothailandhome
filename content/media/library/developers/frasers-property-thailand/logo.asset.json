@@ -1,0 +1,16 @@
+{
+  "id": "developer:frasers-property-thailand:logo",
+  "class": "developer_logo",
+  "entity_type": "developer",
+  "entity_slug": "frasers-property-thailand",
+  "role": "logo",
+  "official_url": "https://www.frasersproperty.com/content/dam/frasersproperty/feature/project/frasers_logos/frasers-logo.png",
+  "copyright_source": "© Frasers Property Thailand — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "a4d21b22959c25fb66a5eabe86f9faf2c11bac56ac330b664e7ce0c2efac0276",
+  "local_storage_path": "content/media/library/developers/frasers-property-thailand/logo.png",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/frasers-property-thailand/official-logo.png. Placeholder SVG retained as non-trademark fallback."
+}

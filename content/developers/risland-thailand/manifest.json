@@ -77,7 +77,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/risland-thailand/logo.svg",
-  "logo_url": "/developers/risland-thailand/logo.svg",
+  "logo_url": "/developers/risland-thailand/official-logo.png",
   "phone": "02-026-6888",
   "email": null,
   "seo": {
@@ -111,7 +111,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.livinram.com/en",
       "asset_url": "https://www.livinram.com/assets/img/logo.png"
-    }
+    },
+    "cached_path": "/developers/risland-thailand/official-logo.png",
+    "checksum_sha256": "5c833ed183c4e7de75bac70869deb2bb58e1394dc5e2d4eb1010c4b7e4a6f5d1",
+    "downloaded_date": "2026-07-16"
   },
   "headquarters_provenance": {
     "source_type": "package_city_level_or_set_note",

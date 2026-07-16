@@ -1,10 +1,16 @@
 {
   "slug": "risland-thailand",
-  "status": "official_remote",
-  "note": "Official remote logo/favicon URL recorded. Local SVG is fallback only — not the trademark.",
+  "status": "official_cached",
+  "note": "Official logo cached from developer domain. Local SVG remains non-trademark fallback only.",
   "official_website": "https://www.livinram.com/en",
   "official_logo_url": "https://www.livinram.com/assets/img/logo.png",
   "favicon_url": "https://www.livinram.com/favicon.ico",
   "public_path": "/developers/risland-thailand/logo.svg",
-  "collected_at": "2026-07-16"
+  "collected_at": "2026-07-16",
+  "cached_local_path": "/developers/risland-thailand/official-logo.png",
+  "library_path": "content/media/library/developers/risland-thailand/logo.png",
+  "checksum_sha256": "5c833ed183c4e7de75bac70869deb2bb58e1394dc5e2d4eb1010c4b7e4a6f5d1",
+  "downloaded_date": "2026-07-16",
+  "copyright_source": "© RISLAND Thailand — official website identity asset",
+  "placeholder_fallback": "/developers/risland-thailand/logo.svg"
 }

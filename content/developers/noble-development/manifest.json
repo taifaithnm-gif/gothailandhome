@@ -112,7 +112,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/noble-development/logo.svg",
-  "logo_url": "/developers/noble-development/logo.svg",
+  "logo_url": "/developers/noble-development/official-logo.ico",
   "phone": "0-2251-9955",
   "email": null,
   "seo": {
@@ -148,7 +148,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.noblehome.com/",
       "asset_url": "https://www.noblehome.com/favicon.ico"
-    }
+    },
+    "cached_path": "/developers/noble-development/official-logo.ico",
+    "checksum_sha256": "b140fdee9f43f198f92537918d4bf5459621959534717f3fa0178025dbbaa49d",
+    "downloaded_date": "2026-07-16"
   },
   "headquarters_provenance": {
     "source_type": "set_factsheet",

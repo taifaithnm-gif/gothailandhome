@@ -1,0 +1,16 @@
+{
+  "id": "developer:assetwise:logo",
+  "class": "developer_logo",
+  "entity_type": "developer",
+  "entity_slug": "assetwise",
+  "role": "logo",
+  "official_url": "https://cdn.assetwise.co.th/wp-content/themes/seed-spring/img/asw-logo_horizontal.svg",
+  "copyright_source": "© AssetWise — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "b2b86393aeec3d609f6b5e59029e3f09480a3db4ac869554e8845bd491e36e7e",
+  "local_storage_path": "content/media/library/developers/assetwise/logo.svg",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/assetwise/official-logo.svg. Placeholder SVG retained as non-trademark fallback."
+}

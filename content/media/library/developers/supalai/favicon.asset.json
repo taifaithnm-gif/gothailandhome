@@ -1,0 +1,16 @@
+{
+  "id": "developer:supalai:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "supalai",
+  "role": "favicon",
+  "official_url": "https://www.supalai.com/favicon.ico",
+  "copyright_source": "© Supalai — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "1f14117e86989c94fff48ddec703fa12f31cce4761dbc4160555329f1d2f0d9b",
+  "local_storage_path": "content/media/library/developers/supalai/favicon.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/supalai/favicon.ico. Placeholder SVG retained as non-trademark fallback."
+}

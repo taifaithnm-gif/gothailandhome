@@ -1,0 +1,16 @@
+{
+  "id": "developer:mqdc:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "mqdc",
+  "role": "favicon",
+  "official_url": "https://mqdc.com/favicon/favicon.ico",
+  "copyright_source": "© MQDC — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "bdc9b3e51935ab980d72e33085c00f60a607339cceb87d0deadcb67879a00052",
+  "local_storage_path": "content/media/library/developers/mqdc/favicon.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/mqdc/favicon.ico. Placeholder SVG retained as non-trademark fallback."
+}

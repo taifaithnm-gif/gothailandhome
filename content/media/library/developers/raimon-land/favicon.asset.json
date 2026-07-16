@@ -1,0 +1,16 @@
+{
+  "id": "developer:raimon-land:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "raimon-land",
+  "role": "favicon",
+  "official_url": "https://www.raimonland.com/assets/images/logo-horizontal.svg",
+  "copyright_source": "© Raimon Land — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "a6d2bb5306d839ddc5541b8d33262f9fa0c1294df95e5f0d5ae5bc39658b83ba",
+  "local_storage_path": "content/media/library/developers/raimon-land/favicon.svg",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/raimon-land/favicon.svg"
+}

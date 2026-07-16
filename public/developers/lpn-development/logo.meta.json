@@ -1,10 +1,16 @@
 {
   "slug": "lpn-development",
-  "status": "official_remote",
-  "note": "Official remote logo/favicon URL recorded. Local SVG is fallback only — not the trademark.",
+  "status": "official_cached",
+  "note": "Official logo cached from developer domain. Local SVG remains non-trademark fallback only.",
   "official_website": "https://www.lpn.co.th/",
   "official_logo_url": "https://www.lpn.co.th/favicon.ico?v=1",
   "favicon_url": "https://www.lpn.co.th/favicon.ico?v=1",
   "public_path": "/developers/lpn-development/logo.svg",
-  "collected_at": "2026-07-16"
+  "collected_at": "2026-07-16",
+  "cached_local_path": "/developers/lpn-development/official-logo.ico",
+  "library_path": "content/media/library/developers/lpn-development/logo.ico",
+  "checksum_sha256": "9c71c42504c29f822ea1ef7e4de5efbfa11eef9fe1892a9a407ae7ff6ef0060b",
+  "downloaded_date": "2026-07-16",
+  "copyright_source": "© LPN Development — official website identity asset",
+  "placeholder_fallback": "/developers/lpn-development/logo.svg"
 }

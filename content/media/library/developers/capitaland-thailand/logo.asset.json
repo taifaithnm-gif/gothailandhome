@@ -1,0 +1,16 @@
+{
+  "id": "developer:capitaland-thailand:logo",
+  "class": "developer_logo",
+  "entity_type": "developer",
+  "entity_slug": "capitaland-thailand",
+  "role": "logo",
+  "official_url": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png",
+  "copyright_source": "© CapitaLand Thailand — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "84da33caefc7715e6caa76792856dc51fe7b19eda18ae7a28a19762f791c64da",
+  "local_storage_path": "content/media/library/developers/capitaland-thailand/logo.png",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/capitaland-thailand/official-logo.png. Placeholder SVG retained as non-trademark fallback."
+}

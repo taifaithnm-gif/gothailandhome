@@ -1,0 +1,16 @@
+{
+  "id": "developer:origin-property:logo",
+  "class": "developer_logo",
+  "entity_type": "developer",
+  "entity_slug": "origin-property",
+  "role": "logo",
+  "official_url": "https://origin.co.th/wp-content/uploads/2022/01/cropped-new-logo-origin-icon-32x32.png",
+  "copyright_source": "© Origin Property — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "d31a4ed358375eaa526d88e4a205b5f7492ba9ea3682a3e2aba52451cb2075f1",
+  "local_storage_path": "content/media/library/developers/origin-property/logo.png",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/origin-property/official-logo.png. Placeholder SVG retained as non-trademark fallback."
+}

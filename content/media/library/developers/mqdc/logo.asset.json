@@ -1,0 +1,16 @@
+{
+  "id": "developer:mqdc:logo",
+  "class": "developer_logo",
+  "entity_type": "developer",
+  "entity_slug": "mqdc",
+  "role": "logo",
+  "official_url": "https://mqdc.com/images/mqdc.webp",
+  "copyright_source": "© MQDC — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "2555cf537dbf955a82c887c482530e1d451db35e206d5572df95b84a11b92a8b",
+  "local_storage_path": "content/media/library/developers/mqdc/logo.webp",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/mqdc/official-logo.webp. Placeholder SVG retained as non-trademark fallback."
+}

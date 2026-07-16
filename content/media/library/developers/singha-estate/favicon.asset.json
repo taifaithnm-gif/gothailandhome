@@ -1,0 +1,16 @@
+{
+  "id": "developer:singha-estate:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "singha-estate",
+  "role": "favicon",
+  "official_url": "https://www.singhaestate.co.th/favicon.ico",
+  "copyright_source": "© Singha Estate — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "de9ed50518b26c65c1b5b17a52cbe0f3e49892262f1ebb0b988f87d0582799d6",
+  "local_storage_path": "content/media/library/developers/singha-estate/favicon.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/singha-estate/favicon.ico. Placeholder SVG retained as non-trademark fallback."
+}

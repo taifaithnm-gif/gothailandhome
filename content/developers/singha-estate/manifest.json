@@ -86,7 +86,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/singha-estate/logo.svg",
-  "logo_url": "/developers/singha-estate/logo.svg",
+  "logo_url": "/developers/singha-estate/official-logo.svg",
   "phone": "0-2050-5555",
   "email": null,
   "seo": {
@@ -120,7 +120,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.singhaestate.co.th/",
       "asset_url": "https://www.singhaestate.co.th/assets/images/logo-small-w.svg"
-    }
+    },
+    "cached_path": "/developers/singha-estate/official-logo.svg",
+    "checksum_sha256": "e1260769a58a5644927f99789ebe180e46617c75ce6429d627f95caec5bb9c2d",
+    "downloaded_date": "2026-07-16"
   },
   "headquarters_provenance": {
     "source_type": "set_factsheet",

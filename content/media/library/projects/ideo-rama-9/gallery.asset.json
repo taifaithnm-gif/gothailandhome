@@ -1,0 +1,16 @@
+{
+  "id": "project:ideo-rama-9:gallery",
+  "class": "gallery",
+  "entity_type": "project",
+  "entity_slug": "ideo-rama-9",
+  "role": "gallery",
+  "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+  "copyright_source": "© Ananda Development / IDEO Rama 9 — official project materials",
+  "downloaded_date": null,
+  "checksum_sha256": null,
+  "local_storage_path": null,
+  "rights_note": "hotlink",
+  "download_status": "not_downloaded_pending_license",
+  "verified_at": "2026-07-16",
+  "notes": "Official gallery page/source registered. Image binaries not scraped (no license permission)."
+}

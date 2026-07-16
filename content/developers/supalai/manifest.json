@@ -130,7 +130,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/supalai/logo.svg",
-  "logo_url": "/developers/supalai/logo.svg",
+  "logo_url": "/developers/supalai/official-logo.ico",
   "phone": "0-2725-8888",
   "email": null,
   "seo": {
@@ -167,7 +167,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.supalai.com/",
       "asset_url": "https://www.supalai.com/favicon.ico"
-    }
+    },
+    "cached_path": "/developers/supalai/official-logo.ico",
+    "checksum_sha256": "1f14117e86989c94fff48ddec703fa12f31cce4761dbc4160555329f1d2f0d9b",
+    "downloaded_date": "2026-07-16"
   },
   "established_year_provenance": {
     "source_type": "official_developer_website",

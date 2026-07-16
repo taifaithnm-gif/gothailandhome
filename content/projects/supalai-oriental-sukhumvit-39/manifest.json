@@ -936,5 +936,26 @@
     "sprint": "phase10-sprint-3b-developer-batches",
     "batch": "Supalai",
     "notes": "Supalai official: two 25-storey + two 35-storey buildings, 1,046 residential units"
+  },
+  "media_library": {
+    "gallery": {
+      "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+      "copyright_source": "© Supalai / Supalai Oriental Sukhumvit 39 — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "hero": {
+      "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+      "copyright_source": "© Supalai / Supalai Oriental Sukhumvit 39 — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "placeholder_pending_official_mirror",
+      "placeholder_path": null
+    }
   }
 }

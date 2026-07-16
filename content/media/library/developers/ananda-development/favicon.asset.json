@@ -1,0 +1,16 @@
+{
+  "id": "developer:ananda-development:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "ananda-development",
+  "role": "favicon",
+  "official_url": "https://www.ananda.co.th/favicon.ico",
+  "copyright_source": "© Ananda Development — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "ede8a89a2764151aadc2583e7941e67cdfb91804599726fd3e202524aebb5596",
+  "local_storage_path": "content/media/library/developers/ananda-development/favicon.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/ananda-development/favicon.ico. Placeholder SVG retained as non-trademark fallback."
+}

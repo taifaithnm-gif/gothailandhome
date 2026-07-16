@@ -99,7 +99,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/assetwise/logo.svg",
-  "logo_url": "/developers/assetwise/logo.svg",
+  "logo_url": "/developers/assetwise/official-logo.svg",
   "phone": "0-2521-9533",
   "email": null,
   "seo": {
@@ -134,7 +134,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.assetwise.co.th/",
       "asset_url": "https://cdn.assetwise.co.th/wp-content/themes/seed-spring/img/asw-logo_horizontal.svg"
-    }
+    },
+    "cached_path": "/developers/assetwise/official-logo.svg",
+    "checksum_sha256": "b2b86393aeec3d609f6b5e59029e3f09480a3db4ac869554e8845bd491e36e7e",
+    "downloaded_date": "2026-07-16"
   },
   "headquarters_provenance": {
     "source_type": "set_factsheet",

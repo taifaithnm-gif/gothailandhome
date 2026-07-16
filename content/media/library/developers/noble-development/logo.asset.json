@@ -1,0 +1,16 @@
+{
+  "id": "developer:noble-development:logo",
+  "class": "developer_logo",
+  "entity_type": "developer",
+  "entity_slug": "noble-development",
+  "role": "logo",
+  "official_url": "https://www.noblehome.com/favicon.ico",
+  "copyright_source": "© Noble Development — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "b140fdee9f43f198f92537918d4bf5459621959534717f3fa0178025dbbaa49d",
+  "local_storage_path": "content/media/library/developers/noble-development/logo.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/noble-development/official-logo.ico. Placeholder SVG retained as non-trademark fallback."
+}

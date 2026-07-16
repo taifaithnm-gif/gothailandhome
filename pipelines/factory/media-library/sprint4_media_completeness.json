@@ -1,0 +1,26 @@
+{
+  "scores": {
+    "developer_logos": 100,
+    "favicons": 100,
+    "project_galleries_registered": 24,
+    "brochures_mirrored_or_registered": 2,
+    "brochures_mirrored": 2,
+    "floor_plans_registered": 8,
+    "heroes_registered": 100,
+    "heroes_binary_replaced": 0
+  },
+  "v2avg": 46.8,
+  "byClass": {
+    "developer_logo": 20,
+    "favicon": 20,
+    "brochure": 1,
+    "hero": 50,
+    "gallery": 12,
+    "floor_plan": 4
+  },
+  "byStatus": {
+    "downloaded": 41,
+    "placeholder_pending_official_mirror": 50,
+    "not_downloaded_pending_license": 16
+  }
+}

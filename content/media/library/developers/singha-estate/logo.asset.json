@@ -1,0 +1,16 @@
+{
+  "id": "developer:singha-estate:logo",
+  "class": "developer_logo",
+  "entity_type": "developer",
+  "entity_slug": "singha-estate",
+  "role": "logo",
+  "official_url": "https://www.singhaestate.co.th/assets/images/logo-small-w.svg",
+  "copyright_source": "© Singha Estate — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "e1260769a58a5644927f99789ebe180e46617c75ce6429d627f95caec5bb9c2d",
+  "local_storage_path": "content/media/library/developers/singha-estate/logo.svg",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/singha-estate/official-logo.svg. Placeholder SVG retained as non-trademark fallback."
+}

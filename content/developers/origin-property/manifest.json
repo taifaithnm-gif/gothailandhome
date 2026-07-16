@@ -108,7 +108,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/origin-property/logo.svg",
-  "logo_url": "/developers/origin-property/logo.svg",
+  "logo_url": "/developers/origin-property/official-logo.png",
   "phone": "0-2030-0000",
   "email": null,
   "seo": {
@@ -144,7 +144,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.origin.co.th/",
       "asset_url": "https://origin.co.th/favicon.ico"
-    }
+    },
+    "cached_path": "/developers/origin-property/official-logo.png",
+    "checksum_sha256": "d31a4ed358375eaa526d88e4a205b5f7492ba9ea3682a3e2aba52451cb2075f1",
+    "downloaded_date": "2026-07-16"
   },
   "established_year_provenance": {
     "source_type": "set_or_catalog_not_official_website_confirmed",

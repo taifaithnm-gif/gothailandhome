@@ -1,0 +1,16 @@
+{
+  "id": "developer:sena-development:logo",
+  "class": "developer_logo",
+  "entity_type": "developer",
+  "entity_slug": "sena-development",
+  "role": "logo",
+  "official_url": "https://www.sena.co.th/images/logo-scroll.svg",
+  "copyright_source": "© Sena Development — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "66667d50cd31dc6cfa49aa572cad404480d4680cddc371794d750e1ec2862a23",
+  "local_storage_path": "content/media/library/developers/sena-development/logo.svg",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/sena-development/official-logo.svg. Placeholder SVG retained as non-trademark fallback."
+}

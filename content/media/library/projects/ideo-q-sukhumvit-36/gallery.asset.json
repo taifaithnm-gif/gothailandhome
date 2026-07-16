@@ -1,0 +1,16 @@
+{
+  "id": "project:ideo-q-sukhumvit-36:gallery",
+  "class": "gallery",
+  "entity_type": "project",
+  "entity_slug": "ideo-q-sukhumvit-36",
+  "role": "gallery",
+  "official_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+  "copyright_source": "© Ananda Development / Ideo Q Sukhumvit 36 — official project materials",
+  "downloaded_date": null,
+  "checksum_sha256": null,
+  "local_storage_path": null,
+  "rights_note": "hotlink",
+  "download_status": "not_downloaded_pending_license",
+  "verified_at": "2026-07-16",
+  "notes": "Official gallery page/source registered. Image binaries not scraped (no license permission)."
+}

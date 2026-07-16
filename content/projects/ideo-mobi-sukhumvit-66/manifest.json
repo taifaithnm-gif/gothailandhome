@@ -660,5 +660,17 @@
     "sprint": "phase10-sprint-3b-developer-batches",
     "batch": "Ananda",
     "notes": "URL reachable; structured facts not confirmed on EN page shell — UNVERIFIED"
+  },
+  "media_library": {
+    "hero": {
+      "official_url": "https://www.ananda.co.th/en/condominium/ideo-mobi-sukhumvit-66",
+      "copyright_source": "© Ananda Development / IDEO MOBI Sukhumvit 66 — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "placeholder_pending_official_mirror",
+      "placeholder_path": null
+    }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "id": "developer:quality-houses:logo",
+  "class": "developer_logo",
+  "entity_type": "developer",
+  "entity_slug": "quality-houses",
+  "role": "logo",
+  "official_url": "https://www.qh.co.th/img/logo.svg",
+  "copyright_source": "© Quality Houses — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "d212493e21ad21024e9c0d2df5dfa2931856e9dfe2e2ea80e21b6f99c12d4569",
+  "local_storage_path": "content/media/library/developers/quality-houses/logo.svg",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/quality-houses/official-logo.svg. Placeholder SVG retained as non-trademark fallback."
+}

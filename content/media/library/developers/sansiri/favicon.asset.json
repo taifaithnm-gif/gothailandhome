@@ -1,0 +1,16 @@
+{
+  "id": "developer:sansiri:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "sansiri",
+  "role": "favicon",
+  "official_url": "https://resource.sansiri.com/sansiri-com-frontend/assets/img/favicon.ico",
+  "copyright_source": "© Sansiri — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "d64be61723c034f7ee582ee825f56df505c64a65f270a1acdd273335e04a7fc3",
+  "local_storage_path": "content/media/library/developers/sansiri/favicon.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/sansiri/favicon.ico. Placeholder SVG retained as non-trademark fallback."
+}

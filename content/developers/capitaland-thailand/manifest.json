@@ -71,7 +71,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/capitaland-thailand/logo.svg",
-  "logo_url": "/developers/capitaland-thailand/logo.svg",
+  "logo_url": "/developers/capitaland-thailand/official-logo.png",
   "phone": null,
   "email": null,
   "seo": {
@@ -105,7 +105,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.capitaland.com/th/en.html",
       "asset_url": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png"
-    }
+    },
+    "cached_path": "/developers/capitaland-thailand/official-logo.png",
+    "checksum_sha256": "84da33caefc7715e6caa76792856dc51fe7b19eda18ae7a28a19762f791c64da",
+    "downloaded_date": "2026-07-16"
   },
   "headquarters_provenance": {
     "source_type": "package_city_level_or_set_note",

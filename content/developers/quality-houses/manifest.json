@@ -86,7 +86,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/quality-houses/logo.svg",
-  "logo_url": "/developers/quality-houses/logo.svg",
+  "logo_url": "/developers/quality-houses/official-logo.svg",
   "phone": "0-2343-8888",
   "email": null,
   "seo": {
@@ -120,7 +120,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.qh.co.th/",
       "asset_url": "https://www.qh.co.th/img/logo.svg"
-    }
+    },
+    "cached_path": "/developers/quality-houses/official-logo.svg",
+    "checksum_sha256": "d212493e21ad21024e9c0d2df5dfa2931856e9dfe2e2ea80e21b6f99c12d4569",
+    "downloaded_date": "2026-07-16"
   },
   "headquarters_provenance": {
     "source_type": "set_factsheet",

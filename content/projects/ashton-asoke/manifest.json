@@ -1037,5 +1037,35 @@
     "sprint": "phase10-sprint-3b-developer-batches",
     "batch": "Ananda",
     "notes": "Ananda EN+CN official pages — READY TO MOVE IN; 1 building / 783 units / floors to 50"
+  },
+  "media_library": {
+    "gallery": {
+      "official_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+      "copyright_source": "© Ananda Development / Ashton Asoke — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "floor_plans": {
+      "official_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+      "copyright_source": "© Ananda Development / Ashton Asoke — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "hero": {
+      "official_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+      "copyright_source": "© Ananda Development / Ashton Asoke — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "placeholder_pending_official_mirror",
+      "placeholder_path": null
+    }
   }
 }

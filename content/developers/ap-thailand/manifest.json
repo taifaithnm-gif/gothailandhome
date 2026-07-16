@@ -130,7 +130,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/ap-thailand/logo.svg",
-  "logo_url": "/developers/ap-thailand/logo.svg",
+  "logo_url": "/developers/ap-thailand/official-logo.ico",
   "phone": "0-2261-2518",
   "email": null,
   "seo": {
@@ -168,7 +168,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.apthai.com/",
       "asset_url": "https://www.apthai.com/favicon.ico"
-    }
+    },
+    "cached_path": "/developers/ap-thailand/official-logo.ico",
+    "checksum_sha256": "bd5e1351c08072fd62b09eef761fe395e4a2c92b6ae6067576093a4bd8683d57",
+    "downloaded_date": "2026-07-16"
   },
   "established_year_provenance": {
     "source_type": "set_factsheet",

@@ -1,10 +1,16 @@
 {
   "slug": "sansiri",
-  "status": "official_remote",
-  "note": "Official remote logo/favicon URL recorded. Local SVG is fallback only — not the trademark.",
+  "status": "official_cached",
+  "note": "Official logo cached from developer domain. Local SVG remains non-trademark fallback only.",
   "official_website": "https://www.sansiri.com/",
   "official_logo_url": "https://assets.sansiri.com/o77site/social/sansiri-corporate-share-1200x630.jpg",
   "favicon_url": "https://resource.sansiri.com/sansiri-com-frontend/assets/img/favicon.ico",
   "public_path": "/developers/sansiri/logo.svg",
-  "collected_at": "2026-07-16"
+  "collected_at": "2026-07-16",
+  "cached_local_path": "/developers/sansiri/official-logo.jpg",
+  "library_path": "content/media/library/developers/sansiri/logo.jpg",
+  "checksum_sha256": "f032647341fcd10c77800bab89f0becc860c64c96c0846878f1f9995bb471ae3",
+  "downloaded_date": "2026-07-16",
+  "copyright_source": "© Sansiri — official website identity asset",
+  "placeholder_fallback": "/developers/sansiri/logo.svg"
 }

@@ -1,43 +1,43 @@
 # MEDIA_LIBRARY_REPORT
 
-**Date:** 2026-07-14  
-**Task:** Initialize Media Library V1  
-**Project:** GoThailandHome  
-**Root:** `/Users/jun/AI-Workspace/Projects/GoThailandHome`
+**Milestone:** Phase 10 Sprint 4 — Official Media Library
+**Date:** 2026-07-16
+**Baseline HEAD:** `72df022`
+**Policy:** Official developer/project sources only. No portal screenshots. No copyrighted gallery binary scrape without license permission.
 
-## Constraints observed
+## What was completed
 
-| Constraint | Result |
-|------------|--------|
-| Do not modify application code | Observed (only `public/*/README.md` + this report) |
-| Do not commit | Observed |
-| Do not push | Observed |
+| Asset class | Action | Result |
+|-------------|--------|-------:|
+| Developer logos | Mirrored official identity assets → `content/media/library/developers/*/logo.*` + `public/developers/*/official-logo.*` | **20/20** |
+| Favicons | Mirrored (or remapped to official logo asset when favicon empty/404) | **20/20** |
+| Brochures | Mirrored verified official PDF (Rhythm Ekkamai) | **1** downloaded |
+| Project galleries | Registered official gallery/page URLs as hotlinks | **12** |
+| Floor plans | Registered official plan-section URLs as hotlinks | **4** |
+| Hero images | Registered official project URL; placeholders retained pending license | **50** registered / **0** binary replacements |
 
-## Verification results
+## Required record fields
 
-| Folder | Exists | README.md | Required sections |
-|--------|--------|-----------|-------------------|
-| `public/contact/` | Yes (already present) | Yes | Purpose, Allowed files, Naming rules, Example |
-| `public/developers/` | Yes (already present) | Yes | Purpose, Allowed files, Naming rules, Example |
-| `public/projects/` | Yes (already present) | Yes | Purpose, Allowed files, Naming rules, Example |
-| `public/cities/` | Yes (already present) | Yes | Purpose, Allowed files, Naming rules, Example |
-| `public/districts/` | Yes (already present) | Yes | Purpose, Allowed files, Naming rules, Example |
-| `public/logos/` | Yes (already present) | Yes | Purpose, Allowed files, Naming rules, Example |
-| `public/banners/` | Yes (already present) | Yes | Purpose, Allowed files, Naming rules, Example |
-| `public/icons/` | Yes (already present) | Yes | Purpose, Allowed files, Naming rules, Example |
-| `public/avatars/` | Yes (already present) | Yes | Purpose, Allowed files, Naming rules, Example |
-| `public/uploads/` | Yes (already present) | Yes | Purpose, Allowed files, Naming rules, Example |
+Every catalog asset includes: `official_url`, `copyright_source`, `downloaded_date`, `checksum_sha256`, `local_storage_path` (null when hotlink-only).
 
-All ten folders: **verified present**.  
-All ten `README.md` files: **present with required Media Library V1 sections**.
+Downloaded assets with checksum + local path: **41**.
 
-## Actions
+## Catalog
 
-- Folders: no new directories needed (all already existed from Project Structure V1).
-- READMEs: refreshed to Media Library V1 template (`Purpose` / `Allowed files` / `Naming rules` / `Example`).
-- Existing media under `public/projects/the-livin-ramkhamhaeng/` left in place.
-- No `src/` or other application code changes.
+- Master catalog: `content/media/library/catalog.json`
+- Snapshot: `pipelines/factory/media-library/sprint4_media_snapshot.json`
+- Per-asset sidecars under `content/media/library/{developers,projects}/`
 
-## Status
+## Download status counts
 
-**COMPLETE — MEDIA_LIBRARY_V1**
+| Status | Count |
+|--------|------:|
+| downloaded | 41 |
+| not_downloaded_pending_license | 16 |
+| placeholder_pending_official_mirror | 50 |
+
+## Honesty notes
+
+1. **Placeholders not fully replaced for heroes/galleries/floor-plan binaries** — official *sources* are registered; image/PDF binaries beyond the one AP brochure require license clearance.
+2. Local `logo.svg` glyphs remain as non-trademark fallbacks; delivery prefers `official-logo.*` cache.
+3. Empty HTTP 200 favicon bodies were rejected (Risland remapped to official logo PNG; Raimon favicon remapped to official logo SVG).

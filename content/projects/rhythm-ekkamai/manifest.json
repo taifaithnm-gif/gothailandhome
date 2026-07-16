@@ -720,7 +720,8 @@
     "floor_count": 33,
     "total_units": 303,
     "official_gallery_source": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
-    "official_floor_plans": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+    "official_floor_plans": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+    "brochure_local_path": "/projects/rhythm-ekkamai/brochure.pdf"
   },
   "field_evidence": {
     "official_project_page": {
@@ -848,5 +849,42 @@
     "sprint": "phase10-sprint-3b-developer-batches",
     "batch": "AP",
     "notes": "AP official Ready-to-Move-In page + brochure PDF + floor plan section"
+  },
+  "media_library": {
+    "brochure": {
+      "official_url": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf",
+      "local_storage_path": "content/media/library/projects/rhythm-ekkamai/brochure.pdf",
+      "checksum_sha256": "bb07d3ef2355c14c3332cb34a1053cf777345d8b0f97bfa182633dd28bc41c2d",
+      "downloaded_date": "2026-07-16",
+      "copyright_source": "© AP (Thailand) Public Company Limited — official project brochure PDF"
+    },
+    "gallery": {
+      "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+      "copyright_source": "© AP Thailand / Rhythm Ekkamai — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "floor_plans": {
+      "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+      "copyright_source": "© AP Thailand / Rhythm Ekkamai — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "hero": {
+      "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+      "copyright_source": "© AP Thailand / Rhythm Ekkamai — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "placeholder_pending_official_mirror",
+      "placeholder_path": null
+    }
   }
 }

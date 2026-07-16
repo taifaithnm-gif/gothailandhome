@@ -86,7 +86,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/lpn-development/logo.svg",
-  "logo_url": "/developers/lpn-development/logo.svg",
+  "logo_url": "/developers/lpn-development/official-logo.ico",
   "phone": "0-2285-5011",
   "email": null,
   "seo": {
@@ -120,7 +120,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.lpn.co.th/",
       "asset_url": "https://www.lpn.co.th/favicon.ico?v=1"
-    }
+    },
+    "cached_path": "/developers/lpn-development/official-logo.ico",
+    "checksum_sha256": "9c71c42504c29f822ea1ef7e4de5efbfa11eef9fe1892a9a407ae7ff6ef0060b",
+    "downloaded_date": "2026-07-16"
   },
   "headquarters_provenance": {
     "source_type": "set_factsheet",

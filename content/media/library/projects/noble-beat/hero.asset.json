@@ -1,0 +1,16 @@
+{
+  "id": "project:noble-beat:hero",
+  "class": "hero",
+  "entity_type": "project",
+  "entity_slug": "noble-beat",
+  "role": "hero",
+  "official_url": "https://www.noblehome.com/",
+  "copyright_source": "© Noble Development / Noble BEAT — official project materials",
+  "downloaded_date": null,
+  "checksum_sha256": null,
+  "local_storage_path": null,
+  "rights_note": "hotlink",
+  "download_status": "placeholder_pending_official_mirror",
+  "verified_at": "2026-07-16",
+  "notes": "Placeholder remains at n/a; official hero binary not mirrored without license."
+}

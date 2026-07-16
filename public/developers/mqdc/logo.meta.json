@@ -1,10 +1,16 @@
 {
   "slug": "mqdc",
-  "status": "official_remote",
-  "note": "Official remote logo/favicon URL recorded. Local SVG is fallback only — not the trademark.",
+  "status": "official_cached",
+  "note": "Official logo cached from developer domain. Local SVG remains non-trademark fallback only.",
   "official_website": "https://www.mqdc.com/",
   "official_logo_url": "https://mqdc.com/images/mqdc.webp",
   "favicon_url": "https://mqdc.com/favicon/favicon.ico",
   "public_path": "/developers/mqdc/logo.svg",
-  "collected_at": "2026-07-16"
+  "collected_at": "2026-07-16",
+  "cached_local_path": "/developers/mqdc/official-logo.webp",
+  "library_path": "content/media/library/developers/mqdc/logo.webp",
+  "checksum_sha256": "2555cf537dbf955a82c887c482530e1d451db35e206d5572df95b84a11b92a8b",
+  "downloaded_date": "2026-07-16",
+  "copyright_source": "© MQDC — official website identity asset",
+  "placeholder_fallback": "/developers/mqdc/logo.svg"
 }

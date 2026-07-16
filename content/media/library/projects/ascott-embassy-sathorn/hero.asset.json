@@ -1,0 +1,16 @@
+{
+  "id": "project:ascott-embassy-sathorn:hero",
+  "class": "hero",
+  "entity_type": "project",
+  "entity_slug": "ascott-embassy-sathorn",
+  "role": "hero",
+  "official_url": "https://www.capitaland.com/th/en.html",
+  "copyright_source": "© CapitaLand Thailand / Ascott Embassy Sathorn Bangkok — official project materials",
+  "downloaded_date": null,
+  "checksum_sha256": null,
+  "local_storage_path": null,
+  "rights_note": "hotlink",
+  "download_status": "placeholder_pending_official_mirror",
+  "verified_at": "2026-07-16",
+  "notes": "Placeholder remains at n/a; official hero binary not mirrored without license."
+}

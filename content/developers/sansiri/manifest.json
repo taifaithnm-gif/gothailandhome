@@ -144,7 +144,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/sansiri/logo.svg",
-  "logo_url": "/developers/sansiri/logo.svg",
+  "logo_url": "/developers/sansiri/official-logo.jpg",
   "phone": "0-2027-7888",
   "email": null,
   "seo": {
@@ -182,7 +182,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.sansiri.com/",
       "asset_url": "https://assets.sansiri.com/o77site/social/sansiri-corporate-share-1200x630.jpg"
-    }
+    },
+    "cached_path": "/developers/sansiri/official-logo.jpg",
+    "checksum_sha256": "f032647341fcd10c77800bab89f0becc860c64c96c0846878f1f9995bb471ae3",
+    "downloaded_date": "2026-07-16"
   },
   "established_year_provenance": {
     "source_type": "official_developer_website",

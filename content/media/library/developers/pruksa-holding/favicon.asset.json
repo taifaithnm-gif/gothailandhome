@@ -1,0 +1,16 @@
+{
+  "id": "developer:pruksa-holding:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "pruksa-holding",
+  "role": "favicon",
+  "official_url": "https://static.pruksa.com/static/favicons/safari-pinned-tab.svg",
+  "copyright_source": "© Pruksa Holding — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "1530c0fb3b8a92270d64888d0dc40a410c2268705ea2dc5cdf75702007b87a79",
+  "local_storage_path": "content/media/library/developers/pruksa-holding/favicon.svg",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/pruksa-holding/favicon.svg. Placeholder SVG retained as non-trademark fallback."
+}

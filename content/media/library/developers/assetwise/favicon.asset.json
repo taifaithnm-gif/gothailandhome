@@ -1,0 +1,16 @@
+{
+  "id": "developer:assetwise:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "assetwise",
+  "role": "favicon",
+  "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2025/10/cropped-asw-black-logo-ract_512-32x32.jpg",
+  "copyright_source": "© AssetWise — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "13b82dc70b20be8df8794921287f085459a627514bc64de2e1d91dc7dc427b77",
+  "local_storage_path": "content/media/library/developers/assetwise/favicon.jpg",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/assetwise/favicon.jpg. Placeholder SVG retained as non-trademark fallback."
+}

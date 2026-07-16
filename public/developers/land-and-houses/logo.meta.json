@@ -1,10 +1,16 @@
 {
   "slug": "land-and-houses",
-  "status": "official_remote",
-  "note": "Official remote logo/favicon URL recorded. Local SVG is fallback only — not the trademark.",
+  "status": "official_cached",
+  "note": "Official logo cached from developer domain. Local SVG remains non-trademark fallback only.",
   "official_website": "https://www.lh.co.th/",
   "official_logo_url": "https://www.lh.co.th/images/footer/LH-logo.webp",
   "favicon_url": "https://www.lh.co.th/icon.ico?c09c4c2462d726db",
   "public_path": "/developers/land-and-houses/logo.svg",
-  "collected_at": "2026-07-16"
+  "collected_at": "2026-07-16",
+  "cached_local_path": "/developers/land-and-houses/official-logo.webp",
+  "library_path": "content/media/library/developers/land-and-houses/logo.webp",
+  "checksum_sha256": "3a20a8631c3c46d5747630ade2d6d368a0116cbfc6aa39726f3568f95f38fff1",
+  "downloaded_date": "2026-07-16",
+  "copyright_source": "© Land and Houses — official website identity asset",
+  "placeholder_fallback": "/developers/land-and-houses/logo.svg"
 }

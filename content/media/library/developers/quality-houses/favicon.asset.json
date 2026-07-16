@@ -1,0 +1,16 @@
+{
+  "id": "developer:quality-houses:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "quality-houses",
+  "role": "favicon",
+  "official_url": "https://www.qh.co.th/favicon.ico",
+  "copyright_source": "© Quality Houses — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "870ee897c93ea87dc4c468e408256ce742a6571e5124f064a94fa8ae4cbc7b15",
+  "local_storage_path": "content/media/library/developers/quality-houses/favicon.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/quality-houses/favicon.ico. Placeholder SVG retained as non-trademark fallback."
+}

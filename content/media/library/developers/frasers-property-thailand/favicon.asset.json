@@ -1,0 +1,16 @@
+{
+  "id": "developer:frasers-property-thailand:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "frasers-property-thailand",
+  "role": "favicon",
+  "official_url": "https://www.frasersproperty.co.th/favicon.ico",
+  "copyright_source": "© Frasers Property Thailand — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "5fe626aaef62aa680a045df10423562fb40962f6cbb5286c99643bb60b8db474",
+  "local_storage_path": "content/media/library/developers/frasers-property-thailand/favicon.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/frasers-property-thailand/favicon.ico. Placeholder SVG retained as non-trademark fallback."
+}

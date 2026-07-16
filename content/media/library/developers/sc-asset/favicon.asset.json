@@ -1,0 +1,16 @@
+{
+  "id": "developer:sc-asset:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "sc-asset",
+  "role": "favicon",
+  "official_url": "https://www.scasset.com/favicon/favicon.ico",
+  "copyright_source": "© SC Asset — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "0d495fa6cac6834b9f4b4c59839166141286c18d664e5df01770681c3cf8efd4",
+  "local_storage_path": "content/media/library/developers/sc-asset/favicon.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/sc-asset/favicon.ico. Placeholder SVG retained as non-trademark fallback."
+}

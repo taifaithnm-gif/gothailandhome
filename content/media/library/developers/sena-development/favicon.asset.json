@@ -1,0 +1,16 @@
+{
+  "id": "developer:sena-development:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "sena-development",
+  "role": "favicon",
+  "official_url": "https://www.sena.co.th/images/icon/favicon.png",
+  "copyright_source": "© Sena Development — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "3bfd313b7cfd8d1ed0ccd3ad53d26c5fe4510678aad550f18fefdea21bfcd11c",
+  "local_storage_path": "content/media/library/developers/sena-development/favicon.png",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/sena-development/favicon.png. Placeholder SVG retained as non-trademark fallback."
+}

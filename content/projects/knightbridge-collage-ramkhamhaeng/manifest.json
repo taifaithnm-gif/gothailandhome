@@ -286,5 +286,17 @@
     "verified_at": "2026-07-16",
     "rule": "official_project_pages_only_for_official_field_upgrades",
     "sprint": "phase10-sprint-3"
+  },
+  "media_library": {
+    "hero": {
+      "official_url": "https://www.origin.co.th/",
+      "copyright_source": "© Origin Property / KnightBridge Collage Ramkhamhaeng — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "placeholder_pending_official_mirror",
+      "placeholder_path": null
+    }
   }
 }

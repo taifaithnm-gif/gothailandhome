@@ -1,0 +1,16 @@
+{
+  "id": "developer:lpn-development:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "lpn-development",
+  "role": "favicon",
+  "official_url": "https://www.lpn.co.th/favicon.ico?v=1",
+  "copyright_source": "© LPN Development — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "9c71c42504c29f822ea1ef7e4de5efbfa11eef9fe1892a9a407ae7ff6ef0060b",
+  "local_storage_path": "content/media/library/developers/lpn-development/favicon.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/lpn-development/favicon.ico. Placeholder SVG retained as non-trademark fallback."
+}

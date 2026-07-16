@@ -86,7 +86,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/sena-development/logo.svg",
-  "logo_url": "/developers/sena-development/logo.svg",
+  "logo_url": "/developers/sena-development/official-logo.svg",
   "phone": "02-541-4642",
   "email": null,
   "seo": {
@@ -120,7 +120,10 @@
       "source_type": "official_developer_website",
       "url": "https://www.sena.co.th/",
       "asset_url": "https://www.sena.co.th/images/logo-scroll.svg"
-    }
+    },
+    "cached_path": "/developers/sena-development/official-logo.svg",
+    "checksum_sha256": "66667d50cd31dc6cfa49aa572cad404480d4680cddc371794d750e1ec2862a23",
+    "downloaded_date": "2026-07-16"
   },
   "headquarters_provenance": {
     "source_type": "set_factsheet",

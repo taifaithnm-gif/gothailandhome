@@ -1,0 +1,16 @@
+{
+  "id": "developer:major-development:favicon",
+  "class": "favicon",
+  "entity_type": "developer",
+  "entity_slug": "major-development",
+  "role": "favicon",
+  "official_url": "https://www.major.co.th/favicon.ico",
+  "copyright_source": "© Major Development — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+  "local_storage_path": "content/media/library/developers/major-development/favicon.ico",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/major-development/favicon.ico. Placeholder SVG retained as non-trademark fallback."
+}

@@ -446,5 +446,35 @@
     "sprint": "phase10-sprint-3",
     "batch": "Ananda",
     "notes": "Ananda official Ideo Rama 9 - Asoke — READY TO MOVE IN; structured unit counts not confirmed in fetch text"
+  },
+  "media_library": {
+    "gallery": {
+      "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+      "copyright_source": "© Ananda Development / IDEO Rama 9 — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "floor_plans": {
+      "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+      "copyright_source": "© Ananda Development / IDEO Rama 9 — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "hero": {
+      "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+      "copyright_source": "© Ananda Development / IDEO Rama 9 — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "placeholder_pending_official_mirror",
+      "placeholder_path": null
+    }
   }
 }

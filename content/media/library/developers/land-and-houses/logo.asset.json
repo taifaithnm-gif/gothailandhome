@@ -1,0 +1,16 @@
+{
+  "id": "developer:land-and-houses:logo",
+  "class": "developer_logo",
+  "entity_type": "developer",
+  "entity_slug": "land-and-houses",
+  "role": "logo",
+  "official_url": "https://www.lh.co.th/images/footer/LH-logo.webp",
+  "copyright_source": "© Land and Houses — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "3a20a8631c3c46d5747630ade2d6d368a0116cbfc6aa39726f3568f95f38fff1",
+  "local_storage_path": "content/media/library/developers/land-and-houses/logo.webp",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/land-and-houses/official-logo.webp. Placeholder SVG retained as non-trademark fallback."
+}

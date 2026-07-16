@@ -1,0 +1,16 @@
+{
+  "id": "project:xt-huai-khwang:hero",
+  "class": "hero",
+  "entity_type": "project",
+  "entity_slug": "xt-huai-khwang",
+  "role": "hero",
+  "official_url": "https://www.sansiri.com/",
+  "copyright_source": "© Sansiri / XT Huaikwang — official project materials",
+  "downloaded_date": null,
+  "checksum_sha256": null,
+  "local_storage_path": null,
+  "rights_note": "hotlink",
+  "download_status": "placeholder_pending_official_mirror",
+  "verified_at": "2026-07-16",
+  "notes": "Placeholder remains at n/a; official hero binary not mirrored without license."
+}

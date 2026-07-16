@@ -1,0 +1,12 @@
+{
+  "verified_at": "2026-07-16",
+  "developer_logo_downloaded": 20,
+  "developer_logo_failed": 0,
+  "brochure_downloaded": 1,
+  "gallery_hotlinks": 12,
+  "floor_plan_hotlinks": 4,
+  "hero_placeholder_pending": 50,
+  "total_assets": 107,
+  "logo_failures": [],
+  "note": "Empty favicon bodies rejected; raimon/risland favicons remapped to official logo assets."
+}

@@ -1,10 +1,16 @@
 {
   "slug": "origin-property",
-  "status": "official_remote",
-  "note": "Official remote logo/favicon URL recorded. Local SVG is fallback only — not the trademark.",
+  "status": "official_cached",
+  "note": "Official logo cached from developer domain. Local SVG remains non-trademark fallback only.",
   "official_website": "https://www.origin.co.th/",
-  "official_logo_url": "https://origin.co.th/favicon.ico",
+  "official_logo_url": "https://origin.co.th/wp-content/uploads/2022/01/cropped-new-logo-origin-icon-32x32.png",
   "favicon_url": "https://origin.co.th/favicon.ico",
   "public_path": "/developers/origin-property/logo.svg",
-  "collected_at": "2026-07-16"
+  "collected_at": "2026-07-16",
+  "cached_local_path": "/developers/origin-property/official-logo.png",
+  "library_path": "content/media/library/developers/origin-property/logo.png",
+  "checksum_sha256": "d31a4ed358375eaa526d88e4a205b5f7492ba9ea3682a3e2aba52451cb2075f1",
+  "downloaded_date": "2026-07-16",
+  "copyright_source": "© Origin Property — official website identity asset",
+  "placeholder_fallback": "/developers/origin-property/logo.svg"
 }

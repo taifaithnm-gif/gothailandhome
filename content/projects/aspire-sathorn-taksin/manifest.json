@@ -299,5 +299,26 @@
     "sprint": "phase10-sprint-3",
     "batch": "AP",
     "notes": "AP Thai official TH project page"
+  },
+  "media_library": {
+    "gallery": {
+      "official_url": "https://www.apthai.com/th/condominium/aspire-sathorn-taksin-priva",
+      "copyright_source": "© AP Thailand / Aspire Sathorn-Taksin — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "hero": {
+      "official_url": "https://www.apthai.com/th/condominium/aspire-sathorn-taksin-priva",
+      "copyright_source": "© AP Thailand / Aspire Sathorn-Taksin — official project materials",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "placeholder_pending_official_mirror",
+      "placeholder_path": null
+    }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "id": "developer:sansiri:logo",
+  "class": "developer_logo",
+  "entity_type": "developer",
+  "entity_slug": "sansiri",
+  "role": "logo",
+  "official_url": "https://assets.sansiri.com/o77site/social/sansiri-corporate-share-1200x630.jpg",
+  "copyright_source": "© Sansiri — official website identity asset",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "f032647341fcd10c77800bab89f0becc860c64c96c0846878f1f9995bb471ae3",
+  "local_storage_path": "content/media/library/developers/sansiri/logo.jpg",
+  "rights_note": "mirrored_to_storage",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "notes": "Public delivery copy: /developers/sansiri/official-logo.jpg. Placeholder SVG retained as non-trademark fallback."
+}
