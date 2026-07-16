@@ -35,7 +35,11 @@
     "knowledgeGlossaryTitle": "อภิธานศัพท์ | GoThailandHome",
     "knowledgeGlossaryDescription": "ชื่อคำศัพท์ควบคุมสำหรับขนส่ง สิ่งอำนวยความสะดวก และประเภทอสังหาฯ — เฉพาะชื่อ",
     "knowledgeDistrictsTitle": "เขตกรุงเทพฯ | GoThailandHome",
-    "knowledgeDistrictsDescription": "ดัชนี 50 เขตของกรุงเทพฯ พร้อมลิงก์ไปยังหน้าศูนย์เขต"
+    "knowledgeDistrictsDescription": "ดัชนี 50 เขตของกรุงเทพฯ พร้อมลิงก์ไปยังหน้าศูนย์เขต",
+    "leadSuccessTitle": "ได้รับคำขอแล้ว | GoThailandHome",
+    "leadSuccessDescription": "ได้รับลีดตลาดแล้ว ไม่ได้ส่งอีเมล CRM อัตโนมัติ",
+    "leadErrorTitle": "ไม่สามารถดำเนินการคำขอได้ | GoThailandHome",
+    "leadErrorDescription": "เกิดข้อผิดพลาดกับลีดนี้ ลองอีกครั้งหรือติดต่อฝ่ายลูกค้าสัมพันธ์แพลตฟอร์ม"
   },
   "nav": {
     "home": "หน้าแรก",
@@ -402,6 +406,17 @@
     "districtsNotice": "รหัสไปรษณีย์มาจากแพ็กเกจอภิธานศัพท์ หน้าศูนย์เขตแสดงสิ่งอำนวยความสะดวกเมื่อมีแหล่งอ้างอิงเท่านั้น",
     "postalLabel": "รหัสไปรษณีย์",
     "unknown": "ไม่ทราบ"
+  },
+  "leads": {
+    "successTitle": "ได้รับคำขอแล้ว",
+    "errorTitle": "ไม่สามารถดำเนินการคำขอได้",
+    "errorBody": "ไม่สามารถดำเนินการคำขอนี้ได้ กรุณาลองอีกครั้ง",
+    "errorHint": "ข้อผิดพลาดจากการตรวจสอบจะแสดงบนฟอร์ม หน้านี้สำหรับข้อผิดพลาดลีดที่ใช้ร่วมกัน ไม่ได้ส่งอีเมล CRM",
+    "modeStored": "บันทึกลงที่เก็บลีดเมื่อมีการตั้งค่าแล้ว",
+    "modePlaceholder": "รับเป็นรหัสอ้างอิงชั่วคราวของแพลตฟอร์ม ไม่มี CRM อัตโนมัติและไม่ได้ส่งอีเมล",
+    "backToForm": "กลับไปที่ฟอร์ม",
+    "backToMarketplace": "ตลาดกลาง",
+    "tryAgain": "ลองอีกครั้ง"
   },
   "districtCenter": {
     "heroEyebrow": "ศูนย์เขต",

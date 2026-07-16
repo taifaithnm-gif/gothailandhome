@@ -35,7 +35,11 @@
     "knowledgeGlossaryTitle": "术语表 | GoThailandHome",
     "knowledgeGlossaryDescription": "轨道交通、设施与房型的受控名称——仅名称。",
     "knowledgeDistrictsTitle": "曼谷行政区 | GoThailandHome",
-    "knowledgeDistrictsDescription": "曼谷 50 个行政区索引，链接至区域中心页。"
+    "knowledgeDistrictsDescription": "曼谷 50 个行政区索引，链接至区域中心页。",
+    "leadSuccessTitle": "已收到请求 | GoThailandHome",
+    "leadSuccessDescription": "已收到您的市场线索。未发送自动 CRM 邮件。",
+    "leadErrorTitle": "请求未能完成 | GoThailandHome",
+    "leadErrorDescription": "该市场线索处理出错。可重试或联系平台客户成功。"
   },
   "nav": {
     "home": "首页",
@@ -402,6 +406,17 @@
     "districtsNotice": "邮编来自术语包。区域中心页仅在有来源时展示配套设施。",
     "postalLabel": "邮编",
     "unknown": "未知"
+  },
+  "leads": {
+    "successTitle": "已收到请求",
+    "errorTitle": "请求未能完成",
+    "errorBody": "无法完成该请求，请重试。",
+    "errorHint": "校验错误会显示在表单上。此页用于共享线索错误。未发送 CRM 邮件。",
+    "modeStored": "在已配置存储时已写入线索存储。",
+    "modePlaceholder": "已生成本地参考编号。未进行 CRM 自动化，也未发送邮件。",
+    "backToForm": "返回表单",
+    "backToMarketplace": "市场入口",
+    "tryAgain": "重试"
   },
   "districtCenter": {
     "heroEyebrow": "区域中心",

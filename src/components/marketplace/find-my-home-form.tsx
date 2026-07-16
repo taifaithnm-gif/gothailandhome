@@ -13,7 +13,6 @@ import {
   FormGrid,
   FormShell,
   FormSubmitButton,
-  FormSuccessState,
   Input,
   Select,
   Textarea,
@@ -38,18 +37,6 @@ const initial: MarketplaceFormState = {
 export function FindMyHomeForm({ locale, dict }: Props) {
   const m = dict.marketplace;
   const [state, action, pending] = useActionState(submitFindMyHomeLead, initial);
-
-  if (state.ok) {
-    return (
-      <FormSuccessState
-        title={m.successTitle}
-        body={m.successPrivate}
-        reference={state.reference}
-        referenceLabel={m.referenceLabel}
-        nextSteps={m.nextSteps}
-      />
-    );
-  }
 
   const errorMessage =
     state.errorCode || state.message

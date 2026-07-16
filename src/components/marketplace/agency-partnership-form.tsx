@@ -13,7 +13,6 @@ import {
   FormGrid,
   FormShell,
   FormSubmitButton,
-  FormSuccessState,
   Input,
   Textarea,
   resolveMarketplaceError,
@@ -40,18 +39,6 @@ export function AgencyPartnershipForm({ locale, dict }: Props) {
     submitAgencyPartnershipLead,
     initial,
   );
-
-  if (state.ok) {
-    return (
-      <FormSuccessState
-        title={m.successTitle}
-        body={m.successPending}
-        reference={state.reference}
-        referenceLabel={m.referenceLabel}
-        nextSteps={m.nextSteps}
-      />
-    );
-  }
 
   const errorMessage =
     state.errorCode || state.message

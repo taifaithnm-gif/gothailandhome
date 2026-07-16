@@ -1,5 +1,7 @@
 "use server";
 
+import { redirect } from "next/navigation";
+
 import { createMarketplaceLead } from "@/lib/marketplace/leads";
 import {
   generateLeadReference,
@@ -12,13 +14,19 @@ import {
   validateSupportMessage,
   type MarketplaceValidationCode,
 } from "@/lib/marketplace/form-validation";
+import {
+  LEAD_CHANNEL_PREFIX,
+  type LeadChannel,
+  type LeadSubmitMode,
+} from "@/lib/leads/channels";
+import { buildLeadSuccessPath } from "@/lib/leads/urls";
 
 export type MarketplaceFormState = {
   ok: boolean;
   message: string;
   errorCode?: MarketplaceValidationCode | "storage_unavailable" | null;
   reference?: string | null;
-  mode?: "stored" | "placeholder" | null;
+  mode?: LeadSubmitMode | null;
 };
 
 function multi(formData: FormData, key: string): string[] {
@@ -35,33 +43,19 @@ function fail(
 }
 
 /**
- * Placeholder-safe submit: try storage when configured; otherwise accept
- * locally with a reference. No email / CRM automation.
+ * Placeholder-safe submit → shared Lead success page.
+ * No email / CRM automation. Validation failures stay on the form.
  */
 async function finalizeLead(
-  prefix: string,
+  channel: LeadChannel,
+  localeRaw: string,
   create: () => ReturnType<typeof createMarketplaceLead>,
-): Promise<MarketplaceFormState> {
-  const reference = generateLeadReference(prefix);
+): Promise<never> {
+  const locale = localeRaw || "en";
+  const reference = generateLeadReference(LEAD_CHANNEL_PREFIX[channel]);
   const result = await create();
-  if (result.ok) {
-    return {
-      ok: true,
-      message: "ok",
-      errorCode: null,
-      reference,
-      mode: "stored",
-    };
-  }
-  // Alpha M1: no CRM/email automation — accept with local reference when
-  // storage is unavailable or insert fails. No schema / harvest changes.
-  return {
-    ok: true,
-    message: "ok",
-    errorCode: null,
-    reference,
-    mode: "placeholder",
-  };
+  const mode: LeadSubmitMode = result.ok ? "stored" : "placeholder";
+  redirect(buildLeadSuccessPath(locale, channel, reference, mode));
 }
 
 export async function submitFindMyHomeLead(
@@ -72,6 +66,7 @@ export async function submitFindMyHomeLead(
   const phone = normalizeField(formData.get("phone"));
   const email = normalizeField(formData.get("email"));
   const consent = isChecked(formData.get("consent"));
+  const locale = normalizeField(formData.get("locale")) || "en";
 
   const basics = validateContactBasics({ name, phone, email, consent });
   if (!basics.ok) return fail(basics.code);
@@ -79,10 +74,10 @@ export async function submitFindMyHomeLead(
   const budgetMin = normalizeField(formData.get("budget_min"));
   const budgetMax = normalizeField(formData.get("budget_max"));
 
-  return finalizeLead("FMH", () =>
+  return finalizeLead("find_my_home", locale, () =>
     createMarketplaceLead({
       leadType: "find_home",
-      locale: normalizeField(formData.get("locale")) || "en",
+      locale,
       source: "find_my_home_form",
       name,
       phone: phone || null,
@@ -125,6 +120,7 @@ export async function submitListYourPropertyLead(
   const authorization = isChecked(formData.get("authorization"));
   const project = normalizeField(formData.get("project"));
   const price = normalizeField(formData.get("price"));
+  const locale = normalizeField(formData.get("locale")) || "en";
 
   const basics = validateContactBasics({ name, phone, email, consent });
   if (!basics.ok) return fail(basics.code);
@@ -136,10 +132,10 @@ export async function submitListYourPropertyLead(
   });
   if (!extras.ok) return fail(extras.code);
 
-  return finalizeLead("LYP", () =>
+  return finalizeLead("list_your_property", locale, () =>
     createMarketplaceLead({
       leadType: "list_property",
-      locale: normalizeField(formData.get("locale")) || "en",
+      locale,
       source: "list_your_property_form",
       name,
       phone: phone || null,
@@ -181,6 +177,7 @@ export async function submitDeveloperPartnershipLead(
   const phone = normalizeField(formData.get("phone"));
   const email = normalizeField(formData.get("email"));
   const consent = isChecked(formData.get("consent"));
+  const locale = normalizeField(formData.get("locale")) || "en";
 
   const check = validateDeveloperPartnership({
     company,
@@ -191,10 +188,10 @@ export async function submitDeveloperPartnershipLead(
   });
   if (!check.ok) return fail(check.code);
 
-  return finalizeLead("DEV", () =>
+  return finalizeLead("developer_partnership", locale, () =>
     createMarketplaceLead({
       leadType: "developer_partnership",
-      locale: normalizeField(formData.get("locale")) || "en",
+      locale,
       source: "developer_partnership_form",
       name: representative,
       phone: phone || null,
@@ -227,6 +224,7 @@ export async function submitAgencyPartnershipLead(
   const phone = normalizeField(formData.get("phone"));
   const email = normalizeField(formData.get("email"));
   const consent = isChecked(formData.get("consent"));
+  const locale = normalizeField(formData.get("locale")) || "en";
 
   const check = validateAgencyPartnership({
     agencyName,
@@ -237,10 +235,10 @@ export async function submitAgencyPartnershipLead(
   });
   if (!check.ok) return fail(check.code);
 
-  return finalizeLead("AGY", () =>
+  return finalizeLead("agency_partnership", locale, () =>
     createMarketplaceLead({
       leadType: "agency_partnership",
-      locale: normalizeField(formData.get("locale")) || "en",
+      locale,
       source: "agency_partnership_form",
       name: representative,
       phone: phone || null,
@@ -272,14 +270,15 @@ export async function submitViewingRequestLead(
   const email = normalizeField(formData.get("email"));
   const propertyId = normalizeField(formData.get("property_id")) || null;
   const consent = isChecked(formData.get("consent"));
+  const locale = normalizeField(formData.get("locale")) || "en";
 
   const basics = validateContactBasics({ name, phone, email, consent });
   if (!basics.ok) return fail(basics.code);
 
-  return finalizeLead("VIEW", () =>
+  return finalizeLead("viewing_request", locale, () =>
     createMarketplaceLead({
       leadType: "viewing_request",
-      locale: normalizeField(formData.get("locale")) || "en",
+      locale,
       source: "property_viewing_form",
       name,
       phone: phone || null,
@@ -299,6 +298,7 @@ export async function submitViewingRequestLead(
   );
 }
 
+/** Platform CS remains on shared validation; success stays inline (not one of the five entry channels). */
 export async function submitPlatformSupportLead(
   _prev: MarketplaceFormState,
   formData: FormData,
@@ -307,24 +307,32 @@ export async function submitPlatformSupportLead(
   const email = normalizeField(formData.get("email"));
   const message = normalizeField(formData.get("message"));
   const consent = isChecked(formData.get("consent"));
+  const locale = normalizeField(formData.get("locale")) || "en";
 
   const check = validateSupportMessage({ name, email, message, consent });
   if (!check.ok) return fail(check.code);
 
-  return finalizeLead("PCS", () =>
-    createMarketplaceLead({
-      leadType: "platform_support",
-      locale: normalizeField(formData.get("locale")) || "en",
-      source: "contact_page_platform_support",
-      name,
-      email,
-      phone: normalizeField(formData.get("phone")) || null,
-      message,
-      consent: true,
-      payload: {
-        channel: "platform_customer_success",
-        not_listing_owner: true,
-      },
-    }),
-  );
+  const reference = generateLeadReference("PCS");
+  const result = await createMarketplaceLead({
+    leadType: "platform_support",
+    locale,
+    source: "contact_page_platform_support",
+    name,
+    email,
+    phone: normalizeField(formData.get("phone")) || null,
+    message,
+    consent: true,
+    payload: {
+      channel: "platform_customer_success",
+      not_listing_owner: true,
+    },
+  });
+
+  return {
+    ok: true,
+    message: "ok",
+    errorCode: null,
+    reference,
+    mode: result.ok ? "stored" : "placeholder",
+  };
 }

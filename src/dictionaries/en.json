@@ -35,7 +35,11 @@
     "knowledgeGlossaryTitle": "Glossary | GoThailandHome",
     "knowledgeGlossaryDescription": "Controlled vocabulary names for transit, facilities, and property types — names only.",
     "knowledgeDistrictsTitle": "Bangkok districts | GoThailandHome",
-    "knowledgeDistrictsDescription": "Index of Bangkok’s 50 districts with links to District Center pages."
+    "knowledgeDistrictsDescription": "Index of Bangkok’s 50 districts with links to District Center pages.",
+    "leadSuccessTitle": "Request received | GoThailandHome",
+    "leadSuccessDescription": "Your marketplace lead was received. No automated CRM email was sent.",
+    "leadErrorTitle": "Request could not be completed | GoThailandHome",
+    "leadErrorDescription": "Something went wrong with this marketplace lead. You can try again or contact Platform Customer Success."
   },
   "nav": {
     "home": "Home",
@@ -402,6 +406,17 @@
     "districtsNotice": "Postal codes come from the glossary package. District Center pages add sourced amenities only when present.",
     "postalLabel": "Postal code",
     "unknown": "Unknown"
+  },
+  "leads": {
+    "successTitle": "Request received",
+    "errorTitle": "Request could not be completed",
+    "errorBody": "We could not complete this request. Please try again.",
+    "errorHint": "Validation mistakes are shown on the form. This page is for shared lead errors. No CRM email was sent.",
+    "modeStored": "Accepted into lead storage when configured.",
+    "modePlaceholder": "Accepted as a platform placeholder reference. No CRM automation and no email were sent.",
+    "backToForm": "Back to form",
+    "backToMarketplace": "Marketplace",
+    "tryAgain": "Try again"
   },
   "districtCenter": {
     "heroEyebrow": "District center",

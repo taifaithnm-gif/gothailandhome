@@ -13,7 +13,6 @@ import {
   FormGrid,
   FormShell,
   FormSubmitButton,
-  FormSuccessState,
   Input,
   Select,
   Textarea,
@@ -41,18 +40,6 @@ export function ListYourPropertyForm({ locale, dict }: Props) {
     submitListYourPropertyLead,
     initial,
   );
-
-  if (state.ok) {
-    return (
-      <FormSuccessState
-        title={m.successTitle}
-        body={m.successReview}
-        reference={state.reference}
-        referenceLabel={m.referenceLabel}
-        nextSteps={m.nextSteps}
-      />
-    );
-  }
 
   const errorMessage =
     state.errorCode || state.message

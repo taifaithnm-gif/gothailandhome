@@ -12,7 +12,6 @@ import {
   FormField,
   FormShell,
   FormSubmitButton,
-  FormSuccessState,
   Input,
   Textarea,
   resolveMarketplaceError,
@@ -40,18 +39,6 @@ export function ViewingRequestForm({ locale, dict, propertyId }: Props) {
     submitViewingRequestLead,
     initial,
   );
-
-  if (state.ok) {
-    return (
-      <FormSuccessState
-        title={m.successTitle}
-        body={m.successViewing}
-        reference={state.reference}
-        referenceLabel={m.referenceLabel}
-        nextSteps={m.nextSteps}
-      />
-    );
-  }
 
   const errorMessage =
     state.errorCode || state.message
