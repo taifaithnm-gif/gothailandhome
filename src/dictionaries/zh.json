@@ -27,7 +27,9 @@
     "developerPartnerTitle": "开发商合作 | GoThailandHome",
     "developerPartnerDescription": "申请开发商合作，审核前保持待处理。",
     "agencyPartnerTitle": "中介合作 | GoThailandHome",
-    "agencyPartnerDescription": "申请中介合作，审核前保持待处理。"
+    "agencyPartnerDescription": "申请中介合作，审核前保持待处理。",
+    "marketplaceTitle": "市场入口 | GoThailandHome",
+    "marketplaceDescription": "选择适合您的路径：帮我找房、发布房源、合作申请，或在房源页预约看房。"
   },
   "nav": {
     "home": "首页",
@@ -43,7 +45,8 @@
     "developers": "开发商",
     "findMyHome": "帮我找房",
     "listProperty": "发布房源",
-    "partners": "合作"
+    "partners": "合作",
+    "marketplace": "市场入口"
   },
   "projectLanding": {
     "developer": "开发商",
@@ -425,6 +428,19 @@
     "partnershipBody": "合作、资料认领与项目提交均须经 GoThailandHome 核实后方可发布。"
   },
   "marketplace": {
+    "hubTitle": "市场入口",
+    "hubSubtitle": "按角色选择路径。浏览房源与需求/合作入口分开。",
+    "hubPromiseTitle": "本平台如何运作",
+    "hubPromise": "我们索引公开挂牌；我们不是挂牌中介；需要时可请平台客户成功协助联系来源。",
+    "hubOpen": "继续",
+    "roleBuyer": "买家与租客",
+    "roleOwner": "业主与授权中介",
+    "roleDeveloper": "开发商",
+    "roleAgency": "经纪机构",
+    "roleViewing": "在房源页",
+    "viewingEntryTitle": "预约看房",
+    "viewingEntrySubtitle": "打开任意已核对房源即可预约看房。有挂牌联系人时优先使用挂牌联系人。",
+    "viewingEntryCta": "浏览房源",
     "findTitle": "帮我找房",
     "findSubtitle": "告诉我们您的需求。请求仅内部保存，不会公开发布。",
     "findPrivacyNote": "仅为私密需求线索，不会公开您的找房条件。",

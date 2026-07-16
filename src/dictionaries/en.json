@@ -27,7 +27,9 @@
     "developerPartnerTitle": "Developer Partnership | GoThailandHome",
     "developerPartnerDescription": "Apply for a developer partnership. Applications stay pending until review.",
     "agencyPartnerTitle": "Agency Partnership | GoThailandHome",
-    "agencyPartnerDescription": "Apply for an agency partnership. Applications stay pending until review."
+    "agencyPartnerDescription": "Apply for an agency partnership. Applications stay pending until review.",
+    "marketplaceTitle": "Marketplace | GoThailandHome",
+    "marketplaceDescription": "Choose your marketplace path: Find My Home, List Your Property, partnerships, or request a viewing on a listing."
   },
   "nav": {
     "home": "Home",
@@ -43,7 +45,8 @@
     "developers": "Developers",
     "findMyHome": "Find My Home",
     "listProperty": "List Property",
-    "partners": "Partners"
+    "partners": "Partners",
+    "marketplace": "Marketplace"
   },
   "projectLanding": {
     "developer": "Developer",
@@ -425,6 +428,19 @@
     "partnershipBody": "Partnership, profile claims, and project submissions are subject to GoThailandHome verification before publish."
   },
   "marketplace": {
+    "hubTitle": "Marketplace",
+    "hubSubtitle": "Choose the path that matches your role. Browse stays separate from intake and partnerships.",
+    "hubPromiseTitle": "How this marketplace works",
+    "hubPromise": "We index public listings; we are not the listing agent; Platform Customer Success can help contact the source when needed.",
+    "hubOpen": "Continue",
+    "roleBuyer": "Buyers & tenants",
+    "roleOwner": "Owners & authorized agents",
+    "roleDeveloper": "Developers",
+    "roleAgency": "Agencies",
+    "roleViewing": "On a listing",
+    "viewingEntryTitle": "Viewing Request",
+    "viewingEntrySubtitle": "Open any verified listing to request a viewing. Listing contact is used first when available.",
+    "viewingEntryCta": "Browse listings",
     "findTitle": "Find My Home",
     "findSubtitle": "Tell us what you need. Your request stays private — it is never published as a public listing.",
     "findPrivacyNote": "Private demand lead only. We will not publish your requirements publicly.",
