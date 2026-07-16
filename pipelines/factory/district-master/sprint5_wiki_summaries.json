@@ -1,0 +1,503 @@
+{
+  "fetched_at": "2026-07-16",
+  "count": 50,
+  "errors": [],
+  "results": {
+    "bang-bon": {
+      "title": "Bang Bon district",
+      "extract": "Bang Bon is one of the 50 districts (khet) of Bangkok, Thailand. Its neighbours, clockwise from north, are Bang Khae, Phasi Charoen, Chom Thong, and Bang Khun Thian districts of Bangkok, Mueang Samut Sakhon district and Krathum Baen district of Samut Sakhon province, and Nong Khaem district of Bangkok.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bang_Bon_district",
+      "coordinates": {
+        "lat": 13.66388889,
+        "lon": 100.40888889
+      },
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bang_Bon%2C_Bangkok_19.04.2022.jpg/330px-Bang_Bon%2C_Bangkok_19.04.2022.jpg"
+    },
+    "bang-kapi": {
+      "title": "Bang Kapi district",
+      "extract": "Bang Kapi is one of the 50 districts (khet) of Bangkok, Thailand. It is bounded by other Bangkok districts : Bueng Kum, Saphan Sung, Prawet, Suan Luang, Huai Khwang, Wang Thonglang, and Lat Phrao.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bang_Kapi_district",
+      "coordinates": {
+        "lat": 13.76583333,
+        "lon": 100.64777778
+      },
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ramkhamhaeng_University_in_Bang_Kapi_District%2C_Bangkok%2C_Thailand.jpg/330px-Ramkhamhaeng_University_in_Bang_Kapi_District%2C_Bangkok%2C_Thailand.jpg"
+    },
+    "bang-khae": {
+      "title": "Bang Khae district",
+      "extract": "Bang Khae is one of the 50 districts (khet) of Bangkok, Thailand. Its neighbouring districts, clockwise from north, are Thawi Watthana, Taling Chan, Phasi Charoen, Bang Bon, and Nong Khaem district.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bang_Khae_district",
+      "coordinates": {
+        "lat": 13.69611111,
+        "lon": 100.40944444
+      },
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Car_in_Bangkok.jpg/330px-Car_in_Bangkok.jpg"
+    },
+    "bang-khen": {
+      "title": "Bang Khen district",
+      "extract": "Bang Khen is one of the 50 districts (khet) of Bangkok, Thailand. It is bounded by other Bangkok districts : Sai Mai, Khlong Sam Wa, Khan Na Yao, Bueng Kum, Lat Phrao, Chatuchak, Lak Si, and Don Mueang.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bang_Khen_district",
+      "coordinates": {
+        "lat": 13.87388889,
+        "lon": 100.59638889
+      },
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTS_Constitution_protectors_monument_-_garden_.jpg/330px-BTS_Constitution_protectors_monument_-_garden_.jpg"
+    },
+    "bang-kho-laem": {
+      "title": "Bang Kho Laem district",
+      "extract": "Bang Kho Laem is one of the 50 districts (khet) of Bangkok, Thailand. The incumbent district officer is Samita Xanthavanij. The district is bounded by Sathon, Yannawa, and across the Chao Phraya River, Rat Burana, Thon Buri and Khlong San districts.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bang_Kho_Laem_district",
+      "coordinates": {
+        "lat": 13.69333333,
+        "lon": 100.5025
+      },
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Asiatique_%2811384515613%29.jpg/330px-Asiatique_%2811384515613%29.jpg"
+    },
+    "bang-khun-thian": {
+      "title": "Bang Khun Thian district",
+      "extract": "Bang Khun Thian is one of the 50 districts (khet) of Bangkok, Thailand. Its neighbors, clockwise from the north, are Bang Bon, Chom Thong, and Thung Khru Districts of Bangkok, Phra Samut Chedi district of Samut Prakan province and Mueang Samut Sakhon district of Samut Sakhon province. Bang Khun Thian is Bangkok's southernmost district, and the only one bordering the Bay of Bangkok.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bang_Khun_Thian_district",
+      "coordinates": {
+        "lat": 13.66083333,
+        "lon": 100.43583333
+      },
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rama_II_road_at_Central_Rama_II.jpg/330px-Rama_II_road_at_Central_Rama_II.jpg"
+    },
+    "bang-na": {
+      "title": "Bang Na district",
+      "extract": "Bang Na is one of the fifty districts (khet) of Bangkok, Thailand. Its neighbors, clockwise from the north, are the Phra Khanong and Prawet Districts of Bangkok and Bang Phli, Mueang Samut Prakan, and Phra Pradaeng Districts of Samut Prakan province.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bang_Na_district",
+      "coordinates": {
+        "lat": 13.68008056,
+        "lon": 100.5918
+      },
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BITEC.JPG/330px-BITEC.JPG"
+    },
+    "bang-phlat": {
+      "title": "Bang Phlat district",
+      "extract": "Bang Phlat is one of the 50 districts (khet) of Bangkok, Thailand. Its neighboring districts, clockwise from the north, are Bang Kruai district, Bang Sue, Dusit, Phra Nakhon, Bangkok Noi, and Taling Chan.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bang_Phlat_district",
+      "coordinates": {
+        "lat": 13.79388889,
+        "lon": 100.505
+      },
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/On_the_Rama_VIII_Bridge.jpg/330px-On_the_Rama_VIII_Bridge.jpg"
+    },
+    "bang-rak": {
+      "title": "Bang Rak district",
+      "extract": "Bang Rak is one of the fifty districts (khet) of Bangkok, Thailand. It lies on the eastern bank of the Chao Phraya River, beyond Khlong Phadung Krung Kasem, which marked the old city boundary. Originating from riverside settlements dating from before the city's foundation, Bang Rak grew inland as new roads and canals were constructed through the area during the second half of the nineteenth century and the early twentieth, attracting communities of expatriates and developing into a major commercial district.",
+      "description": "District in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bang_Rak_district",
+      "coordinates": {
+        "lat": 13.73055556,
+        "lon": 100.52361111
+      },
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bangrak_Chaophya_River.jpg/330px-Bangrak_Chaophya_River.jpg"
+    },
+    "bang-sue": {
+      "title": "Bang Sue district",
+      "extract": "Bang Sue is one of the 50 districts (khet) of Bangkok, Thailand. It borders Chatuchak to the east, Phaya Thai to the southeast, Dusit to the south, Bang Phlat and Bang Kruai across the Chao Phraya to the west and Mueang Nonthaburi to the north.",
+      "description": "District of Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bang_Sue_district",
+      "coordinates": {
+        "lat": 13.80972222,
+        "lon": 100.53722222
+      },
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wat_bang_pho%2C_Bang_sue%2C_bangkok%2C_Thailand_-_panoramio.jpg/330px-Wat_bang_pho%2C_Bang_sue%2C_bangkok%2C_Thailand_-_panoramio.jpg"
+    },
+    "taling-chan": {
+      "title": "Taling Chan district",
+      "extract": "Taling Chan is one of the 50 districts (khet) of Bangkok, Thailand. Its neighbours, clockwise from the north, are Bang Kruai district of Nonthaburi province and Bang Phlat, Bangkok Noi, Bangkok Yai, Phasi Charoen, Bang Khae, and Thawi Watthana Districts of Bangkok.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Taling_Chan_district",
+      "coordinates": {
+        "lat": 13.77694444,
+        "lon": 100.45666667
+      },
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/New_Southern_Bus_Terminal_%28Sai_Tai_Mai%29_-_in_2009.jpg/330px-New_Southern_Bus_Terminal_%28Sai_Tai_Mai%29_-_in_2009.jpg"
+    },
+    "bangkok-yai": {
+      "title": "Bangkok Yai district",
+      "extract": "\nBangkok Yai is one of the 50 districts (khet) of Bangkok, Thailand. Neighbouring districts are Bangkok Noi, Phra Nakhon, Thon Buri, Phasi Charoen, and Taling Chan.",
+      "description": "District in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bangkok_Yai_district",
+      "coordinates": {
+        "lat": 13.72277778,
+        "lon": 100.47638889
+      }
+    },
+    "bueng-kum": {
+      "title": "Bueng Kum district",
+      "extract": "Bueng Kum is one of the 50 districts (Khet) of Bangkok, Thailand. From north clockwise, it is bounded by Bang Khen, Khan Na Yao, Saphan Sung, Bang Kapi, and Lat Phrao.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bueng_Kum_district",
+      "coordinates": {
+        "lat": 13.78527778,
+        "lon": 100.66916667
+      }
+    },
+    "chatuchak": {
+      "title": "Chatuchak district",
+      "extract": "Chatuchak is one of the 50 districts (khet) of Bangkok, Thailand. The district is bounded by seven other districts : Lak Si, Bang Khen, Lat Phrao, Huai Khwang, Din Daeng, Phaya Thai, and Bang Sue.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Chatuchak_district",
+      "coordinates": {
+        "lat": 13.82861111,
+        "lon": 100.55972222
+      }
+    },
+    "chom-thong": {
+      "title": "Chom Thong district, Bangkok",
+      "extract": "Chom Thong is one of the 50 districts (khet) of Bangkok, Thailand. The district is bounded by the districts Phasi Charoen, Thon Buri, Rat Burana, Thung Khru, Bang Khun Thian, and Bang Bon.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Chom_Thong_district%2C_Bangkok",
+      "coordinates": {
+        "lat": 13.67722222,
+        "lon": 100.48472222
+      }
+    },
+    "din-daeng": {
+      "title": "Din Daeng district",
+      "extract": "Din Daeng is one of the 50 districts (khet) of Bangkok, Thailand. Its neighbours, clockwise from north, are Chatuchak, Huai Khwang, Ratchathewi, and Phaya Thai.",
+      "description": "District in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Din_Daeng_district",
+      "coordinates": {
+        "lat": 13.76972222,
+        "lon": 100.55277778
+      }
+    },
+    "don-mueang": {
+      "title": "Don Mueang district",
+      "extract": "Don Mueang is one of the 50 districts (khet) of Bangkok, Thailand. It is bounded by : Mueang Pathum Thani and Lam Luk Ka of Pathum Thani province; Sai Mai, Bang Khen and Lak Si of Bangkok; and Pak Kret of Nonthaburi province. The district is best known as the location of Don Mueang International Airport.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Don_Mueang_district",
+      "coordinates": {
+        "lat": 13.91361111,
+        "lon": 100.58972222
+      }
+    },
+    "dusit": {
+      "title": "Dusit district",
+      "extract": "Dusit is one of the 50 districts (khet) of Bangkok, Thailand.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Dusit_district",
+      "coordinates": {
+        "lat": 13.77694444,
+        "lon": 100.52055556
+      }
+    },
+    "huai-khwang": {
+      "title": "Huai Khwang district",
+      "extract": "Huai Khwang is one of the 50 districts (khet) of Bangkok, Thailand. It is east of the city centre. Neighbouring districts are Chatuchak, Wang Thonglang, Bang Kapi, Suan Luang, Watthana, Ratchathewi, and Din Daeng.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Huai_Khwang_district",
+      "coordinates": {
+        "lat": 13.77666667,
+        "lon": 100.57944444
+      }
+    },
+    "khan-na-yao": {
+      "title": "Khan Na Yao district",
+      "extract": "Khan Na Yao is one of the 50 districts (khet) of Bangkok, Thailand. It is bounded by other Bangkok districts : Bang Khen, Khlong Sam Wa, Min Buri, Saphan Sung, and Bueng Kum. The district is most notable for Fashion Island & The Promenade shopping malls and Siam Amazing Park amusement park.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Khan_Na_Yao_district",
+      "coordinates": null
+    },
+    "khlong-sam-wa": {
+      "title": "Khlong Sam Wa district",
+      "extract": "Khlong Sam Wa is one of the 50 districts (khet) of Bangkok, Thailand. It is bounded by other districts : Lam Luk Ka district of Pathum Thani province, Nong Chok, Min Buri, Khan Na Yao, Bang Khen, and Sai Mai of Bangkok. As of 2022, it had the highest population of all districts in Bangkok.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Khlong_Sam_Wa_district",
+      "coordinates": {
+        "lat": 13.85972222,
+        "lon": 100.70416667
+      }
+    },
+    "lak-si": {
+      "title": "Lak Si district",
+      "extract": "Lak Si is one of the 50 districts (khet) of Bangkok, Thailand. It is bounded by : Don Mueang, Bang Khen and Chatuchak of Bangkok; Mueang Nonthaburi district and Pak Kret district of Nonthaburi province.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Lak_Si_district",
+      "coordinates": {
+        "lat": 13.8875,
+        "lon": 100.57888889
+      }
+    },
+    "lat-krabang": {
+      "title": "Lat Krabang district",
+      "extract": "Lat Krabang is one of the eastern districts of Bangkok.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Lat_Krabang_district",
+      "coordinates": {
+        "lat": 13.72231667,
+        "lon": 100.75966944
+      }
+    },
+    "lat-phrao": {
+      "title": "Lat Phrao district",
+      "extract": "Lat Phrao is one of the 50 districts (khets) of Bangkok, Thailand. The district is bounded by six other districts : Bang Khen, Bueng Kum, Bang Kapi, Wang Thonglang, and Chatuchak.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Lat_Phrao_district",
+      "coordinates": {
+        "lat": 13.80361111,
+        "lon": 100.6075
+      }
+    },
+    "min-buri": {
+      "title": "Min Buri district",
+      "extract": "Min Buri is one of the 50 districts (khet) of Bangkok, Thailand. It is bounded by other Bangkok districts : Khlong Sam Wa, Nong Chok, Lat Krabang, Saphan Sung, and Khan Na Yao. Min Buri is the fifth largest district in Bangkok.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Min_Buri_district",
+      "coordinates": {
+        "lat": 13.81388889,
+        "lon": 100.74805556
+      }
+    },
+    "nong-chok": {
+      "title": "Nong Chok district",
+      "extract": "Nong Chok is one of the 50 districts (khet) of Bangkok, Thailand. It is bounded by other districts : Amphoe Lam Luk Ka of Pathum Thani province, Amphoe Bang Nam Priao and Amphoe Mueang Chachoengsao of Chachoengsao province, Lat Krabang, Min Buri and Khlong Sam Wa of Bangkok. It is the biggest, easternmost and the most sparsely populated district of Bangkok.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Nong_Chok_district",
+      "coordinates": {
+        "lat": 13.85555556,
+        "lon": 100.8625
+      }
+    },
+    "nong-khaem": {
+      "title": "Nong Khaem district",
+      "extract": "Nong Khaem is one of the 50 districts (khet) of Bangkok, Thailand. The district is bounded by other Bangkok districts : Thawi Watthana, Bang Khae, Bang Bon of Bangkok, Krathum Baen of Samut Sakhon province, Sam Phran and Phutthamonthon of Nakhon Pathom province. Nong Khaem is Bangkok's westernmost district.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Nong_Khaem_district",
+      "coordinates": {
+        "lat": 13.70472222,
+        "lon": 100.34888889
+      }
+    },
+    "pathum-wan": {
+      "title": "Pathum Wan district",
+      "extract": "Pathum Wan is one of the fifty districts (khet) of Bangkok, Thailand. It lies just beyond the old city boundary of Khlong Phadung Krung Kasem and was a rural area on the eastern outskirts of the city when royal villas were built there in the late nineteenth century. The district was officially established in 1915, and covers an area of 8.37 square kilometres (3.23 sq mi). A large part of the district area is taken up by the campus of Chulalongkorn University and the green expanses of Lumphini Park and the Royal Bangkok Sports Club. By the turn of the 20th–21st centuries, the district had become known as the modern-day city centre, home to the prominent shopping areas of Siam and Ratchaprasong.",
+      "description": "District in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Pathum_Wan_district",
+      "coordinates": {
+        "lat": 13.745,
+        "lon": 100.52222222
+      }
+    },
+    "phasi-charoen": {
+      "title": "Phasi Charoen district",
+      "extract": "Phasi Charoen is one of the 50 districts (Khet) of Bangkok, Thailand. The district is bounded by other Bangkok districts : Taling Chan, Bangkok Noi, Bangkok Yai, Thon Buri, Chom Thong, Bang Bon, and Bang Khae.",
+      "description": "District in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Phasi_Charoen_district",
+      "coordinates": {
+        "lat": 13.71472222,
+        "lon": 100.43722222
+      }
+    },
+    "phaya-thai": {
+      "title": "Phaya Thai district",
+      "extract": "Phaya Thai is a district in central Bangkok, Thailand. From the north clockwise, its neighbouring districts are: Bang Sue, Chatuchak, Din Daeng, Ratchathewi, and Dusit. Despite sharing a name, due to boundary changes, Phaya Thai Road and Phaya Thai BTS Station are in the adjoining Ratchathewi District.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Phaya_Thai_district",
+      "coordinates": null
+    },
+    "phra-khanong": {
+      "title": "Phra Khanong district",
+      "extract": "Phra Khanong is one of the 50 districts (Khet) of Bangkok, Thailand. Its neighbours, clockwise from north, are Suan Luang, Prawet, and Bang Na districts of Bangkok, Phra Pradaeng district of Samut Prakan province, Khlong Toei and Watthana of Bangkok.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Phra_Khanong_district",
+      "coordinates": {
+        "lat": 13.70222222,
+        "lon": 100.60166667
+      }
+    },
+    "prawet": {
+      "title": "Prawet district",
+      "extract": "Prawet is one of the 50 districts of Bangkok, Thailand. It is in the southeast. Neighboring districts are Bang Phli, Bang Na, Phra Khanong, Suan Luang, Bang Kapi, Saphan Sung and Lat Krabang (Bangkok). The district is best known for Paradise Park, Paradise Place, Seacon Square shopping malls; Srinagarindra Train Night Market; as well as Suan Luang Rama IX public park.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Prawet_district",
+      "coordinates": {
+        "lat": 13.71694444,
+        "lon": 100.69444444
+      }
+    },
+    "rat-burana": {
+      "title": "Rat Burana district",
+      "extract": "Rat Burana is one of the 50 districts (khet) of Bangkok, Thailand. The district is bounded by Phra Pradaeng of Samut Prakan province, Thung Khru, Chom Thong and Thon Buri districts of Bangkok while its north to east is Chao Phraya River with (clockwise) Bang Kho Laem and Yan Nawa districts across the river.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Rat_Burana_district",
+      "coordinates": {
+        "lat": 13.68222222,
+        "lon": 100.50555556
+      }
+    },
+    "ratchathewi": {
+      "title": "Ratchathewi district",
+      "extract": "Ratchathewi is a district (khet) in central Bangkok, Thailand. Clockwise from the north, its neighboring districts are Phaya Thai, Din Daeng, Huai Khwang, Watthana, Pathum Wan and Dusit.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Ratchathewi_district",
+      "coordinates": {
+        "lat": 13.75888889,
+        "lon": 100.53444444
+      }
+    },
+    "sai-mai": {
+      "title": "Sai Mai district",
+      "extract": "Sai Mai is one of the 50 districts (khet) of Bangkok, Thailand. It is bounded by : Lam Luk Ka district of Pathum Thani province; Khlong Sam Wa, Bang Khen and Don Mueang of Bangkok.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Sai_Mai_district",
+      "coordinates": {
+        "lat": 13.91916667,
+        "lon": 100.64583333
+      }
+    },
+    "samphanthawong": {
+      "title": "Samphanthawong district",
+      "extract": "Samphanthawong is one of the 50 districts (khet) of Bangkok, Thailand. Regarded as Bangkok's Chinatown, it is the smallest district by area in Thailand. Neighbouring districts are Pom Prap Sattru Phai, Bang Rak, Khlong San, and Phra Nakhon.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Samphanthawong_district",
+      "coordinates": {
+        "lat": 13.73138889,
+        "lon": 100.51416667
+      }
+    },
+    "saphan-sung": {
+      "title": "Saphan Sung district",
+      "extract": "Saphan Sung is one of the 50 districts (khet) of Bangkok, Thailand. Located on the eastern part of the capital, it is bounded by other Bangkok districts : Khan Na Yao, Min Buri, Lat Krabang, Prawet, Suan Luang, Bang Kapi, and Bueng Kum. Most part of Saphan Sung district are low density residential area.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Saphan_Sung_district",
+      "coordinates": {
+        "lat": 13.77,
+        "lon": 100.68472222
+      }
+    },
+    "sathon": {
+      "title": "Sathon district",
+      "extract": "Sathon or Sathorn, is a district (khet) of Bangkok, Thailand, one of fifty into which the city is divided. Situated along the Chao Phraya River in central Bangkok, Sathorn is home to numerous intergovernmental organizations, foreign embassies, and Southeast Asian offices of multinational corporations. Its neighboring districts are : Bang Rak, Pathum Wan, Khlong Toei, Yan Nawa, Bang Kho Laem, and Khlong San.",
+      "description": "District in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Sathon_district",
+      "coordinates": {
+        "lat": 13.70805556,
+        "lon": 100.52638889
+      }
+    },
+    "suan-luang": {
+      "title": "Suan Luang district",
+      "extract": "Suan Luang is one of the 50 districts (khet) of Bangkok, Thailand. It is bounded by other Bangkok districts : Bang Kapi, Saphan Sung, Prawet, Phra Khanong, and Watthana.",
+      "description": "District in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Suan_Luang_district",
+      "coordinates": {
+        "lat": 13.73027778,
+        "lon": 100.65138889
+      }
+    },
+    "thawi-watthana": {
+      "title": "Thawi Watthana district",
+      "extract": "Thawi Watthana is one of the 50 districts (khet) of Bangkok, Thailand. Its neighbor, clockwise from north, are Bang Kruai district of Nonthaburi province, Taling Chan, Bang Khae, and Nong Khaem Districts of Bangkok, Sam Phran and Phutthamonthon of Nakhon Pathom province.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Thawi_Watthana_district",
+      "coordinates": null
+    },
+    "thon-buri": {
+      "title": "Thon Buri district",
+      "extract": "Thon Buri is one of the 50 districts (khet) of Bangkok, Thailand. On the west bank of Chao Phraya River, it was once part of Thon Buri province. Neighboring districts are Bangkok Yai, Phra Nakhon, Khlong San, Bang Kho Laem, Rat Burana, Chom Thong, and Phasi Charoen.",
+      "description": "District in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Thon_Buri_district",
+      "coordinates": {
+        "lat": 13.725,
+        "lon": 100.48583333
+      }
+    },
+    "watthana": {
+      "title": "Watthana district",
+      "extract": "Watthana or Vadhana is one of the 50 districts (khet) of Bangkok, Thailand. Neighbouring districts are : Ratchathewi, Huai Khwang, Suan Luang, Phra Khanong, Khlong Toei, and Pathum Wan.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Watthana_district",
+      "coordinates": {
+        "lat": 13.74222222,
+        "lon": 100.58583333
+      }
+    },
+    "yan-nawa": {
+      "title": "Yan Nawa district",
+      "extract": "Yan Nawa or Yannawa is one of the 50 districts (khet) of Bangkok, Thailand. The district is bounded by Rat Burana, Bang Kho Laem, Sathon, and Khlong Toei Districts of Bangkok. Its neighbor from east to south is Phra Pradaeng district of Samut Prakan province.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Yan_Nawa_district",
+      "coordinates": {
+        "lat": 13.69694444,
+        "lon": 100.54305556
+      }
+    },
+    "bangkok-noi": {
+      "title": "Bangkok Noi district",
+      "extract": "Bangkok Noi is one of the 50 districts (khet) of Bangkok, Thailand. Neighboring districts are Bang Phlat, Phra Nakhon, Bangkok Yai, Phasi Charoen, and Taling Chan.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Bangkok_Noi_district",
+      "coordinates": {
+        "lat": 13.77086667,
+        "lon": 100.46793333
+      }
+    },
+    "khlong-san": {
+      "title": "Khlong San district",
+      "extract": "Khlong San is one of the 50 districts (khet) of Bangkok, Thailand. On the west bank of Chao Phraya River, its neighboring districts across the river are Phra Nakhon, Samphanthawong, Bang Rak, Sathon, and Bang Kho Laem. On the west side of the river, the only land neighbor is Thon Buri district.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Khlong_San_district",
+      "coordinates": {
+        "lat": 13.73027778,
+        "lon": 100.50972222
+      }
+    },
+    "khlong-toei": {
+      "title": "Khlong Toei district",
+      "extract": "Khlong Toei is a district in central Bangkok, Thailand. It is bordered by the Chao Phraya River and contains major port facilities. Known for its slum, it is also the site of a major market, the Khlong Toei Market.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Khlong_Toei_district",
+      "coordinates": {
+        "lat": 13.70805556,
+        "lon": 100.58388889
+      }
+    },
+    "phra-nakhon": {
+      "title": "Phra Nakhon district",
+      "extract": "Phra Nakhon is one of the 50 districts (khet) of Bangkok, Thailand. It is the central district of Bangkok, including Rattanakosin Island. Neighboring districts are, from the north, clockwise: Dusit, Pom Prap Sattru Phai, Samphanthawong, and across the Chao Phraya River, Thon Buri, Bangkok Yai, Bangkok Noi, and Bang Phlat.",
+      "description": "District of Bangkok",
+      "content_urls": "https://en.wikipedia.org/wiki/Phra_Nakhon_district",
+      "coordinates": {
+        "lat": 13.76444444,
+        "lon": 100.49916667
+      }
+    },
+    "pom-prap-sattru-phai": {
+      "title": "Pom Prap Sattru Phai district",
+      "extract": "Pom Prap Sattru Phai is one of the 50 districts (khet) of Bangkok, Thailand. Neighbouring districts are Dusit, Pathum Wan, Bang Rak, Samphanthawong, and Phra Nakhon. With more than 24,000 inhabitants per square kilometre it is the district with the highest population density in Thailand.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district",
+      "coordinates": {
+        "lat": 13.75805556,
+        "lon": 100.51305556
+      }
+    },
+    "thung-khru": {
+      "title": "Thung Khru district",
+      "extract": "Thung Khru is one of the 50 districts (khet) of Bangkok, Thailand. The district is bounded by Rat Burana District of Bangkok, Amphoe Phra Pradaeng and Amphoe Phra Samut Chedi of Samut Prakan province, Bang Khun Thian and Chom Thong of Bangkok.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Thung_Khru_district",
+      "coordinates": null
+    },
+    "wang-thonglang": {
+      "title": "Wang Thonglang district",
+      "extract": "Wang Thonglang is one of the 50 districts (khet) of Bangkok, Thailand. It is bounded by other Bangkok districts : Lat Phrao, Bang Kapi, Huai Khwang, and Chatuchak.",
+      "description": "Khet in Bangkok, Thailand",
+      "content_urls": "https://en.wikipedia.org/wiki/Wang_Thonglang_district",
+      "coordinates": null
+    }
+  }
+}

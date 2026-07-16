@@ -7,9 +7,9 @@
     "th": "คลองเตย"
   },
   "summary": {
-    "en": "Khlong Toei is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
-    "zh": "空堤（Khlong Toei）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
-    "th": "คลองเตย เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+    "en": "Khlong Toei is a district in central Bangkok, Thailand. It is bordered by the Chao Phraya River and contains major port facilities. Known for its slum, it is also the site of a major market, the Khlong Toei Market.",
+    "zh": "空堤（Khlong Toei）为曼谷大都会管理局下辖的行政区（เขต）。概述依据英文维基百科该区条目公开摘要。",
+    "th": "คลองเตย เป็นเขตการปกครองของกรุงเทพมหานคร สรุปภาพรวมอ้างอิงจากบทคัดย่อสาธารณะของวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้"
   },
   "seo": {
     "title": {
@@ -206,11 +206,85 @@
       "verified_at": "2026-07-16",
       "present": true,
       "absence_verified": false
+    },
+    "overview": {
+      "field": "overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_bma",
+        "url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "map": {
+      "field": "map",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "package_centroid_coordinates",
+        "url": "https://www.google.com/maps?q=13.723,100.56"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "lifestyle": {
+      "field": "lifestyle",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "office_areas": {
+      "field": "office_areas",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
     }
   },
   "district_master": {
-    "phase": "10-sprint-4",
+    "phase": "10-sprint-5",
     "verified_at": "2026-07-16",
-    "rule": "named_pois_only_plus_verified_transit_absence"
-  }
+    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+  },
+  "overview_source": {
+    "type": "wikipedia_rest_summary",
+    "url": "https://en.wikipedia.org/wiki/Khlong_Toei_district",
+    "verified_at": "2026-07-16"
+  },
+  "google_maps_url": "https://www.google.com/maps?q=13.723,100.56",
+  "map": {
+    "latitude": 13.723,
+    "longitude": 100.56,
+    "google_maps_url": "https://www.google.com/maps?q=13.723,100.56",
+    "source": "district_package_centroid",
+    "verified_at": "2026-07-16"
+  },
+  "lifestyle": {
+    "en": "Port, market, and riverside mixed-use district including Khlong Toei Market, per Wikipedia.",
+    "zh": "港口、市场与河畔混合用途区，含空堤市场（维基百科）。",
+    "th": "ย่านท่าเรือ ตลาด และริมน้ำ รวมตลาดคลองเตย ตามวิกิพีเดีย",
+    "source_url": "https://en.wikipedia.org/wiki/Khlong_Toei_district",
+    "verified_at": "2026-07-16"
+  },
+  "office_areas": [
+    {
+      "name": {
+        "en": "Queen Sirikit National Convention Centre business area",
+        "zh": "Queen Sirikit National Convention Centre business area",
+        "th": "ย่านธุรกิจศูนย์ประชุมแห่งชาติสิริกิติ์"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+    }
+  ]
 }

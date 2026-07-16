@@ -7,9 +7,9 @@
     "th": "ประเวศ"
   },
   "summary": {
-    "en": "Prawet is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
-    "zh": "巴威（Prawet）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
-    "th": "ประเวศ เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+    "en": "Prawet is one of the 50 districts of Bangkok, Thailand. It is in the southeast. Neighboring districts are Bang Phli, Bang Na, Phra Khanong, Suan Luang, Bang Kapi, Saphan Sung and Lat Krabang (Bangkok). The district is best known for Paradise Park, Paradise Place, Seacon Square shopping malls; Srinagarindra Train Night Market; as well as Suan Luang Rama IX public park.",
+    "zh": "巴威（Prawet）为曼谷大都会管理局下辖的行政区（เขต）。概述依据英文维基百科该区条目公开摘要。",
+    "th": "ประเวศ เป็นเขตการปกครองของกรุงเทพมหานคร สรุปภาพรวมอ้างอิงจากบทคัดย่อสาธารณะของวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้"
   },
   "seo": {
     "title": {
@@ -56,7 +56,16 @@
   "transportation": [],
   "schools": [],
   "hospitals": [],
-  "shopping": [],
+  "shopping": [
+    {
+      "name": {
+        "en": "Paradise Park",
+        "zh": "Paradise Park",
+        "th": "พาราไดซ์ พาร์ค"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Paradise_Park_(Bangkok)"
+    }
+  ],
   "investment_summary": {
     "en": "Prawet is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "巴威为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
@@ -120,13 +129,13 @@
     },
     "shopping": {
       "field": "shopping",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "wikipedia_or_official_institution",
         "url": "https://en.wikipedia.org/wiki/Prawet_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "parks": {
@@ -139,11 +148,68 @@
       "verified_at": "2026-07-16",
       "present": true,
       "absence_verified": false
+    },
+    "overview": {
+      "field": "overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_bma",
+        "url": "https://en.wikipedia.org/wiki/Prawet_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "map": {
+      "field": "map",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "package_centroid_coordinates",
+        "url": "https://www.google.com/maps?q=13.717,100.694"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "lifestyle": {
+      "field": "lifestyle",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Prawet_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "office_areas": {
+      "field": "office_areas",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Prawet_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
     }
   },
   "district_master": {
-    "phase": "10-sprint-4",
+    "phase": "10-sprint-5",
     "verified_at": "2026-07-16",
-    "rule": "named_pois_only_plus_verified_transit_absence"
+    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+  },
+  "overview_source": {
+    "type": "wikipedia_rest_summary",
+    "url": "https://en.wikipedia.org/wiki/Prawet_district",
+    "verified_at": "2026-07-16"
+  },
+  "google_maps_url": "https://www.google.com/maps?q=13.717,100.694",
+  "map": {
+    "latitude": 13.717,
+    "longitude": 100.694,
+    "google_maps_url": "https://www.google.com/maps?q=13.717,100.694",
+    "source": "district_package_centroid",
+    "verified_at": "2026-07-16"
   }
 }

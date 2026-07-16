@@ -7,9 +7,9 @@
     "th": "หลักสี่"
   },
   "summary": {
-    "en": "Lak Si is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
-    "zh": "叻四（Lak Si）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
-    "th": "หลักสี่ เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+    "en": "Lak Si is one of the 50 districts (khet) of Bangkok, Thailand. It is bounded by : Don Mueang, Bang Khen and Chatuchak of Bangkok; Mueang Nonthaburi district and Pak Kret district of Nonthaburi province.",
+    "zh": "叻四（Lak Si）为曼谷大都会管理局下辖的行政区（เขต）。概述依据英文维基百科该区条目公开摘要。",
+    "th": "หลักสี่ เป็นเขตการปกครองของกรุงเทพมหานคร สรุปภาพรวมอ้างอิงจากบทคัดย่อสาธารณะของวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้"
   },
   "seo": {
     "title": {
@@ -148,11 +148,68 @@
       "verified_at": "2026-07-16",
       "present": false,
       "absence_verified": false
+    },
+    "overview": {
+      "field": "overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_bma",
+        "url": "https://en.wikipedia.org/wiki/Lak_Si_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "map": {
+      "field": "map",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "package_centroid_coordinates",
+        "url": "https://www.google.com/maps?q=13.887,100.579"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "lifestyle": {
+      "field": "lifestyle",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Lak_Si_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "office_areas": {
+      "field": "office_areas",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Lak_Si_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
     }
   },
   "district_master": {
-    "phase": "10-sprint-4",
+    "phase": "10-sprint-5",
     "verified_at": "2026-07-16",
-    "rule": "named_pois_only_plus_verified_transit_absence"
+    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+  },
+  "overview_source": {
+    "type": "wikipedia_rest_summary",
+    "url": "https://en.wikipedia.org/wiki/Lak_Si_district",
+    "verified_at": "2026-07-16"
+  },
+  "google_maps_url": "https://www.google.com/maps?q=13.887,100.579",
+  "map": {
+    "latitude": 13.887,
+    "longitude": 100.579,
+    "google_maps_url": "https://www.google.com/maps?q=13.887,100.579",
+    "source": "district_package_centroid",
+    "verified_at": "2026-07-16"
   }
 }

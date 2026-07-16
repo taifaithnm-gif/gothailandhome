@@ -44,3 +44,14 @@ Documentation only. No harvest, schema, UI, CRM, or deploy.
 | Districts (S1 arrays) | 3.7% | **39%** (Sprint 4) |
 | Districts (S4 + rail absence) | — | **59.3%** |
 
+| Media library (catalog completeness) | — | **46.8%** (Sprint 4 media) |
+| Districts (S5 ten-field KB) | 59.3% (S4) | **65.2%** |
+
+### Sprint 5 + Media (2026-07-16)
+
+| Family | Latest |
+|--------|-------:|
+| Developers | **93.5%** |
+| Projects (6-field) | **~40.5%** (media-blocked) |
+| Districts (S5 ten-field) | **65.2%** |
+| Media library catalog | **46.8%** |

@@ -7,9 +7,9 @@
     "th": "ป้อมปราบศัตรูพ่าย"
   },
   "summary": {
-    "en": "Pom Prap Sattru Phai is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
-    "zh": "庞巴萨楚派（Pom Prap Sattru Phai）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
-    "th": "ป้อมปราบศัตรูพ่าย เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+    "en": "Pom Prap Sattru Phai is one of the 50 districts (khet) of Bangkok, Thailand. Neighbouring districts are Dusit, Pathum Wan, Bang Rak, Samphanthawong, and Phra Nakhon. With more than 24,000 inhabitants per square kilometre it is the district with the highest population density in Thailand.",
+    "zh": "庞巴萨楚派（Pom Prap Sattru Phai）为曼谷大都会管理局下辖的行政区（เขต）。概述依据英文维基百科该区条目公开摘要。",
+    "th": "ป้อมปราบศัตรูพ่าย เป็นเขตการปกครองของกรุงเทพมหานคร สรุปภาพรวมอ้างอิงจากบทคัดย่อสาธารณะของวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้"
   },
   "seo": {
     "title": {
@@ -149,11 +149,68 @@
       "verified_at": "2026-07-16",
       "present": false,
       "absence_verified": false
+    },
+    "overview": {
+      "field": "overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_bma",
+        "url": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "map": {
+      "field": "map",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "package_centroid_coordinates",
+        "url": "https://www.google.com/maps?q=13.751,100.512"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "lifestyle": {
+      "field": "lifestyle",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "office_areas": {
+      "field": "office_areas",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
     }
   },
   "district_master": {
-    "phase": "10-sprint-4",
+    "phase": "10-sprint-5",
     "verified_at": "2026-07-16",
-    "rule": "named_pois_only_plus_verified_transit_absence"
+    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+  },
+  "overview_source": {
+    "type": "wikipedia_rest_summary",
+    "url": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district",
+    "verified_at": "2026-07-16"
+  },
+  "google_maps_url": "https://www.google.com/maps?q=13.751,100.512",
+  "map": {
+    "latitude": 13.751,
+    "longitude": 100.512,
+    "google_maps_url": "https://www.google.com/maps?q=13.751,100.512",
+    "source": "district_package_centroid",
+    "verified_at": "2026-07-16"
   }
 }

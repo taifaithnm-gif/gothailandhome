@@ -7,9 +7,9 @@
     "th": "ยานนาวา"
   },
   "summary": {
-    "en": "Yan Nawa is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
-    "zh": "央那瓦（Yan Nawa）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
-    "th": "ยานนาวา เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+    "en": "Yan Nawa or Yannawa is one of the 50 districts (khet) of Bangkok, Thailand. The district is bounded by Rat Burana, Bang Kho Laem, Sathon, and Khlong Toei Districts of Bangkok. Its neighbor from east to south is Phra Pradaeng district of Samut Prakan province.",
+    "zh": "央那瓦（Yan Nawa）为曼谷大都会管理局下辖的行政区（เขต）。概述依据英文维基百科该区条目公开摘要。",
+    "th": "ยานนาวา เป็นเขตการปกครองของกรุงเทพมหานคร สรุปภาพรวมอ้างอิงจากบทคัดย่อสาธารณะของวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้"
   },
   "seo": {
     "title": {
@@ -81,9 +81,26 @@
         "th": "โรงเรียนนนทรีวิทยา"
       },
       "source_url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+    },
+    {
+      "name": {
+        "en": "Saint Louis College (Bangkok)",
+        "zh": "Saint Louis College (Bangkok)",
+        "th": "วิทยาลัยเซนต์หลุยส์"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Saint_Louis_College,_Thailand"
     }
   ],
-  "hospitals": [],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Saint Louis Hospital",
+        "zh": "Saint Louis Hospital",
+        "th": "โรงพยาบาลเซนต์หลุยส์"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Saint_Louis_Hospital_(Bangkok)"
+    }
+  ],
   "shopping": [
     {
       "name": {
@@ -100,6 +117,14 @@
         "th": "โลตัส พระราม 3"
       },
       "source_url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+    },
+    {
+      "name": {
+        "en": "Central Rama III",
+        "zh": "Central Rama III",
+        "th": "เซ็นทรัล พระราม 3"
+      },
+      "source_url": "https://www.central.co.th/"
     }
   ],
   "investment_summary": {
@@ -148,13 +173,13 @@
     },
     "hospitals": {
       "field": "hospitals",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "wikipedia_or_official_institution",
         "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "shopping": {
@@ -178,11 +203,85 @@
       "verified_at": "2026-07-16",
       "present": false,
       "absence_verified": false
+    },
+    "overview": {
+      "field": "overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_bma",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "map": {
+      "field": "map",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "package_centroid_coordinates",
+        "url": "https://www.google.com/maps?q=13.691,100.542"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "lifestyle": {
+      "field": "lifestyle",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "office_areas": {
+      "field": "office_areas",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
     }
   },
   "district_master": {
-    "phase": "10-sprint-4",
+    "phase": "10-sprint-5",
     "verified_at": "2026-07-16",
-    "rule": "named_pois_only_plus_verified_transit_absence"
-  }
+    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+  },
+  "overview_source": {
+    "type": "wikipedia_rest_summary",
+    "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district",
+    "verified_at": "2026-07-16"
+  },
+  "google_maps_url": "https://www.google.com/maps?q=13.691,100.542",
+  "map": {
+    "latitude": 13.691,
+    "longitude": 100.542,
+    "google_maps_url": "https://www.google.com/maps?q=13.691,100.542",
+    "source": "district_package_centroid",
+    "verified_at": "2026-07-16"
+  },
+  "lifestyle": {
+    "en": "Rama III riverside business and residential mix, per Wikipedia Yan Nawa district.",
+    "zh": "拉玛三世路河畔商务与居住混合区（维基百科）。",
+    "th": "ย่านธุรกิจและที่อยู่อาศัยริมน้ำพระราม 3 ตามวิกิพีเดียเขตยานนาวา",
+    "source_url": "https://en.wikipedia.org/wiki/Yan_Nawa_district",
+    "verified_at": "2026-07-16"
+  },
+  "office_areas": [
+    {
+      "name": {
+        "en": "Rama III riverside office towers",
+        "zh": "Rama III riverside office towers",
+        "th": "อาคารสำนักงานริมน้ำพระราม 3"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+    }
+  ]
 }

@@ -7,9 +7,9 @@
     "th": "วัฒนา"
   },
   "summary": {
-    "en": "Watthana is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
-    "zh": "瓦他那（Watthana）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
-    "th": "วัฒนา เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+    "en": "Watthana or Vadhana is one of the 50 districts (khet) of Bangkok, Thailand. Neighbouring districts are : Ratchathewi, Huai Khwang, Suan Luang, Phra Khanong, Khlong Toei, and Pathum Wan.",
+    "zh": "瓦他那（Watthana）为曼谷大都会管理局下辖的行政区（เขต）。概述依据英文维基百科该区条目公开摘要。",
+    "th": "วัฒนา เป็นเขตการปกครองของกรุงเทพมหานคร สรุปภาพรวมอ้างอิงจากบทคัดย่อสาธารณะของวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้"
   },
   "seo": {
     "title": {
@@ -263,11 +263,85 @@
       "verified_at": "2026-07-16",
       "present": true,
       "absence_verified": false
+    },
+    "overview": {
+      "field": "overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_bma",
+        "url": "https://en.wikipedia.org/wiki/Watthana_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "map": {
+      "field": "map",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "package_centroid_coordinates",
+        "url": "https://www.google.com/maps?q=13.736,100.585"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "lifestyle": {
+      "field": "lifestyle",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Watthana_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "office_areas": {
+      "field": "office_areas",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Watthana_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
     }
   },
   "district_master": {
-    "phase": "10-sprint-4",
+    "phase": "10-sprint-5",
     "verified_at": "2026-07-16",
-    "rule": "named_pois_only_plus_verified_transit_absence"
-  }
+    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+  },
+  "overview_source": {
+    "type": "wikipedia_rest_summary",
+    "url": "https://en.wikipedia.org/wiki/Watthana_district",
+    "verified_at": "2026-07-16"
+  },
+  "google_maps_url": "https://www.google.com/maps?q=13.736,100.585",
+  "map": {
+    "latitude": 13.736,
+    "longitude": 100.585,
+    "google_maps_url": "https://www.google.com/maps?q=13.736,100.585",
+    "source": "district_package_centroid",
+    "verified_at": "2026-07-16"
+  },
+  "lifestyle": {
+    "en": "Sukhumvit lifestyle corridor (Thong Lo–Ekkamai–Phrom Phong) with international dining and retail, as described on Wikipedia Watthana district.",
+    "zh": "素坤逸生活方式走廊（通罗–Ekkamai–Phrom Phong），以国际餐饮与零售为特征（维基百科瓦他那区）。",
+    "th": "แนวไลฟ์สไตล์สุขุมวิท (ทองหล่อ–เอกมัย–พร้อมพงษ์) ตามที่ระบุในวิกิพีเดียเขตวัฒนา",
+    "source_url": "https://en.wikipedia.org/wiki/Watthana_district",
+    "verified_at": "2026-07-16"
+  },
+  "office_areas": [
+    {
+      "name": {
+        "en": "Asoke–Sukhumvit office and mixed-use towers",
+        "zh": "Asoke–Sukhumvit office and mixed-use towers",
+        "th": "อาคารสำนักงานและมิกซ์ยูส อโศก–สุขุมวิท"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Watthana_district"
+    }
+  ]
 }

@@ -1,0 +1,486 @@
+{
+  "verified_at": "2026-07-16",
+  "policy": "Verified public information only. Named POIs with specific institution names. No vague district-notes placeholders. No estimated statistics.",
+  "amenity_gaps": {
+    "schools": {
+      "bang-rak": [
+        {
+          "en": "Assumption College (Bangkok)",
+          "th": "โรงเรียนอัสสัมชัญ",
+          "url": "https://en.wikipedia.org/wiki/Assumption_College_(Thailand)"
+        }
+      ],
+      "sathon": [
+        {
+          "en": "Saint Joseph Convent School",
+          "th": "โรงเรียนเซนต์โยเซฟคอนเวนต์",
+          "url": "https://en.wikipedia.org/wiki/Saint_Joseph_Convent_School"
+        }
+      ],
+      "yan-nawa": [
+        {
+          "en": "Saint Louis College (Bangkok)",
+          "th": "วิทยาลัยเซนต์หลุยส์",
+          "url": "https://en.wikipedia.org/wiki/Saint_Louis_College,_Thailand"
+        }
+      ],
+      "lat-krabang": [
+        {
+          "en": "King Mongkut's Institute of Technology Ladkrabang",
+          "th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+          "url": "https://www.kmitl.ac.th/"
+        }
+      ],
+      "lak-si": [
+        {
+          "en": "Sripatum University",
+          "th": "มหาวิทยาลัยศรีปทุม",
+          "url": "https://www.spu.ac.th/"
+        }
+      ]
+    },
+    "hospitals": {
+      "pathum-wan": [
+        {
+          "en": "King Chulalongkorn Memorial Hospital",
+          "th": "โรงพยาบาลจุฬาลงกรณ์",
+          "url": "https://chulalongkornhospital.go.th/"
+        }
+      ],
+      "bang-rak": [
+        {
+          "en": "Bangkok Christian Hospital",
+          "th": "โรงพยาบาลกรุงเทพคริสเตียน",
+          "url": "https://en.wikipedia.org/wiki/Bangkok_Christian_Hospital"
+        }
+      ],
+      "phaya-thai": [
+        {
+          "en": "Phramongkutklao Hospital",
+          "th": "โรงพยาบาลพระมงกุฎเกล้า",
+          "url": "https://en.wikipedia.org/wiki/Phramongkutklao_Hospital"
+        }
+      ],
+      "ratchathewi": [
+        {
+          "en": "Rajavithi Hospital",
+          "th": "โรงพยาบาลราชวิถี",
+          "url": "https://www.rajavithi.go.th/"
+        },
+        {
+          "en": "Ramathibodi Hospital",
+          "th": "โรงพยาบาลรามาธิบดี",
+          "url": "https://med.mahidol.ac.th/"
+        }
+      ],
+      "yan-nawa": [
+        {
+          "en": "Saint Louis Hospital",
+          "th": "โรงพยาบาลเซนต์หลุยส์",
+          "url": "https://en.wikipedia.org/wiki/Saint_Louis_Hospital_(Bangkok)"
+        }
+      ],
+      "thon-buri": [
+        {
+          "en": "Thonburi Hospital",
+          "th": "โรงพยาบาลธนบุรี",
+          "url": "https://en.wikipedia.org/wiki/Thonburi_Hospital"
+        }
+      ],
+      "min-buri": [
+        {
+          "en": "Min Buri Hospital",
+          "th": "โรงพยาบาลมีนบุรี",
+          "url": "https://en.wikipedia.org/wiki/Min_Buri_district"
+        }
+      ],
+      "dusit": [
+        {
+          "en": "Vajira Hospital",
+          "th": "โรงพยาบาลวชิรพยาบาล",
+          "url": "https://en.wikipedia.org/wiki/Vajira_Hospital"
+        }
+      ],
+      "bang-kapi": [
+        {
+          "en": "Ramkhamhaeng Hospital",
+          "th": "โรงพยาบาลรามคำแหง",
+          "url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        }
+      ]
+    },
+    "shopping": {
+      "bang-kho-laem": [
+        {
+          "en": "Asiatique The Riverfront",
+          "th": "เอเชียทีค เดอะ ริเวอร์ฟร้อนท์",
+          "url": "https://en.wikipedia.org/wiki/Asiatique"
+        }
+      ],
+      "yan-nawa": [
+        {
+          "en": "Central Rama III",
+          "th": "เซ็นทรัล พระราม 3",
+          "url": "https://www.central.co.th/"
+        }
+      ],
+      "suan-luang": [
+        {
+          "en": "Seacon Square",
+          "th": "ซีคอนสแควร์",
+          "url": "https://en.wikipedia.org/wiki/Seacon_Square"
+        }
+      ],
+      "prawet": [
+        {
+          "en": "Paradise Park",
+          "th": "พาราไดซ์ พาร์ค",
+          "url": "https://en.wikipedia.org/wiki/Paradise_Park_(Bangkok)"
+        }
+      ],
+      "phra-nakhon": [
+        {
+          "en": "Khao San Road",
+          "th": "ถนนข้าวสาร",
+          "url": "https://en.wikipedia.org/wiki/Khaosan_Road"
+        }
+      ],
+      "khlong-san": [
+        {
+          "en": "Iconsiam",
+          "th": "ไอคอนสยาม",
+          "url": "https://en.wikipedia.org/wiki/Iconsiam"
+        }
+      ],
+      "bang-na": [
+        {
+          "en": "Central Bangna",
+          "th": "เซ็นทรัล บางนา",
+          "url": "https://en.wikipedia.org/wiki/Central_Bangna"
+        }
+      ]
+    },
+    "parks": {
+      "pathum-wan": [
+        {
+          "en": "Lumphini Park",
+          "th": "สวนลุมพินี",
+          "url": "https://en.wikipedia.org/wiki/Lumphini_Park"
+        }
+      ],
+      "bang-rak": [
+        {
+          "en": "Lumphini Park",
+          "th": "สวนลุมพินี",
+          "url": "https://en.wikipedia.org/wiki/Lumphini_Park"
+        }
+      ],
+      "sathon": [
+        {
+          "en": "Lumphini Park (Sathon edge)",
+          "th": "สวนลุมพินี",
+          "url": "https://en.wikipedia.org/wiki/Lumphini_Park"
+        }
+      ],
+      "chatuchak": [
+        {
+          "en": "Chatuchak Park",
+          "th": "สวนจตุจักร",
+          "url": "https://en.wikipedia.org/wiki/Chatuchak_Park"
+        },
+        {
+          "en": "Queen Sirikit Park",
+          "th": "สวนสมเด็จพระนางเจ้าสิริกิติ์",
+          "url": "https://en.wikipedia.org/wiki/Queen_Sirikit_Park"
+        }
+      ],
+      "khan-na-yao": [
+        {
+          "en": "Suan Luang Rama IX",
+          "th": "สวนหลวง ร.9",
+          "url": "https://en.wikipedia.org/wiki/Suan_Luang_Rama_IX"
+        }
+      ],
+      "suan-luang": [
+        {
+          "en": "Suan Luang Rama IX",
+          "th": "สวนหลวง ร.9",
+          "url": "https://en.wikipedia.org/wiki/Suan_Luang_Rama_IX"
+        }
+      ],
+      "phra-nakhon": [
+        {
+          "en": "Sanam Luang",
+          "th": "สนามหลวง",
+          "url": "https://en.wikipedia.org/wiki/Sanam_Luang"
+        }
+      ],
+      "bang-khen": [
+        {
+          "en": "Wachirabenchathat Park (Rot Fai Park)",
+          "th": "สวนวชิรเบญจทัศ",
+          "url": "https://en.wikipedia.org/wiki/Wachirabenchathat_Park"
+        }
+      ]
+    }
+  },
+  "lifestyle": {
+    "watthana": {
+      "en": "Sukhumvit lifestyle corridor (Thong Lo–Ekkamai–Phrom Phong) with international dining and retail, as described on Wikipedia Watthana district.",
+      "zh": "素坤逸生活方式走廊（通罗–Ekkamai–Phrom Phong），以国际餐饮与零售为特征（维基百科瓦他那区）。",
+      "th": "แนวไลฟ์สไตล์สุขุมวิท (ทองหล่อ–เอกมัย–พร้อมพงษ์) ตามที่ระบุในวิกิพีเดียเขตวัฒนา",
+      "source_url": "https://en.wikipedia.org/wiki/Watthana_district"
+    },
+    "pathum-wan": {
+      "en": "Central shopping and university district around Siam–Ratchaprasong, per Wikipedia Pathum Wan district.",
+      "zh": "暹罗–拉差帕颂一带的中央购物与大学区（维基百科巴吞旺区）。",
+      "th": "ย่านช้อปปิ้งและมหาวิทยาลัยใจกลางเมืองบริเวณสยาม–ราชประสงค์ ตามวิกิพีเดียเขตปทุมวัน",
+      "source_url": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+    },
+    "sathon": {
+      "en": "CBD financial and office lifestyle along Sathon Road, per Wikipedia Sathon district.",
+      "zh": "沙吞路沿线中央商务区金融与办公生活方式（维基百科沙吞区）。",
+      "th": "ไลฟ์สไตล์ย่านธุรกิจและออฟฟิศตามถนนสาทร ตามวิกิพีเดียเขตสาทร",
+      "source_url": "https://en.wikipedia.org/wiki/Sathon_district"
+    },
+    "bang-rak": {
+      "en": "Silom–Surawong commercial and nightlife corridor, per Wikipedia Bang Rak district.",
+      "zh": "是隆–素拉旺商业与夜生活走廊（维基百科挽叻区）。",
+      "th": "แนวพาณิชย์และไนท์ไลฟ์สีลม–สุรวงศ์ ตามวิกิพีเดียเขตบางรัก",
+      "source_url": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+    },
+    "khlong-toei": {
+      "en": "Port, market, and riverside mixed-use district including Khlong Toei Market, per Wikipedia.",
+      "zh": "港口、市场与河畔混合用途区，含空堤市场（维基百科）。",
+      "th": "ย่านท่าเรือ ตลาด และริมน้ำ รวมตลาดคลองเตย ตามวิกิพีเดีย",
+      "source_url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+    },
+    "chatuchak": {
+      "en": "Home to Chatuchak Weekend Market and major parks, per Wikipedia Chatuchak district.",
+      "zh": "周末市场与主要公园所在地（维基百科乍都节区）。",
+      "th": "ที่ตั้งตลาดนัดจตุจักรและสวนสาธารณะสำคัญ ตามวิกิพีเดียเขตจตุจักร",
+      "source_url": "https://en.wikipedia.org/wiki/Chatuchak_district"
+    },
+    "phra-nakhon": {
+      "en": "Historic Rattanakosin Island with temples, museums, and Khao San backpacker area, per Wikipedia.",
+      "zh": "历史拉达纳哥信岛，含寺庙、博物馆与考山路背包客区（维基百科）。",
+      "th": "เกาะรัตนโกสินทร์ ประวัติศาสตร์ วัด พิพิธภัณฑ์ และข้าวสาร ตามวิกิพีเดีย",
+      "source_url": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+    },
+    "dusit": {
+      "en": "Royal and government precinct including Dusit Palace area, per Wikipedia Dusit district.",
+      "zh": "王室与政府区域，含杜斯特宫一带（维基百科杜斯特区）。",
+      "th": "ย่านพระราชวังและหน่วยงานราชการ รวมพื้นที่พระราชวังดุสิต ตามวิกิพีเดีย",
+      "source_url": "https://en.wikipedia.org/wiki/Dusit_district"
+    },
+    "samphanthawong": {
+      "en": "Bangkok Chinatown (Yaowarat) commercial lifestyle, per Wikipedia Samphanthawong district.",
+      "zh": "曼谷唐人街（耀华力）商业生活方式（维基百科三攀他旺区）。",
+      "th": "ไลฟ์สไตล์ไชน่าทาวน์เยาวราช ตามวิกิพีเดียเขตสัมพันธวงศ์",
+      "source_url": "https://en.wikipedia.org/wiki/Samphanthawong_district"
+    },
+    "huai-khwang": {
+      "en": "Ratchada entertainment and MRT-oriented residential/commercial mix, per Wikipedia Huai Khwang district.",
+      "zh": "拉差达娱乐与地铁导向的居住商业混合区（维基百科汇权区）。",
+      "th": "ย่านบันเทิงรัชดาและที่อยู่อาศัยเชิงพาณิชย์แนวรถไฟฟ้า ตามวิกิพีเดียเขตห้วยขวาง",
+      "source_url": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+    },
+    "phaya-thai": {
+      "en": "Ari café and residential lifestyle corridor, per Wikipedia Phaya Thai district.",
+      "zh": "阿里咖啡与居住生活方式走廊（维基百科帕亚泰区）。",
+      "th": "แนวคาเฟ่และที่อยู่อาศัยอารีย์ ตามวิกิพีเดียเขตพญาไท",
+      "source_url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+    },
+    "ratchathewi": {
+      "en": "Phetchaburi–Pratunam commercial and transit hub lifestyle, per Wikipedia Ratchathewi district.",
+      "zh": "碧武里–巴吞旺商业与交通枢纽生活方式（维基百科拉差贴威区）。",
+      "th": "ไลฟ์สไตล์พาณิชย์และศูนย์กลางคมนาคมเพชรบุรี–ประตูน้ำ ตามวิกิพีเดียเขตราชเทวี",
+      "source_url": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+    },
+    "bang-na": {
+      "en": "Eastern Bangkok residential–retail growth along Bang Na–Trat corridor, per Wikipedia Bang Na district.",
+      "zh": "东部曼谷沿邦纳–达叻走廊的居住零售增长区（维基百科）。",
+      "th": "ย่านที่อยู่อาศัยและค้าปลีกฝั่งตะวันออกตามแนวบางนา–ตราด ตามวิกิพีเดีย",
+      "source_url": "https://en.wikipedia.org/wiki/Bang_Na_district"
+    },
+    "lat-phrao": {
+      "en": "Lat Phrao Road residential and local retail lifestyle, per Wikipedia Lat Phrao district.",
+      "zh": "拉差帕路居住与本地零售生活方式（维基百科）。",
+      "th": "ไลฟ์สไตล์ที่อยู่อาศัยและค้าปลีกท้องถิ่นถนนลาดพร้าว ตามวิกิพีเดีย",
+      "source_url": "https://en.wikipedia.org/wiki/Lat_Phrao_district"
+    },
+    "bang-kapi": {
+      "en": "Ramkhamhaeng education and retail lifestyle hub, per Wikipedia Bang Kapi district.",
+      "zh": "南甘杏教育与零售生活方式枢纽（维基百科挽甲必区）。",
+      "th": "ศูนย์กลางการศึกษาและค้าปลีกรามคำแหง ตามวิกิพีเดียเขตบางกะปิ",
+      "source_url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+    },
+    "yan-nawa": {
+      "en": "Rama III riverside business and residential mix, per Wikipedia Yan Nawa district.",
+      "zh": "拉玛三世路河畔商务与居住混合区（维基百科）。",
+      "th": "ย่านธุรกิจและที่อยู่อาศัยริมน้ำพระราม 3 ตามวิกิพีเดียเขตยานนาวา",
+      "source_url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+    },
+    "khlong-san": {
+      "en": "Thonburi riverside lifestyle including Iconsiam access, per Wikipedia Khlong San district.",
+      "zh": "吞武里河畔生活方式，含 Iconsiam 可达性（维基百科）。",
+      "th": "ไลฟ์สไตล์ริมน้ำฝั่งธน รวมการเข้าถึงไอคอนสยาม ตามวิกิพีเดียเขตคลองสาน",
+      "source_url": "https://en.wikipedia.org/wiki/Khlong_San_district"
+    },
+    "don-mueang": {
+      "en": "Airport-adjacent northern Bangkok district lifestyle, per Wikipedia Don Mueang district.",
+      "zh": "邻近机场的曼谷北部区生活方式（维基百科）。",
+      "th": "ไลฟ์สไตล์ย่านใกล้สนามบินฝั่งเหนือ ตามวิกิพีเดียเขตดอนเมือง",
+      "source_url": "https://en.wikipedia.org/wiki/Don_Mueang_district"
+    },
+    "bangkok-noi": {
+      "en": "Siriraj medical campus and Thonburi riverside community lifestyle, per Wikipedia Bangkok Noi district.",
+      "zh": "诗里拉吉医学园区与吞武里河畔社区生活方式（维基百科）。",
+      "th": "ไลฟ์สไตล์ชุมชนริมน้ำและวิทยาเขตศิริราช ตามวิกิพีเดียเขตบางกอกน้อย",
+      "source_url": "https://en.wikipedia.org/wiki/Bangkok_Noi_district"
+    },
+    "taling-chan": {
+      "en": "Known for floating market and canal-side community tourism, per Wikipedia Taling Chan district.",
+      "zh": "以水上市场与运河社区旅游闻名（维基百科）。",
+      "th": "มีชื่อด้านตลาดน้ำและการท่องเที่ยวชุมชนริมคลอง ตามวิกิพีเดียเขตตลิ่งชัน",
+      "source_url": "https://en.wikipedia.org/wiki/Taling_Chan_district"
+    },
+    "bang-sue": {
+      "en": "Major rail hub around Bang Sue Grand Station with transit-oriented redevelopment, per Wikipedia Bang Sue district.",
+      "zh": "围绕邦苏大站的铁路枢纽与公交导向再开发（维基百科）。",
+      "th": "ศูนย์กลางรถไฟสถานีกลางบางซื่อและการพัฒนาแนว TOD ตามวิกิพีเดีย",
+      "source_url": "https://en.wikipedia.org/wiki/Bang_Sue_district"
+    },
+    "suan-luang": {
+      "en": "Eastern residential district anchored by Seacon Square and Rama IX park access, per Wikipedia Suan Luang district.",
+      "zh": "以 Seacon Square 与拉玛九世公园可达性为锚的东部居住区（维基百科）。",
+      "th": "ย่านที่อยู่อาศัยฝั่งตะวันออกใกล้ซีคอนสแควร์และสวนหลวง ร.9 ตามวิกิพีเดีย",
+      "source_url": "https://en.wikipedia.org/wiki/Suan_Luang_district"
+    },
+    "bang-kho-laem": {
+      "en": "Chao Phraya riverside lifestyle including Asiatique, per Wikipedia Bang Kho Laem district.",
+      "zh": "湄南河畔生活方式，含 Asiatique（维基百科）。",
+      "th": "ไลฟ์สไตล์ริมเจ้าพระยา รวมเอเชียทีค ตามวิกิพีเดียเขตบางคอแหลม",
+      "source_url": "https://en.wikipedia.org/wiki/Bang_Kho_Laem_district"
+    },
+    "phra-khanong": {
+      "en": "Sukhumvit eastern residential corridor with BTS access, per Wikipedia Phra Khanong district.",
+      "zh": "素坤逸东部居住走廊，有 BTS 通达（维基百科）。",
+      "th": "แนวที่อยู่อาศัยสุขุมวิทฝั่งตะวันออกเข้าถึงบีทีเอส ตามวิกิพีเดีย",
+      "source_url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+    },
+    "lat-krabang": {
+      "en": "Airport-link and KMITL education lifestyle on Bangkok’s eastern fringe, per Wikipedia Lat Krabang district.",
+      "zh": "曼谷东缘机场快线与 KMITL 教育生活方式（维基百科）。",
+      "th": "ไลฟ์สไตล์การศึกษาลาดกระบังและสนามบิน ตามวิกิพีเดีย",
+      "source_url": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
+    }
+  },
+  "office_areas": {
+    "sathon": [
+      {
+        "en": "Sathon Road CBD office corridor",
+        "th": "แนวออฟฟิศถนนสาทร",
+        "url": "https://en.wikipedia.org/wiki/Sathon_district"
+      }
+    ],
+    "bang-rak": [
+      {
+        "en": "Silom Road office and financial corridor",
+        "th": "แนวออฟฟิศและการเงินถนนสีลม",
+        "url": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+      }
+    ],
+    "pathum-wan": [
+      {
+        "en": "Ratchaprasong–Wireless Road commercial office cluster",
+        "th": "คลัสเตอร์ออฟฟิศราชประสงค์–วิทยุ",
+        "url": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+      }
+    ],
+    "watthana": [
+      {
+        "en": "Asoke–Sukhumvit office and mixed-use towers",
+        "th": "อาคารสำนักงานและมิกซ์ยูส อโศก–สุขุมวิท",
+        "url": "https://en.wikipedia.org/wiki/Watthana_district"
+      }
+    ],
+    "khlong-toei": [
+      {
+        "en": "Queen Sirikit National Convention Centre business area",
+        "th": "ย่านธุรกิจศูนย์ประชุมแห่งชาติสิริกิติ์",
+        "url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+      }
+    ],
+    "huai-khwang": [
+      {
+        "en": "Ratchadaphisek / Rama 9 office corridor",
+        "th": "แนวออฟฟิศรัชดาภิเษก / พระราม 9",
+        "url": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+      }
+    ],
+    "yan-nawa": [
+      {
+        "en": "Rama III riverside office towers",
+        "th": "อาคารสำนักงานริมน้ำพระราม 3",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      }
+    ],
+    "phaya-thai": [
+      {
+        "en": "Phahonyothin / Ari office and mixed-use notes",
+        "th": "ออฟฟิศและมิกซ์ยูส พหลโยธิน / อารีย์",
+        "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+      }
+    ],
+    "ratchathewi": [
+      {
+        "en": "Phetchaburi Road commercial office notes",
+        "th": "ออฟฟิศเชิงพาณิชย์ถนนเพชรบุรี",
+        "url": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+      }
+    ],
+    "bang-na": [
+      {
+        "en": "Bang Na–Trat commercial office / showroom corridor",
+        "th": "แนวออฟฟิศและโชว์รูมบางนา–ตราด",
+        "url": "https://en.wikipedia.org/wiki/Bang_Na_district"
+      }
+    ],
+    "chatuchak": [
+      {
+        "en": "Lat Phrao / Phahonyothin commercial office notes",
+        "th": "ออฟฟิศเชิงพาณิชย์ลาดพร้าว / พหลโยธิน",
+        "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
+      }
+    ],
+    "din-daeng": [
+      {
+        "en": "Ratchadaphisek / Din Daeng office notes",
+        "th": "ออฟฟิศรัชดาภิเษก / ดินแดง",
+        "url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+      }
+    ],
+    "bang-sue": [
+      {
+        "en": "Bang Sue Grand Station transit-oriented commercial notes",
+        "th": "เชิงพาณิชย์รอบสถานีกลางบางซื่อ",
+        "url": "https://en.wikipedia.org/wiki/Bang_Sue_district"
+      }
+    ],
+    "khlong-san": [
+      {
+        "en": "Charoen Nakhon riverside office / mixed-use notes",
+        "th": "ออฟฟิศและมิกซ์ยูสริมน้ำเจริญนคร",
+        "url": "https://en.wikipedia.org/wiki/Khlong_San_district"
+      }
+    ],
+    "phra-nakhon": [
+      {
+        "en": "Rattanakosin government and institutional precinct",
+        "th": "ย่านราชการและสถาบันเกาะรัตนโกสินทร์",
+        "url": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+      }
+    ]
+  }
+}

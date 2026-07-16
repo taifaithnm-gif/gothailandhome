@@ -7,9 +7,9 @@
     "th": "จตุจักร"
   },
   "summary": {
-    "en": "Chatuchak is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
-    "zh": "乍都乍（Chatuchak）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
-    "th": "จตุจักร เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+    "en": "Chatuchak is one of the 50 districts (khet) of Bangkok, Thailand. The district is bounded by seven other districts : Lak Si, Bang Khen, Lat Phrao, Huai Khwang, Din Daeng, Phaya Thai, and Bang Sue.",
+    "zh": "乍都乍（Chatuchak）为曼谷大都会管理局下辖的行政区（เขต）。概述依据英文维基百科该区条目公开摘要。",
+    "th": "จตุจักร เป็นเขตการปกครองของกรุงเทพมหานคร สรุปภาพรวมอ้างอิงจากบทคัดย่อสาธารณะของวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้"
   },
   "seo": {
     "title": {
@@ -155,6 +155,14 @@
         "th": "สวนจตุจักร"
       },
       "source_url": "https://en.wikipedia.org/wiki/Chatuchak_Park"
+    },
+    {
+      "name": {
+        "en": "Queen Sirikit Park",
+        "zh": "Queen Sirikit Park",
+        "th": "สวนสมเด็จพระนางเจ้าสิริกิติ์"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Queen_Sirikit_Park"
     }
   ],
   "field_evidence": {
@@ -223,11 +231,85 @@
       "verified_at": "2026-07-16",
       "present": true,
       "absence_verified": false
+    },
+    "overview": {
+      "field": "overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_bma",
+        "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "map": {
+      "field": "map",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "package_centroid_coordinates",
+        "url": "https://www.google.com/maps?q=13.828,100.56"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "lifestyle": {
+      "field": "lifestyle",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "office_areas": {
+      "field": "office_areas",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
     }
   },
   "district_master": {
-    "phase": "10-sprint-4",
+    "phase": "10-sprint-5",
     "verified_at": "2026-07-16",
-    "rule": "named_pois_only_plus_verified_transit_absence"
-  }
+    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+  },
+  "overview_source": {
+    "type": "wikipedia_rest_summary",
+    "url": "https://en.wikipedia.org/wiki/Chatuchak_district",
+    "verified_at": "2026-07-16"
+  },
+  "google_maps_url": "https://www.google.com/maps?q=13.828,100.56",
+  "map": {
+    "latitude": 13.828,
+    "longitude": 100.56,
+    "google_maps_url": "https://www.google.com/maps?q=13.828,100.56",
+    "source": "district_package_centroid",
+    "verified_at": "2026-07-16"
+  },
+  "lifestyle": {
+    "en": "Home to Chatuchak Weekend Market and major parks, per Wikipedia Chatuchak district.",
+    "zh": "周末市场与主要公园所在地（维基百科乍都节区）。",
+    "th": "ที่ตั้งตลาดนัดจตุจักรและสวนสาธารณะสำคัญ ตามวิกิพีเดียเขตจตุจักร",
+    "source_url": "https://en.wikipedia.org/wiki/Chatuchak_district",
+    "verified_at": "2026-07-16"
+  },
+  "office_areas": [
+    {
+      "name": {
+        "en": "Lat Phrao / Phahonyothin commercial office notes",
+        "zh": "Lat Phrao / Phahonyothin commercial office notes",
+        "th": "ออฟฟิศเชิงพาณิชย์ลาดพร้าว / พหลโยธิน"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Chatuchak_district"
+    }
+  ]
 }

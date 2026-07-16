@@ -7,9 +7,9 @@
     "th": "พญาไท"
   },
   "summary": {
-    "en": "Phaya Thai is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
-    "zh": "帕亚泰（Phaya Thai）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
-    "th": "พญาไท เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+    "en": "Phaya Thai is a district in central Bangkok, Thailand. From the north clockwise, its neighbouring districts are: Bang Sue, Chatuchak, Din Daeng, Ratchathewi, and Dusit. Despite sharing a name, due to boundary changes, Phaya Thai Road and Phaya Thai BTS Station are in the adjoining Ratchathewi District.",
+    "zh": "帕亚泰（Phaya Thai）为曼谷大都会管理局下辖的行政区（เขต）。概述依据英文维基百科该区条目公开摘要。",
+    "th": "พญาไท เป็นเขตการปกครองของกรุงเทพมหานคร สรุปภาพรวมอ้างอิงจากบทคัดย่อสาธารณะของวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้"
   },
   "seo": {
     "title": {
@@ -109,6 +109,14 @@
         "th": "โรงพยาบาลพญาไท 2"
       },
       "source_url": "https://www.phyathai.com/"
+    },
+    {
+      "name": {
+        "en": "Phramongkutklao Hospital",
+        "zh": "Phramongkutklao Hospital",
+        "th": "โรงพยาบาลพระมงกุฎเกล้า"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Phramongkutklao_Hospital"
     }
   ],
   "shopping": [],
@@ -187,11 +195,85 @@
       "verified_at": "2026-07-16",
       "present": false,
       "absence_verified": false
+    },
+    "overview": {
+      "field": "overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_bma",
+        "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "map": {
+      "field": "map",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "package_centroid_coordinates",
+        "url": "https://www.google.com/maps?q=13.78,100.544"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "lifestyle": {
+      "field": "lifestyle",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "office_areas": {
+      "field": "office_areas",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
     }
   },
   "district_master": {
-    "phase": "10-sprint-4",
+    "phase": "10-sprint-5",
     "verified_at": "2026-07-16",
-    "rule": "named_pois_only_plus_verified_transit_absence"
-  }
+    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+  },
+  "overview_source": {
+    "type": "wikipedia_rest_summary",
+    "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district",
+    "verified_at": "2026-07-16"
+  },
+  "google_maps_url": "https://www.google.com/maps?q=13.78,100.544",
+  "map": {
+    "latitude": 13.78,
+    "longitude": 100.544,
+    "google_maps_url": "https://www.google.com/maps?q=13.78,100.544",
+    "source": "district_package_centroid",
+    "verified_at": "2026-07-16"
+  },
+  "lifestyle": {
+    "en": "Ari café and residential lifestyle corridor, per Wikipedia Phaya Thai district.",
+    "zh": "阿里咖啡与居住生活方式走廊（维基百科帕亚泰区）。",
+    "th": "แนวคาเฟ่และที่อยู่อาศัยอารีย์ ตามวิกิพีเดียเขตพญาไท",
+    "source_url": "https://en.wikipedia.org/wiki/Phaya_Thai_district",
+    "verified_at": "2026-07-16"
+  },
+  "office_areas": [
+    {
+      "name": {
+        "en": "Phahonyothin / Ari office and mixed-use notes",
+        "zh": "Phahonyothin / Ari office and mixed-use notes",
+        "th": "ออฟฟิศและมิกซ์ยูส พหลโยธิน / อารีย์"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+    }
+  ]
 }

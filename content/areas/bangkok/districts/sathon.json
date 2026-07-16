@@ -7,9 +7,9 @@
     "th": "สาทร"
   },
   "summary": {
-    "en": "Sathon is one of the 50 districts (khet) of Bangkok under the Bangkok Metropolitan Administration.",
-    "zh": "沙吞（Sathon）为曼谷大都会管理局下辖的50个行政区（เขต）之一。",
-    "th": "สาทร เป็นหนึ่งใน 50 เขตของกรุงเทพมหานครภายใต้การกำกับของกรุงเทพมหานคร"
+    "en": "Sathon or Sathorn, is a district (khet) of Bangkok, Thailand, one of fifty into which the city is divided. Situated along the Chao Phraya River in central Bangkok, Sathorn is home to numerous intergovernmental organizations, foreign embassies, and Southeast Asian offices of multinational corporations. Its neighboring districts are : Bang Rak, Pathum Wan, Khlong Toei, Yan Nawa, Bang Kho Laem, and Khlong San.",
+    "zh": "沙吞（Sathon）为曼谷大都会管理局下辖的行政区（เขต）。概述依据英文维基百科该区条目公开摘要。",
+    "th": "สาทร เป็นเขตการปกครองของกรุงเทพมหานคร สรุปภาพรวมอ้างอิงจากบทคัดย่อสาธารณะของวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้"
   },
   "seo": {
     "title": {
@@ -126,6 +126,14 @@
         "th": "เซนต์หลุยส์"
       },
       "source_url": "https://en.wikipedia.org/wiki/Sathon_district"
+    },
+    {
+      "name": {
+        "en": "Saint Joseph Convent School",
+        "zh": "Saint Joseph Convent School",
+        "th": "โรงเรียนเซนต์โยเซฟคอนเวนต์"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Saint_Joseph_Convent_School"
     }
   ],
   "hospitals": [
@@ -162,6 +170,14 @@
       "name": {
         "en": "Lumphini Park (south/west edge)",
         "zh": "Lumphini Park (south/west edge)",
+        "th": "สวนลุมพินี"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Lumphini_Park"
+    },
+    {
+      "name": {
+        "en": "Lumphini Park (Sathon edge)",
+        "zh": "Lumphini Park (Sathon edge)",
         "th": "สวนลุมพินี"
       },
       "source_url": "https://en.wikipedia.org/wiki/Lumphini_Park"
@@ -233,11 +249,85 @@
       "verified_at": "2026-07-16",
       "present": true,
       "absence_verified": false
+    },
+    "overview": {
+      "field": "overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_bma",
+        "url": "https://en.wikipedia.org/wiki/Sathon_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "map": {
+      "field": "map",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "package_centroid_coordinates",
+        "url": "https://www.google.com/maps?q=13.708,100.526"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "lifestyle": {
+      "field": "lifestyle",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Sathon_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "office_areas": {
+      "field": "office_areas",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_district_page",
+        "url": "https://en.wikipedia.org/wiki/Sathon_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
     }
   },
   "district_master": {
-    "phase": "10-sprint-4",
+    "phase": "10-sprint-5",
     "verified_at": "2026-07-16",
-    "rule": "named_pois_only_plus_verified_transit_absence"
-  }
+    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+  },
+  "overview_source": {
+    "type": "wikipedia_rest_summary",
+    "url": "https://en.wikipedia.org/wiki/Sathon_district",
+    "verified_at": "2026-07-16"
+  },
+  "google_maps_url": "https://www.google.com/maps?q=13.708,100.526",
+  "map": {
+    "latitude": 13.708,
+    "longitude": 100.526,
+    "google_maps_url": "https://www.google.com/maps?q=13.708,100.526",
+    "source": "district_package_centroid",
+    "verified_at": "2026-07-16"
+  },
+  "lifestyle": {
+    "en": "CBD financial and office lifestyle along Sathon Road, per Wikipedia Sathon district.",
+    "zh": "沙吞路沿线中央商务区金融与办公生活方式（维基百科沙吞区）。",
+    "th": "ไลฟ์สไตล์ย่านธุรกิจและออฟฟิศตามถนนสาทร ตามวิกิพีเดียเขตสาทร",
+    "source_url": "https://en.wikipedia.org/wiki/Sathon_district",
+    "verified_at": "2026-07-16"
+  },
+  "office_areas": [
+    {
+      "name": {
+        "en": "Sathon Road CBD office corridor",
+        "zh": "Sathon Road CBD office corridor",
+        "th": "แนวออฟฟิศถนนสาทร"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Sathon_district"
+    }
+  ]
 }
