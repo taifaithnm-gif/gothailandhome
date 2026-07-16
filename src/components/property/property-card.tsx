@@ -142,7 +142,7 @@ export function PropertyCard({
           </p>
           <Link
             href={localePath(locale, `/properties/${property.slug}`)}
-            className="min-h-11 min-w-[5rem] text-sm font-medium text-[var(--brand)] underline-offset-4 transition hover:underline"
+            className="min-h-11 min-w-[5rem] rounded-sm text-sm font-medium text-[var(--brand)] underline-offset-4 transition outline-none hover:underline focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
             aria-label={`${dict.common.viewProperty}: ${property.title[locale]}`}
           >
             {dict.common.viewProperty}
@@ -151,7 +151,7 @@ export function PropertyCard({
 
         <Link
           href={localePath(locale, "/contact")}
-          className="text-xs font-medium text-stone-500 underline-offset-4 hover:text-[var(--brand)] hover:underline"
+          className="rounded-sm text-xs font-medium text-stone-500 underline-offset-4 outline-none hover:text-[var(--brand)] hover:underline focus-visible:text-[var(--brand)] focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/30"
         >
           {dict.properties.platformHelp}
         </Link>

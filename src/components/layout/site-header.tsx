@@ -44,7 +44,6 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
   const company = [
     { href: localePath(locale, "/knowledge"), label: dict.nav.knowledge },
     { href: localePath(locale, "/properties"), label: dict.nav.properties },
-    { href: localePath(locale, "/search"), label: dict.nav.search },
     { href: localePath(locale, "/about"), label: dict.nav.about },
     { href: localePath(locale, "/contact"), label: dict.nav.contact },
   ];
@@ -64,7 +63,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
         key={link.href}
         href={link.href}
         className={cn(
-          "text-sm transition-colors",
+          "rounded-sm text-sm transition-colors outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-gold)]/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--brand-deep)]",
           active
             ? "text-[var(--brand-gold)]"
             : "text-white/80 hover:text-white",
@@ -87,7 +86,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
         </Link>
 
         <nav
-          className="hidden max-w-[42rem] items-center gap-5 overflow-x-auto lg:flex xl:max-w-none xl:gap-6"
+          className="hidden max-w-[42rem] items-center gap-5 overflow-x-auto [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden lg:flex xl:max-w-none xl:gap-6"
           aria-label="Primary"
         >
           {desktopLinks.map((link) => renderLink(link))}
@@ -102,7 +101,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
               key={item}
               href={swapLocale(pathname, item)}
               className={cn(
-                "rounded-md px-2 py-1 text-xs transition-colors",
+                "rounded-md px-2 py-1 text-xs transition-colors outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-gold)]/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--brand-deep)]",
                 item === locale
                   ? "bg-white/15 text-white"
                   : "text-white/70 hover:bg-white/10 hover:text-white",

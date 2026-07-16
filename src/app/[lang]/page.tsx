@@ -171,7 +171,7 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
               <Link
                 key={project.id}
                 href={localePath(lang, `/projects/${project.slug}`)}
-                className="block h-full"
+                className="block h-full rounded-[var(--card-radius)] outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
               >
                 <ProjectCardShell className="h-full p-5">
                   <p className="ds-caption text-[var(--brand)]">
@@ -180,7 +180,7 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
                   <h3 className="font-heading mt-2 text-xl text-[var(--brand-deep)]">
                     {project.name[lang]}
                   </h3>
-                  <p className="mt-2 line-clamp-3 text-sm text-stone-600">
+                  <p className="mt-2 line-clamp-3 min-h-[3.75rem] text-sm text-stone-600">
                     {project.description[lang]}
                   </p>
                 </ProjectCardShell>
@@ -241,7 +241,7 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
               <Link
                 key={district.id}
                 href={localePath(lang, `/districts/${district.slug}`)}
-                className="rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-[var(--brand-soft)] px-5 py-8 transition hover:-translate-y-0.5 hover:border-[var(--brand)] hover:shadow-md"
+                className="rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-[var(--brand-soft)] px-5 py-8 transition duration-300 outline-none hover:-translate-y-0.5 hover:border-[var(--brand)] hover:shadow-[var(--shadow-soft)] focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
               >
                 <span className="font-heading text-xl text-[var(--brand-deep)]">
                   {district.name[lang]}
@@ -282,13 +282,13 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
               <Link
                 key={developer.id}
                 href={localePath(lang, `/developers/${developer.slug}`)}
-                className="block h-full"
+                className="block h-full rounded-[var(--card-radius)] outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
               >
                 <DeveloperCardShell className="h-full p-5">
                   <h3 className="font-heading text-xl text-[var(--brand-deep)]">
                     {developer.name[lang]}
                   </h3>
-                  <p className="mt-2 line-clamp-3 text-sm text-stone-600">
+                  <p className="mt-2 line-clamp-3 min-h-[3.75rem] text-sm text-stone-600">
                     {developer.description[lang]}
                   </p>
                 </DeveloperCardShell>

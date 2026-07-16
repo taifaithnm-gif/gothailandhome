@@ -61,7 +61,7 @@ export function ProjectCardShell({
     <article
       data-slot="project-card"
       className={cn(
-        "ds-card flex h-full flex-col gap-3 transition hover:border-[var(--brand)]/40",
+        "ds-card flex h-full flex-col gap-3 transition duration-300 hover:-translate-y-0.5 hover:border-[var(--brand)]/40 hover:shadow-[var(--shadow-soft)]",
         className,
       )}
       {...props}
@@ -77,7 +77,7 @@ export function DeveloperCardShell({
     <article
       data-slot="developer-card"
       className={cn(
-        "ds-card flex h-full flex-col gap-2 transition hover:border-[var(--brand)]/40",
+        "ds-card flex h-full flex-col gap-2 transition duration-300 hover:-translate-y-0.5 hover:border-[var(--brand)]/40 hover:shadow-[var(--shadow-soft)]",
         className,
       )}
       {...props}
@@ -93,7 +93,7 @@ export function DistrictCardShell({
     <article
       data-slot="district-card"
       className={cn(
-        "ds-card flex h-full flex-col gap-2 transition hover:border-[var(--brand)]/40",
+        "ds-card flex h-full flex-col gap-2 transition duration-300 hover:-translate-y-0.5 hover:border-[var(--brand)]/40 hover:shadow-[var(--shadow-soft)]",
         className,
       )}
       {...props}

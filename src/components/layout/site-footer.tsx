@@ -20,7 +20,6 @@ export function SiteFooter({ locale, dict }: SiteFooterProps) {
     { href: localePath(locale, "/cities"), label: dict.nav.cities },
     { href: localePath(locale, "/developers"), label: dict.nav.developers },
     { href: localePath(locale, "/marketplace"), label: dict.nav.marketplace },
-    { href: localePath(locale, "/search"), label: dict.nav.search },
   ];
 
   const company = [
@@ -52,7 +51,7 @@ export function SiteFooter({ locale, dict }: SiteFooterProps) {
           <ul className="space-y-2 text-sm text-white/80">
             {explore.map((item) => (
               <li key={item.href}>
-                <Link href={item.href} className="hover:text-white">
+                <Link href={item.href} className="rounded-sm outline-none transition hover:text-white focus-visible:text-white focus-visible:ring-2 focus-visible:ring-[var(--brand-gold)]/60">
                   {item.label}
                 </Link>
               </li>
@@ -67,7 +66,7 @@ export function SiteFooter({ locale, dict }: SiteFooterProps) {
           <ul className="space-y-2 text-sm text-white/80">
             {company.map((item) => (
               <li key={item.href}>
-                <Link href={item.href} className="hover:text-white">
+                <Link href={item.href} className="rounded-sm outline-none transition hover:text-white focus-visible:text-white focus-visible:ring-2 focus-visible:ring-[var(--brand-gold)]/60">
                   {item.label}
                 </Link>
               </li>

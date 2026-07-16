@@ -1,0 +1,14 @@
+{
+  "phase": "12-product-polish-wave2",
+  "date": "2026-07-17",
+  "fixes": [
+    "define_shadow_soft_token",
+    "demote_search_from_nav_and_footer",
+    "hide_nav_overflow_scrollbar",
+    "localize_home_transit_options",
+    "clarify_bangkok_districts_section_title",
+    "align_card_hover_motion",
+    "add_focus_visible_rings",
+    "balance_home_card_blurb_min_height"
+  ]
+}

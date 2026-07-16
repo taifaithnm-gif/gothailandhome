@@ -40,10 +40,10 @@ export function MarketplaceEntryGrid({
             key={item.id}
             href={localePath(locale, item.href)}
             className={cn(
-              "flex h-full flex-col rounded-[var(--card-radius)] border bg-white p-5 transition",
+              "flex h-full flex-col rounded-[var(--card-radius)] border bg-white p-5 transition duration-300 outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35",
               highlighted
                 ? "border-[var(--brand)] shadow-[var(--shadow-soft)]"
-                : "border-[var(--brand-line)] hover:border-[var(--brand)]",
+                : "border-[var(--brand-line)] hover:-translate-y-0.5 hover:border-[var(--brand)] hover:shadow-[var(--shadow-soft)]",
             )}
           >
             <p className="ds-caption text-[var(--brand)]">{item.role}</p>

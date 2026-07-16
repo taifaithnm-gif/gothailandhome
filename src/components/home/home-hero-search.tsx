@@ -132,8 +132,8 @@ export function HomeHeroSearch({
           <FieldLabel htmlFor="home-transit">{h.transit}</FieldLabel>
           <Select id="home-transit" name="transit" defaultValue="">
             <option value="">{dict.listings.all}</option>
-            <option value="bts">BTS</option>
-            <option value="mrt">MRT</option>
+            <option value="bts">{dict.listings.bts}</option>
+            <option value="mrt">{dict.listings.mrt}</option>
           </Select>
         </Field>
 

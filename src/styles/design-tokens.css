@@ -47,4 +47,5 @@
   --card-pad: 1.25rem;
   --card-pad-mobile: 1rem;
   --card-radius: 1rem;
+  --shadow-soft: 0 10px 28px rgba(6, 61, 56, 0.08);
 }

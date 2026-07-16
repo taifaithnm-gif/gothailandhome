@@ -30,7 +30,7 @@ export function Breadcrumb({
               {item.href && !last ? (
                 <Link
                   href={item.href}
-                  className="hover:text-[var(--brand)] hover:underline"
+                  className="rounded-sm outline-none hover:text-[var(--brand)] hover:underline focus-visible:text-[var(--brand)] focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/30"
                 >
                   {item.label}
                 </Link>
