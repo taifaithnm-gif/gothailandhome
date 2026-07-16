@@ -54,13 +54,125 @@
     "khwaeng_count": 5
   },
   "transportation": [],
-  "schools": [],
-  "hospitals": [],
-  "shopping": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Suan Sunandha Rajabhat University",
+        "zh": "Suan Sunandha Rajabhat University",
+        "th": "มหาวิทยาลัยราชภัฏสวนสุนันทา"
+      },
+      "source_url": "https://ssru.ac.th/"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Vajira Hospital",
+        "zh": "Vajira Hospital",
+        "th": "โรงพยาบาลวชิรพยาบาล"
+      },
+      "source_url": "https://www.vajira.ac.th/"
+    }
+  ],
+  "shopping": [
+    {
+      "name": {
+        "en": "Dusit retail / Thewet market corridor",
+        "zh": "Dusit retail / Thewet market corridor",
+        "th": "ดุสิต"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Dusit_district"
+    }
+  ],
   "investment_summary": {
     "en": "Dusit is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "杜思为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
     "th": "ดุสิตเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
-  "nearby_projects": ["168-sukhothai-residences"]
+  "nearby_projects": [
+    "168-sukhothai-residences"
+  ],
+  "parks": [
+    {
+      "name": {
+        "en": "Dusit Zoo / Dusit Palace garden corridor (historic)",
+        "zh": "Dusit Zoo / Dusit Palace garden corridor (historic)",
+        "th": "ดุสิต"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Dusit_district"
+    }
+  ],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL_ABSENCE",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": true
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL_ABSENCE",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": true
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Dusit_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Dusit_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Dusit_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Dusit_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

@@ -53,8 +53,27 @@
     "longitude": 100.4992,
     "khwaeng_count": 12
   },
-  "transportation": [],
-  "schools": [],
+  "transportation": [
+    {
+      "name": {
+        "en": "MRT — Sanam Chai",
+        "zh": "MRT — Sanam Chai",
+        "th": "MRT — Sanam Chai"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    }
+  ],
+  "schools": [
+    {
+      "name": {
+        "en": "Thammasat University (Tha Prachan)",
+        "zh": "Thammasat University (Tha Prachan)",
+        "th": "มหาวิทยาลัยธรรมศาสตร์ (ท่าพระจันทร์)"
+      },
+      "source_url": "https://tu.ac.th/"
+    }
+  ],
   "hospitals": [],
   "shopping": [],
   "investment_summary": {
@@ -62,5 +81,88 @@
     "zh": "拍那空为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
     "th": "พระนครเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
-  "nearby_projects": []
+  "nearby_projects": [],
+  "parks": [
+    {
+      "name": {
+        "en": "Sanam Luang",
+        "zh": "Sanam Luang",
+        "th": "สนามหลวง"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Sanam_Luang"
+    }
+  ],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL_ABSENCE",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": true
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

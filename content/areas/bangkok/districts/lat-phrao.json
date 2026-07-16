@@ -53,14 +53,127 @@
     "longitude": 100.607,
     "khwaeng_count": 2
   },
-  "transportation": [],
+  "transportation": [
+    {
+      "name": {
+        "en": "BTS — Ha Yaek Lat Phrao",
+        "zh": "BTS — Ha Yaek Lat Phrao",
+        "th": "BTS — Ha Yaek Lat Phrao"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "MRT — Lat Phrao",
+        "zh": "MRT — Lat Phrao",
+        "th": "MRT — Lat Phrao"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Chok Chai 4",
+        "zh": "MRT — Chok Chai 4",
+        "th": "MRT — Chok Chai 4"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    }
+  ],
   "schools": [],
   "hospitals": [],
-  "shopping": [],
+  "shopping": [
+    {
+      "name": {
+        "en": "Central Lat Phrao",
+        "zh": "Central Lat Phrao",
+        "th": "เซ็นทรัล ลาดพร้าว"
+      },
+      "source_url": "https://www.central.co.th/"
+    }
+  ],
   "investment_summary": {
     "en": "Lat Phrao is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "叻抛为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
     "th": "ลาดพร้าวเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
-  "nearby_projects": ["chapter-one-midtown-ladprao-24"]
+  "nearby_projects": [
+    "chapter-one-midtown-ladprao-24"
+  ],
+  "parks": [],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Lat_Phrao_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Lat_Phrao_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Lat_Phrao_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Lat_Phrao_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

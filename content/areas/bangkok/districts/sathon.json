@@ -56,6 +56,60 @@
   "transportation": [
     {
       "name": {
+        "en": "BTS — Chong Nonsi",
+        "zh": "BTS — Chong Nonsi",
+        "th": "BTS — Chong Nonsi"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Surasak",
+        "zh": "BTS — Surasak",
+        "th": "BTS — Surasak"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Saphan Taksin",
+        "zh": "BTS — Saphan Taksin",
+        "th": "BTS — Saphan Taksin"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Saint Louis",
+        "zh": "BTS — Saint Louis",
+        "th": "BTS — Saint Louis"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "MRT — Si Lom",
+        "zh": "MRT — Si Lom",
+        "th": "MRT — Si Lom"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Lumphini",
+        "zh": "MRT — Lumphini",
+        "th": "MRT — Lumphini"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
         "en": "BTS Chong Nonsi / Surasak corridor",
         "zh": "BTS冲农西走廊",
         "th": "แนวบีทีเอสช่องนนทรี"
@@ -64,13 +118,126 @@
       "source_url": "https://en.wikipedia.org/wiki/Sathon_district"
     }
   ],
-  "schools": [],
-  "hospitals": [],
-  "shopping": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Saint Louis College / Saint Louis School corridor",
+        "zh": "Saint Louis College / Saint Louis School corridor",
+        "th": "เซนต์หลุยส์"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Sathon_district"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Bangkok Christian Hospital",
+        "zh": "Bangkok Christian Hospital",
+        "th": "โรงพยาบาลกรุงเทพคริสเตียน"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Sathon_district"
+    }
+  ],
+  "shopping": [
+    {
+      "name": {
+        "en": "Sathon business retail podium corridor",
+        "zh": "Sathon business retail podium corridor",
+        "th": "สาทร"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Sathon_district"
+    }
+  ],
   "investment_summary": {
     "en": "Sathon is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "沙吞为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
     "th": "สาทรเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
-  "nearby_projects": ["ascott-embassy-sathorn", "m-jive-sathorn-lumphini"]
+  "nearby_projects": [
+    "ascott-embassy-sathorn",
+    "m-jive-sathorn-lumphini"
+  ],
+  "parks": [
+    {
+      "name": {
+        "en": "Lumphini Park (south/west edge)",
+        "zh": "Lumphini Park (south/west edge)",
+        "th": "สวนลุมพินี"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Lumphini_Park"
+    }
+  ],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Sathon_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Sathon_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Sathon_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Sathon_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

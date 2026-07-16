@@ -32,3 +32,15 @@ Formula: `mean(project_avg, developer_avg, district_avg)`.
 ## Mutations this sprint
 
 Documentation only. No harvest, schema, UI, CRM, or deploy.
+
+---
+
+## Phase 10 update (2026-07-16)
+
+| Family | S1 baseline | Latest |
+|--------|------------:|-------:|
+| Developers | 43.5% | **93.5%** (Sprint 2, five-field) |
+| Projects | 33.6% | **35.0%** (Sprint 3; media-blocked) |
+| Districts (S1 arrays) | 3.7% | **39%** (Sprint 4) |
+| Districts (S4 + rail absence) | — | **59.3%** |
+

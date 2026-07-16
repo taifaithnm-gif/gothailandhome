@@ -53,14 +53,163 @@
     "longitude": 100.531,
     "khwaeng_count": 4
   },
-  "transportation": [],
-  "schools": [],
-  "hospitals": [],
-  "shopping": [],
+  "transportation": [
+    {
+      "name": {
+        "en": "BTS — Phaya Thai",
+        "zh": "BTS — Phaya Thai",
+        "th": "BTS — Phaya Thai"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Ratchathewi",
+        "zh": "BTS — Ratchathewi",
+        "th": "BTS — Ratchathewi"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "MRT — Phetchaburi",
+        "zh": "MRT — Phetchaburi",
+        "th": "MRT — Phetchaburi"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Phaya Thai (interchange area)",
+        "zh": "MRT — Phaya Thai (interchange area)",
+        "th": "MRT — Phaya Thai (interchange area)"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    }
+  ],
+  "schools": [
+    {
+      "name": {
+        "en": "Mahidol University — Phyathai / Ratchathewi hospital campuses corridor",
+        "zh": "Mahidol University — Phyathai / Ratchathewi hospital campuses corridor",
+        "th": "มหิดล (ราชเทวี)"
+      },
+      "source_url": "https://mahidol.ac.th/"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Ramathibodi Hospital",
+        "zh": "Ramathibodi Hospital",
+        "th": "โรงพยาบาลรามาธิบดี"
+      },
+      "source_url": "https://www.rama.mahidol.ac.th/"
+    },
+    {
+      "name": {
+        "en": "Phramongkutklao Hospital",
+        "zh": "Phramongkutklao Hospital",
+        "th": "โรงพยาบาลพระมงกุฎเกล้า"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Phramongkutklao_Hospital"
+    }
+  ],
+  "shopping": [
+    {
+      "name": {
+        "en": "MBK Center / Pratunam retail corridor (adjacent Pathum Wan–Ratchathewi)",
+        "zh": "MBK Center / Pratunam retail corridor (adjacent Pathum Wan–Ratchathewi)",
+        "th": "มาบุญครอง"
+      },
+      "source_url": "https://www.mbk-center.co.th/"
+    }
+  ],
   "investment_summary": {
     "en": "Ratchathewi is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "拉差提威为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
     "th": "ราชเทวีเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
-  "nearby_projects": ["xt-phayathai", "supalai-elite-phayathai"]
+  "nearby_projects": [
+    "xt-phayathai",
+    "supalai-elite-phayathai"
+  ],
+  "parks": [],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

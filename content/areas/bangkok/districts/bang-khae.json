@@ -53,14 +53,116 @@
     "longitude": 100.4094,
     "khwaeng_count": 4
   },
-  "transportation": [],
+  "transportation": [
+    {
+      "name": {
+        "en": "MRT — Bang Khae",
+        "zh": "MRT — Bang Khae",
+        "th": "MRT — Bang Khae"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Lak Song",
+        "zh": "MRT — Lak Song",
+        "th": "MRT — Lak Song"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    }
+  ],
   "schools": [],
   "hospitals": [],
-  "shopping": [],
+  "shopping": [
+    {
+      "name": {
+        "en": "The Mall Bang Khae",
+        "zh": "The Mall Bang Khae",
+        "th": "เดอะมอลล์ บางแค"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/The_Mall_Group"
+    }
+  ],
   "investment_summary": {
     "en": "Bang Khae is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "挽凯为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
     "th": "บางแคเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
-  "nearby_projects": []
+  "nearby_projects": [],
+  "parks": [],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL_ABSENCE",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": true
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khae_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khae_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khae_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khae_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

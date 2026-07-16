@@ -53,14 +53,163 @@
     "longitude": 100.485,
     "khwaeng_count": 7
   },
-  "transportation": [],
+  "transportation": [
+    {
+      "name": {
+        "en": "BTS — Wongwian Yai",
+        "zh": "BTS — Wongwian Yai",
+        "th": "BTS — Wongwian Yai"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Pho Nimit",
+        "zh": "BTS — Pho Nimit",
+        "th": "BTS — Pho Nimit"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Talat Phlu",
+        "zh": "BTS — Talat Phlu",
+        "th": "BTS — Talat Phlu"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Wutthakat",
+        "zh": "BTS — Wutthakat",
+        "th": "BTS — Wutthakat"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "MRT — Tha Phra",
+        "zh": "MRT — Tha Phra",
+        "th": "MRT — Tha Phra"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Itsaraphap",
+        "zh": "MRT — Itsaraphap",
+        "th": "MRT — Itsaraphap"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    }
+  ],
   "schools": [],
-  "hospitals": [],
-  "shopping": [],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Thon Buri Hospital",
+        "zh": "Thon Buri Hospital",
+        "th": "โรงพยาบาลธนบุรี"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Thon_Buri_district"
+    }
+  ],
+  "shopping": [
+    {
+      "name": {
+        "en": "Wongwian Yai / Thon Buri retail",
+        "zh": "Wongwian Yai / Thon Buri retail",
+        "th": "ธนบุรี"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Thon_Buri_district"
+    }
+  ],
   "investment_summary": {
     "en": "Thon Buri is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "吞武里为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
     "th": "ธนบุรีเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
-  "nearby_projects": ["aspire-sathorn-taksin"]
+  "nearby_projects": [
+    "aspire-sathorn-taksin"
+  ],
+  "parks": [],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Thon_Buri_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Thon_Buri_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Thon_Buri_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Thon_Buri_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

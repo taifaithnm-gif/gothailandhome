@@ -56,6 +56,15 @@
   "transportation": [
     {
       "name": {
+        "en": "MRT — Lam Sali",
+        "zh": "MRT — Lam Sali",
+        "th": "MRT — Lam Sali"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
         "en": "MRT Yellow Line — Lam Sali",
         "zh": "MRT黄线 — 兰萨利",
         "th": "รถไฟฟ้าสายสีเหลือง — ลำสาลี"
@@ -64,8 +73,26 @@
       "source_url": "https://en.wikipedia.org/wiki/Yellow_Line_(Bangkok)"
     }
   ],
-  "schools": [],
-  "hospitals": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Ramkhamhaeng University",
+        "zh": "Ramkhamhaeng University",
+        "th": "มหาวิทยาลัยรามคำแหง"
+      },
+      "source_url": "https://www.ru.ac.th/"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Ramkhamhaeng Hospital",
+        "zh": "Ramkhamhaeng Hospital",
+        "th": "โรงพยาบาลรามคำแหง"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+    }
+  ],
   "shopping": [
     {
       "name": {
@@ -85,5 +112,88 @@
     "the-livin-ramkhamhaeng",
     "knightbridge-collage-ramkhamhaeng",
     "modiz-rhyme-ramkhamhaeng"
-  ]
+  ],
+  "parks": [
+    {
+      "name": {
+        "en": "Ramkhamhaeng University green / Hua Mak park spaces",
+        "zh": "Ramkhamhaeng University green / Hua Mak park spaces",
+        "th": "บางกะปิ"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+    }
+  ],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL_ABSENCE",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": true
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

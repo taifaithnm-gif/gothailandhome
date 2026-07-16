@@ -53,14 +53,187 @@
     "longitude": 100.553,
     "khwaeng_count": 2
   },
-  "transportation": [],
-  "schools": [],
+  "transportation": [
+    {
+      "name": {
+        "en": "MRT — Phra Ram 9",
+        "zh": "MRT — Phra Ram 9",
+        "th": "MRT — Phra Ram 9"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Thailand Cultural Centre",
+        "zh": "MRT — Thailand Cultural Centre",
+        "th": "MRT — Thailand Cultural Centre"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Huai Khwang",
+        "zh": "MRT — Huai Khwang",
+        "th": "MRT — Huai Khwang"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Sutthisan",
+        "zh": "MRT — Sutthisan",
+        "th": "MRT — Sutthisan"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Ratchadaphisek",
+        "zh": "MRT — Ratchadaphisek",
+        "th": "MRT — Ratchadaphisek"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    }
+  ],
+  "schools": [
+    {
+      "name": {
+        "en": "University of the Thai Chamber of Commerce",
+        "zh": "University of the Thai Chamber of Commerce",
+        "th": "มหาวิทยาลัยหอการค้าไทย"
+      },
+      "source_url": "https://www.utcc.ac.th/"
+    },
+    {
+      "name": {
+        "en": "Surasakmontree School",
+        "zh": "Surasakmontree School",
+        "th": "โรงเรียนสุรศักดิ์มนตรี"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+    }
+  ],
   "hospitals": [],
-  "shopping": [],
+  "shopping": [
+    {
+      "name": {
+        "en": "The Esplanade",
+        "zh": "The Esplanade",
+        "th": "เอสพลานาด"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+    },
+    {
+      "name": {
+        "en": "Fortune Town",
+        "zh": "Fortune Town",
+        "th": "ฟอร์จูนทาวน์"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+    },
+    {
+      "name": {
+        "en": "Rot Fai Night Market (Ratchada)",
+        "zh": "Rot Fai Night Market (Ratchada)",
+        "th": "ตลาดนัดรถไฟ รัชดา"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+    }
+  ],
   "investment_summary": {
     "en": "Din Daeng is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "丁丹为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
     "th": "ดินแดงเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
-  "nearby_projects": ["casa-condo-asoke-dindaeng"]
+  "nearby_projects": [
+    "casa-condo-asoke-dindaeng"
+  ],
+  "parks": [
+    {
+      "name": {
+        "en": "Vibhavadi Rangsit Forest Park",
+        "zh": "Vibhavadi Rangsit Forest Park",
+        "th": "สวนป่าวิภาวดีรังสิต"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+    }
+  ],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL_ABSENCE",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": true
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

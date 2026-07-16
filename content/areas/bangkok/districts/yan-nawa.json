@@ -53,10 +53,55 @@
     "longitude": 100.542,
     "khwaeng_count": 2
   },
-  "transportation": [],
-  "schools": [],
+  "transportation": [
+    {
+      "name": {
+        "en": "MRT — Khlong Toei",
+        "zh": "MRT — Khlong Toei",
+        "th": "MRT — Khlong Toei"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Lumphini",
+        "zh": "MRT — Lumphini",
+        "th": "MRT — Lumphini"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    }
+  ],
+  "schools": [
+    {
+      "name": {
+        "en": "Nonsi Witthaya School",
+        "zh": "Nonsi Witthaya School",
+        "th": "โรงเรียนนนทรีวิทยา"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+    }
+  ],
   "hospitals": [],
-  "shopping": [],
+  "shopping": [
+    {
+      "name": {
+        "en": "Central Plaza Rama III",
+        "zh": "Central Plaza Rama III",
+        "th": "เซ็นทรัลพลาซา พระราม 3"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+    },
+    {
+      "name": {
+        "en": "Lotus's Rama III",
+        "zh": "Lotus's Rama III",
+        "th": "โลตัส พระราม 3"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+    }
+  ],
   "investment_summary": {
     "en": "Yan Nawa is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "央那瓦为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
@@ -65,5 +110,79 @@
   "nearby_projects": [
     "knightsbridge-prime-sathorn",
     "supalai-lite-sathorn-charoenrat"
-  ]
+  ],
+  "parks": [],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL_ABSENCE",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": true
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

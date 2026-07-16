@@ -53,14 +53,145 @@
     "longitude": 100.544,
     "khwaeng_count": 2
   },
-  "transportation": [],
-  "schools": [],
-  "hospitals": [],
+  "transportation": [
+    {
+      "name": {
+        "en": "BTS — Ari",
+        "zh": "BTS — Ari",
+        "th": "BTS — Ari"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Sanam Pao",
+        "zh": "BTS — Sanam Pao",
+        "th": "BTS — Sanam Pao"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Saphan Khwai",
+        "zh": "BTS — Saphan Khwai",
+        "th": "BTS — Saphan Khwai"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "MRT — Bang Sue (district edge)",
+        "zh": "MRT — Bang Sue (district edge)",
+        "th": "MRT — Bang Sue (district edge)"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    }
+  ],
+  "schools": [
+    {
+      "name": {
+        "en": "Phramongkutklao College of Medicine",
+        "zh": "Phramongkutklao College of Medicine",
+        "th": "วิทยาลัยแพทยศาสตร์พระมงกุฎเกล้า"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Phyathai 2 Hospital",
+        "zh": "Phyathai 2 Hospital",
+        "th": "โรงพยาบาลพญาไท 2"
+      },
+      "source_url": "https://www.phyathai.com/"
+    }
+  ],
   "shopping": [],
   "investment_summary": {
     "en": "Phaya Thai is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "帕亚泰为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
     "th": "พญาไทเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
-  "nearby_projects": ["noble-around-ari"]
+  "nearby_projects": [
+    "noble-around-ari"
+  ],
+  "parks": [],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

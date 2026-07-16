@@ -1,0 +1,1117 @@
+{
+  "verified_at": "2026-07-16",
+  "avg_completeness_pct_s4_with_absence": 59.3,
+  "avg_completeness_pct_s1_formula": 39,
+  "baseline_s1_avg_pct": 3.7,
+  "target_pct": 90,
+  "target_met_s4": false,
+  "target_met_s1_formula": false,
+  "bts_present_districts": 15,
+  "bts_absence_verified_districts": 35,
+  "mrt_present_districts": 24,
+  "mrt_absence_verified_districts": 26,
+  "rows": [
+    {
+      "slug": "bang-kapi",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "OFFICIAL",
+      "completeness_pct": 100,
+      "counts": {
+        "bts": 0,
+        "mrt": 2,
+        "schools": 1,
+        "hospitals": 1,
+        "shopping": 1,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "chatuchak",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "OFFICIAL",
+      "completeness_pct": 100,
+      "counts": {
+        "bts": 3,
+        "mrt": 3,
+        "schools": 1,
+        "hospitals": 1,
+        "shopping": 1,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "dusit",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "OFFICIAL",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "OFFICIAL",
+      "completeness_pct": 100,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 1,
+        "hospitals": 1,
+        "shopping": 1,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "pathum-wan",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "OFFICIAL",
+      "completeness_pct": 100,
+      "counts": {
+        "bts": 6,
+        "mrt": 2,
+        "schools": 1,
+        "hospitals": 1,
+        "shopping": 2,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "sathon",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "OFFICIAL",
+      "completeness_pct": 100,
+      "counts": {
+        "bts": 5,
+        "mrt": 2,
+        "schools": 1,
+        "hospitals": 1,
+        "shopping": 1,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "watthana",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "OFFICIAL",
+      "completeness_pct": 100,
+      "counts": {
+        "bts": 6,
+        "mrt": 2,
+        "schools": 1,
+        "hospitals": 2,
+        "shopping": 2,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "bang-khen",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "OFFICIAL",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "OFFICIAL",
+      "completeness_pct": 83.3,
+      "counts": {
+        "bts": 2,
+        "mrt": 0,
+        "schools": 1,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "bangkok-noi",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 83.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 2,
+        "schools": 1,
+        "hospitals": 1,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "din-daeng",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "OFFICIAL",
+      "completeness_pct": 83.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 5,
+        "schools": 2,
+        "hospitals": 0,
+        "shopping": 3,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "don-mueang",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "OFFICIAL",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 83.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 1,
+        "hospitals": 1,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "ratchathewi",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 83.3,
+      "counts": {
+        "bts": 2,
+        "mrt": 2,
+        "schools": 1,
+        "hospitals": 2,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "bang-bon",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "OFFICIAL",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "OFFICIAL",
+      "completeness_pct": 66.7,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 1,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "huai-khwang",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "UNVERIFIED",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 66.7,
+      "counts": {
+        "bts": 0,
+        "mrt": 3,
+        "schools": 0,
+        "hospitals": 1,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "khlong-toei",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "OFFICIAL",
+      "completeness_pct": 66.7,
+      "counts": {
+        "bts": 3,
+        "mrt": 3,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "lak-si",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "OFFICIAL",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 66.7,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 1,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "lat-krabang",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "OFFICIAL",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 66.7,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 1,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "min-buri",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 66.7,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 1,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "phasi-charoen",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL",
+      "schools": "UNVERIFIED",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 66.7,
+      "counts": {
+        "bts": 1,
+        "mrt": 3,
+        "schools": 0,
+        "hospitals": 1,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "phaya-thai",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "OFFICIAL",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 66.7,
+      "counts": {
+        "bts": 3,
+        "mrt": 1,
+        "schools": 1,
+        "hospitals": 1,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "phra-nakhon",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "OFFICIAL",
+      "completeness_pct": 66.7,
+      "counts": {
+        "bts": 0,
+        "mrt": 1,
+        "schools": 1,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "thon-buri",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL",
+      "schools": "UNVERIFIED",
+      "hospitals": "OFFICIAL",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 66.7,
+      "counts": {
+        "bts": 4,
+        "mrt": 2,
+        "schools": 0,
+        "hospitals": 1,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "wang-thonglang",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 66.7,
+      "counts": {
+        "bts": 0,
+        "mrt": 4,
+        "schools": 2,
+        "hospitals": 0,
+        "shopping": 2,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "yan-nawa",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 66.7,
+      "counts": {
+        "bts": 0,
+        "mrt": 2,
+        "schools": 1,
+        "hospitals": 0,
+        "shopping": 2,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "bang-khae",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 0,
+        "mrt": 2,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "bang-khun-thian",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "bang-na",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 4,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "bang-rak",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL",
+      "schools": "OFFICIAL",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 4,
+        "mrt": 2,
+        "schools": 1,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "bang-sue",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 0,
+        "mrt": 2,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "khan-na-yao",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "khlong-san",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 1,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "lat-phrao",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 1,
+        "mrt": 2,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "nong-chok",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "phra-khanong",
+      "bts": "OFFICIAL",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "OFFICIAL",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 4,
+        "mrt": 0,
+        "schools": 2,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "pom-prap-sattru-phai",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 0,
+        "mrt": 1,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "prawet",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "OFFICIAL",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "samphanthawong",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 0,
+        "mrt": 2,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "suan-luang",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "OFFICIAL",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 1
+      }
+    },
+    {
+      "slug": "taling-chan",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "OFFICIAL",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 50,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 1,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "bang-kho-laem",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 33.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "bang-phlat",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 33.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 2,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "bangkok-yai",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 33.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 2,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "bueng-kum",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 33.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "chom-thong",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 33.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "khlong-sam-wa",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 33.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "nong-khaem",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 33.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "rat-burana",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 33.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "sai-mai",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 33.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "saphan-sung",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 33.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "thawi-watthana",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 33.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    },
+    {
+      "slug": "thung-khru",
+      "bts": "OFFICIAL_ABSENCE",
+      "mrt": "OFFICIAL_ABSENCE",
+      "schools": "UNVERIFIED",
+      "hospitals": "UNVERIFIED",
+      "shopping": "UNVERIFIED",
+      "parks": "UNVERIFIED",
+      "completeness_pct": 33.3,
+      "counts": {
+        "bts": 0,
+        "mrt": 0,
+        "schools": 0,
+        "hospitals": 0,
+        "shopping": 0,
+        "parks": 0
+      }
+    }
+  ],
+  "s1_rows": [
+    {
+      "slug": "chatuchak",
+      "pct": 100
+    },
+    {
+      "slug": "pathum-wan",
+      "pct": 100
+    },
+    {
+      "slug": "sathon",
+      "pct": 100
+    },
+    {
+      "slug": "watthana",
+      "pct": 100
+    },
+    {
+      "slug": "bang-kapi",
+      "pct": 83.3
+    },
+    {
+      "slug": "ratchathewi",
+      "pct": 83.3
+    },
+    {
+      "slug": "bang-khen",
+      "pct": 66.7
+    },
+    {
+      "slug": "bangkok-noi",
+      "pct": 66.7
+    },
+    {
+      "slug": "din-daeng",
+      "pct": 66.7
+    },
+    {
+      "slug": "dusit",
+      "pct": 66.7
+    },
+    {
+      "slug": "khlong-toei",
+      "pct": 66.7
+    },
+    {
+      "slug": "phasi-charoen",
+      "pct": 66.7
+    },
+    {
+      "slug": "phaya-thai",
+      "pct": 66.7
+    },
+    {
+      "slug": "thon-buri",
+      "pct": 66.7
+    },
+    {
+      "slug": "bang-rak",
+      "pct": 50
+    },
+    {
+      "slug": "don-mueang",
+      "pct": 50
+    },
+    {
+      "slug": "huai-khwang",
+      "pct": 50
+    },
+    {
+      "slug": "lat-phrao",
+      "pct": 50
+    },
+    {
+      "slug": "phra-nakhon",
+      "pct": 50
+    },
+    {
+      "slug": "wang-thonglang",
+      "pct": 50
+    },
+    {
+      "slug": "yan-nawa",
+      "pct": 50
+    },
+    {
+      "slug": "bang-bon",
+      "pct": 33.3
+    },
+    {
+      "slug": "bang-khae",
+      "pct": 33.3
+    },
+    {
+      "slug": "bang-na",
+      "pct": 33.3
+    },
+    {
+      "slug": "bang-sue",
+      "pct": 33.3
+    },
+    {
+      "slug": "khlong-san",
+      "pct": 33.3
+    },
+    {
+      "slug": "lak-si",
+      "pct": 33.3
+    },
+    {
+      "slug": "lat-krabang",
+      "pct": 33.3
+    },
+    {
+      "slug": "min-buri",
+      "pct": 33.3
+    },
+    {
+      "slug": "phra-khanong",
+      "pct": 33.3
+    },
+    {
+      "slug": "pom-prap-sattru-phai",
+      "pct": 33.3
+    },
+    {
+      "slug": "samphanthawong",
+      "pct": 33.3
+    },
+    {
+      "slug": "bang-khun-thian",
+      "pct": 16.7
+    },
+    {
+      "slug": "bang-phlat",
+      "pct": 16.7
+    },
+    {
+      "slug": "bangkok-yai",
+      "pct": 16.7
+    },
+    {
+      "slug": "khan-na-yao",
+      "pct": 16.7
+    },
+    {
+      "slug": "nong-chok",
+      "pct": 16.7
+    },
+    {
+      "slug": "prawet",
+      "pct": 16.7
+    },
+    {
+      "slug": "suan-luang",
+      "pct": 16.7
+    },
+    {
+      "slug": "taling-chan",
+      "pct": 16.7
+    },
+    {
+      "slug": "bang-kho-laem",
+      "pct": 0
+    },
+    {
+      "slug": "bueng-kum",
+      "pct": 0
+    },
+    {
+      "slug": "chom-thong",
+      "pct": 0
+    },
+    {
+      "slug": "khlong-sam-wa",
+      "pct": 0
+    },
+    {
+      "slug": "nong-khaem",
+      "pct": 0
+    },
+    {
+      "slug": "rat-burana",
+      "pct": 0
+    },
+    {
+      "slug": "sai-mai",
+      "pct": 0
+    },
+    {
+      "slug": "saphan-sung",
+      "pct": 0
+    },
+    {
+      "slug": "thawi-watthana",
+      "pct": 0
+    },
+    {
+      "slug": "thung-khru",
+      "pct": 0
+    }
+  ]
+}

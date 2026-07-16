@@ -53,8 +53,62 @@
     "longitude": 100.601,
     "khwaeng_count": 2
   },
-  "transportation": [],
-  "schools": [],
+  "transportation": [
+    {
+      "name": {
+        "en": "BTS — Bang Chak",
+        "zh": "BTS — Bang Chak",
+        "th": "BTS — Bang Chak"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Punnawithi",
+        "zh": "BTS — Punnawithi",
+        "th": "BTS — Punnawithi"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Phra Khanong",
+        "zh": "BTS — Phra Khanong",
+        "th": "BTS — Phra Khanong"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — On Nut",
+        "zh": "BTS — On Nut",
+        "th": "BTS — On Nut"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    }
+  ],
+  "schools": [
+    {
+      "name": {
+        "en": "Wells International School — On Nut Campus",
+        "zh": "Wells International School — On Nut Campus",
+        "th": "Wells International School On Nut"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+    },
+    {
+      "name": {
+        "en": "Anglo Singapore International School — Campus 64",
+        "zh": "Anglo Singapore International School — Campus 64",
+        "th": "Anglo Singapore International School Campus 64"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+    }
+  ],
   "hospitals": [],
   "shopping": [],
   "investment_summary": {
@@ -69,5 +123,79 @@
     "origin-plug-play-sukhumvit-101",
     "ideo-mobi-sukhumvit-66",
     "whizdom-essence"
-  ]
+  ],
+  "parks": [],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL_ABSENCE",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": true
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

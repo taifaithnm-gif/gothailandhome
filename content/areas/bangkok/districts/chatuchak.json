@@ -56,6 +56,51 @@
   "transportation": [
     {
       "name": {
+        "en": "BTS — Mo Chit",
+        "zh": "BTS — Mo Chit",
+        "th": "BTS — Mo Chit"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Ha Yaek Lat Phrao",
+        "zh": "BTS — Ha Yaek Lat Phrao",
+        "th": "BTS — Ha Yaek Lat Phrao"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "MRT — Chatuchak Park",
+        "zh": "MRT — Chatuchak Park",
+        "th": "MRT — Chatuchak Park"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Phahon Yothin",
+        "zh": "MRT — Phahon Yothin",
+        "th": "MRT — Phahon Yothin"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Lat Phrao",
+        "zh": "MRT — Lat Phrao",
+        "th": "MRT — Lat Phrao"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
         "en": "BTS Mo Chit / MRT Chatuchak Park area",
         "zh": "BTS摩齐 / MRT乍都乍公园一带",
         "th": "บีทีเอสหมอชิต / เอ็มอาร์ทีสวนจตุจักร"
@@ -64,13 +109,31 @@
       "source_url": "https://en.wikipedia.org/wiki/Chatuchak_district"
     }
   ],
-  "schools": [],
-  "hospitals": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Kasetsart University (Bangkhen vicinity / Chatuchak area campuses cited on district pages)",
+        "zh": "Kasetsart University (Bangkhen vicinity / Chatuchak area campuses cited on district pages)",
+        "th": "มหาวิทยาลัยเกษตรศาสตร์"
+      },
+      "source_url": "https://www.ku.ac.th/"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Paolo Hospital Phaholyothin / Chatuchak health corridor",
+        "zh": "Paolo Hospital Phaholyothin / Chatuchak health corridor",
+        "th": "จตุจักร"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Chatuchak_district"
+    }
+  ],
   "shopping": [
     {
       "name": {
         "en": "Chatuchak Weekend Market",
-        "zh": "乍都乍周末市场",
+        "zh": "Chatuchak Weekend Market",
         "th": "ตลาดนัดจตุจักร"
       },
       "source_url": "https://en.wikipedia.org/wiki/Chatuchak_Weekend_Market"
@@ -81,5 +144,90 @@
     "zh": "乍都乍为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
     "th": "จตุจักรเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
-  "nearby_projects": ["life-ladprao"]
+  "nearby_projects": [
+    "life-ladprao"
+  ],
+  "parks": [
+    {
+      "name": {
+        "en": "Chatuchak Park",
+        "zh": "Chatuchak Park",
+        "th": "สวนจตุจักร"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Chatuchak_Park"
+    }
+  ],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

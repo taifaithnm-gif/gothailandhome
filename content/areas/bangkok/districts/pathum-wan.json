@@ -56,6 +56,69 @@
   "transportation": [
     {
       "name": {
+        "en": "BTS — Siam",
+        "zh": "BTS — Siam",
+        "th": "BTS — Siam"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Chit Lom",
+        "zh": "BTS — Chit Lom",
+        "th": "BTS — Chit Lom"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Phloen Chit",
+        "zh": "BTS — Phloen Chit",
+        "th": "BTS — Phloen Chit"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — National Stadium",
+        "zh": "BTS — National Stadium",
+        "th": "BTS — National Stadium"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Ratchadamri",
+        "zh": "BTS — Ratchadamri",
+        "th": "BTS — Ratchadamri"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "MRT — Sam Yan",
+        "zh": "MRT — Sam Yan",
+        "th": "MRT — Sam Yan"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Si Lom",
+        "zh": "MRT — Si Lom",
+        "th": "MRT — Si Lom"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
         "en": "BTS Siam",
         "zh": "BTS暹罗站",
         "th": "บีทีเอสสยาม"
@@ -64,16 +127,42 @@
       "source_url": "https://en.wikipedia.org/wiki/Siam_BTS_station"
     }
   ],
-  "schools": [],
-  "hospitals": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Chulalongkorn University",
+        "zh": "Chulalongkorn University",
+        "th": "จุฬาลงกรณ์มหาวิทยาลัย"
+      },
+      "source_url": "https://www.chula.ac.th/"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "King Chulalongkorn Memorial Hospital",
+        "zh": "King Chulalongkorn Memorial Hospital",
+        "th": "โรงพยาบาลจุฬาลงกรณ์"
+      },
+      "source_url": "https://chulalongkornhospital.go.th/"
+    }
+  ],
   "shopping": [
     {
       "name": {
-        "en": "Siam area shopping (Siam Paragon / MBK environs)",
-        "zh": "暹罗商圈",
-        "th": "ย่านสยาม"
+        "en": "Siam Paragon",
+        "zh": "Siam Paragon",
+        "th": "สยามพารากอน"
       },
-      "source_url": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+      "source_url": "https://www.siamparagon.co.th/"
+    },
+    {
+      "name": {
+        "en": "CentralWorld",
+        "zh": "CentralWorld",
+        "th": "เซ็นทรัลเวิลด์"
+      },
+      "source_url": "https://www.centralworld.co.th/"
     }
   ],
   "investment_summary": {
@@ -81,5 +170,92 @@
     "zh": "巴吞旺为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
     "th": "ปทุมวันเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
-  "nearby_projects": ["life-one-wireless", "samyan-mitrtown", "one-bangkok"]
+  "nearby_projects": [
+    "life-one-wireless",
+    "samyan-mitrtown",
+    "one-bangkok"
+  ],
+  "parks": [
+    {
+      "name": {
+        "en": "Lumphini Park",
+        "zh": "Lumphini Park",
+        "th": "สวนลุมพินี"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Lumphini_Park"
+    }
+  ],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

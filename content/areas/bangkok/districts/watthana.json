@@ -56,6 +56,69 @@
   "transportation": [
     {
       "name": {
+        "en": "BTS — Asok",
+        "zh": "BTS — Asok",
+        "th": "BTS — Asok"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Phrom Phong",
+        "zh": "BTS — Phrom Phong",
+        "th": "BTS — Phrom Phong"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Thong Lo",
+        "zh": "BTS — Thong Lo",
+        "th": "BTS — Thong Lo"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Ekkamai",
+        "zh": "BTS — Ekkamai",
+        "th": "BTS — Ekkamai"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "BTS — Nana",
+        "zh": "BTS — Nana",
+        "th": "BTS — Nana"
+      },
+      "mode": "bts",
+      "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
+    },
+    {
+      "name": {
+        "en": "MRT — Sukhumvit",
+        "zh": "MRT — Sukhumvit",
+        "th": "MRT — Sukhumvit"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Phetchaburi",
+        "zh": "MRT — Phetchaburi",
+        "th": "MRT — Phetchaburi"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
         "en": "BTS Sukhumvit corridor (Asok–Thong Lo area)",
         "zh": "BTS素坤逸走廊",
         "th": "แนวบีทีเอสสุขุมวิท"
@@ -64,9 +127,52 @@
       "source_url": "https://en.wikipedia.org/wiki/Watthana_district"
     }
   ],
-  "schools": [],
-  "hospitals": [],
-  "shopping": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Srinakharinwirot University Prasarnmit (adjacent Pathum Wan/Watthana education corridor cited in area sources)",
+        "zh": "Srinakharinwirot University Prasarnmit (adjacent Pathum Wan/Watthana education corridor cited in area sources)",
+        "th": "มหาวิทยาลัยศรีนครินทรวิโรฒ ประสานมิตร"
+      },
+      "source_url": "https://www.swu.ac.th/"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Bumrungrad International Hospital",
+        "zh": "Bumrungrad International Hospital",
+        "th": "โรงพยาบาลบำรุงราษฎร์"
+      },
+      "source_url": "https://www.bumrungrad.com/"
+    },
+    {
+      "name": {
+        "en": "Samitivej Sukhumvit Hospital",
+        "zh": "Samitivej Sukhumvit Hospital",
+        "th": "โรงพยาบาลสมิติเวช สุขุมวิท"
+      },
+      "source_url": "https://www.samitivejhospitals.com/"
+    }
+  ],
+  "shopping": [
+    {
+      "name": {
+        "en": "EmQuartier",
+        "zh": "EmQuartier",
+        "th": "เอ็มควอเทียร์"
+      },
+      "source_url": "https://www.emquartier.co.th/"
+    },
+    {
+      "name": {
+        "en": "Terminal 21 Asok",
+        "zh": "Terminal 21 Asok",
+        "th": "เทอร์มินอล 21 อโศก"
+      },
+      "source_url": "https://www.terminal21.co.th/"
+    }
+  ],
   "investment_summary": {
     "en": "Watthana is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "瓦他那为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
@@ -80,5 +186,88 @@
     "vyva-thonglor",
     "noble-beat",
     "niche-pride-thonglor-phetchaburi"
-  ]
+  ],
+  "parks": [
+    {
+      "name": {
+        "en": "Benjakitti Forest Park",
+        "zh": "Benjakitti Forest Park",
+        "th": "สวนเบญจกิติ"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Benjakitti_Park"
+    }
+  ],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Watthana_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Watthana_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Watthana_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Watthana_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }

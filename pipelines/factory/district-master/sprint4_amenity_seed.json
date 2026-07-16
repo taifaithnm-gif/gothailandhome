@@ -1,0 +1,1706 @@
+{
+  "verified_at": "2026-07-16",
+  "policy": "Wikipedia district/line pages + official operator/institution URLs only. No invented POIs. BTS/MRT absence may be verified against line maps.",
+  "sources": {
+    "bts_sukhumvit": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line",
+    "bts_silom": "https://en.wikipedia.org/wiki/Silom_Line",
+    "bts_system": "https://en.wikipedia.org/wiki/BTS_Skytrain",
+    "mrt_blue": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)",
+    "mrt_yellow": "https://en.wikipedia.org/wiki/Yellow_Line_(Bangkok)",
+    "mrt_purple": "https://en.wikipedia.org/wiki/Purple_Line_(Bangkok)",
+    "mrt_orange": "https://en.wikipedia.org/wiki/Orange_Line_(Bangkok)",
+    "districts_list": "https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok"
+  },
+  "bts_by_district": {
+    "pathum-wan": [
+      "Siam",
+      "Chit Lom",
+      "Phloen Chit",
+      "National Stadium",
+      "Ratchadamri"
+    ],
+    "bang-rak": [
+      "Sala Daeng",
+      "Chong Nonsi",
+      "Saint Louis"
+    ],
+    "sathon": [
+      "Chong Nonsi",
+      "Surasak",
+      "Saphan Taksin",
+      "Saint Louis"
+    ],
+    "watthana": [
+      "Asok",
+      "Phrom Phong",
+      "Thong Lo",
+      "Ekkamai",
+      "Nana"
+    ],
+    "khlong-toei": [
+      "Nana",
+      "Asok"
+    ],
+    "phra-khanong": [
+      "Bang Chak",
+      "Punnawithi"
+    ],
+    "bang-na": [
+      "Bang Na",
+      "Bearing",
+      "Udom Suk"
+    ],
+    "chatuchak": [
+      "Mo Chit",
+      "Ha Yaek Lat Phrao"
+    ],
+    "phaya-thai": [
+      "Ari",
+      "Sanam Pao",
+      "Saphan Khwai"
+    ],
+    "ratchathewi": [
+      "Phaya Thai",
+      "Ratchathewi"
+    ],
+    "lat-phrao": [
+      "Ha Yaek Lat Phrao"
+    ],
+    "bang-khen": [
+      "Kasetsart University",
+      "Bang Bua"
+    ],
+    "sai-mai": [],
+    "khlong-san": [
+      "Krung Thon Buri"
+    ],
+    "thon-buri": [
+      "Wongwian Yai",
+      "Pho Nimit",
+      "Talat Phlu",
+      "Wutthakat"
+    ],
+    "phasi-charoen": [
+      "Bang Wa"
+    ],
+    "bang-phlat": [],
+    "bangkok-noi": [],
+    "bangkok-yai": [],
+    "yan-nawa": [],
+    "bang-kho-laem": [],
+    "rat-burana": [],
+    "chom-thong": [],
+    "bang-khun-thian": [],
+    "bang-bon": [],
+    "bang-khae": [],
+    "nong-khaem": [],
+    "taling-chan": [],
+    "thawi-watthana": [],
+    "thung-khru": [],
+    "huai-khwang": [],
+    "din-daeng": [],
+    "dusit": [],
+    "bang-sue": [],
+    "pom-prap-sattru-phai": [],
+    "phra-nakhon": [],
+    "samphanthawong": [],
+    "bang-kapi": [],
+    "bueng-kum": [],
+    "saphan-sung": [],
+    "khan-na-yao": [],
+    "wang-thonglang": [],
+    "lat-krabang": [],
+    "min-buri": [],
+    "nong-chok": [],
+    "khlong-sam-wa": [],
+    "prawet": [],
+    "suan-luang": [],
+    "don-mueang": [],
+    "lak-si": []
+  },
+  "mrt_by_district": {
+    "pathum-wan": [
+      "Sam Yan",
+      "Si Lom"
+    ],
+    "bang-rak": [
+      "Si Lom",
+      "Sam Yan"
+    ],
+    "sathon": [
+      "Si Lom",
+      "Lumphini"
+    ],
+    "watthana": [
+      "Sukhumvit",
+      "Phetchaburi"
+    ],
+    "khlong-toei": [
+      "Sukhumvit",
+      "Queen Sirikit National Convention Centre",
+      "Khlong Toei"
+    ],
+    "huai-khwang": [
+      "Huai Khwang",
+      "Thailand Cultural Centre",
+      "Phra Ram 9"
+    ],
+    "din-daeng": [
+      "Phra Ram 9",
+      "Thailand Cultural Centre",
+      "Huai Khwang",
+      "Sutthisan",
+      "Ratchadaphisek"
+    ],
+    "chatuchak": [
+      "Chatuchak Park",
+      "Phahon Yothin",
+      "Lat Phrao"
+    ],
+    "bang-sue": [
+      "Bang Sue",
+      "Tao Poon"
+    ],
+    "bang-kapi": [
+      "Lam Sali"
+    ],
+    "lat-phrao": [
+      "Lat Phrao",
+      "Chok Chai 4"
+    ],
+    "ratchathewi": [
+      "Phetchaburi",
+      "Phaya Thai (interchange area)"
+    ],
+    "phaya-thai": [
+      "Bang Sue (district edge)"
+    ],
+    "phasi-charoen": [
+      "Bang Wa",
+      "Phasi Charoen",
+      "Bang Phai"
+    ],
+    "bang-khae": [
+      "Bang Khae",
+      "Lak Song"
+    ],
+    "thon-buri": [
+      "Tha Phra",
+      "Itsaraphap"
+    ],
+    "bangkok-yai": [
+      "Tha Phra",
+      "Itsaraphap"
+    ],
+    "bangkok-noi": [
+      "Siriraj",
+      "Fai Chai"
+    ],
+    "bang-phlat": [
+      "Bang Phlat",
+      "Bang O"
+    ],
+    "yan-nawa": [
+      "Khlong Toei",
+      "Lumphini"
+    ],
+    "bang-kho-laem": [],
+    "rat-burana": [],
+    "chom-thong": [],
+    "bang-khun-thian": [],
+    "bang-bon": [],
+    "nong-khaem": [],
+    "taling-chan": [],
+    "thawi-watthana": [],
+    "thung-khru": [],
+    "khlong-san": [],
+    "dusit": [],
+    "pom-prap-sattru-phai": [
+      "Hua Lamphong"
+    ],
+    "phra-nakhon": [
+      "Sanam Chai"
+    ],
+    "samphanthawong": [
+      "Wat Mangkon",
+      "Hua Lamphong"
+    ],
+    "bueng-kum": [],
+    "saphan-sung": [],
+    "khan-na-yao": [],
+    "wang-thonglang": [
+      "Chok Chai 4",
+      "Lat Phrao 71",
+      "Lat Phrao 83",
+      "Mahat Thai"
+    ],
+    "lat-krabang": [],
+    "min-buri": [],
+    "nong-chok": [],
+    "khlong-sam-wa": [],
+    "prawet": [],
+    "suan-luang": [],
+    "don-mueang": [],
+    "lak-si": [],
+    "sai-mai": [],
+    "bang-khen": [],
+    "bang-na": [],
+    "phra-khanong": []
+  },
+  "schools": {
+    "pathum-wan": [
+      {
+        "en": "Chulalongkorn University",
+        "th": "จุฬาลงกรณ์มหาวิทยาลัย",
+        "url": "https://www.chula.ac.th/"
+      }
+    ],
+    "phra-nakhon": [
+      {
+        "en": "Thammasat University (Tha Prachan)",
+        "th": "มหาวิทยาลัยธรรมศาสตร์ (ท่าพระจันทร์)",
+        "url": "https://tu.ac.th/"
+      }
+    ],
+    "bangkok-noi": [
+      {
+        "en": "Mahidol University — Siriraj Campus",
+        "th": "มหาวิทยาลัยมหิดล ศิริราช",
+        "url": "https://mahidol.ac.th/"
+      }
+    ],
+    "bang-kapi": [
+      {
+        "en": "Ramkhamhaeng University",
+        "th": "มหาวิทยาลัยรามคำแหง",
+        "url": "https://www.ru.ac.th/"
+      }
+    ],
+    "chatuchak": [
+      {
+        "en": "Kasetsart University (Bangkhen vicinity / Chatuchak area campuses cited on district pages)",
+        "th": "มหาวิทยาลัยเกษตรศาสตร์",
+        "url": "https://www.ku.ac.th/"
+      }
+    ],
+    "bang-khen": [
+      {
+        "en": "Kasetsart University",
+        "th": "มหาวิทยาลัยเกษตรศาสตร์",
+        "url": "https://www.ku.ac.th/"
+      }
+    ],
+    "lat-krabang": [
+      {
+        "en": "King Mongkut's Institute of Technology Ladkrabang",
+        "th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+        "url": "https://www.kmitl.ac.th/"
+      }
+    ],
+    "suan-luang": [
+      {
+        "en": "Srinakharinwirot University (Prasarnmit — nearby Pathum Wan/Watthana corridor; district package lists SWU Ongkharak separately only if sourced — using district wiki shopping/education notes via RU Hua Mak campus area for Bang Kapi instead)",
+        "th": "—",
+        "url": "https://en.wikipedia.org/wiki/Suan_Luang_district"
+      }
+    ],
+    "watthana": [
+      {
+        "en": "Srinakharinwirot University Prasarnmit (adjacent Pathum Wan/Watthana education corridor cited in area sources)",
+        "th": "มหาวิทยาลัยศรีนครินทรวิโรฒ ประสานมิตร",
+        "url": "https://www.swu.ac.th/"
+      }
+    ],
+    "ratchathewi": [
+      {
+        "en": "Mahidol University — Phyathai / Ratchathewi hospital campuses corridor",
+        "th": "มหิดล (ราชเทวี)",
+        "url": "https://mahidol.ac.th/"
+      }
+    ],
+    "don-mueang": [
+      {
+        "en": "Aviation / Don Mueang education corridor (district Wikipedia)",
+        "th": "ดอนเมือง",
+        "url": "https://en.wikipedia.org/wiki/Don_Mueang_district"
+      }
+    ],
+    "lak-si": [
+      {
+        "en": "Sripatum University",
+        "th": "มหาวิทยาลัยศรีปทุม",
+        "url": "https://www.spu.ac.th/"
+      }
+    ],
+    "bang-na": [
+      {
+        "en": "Assumption University (Suvarnabhumi campus is Samut Prakan; Bang Na district wiki lists local schools — Bang Na Trail / district page)",
+        "th": "บางนา",
+        "url": "https://en.wikipedia.org/wiki/Bang_Na_district"
+      }
+    ],
+    "phaya-thai": [
+      {
+        "en": "Phramongkutklao College of Medicine",
+        "th": "วิทยาลัยแพทยศาสตร์พระมงกุฎเกล้า",
+        "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+      }
+    ],
+    "dusit": [
+      {
+        "en": "Suan Sunandha Rajabhat University",
+        "th": "มหาวิทยาลัยราชภัฏสวนสุนันทา",
+        "url": "https://ssru.ac.th/"
+      }
+    ],
+    "bang-sue": [
+      {
+        "en": "Bang Sue district schools (district Wikipedia)",
+        "th": "บางซื่อ",
+        "url": "https://en.wikipedia.org/wiki/Bang_Sue_district"
+      }
+    ],
+    "sathon": [
+      {
+        "en": "Saint Louis College / Saint Louis School corridor",
+        "th": "เซนต์หลุยส์",
+        "url": "https://en.wikipedia.org/wiki/Sathon_district"
+      }
+    ],
+    "bang-rak": [
+      {
+        "en": "Assumption Convent / Bang Rak historic school corridor",
+        "th": "บางรัก",
+        "url": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+      }
+    ],
+    "khlong-toei": [
+      {
+        "en": "Khlong Toei district schools (district Wikipedia)",
+        "th": "คลองเตย",
+        "url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+      }
+    ],
+    "phra-khanong": [
+      {
+        "en": "Wells International School — On Nut Campus",
+        "th": "Wells International School On Nut",
+        "url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+      },
+      {
+        "en": "Anglo Singapore International School — Campus 64",
+        "th": "Anglo Singapore International School Campus 64",
+        "url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+      }
+    ],
+    "yan-nawa": [
+      {
+        "en": "Nonsi Witthaya School",
+        "th": "โรงเรียนนนทรีวิทยา",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      }
+    ],
+    "bang-kho-laem": [
+      {
+        "en": "Bang Kho Laem district schools (district Wikipedia)",
+        "th": "บางคอแหลม",
+        "url": "https://en.wikipedia.org/wiki/Bang_Kho_Laem_district"
+      }
+    ],
+    "rat-burana": [
+      {
+        "en": "Rat Burana district schools (district Wikipedia)",
+        "th": "ราษฎร์บูรณะ",
+        "url": "https://en.wikipedia.org/wiki/Rat_Burana_district"
+      }
+    ],
+    "thon-buri": [
+      {
+        "en": "Thon Buri district schools (district Wikipedia)",
+        "th": "ธนบุรี",
+        "url": "https://en.wikipedia.org/wiki/Thon_Buri_district"
+      }
+    ],
+    "bangkok-yai": [
+      {
+        "en": "Bangkok Yai district schools (district Wikipedia)",
+        "th": "บางกอกใหญ่",
+        "url": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+      }
+    ],
+    "khlong-san": [
+      {
+        "en": "Khlong San district schools (district Wikipedia)",
+        "th": "คลองสาน",
+        "url": "https://en.wikipedia.org/wiki/Khlong_San_district"
+      }
+    ],
+    "chom-thong": [
+      {
+        "en": "Chom Thong district schools (district Wikipedia)",
+        "th": "จอมทอง",
+        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district,_Bangkok"
+      }
+    ],
+    "phasi-charoen": [
+      {
+        "en": "Phasi Charoen district schools (district Wikipedia)",
+        "th": "ภาษีเจริญ",
+        "url": "https://en.wikipedia.org/wiki/Phasi_Charoen_district"
+      }
+    ],
+    "bang-khae": [
+      {
+        "en": "Bang Khae district schools (district Wikipedia)",
+        "th": "บางแค",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khae_district"
+      }
+    ],
+    "nong-khaem": [
+      {
+        "en": "Nong Khaem district schools (district Wikipedia)",
+        "th": "หนองแขม",
+        "url": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
+      }
+    ],
+    "bang-khun-thian": [
+      {
+        "en": "Bang Khun Thian district schools (district Wikipedia)",
+        "th": "บางขุนเทียน",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khun_Thian_district"
+      }
+    ],
+    "bang-bon": [
+      {
+        "en": "Sarasas Witaed Bangbon School",
+        "th": "โรงเรียนสารสาสน์วิเทศบางบอน",
+        "url": "https://en.wikipedia.org/wiki/Bang_Bon_district"
+      }
+    ],
+    "taling-chan": [
+      {
+        "en": "Taling Chan district schools (district Wikipedia)",
+        "th": "ตลิ่งชัน",
+        "url": "https://en.wikipedia.org/wiki/Taling_Chan_district"
+      }
+    ],
+    "thawi-watthana": [
+      {
+        "en": "Thawi Watthana district schools (district Wikipedia)",
+        "th": "ทวีวัฒนา",
+        "url": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
+      }
+    ],
+    "thung-khru": [
+      {
+        "en": "Thung Khru district schools (district Wikipedia)",
+        "th": "ทุ่งครุ",
+        "url": "https://en.wikipedia.org/wiki/Thung_Khru_district"
+      }
+    ],
+    "bang-phlat": [
+      {
+        "en": "Bang Phlat district schools (district Wikipedia)",
+        "th": "บางพลัด",
+        "url": "https://en.wikipedia.org/wiki/Bang_Phlat_district"
+      }
+    ],
+    "din-daeng": [
+      {
+        "en": "University of the Thai Chamber of Commerce",
+        "th": "มหาวิทยาลัยหอการค้าไทย",
+        "url": "https://www.utcc.ac.th/"
+      },
+      {
+        "en": "Surasakmontree School",
+        "th": "โรงเรียนสุรศักดิ์มนตรี",
+        "url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+      }
+    ],
+    "pom-prap-sattru-phai": [
+      {
+        "en": "Pom Prap Sattru Phai district schools (district Wikipedia)",
+        "th": "ป้อมปราบศัตรูพ่าย",
+        "url": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district"
+      }
+    ],
+    "samphanthawong": [
+      {
+        "en": "Samphanthawong district schools (district Wikipedia)",
+        "th": "สัมพันธวงศ์",
+        "url": "https://en.wikipedia.org/wiki/Samphanthawong_district"
+      }
+    ],
+    "bueng-kum": [
+      {
+        "en": "Bueng Kum district schools (district Wikipedia)",
+        "th": "บึงกุ่ม",
+        "url": "https://en.wikipedia.org/wiki/Bueng_Kum_district"
+      }
+    ],
+    "saphan-sung": [
+      {
+        "en": "Saphan Sung district schools (district Wikipedia)",
+        "th": "สะพานสูง",
+        "url": "https://en.wikipedia.org/wiki/Saphan_Sung_district"
+      }
+    ],
+    "khan-na-yao": [
+      {
+        "en": "Khan Na Yao district schools (district Wikipedia)",
+        "th": "คันนายาว",
+        "url": "https://en.wikipedia.org/wiki/Khan_Na_Yao_district"
+      }
+    ],
+    "wang-thonglang": [
+      {
+        "en": "Bodindecha (Sing Singhaseni) School",
+        "th": "โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี)",
+        "url": "https://en.wikipedia.org/wiki/Wang_Thonglang_district"
+      },
+      {
+        "en": "Lycée Français International de Bangkok",
+        "th": "โรงเรียนฝรั่งเศสนานาชาติแห่งกรุงเทพฯ",
+        "url": "https://en.wikipedia.org/wiki/Wang_Thonglang_district"
+      }
+    ],
+    "lat-phrao": [
+      {
+        "en": "Lat Phrao district schools (district Wikipedia)",
+        "th": "ลาดพร้าว",
+        "url": "https://en.wikipedia.org/wiki/Lat_Phrao_district"
+      }
+    ],
+    "min-buri": [
+      {
+        "en": "Min Buri district schools (district Wikipedia)",
+        "th": "มีนบุรี",
+        "url": "https://en.wikipedia.org/wiki/Min_Buri_district"
+      }
+    ],
+    "nong-chok": [
+      {
+        "en": "Nong Chok district schools (district Wikipedia)",
+        "th": "หนองจอก",
+        "url": "https://en.wikipedia.org/wiki/Nong_Chok_district"
+      }
+    ],
+    "khlong-sam-wa": [
+      {
+        "en": "Khlong Sam Wa district schools (district Wikipedia)",
+        "th": "คลองสามวา",
+        "url": "https://en.wikipedia.org/wiki/Khlong_Sam_Wa_district"
+      }
+    ],
+    "prawet": [
+      {
+        "en": "Prawet district schools (district Wikipedia)",
+        "th": "ประเวศ",
+        "url": "https://en.wikipedia.org/wiki/Prawet_district"
+      }
+    ],
+    "sai-mai": [
+      {
+        "en": "Sai Mai district schools (district Wikipedia)",
+        "th": "สายไหม",
+        "url": "https://en.wikipedia.org/wiki/Sai_Mai_district"
+      }
+    ]
+  },
+  "hospitals": {
+    "watthana": [
+      {
+        "en": "Bumrungrad International Hospital",
+        "th": "โรงพยาบาลบำรุงราษฎร์",
+        "url": "https://www.bumrungrad.com/"
+      },
+      {
+        "en": "Samitivej Sukhumvit Hospital",
+        "th": "โรงพยาบาลสมิติเวช สุขุมวิท",
+        "url": "https://www.samitivejhospitals.com/"
+      }
+    ],
+    "huai-khwang": [
+      {
+        "en": "Bangkok Hospital",
+        "th": "โรงพยาบาลกรุงเทพ",
+        "url": "https://www.bangkokhospital.com/"
+      }
+    ],
+    "ratchathewi": [
+      {
+        "en": "Ramathibodi Hospital",
+        "th": "โรงพยาบาลรามาธิบดี",
+        "url": "https://www.rama.mahidol.ac.th/"
+      },
+      {
+        "en": "Phramongkutklao Hospital",
+        "th": "โรงพยาบาลพระมงกุฎเกล้า",
+        "url": "https://en.wikipedia.org/wiki/Phramongkutklao_Hospital"
+      }
+    ],
+    "pathum-wan": [
+      {
+        "en": "King Chulalongkorn Memorial Hospital",
+        "th": "โรงพยาบาลจุฬาลงกรณ์",
+        "url": "https://chulalongkornhospital.go.th/"
+      }
+    ],
+    "bangkok-noi": [
+      {
+        "en": "Siriraj Hospital",
+        "th": "โรงพยาบาลศิริราช",
+        "url": "https://www.si.mahidol.ac.th/"
+      }
+    ],
+    "phaya-thai": [
+      {
+        "en": "Phyathai 2 Hospital",
+        "th": "โรงพยาบาลพญาไท 2",
+        "url": "https://www.phyathai.com/"
+      }
+    ],
+    "bang-kapi": [
+      {
+        "en": "Ramkhamhaeng Hospital",
+        "th": "โรงพยาบาลรามคำแหง",
+        "url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+      }
+    ],
+    "lat-krabang": [
+      {
+        "en": "Lat Krabang Hospital / district health facilities (district Wikipedia)",
+        "th": "ลาดกระบัง",
+        "url": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
+      }
+    ],
+    "don-mueang": [
+      {
+        "en": "Bhumibol Adulyadej Hospital",
+        "th": "โรงพยาบาลภูมิพลอดุลยเดช",
+        "url": "https://en.wikipedia.org/wiki/Bhumibol_Adulyadej_Hospital"
+      }
+    ],
+    "bang-na": [
+      {
+        "en": "Bang Na Hospital / district health facilities (district Wikipedia)",
+        "th": "บางนา",
+        "url": "https://en.wikipedia.org/wiki/Bang_Na_district"
+      }
+    ],
+    "khlong-toei": [
+      {
+        "en": "Queen Sirikit National Institute of Child Health corridor / district health (district Wikipedia)",
+        "th": "คลองเตย",
+        "url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+      }
+    ],
+    "sathon": [
+      {
+        "en": "Bangkok Christian Hospital",
+        "th": "โรงพยาบาลกรุงเทพคริสเตียน",
+        "url": "https://en.wikipedia.org/wiki/Sathon_district"
+      }
+    ],
+    "bang-rak": [
+      {
+        "en": "Bang Rak district hospitals (district Wikipedia)",
+        "th": "บางรัก",
+        "url": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+      }
+    ],
+    "chatuchak": [
+      {
+        "en": "Paolo Hospital Phaholyothin / Chatuchak health corridor",
+        "th": "จตุจักร",
+        "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
+      }
+    ],
+    "din-daeng": [
+      {
+        "en": "Din Daeng district hospitals (district Wikipedia)",
+        "th": "ดินแดง",
+        "url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+      }
+    ],
+    "dusit": [
+      {
+        "en": "Vajira Hospital",
+        "th": "โรงพยาบาลวชิรพยาบาล",
+        "url": "https://www.vajira.ac.th/"
+      }
+    ],
+    "bang-sue": [
+      {
+        "en": "Bang Sue district hospitals (district Wikipedia)",
+        "th": "บางซื่อ",
+        "url": "https://en.wikipedia.org/wiki/Bang_Sue_district"
+      }
+    ],
+    "phra-nakhon": [
+      {
+        "en": "Phra Nakhon district hospitals (district Wikipedia)",
+        "th": "พระนคร",
+        "url": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+      }
+    ],
+    "pom-prap-sattru-phai": [
+      {
+        "en": "Pom Prap Sattru Phai district hospitals (district Wikipedia)",
+        "th": "ป้อมปราบศัตรูพ่าย",
+        "url": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district"
+      }
+    ],
+    "samphanthawong": [
+      {
+        "en": "Samphanthawong district hospitals (district Wikipedia)",
+        "th": "สัมพันธวงศ์",
+        "url": "https://en.wikipedia.org/wiki/Samphanthawong_district"
+      }
+    ],
+    "phra-khanong": [
+      {
+        "en": "Phra Khanong district hospitals (district Wikipedia)",
+        "th": "พระโขนง",
+        "url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+      }
+    ],
+    "yan-nawa": [
+      {
+        "en": "Yan Nawa district hospitals (district Wikipedia)",
+        "th": "ยานนาวา",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      }
+    ],
+    "bang-kho-laem": [
+      {
+        "en": "Bang Kho Laem district hospitals (district Wikipedia)",
+        "th": "บางคอแหลม",
+        "url": "https://en.wikipedia.org/wiki/Bang_Kho_Laem_district"
+      }
+    ],
+    "rat-burana": [
+      {
+        "en": "Rat Burana district hospitals (district Wikipedia)",
+        "th": "ราษฎร์บูรณะ",
+        "url": "https://en.wikipedia.org/wiki/Rat_Burana_district"
+      }
+    ],
+    "thon-buri": [
+      {
+        "en": "Thon Buri Hospital",
+        "th": "โรงพยาบาลธนบุรี",
+        "url": "https://en.wikipedia.org/wiki/Thon_Buri_district"
+      }
+    ],
+    "bangkok-yai": [
+      {
+        "en": "Bangkok Yai district hospitals (district Wikipedia)",
+        "th": "บางกอกใหญ่",
+        "url": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+      }
+    ],
+    "khlong-san": [
+      {
+        "en": "Khlong San district hospitals (district Wikipedia)",
+        "th": "คลองสาน",
+        "url": "https://en.wikipedia.org/wiki/Khlong_San_district"
+      }
+    ],
+    "chom-thong": [
+      {
+        "en": "Chom Thong district hospitals (district Wikipedia)",
+        "th": "จอมทอง",
+        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district,_Bangkok"
+      }
+    ],
+    "phasi-charoen": [
+      {
+        "en": "Phasi Charoen Hospital",
+        "th": "โรงพยาบาลภาษีเจริญ",
+        "url": "https://en.wikipedia.org/wiki/Phasi_Charoen_district"
+      }
+    ],
+    "bang-khae": [
+      {
+        "en": "Bang Khae district hospitals (district Wikipedia)",
+        "th": "บางแค",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khae_district"
+      }
+    ],
+    "nong-khaem": [
+      {
+        "en": "Nong Khaem district hospitals (district Wikipedia)",
+        "th": "หนองแขม",
+        "url": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
+      }
+    ],
+    "bang-khun-thian": [
+      {
+        "en": "Bang Khun Thian district hospitals (district Wikipedia)",
+        "th": "บางขุนเทียน",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khun_Thian_district"
+      }
+    ],
+    "bang-bon": [
+      {
+        "en": "Bang Bon district hospitals (district Wikipedia)",
+        "th": "บางบอน",
+        "url": "https://en.wikipedia.org/wiki/Bang_Bon_district"
+      }
+    ],
+    "taling-chan": [
+      {
+        "en": "Taling Chan district hospitals (district Wikipedia)",
+        "th": "ตลิ่งชัน",
+        "url": "https://en.wikipedia.org/wiki/Taling_Chan_district"
+      }
+    ],
+    "thawi-watthana": [
+      {
+        "en": "Thawi Watthana district hospitals (district Wikipedia)",
+        "th": "ทวีวัฒนา",
+        "url": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
+      }
+    ],
+    "thung-khru": [
+      {
+        "en": "Thung Khru district hospitals (district Wikipedia)",
+        "th": "ทุ่งครุ",
+        "url": "https://en.wikipedia.org/wiki/Thung_Khru_district"
+      }
+    ],
+    "bang-phlat": [
+      {
+        "en": "Bang Phlat district hospitals (district Wikipedia)",
+        "th": "บางพลัด",
+        "url": "https://en.wikipedia.org/wiki/Bang_Phlat_district"
+      }
+    ],
+    "bang-khen": [
+      {
+        "en": "Bang Khen district hospitals (district Wikipedia)",
+        "th": "บางเขน",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khen_district"
+      }
+    ],
+    "lak-si": [
+      {
+        "en": "Lak Si district hospitals (district Wikipedia)",
+        "th": "หลักสี่",
+        "url": "https://en.wikipedia.org/wiki/Lak_Si_district"
+      }
+    ],
+    "sai-mai": [
+      {
+        "en": "Sai Mai district hospitals (district Wikipedia)",
+        "th": "สายไหม",
+        "url": "https://en.wikipedia.org/wiki/Sai_Mai_district"
+      }
+    ],
+    "bueng-kum": [
+      {
+        "en": "Bueng Kum district hospitals (district Wikipedia)",
+        "th": "บึงกุ่ม",
+        "url": "https://en.wikipedia.org/wiki/Bueng_Kum_district"
+      }
+    ],
+    "saphan-sung": [
+      {
+        "en": "Saphan Sung district hospitals (district Wikipedia)",
+        "th": "สะพานสูง",
+        "url": "https://en.wikipedia.org/wiki/Saphan_Sung_district"
+      }
+    ],
+    "khan-na-yao": [
+      {
+        "en": "Khan Na Yao district hospitals (district Wikipedia)",
+        "th": "คันนายาว",
+        "url": "https://en.wikipedia.org/wiki/Khan_Na_Yao_district"
+      }
+    ],
+    "wang-thonglang": [
+      {
+        "en": "Wang Thonglang district hospitals (district Wikipedia)",
+        "th": "วังทองหลาง",
+        "url": "https://en.wikipedia.org/wiki/Wang_Thonglang_district"
+      }
+    ],
+    "lat-phrao": [
+      {
+        "en": "Lat Phrao district hospitals (district Wikipedia)",
+        "th": "ลาดพร้าว",
+        "url": "https://en.wikipedia.org/wiki/Lat_Phrao_district"
+      }
+    ],
+    "min-buri": [
+      {
+        "en": "Min Buri Hospital",
+        "th": "โรงพยาบาลมีนบุรี",
+        "url": "https://en.wikipedia.org/wiki/Min_Buri_district"
+      }
+    ],
+    "nong-chok": [
+      {
+        "en": "Nong Chok district hospitals (district Wikipedia)",
+        "th": "หนองจอก",
+        "url": "https://en.wikipedia.org/wiki/Nong_Chok_district"
+      }
+    ],
+    "khlong-sam-wa": [
+      {
+        "en": "Khlong Sam Wa district hospitals (district Wikipedia)",
+        "th": "คลองสามวา",
+        "url": "https://en.wikipedia.org/wiki/Khlong_Sam_Wa_district"
+      }
+    ],
+    "prawet": [
+      {
+        "en": "Prawet district hospitals (district Wikipedia)",
+        "th": "ประเวศ",
+        "url": "https://en.wikipedia.org/wiki/Prawet_district"
+      }
+    ],
+    "suan-luang": [
+      {
+        "en": "Suan Luang district hospitals (district Wikipedia)",
+        "th": "สวนหลวง",
+        "url": "https://en.wikipedia.org/wiki/Suan_Luang_district"
+      }
+    ]
+  },
+  "shopping": {
+    "pathum-wan": [
+      {
+        "en": "Siam Paragon",
+        "th": "สยามพารากอน",
+        "url": "https://www.siamparagon.co.th/"
+      },
+      {
+        "en": "CentralWorld",
+        "th": "เซ็นทรัลเวิลด์",
+        "url": "https://www.centralworld.co.th/"
+      }
+    ],
+    "watthana": [
+      {
+        "en": "EmQuartier",
+        "th": "เอ็มควอเทียร์",
+        "url": "https://www.emquartier.co.th/"
+      },
+      {
+        "en": "Terminal 21 Asok",
+        "th": "เทอร์มินอล 21 อโศก",
+        "url": "https://www.terminal21.co.th/"
+      }
+    ],
+    "khlong-san": [
+      {
+        "en": "ICONSIAM",
+        "th": "ไอคอนสยาม",
+        "url": "https://www.iconsiam.com/"
+      }
+    ],
+    "chatuchak": [
+      {
+        "en": "Chatuchak Weekend Market",
+        "th": "ตลาดนัดจตุจักร",
+        "url": "https://en.wikipedia.org/wiki/Chatuchak_Weekend_Market"
+      }
+    ],
+    "bang-kapi": [
+      {
+        "en": "The Mall Bang Kapi",
+        "th": "เดอะมอลล์ บางกะปิ",
+        "url": "https://en.wikipedia.org/wiki/The_Mall_Group"
+      }
+    ],
+    "bang-na": [
+      {
+        "en": "Central Bangna",
+        "th": "เซ็นทรัล บางนา",
+        "url": "https://www.central.co.th/"
+      }
+    ],
+    "huai-khwang": [
+      {
+        "en": "Central Rama 9",
+        "th": "เซ็นทรัล พระราม 9",
+        "url": "https://www.central.co.th/"
+      }
+    ],
+    "ratchathewi": [
+      {
+        "en": "MBK Center / Pratunam retail corridor (adjacent Pathum Wan–Ratchathewi)",
+        "th": "มาบุญครอง",
+        "url": "https://www.mbk-center.co.th/"
+      }
+    ],
+    "sathon": [
+      {
+        "en": "Sathon business retail podium corridor",
+        "th": "สาทร",
+        "url": "https://en.wikipedia.org/wiki/Sathon_district"
+      }
+    ],
+    "bang-rak": [
+      {
+        "en": "Silom–Bang Rak retail corridor",
+        "th": "สีลม",
+        "url": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+      }
+    ],
+    "khlong-toei": [
+      {
+        "en": "Khlong Toei Market",
+        "th": "ตลาดคลองเตย",
+        "url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+      }
+    ],
+    "phra-khanong": [
+      {
+        "en": "Phra Khanong / On Nut retail corridor",
+        "th": "พระโขนง",
+        "url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+      }
+    ],
+    "bang-khae": [
+      {
+        "en": "The Mall Bang Khae",
+        "th": "เดอะมอลล์ บางแค",
+        "url": "https://en.wikipedia.org/wiki/The_Mall_Group"
+      }
+    ],
+    "phasi-charoen": [
+      {
+        "en": "Central Plaza Rama 2 (Phasi Charoen vicinity cited on district pages)",
+        "th": "เซ็นทรัล พระราม 2",
+        "url": "https://en.wikipedia.org/wiki/Phasi_Charoen_district"
+      }
+    ],
+    "lat-krabang": [
+      {
+        "en": "Lat Krabang retail / Airport Link corridor markets",
+        "th": "ลาดกระบัง",
+        "url": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
+      }
+    ],
+    "min-buri": [
+      {
+        "en": "Min Buri Market",
+        "th": "ตลาดมีนบุรี",
+        "url": "https://en.wikipedia.org/wiki/Min_Buri_district"
+      }
+    ],
+    "don-mueang": [
+      {
+        "en": "Don Mueang Airport retail / district markets",
+        "th": "ดอนเมือง",
+        "url": "https://en.wikipedia.org/wiki/Don_Mueang_district"
+      }
+    ],
+    "lak-si": [
+      {
+        "en": "IT Square Lak Si",
+        "th": "ไอทีสแควร์ หลักสี่",
+        "url": "https://en.wikipedia.org/wiki/Lak_Si_district"
+      }
+    ],
+    "bang-khen": [
+      {
+        "en": "Major Cineplex Ratchayothin / Bang Khen retail",
+        "th": "บางเขน",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khen_district"
+      }
+    ],
+    "lat-phrao": [
+      {
+        "en": "Central Lat Phrao",
+        "th": "เซ็นทรัล ลาดพร้าว",
+        "url": "https://www.central.co.th/"
+      }
+    ],
+    "wang-thonglang": [
+      {
+        "en": "Chok Chai 4 Market",
+        "th": "ตลาดโชคชัย 4",
+        "url": "https://en.wikipedia.org/wiki/Wang_Thonglang_district"
+      },
+      {
+        "en": "Golden Place",
+        "th": "โกลเด้นเพลซ",
+        "url": "https://en.wikipedia.org/wiki/Wang_Thonglang_district"
+      }
+    ],
+    "bueng-kum": [
+      {
+        "en": "Bueng Kum retail corridor",
+        "th": "บึงกุ่ม",
+        "url": "https://en.wikipedia.org/wiki/Bueng_Kum_district"
+      }
+    ],
+    "saphan-sung": [
+      {
+        "en": "Saphan Sung retail corridor",
+        "th": "สะพานสูง",
+        "url": "https://en.wikipedia.org/wiki/Saphan_Sung_district"
+      }
+    ],
+    "khan-na-yao": [
+      {
+        "en": "Fashion Island",
+        "th": "แฟชั่นไอส์แลนด์",
+        "url": "https://en.wikipedia.org/wiki/Fashion_Island_(Bangkok)"
+      }
+    ],
+    "prawet": [
+      {
+        "en": "Prawet retail corridor",
+        "th": "ประเวศ",
+        "url": "https://en.wikipedia.org/wiki/Prawet_district"
+      }
+    ],
+    "suan-luang": [
+      {
+        "en": "Suan Luang / Phatthanakan retail corridor",
+        "th": "สวนหลวง",
+        "url": "https://en.wikipedia.org/wiki/Suan_Luang_district"
+      }
+    ],
+    "nong-chok": [
+      {
+        "en": "Nong Chok Market",
+        "th": "ตลาดหนองจอก",
+        "url": "https://en.wikipedia.org/wiki/Nong_Chok_district"
+      }
+    ],
+    "khlong-sam-wa": [
+      {
+        "en": "Khlong Sam Wa retail corridor",
+        "th": "คลองสามวา",
+        "url": "https://en.wikipedia.org/wiki/Khlong_Sam_Wa_district"
+      }
+    ],
+    "sai-mai": [
+      {
+        "en": "Sai Mai retail corridor",
+        "th": "สายไหม",
+        "url": "https://en.wikipedia.org/wiki/Sai_Mai_district"
+      }
+    ],
+    "din-daeng": [
+      {
+        "en": "The Esplanade",
+        "th": "เอสพลานาด",
+        "url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+      },
+      {
+        "en": "Fortune Town",
+        "th": "ฟอร์จูนทาวน์",
+        "url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+      },
+      {
+        "en": "Rot Fai Night Market (Ratchada)",
+        "th": "ตลาดนัดรถไฟ รัชดา",
+        "url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+      }
+    ],
+    "phaya-thai": [
+      {
+        "en": "Phaya Thai / Ari retail corridor",
+        "th": "พญาไท",
+        "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+      }
+    ],
+    "dusit": [
+      {
+        "en": "Dusit retail / Thewet market corridor",
+        "th": "ดุสิต",
+        "url": "https://en.wikipedia.org/wiki/Dusit_district"
+      }
+    ],
+    "bang-sue": [
+      {
+        "en": "Bang Sue Grand Station retail",
+        "th": "บางซื่อ",
+        "url": "https://en.wikipedia.org/wiki/Bang_Sue_district"
+      }
+    ],
+    "phra-nakhon": [
+      {
+        "en": "Khao San / Phra Nakhon retail corridor",
+        "th": "พระนคร",
+        "url": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+      }
+    ],
+    "pom-prap-sattru-phai": [
+      {
+        "en": "Bobae Market",
+        "th": "ตลาดโบ๊เบ๊",
+        "url": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district"
+      }
+    ],
+    "samphanthawong": [
+      {
+        "en": "Yaowarat (Chinatown) retail",
+        "th": "เยาวราช",
+        "url": "https://en.wikipedia.org/wiki/Samphanthawong_district"
+      }
+    ],
+    "yan-nawa": [
+      {
+        "en": "Central Plaza Rama III",
+        "th": "เซ็นทรัลพลาซา พระราม 3",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      },
+      {
+        "en": "Lotus's Rama III",
+        "th": "โลตัส พระราม 3",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      }
+    ],
+    "bang-kho-laem": [
+      {
+        "en": "Bang Kho Laem retail corridor",
+        "th": "บางคอแหลม",
+        "url": "https://en.wikipedia.org/wiki/Bang_Kho_Laem_district"
+      }
+    ],
+    "rat-burana": [
+      {
+        "en": "Rat Burana retail corridor",
+        "th": "ราษฎร์บูรณะ",
+        "url": "https://en.wikipedia.org/wiki/Rat_Burana_district"
+      }
+    ],
+    "thon-buri": [
+      {
+        "en": "Wongwian Yai / Thon Buri retail",
+        "th": "ธนบุรี",
+        "url": "https://en.wikipedia.org/wiki/Thon_Buri_district"
+      }
+    ],
+    "bangkok-yai": [
+      {
+        "en": "Bangkok Yai retail corridor",
+        "th": "บางกอกใหญ่",
+        "url": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+      }
+    ],
+    "bangkok-noi": [
+      {
+        "en": "Bangkok Noi / Wang Lang market corridor",
+        "th": "บางกอกน้อย",
+        "url": "https://en.wikipedia.org/wiki/Bangkok_Noi_district"
+      }
+    ],
+    "chom-thong": [
+      {
+        "en": "Chom Thong retail corridor",
+        "th": "จอมทอง",
+        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district,_Bangkok"
+      }
+    ],
+    "nong-khaem": [
+      {
+        "en": "Nong Khaem retail corridor",
+        "th": "หนองแขม",
+        "url": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
+      }
+    ],
+    "bang-khun-thian": [
+      {
+        "en": "Central Rama 2 / Bang Khun Thian retail",
+        "th": "บางขุนเทียน",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khun_Thian_district"
+      }
+    ],
+    "bang-bon": [
+      {
+        "en": "Bang Bon retail corridor",
+        "th": "บางบอน",
+        "url": "https://en.wikipedia.org/wiki/Bang_Bon_district"
+      }
+    ],
+    "taling-chan": [
+      {
+        "en": "Taling Chan floating market corridor",
+        "th": "ตลิ่งชัน",
+        "url": "https://en.wikipedia.org/wiki/Taling_Chan_district"
+      }
+    ],
+    "thawi-watthana": [
+      {
+        "en": "Thawi Watthana retail corridor",
+        "th": "ทวีวัฒนา",
+        "url": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
+      }
+    ],
+    "thung-khru": [
+      {
+        "en": "Thung Khru retail corridor",
+        "th": "ทุ่งครุ",
+        "url": "https://en.wikipedia.org/wiki/Thung_Khru_district"
+      }
+    ],
+    "bang-phlat": [
+      {
+        "en": "Bang Phlat retail corridor",
+        "th": "บางพลัด",
+        "url": "https://en.wikipedia.org/wiki/Bang_Phlat_district"
+      }
+    ]
+  },
+  "parks": {
+    "pathum-wan": [
+      {
+        "en": "Lumphini Park",
+        "th": "สวนลุมพินี",
+        "url": "https://en.wikipedia.org/wiki/Lumphini_Park"
+      }
+    ],
+    "sathon": [
+      {
+        "en": "Lumphini Park (south/west edge)",
+        "th": "สวนลุมพินี",
+        "url": "https://en.wikipedia.org/wiki/Lumphini_Park"
+      }
+    ],
+    "chatuchak": [
+      {
+        "en": "Chatuchak Park",
+        "th": "สวนจตุจักร",
+        "url": "https://en.wikipedia.org/wiki/Chatuchak_Park"
+      }
+    ],
+    "watthana": [
+      {
+        "en": "Benjakitti Forest Park",
+        "th": "สวนเบญจกิติ",
+        "url": "https://en.wikipedia.org/wiki/Benjakitti_Park"
+      }
+    ],
+    "khlong-toei": [
+      {
+        "en": "Benjakitti Forest Park",
+        "th": "สวนเบญจกิติ",
+        "url": "https://en.wikipedia.org/wiki/Benjakitti_Park"
+      }
+    ],
+    "prawet": [
+      {
+        "en": "Suan Luang Rama IX Park",
+        "th": "สวนหลวง ร.9",
+        "url": "https://en.wikipedia.org/wiki/Suan_Luang_Rama_IX_Park"
+      }
+    ],
+    "suan-luang": [
+      {
+        "en": "Suan Luang Rama IX Park",
+        "th": "สวนหลวง ร.9",
+        "url": "https://en.wikipedia.org/wiki/Suan_Luang_Rama_IX_Park"
+      }
+    ],
+    "bang-kapi": [
+      {
+        "en": "Ramkhamhaeng University green / Hua Mak park spaces",
+        "th": "บางกะปิ",
+        "url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+      }
+    ],
+    "phra-nakhon": [
+      {
+        "en": "Sanam Luang",
+        "th": "สนามหลวง",
+        "url": "https://en.wikipedia.org/wiki/Sanam_Luang"
+      }
+    ],
+    "dusit": [
+      {
+        "en": "Dusit Zoo / Dusit Palace garden corridor (historic)",
+        "th": "ดุสิต",
+        "url": "https://en.wikipedia.org/wiki/Dusit_district"
+      }
+    ],
+    "bang-khen": [
+      {
+        "en": "Wacharaphon Park / Bang Khen green spaces",
+        "th": "บางเขน",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khen_district"
+      }
+    ],
+    "lat-krabang": [
+      {
+        "en": "Lat Krabang district parks (district Wikipedia)",
+        "th": "ลาดกระบัง",
+        "url": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
+      }
+    ],
+    "min-buri": [
+      {
+        "en": "Min Buri district parks (district Wikipedia)",
+        "th": "มีนบุรี",
+        "url": "https://en.wikipedia.org/wiki/Min_Buri_district"
+      }
+    ],
+    "nong-chok": [
+      {
+        "en": "Nong Chok district parks (district Wikipedia)",
+        "th": "หนองจอก",
+        "url": "https://en.wikipedia.org/wiki/Nong_Chok_district"
+      }
+    ],
+    "khlong-sam-wa": [
+      {
+        "en": "Khlong Sam Wa district parks (district Wikipedia)",
+        "th": "คลองสามวา",
+        "url": "https://en.wikipedia.org/wiki/Khlong_Sam_Wa_district"
+      }
+    ],
+    "sai-mai": [
+      {
+        "en": "Sai Mai district parks (district Wikipedia)",
+        "th": "สายไหม",
+        "url": "https://en.wikipedia.org/wiki/Sai_Mai_district"
+      }
+    ],
+    "don-mueang": [
+      {
+        "en": "Don Mueang district parks (district Wikipedia)",
+        "th": "ดอนเมือง",
+        "url": "https://en.wikipedia.org/wiki/Don_Mueang_district"
+      }
+    ],
+    "lak-si": [
+      {
+        "en": "Lak Si district parks (district Wikipedia)",
+        "th": "หลักสี่",
+        "url": "https://en.wikipedia.org/wiki/Lak_Si_district"
+      }
+    ],
+    "bang-na": [
+      {
+        "en": "Bang Na district parks (district Wikipedia)",
+        "th": "บางนา",
+        "url": "https://en.wikipedia.org/wiki/Bang_Na_district"
+      }
+    ],
+    "phra-khanong": [
+      {
+        "en": "Phra Khanong district parks (district Wikipedia)",
+        "th": "พระโขนง",
+        "url": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+      }
+    ],
+    "yan-nawa": [
+      {
+        "en": "Yan Nawa district parks (district Wikipedia)",
+        "th": "ยานนาวา",
+        "url": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+      }
+    ],
+    "bang-kho-laem": [
+      {
+        "en": "Bang Kho Laem district parks (district Wikipedia)",
+        "th": "บางคอแหลม",
+        "url": "https://en.wikipedia.org/wiki/Bang_Kho_Laem_district"
+      }
+    ],
+    "rat-burana": [
+      {
+        "en": "Rat Burana district parks (district Wikipedia)",
+        "th": "ราษฎร์บูรณะ",
+        "url": "https://en.wikipedia.org/wiki/Rat_Burana_district"
+      }
+    ],
+    "thon-buri": [
+      {
+        "en": "Thon Buri district parks (district Wikipedia)",
+        "th": "ธนบุรี",
+        "url": "https://en.wikipedia.org/wiki/Thon_Buri_district"
+      }
+    ],
+    "bangkok-yai": [
+      {
+        "en": "Bangkok Yai district parks (district Wikipedia)",
+        "th": "บางกอกใหญ่",
+        "url": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+      }
+    ],
+    "bangkok-noi": [
+      {
+        "en": "Bangkok Noi district parks (district Wikipedia)",
+        "th": "บางกอกน้อย",
+        "url": "https://en.wikipedia.org/wiki/Bangkok_Noi_district"
+      }
+    ],
+    "khlong-san": [
+      {
+        "en": "Khlong San district parks (district Wikipedia)",
+        "th": "คลองสาน",
+        "url": "https://en.wikipedia.org/wiki/Khlong_San_district"
+      }
+    ],
+    "chom-thong": [
+      {
+        "en": "Chom Thong district parks (district Wikipedia)",
+        "th": "จอมทอง",
+        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district,_Bangkok"
+      }
+    ],
+    "phasi-charoen": [
+      {
+        "en": "Phasi Charoen district parks (district Wikipedia)",
+        "th": "ภาษีเจริญ",
+        "url": "https://en.wikipedia.org/wiki/Phasi_Charoen_district"
+      }
+    ],
+    "bang-khae": [
+      {
+        "en": "Bang Khae district parks (district Wikipedia)",
+        "th": "บางแค",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khae_district"
+      }
+    ],
+    "nong-khaem": [
+      {
+        "en": "Nong Khaem district parks (district Wikipedia)",
+        "th": "หนองแขม",
+        "url": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
+      }
+    ],
+    "bang-khun-thian": [
+      {
+        "en": "Bang Khun Thian district parks (district Wikipedia)",
+        "th": "บางขุนเทียน",
+        "url": "https://en.wikipedia.org/wiki/Bang_Khun_Thian_district"
+      }
+    ],
+    "bang-bon": [
+      {
+        "en": "7th Cycle Birthday Anniversary Park (9 Hills Park)",
+        "th": "สวนเฉลิมพระเกียรติ 9 เนิน",
+        "url": "https://en.wikipedia.org/wiki/Bang_Bon_district"
+      }
+    ],
+    "taling-chan": [
+      {
+        "en": "Taling Chan district parks (district Wikipedia)",
+        "th": "ตลิ่งชัน",
+        "url": "https://en.wikipedia.org/wiki/Taling_Chan_district"
+      }
+    ],
+    "thawi-watthana": [
+      {
+        "en": "Thawi Watthana district parks (district Wikipedia)",
+        "th": "ทวีวัฒนา",
+        "url": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
+      }
+    ],
+    "thung-khru": [
+      {
+        "en": "Thung Khru district parks (district Wikipedia)",
+        "th": "ทุ่งครุ",
+        "url": "https://en.wikipedia.org/wiki/Thung_Khru_district"
+      }
+    ],
+    "bang-phlat": [
+      {
+        "en": "Bang Phlat district parks (district Wikipedia)",
+        "th": "บางพลัด",
+        "url": "https://en.wikipedia.org/wiki/Bang_Phlat_district"
+      }
+    ],
+    "huai-khwang": [
+      {
+        "en": "Huai Khwang district parks (district Wikipedia)",
+        "th": "ห้วยขวาง",
+        "url": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+      }
+    ],
+    "din-daeng": [
+      {
+        "en": "Vibhavadi Rangsit Forest Park",
+        "th": "สวนป่าวิภาวดีรังสิต",
+        "url": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+      }
+    ],
+    "ratchathewi": [
+      {
+        "en": "Ratchathewi district parks (district Wikipedia)",
+        "th": "ราชเทวี",
+        "url": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+      }
+    ],
+    "phaya-thai": [
+      {
+        "en": "Phaya Thai district parks (district Wikipedia)",
+        "th": "พญาไท",
+        "url": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+      }
+    ],
+    "bang-sue": [
+      {
+        "en": "Bang Sue district parks (district Wikipedia)",
+        "th": "บางซื่อ",
+        "url": "https://en.wikipedia.org/wiki/Bang_Sue_district"
+      }
+    ],
+    "bang-rak": [
+      {
+        "en": "Bang Rak district parks (district Wikipedia)",
+        "th": "บางรัก",
+        "url": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+      }
+    ],
+    "pom-prap-sattru-phai": [
+      {
+        "en": "Pom Prap Sattru Phai district parks (district Wikipedia)",
+        "th": "ป้อมปราบศัตรูพ่าย",
+        "url": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district"
+      }
+    ],
+    "samphanthawong": [
+      {
+        "en": "Samphanthawong district parks (district Wikipedia)",
+        "th": "สัมพันธวงศ์",
+        "url": "https://en.wikipedia.org/wiki/Samphanthawong_district"
+      }
+    ],
+    "bueng-kum": [
+      {
+        "en": "Bueng Kum district parks (district Wikipedia)",
+        "th": "บึงกุ่ม",
+        "url": "https://en.wikipedia.org/wiki/Bueng_Kum_district"
+      }
+    ],
+    "saphan-sung": [
+      {
+        "en": "Saphan Sung district parks (district Wikipedia)",
+        "th": "สะพานสูง",
+        "url": "https://en.wikipedia.org/wiki/Saphan_Sung_district"
+      }
+    ],
+    "khan-na-yao": [
+      {
+        "en": "Khan Na Yao district parks (district Wikipedia)",
+        "th": "คันนายาว",
+        "url": "https://en.wikipedia.org/wiki/Khan_Na_Yao_district"
+      }
+    ],
+    "wang-thonglang": [
+      {
+        "en": "Wang Thonglang district parks (district Wikipedia)",
+        "th": "วังทองหลาง",
+        "url": "https://en.wikipedia.org/wiki/Wang_Thonglang_district"
+      }
+    ],
+    "lat-phrao": [
+      {
+        "en": "Lat Phrao district parks (district Wikipedia)",
+        "th": "ลาดพร้าว",
+        "url": "https://en.wikipedia.org/wiki/Lat_Phrao_district"
+      }
+    ]
+  }
+}

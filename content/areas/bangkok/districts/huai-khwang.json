@@ -53,10 +53,56 @@
     "longitude": 100.578,
     "khwaeng_count": 3
   },
-  "transportation": [],
+  "transportation": [
+    {
+      "name": {
+        "en": "MRT — Huai Khwang",
+        "zh": "MRT — Huai Khwang",
+        "th": "MRT — Huai Khwang"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Thailand Cultural Centre",
+        "zh": "MRT — Thailand Cultural Centre",
+        "th": "MRT — Thailand Cultural Centre"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "MRT — Phra Ram 9",
+        "zh": "MRT — Phra Ram 9",
+        "th": "MRT — Phra Ram 9"
+      },
+      "mode": "mrt",
+      "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+    }
+  ],
   "schools": [],
-  "hospitals": [],
-  "shopping": [],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Bangkok Hospital",
+        "zh": "Bangkok Hospital",
+        "th": "โรงพยาบาลกรุงเทพ"
+      },
+      "source_url": "https://www.bangkokhospital.com/"
+    }
+  ],
+  "shopping": [
+    {
+      "name": {
+        "en": "Central Rama 9",
+        "zh": "Central Rama 9",
+        "th": "เซ็นทรัล พระราม 9"
+      },
+      "source_url": "https://www.central.co.th/"
+    }
+  ],
   "investment_summary": {
     "en": "Huai Khwang is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "辉煌为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
@@ -70,5 +116,79 @@
     "maestro-03-ratchada-rama-9",
     "noble-revolve-ratchada",
     "singha-complex"
-  ]
+  ],
+  "parks": [],
+  "field_evidence": {
+    "bts": {
+      "field": "bts",
+      "evidence_class": "OFFICIAL_ABSENCE",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": true
+    },
+    "mrt": {
+      "field": "mrt",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_transit_line_map",
+        "url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "schools": {
+      "field": "schools",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    },
+    "hospitals": {
+      "field": "hospitals",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "shopping": {
+      "field": "shopping",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": true,
+      "absence_verified": false
+    },
+    "parks": {
+      "field": "parks",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "wikipedia_or_official_institution",
+        "url": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+      },
+      "verified_at": "2026-07-16",
+      "present": false,
+      "absence_verified": false
+    }
+  },
+  "district_master": {
+    "phase": "10-sprint-4",
+    "verified_at": "2026-07-16",
+    "rule": "named_pois_only_plus_verified_transit_absence"
+  }
 }
