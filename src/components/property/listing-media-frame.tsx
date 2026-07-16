@@ -52,7 +52,9 @@ export function ListingMediaFrame({
             alt={title}
             width={640}
             height={400}
+            sizes="(max-width: 640px) 100vw, (max-width: 1280px) 50vw, 420px"
             loading={priority ? "eager" : "lazy"}
+            fetchPriority={priority ? "high" : "auto"}
             decoding="async"
             className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]"
           />

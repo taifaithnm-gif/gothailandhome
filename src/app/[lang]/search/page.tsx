@@ -22,6 +22,10 @@ export async function generateMetadata({
     title: dict.meta.searchTitle,
     description: dict.meta.searchDescription,
     path: "/search",
+    robots: {
+      index: false,
+      follow: true,
+    },
   });
 }
 

@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 
 import { DeveloperCenter } from "@/components/developer/developer-center";
+import { JsonLd } from "@/components/seo/json-ld";
 import { Breadcrumb } from "@/components/ui/breadcrumb";
 import { isLocale, type Locale } from "@/config/locales";
 import {
@@ -23,6 +24,10 @@ import {
 import { getDeveloperPackageFacts } from "@/lib/developers/package-facts";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
+import {
+  breadcrumbListSchema,
+  developerSchema,
+} from "@/lib/seo/schema";
 
 export const revalidate = 60;
 
@@ -38,6 +43,7 @@ export async function generateMetadata({
     title: developer.seoTitle[lang],
     description: developer.seoDescription[lang],
     path: `/developers/${slug}`,
+    image: developer.logoUrl,
   });
 }
 
@@ -136,6 +142,24 @@ export default async function DeveloperDetailPage({
 
   return (
     <>
+      <JsonLd
+        data={[
+          developerSchema({
+            locale,
+            developer,
+            name: developer.name[locale] || developer.name.en,
+            description:
+              developer.seoDescription[locale] ||
+              developer.description[locale] ||
+              developer.description.en,
+          }),
+          breadcrumbListSchema(locale, [
+            { name: dict.nav.home, path: "/" },
+            { name: dict.nav.developers, path: "/developers" },
+            { name: developer.name[locale] || developer.name.en },
+          ]),
+        ]}
+      />
       <div className="ds-container bg-[var(--brand-canvas)] pt-6">
         <Breadcrumb
           items={[

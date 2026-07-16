@@ -143,6 +143,7 @@ export function PropertyCard({
           <Link
             href={localePath(locale, `/properties/${property.slug}`)}
             className="min-h-11 min-w-[5rem] text-sm font-medium text-[var(--brand)] underline-offset-4 transition hover:underline"
+            aria-label={`${dict.common.viewProperty}: ${property.title[locale]}`}
           >
             {dict.common.viewProperty}
           </Link>

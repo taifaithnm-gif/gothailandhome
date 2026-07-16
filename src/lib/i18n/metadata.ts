@@ -9,7 +9,12 @@ type BuildMetadataInput = {
   title: string;
   description: string;
   path?: string;
+  /** Absolute URL or site-relative path. Defaults to branded OG card. */
+  image?: string | null;
+  robots?: Metadata["robots"];
 };
+
+const DEFAULT_OG_IMAGE = "/og/default.svg";
 
 export function localePath(locale: Locale, path = ""): string {
   const normalized = path.startsWith("/") ? path : path ? `/${path}` : "";
@@ -20,19 +25,33 @@ export function absoluteUrl(locale: Locale, path = ""): string {
   return `${siteConfig.url}${localePath(locale, path)}`;
 }
 
+function resolveOgImage(image?: string | null) {
+  const path = image?.trim() || DEFAULT_OG_IMAGE;
+  return {
+    url: path,
+    width: 1200,
+    height: 630,
+    alt: siteConfig.name,
+  };
+}
+
 export function buildPageMetadata({
   locale,
   title,
   description,
   path = "",
+  image,
+  robots,
 }: BuildMetadataInput): Metadata {
   const url = absoluteUrl(locale, path);
+  const ogImage = resolveOgImage(image);
 
   return {
     title: {
       absolute: title,
     },
     description,
+    ...(robots ? { robots } : {}),
     alternates: {
       canonical: url,
       languages: {
@@ -52,11 +71,13 @@ export function buildPageMetadata({
       alternateLocale: Object.values(localeOpenGraph).filter(
         (value) => value !== localeOpenGraph[locale],
       ),
+      images: [ogImage],
     },
     twitter: {
       card: "summary_large_image",
       title,
       description,
+      images: [ogImage.url],
     },
   };
 }

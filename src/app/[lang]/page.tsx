@@ -8,6 +8,7 @@ import {
 } from "@/components/marketplace/contact-blocks";
 import { MarketplaceEntryGrid } from "@/components/marketplace/marketplace-entry-grid";
 import { PropertyGrid } from "@/components/property/property-grid";
+import { JsonLd } from "@/components/seo/json-ld";
 import { buttonVariants } from "@/components/ui/button";
 import {
   DeveloperCardShell,
@@ -24,6 +25,7 @@ import { listPublishedProjects } from "@/lib/data/projects";
 import { listPublishedPropertiesPaged } from "@/lib/data/properties";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
+import { organizationSchema, websiteSchema } from "@/lib/seo/schema";
 import { cn } from "@/lib/utils";
 
 export const revalidate = 60;
@@ -102,6 +104,7 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
 
   return (
     <>
+      <JsonLd data={[organizationSchema(lang), websiteSchema(lang)]} />
       {/* 1–2. Hero + Search */}
       <section className="relative overflow-hidden border-b border-[var(--brand-line)]">
         <div

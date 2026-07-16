@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="GoThailandHome">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#063d38"/>
+      <stop offset="55%" stop-color="#0a5c54"/>
+      <stop offset="100%" stop-color="#c9a227"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <text x="80" y="320" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">GoThailandHome</text>
+  <text x="80" y="390" fill="#f4e7c8" font-family="system-ui, sans-serif" font-size="28">Bangkok property marketplace</text>
+</svg>

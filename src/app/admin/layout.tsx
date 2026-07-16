@@ -1,9 +1,19 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 
 import { logoutAdmin } from "@/app/admin/actions";
 import { getOptionalAdmin } from "@/lib/auth/admin";
 
 export const dynamic = "force-dynamic";
+
+export const metadata: Metadata = {
+  title: "Admin | GoThailandHome",
+  robots: {
+    index: false,
+    follow: false,
+    googleBot: { index: false, follow: false },
+  },
+};
 
 export default async function AdminLayout({
   children,

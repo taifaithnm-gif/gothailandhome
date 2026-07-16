@@ -15,7 +15,6 @@ const staticPaths = [
   "/projects",
   "/cities",
   "/developers",
-  "/search",
   "/about",
   "/contact",
   "/marketplace",

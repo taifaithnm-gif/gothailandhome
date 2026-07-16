@@ -14,6 +14,7 @@ import {
 import { ProjectLeadForm } from "@/components/projects/project-lead-form";
 import { ListingMediaFrame } from "@/components/property/listing-media-frame";
 import { PropertyGrid } from "@/components/property/property-grid";
+import { JsonLd } from "@/components/seo/json-ld";
 import { Badge, VerificationBadge } from "@/components/ui/badge";
 import { Breadcrumb } from "@/components/ui/breadcrumb";
 import { ProjectCardShell, SurfaceCard } from "@/components/ui/card";
@@ -56,6 +57,11 @@ import {
   poiDisplayName,
   type ProjectFacilityZone,
 } from "@/lib/projects/normalize-project-content";
+import {
+  breadcrumbListSchema,
+  projectFaqSchema,
+  projectSchema,
+} from "@/lib/seo/schema";
 
 export const revalidate = 60;
 
@@ -577,6 +583,28 @@ export default async function ProjectLandingPage({
 
   return (
     <div className="bg-[var(--brand-canvas)]" data-slot="project-center">
+      <JsonLd
+        data={[
+          projectSchema({
+            locale,
+            project,
+            name: project.name[locale] || project.name.en,
+            description:
+              project.seoDescription[locale] ||
+              project.description[locale] ||
+              project.description.en,
+          }),
+          breadcrumbListSchema(locale, [
+            { name: dict.nav.home, path: "/" },
+            { name: dict.nav.projects, path: "/projects" },
+            { name: project.name[locale] || project.name.en },
+          ]),
+          ...(() => {
+            const faq = projectFaqSchema(locale, project);
+            return faq ? [faq] : [];
+          })(),
+        ]}
+      />
       <AdsTrackingPlaceholders
         pagePath={`/projects/${slug}`}
         projectSlug={slug}
@@ -688,8 +716,10 @@ export default async function ProjectLandingPage({
                   src={project.heroImagePath!}
                   alt={project.name[locale] || project.name.en}
                   fill
+                  sizes="(max-width: 1024px) 100vw, 560px"
                   className="object-cover"
                   priority
+                  fetchPriority="high"
                   unoptimized
                 />
               </div>

@@ -5,6 +5,7 @@ import { PageShell } from "@/components/layout/page-shell";
 import { ListingContactCard } from "@/components/property/listing-contact-card";
 import { ListingGallery } from "@/components/property/listing-gallery";
 import { PropertyGrid } from "@/components/property/property-grid";
+import { JsonLd } from "@/components/seo/json-ld";
 import { Badge, SourceBadge } from "@/components/ui/badge";
 import {
   ProjectCardShell,
@@ -31,6 +32,10 @@ import {
   poiDisplayName,
   type ProjectPoi,
 } from "@/lib/projects/normalize-project-content";
+import {
+  breadcrumbListSchema,
+  listingSchema,
+} from "@/lib/seo/schema";
 
 export const revalidate = 60;
 
@@ -44,15 +49,19 @@ export async function generateMetadata({
   if (!property) return {};
 
   const dict = await getDictionary(lang);
+  const title = fillTemplate(dict.meta.propertyDetailTitle, {
+    title: property.title[lang],
+  });
+  const description = fillTemplate(dict.meta.propertyDetailDescription, {
+    summary: property.summary[lang],
+  });
+
   return buildPageMetadata({
     locale: lang,
-    title: fillTemplate(dict.meta.propertyDetailTitle, {
-      title: property.title[lang],
-    }),
-    description: fillTemplate(dict.meta.propertyDetailDescription, {
-      summary: property.summary[lang],
-    }),
+    title,
+    description,
     path: `/properties/${property.slug}`,
+    image: property.coverUrl,
   });
 }
 
@@ -263,6 +272,21 @@ export default async function PropertyDetailPage({
         property.summary[lang]
       }
     >
+      <JsonLd
+        data={[
+          listingSchema({
+            locale: lang,
+            property,
+            name: property.title[lang],
+            description: property.summary[lang] || property.description[lang],
+          }),
+          breadcrumbListSchema(lang, [
+            { name: dict.nav.home, path: "/" },
+            { name: dict.nav.properties, path: "/properties" },
+            { name: property.title[lang] },
+          ]),
+        ]}
+      />
       <div className="grid min-h-[40rem] gap-8 lg:grid-cols-[1.45fr_0.9fr]">
         <div className="space-y-10">
           {/* 1. Gallery */}

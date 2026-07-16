@@ -9,6 +9,7 @@ import {
   SearchTrustDisclosure,
 } from "@/components/listings/search-results-chrome";
 import { PropertyGrid } from "@/components/property/property-grid";
+import { JsonLd } from "@/components/seo/json-ld";
 import { buttonVariants } from "@/components/ui/button";
 import { EmptyState, ErrorState } from "@/components/ui/states";
 import { isLocale } from "@/config/locales";
@@ -27,6 +28,7 @@ import {
   parseListingSearchParams,
   toListingFilterValues,
 } from "@/lib/search/listing-search-state";
+import { collectionPageSchema } from "@/lib/seo/schema";
 import { cn } from "@/lib/utils";
 
 export const revalidate = 60;
@@ -118,6 +120,14 @@ export default async function PropertiesPage({
       title={dict.properties.title}
       subtitle={dict.properties.subtitle}
     >
+      <JsonLd
+        data={collectionPageSchema({
+          locale: lang,
+          name: dict.meta.propertiesTitle,
+          description: dict.meta.propertiesDescription,
+          path: "/properties",
+        })}
+      />
       <div className="mb-6 space-y-4">
         <SearchTrustDisclosure dict={dict} />
         <ListingFilters

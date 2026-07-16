@@ -1,50 +1,46 @@
 # SEO_REPORT
 
-**Milestone:** Phase 6 — M2 Bangkok Property Factory
-**Date:** 2026-07-14
-**Policy:** SEO derived only from real, sourced facts (name, district, sourced specs)
+**Milestone:** Phase 9 M5 — SEO + Performance Polish  
+**Date:** 2026-07-16  
+**Scope:** Homepage · Search · Listing (properties index + detail) · Project · Developer · District  
+**Policy:** Titles, meta, OG, canonical, and schema derived only from real sourced fields. No invented facts, yields, or logos.
 
-## STEP 5 field status (honest audit)
+## Surface checklist
 
-| SEO field (STEP 5) | Status | Where |
-|--------------------|--------|-------|
-| Title (EN/ZH/TH) | ✅ | Project `seo.title`, district `seo.title`, app `generateMetadata` |
-| Description (EN/ZH/TH) | ✅ | Project/district `seo.description`; app metadata |
-| Slug | ✅ | Project/district/developer slugs (canonical, URL-safe) |
-| OpenGraph | ✅ | Next.js `metadata.openGraph` in `src/app/layout.tsx` + project page; OG images via `projectOpenGraphImages()` |
-| FAQ | ✅ (partial) | 33/50 project manifests carry sourced EN/ZH/TH FAQ |
-| Internal Links | ✅ | developer→project (`project_slugs`), project→district (`location.district_slug`), district→nearby_projects |
-| **Keywords** | ❌ gap | No `seo.keywords` field in project or district packages |
-| **Schema.org JSON-LD** | ❌ gap | No `application/ld+json` emitted anywhere in `src/` |
+| Surface | Title | Meta | Canonical + hreflang | Open Graph | Schema.org JSON-LD | Images |
+|---------|-------|------|----------------------|------------|--------------------|--------|
+| Homepage `/[lang]` | ✅ dict | ✅ dict | ✅ | ✅ default `/og/default.svg` | ✅ `Organization` + `WebSite` (+ SearchAction → `/properties`) | Default OG card |
+| Search `/[lang]/search` | ✅ | ✅ (updated copy) | ✅ | ✅ default OG | — (redirect helper) | N/A |
+| Listings `/[lang]/properties` | ✅ | ✅ | ✅ (base path; filters not in canonical) | ✅ default OG | ✅ `CollectionPage` | Card media reserved aspect |
+| Listing detail `/[lang]/properties/[id]` | ✅ template | ✅ summary | ✅ | ✅ cover when present, else default | ✅ `RealEstateListing` + type + `BreadcrumbList` | Cover → OG; gallery LCP priority |
+| Project `/[lang]/projects/[slug]` | ✅ seoTitle | ✅ seoDescription | ✅ | ✅ project OG / placeholder | ✅ `ApartmentComplex` + `BreadcrumbList` + `FAQPage` when FAQ exists | Hero `priority` + `sizes` |
+| Developer `/[lang]/developers/[slug]` | ✅ seoTitle | ✅ seoDescription | ✅ | ✅ logo when present, else default | ✅ `Organization` + `BreadcrumbList` | Logo only if real URL |
+| District `/[lang]/districts/[slug]` | ✅ seoTitle | ✅ seoDescription | ✅ | ✅ default OG | ✅ `AdministrativeArea` + `BreadcrumbList` | No invented district imagery |
 
-## What is real and shipping
+## What changed in M5
 
-- **50/50 Bangkok district SEO packages** are `publish_ready` with complete EN/ZH/TH
-  title + description (`content/areas/bangkok/districts/*.json`).
-- **50/50 project manifests** carry `seo.title` + `seo.description` in EN/ZH/TH,
-  derived from the real project name and district (no invented marketing copy).
-- **OpenGraph** metadata is generated per route by the existing Next.js metadata
-  layer; project OG cards fall back to `/og/projects/placeholder.svg` until a real
-  hero image exists.
-- **FAQ** entries (33 projects) are built strictly from sourced facts — completion
-  year and total units from PropertyHub `projectInfo` — never invented Q&A.
+1. **`buildPageMetadata`** always emits OG + Twitter images (default branded `/og/default.svg`; optional `image` override).
+2. **JSON-LD** via `JsonLd` + `src/lib/seo/schema.ts` on the six in-scope surfaces (Search excluded as noindex redirect).
+3. **Search** marked `robots: noindex, follow` and removed from sitemap; canonical results remain `/properties`.
+4. **`robots.txt`** disallows `/admin`; admin layout metadata is `noindex`.
+5. **Listing OG** uses `coverUrl` when available.
+6. **Search meta copy** no longer says “placeholder listings”.
 
-## Honest gaps (STEP 5 not fully met)
+## Still honest gaps (RC2 prep)
 
-1. **Schema.org JSON-LD is not implemented.** The brief requires JSON-LD; the app
-   currently emits Open Graph and standard metadata but no `@context`/`@type`
-   structured data. Recommended: add `RealEstateListing` / `Residence` +
-   `BreadcrumbList` + `FAQPage` JSON-LD to the project route, sourced from the same
-   manifest fields — no new data required, only serialization.
-2. **No `keywords` field** in packages. Recommended: derive from real tokens
-   (project name, district EN/ZH/TH, developer, transit tags) at generation time.
+| Gap | Status |
+|-----|--------|
+| Root `<html lang>` defaults to `en` (client + wrapper `lang` patch for locales) | Known; avoided `headers()` in root layout to preserve ISR caching |
+| Sitemap listing coverage still capped by PostgREST page size (~1000 / locale) | Unchanged from RC1 |
+| Many listings still lack licence-clean cover media → OG falls back to default card | Expected under media freeze |
+| Project OG often `/og/projects/placeholder.svg` until official hero media | Unchanged policy |
+| Keywords meta not added | Avoided keyword stuffing; tokens remain in titles/descriptions |
 
-These are reported rather than back-filled with speculative keyword stuffing or
-hand-written JSON-LD, to keep every SEO field traceable to a real source.
+## Verification
 
-## Recommended next SEO actions
+- `npm run test:seo-performance` — structural guards for schema builders, JsonLd wiring, OG default, robots/admin, LCP attrs.
+- Manual crawl of live HTML recommended in RC2 for Google Rich Results validation.
 
-1. Implement a `<JsonLd>` server component fed by project/district manifests.
-2. Add `seo.keywords` to the package generator from existing real tokens.
-3. Generate real per-project OG images once licence-clean hero media lands (see
-   `MEDIA_REPORT.md`).
+## RC2 readiness note
+
+M5 closes the P1 structured-data / default-OG / admin-robots holes called out in `SEO_TECHNICAL_AUDIT_REPORT.md` for the Alpha surfaces above. Remaining SEO work for RC2 is operational (sitemap pagination, real media, `html lang` without dynamic root) rather than missing page metadata.
