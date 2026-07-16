@@ -130,17 +130,24 @@
     "whizdom-essence"
   ],
   "logo_source": {
-    "status": "placeholder",
+    "status": "official",
     "path": "/developers/mqdc/logo.svg",
-    "official_logo_url": null,
-    "note": "Placeholder SVG only. Replace with rights-cleared official logo export. Do not treat this glyph as the registered trademark.",
-    "verified_at": "2026-07-15"
+    "official_logo_url": "https://mqdc.com/images/mqdc.webp",
+    "favicon_url": "https://mqdc.com/favicon/favicon.ico",
+    "note": "Remote asset on official developer domain (or official CDN). Local SVG remains a non-trademark fallback glyph; do not treat local SVG as the registered mark.",
+    "verified_at": "2026-07-16",
+    "provenance": {
+      "source_type": "official_developer_website",
+      "url": "https://www.mqdc.com/",
+      "asset_url": "https://mqdc.com/images/mqdc.webp"
+    }
   },
   "established_year_provenance": {
     "source_type": "official_developer_website",
     "url": "https://mqdc.com/about",
-    "evidence": "MILESTONE section heading 1994 on MQDC About page",
-    "verified_at": "2026-07-15"
+    "evidence": "Official About milestones (1994 founding).",
+    "verified_at": "2026-07-16",
+    "evidence_class": "OFFICIAL"
   },
   "headquarters_provenance": {
     "source_type": "official_developer_website",
@@ -150,7 +157,8 @@
   "company_profile_provenance": {
     "source_type": "official_developer_website",
     "url": "https://mqdc.com/about",
-    "verified_at": "2026-07-15"
+    "verified_at": "2026-07-16",
+    "evidence_class": "OFFICIAL"
   },
   "completed_projects": [
     {
@@ -174,17 +182,141 @@
   ],
   "unclassified_projects": [],
   "developer_master": {
-    "phase": "7",
-    "verified_at": "2026-07-15",
-    "rule": "official_developer_websites_only_for_official_fields",
+    "phase": "10-sprint-2",
+    "verified_at": "2026-07-16",
+    "rule": "official_developer_websites_and_set_factsheets_for_official_fields",
     "fields_touched": [
-      "established_year",
-      "established_year_source",
+      "official_website",
+      "official_logo",
+      "favicon",
       "headquarters",
-      "headquarters_source",
+      "established_year",
       "company_profile",
-      "company_profile_source",
-      "official_portfolio_notes"
-    ]
+      "company_history",
+      "corporate_overview",
+      "official_contact_page",
+      "listed_company_code",
+      "official_social_links"
+    ],
+    "sprint": "phase10-sprint-2"
+  },
+  "official_contact_page": "https://mqdc.com/contact",
+  "field_evidence": {
+    "official_website": {
+      "field": "official_website",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.mqdc.com/"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.mqdc.com/"
+    },
+    "official_logo": {
+      "field": "official_logo",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://mqdc.com/images/mqdc.webp"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://mqdc.com/images/mqdc.webp"
+    },
+    "favicon": {
+      "field": "favicon",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://mqdc.com/favicon/favicon.ico"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://mqdc.com/favicon/favicon.ico"
+    },
+    "headquarters": {
+      "field": "headquarters",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://mqdc.com/index.php/well-being/767/dtgo-launches-social-report"
+      },
+      "verified_at": "2026-07-16",
+      "value": "695, Moo 12, Bang Kaeo, Bang Phli, Samut Prakan 10540"
+    },
+    "established_year": {
+      "field": "established_year",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://mqdc.com/about",
+        "evidence": "Official About milestones (1994 founding)."
+      },
+      "verified_at": "2026-07-16",
+      "value": 1994
+    },
+    "company_profile": {
+      "field": "company_profile",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://mqdc.com/about"
+      },
+      "verified_at": "2026-07-16",
+      "value": "MQDC (Magnolia Quality Development Corporation) develops residences and theme projects under the mission “For All Well-Being”, emphasizing research and innovation for sustainable living. Official About page describes more than three decades of development in Thailand."
+    },
+    "company_history": {
+      "field": "company_history",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://mqdc.com/about",
+        "evidence": "Official About milestones (1994 founding)."
+      },
+      "verified_at": "2026-07-16",
+      "value": "Official About milestones (1994 founding)."
+    },
+    "corporate_overview": {
+      "field": "corporate_overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://mqdc.com/about"
+      },
+      "verified_at": "2026-07-16",
+      "value": "MQDC (Magnolia Quality Development Corporation) develops residences and theme projects under the mission “For All Well-Being”, emphasizing research and innovation for sustainable living. Official About page describes more than three decades of development in Thailand."
+    },
+    "official_contact_page": {
+      "field": "official_contact_page",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://mqdc.com/contact"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://mqdc.com/contact"
+    },
+    "listed_company_code": {
+      "field": "listed_company_code",
+      "evidence_class": "NOT_APPLICABLE",
+      "provenance": {
+        "source_type": "not_listed_or_unconfirmed",
+        "url": "https://www.mqdc.com/"
+      },
+      "verified_at": "2026-07-16",
+      "value": null,
+      "note": "Developer not treated as SET-listed in package."
+    },
+    "official_social_links": {
+      "field": "official_social_links",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_package_social",
+        "url": "https://www.facebook.com/mqdc.thailand"
+      },
+      "verified_at": "2026-07-16",
+      "value": {
+        "facebook": "https://www.facebook.com/mqdc.thailand",
+        "website": "https://www.mqdc.com/"
+      }
+    }
   }
 }

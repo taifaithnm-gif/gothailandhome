@@ -95,11 +95,17 @@
     "ascott-embassy-sathorn"
   ],
   "logo_source": {
-    "status": "placeholder",
+    "status": "official",
     "path": "/developers/capitaland-thailand/logo.svg",
-    "official_logo_url": null,
-    "note": "Placeholder SVG only. Replace with rights-cleared official logo export. Do not treat this glyph as the registered trademark.",
-    "verified_at": "2026-07-15"
+    "official_logo_url": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png",
+    "favicon_url": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png",
+    "note": "Remote asset on official developer domain (or official CDN). Local SVG remains a non-trademark fallback glyph; do not treat local SVG as the registered mark.",
+    "verified_at": "2026-07-16",
+    "provenance": {
+      "source_type": "official_developer_website",
+      "url": "https://www.capitaland.com/th/en.html",
+      "asset_url": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png"
+    }
   },
   "headquarters_provenance": {
     "source_type": "package_city_level_or_set_note",
@@ -125,9 +131,139 @@
     }
   ],
   "developer_master": {
-    "phase": "7",
-    "verified_at": "2026-07-15",
-    "rule": "official_developer_websites_only_for_official_fields",
-    "fields_touched": []
+    "phase": "10-sprint-2",
+    "verified_at": "2026-07-16",
+    "rule": "official_developer_websites_and_set_factsheets_for_official_fields",
+    "fields_touched": [
+      "official_website",
+      "official_logo",
+      "favicon",
+      "headquarters",
+      "established_year",
+      "company_profile",
+      "corporate_overview",
+      "company_history",
+      "official_contact_page",
+      "listed_company_code",
+      "official_social_links"
+    ],
+    "sprint": "phase10-sprint-2"
+  },
+  "official_contact_page": null,
+  "field_evidence": {
+    "official_website": {
+      "field": "official_website",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.capitaland.com/th/en.html"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.capitaland.com/th/en.html"
+    },
+    "official_logo": {
+      "field": "official_logo",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png"
+    },
+    "favicon": {
+      "field": "favicon",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png"
+    },
+    "headquarters": {
+      "field": "headquarters",
+      "evidence_class": "PRESENT",
+      "provenance": {
+        "source_type": "package_existing",
+        "url": "https://www.capitaland.com/th/en.html"
+      },
+      "verified_at": "2026-07-16",
+      "value": "Thailand operations (see capitaland.com/th)"
+    },
+    "established_year": {
+      "field": "established_year",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": null
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "company_profile": {
+      "field": "company_profile",
+      "evidence_class": "PRESENT",
+      "provenance": {
+        "source_type": "package_existing",
+        "url": "https://www.capitaland.com/th/en.html"
+      },
+      "verified_at": "2026-07-16",
+      "value": "CapitaLand Thailand pages are published on capitaland.com/th. Parent listing jurisdiction is not asserted here without a Thailand SET factsheet for a local PCL entity."
+    },
+    "corporate_overview": {
+      "field": "corporate_overview",
+      "evidence_class": "PRESENT",
+      "provenance": {
+        "source_type": "package_existing",
+        "url": "https://www.capitaland.com/th/en.html"
+      },
+      "verified_at": "2026-07-16",
+      "value": "CapitaLand Thailand pages are published on capitaland.com/th. Parent listing jurisdiction is not asserted here without a Thailand SET factsheet for a local PCL entity."
+    },
+    "company_history": {
+      "field": "company_history",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": null
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "official_contact_page": {
+      "field": "official_contact_page",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": null,
+        "note": "Prior probe hit homepage or error page; left UNVERIFIED."
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "listed_company_code": {
+      "field": "listed_company_code",
+      "evidence_class": "NOT_APPLICABLE",
+      "provenance": {
+        "source_type": "not_listed_or_unconfirmed",
+        "url": "https://www.capitaland.com/th/en.html"
+      },
+      "verified_at": "2026-07-16",
+      "value": null,
+      "note": "Developer not treated as SET-listed in package."
+    },
+    "official_social_links": {
+      "field": "official_social_links",
+      "evidence_class": "PRESENT",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.capitaland.com/th/en.html"
+      },
+      "verified_at": "2026-07-16",
+      "value": {
+        "website": "https://www.capitaland.com/th/en.html"
+      }
+    }
   }
 }

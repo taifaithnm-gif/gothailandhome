@@ -67,9 +67,11 @@ check("matrix has 20 developers", () => {
   assert.equal(matrix.length, 20);
 });
 
-check("all logos remain PLACEHOLDER (no unofficial promotion)", () => {
+check("logos are OFFICIAL only with remote official_logo_url", () => {
   for (const row of matrix) {
-    assert.equal(row.S_logo_source, "PLACEHOLDER", row.slug);
+    assert.equal(row.S_logo_source, "OFFICIAL", row.slug);
+    assert.ok(row.logo_source, row.slug);
+    assert.match(String(row.logo_source), /^https?:\/\//, row.slug);
   }
 });
 

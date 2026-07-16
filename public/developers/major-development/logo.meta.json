@@ -1,8 +1,10 @@
 {
   "slug": "major-development",
-  "status": "placeholder",
-  "note": "Placeholder SVG only. Replace with rights-cleared official logo export. Do not treat this glyph as the registered trademark.",
+  "status": "official_remote",
+  "note": "Official remote logo/favicon URL recorded. Local SVG is fallback only — not the trademark.",
   "official_website": "https://www.major.co.th/",
+  "official_logo_url": "https://www.major.co.th/favicon.ico",
+  "favicon_url": "https://www.major.co.th/favicon.ico",
   "public_path": "/developers/major-development/logo.svg",
-  "collected_at": "2026-07-14"
+  "collected_at": "2026-07-16"
 }

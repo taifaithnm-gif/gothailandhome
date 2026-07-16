@@ -50,7 +50,7 @@ check("required section ids present", () => {
   assert.ok(src.includes("PlatformCustomerSuccess"));
 });
 
-check("all logo meta remain placeholder (no fake official logos)", () => {
+check("logo meta is official_remote with URL (or placeholder)", () => {
   const dir = join(root, "public/developers");
   const metas = readdirSync(dir, { withFileTypes: true })
     .filter((d) => d.isDirectory())
@@ -59,9 +59,11 @@ check("all logo meta remain placeholder (no fake official logos)", () => {
   assert.ok(metas.length >= 20);
   for (const metaPath of metas) {
     const meta = JSON.parse(readFileSync(metaPath, "utf8"));
-    assert.equal(
-      String(meta.status).toLowerCase(),
-      "placeholder",
+    const status = String(meta.status).toLowerCase();
+    if (status === "placeholder") continue;
+    assert.equal(status, "official_remote", metaPath);
+    assert.ok(
+      meta.official_logo_url && /^https?:\/\//.test(meta.official_logo_url),
       metaPath,
     );
   }

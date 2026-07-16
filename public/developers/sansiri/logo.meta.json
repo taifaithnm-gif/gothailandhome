@@ -1,8 +1,10 @@
 {
   "slug": "sansiri",
-  "status": "placeholder",
-  "note": "Placeholder SVG only. Replace with rights-cleared official logo export. Do not treat this glyph as the registered trademark.",
+  "status": "official_remote",
+  "note": "Official remote logo/favicon URL recorded. Local SVG is fallback only — not the trademark.",
   "official_website": "https://www.sansiri.com/",
+  "official_logo_url": "https://assets.sansiri.com/o77site/social/sansiri-corporate-share-1200x630.jpg",
+  "favicon_url": "https://resource.sansiri.com/sansiri-com-frontend/assets/img/favicon.ico",
   "public_path": "/developers/sansiri/logo.svg",
-  "collected_at": "2026-07-14"
+  "collected_at": "2026-07-16"
 }

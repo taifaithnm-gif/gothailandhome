@@ -42,9 +42,9 @@
   },
   "established_year": 2009,
   "headquarters": {
-    "en": "Bangkok, Thailand",
-    "zh": "泰国曼谷",
-    "th": "กรุงเทพฯ ประเทศไทย"
+    "en": "496 Moo 9, Samrong Nuea, Mueang Samut Prakan, Samut Prakan 10270",
+    "zh": "496 Moo 9, Samrong Nuea, Mueang Samut Prakan, Samut Prakan 10270",
+    "th": "496 Moo 9, Samrong Nuea, Mueang Samut Prakan, Samut Prakan 10270"
   },
   "listed_company": {
     "exchange": "SET",
@@ -102,14 +102,14 @@
     "website": "https://www.origin.co.th/"
   },
   "contact": {
-    "phone": null,
+    "phone": "0-2030-0000",
     "email": null,
     "line": null,
     "whatsapp": null
   },
   "logo_path": "/developers/origin-property/logo.svg",
   "logo_url": "/developers/origin-property/logo.svg",
-  "phone": null,
+  "phone": "0-2030-0000",
   "email": null,
   "seo": {
     "title": {
@@ -134,11 +134,17 @@
     "origin-plug-play-sukhumvit-101"
   ],
   "logo_source": {
-    "status": "placeholder",
+    "status": "official",
     "path": "/developers/origin-property/logo.svg",
-    "official_logo_url": null,
-    "note": "Placeholder SVG only. Replace with rights-cleared official logo export. Do not treat this glyph as the registered trademark.",
-    "verified_at": "2026-07-15"
+    "official_logo_url": "https://origin.co.th/favicon.ico",
+    "favicon_url": "https://origin.co.th/favicon.ico",
+    "note": "Remote asset on official developer domain (or official CDN). Local SVG remains a non-trademark fallback glyph; do not treat local SVG as the registered mark.",
+    "verified_at": "2026-07-16",
+    "provenance": {
+      "source_type": "official_developer_website",
+      "url": "https://www.origin.co.th/",
+      "asset_url": "https://origin.co.th/favicon.ico"
+    }
   },
   "established_year_provenance": {
     "source_type": "set_or_catalog_not_official_website_confirmed",
@@ -147,15 +153,17 @@
     "note": "Present in package; Phase 7 did not confirm this year on the official developer website text."
   },
   "headquarters_provenance": {
-    "source_type": "package_city_level_or_set_note",
-    "verified_at": "2026-07-15",
-    "street_level": false,
-    "note": "City-level or SET-noted HQ in package; confirm on official website before treating as street-level official."
+    "source_type": "set_factsheet",
+    "url": "https://www.set.or.th/en/market/product/stock/quote/ORI/factsheet",
+    "verified_at": "2026-07-16",
+    "evidence_class": "OFFICIAL"
   },
   "company_profile_provenance": {
-    "source_type": "package_existing_prose",
-    "verified_at": "2026-07-15",
-    "note": "Existing profile text may cite SET; Phase 7 did not fully replace from official About page."
+    "source_type": "set_factsheet_and_official_website",
+    "url": "https://www.set.or.th/en/market/product/stock/quote/ORI/factsheet",
+    "secondary_url": "https://www.origin.co.th/",
+    "verified_at": "2026-07-16",
+    "evidence_class": "OFFICIAL"
   },
   "completed_projects": [
     {
@@ -187,9 +195,142 @@
     }
   ],
   "developer_master": {
-    "phase": "7",
-    "verified_at": "2026-07-15",
-    "rule": "official_developer_websites_only_for_official_fields",
-    "fields_touched": []
+    "phase": "10-sprint-2",
+    "verified_at": "2026-07-16",
+    "rule": "official_developer_websites_and_set_factsheets_for_official_fields",
+    "fields_touched": [
+      "official_website",
+      "official_logo",
+      "favicon",
+      "headquarters",
+      "established_year",
+      "company_profile",
+      "corporate_overview",
+      "company_history",
+      "official_contact_page",
+      "listed_company_code",
+      "official_social_links"
+    ],
+    "sprint": "phase10-sprint-2"
+  },
+  "official_contact_page": null,
+  "field_evidence": {
+    "official_website": {
+      "field": "official_website",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.origin.co.th/"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.origin.co.th/"
+    },
+    "official_logo": {
+      "field": "official_logo",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://origin.co.th/favicon.ico"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://origin.co.th/favicon.ico"
+    },
+    "favicon": {
+      "field": "favicon",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://origin.co.th/favicon.ico"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://origin.co.th/favicon.ico"
+    },
+    "headquarters": {
+      "field": "headquarters",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/ORI/factsheet",
+        "evidence": "Company address on SET factsheet"
+      },
+      "verified_at": "2026-07-16",
+      "value": "496 Moo 9, Samrong Nuea, Mueang Samut Prakan, Samut Prakan 10270"
+    },
+    "established_year": {
+      "field": "established_year",
+      "evidence_class": "SET_OR_CATALOG",
+      "provenance": {
+        "source_type": "package_existing",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/ORI/factsheet"
+      },
+      "verified_at": "2026-07-16",
+      "value": 2009
+    },
+    "company_profile": {
+      "field": "company_profile",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet_and_official_website",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/ORI/factsheet",
+        "secondary_url": "https://www.origin.co.th/",
+        "evidence": "Profile retained from package; company identity confirmed via SET factsheet + official website."
+      },
+      "verified_at": "2026-07-16",
+      "value": "Origin Property Public Company Limited develops condominiums and related services. SET factsheet establish date: 2009; ticker ORI."
+    },
+    "corporate_overview": {
+      "field": "corporate_overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet_and_official_website",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/ORI/factsheet",
+        "secondary_url": "https://www.origin.co.th/"
+      },
+      "verified_at": "2026-07-16",
+      "value": "Origin Property Public Company Limited develops condominiums and related services. SET factsheet establish date: 2009; ticker ORI."
+    },
+    "company_history": {
+      "field": "company_history",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": null
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "official_contact_page": {
+      "field": "official_contact_page",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": null
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "listed_company_code": {
+      "field": "listed_company_code",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/ORI/factsheet"
+      },
+      "verified_at": "2026-07-16",
+      "value": "SET:ORI"
+    },
+    "official_social_links": {
+      "field": "official_social_links",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_package_social",
+        "url": "https://www.facebook.com/OriginProperty"
+      },
+      "verified_at": "2026-07-16",
+      "value": {
+        "facebook": "https://www.facebook.com/OriginProperty",
+        "website": "https://www.origin.co.th/"
+      }
+    }
   }
 }

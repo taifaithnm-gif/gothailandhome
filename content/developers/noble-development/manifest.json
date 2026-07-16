@@ -40,11 +40,11 @@
     "zh": "Noble Development Public Company Limited 于 SET 上市，代码 NOBLE。",
     "th": "บริษัท โนเบิล ดีเวลลอปเมนท์ จำกัด (มหาชน) จดทะเบียนใน SET ชื่อย่อ NOBLE"
   },
-  "established_year": null,
+  "established_year": 1991,
   "headquarters": {
-    "en": "Bangkok, Thailand",
-    "zh": "泰国曼谷",
-    "th": "กรุงเทพฯ ประเทศไทย"
+    "en": "Noble Building, 1035 Ploenchit Road, Lumphini, Pathum Wan, Bangkok 10330",
+    "zh": "Noble Building, 1035 Ploenchit Road, Lumphini, Pathum Wan, Bangkok 10330",
+    "th": "Noble Building, 1035 Ploenchit Road, Lumphini, Pathum Wan, Bangkok 10330"
   },
   "listed_company": {
     "exchange": "SET",
@@ -106,14 +106,14 @@
     "website": "https://www.noblehome.com/"
   },
   "contact": {
-    "phone": null,
+    "phone": "0-2251-9955",
     "email": null,
     "line": null,
     "whatsapp": null
   },
   "logo_path": "/developers/noble-development/logo.svg",
   "logo_url": "/developers/noble-development/logo.svg",
-  "phone": null,
+  "phone": "0-2251-9955",
   "email": null,
   "seo": {
     "title": {
@@ -138,22 +138,30 @@
     "noble-revolve-ratchada"
   ],
   "logo_source": {
-    "status": "placeholder",
+    "status": "official",
     "path": "/developers/noble-development/logo.svg",
-    "official_logo_url": null,
-    "note": "Placeholder SVG only. Replace with rights-cleared official logo export. Do not treat this glyph as the registered trademark.",
-    "verified_at": "2026-07-15"
+    "official_logo_url": "https://www.noblehome.com/favicon.ico",
+    "favicon_url": "https://www.noblehome.com/favicon.ico",
+    "note": "Remote asset on official developer domain (or official CDN). Local SVG remains a non-trademark fallback glyph; do not treat local SVG as the registered mark.",
+    "verified_at": "2026-07-16",
+    "provenance": {
+      "source_type": "official_developer_website",
+      "url": "https://www.noblehome.com/",
+      "asset_url": "https://www.noblehome.com/favicon.ico"
+    }
   },
   "headquarters_provenance": {
-    "source_type": "package_city_level_or_set_note",
-    "verified_at": "2026-07-15",
-    "street_level": false,
-    "note": "City-level or SET-noted HQ in package; confirm on official website before treating as street-level official."
+    "source_type": "set_factsheet",
+    "url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet",
+    "verified_at": "2026-07-16",
+    "evidence_class": "OFFICIAL"
   },
   "company_profile_provenance": {
-    "source_type": "package_existing_prose",
-    "verified_at": "2026-07-15",
-    "note": "Existing profile text may cite SET; Phase 7 did not fully replace from official About page."
+    "source_type": "set_factsheet_and_official_website",
+    "url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet",
+    "secondary_url": "https://www.noblehome.com/",
+    "verified_at": "2026-07-16",
+    "evidence_class": "OFFICIAL"
   },
   "completed_projects": [
     {
@@ -185,9 +193,151 @@
     }
   ],
   "developer_master": {
-    "phase": "7",
-    "verified_at": "2026-07-15",
-    "rule": "official_developer_websites_only_for_official_fields",
-    "fields_touched": []
+    "phase": "10-sprint-2",
+    "verified_at": "2026-07-16",
+    "rule": "official_developer_websites_and_set_factsheets_for_official_fields",
+    "fields_touched": [
+      "official_website",
+      "official_logo",
+      "favicon",
+      "headquarters",
+      "established_year",
+      "company_profile",
+      "corporate_overview",
+      "company_history",
+      "official_contact_page",
+      "listed_company_code",
+      "official_social_links"
+    ],
+    "sprint": "phase10-sprint-2"
+  },
+  "established_year_provenance": {
+    "source_type": "set_factsheet",
+    "url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet",
+    "evidence": "SET Establish Date 1991-07-19",
+    "verified_at": "2026-07-16",
+    "evidence_class": "OFFICIAL"
+  },
+  "official_contact_page": "https://www.noblehome.com/contact",
+  "field_evidence": {
+    "official_website": {
+      "field": "official_website",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.noblehome.com/"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.noblehome.com/"
+    },
+    "official_logo": {
+      "field": "official_logo",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.noblehome.com/favicon.ico"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.noblehome.com/favicon.ico"
+    },
+    "favicon": {
+      "field": "favicon",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.noblehome.com/favicon.ico"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.noblehome.com/favicon.ico"
+    },
+    "headquarters": {
+      "field": "headquarters",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet",
+        "evidence": "Company address on SET factsheet"
+      },
+      "verified_at": "2026-07-16",
+      "value": "Noble Building, 1035 Ploenchit Road, Lumphini, Pathum Wan, Bangkok 10330"
+    },
+    "established_year": {
+      "field": "established_year",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet",
+        "evidence": "SET Establish Date 1991-07-19"
+      },
+      "verified_at": "2026-07-16",
+      "value": 1991
+    },
+    "company_profile": {
+      "field": "company_profile",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet_and_official_website",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet",
+        "secondary_url": "https://www.noblehome.com/",
+        "evidence": "Profile retained from package; company identity confirmed via SET factsheet + official website."
+      },
+      "verified_at": "2026-07-16",
+      "value": "Noble Development Public Company Limited is listed on SET under ticker NOBLE. Profile cites noblehome.com and the SET quote page."
+    },
+    "corporate_overview": {
+      "field": "corporate_overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet_and_official_website",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet",
+        "secondary_url": "https://www.noblehome.com/"
+      },
+      "verified_at": "2026-07-16",
+      "value": "Noble Development Public Company Limited is listed on SET under ticker NOBLE. Profile cites noblehome.com and the SET quote page."
+    },
+    "company_history": {
+      "field": "company_history",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet",
+        "evidence": "SET Establish Date 1991-07-19"
+      },
+      "verified_at": "2026-07-16",
+      "value": "Established (SET): 1991-07-19"
+    },
+    "official_contact_page": {
+      "field": "official_contact_page",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.noblehome.com/contact"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.noblehome.com/contact"
+    },
+    "listed_company_code": {
+      "field": "listed_company_code",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet"
+      },
+      "verified_at": "2026-07-16",
+      "value": "SET:NOBLE"
+    },
+    "official_social_links": {
+      "field": "official_social_links",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_package_social",
+        "url": "https://www.facebook.com/NobleDevelopment"
+      },
+      "verified_at": "2026-07-16",
+      "value": {
+        "facebook": "https://www.facebook.com/NobleDevelopment",
+        "website": "https://www.noblehome.com/"
+      }
+    }
   }
 }

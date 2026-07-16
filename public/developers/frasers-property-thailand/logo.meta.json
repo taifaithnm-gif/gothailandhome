@@ -1,8 +1,10 @@
 {
   "slug": "frasers-property-thailand",
-  "status": "placeholder",
-  "note": "Placeholder SVG only. Replace with rights-cleared official logo export. Do not treat this glyph as the registered trademark.",
+  "status": "official_remote",
+  "note": "Official remote logo/favicon URL recorded. Local SVG is fallback only — not the trademark.",
   "official_website": "https://www.frasersproperty.co.th/",
+  "official_logo_url": "https://www.frasersproperty.com/content/dam/frasersproperty/feature/project/frasers_logos/frasers-logo.png",
+  "favicon_url": "https://www.frasersproperty.co.th/favicon.ico",
   "public_path": "/developers/frasers-property-thailand/logo.svg",
-  "collected_at": "2026-07-14"
+  "collected_at": "2026-07-16"
 }

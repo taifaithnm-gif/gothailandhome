@@ -42,9 +42,9 @@
   },
   "established_year": null,
   "headquarters": {
-    "en": "Bangkok, Thailand",
-    "zh": "泰国曼谷",
-    "th": "กรุงเทพฯ ประเทศไทย"
+    "en": "448 Thanyalakpark Building, Ratchadaphisek 26, Samsen Nok, Huai Khwang, Bangkok 10310",
+    "zh": "448 Thanyalakpark Building, Ratchadaphisek 26, Samsen Nok, Huai Khwang, Bangkok 10310",
+    "th": "448 Thanyalakpark Building, Ratchadaphisek 26, Samsen Nok, Huai Khwang, Bangkok 10310"
   },
   "listed_company": {
     "exchange": "SET",
@@ -80,14 +80,14 @@
     "website": "https://www.sena.co.th/"
   },
   "contact": {
-    "phone": null,
+    "phone": "02-541-4642",
     "email": null,
     "line": null,
     "whatsapp": null
   },
   "logo_path": "/developers/sena-development/logo.svg",
   "logo_url": "/developers/sena-development/logo.svg",
-  "phone": null,
+  "phone": "02-541-4642",
   "email": null,
   "seo": {
     "title": {
@@ -110,22 +110,30 @@
     "niche-pride-thonglor-phetchaburi"
   ],
   "logo_source": {
-    "status": "placeholder",
+    "status": "official",
     "path": "/developers/sena-development/logo.svg",
-    "official_logo_url": null,
-    "note": "Placeholder SVG only. Replace with rights-cleared official logo export. Do not treat this glyph as the registered trademark.",
-    "verified_at": "2026-07-15"
+    "official_logo_url": "https://www.sena.co.th/images/logo-scroll.svg",
+    "favicon_url": "https://www.sena.co.th/images/icon/favicon.png",
+    "note": "Remote asset on official developer domain (or official CDN). Local SVG remains a non-trademark fallback glyph; do not treat local SVG as the registered mark.",
+    "verified_at": "2026-07-16",
+    "provenance": {
+      "source_type": "official_developer_website",
+      "url": "https://www.sena.co.th/",
+      "asset_url": "https://www.sena.co.th/images/logo-scroll.svg"
+    }
   },
   "headquarters_provenance": {
-    "source_type": "package_city_level_or_set_note",
-    "verified_at": "2026-07-15",
-    "street_level": false,
-    "note": "City-level or SET-noted HQ in package; confirm on official website before treating as street-level official."
+    "source_type": "set_factsheet",
+    "url": "https://www.set.or.th/en/market/product/stock/quote/SENA/factsheet",
+    "verified_at": "2026-07-16",
+    "evidence_class": "OFFICIAL"
   },
   "company_profile_provenance": {
-    "source_type": "package_existing_prose",
-    "verified_at": "2026-07-15",
-    "note": "Existing profile text may cite SET; Phase 7 did not fully replace from official About page."
+    "source_type": "set_factsheet_and_official_website",
+    "url": "https://www.set.or.th/en/market/product/stock/quote/SENA/factsheet",
+    "secondary_url": "https://www.sena.co.th/",
+    "verified_at": "2026-07-16",
+    "evidence_class": "OFFICIAL"
   },
   "completed_projects": [
     {
@@ -140,9 +148,143 @@
   "active_projects": [],
   "unclassified_projects": [],
   "developer_master": {
-    "phase": "7",
-    "verified_at": "2026-07-15",
-    "rule": "official_developer_websites_only_for_official_fields",
-    "fields_touched": []
+    "phase": "10-sprint-2",
+    "verified_at": "2026-07-16",
+    "rule": "official_developer_websites_and_set_factsheets_for_official_fields",
+    "fields_touched": [
+      "official_website",
+      "official_logo",
+      "favicon",
+      "headquarters",
+      "established_year",
+      "company_profile",
+      "corporate_overview",
+      "company_history",
+      "official_contact_page",
+      "listed_company_code",
+      "official_social_links"
+    ],
+    "sprint": "phase10-sprint-2"
+  },
+  "official_contact_page": null,
+  "field_evidence": {
+    "official_website": {
+      "field": "official_website",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.sena.co.th/"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.sena.co.th/"
+    },
+    "official_logo": {
+      "field": "official_logo",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.sena.co.th/images/logo-scroll.svg"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.sena.co.th/images/logo-scroll.svg"
+    },
+    "favicon": {
+      "field": "favicon",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.sena.co.th/images/icon/favicon.png"
+      },
+      "verified_at": "2026-07-16",
+      "value": "https://www.sena.co.th/images/icon/favicon.png"
+    },
+    "headquarters": {
+      "field": "headquarters",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/SENA/factsheet",
+        "evidence": "Company address on SET factsheet"
+      },
+      "verified_at": "2026-07-16",
+      "value": "448 Thanyalakpark Building, Ratchadaphisek 26, Samsen Nok, Huai Khwang, Bangkok 10310"
+    },
+    "established_year": {
+      "field": "established_year",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": null
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "company_profile": {
+      "field": "company_profile",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet_and_official_website",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/SENA/factsheet",
+        "secondary_url": "https://www.sena.co.th/",
+        "evidence": "Profile retained from package; company identity confirmed via SET factsheet + official website."
+      },
+      "verified_at": "2026-07-16",
+      "value": "Sena Development Public Company Limited is listed on SET under ticker SENA. Profile cites sena.co.th and the SET quote page."
+    },
+    "corporate_overview": {
+      "field": "corporate_overview",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet_and_official_website",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/SENA/factsheet",
+        "secondary_url": "https://www.sena.co.th/"
+      },
+      "verified_at": "2026-07-16",
+      "value": "Sena Development Public Company Limited is listed on SET under ticker SENA. Profile cites sena.co.th and the SET quote page."
+    },
+    "company_history": {
+      "field": "company_history",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": null
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "official_contact_page": {
+      "field": "official_contact_page",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": null,
+        "note": "Prior probe hit homepage or error page; left UNVERIFIED."
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "listed_company_code": {
+      "field": "listed_company_code",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "set_factsheet",
+        "url": "https://www.set.or.th/en/market/product/stock/quote/SENA/factsheet"
+      },
+      "verified_at": "2026-07-16",
+      "value": "SET:SENA"
+    },
+    "official_social_links": {
+      "field": "official_social_links",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_package_social",
+        "url": "https://www.facebook.com/SenaDevelopment"
+      },
+      "verified_at": "2026-07-16",
+      "value": {
+        "facebook": "https://www.facebook.com/SenaDevelopment",
+        "website": "https://www.sena.co.th/"
+      }
+    }
   }
 }
