@@ -90,6 +90,7 @@
   "google_maps_url": null,
   "social_links": {
     "facebook": "https://www.facebook.com/AssetWise",
+    "line": "https://line.me/R/ti/p/%40501ruwea",
     "website": "https://www.assetwise.co.th/"
   },
   "contact": {
@@ -173,23 +174,10 @@
   "active_projects": [],
   "unclassified_projects": [],
   "developer_master": {
-    "phase": "10-sprint-2",
+    "phase": "11-batch-6",
     "verified_at": "2026-07-16",
-    "rule": "official_developer_websites_and_set_factsheets_for_official_fields",
-    "fields_touched": [
-      "official_website",
-      "official_logo",
-      "favicon",
-      "headquarters",
-      "established_year",
-      "company_profile",
-      "corporate_overview",
-      "company_history",
-      "official_contact_page",
-      "listed_company_code",
-      "official_social_links"
-    ],
-    "sprint": "phase10-sprint-2"
+    "rule": "official_assetwise_and_set_only",
+    "developer": "assetwise"
   },
   "established_year_provenance": {
     "source_type": "set_factsheet",
@@ -198,7 +186,7 @@
     "verified_at": "2026-07-16",
     "evidence_class": "OFFICIAL"
   },
-  "official_contact_page": "https://assetwise.co.th/contact/",
+  "official_contact_page": "https://assetwise.co.th/en/contact/",
   "field_evidence": {
     "official_website": {
       "field": "official_website",
@@ -291,10 +279,10 @@
       "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_website",
-        "url": "https://assetwise.co.th/contact/"
+        "url": "https://assetwise.co.th/en/contact/"
       },
       "verified_at": "2026-07-16",
-      "value": "https://assetwise.co.th/contact/"
+      "value": "https://assetwise.co.th/en/contact/"
     },
     "listed_company_code": {
       "field": "listed_company_code",
@@ -310,14 +298,21 @@
       "field": "official_social_links",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_package_social",
-        "url": "https://www.facebook.com/AssetWise"
+        "source_type": "official_developer_website",
+        "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
+        "note": "Facebook from official package; LINE Official from project page chrome"
       },
       "verified_at": "2026-07-16",
       "value": {
         "facebook": "https://www.facebook.com/AssetWise",
+        "line": "https://line.me/R/ti/p/%40501ruwea",
         "website": "https://www.assetwise.co.th/"
       }
     }
+  },
+  "company_history": {
+    "en": "AssetWise Public Company Limited — SET:ASW. Established 2005.",
+    "zh": "AssetWise Public Company Limited — SET:ASW。成立于 2005 年。",
+    "th": "บริษัท แอสเซทไวส์ จำกัด (มหาชน) — SET:ASW ก่อตั้งปี 2548"
   }
 }

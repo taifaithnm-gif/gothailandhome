@@ -50,14 +50,14 @@
       "th": "ไอดีโอ พระราม 9"
     },
     "description": {
-      "en": "IDEO Rama 9 is a real Bangkok project associated with Ananda Development. Details beyond name, district, and official URL are omitted until separately sourced.",
-      "zh": "IDEO 拉玛九为曼谷真实项目，关联开发商 阿南达发展。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
-      "th": "ไอดีโอ พระราม 9 เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา อนันดา ดีเวลลอปเม้นท์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+      "en": "Ideo Rama 9 - Asoke is an Ananda Development condominium. Facts are taken from the official Ananda project page (https://www.ananda.co.th/en/condominium/ideo-rama9-asoke).",
+      "zh": "Ideo Rama 9 - Asoke 为 Ananda 公寓项目。事实来自 Ananda 官方项目页。",
+      "th": "Ideo Rama 9 - Asoke เป็นโครงการคอนโดของอนันดา ข้อมูลมาจากหน้าโครงการทางการ"
     },
     "address": {
-      "en": "Huai Khwang, Bangkok",
-      "zh": "曼谷辉煌",
-      "th": "ห้วยขวาง กรุงเทพฯ"
+      "en": "RAMA 9 Road, Huaykwang, Bangkok",
+      "zh": "RAMA 9 Road, Huaykwang, Bangkok",
+      "th": "RAMA 9 Road, Huaykwang, Bangkok"
     },
     "postal_code": "10310",
     "latitude": null,
@@ -82,146 +82,22 @@
       }
     },
     "project_master": {
-      "phase": "7",
-      "audit_version": "2026-07-15-project-master-hygiene-v2",
-      "verified_at": "2026-07-15T08:06:30Z",
-      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
+      "phase": "11-batch-5",
+      "verified_at": "2026-07-16",
+      "rule": "official_ananda_project_pages_only",
+      "developer": "ananda-development",
       "field_classifications": {
-        "official_project_name": "UNVERIFIED",
-        "thai_project_name": "UNVERIFIED",
-        "developer_relation": "DERIVED",
-        "official_project_url": "UNVERIFIED",
-        "project_status": "UNVERIFIED",
-        "completion_year": "UNVERIFIED",
-        "full_address": "VERIFIED_PORTAL",
-        "district": "DERIVED",
-        "subdistrict": "UNVERIFIED",
-        "latitude": "UNVERIFIED",
-        "longitude": "UNVERIFIED",
-        "building_count": "UNVERIFIED",
-        "floor_count": "UNVERIFIED",
-        "total_units": "UNVERIFIED",
-        "unit_types": "UNVERIFIED",
-        "official_facilities": "UNVERIFIED",
-        "nearest_bts": "UNVERIFIED",
-        "nearest_mrt": "DERIVED",
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
         "official_brochure": "UNVERIFIED",
-        "official_floor_plans": "UNVERIFIED",
-        "official_gallery_source": "UNVERIFIED",
-        "verification_timestamp": "DERIVED"
-      },
-      "field_provenance": {
-        "official_project_name": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Packaged EN name without portal or project-page confirmation"
-        },
-        "thai_project_name": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Packaged Thai name without project-page confirmation"
-        },
-        "developer_relation": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Package developer.slug only — not OFFICIAL without Tier-1 project page"
-        },
-        "official_project_url": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.ananda.co.th/",
-          "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
-        },
-        "project_status": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "completion_year": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "full_address": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Address from portal/package (may be district-level placeholder)"
-        },
-        "district": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Derived from package location.district_slug/name — not Tier-1 OFFICIAL"
-        },
-        "subdistrict": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "subdistrict not present / not Tier-1 confirmed"
-        },
-        "latitude": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "longitude": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "building_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "floor_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "total_units": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "unit_types": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_facilities": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "nearest_bts": {
-          "tier": 4,
-          "note": "Missing",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "nearest_mrt": {
-          "tier": 3,
-          "note": "Derived from package nearby_mrt/transportation/transit_tags — not Tier-1 confirmed",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "official_brochure": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_floor_plans": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_gallery_source": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "verification_timestamp": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Audit metadata timestamp — not an official project fact"
-        }
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
       }
     },
     "project_status": "completed",
@@ -335,11 +211,21 @@
         "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
       },
       {
-        "key": "multipurpose_area",
+        "key": "hybrid_sky_pool",
         "name": {
-          "en": "Multipurpose area",
-          "zh": "Multipurpose area",
-          "th": "Multipurpose area"
+          "en": "Hybrid Sky Pool",
+          "zh": "Hybrid Sky Pool",
+          "th": "Hybrid Sky Pool"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "co_working_space",
+        "name": {
+          "en": "Co-working space",
+          "zh": "Co-working space",
+          "th": "Co-working space"
         },
         "source": "official_developer",
         "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
@@ -353,90 +239,136 @@
         },
         "source": "official_developer",
         "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
-      },
-      {
-        "key": "lobby",
-        "name": {
-          "en": "Lobby",
-          "zh": "Lobby",
-          "th": "Lobby"
-        },
-        "source": "official_developer",
-        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
-      },
-      {
-        "key": "meeting_room",
-        "name": {
-          "en": "Meeting room",
-          "zh": "Meeting room",
-          "th": "Meeting room"
-        },
-        "source": "official_developer",
-        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
       }
-    ]
+    ],
+    "unit_count": 1222,
+    "floors": 36,
+    "buildings": 3
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.ananda.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.ananda.co.th/"
+      "value": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.ananda.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
       },
       "verified_at": "2026-07-16",
-      "value": "Huai Khwang, Bangkok"
+      "value": "RAMA 9 Road, Huaykwang, Bangkok"
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.ananda.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+        "note": "Image binaries not mirrored pending license"
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "value": "Official gallery section (28 images)"
     },
     "official_brochure": {
       "field": "official_brochure",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.ananda.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+        "note": "Download control present on some pages but no direct PDF URL captured this batch"
       },
       "verified_at": "2026-07-16",
       "value": null
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      "verified_at": "2026-07-16",
+      "value": "Official DETAIL floor stack / facility floors on project page"
+    },
+    "official_facilities": {
+      "field": "official_facilities",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "Swimming pool",
+        "Fitness studio",
+        "Theater area",
+        "Hybrid Sky Pool",
+        "Co-working space",
+        "Garden"
+      ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "ready_to_move"
+      ]
+    },
+    "completion_year": {
+      "field": "completion_year",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.ananda.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+        "note": "Completion calendar year not stated as a clear DETAIL field; packaged value not upgraded"
       },
       "verified_at": "2026-07-16",
       "value": null
     },
-    "official_facilities": {
-      "field": "official_facilities",
-      "evidence_class": "UNVERIFIED",
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.ananda.co.th/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+        "note": "Official DETAIL: 3 Buildings"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": 3
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+        "note": "Official DETAIL: residential 8–35; facility floor 36–36M"
+      },
+      "verified_at": "2026-07-16",
+      "value": 36
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      "verified_at": "2026-07-16",
+      "value": 1222
     }
   },
   "project_master": {
@@ -450,31 +382,44 @@
   "media_library": {
     "gallery": {
       "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
-      "copyright_source": "© Ananda Development / IDEO Rama 9 — official project materials",
+      "copyright_source": "© Ananda Development Public Company Limited / Ideo Rama 9 - Asoke",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
       "download_status": "not_downloaded_pending_license"
     },
-    "floor_plans": {
+    "brochure": {
       "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
-      "copyright_source": "© Ananda Development / IDEO Rama 9 — official project materials",
+      "copyright_source": "© Ananda Development Public Company Limited / Ideo Rama 9 - Asoke",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
+      "download_status": "unverified_no_official_pdf"
+    },
+    "floor_plans": {
+      "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+      "copyright_source": "© Ananda Development Public Company Limited / Ideo Rama 9 - Asoke",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
       "download_status": "not_downloaded_pending_license"
     },
     "hero": {
       "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
-      "copyright_source": "© Ananda Development / IDEO Rama 9 — official project materials",
+      "copyright_source": "© Ananda Development Public Company Limited / Ideo Rama 9 - Asoke",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
-      "placeholder_path": null
+      "download_status": "not_downloaded_pending_license"
     }
+  },
+  "content_factory": {
+    "phase": "11-batch-5",
+    "developer": "ananda-development",
+    "verified_at": "2026-07-16"
   }
 }

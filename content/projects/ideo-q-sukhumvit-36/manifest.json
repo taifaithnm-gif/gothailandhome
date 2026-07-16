@@ -55,14 +55,14 @@
       "th": "ไอดีโอ คิว สุขุมวิท 36"
     },
     "description": {
-      "en": "IDEO Q Sukhumvit 36 is a real Bangkok project associated with Ananda Development. Details beyond name, district, and official URL are omitted until separately sourced.",
-      "zh": "IDEO Q 素坤逸36为曼谷真实项目，关联开发商 阿南达发展。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
-      "th": "ไอดีโอ คิว สุขุมวิท 36 เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา อนันดา ดีเวลลอปเม้นท์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+      "en": "Ideo Q Sukhumvit 36 is an Ananda Development condominium. Facts are taken from the official Ananda project page (https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36).",
+      "zh": "Ideo Q Sukhumvit 36 为 Ananda 公寓项目。事实来自 Ananda 官方项目页。",
+      "th": "Ideo Q Sukhumvit 36 เป็นโครงการคอนโดของอนันดา ข้อมูลมาจากหน้าโครงการทางการ"
     },
     "address": {
-      "en": "Khlong Toei, Bangkok",
-      "zh": "曼谷空堤",
-      "th": "คลองเตย กรุงเทพฯ"
+      "en": "Sukhumvit 36 / Khlong Tan area, Bangkok (450m from BTS Thong Lor)",
+      "zh": "Sukhumvit 36 / Khlong Tan area, Bangkok (450m from BTS Thong Lor)",
+      "th": "Sukhumvit 36 / Khlong Tan area, Bangkok (450m from BTS Thong Lor)"
     },
     "postal_code": "10110",
     "latitude": 13.720856043232146,
@@ -89,41 +89,81 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "garden",
+        "key": "swimming_pool",
         "name": {
-          "en": "Garden",
-          "zh": "Garden",
-          "th": "Garden"
+          "en": "Swimming Pool",
+          "zh": "Swimming Pool",
+          "th": "Swimming Pool"
         },
         "source": "official_developer",
         "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
       },
       {
-        "key": "lobby",
+        "key": "fitness",
         "name": {
-          "en": "Lobby",
-          "zh": "Lobby",
-          "th": "Lobby"
+          "en": "Fitness",
+          "zh": "Fitness",
+          "th": "Fitness"
         },
         "source": "official_developer",
         "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
       },
       {
-        "key": "parking",
+        "key": "golf_simulator",
         "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
+          "en": "Golf simulator",
+          "zh": "Golf simulator",
+          "th": "Golf simulator"
         },
         "source": "official_developer",
         "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
       },
       {
-        "key": "property_management",
+        "key": "sky_bar",
         "name": {
-          "en": "Property Management",
-          "zh": "Property Management",
-          "th": "Property Management"
+          "en": "Sky Bar",
+          "zh": "Sky Bar",
+          "th": "Sky Bar"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+      },
+      {
+        "key": "co_working_space",
+        "name": {
+          "en": "Co-Working Space",
+          "zh": "Co-Working Space",
+          "th": "Co-Working Space"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+      },
+      {
+        "key": "library",
+        "name": {
+          "en": "Library",
+          "zh": "Library",
+          "th": "Library"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+      },
+      {
+        "key": "japanese_garden",
+        "name": {
+          "en": "Japanese Garden",
+          "zh": "Japanese Garden",
+          "th": "Japanese Garden"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+      },
+      {
+        "key": "sauna",
+        "name": {
+          "en": "Sauna",
+          "zh": "Sauna",
+          "th": "Sauna"
         },
         "source": "official_developer",
         "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
@@ -510,155 +550,22 @@
       }
     },
     "project_master": {
-      "phase": "7",
-      "audit_version": "2026-07-15-project-master-hygiene-v2",
-      "verified_at": "2026-07-15T08:06:30Z",
-      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
+      "phase": "11-batch-5",
+      "verified_at": "2026-07-16",
+      "rule": "official_ananda_project_pages_only",
+      "developer": "ananda-development",
       "field_classifications": {
-        "official_project_name": "OFFICIAL",
-        "thai_project_name": "OFFICIAL",
-        "developer_relation": "OFFICIAL",
-        "official_project_url": "OFFICIAL",
-        "project_status": "OFFICIAL",
-        "completion_year": "VERIFIED_PORTAL",
-        "full_address": "VERIFIED_PORTAL",
-        "district": "DERIVED",
-        "subdistrict": "UNVERIFIED",
-        "latitude": "VERIFIED_PORTAL",
-        "longitude": "VERIFIED_PORTAL",
-        "building_count": "OFFICIAL",
-        "floor_count": "UNVERIFIED",
-        "total_units": "OFFICIAL",
-        "unit_types": "OFFICIAL",
-        "official_facilities": "VERIFIED_PORTAL",
-        "nearest_bts": "OFFICIAL",
-        "nearest_mrt": "UNVERIFIED",
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
         "official_brochure": "UNVERIFIED",
-        "official_floor_plans": "UNVERIFIED",
-        "official_gallery_source": "OFFICIAL",
-        "verification_timestamp": "DERIVED"
-      },
-      "field_provenance": {
-        "official_project_name": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-          "note": "Confirmed on project-specific official page"
-        },
-        "thai_project_name": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.ananda.co.th/th/condominium/ideo-q-sukhumvit-36",
-          "note": "Confirmed on project-specific official page"
-        },
-        "developer_relation": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-          "note": "Developer relation confirmed via project-specific official page domain/branding"
-        },
-        "official_project_url": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-          "note": "Project-specific official URL"
-        },
-        "project_status": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-          "note": "READY TO MOVE IN on Ananda project page"
-        },
-        "completion_year": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Completion year from portal/package; not promoted to OFFICIAL"
-        },
-        "full_address": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Address from portal/package (may be district-level placeholder)"
-        },
-        "district": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Derived from package location.district_slug/name — not Tier-1 OFFICIAL"
-        },
-        "subdistrict": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "subdistrict not present / not Tier-1 confirmed"
-        },
-        "latitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "longitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "building_count": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-          "note": "DETAIL on official project page"
-        },
-        "floor_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "total_units": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-          "note": "DETAIL on official project page"
-        },
-        "unit_types": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-          "note": "Unit types stated on official project page (type names only; plans not binary-reviewed)"
-        },
-        "official_facilities": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Facilities from portal/package"
-        },
-        "nearest_bts": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-          "note": "Distance/station stated on official project page"
-        },
-        "nearest_mrt": {
-          "tier": 4,
-          "note": "Missing",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "official_brochure": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_floor_plans": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_gallery_source": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-          "note": "Gallery section URL on official project page; media not downloaded"
-        },
-        "verification_timestamp": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Audit metadata timestamp — not an official project fact"
-        }
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
       }
     },
     "project_status": "selling",
@@ -667,14 +574,17 @@
       "1 Bedroom Spacious",
       "1 Bedroom Plus"
     ],
-    "floor_count": 47
+    "floor_count": 47,
+    "unit_count": 449,
+    "floors": 47,
+    "buildings": 2
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
       },
       "verified_at": "2026-07-16",
@@ -682,30 +592,32 @@
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
+        "source_type": "official_developer_project_page",
         "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
       },
       "verified_at": "2026-07-16",
-      "value": "Khlong Toei, Bangkok"
+      "value": "Sukhumvit 36 / Khlong Tan area, Bangkok (450m from BTS Thong Lor)"
     },
     "official_gallery": {
       "field": "official_gallery",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+        "note": "Image binaries not mirrored pending license"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+      "value": "Official gallery section (34 images)"
     },
     "official_brochure": {
       "field": "official_brochure",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+        "note": "Download control present on some pages but no direct PDF URL captured this batch"
       },
       "verified_at": "2026-07-16",
       "value": null
@@ -714,44 +626,50 @@
       "field": "official_floor_plan",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
+        "source_type": "official_developer_project_page",
         "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-      "note": "Unit/floor plan sections on official Ananda project page"
+      "value": "Official DETAIL floor stack / facility floors on project page"
     },
     "official_facilities": {
       "field": "official_facilities",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
       },
       "verified_at": "2026-07-16",
       "value": [
-        "Garden",
-        "Lobby",
-        "Parking",
-        "Property Management"
+        "Swimming Pool",
+        "Fitness",
+        "Golf simulator",
+        "Sky Bar",
+        "Co-Working Space",
+        "Library",
+        "Japanese Garden",
+        "Sauna"
       ]
     },
     "project_status": {
       "field": "project_status",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
       },
       "verified_at": "2026-07-16",
-      "value": "selling"
+      "value": [
+        "ready_to_move"
+      ]
     },
     "completion_year": {
       "field": "completion_year",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+        "note": "Completion calendar year not stated as a clear DETAIL field; packaged value not upgraded"
       },
       "verified_at": "2026-07-16",
       "value": 2020
@@ -760,8 +678,9 @@
       "field": "building_count",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+        "note": "Official DETAIL: 2 Towers"
       },
       "verified_at": "2026-07-16",
       "value": 2
@@ -770,8 +689,9 @@
       "field": "floor_count",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+        "note": "Official DETAIL Building A through 47th Floor"
       },
       "verified_at": "2026-07-16",
       "value": 47
@@ -780,8 +700,9 @@
       "field": "total_units",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+        "note": "Official DETAIL: 449 Units (Tower A 364 + Tower B 85 in Thai fact block)"
       },
       "verified_at": "2026-07-16",
       "value": 449
@@ -798,31 +719,44 @@
   "media_library": {
     "gallery": {
       "official_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-      "copyright_source": "© Ananda Development / Ideo Q Sukhumvit 36 — official project materials",
+      "copyright_source": "© Ananda Development Public Company Limited / Ideo Q Sukhumvit 36",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
       "download_status": "not_downloaded_pending_license"
     },
-    "floor_plans": {
+    "brochure": {
       "official_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-      "copyright_source": "© Ananda Development / Ideo Q Sukhumvit 36 — official project materials",
+      "copyright_source": "© Ananda Development Public Company Limited / Ideo Q Sukhumvit 36",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
+      "download_status": "unverified_no_official_pdf"
+    },
+    "floor_plans": {
+      "official_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+      "copyright_source": "© Ananda Development Public Company Limited / Ideo Q Sukhumvit 36",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
       "download_status": "not_downloaded_pending_license"
     },
     "hero": {
       "official_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
-      "copyright_source": "© Ananda Development / Ideo Q Sukhumvit 36 — official project materials",
+      "copyright_source": "© Ananda Development Public Company Limited / Ideo Q Sukhumvit 36",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
-      "placeholder_path": null
+      "download_status": "not_downloaded_pending_license"
     }
+  },
+  "content_factory": {
+    "phase": "11-batch-5",
+    "developer": "ananda-development",
+    "verified_at": "2026-07-16"
   }
 }

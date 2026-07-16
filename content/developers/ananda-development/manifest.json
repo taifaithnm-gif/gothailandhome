@@ -42,9 +42,9 @@
   },
   "established_year": 1999,
   "headquarters": {
-    "en": "No. 99/1 Moo 14 Soi Wind Mill Village, Bangna-Trad Road (k.m.10.5), Bangpleeyai, Bangplee, Samut Prakarn 10540",
-    "zh": "No. 99/1 Moo 14 Soi Wind Mill Village, Bangna-Trad Road (k.m.10.5), Bangpleeyai, Bangplee, Samut Prakarn 10540",
-    "th": "No. 99/1 Moo 14 Soi Wind Mill Village, Bangna-Trad Road (k.m.10.5), Bangpleeyai, Bangplee, Samut Prakarn 10540"
+    "en": "FYI Center, 12th Floor, 2525 Rama 4 Road, Klong Toei, Klong Toei District, Bangkok 10110",
+    "zh": "FYI Center, 12th Floor, 2525 Rama 4 Road, Klong Toei, Klong Toei District, Bangkok 10110",
+    "th": "FYI Center, 12th Floor, 2525 Rama 4 Road, Klong Toei, Klong Toei District, Bangkok 10110"
   },
   "listed_company": {
     "exchange": "SET",
@@ -217,23 +217,10 @@
     }
   ],
   "developer_master": {
-    "phase": "10-sprint-2",
+    "phase": "11-batch-5",
     "verified_at": "2026-07-16",
-    "rule": "official_developer_websites_and_set_factsheets_for_official_fields",
-    "fields_touched": [
-      "official_website",
-      "official_logo",
-      "favicon",
-      "headquarters",
-      "established_year",
-      "company_profile",
-      "corporate_overview",
-      "company_history",
-      "official_contact_page",
-      "listed_company_code",
-      "official_social_links"
-    ],
-    "sprint": "phase10-sprint-2"
+    "rule": "official_ananda_and_set_only",
+    "developer": "ananda-development"
   },
   "official_contact_page": "https://www.ananda.co.th/en/contact",
   "field_evidence": {
@@ -271,12 +258,12 @@
       "field": "headquarters",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "set_factsheet",
-        "url": "https://www.set.or.th/en/market/product/stock/quote/ANAN/factsheet",
-        "evidence": "Company address on SET factsheet"
+        "source_type": "official_developer_contact_page",
+        "url": "https://www.ananda.co.th/en/contact",
+        "evidence": "Head office address block on official Contact Us page"
       },
       "verified_at": "2026-07-16",
-      "value": "No. 99/1 Moo 14 Soi Wind Mill Village, Bangna-Trad Road (k.m.10.5), Bangpleeyai, Bangplee, Samut Prakarn 10540"
+      "value": "FYI Center, 12th Floor, 2525 Rama 4 Road, Klong Toei, Klong Toei District, Bangkok 10110"
     },
     "established_year": {
       "field": "established_year",
@@ -356,5 +343,10 @@
         "website": "https://www.ananda.co.th/"
       }
     }
+  },
+  "company_history": {
+    "en": "Ananda Development Public Company Limited — SET:ANAN. Established 1999.",
+    "zh": "Ananda Development Public Company Limited — SET:ANAN。成立于 1999 年。",
+    "th": "บริษัท อนันดา ดีเวลลอปเม้นท์ จำกัด (มหาชน) — SET:ANAN ก่อตั้งปี 2542"
   }
 }

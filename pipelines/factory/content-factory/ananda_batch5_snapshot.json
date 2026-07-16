@@ -1,0 +1,290 @@
+{
+  "verified_at": "2026-07-16",
+  "phase": "11-batch-5",
+  "developer": "ananda-development",
+  "developer_completeness_pct": 100,
+  "project_avg_completeness_pct": 60,
+  "combined_ananda_score_pct": 80,
+  "projects": [
+    {
+      "slug": "ashton-asoke",
+      "official_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+      "status": [
+        "ready_to_move"
+      ],
+      "mapped_status": "completed",
+      "units": 783,
+      "floors": 50,
+      "buildings": 1,
+      "facilities": 11,
+      "gallery_count": 16,
+      "brochure": false,
+      "address": "Near BTS Asoke / MRT Sukhumvit, Bangkok",
+      "completion_year": 2017,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 80,
+      "field_evidence": {
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "official_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+      "status": [
+        "ready_to_move"
+      ],
+      "mapped_status": "completed",
+      "units": 449,
+      "floors": 47,
+      "buildings": 2,
+      "facilities": 8,
+      "gallery_count": 34,
+      "brochure": false,
+      "address": "Sukhumvit 36 / Khlong Tan area, Bangkok (450m from BTS Thong Lor)",
+      "completion_year": 2020,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 80,
+      "field_evidence": {
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "ideo-rama-9",
+      "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+      "status": [
+        "ready_to_move"
+      ],
+      "mapped_status": "completed",
+      "units": 1222,
+      "floors": 36,
+      "buildings": 3,
+      "facilities": 6,
+      "gallery_count": 28,
+      "brochure": false,
+      "address": "RAMA 9 Road, Huaykwang, Bangkok",
+      "completion_year": null,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 80,
+      "field_evidence": {
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "official_url": null,
+      "status": [],
+      "mapped_status": "completed",
+      "units": null,
+      "floors": null,
+      "buildings": null,
+      "facilities": 11,
+      "gallery_count": 0,
+      "brochure": false,
+      "address": null,
+      "completion_year": 2018,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_project_page": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      }
+    }
+  ],
+  "media": [
+    {
+      "slug": "ashton-asoke",
+      "gallery": {
+        "official_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+        "copyright_source": "© Ananda Development Public Company Limited / Ashton Asoke",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "brochure": {
+        "official_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+        "copyright_source": "© Ananda Development Public Company Limited / Ashton Asoke",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_pdf"
+      },
+      "floor_plans": {
+        "official_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+        "copyright_source": "© Ananda Development Public Company Limited / Ashton Asoke",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "hero": {
+        "official_url": "https://www.ananda.co.th/en/condominium/ashton-asoke",
+        "copyright_source": "© Ananda Development Public Company Limited / Ashton Asoke",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      }
+    },
+    {
+      "slug": "ideo-q-sukhumvit-36",
+      "gallery": {
+        "official_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+        "copyright_source": "© Ananda Development Public Company Limited / Ideo Q Sukhumvit 36",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "brochure": {
+        "official_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+        "copyright_source": "© Ananda Development Public Company Limited / Ideo Q Sukhumvit 36",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_pdf"
+      },
+      "floor_plans": {
+        "official_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+        "copyright_source": "© Ananda Development Public Company Limited / Ideo Q Sukhumvit 36",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "hero": {
+        "official_url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36",
+        "copyright_source": "© Ananda Development Public Company Limited / Ideo Q Sukhumvit 36",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      }
+    },
+    {
+      "slug": "ideo-rama-9",
+      "gallery": {
+        "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+        "copyright_source": "© Ananda Development Public Company Limited / Ideo Rama 9 - Asoke",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "brochure": {
+        "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+        "copyright_source": "© Ananda Development Public Company Limited / Ideo Rama 9 - Asoke",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_pdf"
+      },
+      "floor_plans": {
+        "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+        "copyright_source": "© Ananda Development Public Company Limited / Ideo Rama 9 - Asoke",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "hero": {
+        "official_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+        "copyright_source": "© Ananda Development Public Company Limited / Ideo Rama 9 - Asoke",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      }
+    },
+    {
+      "slug": "ideo-mobi-sukhumvit-66",
+      "gallery": {
+        "official_url": "https://www.ananda.co.th/",
+        "copyright_source": "© Ananda Development Public Company Limited / Ideo Mobi Sukhumvit 66",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_gallery"
+      },
+      "brochure": {
+        "official_url": "https://www.ananda.co.th/",
+        "copyright_source": "© Ananda Development Public Company Limited / Ideo Mobi Sukhumvit 66",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_pdf"
+      },
+      "floor_plans": {
+        "official_url": "https://www.ananda.co.th/",
+        "copyright_source": "© Ananda Development Public Company Limited / Ideo Mobi Sukhumvit 66",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "unverified_no_official_plans_published"
+      },
+      "hero": {
+        "official_url": "https://www.ananda.co.th/",
+        "copyright_source": "© Ananda Development Public Company Limited / Ideo Mobi Sukhumvit 66",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "placeholder_pending_official_mirror"
+      }
+    }
+  ]
+}
