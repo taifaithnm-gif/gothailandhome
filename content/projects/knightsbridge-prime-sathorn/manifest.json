@@ -673,7 +673,9 @@
     "floor_count": 43,
     "floors": 43,
     "building_count": 1,
-    "buildings": 1
+    "buildings": 1,
+    "official_brochure": "https://en.origin.co.th/wp-content/uploads/2019/04/KNB-Prime-Sathorn-A4-.pdf",
+    "brochure_local_path": "/projects/knightsbridge-prime-sathorn/brochure.pdf"
   },
   "field_evidence": {
     "official_project_page": {
@@ -817,23 +819,31 @@
   },
   "media_library": {
     "hero": {
-      "official_url": "https://www.origin.co.th/",
-      "copyright_source": "© Origin Property / Knightsbridge Prime Sathorn — official project materials",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
-      "placeholder_path": null
+      "id": "project:knightsbridge-prime-sathorn:hero",
+      "class": "hero",
+      "entity_type": "project",
+      "entity_slug": "knightsbridge-prime-sathorn",
+      "role": "hero",
+      "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/1474541692-1-2.jpg",
+      "copyright_source": "© Origin Property / knightsbridge-prime-sathorn — official project media",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "9f3b1baf03ca93fd972400d8509b6ec498b77b7152ae55dcc5dc4df295679310",
+      "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/hero.jpg",
+      "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+      "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+      "download_status": "downloaded_pending_license",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Selected from official gallery_image_urls[0] successful mirror"
     },
     "gallery": {
       "official_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
-      "copyright_source": "© origin-property / KnightsBridge Prime Sathorn",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license",
+      "copyright_source": "© Origin Property / knightsbridge-prime-sathorn — official project media",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "9f3b1baf03ca93fd972400d8509b6ec498b77b7152ae55dcc5dc4df295679310",
+      "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/files/gallery-01.jpg",
+      "rights_note": "mirrored_subset_pending_commercial_license",
+      "download_status": "partial_downloaded_pending_license",
       "gallery_image_urls": [
         "https://en.origin.co.th/wp-content/uploads/2019/04/1474541692-1-2.jpg",
         "https://en.origin.co.th/wp-content/uploads/2019/04/1474541701-1-1.jpg",
@@ -846,16 +856,92 @@
         "https://en.origin.co.th/wp-content/uploads/2019/04/1474541778-1.jpg",
         "https://en.origin.co.th/wp-content/uploads/2019/04/1474541788-1-1.jpg",
         "https://en.origin.co.th/wp-content/uploads/2019/04/1474541797-1.jpg"
+      ],
+      "id": "project:knightsbridge-prime-sathorn:gallery",
+      "class": "gallery",
+      "entity_type": "project",
+      "entity_slug": "knightsbridge-prime-sathorn",
+      "role": "gallery",
+      "license_note": "Official CDN/marketing images archived for checksum catalog (subset). Commercial reuse requires rights-holder license. Not portal/watermark sources.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Mirrored 8/11 official gallery URLs (cap 8).",
+      "mirrored_files": [
+        {
+          "index": 1,
+          "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/1474541692-1-2.jpg",
+          "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/files/gallery-01.jpg",
+          "public_path": "/projects/knightsbridge-prime-sathorn/gallery-01.jpg",
+          "checksum_sha256": "9f3b1baf03ca93fd972400d8509b6ec498b77b7152ae55dcc5dc4df295679310"
+        },
+        {
+          "index": 2,
+          "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/1474541701-1-1.jpg",
+          "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/files/gallery-02.jpg",
+          "public_path": "/projects/knightsbridge-prime-sathorn/gallery-02.jpg",
+          "checksum_sha256": "45aa236151c51f8e089ce582cf404c6640290a2ff5eb7e72352897bfa04ccb50"
+        },
+        {
+          "index": 3,
+          "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/1474541711-1.jpg",
+          "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/files/gallery-03.jpg",
+          "public_path": "/projects/knightsbridge-prime-sathorn/gallery-03.jpg",
+          "checksum_sha256": "9678889324f3dfa017757257f6508f24a8cd97347872be8a707f3092571dd562"
+        },
+        {
+          "index": 4,
+          "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/1474541721-1.jpg",
+          "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/files/gallery-04.jpg",
+          "public_path": "/projects/knightsbridge-prime-sathorn/gallery-04.jpg",
+          "checksum_sha256": "9539725fa2bb737ae7a54b2dae237ce4bb4ed433b5e4514afc791993edaa27db"
+        },
+        {
+          "index": 5,
+          "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/1474541730-1.jpg",
+          "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/files/gallery-05.jpg",
+          "public_path": "/projects/knightsbridge-prime-sathorn/gallery-05.jpg",
+          "checksum_sha256": "2fb5e1283e362dade78e713f9ff0c6a2f4e455feb5b5a29266f51367e1843fba"
+        },
+        {
+          "index": 6,
+          "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/1474541745-1.jpg",
+          "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/files/gallery-06.jpg",
+          "public_path": "/projects/knightsbridge-prime-sathorn/gallery-06.jpg",
+          "checksum_sha256": "f113f24997c88cf11b4462094f0b95849cb0660b64e7bb50d4968b24cc0658dd"
+        },
+        {
+          "index": 7,
+          "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/1474541759-1.jpg",
+          "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/files/gallery-07.jpg",
+          "public_path": "/projects/knightsbridge-prime-sathorn/gallery-07.jpg",
+          "checksum_sha256": "fe8f90c2a338e12d4e45b52fbe88448c2651a98eccb06c09ac61ccee4ca117cd"
+        },
+        {
+          "index": 8,
+          "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/1474541768-1.jpg",
+          "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/files/gallery-08.jpg",
+          "public_path": "/projects/knightsbridge-prime-sathorn/gallery-08.jpg",
+          "checksum_sha256": "4249cecf988ff1f581bad290031c450cf56c928fc6006bf3b01b50969a613720"
+        }
       ]
     },
     "brochure": {
       "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/KNB-Prime-Sathorn-A4-.pdf",
-      "copyright_source": "© origin-property / KnightsBridge Prime Sathorn — official brochure PDF",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "copyright_source": "© Origin Property / knightsbridge-prime-sathorn — official brochure PDF",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "8bbf1bc3628bc43ba69ca1beb7e4c5faa3ab204406144f5e55866df781953a30",
+      "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/brochure.pdf",
+      "rights_note": "mirrored_to_storage",
+      "download_status": "downloaded",
+      "id": "project:knightsbridge-prime-sathorn:brochure",
+      "class": "brochure",
+      "entity_type": "project",
+      "entity_slug": "knightsbridge-prime-sathorn",
+      "role": "brochure",
+      "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Public path /projects/knightsbridge-prime-sathorn/brochure.pdf"
     },
     "floor_plans": {
       "official_url": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",

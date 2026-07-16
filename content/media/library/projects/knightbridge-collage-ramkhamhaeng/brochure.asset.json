@@ -3,8 +3,16 @@
   "class": "brochure",
   "entity_type": "project",
   "entity_slug": "knightbridge-collage-ramkhamhaeng",
+  "role": "brochure",
   "official_url": "https://origin.co.th/wp-content/uploads/2019/04/E-Brochure-KNB-Collage-RamKhamhaeng-small.pdf",
-  "download_status": "not_downloaded_pending_license",
-  "updated_at": "2026-07-16",
-  "phase": "11-wave-2"
+  "copyright_source": "© Origin Property / knightbridge-collage-ramkhamhaeng — official brochure PDF",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "e455c7b69eb25d731de9e20ba9e0b1ca7afdf6837c26330a8d5adda7198a64bd",
+  "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/brochure.pdf",
+  "rights_note": "mirrored_to_storage",
+  "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "phase": "11-media-factory-wave1",
+  "notes": "Public path /projects/knightbridge-collage-ramkhamhaeng/brochure.pdf"
 }

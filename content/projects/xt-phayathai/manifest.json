@@ -595,7 +595,9 @@
     "floor_count": 41,
     "floors": 41,
     "building_count": 2,
-    "buildings": 2
+    "buildings": 2,
+    "official_brochure": "https://www.sansiri.com/uploads/docs/2018/08/28/21361a5c-8176-49a4-b972-b4a245f1a6d2.pdf",
+    "brochure_local_path": "/projects/xt-phayathai/brochure.pdf"
   },
   "field_evidence": {
     "official_project_page": {
@@ -740,11 +742,11 @@
     "gallery": {
       "official_url": "https://www.sansiri.com/en/condominium/xt-phayathai/",
       "copyright_source": "© Sansiri Public Company Limited / XT Phayathai",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "2320680abb8a0d406e6d3bdd30a40a4104e5cd0c6ae0e17f7068503679fb52d7",
+      "local_storage_path": "content/media/library/projects/xt-phayathai/files/gallery-01.jpg",
+      "rights_note": "mirrored_subset_pending_commercial_license",
+      "download_status": "partial_downloaded_pending_license",
       "gallery_image_urls": [
         "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-01.jpg",
         "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-02.jpg",
@@ -763,16 +765,92 @@
         "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-15.jpg",
         "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-16.jpg",
         "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-17.jpg"
+      ],
+      "id": "project:xt-phayathai:gallery",
+      "class": "gallery",
+      "entity_type": "project",
+      "entity_slug": "xt-phayathai",
+      "role": "gallery",
+      "license_note": "Official CDN/marketing images archived for checksum catalog (subset). Commercial reuse requires rights-holder license. Not portal/watermark sources.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Mirrored 8/17 official gallery URLs (cap 8).",
+      "mirrored_files": [
+        {
+          "index": 1,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-01.jpg",
+          "local_storage_path": "content/media/library/projects/xt-phayathai/files/gallery-01.jpg",
+          "public_path": "/projects/xt-phayathai/gallery-01.jpg",
+          "checksum_sha256": "2320680abb8a0d406e6d3bdd30a40a4104e5cd0c6ae0e17f7068503679fb52d7"
+        },
+        {
+          "index": 2,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-02.jpg",
+          "local_storage_path": "content/media/library/projects/xt-phayathai/files/gallery-02.jpg",
+          "public_path": "/projects/xt-phayathai/gallery-02.jpg",
+          "checksum_sha256": "4cf76253e7d73f7857da82f619f4ca1b94dcdc654f2458a12dfe79c7534cabf5"
+        },
+        {
+          "index": 3,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-03.jpg",
+          "local_storage_path": "content/media/library/projects/xt-phayathai/files/gallery-03.jpg",
+          "public_path": "/projects/xt-phayathai/gallery-03.jpg",
+          "checksum_sha256": "9956032b9542f53e3fd62f7b7b2cd1be4a74ee3414e7e8c3f043815923f1ff50"
+        },
+        {
+          "index": 4,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-05.jpg",
+          "local_storage_path": "content/media/library/projects/xt-phayathai/files/gallery-04.jpg",
+          "public_path": "/projects/xt-phayathai/gallery-04.jpg",
+          "checksum_sha256": "d33f27cfbc4ee8165c3d216abe21b73398307b59219dfc9e8349b6dd6f087167"
+        },
+        {
+          "index": 5,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-04.jpg",
+          "local_storage_path": "content/media/library/projects/xt-phayathai/files/gallery-05.jpg",
+          "public_path": "/projects/xt-phayathai/gallery-05.jpg",
+          "checksum_sha256": "f895df60d3965866dad00fe9c8c85a1268f6a026e45c34dea4a9b7469b1dc2a1"
+        },
+        {
+          "index": 6,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-06.jpg",
+          "local_storage_path": "content/media/library/projects/xt-phayathai/files/gallery-06.jpg",
+          "public_path": "/projects/xt-phayathai/gallery-06.jpg",
+          "checksum_sha256": "918fb0e9b649cbe9b1a17bf1850efff60814d6d97c90aebc005e1e0ab1320285"
+        },
+        {
+          "index": 7,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-07.jpg",
+          "local_storage_path": "content/media/library/projects/xt-phayathai/files/gallery-07.jpg",
+          "public_path": "/projects/xt-phayathai/gallery-07.jpg",
+          "checksum_sha256": "761e35d5a392b4d45a1c5a96322b4d24f3bfce916928abfd9c050ee1af01933e"
+        },
+        {
+          "index": 8,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-08.jpg",
+          "local_storage_path": "content/media/library/projects/xt-phayathai/files/gallery-08.jpg",
+          "public_path": "/projects/xt-phayathai/gallery-08.jpg",
+          "checksum_sha256": "53a58bca4be9e7d877a26ccb3affa4a76f1f013ee4cfbe0e068ec6e32868f450"
+        }
       ]
     },
     "brochure": {
       "official_url": "https://www.sansiri.com/uploads/docs/2018/08/28/21361a5c-8176-49a4-b972-b4a245f1a6d2.pdf",
       "copyright_source": "© Sansiri Public Company Limited / XT Phayathai — official brochure PDF",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "68e3f45108c97ef02567af99169469e1ecc52be01be4890d3da5adc7fc173d7b",
+      "local_storage_path": "content/media/library/projects/xt-phayathai/brochure.pdf",
+      "rights_note": "mirrored_to_storage",
+      "download_status": "downloaded",
+      "id": "project:xt-phayathai:brochure",
+      "class": "brochure",
+      "entity_type": "project",
+      "entity_slug": "xt-phayathai",
+      "role": "brochure",
+      "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Public path /projects/xt-phayathai/brochure.pdf"
     },
     "floor_plans": {
       "official_url": "https://www.sansiri.com/en/condominium/xt-phayathai/",
@@ -784,13 +862,22 @@
       "download_status": "not_downloaded_pending_license"
     },
     "hero": {
-      "official_url": "https://www.sansiri.com/en/condominium/xt-phayathai/",
+      "id": "project:xt-phayathai:hero",
+      "class": "hero",
+      "entity_type": "project",
+      "entity_slug": "xt-phayathai",
+      "role": "hero",
+      "official_url": "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-01.jpg",
       "copyright_source": "© Sansiri Public Company Limited / XT Phayathai",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "2320680abb8a0d406e6d3bdd30a40a4104e5cd0c6ae0e17f7068503679fb52d7",
+      "local_storage_path": "content/media/library/projects/xt-phayathai/hero.jpg",
+      "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+      "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+      "download_status": "downloaded_pending_license",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Selected from official gallery_image_urls[0] successful mirror"
     }
   },
   "content_factory": {

@@ -411,11 +411,11 @@
     "gallery": {
       "official_url": "https://mqdc.com/theforestias",
       "copyright_source": "© Magnolia Quality Development Corporation Limited / The Forestias",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "b4dd96a47252f9b11c4a2c2f4103d339713ad174da3088f03219413d002179eb",
+      "local_storage_path": "content/media/library/projects/the-forestias/files/gallery-01.webp",
+      "rights_note": "mirrored_subset_pending_commercial_license",
+      "download_status": "partial_downloaded_pending_license",
       "gallery_image_urls": [
         "https://mqdc.com/forestias/images/home/leaf.webp",
         "https://mqdc.com/forestias/images/home/leaf.png",
@@ -459,6 +459,73 @@
         "https://mqdc.com/forestias/images/project/sixsenses/six-senses-image-06.jpg",
         "https://mqdc.com/forestias/images/project/sixsenses/six-senses-image-07.jpg",
         "https://mqdc.com/forestias/images/project/sixsenses/six-senses-image-08.jpg"
+      ],
+      "id": "project:the-forestias:gallery",
+      "class": "gallery",
+      "entity_type": "project",
+      "entity_slug": "the-forestias",
+      "role": "gallery",
+      "license_note": "Official CDN/marketing images archived for checksum catalog (subset). Commercial reuse requires rights-holder license. Not portal/watermark sources.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Mirrored 8/42 official gallery URLs (cap 8).",
+      "mirrored_files": [
+        {
+          "index": 1,
+          "official_url": "https://mqdc.com/forestias/images/home/leaf.webp",
+          "local_storage_path": "content/media/library/projects/the-forestias/files/gallery-01.webp",
+          "public_path": "/projects/the-forestias/gallery-01.webp",
+          "checksum_sha256": "b4dd96a47252f9b11c4a2c2f4103d339713ad174da3088f03219413d002179eb"
+        },
+        {
+          "index": 2,
+          "official_url": "https://mqdc.com/forestias/images/home/leaf.png",
+          "local_storage_path": "content/media/library/projects/the-forestias/files/gallery-02.png",
+          "public_path": "/projects/the-forestias/gallery-02.png",
+          "checksum_sha256": "3cab85adec317d82d5450537a97cb16fbf127359b44bc772f59cf9b2838777ac"
+        },
+        {
+          "index": 3,
+          "official_url": "https://mqdc.com/forestias/images/home/mini-brochure/masterplan_en.jpg",
+          "local_storage_path": "content/media/library/projects/the-forestias/files/gallery-03.jpg",
+          "public_path": "/projects/the-forestias/gallery-03.jpg",
+          "checksum_sha256": "e91358d0eda6ff3d8e935a60d08c34f47e346bf5770d0be955654d13fcb36c47"
+        },
+        {
+          "index": 4,
+          "official_url": "https://mqdc.com/forestias/images/home/map-forest-mb.jpg",
+          "local_storage_path": "content/media/library/projects/the-forestias/files/gallery-04.jpg",
+          "public_path": "/projects/the-forestias/gallery-04.jpg",
+          "checksum_sha256": "0ea62eece76b5460c20fa249e0cb4e1e0ad7714976f3cb6b8da8ec4121a322f7"
+        },
+        {
+          "index": 5,
+          "official_url": "https://mqdc.com/forestias/images/home/forest/forest-1.jpg",
+          "local_storage_path": "content/media/library/projects/the-forestias/files/gallery-05.jpg",
+          "public_path": "/projects/the-forestias/gallery-05.jpg",
+          "checksum_sha256": "8d122576755da278dc5873656d539b8e1d7abcb8176b41e2256f95ffcc44e6f1"
+        },
+        {
+          "index": 6,
+          "official_url": "https://mqdc.com/forestias/images/home/forest/forest-2.jpg",
+          "local_storage_path": "content/media/library/projects/the-forestias/files/gallery-06.jpg",
+          "public_path": "/projects/the-forestias/gallery-06.jpg",
+          "checksum_sha256": "567ca351f7a1f9d40b5c4c9a39d8579032df0543d907002b06f81aa39e0ecf70"
+        },
+        {
+          "index": 7,
+          "official_url": "https://mqdc.com/forestias/images/home/forest/forest-3.jpg",
+          "local_storage_path": "content/media/library/projects/the-forestias/files/gallery-07.jpg",
+          "public_path": "/projects/the-forestias/gallery-07.jpg",
+          "checksum_sha256": "6bceef243d5803d2dc121649385fbe74747b48ee72321d4e509dcee594fb47c1"
+        },
+        {
+          "index": 8,
+          "official_url": "https://mqdc.com/forestias/images/home/forest/forest-4.jpg",
+          "local_storage_path": "content/media/library/projects/the-forestias/files/gallery-08.jpg",
+          "public_path": "/projects/the-forestias/gallery-08.jpg",
+          "checksum_sha256": "1ffe81866b32865bd5a29335f0f22a86b5e46fcc30b0cac5d876765f969fbc0e"
+        }
       ]
     },
     "brochure": {
@@ -480,13 +547,22 @@
       "download_status": "unverified_no_official_plans_published"
     },
     "hero": {
-      "official_url": "https://mqdc.com/theforestias",
+      "id": "project:the-forestias:hero",
+      "class": "hero",
+      "entity_type": "project",
+      "entity_slug": "the-forestias",
+      "role": "hero",
+      "official_url": "https://mqdc.com/forestias/images/home/leaf.webp",
       "copyright_source": "© Magnolia Quality Development Corporation Limited / The Forestias",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "b4dd96a47252f9b11c4a2c2f4103d339713ad174da3088f03219413d002179eb",
+      "local_storage_path": "content/media/library/projects/the-forestias/hero.webp",
+      "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+      "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+      "download_status": "downloaded_pending_license",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Selected from official gallery_image_urls[0] successful mirror"
     }
   },
   "content_factory": {

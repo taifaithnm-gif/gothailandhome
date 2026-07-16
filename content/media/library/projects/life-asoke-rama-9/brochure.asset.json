@@ -1,0 +1,18 @@
+{
+  "id": "project:life-asoke-rama-9:brochure",
+  "class": "brochure",
+  "entity_type": "project",
+  "entity_slug": "life-asoke-rama-9",
+  "role": "brochure",
+  "official_url": "https://www.apthai.com/images/production/zB8SXHVzYtABk71XgDyfgBoAlniSh4-metaTGlmZS1Bc29rZS1SYW1hOS5wZGY=-.pdf",
+  "copyright_source": "© AP Thailand / life-asoke-rama-9 — official brochure PDF",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "f8fe362c2f9ae953faeaa55fb2c34f8d727141a866b9737cf8f1b1bd45232181",
+  "local_storage_path": "content/media/library/projects/life-asoke-rama-9/brochure.pdf",
+  "rights_note": "mirrored_to_storage",
+  "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "phase": "11-media-factory-wave1",
+  "notes": "Public path /projects/life-asoke-rama-9/brochure.pdf"
+}

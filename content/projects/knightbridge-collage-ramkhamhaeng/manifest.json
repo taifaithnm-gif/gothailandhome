@@ -330,7 +330,9 @@
         "source": "official_developer",
         "source_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
       }
-    ]
+    ],
+    "official_brochure": "https://origin.co.th/wp-content/uploads/2019/04/E-Brochure-KNB-Collage-RamKhamhaeng-small.pdf",
+    "brochure_local_path": "/projects/knightbridge-collage-ramkhamhaeng/brochure.pdf"
   },
   "field_evidence": {
     "official_project_page": {
@@ -473,23 +475,31 @@
   },
   "media_library": {
     "hero": {
-      "official_url": "https://www.origin.co.th/",
-      "copyright_source": "© Origin Property / KnightBridge Collage Ramkhamhaeng — official project materials",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
-      "placeholder_path": null
+      "id": "project:knightbridge-collage-ramkhamhaeng:hero",
+      "class": "hero",
+      "entity_type": "project",
+      "entity_slug": "knightbridge-collage-ramkhamhaeng",
+      "role": "hero",
+      "official_url": "https://origin.co.th/wp-content/uploads/2019/04/DSC2667.jpg",
+      "copyright_source": "© Origin Property / knightbridge-collage-ramkhamhaeng — official project media",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "ece5173ce48c12a0aadfd5d5532179c0fa8cdd5db05f7f5820a47921c457ea40",
+      "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/hero.jpg",
+      "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+      "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+      "download_status": "downloaded_pending_license",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Selected from official gallery_image_urls[0] successful mirror"
     },
     "gallery": {
       "official_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",
-      "copyright_source": "© origin-property / KnightsBridge Collage Ramkhamhaeng",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license",
+      "copyright_source": "© Origin Property / knightbridge-collage-ramkhamhaeng — official project media",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "ece5173ce48c12a0aadfd5d5532179c0fa8cdd5db05f7f5820a47921c457ea40",
+      "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/files/gallery-01.jpg",
+      "rights_note": "mirrored_subset_pending_commercial_license",
+      "download_status": "partial_downloaded_pending_license",
       "gallery_image_urls": [
         "https://origin.co.th/wp-content/uploads/2019/04/DSC2667.jpg",
         "https://origin.co.th/wp-content/uploads/2019/04/DSC2696.jpg",
@@ -500,16 +510,92 @@
         "https://origin.co.th/wp-content/uploads/2019/04/DSC2801.jpg",
         "https://origin.co.th/wp-content/uploads/2019/04/DSC2793-retouch.jpg",
         "https://origin.co.th/wp-content/uploads/2019/04/DSC2787.jpg"
+      ],
+      "id": "project:knightbridge-collage-ramkhamhaeng:gallery",
+      "class": "gallery",
+      "entity_type": "project",
+      "entity_slug": "knightbridge-collage-ramkhamhaeng",
+      "role": "gallery",
+      "license_note": "Official CDN/marketing images archived for checksum catalog (subset). Commercial reuse requires rights-holder license. Not portal/watermark sources.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Mirrored 8/9 official gallery URLs (cap 8).",
+      "mirrored_files": [
+        {
+          "index": 1,
+          "official_url": "https://origin.co.th/wp-content/uploads/2019/04/DSC2667.jpg",
+          "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/files/gallery-01.jpg",
+          "public_path": "/projects/knightbridge-collage-ramkhamhaeng/gallery-01.jpg",
+          "checksum_sha256": "ece5173ce48c12a0aadfd5d5532179c0fa8cdd5db05f7f5820a47921c457ea40"
+        },
+        {
+          "index": 2,
+          "official_url": "https://origin.co.th/wp-content/uploads/2019/04/DSC2696.jpg",
+          "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/files/gallery-02.jpg",
+          "public_path": "/projects/knightbridge-collage-ramkhamhaeng/gallery-02.jpg",
+          "checksum_sha256": "1ef48181726db8df79dea0f6fb622437e0458520dbacf35aa3919cc20873adf9"
+        },
+        {
+          "index": 3,
+          "official_url": "https://origin.co.th/wp-content/uploads/2019/04/DSC2702.jpg",
+          "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/files/gallery-03.jpg",
+          "public_path": "/projects/knightbridge-collage-ramkhamhaeng/gallery-03.jpg",
+          "checksum_sha256": "050151249fa0532866047dd10b5a9b7251e108846611f7907c9837312ac7e37d"
+        },
+        {
+          "index": 4,
+          "official_url": "https://origin.co.th/wp-content/uploads/2019/04/DSC2758.jpg",
+          "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/files/gallery-04.jpg",
+          "public_path": "/projects/knightbridge-collage-ramkhamhaeng/gallery-04.jpg",
+          "checksum_sha256": "e11f4bf41fee877fbdd7e8efdca47fa356dea8727622f7be864c58ef07db3d25"
+        },
+        {
+          "index": 5,
+          "official_url": "https://origin.co.th/wp-content/uploads/2019/04/DSC2762.jpg",
+          "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/files/gallery-05.jpg",
+          "public_path": "/projects/knightbridge-collage-ramkhamhaeng/gallery-05.jpg",
+          "checksum_sha256": "0f748c6071c8d59886a8890d886a8b0cbf87a492226df3aebb18dfe750ab87a1"
+        },
+        {
+          "index": 6,
+          "official_url": "https://origin.co.th/wp-content/uploads/2019/04/DSC2808-1.jpg",
+          "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/files/gallery-06.jpg",
+          "public_path": "/projects/knightbridge-collage-ramkhamhaeng/gallery-06.jpg",
+          "checksum_sha256": "9187a0dabc067c3b92bea009a0359d49b1020dc592565510f36c1e7d12e70b1b"
+        },
+        {
+          "index": 7,
+          "official_url": "https://origin.co.th/wp-content/uploads/2019/04/DSC2801.jpg",
+          "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/files/gallery-07.jpg",
+          "public_path": "/projects/knightbridge-collage-ramkhamhaeng/gallery-07.jpg",
+          "checksum_sha256": "d5ee61124b9152415d40f61345f24965953bbf2b17c92ff79292369eab7b00d2"
+        },
+        {
+          "index": 8,
+          "official_url": "https://origin.co.th/wp-content/uploads/2019/04/DSC2793-retouch.jpg",
+          "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/files/gallery-08.jpg",
+          "public_path": "/projects/knightbridge-collage-ramkhamhaeng/gallery-08.jpg",
+          "checksum_sha256": "e7ba309e0dc7fc89953e60e54fa3ba0b1758b5bda788273962bf49000a78deda"
+        }
       ]
     },
     "brochure": {
       "official_url": "https://origin.co.th/wp-content/uploads/2019/04/E-Brochure-KNB-Collage-RamKhamhaeng-small.pdf",
-      "copyright_source": "© origin-property / KnightsBridge Collage Ramkhamhaeng — official brochure PDF",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "copyright_source": "© Origin Property / knightbridge-collage-ramkhamhaeng — official brochure PDF",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "e455c7b69eb25d731de9e20ba9e0b1ca7afdf6837c26330a8d5adda7198a64bd",
+      "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/brochure.pdf",
+      "rights_note": "mirrored_to_storage",
+      "download_status": "downloaded",
+      "id": "project:knightbridge-collage-ramkhamhaeng:brochure",
+      "class": "brochure",
+      "entity_type": "project",
+      "entity_slug": "knightbridge-collage-ramkhamhaeng",
+      "role": "brochure",
+      "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Public path /projects/knightbridge-collage-ramkhamhaeng/brochure.pdf"
     },
     "floor_plans": {
       "official_url": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/",

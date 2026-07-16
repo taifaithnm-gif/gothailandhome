@@ -4,13 +4,15 @@
   "entity_type": "developer",
   "entity_slug": "supalai",
   "role": "logo",
-  "official_url": "https://www.supalai.com/favicon.ico",
+  "official_url": "https://www.supalai.com/apple-touch-icon.png",
   "copyright_source": "© Supalai — official website identity asset",
   "downloaded_date": "2026-07-16",
-  "checksum_sha256": "1f14117e86989c94fff48ddec703fa12f31cce4761dbc4160555329f1d2f0d9b",
-  "local_storage_path": "content/media/library/developers/supalai/logo.ico",
+  "checksum_sha256": "db71d57c61f14d4ae52242446229254b108cc63a8c11e993958d45d67fca1fb4",
+  "local_storage_path": "content/media/library/developers/supalai/logo.png",
   "rights_note": "mirrored_to_storage",
+  "license_note": "Official website identity asset mirrored for catalog use. Trademark remains with rights holder.",
   "download_status": "downloaded",
   "verified_at": "2026-07-16",
-  "notes": "Public delivery copy: /developers/supalai/official-logo.ico. Placeholder SVG retained as non-trademark fallback."
+  "phase": "11-media-factory-wave1",
+  "notes": "Upgraded from favicon.ico to official apple-touch-icon (best obtainable brand mark; full vector logo not published at probed paths) Public delivery: /developers/supalai/official-logo.png"
 }

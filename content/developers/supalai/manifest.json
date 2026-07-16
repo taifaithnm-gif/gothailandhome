@@ -136,7 +136,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/supalai/logo.svg",
-  "logo_url": "/developers/supalai/official-logo.ico",
+  "logo_url": "/developers/supalai/official-logo.png",
   "phone": "0-2725-8888",
   "email": null,
   "seo": {
@@ -165,7 +165,7 @@
   "logo_source": {
     "status": "official",
     "path": "/developers/supalai/logo.svg",
-    "official_logo_url": "https://www.supalai.com/favicon.ico",
+    "official_logo_url": "https://www.supalai.com/apple-touch-icon.png",
     "favicon_url": "https://www.supalai.com/favicon.ico",
     "note": "Remote asset on official developer domain (or official CDN). Local SVG remains a non-trademark fallback glyph; do not treat local SVG as the registered mark.",
     "verified_at": "2026-07-16",
@@ -174,8 +174,8 @@
       "url": "https://www.supalai.com/",
       "asset_url": "https://www.supalai.com/favicon.ico"
     },
-    "cached_path": "/developers/supalai/official-logo.ico",
-    "checksum_sha256": "1f14117e86989c94fff48ddec703fa12f31cce4761dbc4160555329f1d2f0d9b",
+    "cached_path": "/developers/supalai/official-logo.png",
+    "checksum_sha256": "db71d57c61f14d4ae52242446229254b108cc63a8c11e993958d45d67fca1fb4",
     "downloaded_date": "2026-07-16"
   },
   "established_year_provenance": {
@@ -259,7 +259,7 @@
         "url": "https://www.supalai.com/favicon.ico"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.supalai.com/favicon.ico"
+      "value": "https://www.supalai.com/apple-touch-icon.png"
     },
     "favicon": {
       "field": "favicon",

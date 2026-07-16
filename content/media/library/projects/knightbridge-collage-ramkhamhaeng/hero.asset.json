@@ -4,13 +4,15 @@
   "entity_type": "project",
   "entity_slug": "knightbridge-collage-ramkhamhaeng",
   "role": "hero",
-  "official_url": "https://www.origin.co.th/",
-  "copyright_source": "© Origin Property / KnightBridge Collage Ramkhamhaeng — official project materials",
-  "downloaded_date": null,
-  "checksum_sha256": null,
-  "local_storage_path": null,
-  "rights_note": "hotlink",
-  "download_status": "placeholder_pending_official_mirror",
+  "official_url": "https://origin.co.th/wp-content/uploads/2019/04/DSC2667.jpg",
+  "copyright_source": "© Origin Property / knightbridge-collage-ramkhamhaeng — official project media",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "ece5173ce48c12a0aadfd5d5532179c0fa8cdd5db05f7f5820a47921c457ea40",
+  "local_storage_path": "content/media/library/projects/knightbridge-collage-ramkhamhaeng/hero.jpg",
+  "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+  "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+  "download_status": "downloaded_pending_license",
   "verified_at": "2026-07-16",
-  "notes": "Placeholder remains at n/a; official hero binary not mirrored without license."
+  "phase": "11-media-factory-wave1",
+  "notes": "Selected from official gallery_image_urls[0] successful mirror"
 }

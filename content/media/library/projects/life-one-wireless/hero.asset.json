@@ -4,13 +4,15 @@
   "entity_type": "project",
   "entity_slug": "life-one-wireless",
   "role": "hero",
-  "official_url": "https://www.apthai.com/",
-  "copyright_source": "© AP Thailand / Life One Wireless — official project materials",
-  "downloaded_date": null,
-  "checksum_sha256": null,
-  "local_storage_path": null,
-  "rights_note": "hotlink",
-  "download_status": "placeholder_pending_official_mirror",
+  "official_url": "https://www.apthai.com/images/production/condo_60015-gallery_image_1-en.jpg",
+  "copyright_source": "© AP Thailand / life-one-wireless — official project media",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "fa456cae8f9bf9ce6f06ce5ed5931827182398cd33a2aa9b0ed6631311aff460",
+  "local_storage_path": "content/media/library/projects/life-one-wireless/hero.jpg",
+  "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+  "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+  "download_status": "downloaded_pending_license",
   "verified_at": "2026-07-16",
-  "notes": "Placeholder remains at n/a; official hero binary not mirrored without license."
+  "phase": "11-media-factory-wave1",
+  "notes": "Selected from official gallery_image_urls[0] successful mirror"
 }

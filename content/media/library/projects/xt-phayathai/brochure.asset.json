@@ -6,8 +6,13 @@
   "role": "brochure",
   "official_url": "https://www.sansiri.com/uploads/docs/2018/08/28/21361a5c-8176-49a4-b972-b4a245f1a6d2.pdf",
   "copyright_source": "© Sansiri Public Company Limited / XT Phayathai — official brochure PDF",
-  "download_status": "not_downloaded_pending_license",
-  "rights_note": "hotlink",
-  "notes": "Official brochure PDF URL registered; binary not mirrored pending license.",
-  "verified_at": "2026-07-16"
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "68e3f45108c97ef02567af99169469e1ecc52be01be4890d3da5adc7fc173d7b",
+  "local_storage_path": "content/media/library/projects/xt-phayathai/brochure.pdf",
+  "rights_note": "mirrored_to_storage",
+  "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "phase": "11-media-factory-wave1",
+  "notes": "Public path /projects/xt-phayathai/brochure.pdf"
 }

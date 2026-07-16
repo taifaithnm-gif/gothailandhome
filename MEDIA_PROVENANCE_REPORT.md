@@ -1,49 +1,65 @@
 # MEDIA_PROVENANCE_REPORT
 
-**Milestone:** Phase 10 Sprint 4 · **Date:** 2026-07-16
+**Milestone:** Phase 11 Media Factory Wave 1  
+**Date:** 2026-07-16  
+**Rule:** Every mirrored asset records `official_url`, `copyright_source`, `checksum_sha256`, `verified_at`, `license_note`.
 
-## Provenance model
+## Provenance fields (required)
 
-| Field | Meaning |
+| Field | Purpose |
 |-------|---------|
-| `official_url` | Source on developer/project official domain or CDN |
-| `copyright_source` | Attribution string (developer/project owner) |
-| `downloaded_date` | ISO date when binary was mirrored (null if hotlink-only) |
-| `checksum_sha256` | SHA-256 of local bytes (null if not mirrored) |
-| `local_storage_path` | Repo-relative path under `content/media/library/` |
-| `rights_note` | `mirrored_to_storage` \| `hotlink` \| `unknown` |
+| `official_url` | Exact source on developer/project domain or official CDN |
+| `copyright_source` | Rights-holder attribution string |
+| `checksum_sha256` | Integrity of mirrored bytes |
+| `downloaded_date` / `verified_at` | `2026-07-16` |
+| `license_note` | Catalog vs commercial-use posture |
+| `local_storage_path` | Path under `content/media/library/…` |
 
-## Mirrored binaries (sample)
+## Logo provenance (upgrades)
 
-| ID | Official URL | Checksum (12) | Local path |
-|----|--------------|---------------|------------|
-| developer:ananda-development:logo | https://www.ananda.co.th/favicon.ico | `ede8a89a2764…` | `content/media/library/developers/ananda-development/logo.ico` |
-| developer:ananda-development:favicon | https://www.ananda.co.th/favicon.ico | `ede8a89a2764…` | `content/media/library/developers/ananda-development/favicon.ico` |
-| developer:ap-thailand:logo | https://www.apthai.com/favicon.ico | `bd5e1351c080…` | `content/media/library/developers/ap-thailand/logo.ico` |
-| developer:ap-thailand:favicon | https://www.apthai.com/favicon.ico | `bd5e1351c080…` | `content/media/library/developers/ap-thailand/favicon.ico` |
-| developer:assetwise:logo | https://cdn.assetwise.co.th/wp-content/themes/seed-spring/img/asw-logo_horizontal.svg | `b2b86393aeec…` | `content/media/library/developers/assetwise/logo.svg` |
-| developer:assetwise:favicon | https://cdn.assetwise.co.th/wp-content/uploads/2025/10/cropped-asw-black-logo-ract_512-32x32.jpg | `13b82dc70b20…` | `content/media/library/developers/assetwise/favicon.jpg` |
-| developer:capitaland-thailand:logo | https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png | `84da33caefc7…` | `content/media/library/developers/capitaland-thailand/logo.png` |
-| developer:capitaland-thailand:favicon | https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png | `84da33caefc7…` | `content/media/library/developers/capitaland-thailand/favicon.png` |
-| developer:frasers-property-thailand:logo | https://www.frasersproperty.com/content/dam/frasersproperty/feature/project/frasers_logos/frasers-logo.png | `a4d21b22959c…` | `content/media/library/developers/frasers-property-thailand/logo.png` |
-| developer:frasers-property-thailand:favicon | https://www.frasersproperty.co.th/favicon.ico | `5fe626aaef62…` | `content/media/library/developers/frasers-property-thailand/favicon.ico` |
-| developer:land-and-houses:logo | https://www.lh.co.th/images/footer/LH-logo.webp | `3a20a8631c3c…` | `content/media/library/developers/land-and-houses/logo.webp` |
-| developer:land-and-houses:favicon | https://www.lh.co.th/icon.ico?c09c4c2462d726db | `5f9986d54aa2…` | `content/media/library/developers/land-and-houses/favicon.ico` |
-| developer:lpn-development:logo | https://www.lpn.co.th/favicon.ico?v=1 | `9c71c42504c2…` | `content/media/library/developers/lpn-development/logo.ico` |
-| developer:lpn-development:favicon | https://www.lpn.co.th/favicon.ico?v=1 | `9c71c42504c2…` | `content/media/library/developers/lpn-development/favicon.ico` |
-| developer:major-development:logo | https://www.major.co.th/favicon.ico | `f1945cd6c19e…` | `content/media/library/developers/major-development/logo.ico` |
-| developer:major-development:favicon | https://www.major.co.th/favicon.ico | `f1945cd6c19e…` | `content/media/library/developers/major-development/favicon.ico` |
-| developer:mqdc:logo | https://mqdc.com/images/mqdc.webp | `2555cf537dbf…` | `content/media/library/developers/mqdc/logo.webp` |
-| developer:mqdc:favicon | https://mqdc.com/favicon/favicon.ico | `bdc9b3e51935…` | `content/media/library/developers/mqdc/favicon.ico` |
-| developer:noble-development:logo | https://www.noblehome.com/favicon.ico | `b140fdee9f43…` | `content/media/library/developers/noble-development/logo.ico` |
-| developer:noble-development:favicon | https://www.noblehome.com/favicon.ico | `b140fdee9f43…` | `content/media/library/developers/noble-development/favicon.ico` |
-| developer:origin-property:logo | https://origin.co.th/wp-content/uploads/2022/01/cropped-new-logo-origin-icon-32x32.png | `d31a4ed35837…` | `content/media/library/developers/origin-property/logo.png` |
-| developer:origin-property:favicon | https://origin.co.th/wp-content/uploads/2022/01/cropped-new-logo-origin-icon-32x32.png | `d31a4ed35837…` | `content/media/library/developers/origin-property/favicon.png` |
-| developer:pruksa-holding:logo | https://static.pruksa.com/static/favicons/safari-pinned-tab.svg | `1530c0fb3b8a…` | `content/media/library/developers/pruksa-holding/logo.svg` |
-| developer:pruksa-holding:favicon | https://static.pruksa.com/static/favicons/safari-pinned-tab.svg | `1530c0fb3b8a…` | `content/media/library/developers/pruksa-holding/favicon.svg` |
-| developer:quality-houses:logo | https://www.qh.co.th/img/logo.svg | `d212493e21ad…` | `content/media/library/developers/quality-houses/logo.svg` |
-| … | 16 more | | |
+| Slug | Official URL | Checksum present |
+|------|--------------|:----------------:|
+| ap-thailand | https://www.apthai.com/images/production/AP_Logo.png | ✓ |
+| lpn-development | https://www.lpn.co.th/images/layout/logo-2.svg | ✓ |
+| noble-development | https://www.noblehome.com/images/logo.svg | ✓ |
+| supalai | https://www.supalai.com/apple-touch-icon.png | ✓ |
 
-## Hotlink-only classes
+Other 16 logos retain prior Sprint 4 mirror provenance; `license_note` stamped in Wave 1.
 
-Galleries, floor plans, and heroes point at official pages/sections. Binaries intentionally **not** scraped.
+## Brochure provenance (PDF)
+
+| Project | Official PDF host |
+|---------|-------------------|
+| rhythm-ekkamai | apthai.com |
+| life-asoke-rama-9 | apthai.com |
+| life-ladprao | apthai.com |
+| life-one-wireless | apthai.com |
+| modiz-rhyme-ramkhamhaeng | cdn.assetwise.co.th |
+| knightbridge-collage-ramkhamhaeng | origin.co.th |
+| knightsbridge-prime-sathorn | en.origin.co.th |
+| supalai-oriental-sukhumvit-39 | supalai.com |
+| the-line-sukhumvit-101 | sansiri.com |
+| xt-phayathai | sansiri.com |
+| xt-huai-khwang | sansiri.com |
+
+## Gallery / hero provenance hosts
+
+| Host pattern | Projects |
+|--------------|----------|
+| en.origin.co.th / origin.co.th uploads | KnightsBridge Prime, Collage |
+| apthai.com production images | Rhythm, LIFE towers |
+| sansiri.com / assets | XT, THE LINE |
+| supalai.com stocks | Oriental Sukhumvit 39 |
+| mqdc.com / corecms.mqdc.com | Forestias, Whizdom Essence |
+| cdn.assetwise.co.th | Modiz Rhyme |
+
+## Explicit non-sources
+
+- PropertyHub / Hipflat / DDProperty / FazWaz images  
+- Agency resale sites (e.g. theesseasoke.com)  
+- Browser screenshots  
+- Fabricated placeholders presented as official photos  
+
+## Machine index
+
+`pipelines/factory/media-library/wave1_media_factory_snapshot.json` lists every download, skip, and failure with reasons.

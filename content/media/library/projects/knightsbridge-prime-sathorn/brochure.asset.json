@@ -3,8 +3,16 @@
   "class": "brochure",
   "entity_type": "project",
   "entity_slug": "knightsbridge-prime-sathorn",
+  "role": "brochure",
   "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/KNB-Prime-Sathorn-A4-.pdf",
-  "download_status": "not_downloaded_pending_license",
-  "updated_at": "2026-07-16",
-  "phase": "11-wave-2"
+  "copyright_source": "© Origin Property / knightsbridge-prime-sathorn — official brochure PDF",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "8bbf1bc3628bc43ba69ca1beb7e4c5faa3ab204406144f5e55866df781953a30",
+  "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/brochure.pdf",
+  "rights_note": "mirrored_to_storage",
+  "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "phase": "11-media-factory-wave1",
+  "notes": "Public path /projects/knightsbridge-prime-sathorn/brochure.pdf"
 }

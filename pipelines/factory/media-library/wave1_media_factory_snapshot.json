@@ -1,0 +1,1134 @@
+{
+  "phase": "11-media-factory-wave1",
+  "verified_at": "2026-07-16",
+  "counts": {
+    "logos_upgraded": 4,
+    "logos_retained": 16,
+    "logos_failed": 0,
+    "heroes_downloaded": 13,
+    "heroes_skipped": 37,
+    "galleries_downloaded": 13,
+    "galleries_skipped": 37,
+    "brochures_downloaded": 11,
+    "brochures_failed": 0,
+    "brochures_skipped": 39,
+    "floor_plans_downloaded": 1,
+    "floor_plans_skipped": 49
+  },
+  "report": {
+    "phase": "11-media-factory-wave1",
+    "verified_at": "2026-07-16",
+    "logos": {
+      "upgraded": [
+        {
+          "slug": "ap-thailand",
+          "url": "https://www.apthai.com/images/production/AP_Logo.png"
+        },
+        {
+          "slug": "lpn-development",
+          "url": "https://www.lpn.co.th/images/layout/logo-2.svg"
+        },
+        {
+          "slug": "noble-development",
+          "url": "https://www.noblehome.com/images/logo.svg"
+        },
+        {
+          "slug": "supalai",
+          "url": "https://www.supalai.com/apple-touch-icon.png"
+        }
+      ],
+      "retained": [
+        {
+          "slug": "ananda-development",
+          "url": "https://www.ananda.co.th/favicon.ico",
+          "checksum_sha256": "ede8a89a2764151aadc2583e7941e67cdfb91804599726fd3e202524aebb5596",
+          "note": "Incapsula/SPA blocks logo discovery; retain mirrored favicon.ico as best obtainable official identity asset",
+          "weak_favicon": true,
+          "ok": true
+        },
+        {
+          "slug": "assetwise",
+          "url": "https://cdn.assetwise.co.th/wp-content/themes/seed-spring/img/asw-logo_horizontal.svg",
+          "checksum_sha256": "b2b86393aeec3d609f6b5e59029e3f09480a3db4ac869554e8845bd491e36e7e",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "capitaland-thailand",
+          "url": "https://www.capitaland.com/etc.clientlibs/capitaland/clientlibs/clientlib-capitaland/resources/icon-192x192.png",
+          "checksum_sha256": "84da33caefc7715e6caa76792856dc51fe7b19eda18ae7a28a19762f791c64da",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "frasers-property-thailand",
+          "url": "https://www.frasersproperty.com/content/dam/frasersproperty/feature/project/frasers_logos/frasers-logo.png",
+          "checksum_sha256": "a4d21b22959c25fb66a5eabe86f9faf2c11bac56ac330b664e7ce0c2efac0276",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "land-and-houses",
+          "url": "https://www.lh.co.th/images/footer/LH-logo.webp",
+          "checksum_sha256": "3a20a8631c3c46d5747630ade2d6d368a0116cbfc6aa39726f3568f95f38fff1",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "major-development",
+          "url": "https://www.major.co.th/favicon.ico",
+          "checksum_sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+          "note": "major.co.th returns empty shells for logo paths; retain mirrored favicon.ico",
+          "weak_favicon": true,
+          "ok": true
+        },
+        {
+          "slug": "mqdc",
+          "url": "https://mqdc.com/images/mqdc.webp",
+          "checksum_sha256": "2555cf537dbf955a82c887c482530e1d451db35e206d5572df95b84a11b92a8b",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "origin-property",
+          "url": "https://origin.co.th/wp-content/uploads/2022/01/cropped-new-logo-origin-icon-32x32.png",
+          "checksum_sha256": "d31a4ed358375eaa526d88e4a205b5f7492ba9ea3682a3e2aba52451cb2075f1",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "pruksa-holding",
+          "url": "https://static.pruksa.com/static/favicons/safari-pinned-tab.svg",
+          "checksum_sha256": "1530c0fb3b8a92270d64888d0dc40a410c2268705ea2dc5cdf75702007b87a79",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "quality-houses",
+          "url": "https://www.qh.co.th/img/logo.svg",
+          "checksum_sha256": "d212493e21ad21024e9c0d2df5dfa2931856e9dfe2e2ea80e21b6f99c12d4569",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "raimon-land",
+          "url": "https://www.raimonland.com/assets/images/logo-horizontal.svg",
+          "checksum_sha256": "a6d2bb5306d839ddc5541b8d33262f9fa0c1294df95e5f0d5ae5bc39658b83ba",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "risland-thailand",
+          "url": "https://www.livinram.com/assets/img/logo.png",
+          "checksum_sha256": "5c833ed183c4e7de75bac70869deb2bb58e1394dc5e2d4eb1010c4b7e4a6f5d1",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "sansiri",
+          "url": "https://assets.sansiri.com/o77site/social/sansiri-corporate-share-1200x630.jpg",
+          "checksum_sha256": "f032647341fcd10c77800bab89f0becc860c64c96c0846878f1f9995bb471ae3",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "sc-asset",
+          "url": "https://www.scasset.com/images/layout/logo/sc-logo.svg",
+          "checksum_sha256": "10f538722fb65c96b8f855714544eaa77ade7c51f140e20da15135a0dcdbd296",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "sena-development",
+          "url": "https://www.sena.co.th/images/logo-scroll.svg",
+          "checksum_sha256": "66667d50cd31dc6cfa49aa572cad404480d4680cddc371794d750e1ec2862a23",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        },
+        {
+          "slug": "singha-estate",
+          "url": "https://www.singhaestate.co.th/assets/images/logo-small-w.svg",
+          "checksum_sha256": "e1260769a58a5644927f99789ebe180e46617c75ce6429d627f95caec5bb9c2d",
+          "note": "Already mirrored official identity asset",
+          "weak_favicon": false,
+          "ok": true
+        }
+      ],
+      "failed": [],
+      "skipped": []
+    },
+    "heroes": {
+      "downloaded": [
+        {
+          "slug": "knightbridge-collage-ramkhamhaeng",
+          "url": "https://origin.co.th/wp-content/uploads/2019/04/DSC2667.jpg",
+          "checksum_sha256": "ece5173ce48c12a0aadfd5d5532179c0fa8cdd5db05f7f5820a47921c457ea40"
+        },
+        {
+          "slug": "knightsbridge-prime-sathorn",
+          "url": "https://en.origin.co.th/wp-content/uploads/2019/04/1474541692-1-2.jpg",
+          "checksum_sha256": "9f3b1baf03ca93fd972400d8509b6ec498b77b7152ae55dcc5dc4df295679310"
+        },
+        {
+          "slug": "life-asoke-rama-9",
+          "url": "https://www.apthai.com/images/production/condo_60016-gallery_image_1-en.jpg",
+          "checksum_sha256": "8b86e148db550e60b3956fec8ad3d61c48668ef14c7e21081e5c22b2349eb326"
+        },
+        {
+          "slug": "life-ladprao",
+          "url": "https://www.apthai.com/images/production/condo_60010-gallery_image_1-en.jpg",
+          "checksum_sha256": "c3a4fd138e12753b0e08cebdd119a37852d5e353390ccecc13a878d69bfabd3f"
+        },
+        {
+          "slug": "life-one-wireless",
+          "url": "https://www.apthai.com/images/production/condo_60015-gallery_image_1-en.jpg",
+          "checksum_sha256": "fa456cae8f9bf9ce6f06ce5ed5931827182398cd33a2aa9b0ed6631311aff460"
+        },
+        {
+          "slug": "rhythm-ekkamai",
+          "url": "https://www.apthai.com/images/production/Teiuc8G0PyO0OJCe0o73otNBM6SFbN-metaRDNoNEc5ZFRJOC0xNzY3NzUzNTMxNTQ3LWltYWdlLmpwZw==-.jpg",
+          "checksum_sha256": "dde3093635a9508a63fd06c85c307087bcc49c04cb3c3c10e0a476f4b55bb423"
+        },
+        {
+          "slug": "supalai-oriental-sukhumvit-39",
+          "url": "https://www.supalai.com/stocks/project/o0x0/xi/nl/sa4dxinlmxk/Architecture_Night_Shot_(1).jpg",
+          "checksum_sha256": "c0ba92ee4b79a13aeac8ecebae92fd349be74e5e15fdb10f2ab1361d975ef255"
+        },
+        {
+          "slug": "the-forestias",
+          "url": "https://mqdc.com/forestias/images/home/leaf.webp",
+          "checksum_sha256": "b4dd96a47252f9b11c4a2c2f4103d339713ad174da3088f03219413d002179eb"
+        },
+        {
+          "slug": "the-line-sukhumvit-101",
+          "url": "https://www.sansiri.com/uploads/gallery/2017/01/23/42111163-ed8c-4f1f-8602-9e414bd8c937.jpg",
+          "checksum_sha256": "d82691546dea8fcc03d78a0d8a2562d5eda9a9013eb48b924f26a457d7aac957"
+        },
+        {
+          "slug": "whizdom-essence",
+          "url": "https://corecms.mqdc.com/assets/6c8072ff-075b-42d6-bcb1-b449ecdf1b08",
+          "checksum_sha256": "037d706329050225f0a80d4e8a5499921e159a0bc1bc9798b5e627ba3672559e"
+        },
+        {
+          "slug": "xt-huai-khwang",
+          "url": "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-02.jpg",
+          "checksum_sha256": "8bed7ea207f6b4552ceccab3a8fc017801800eb7e6f8ae47894923139dc2d9f2"
+        },
+        {
+          "slug": "xt-phayathai",
+          "url": "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-01.jpg",
+          "checksum_sha256": "2320680abb8a0d406e6d3bdd30a40a4104e5cd0c6ae0e17f7068503679fb52d7"
+        },
+        {
+          "slug": "modiz-rhyme-ramkhamhaeng",
+          "url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-New-Web-Material-1425-x-585-px.jpg",
+          "checksum_sha256": "d6aec6efb95b2d4ce811a60fcff23c4dd1e6875131badd814962d8ce7121c18a",
+          "supplemental": true
+        }
+      ],
+      "skipped": [
+        {
+          "slug": "168-sukhothai-residences",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.raimonland.com/"
+        },
+        {
+          "slug": "ascott-embassy-sathorn",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.capitaland.com/th/en.html"
+        },
+        {
+          "slug": "ashton-asoke",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.ananda.co.th/en/condominium/ashton-asoke"
+        },
+        {
+          "slug": "aspire-sathorn-taksin",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.apthai.com/th/condominium/aspire-sathorn-taksin-priva"
+        },
+        {
+          "slug": "casa-condo-asoke-dindaeng",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.qh.co.th/"
+        },
+        {
+          "slug": "chapter-one-midtown-ladprao-24",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.pruksa.com/"
+        },
+        {
+          "slug": "chapter-one-shine-bang-pho",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.pruksa.com/"
+        },
+        {
+          "slug": "condo-u-sukhumvit-62-1",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.sansiri.com/"
+        },
+        {
+          "slug": "ideo-mobi-sukhumvit-66",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.ananda.co.th/"
+        },
+        {
+          "slug": "ideo-q-sukhumvit-36",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+        },
+        {
+          "slug": "ideo-rama-9",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+        },
+        {
+          "slug": "kave-town-space",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.assetwise.co.th/"
+        },
+        {
+          "slug": "lumpini-ville-phahol-saphanmai",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.lpn.co.th/"
+        },
+        {
+          "slug": "m-jive-sathorn-lumphini",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.major.co.th/"
+        },
+        {
+          "slug": "m-silom",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.major.co.th/"
+        },
+        {
+          "slug": "maestro-03-ratchada-rama-9",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.major.co.th/"
+        },
+        {
+          "slug": "niche-pride-thonglor-phetchaburi",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.sena.co.th/"
+        },
+        {
+          "slug": "noble-around-ari",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.noblehome.com/en/condominium/around-ari"
+        },
+        {
+          "slug": "noble-beat",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.noblehome.com/"
+        },
+        {
+          "slug": "noble-revolve-ratchada",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.noblehome.com/"
+        },
+        {
+          "slug": "one-bangkok",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.onebangkok.com/en/"
+        },
+        {
+          "slug": "origin-plug-play-sukhumvit-101",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.origin.co.th/"
+        },
+        {
+          "slug": "samyan-mitrtown",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.samyanmitrtown.com/"
+        },
+        {
+          "slug": "singha-complex",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.singhaestate.co.th/"
+        },
+        {
+          "slug": "supalai-elite-phayathai",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.supalai.com/"
+        },
+        {
+          "slug": "supalai-lite-sathorn-charoenrat",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.supalai.com/"
+        },
+        {
+          "slug": "supalai-veranda-rama-9",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.supalai.com/"
+        },
+        {
+          "slug": "the-base-sukhumvit-77",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
+        },
+        {
+          "slug": "the-esse-asoke",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.scasset.com/"
+        },
+        {
+          "slug": "the-esse-sukhumvit-36",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.scasset.com/"
+        },
+        {
+          "slug": "the-livin-ramkhamhaeng",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.livinram.com/en"
+        },
+        {
+          "slug": "the-lofts-silom",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.raimonland.com/"
+        },
+        {
+          "slug": "the-privacy-rama-9",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.pruksa.com/"
+        },
+        {
+          "slug": "the-room-sathorn-taksin",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.lh.co.th/"
+        },
+        {
+          "slug": "the-room-sukhumvit-62",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.lh.co.th/"
+        },
+        {
+          "slug": "the-tree-rio-bang-aor",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.pruksa.com/"
+        },
+        {
+          "slug": "vyva-thonglor",
+          "reason": "Hero points at page/homepage — no direct official image URL",
+          "url": "https://www.scasset.com/"
+        }
+      ]
+    },
+    "galleries": {
+      "downloaded": [
+        {
+          "slug": "knightbridge-collage-ramkhamhaeng",
+          "mirrored": 8,
+          "available": 9
+        },
+        {
+          "slug": "knightsbridge-prime-sathorn",
+          "mirrored": 8,
+          "available": 11
+        },
+        {
+          "slug": "life-asoke-rama-9",
+          "mirrored": 8,
+          "available": 15
+        },
+        {
+          "slug": "life-ladprao",
+          "mirrored": 6,
+          "available": 6
+        },
+        {
+          "slug": "life-one-wireless",
+          "mirrored": 6,
+          "available": 6
+        },
+        {
+          "slug": "rhythm-ekkamai",
+          "mirrored": 8,
+          "available": 24
+        },
+        {
+          "slug": "supalai-oriental-sukhumvit-39",
+          "mirrored": 8,
+          "available": 12
+        },
+        {
+          "slug": "the-forestias",
+          "mirrored": 8,
+          "available": 42
+        },
+        {
+          "slug": "the-line-sukhumvit-101",
+          "mirrored": 8,
+          "available": 11
+        },
+        {
+          "slug": "whizdom-essence",
+          "mirrored": 8,
+          "available": 27
+        },
+        {
+          "slug": "xt-huai-khwang",
+          "mirrored": 8,
+          "available": 14
+        },
+        {
+          "slug": "xt-phayathai",
+          "mirrored": 8,
+          "available": 17
+        },
+        {
+          "slug": "modiz-rhyme-ramkhamhaeng",
+          "mirrored": 8,
+          "available": 8,
+          "supplemental": true
+        }
+      ],
+      "partial": [],
+      "skipped": [
+        {
+          "slug": "168-sukhothai-residences",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "ascott-embassy-sathorn",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "ashton-asoke",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://www.ananda.co.th/en/condominium/ashton-asoke"
+        },
+        {
+          "slug": "aspire-sathorn-taksin",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://www.apthai.com/th/condominium/aspire-sathorn-taksin-priva"
+        },
+        {
+          "slug": "casa-condo-asoke-dindaeng",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "chapter-one-midtown-ladprao-24",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "chapter-one-shine-bang-pho",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "condo-u-sukhumvit-62-1",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://www.sansiri.com/"
+        },
+        {
+          "slug": "ideo-mobi-sukhumvit-66",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://www.ananda.co.th/"
+        },
+        {
+          "slug": "ideo-q-sukhumvit-36",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+        },
+        {
+          "slug": "ideo-rama-9",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+        },
+        {
+          "slug": "kave-town-space",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://www.assetwise.co.th/"
+        },
+        {
+          "slug": "lumpini-ville-phahol-saphanmai",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "m-jive-sathorn-lumphini",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "m-silom",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "maestro-03-ratchada-rama-9",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "niche-pride-thonglor-phetchaburi",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "noble-around-ari",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "noble-beat",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "noble-revolve-ratchada",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "one-bangkok",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "origin-plug-play-sukhumvit-101",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "samyan-mitrtown",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "singha-complex",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "supalai-elite-phayathai",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://www.supalai.com/"
+        },
+        {
+          "slug": "supalai-lite-sathorn-charoenrat",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://www.supalai.com/"
+        },
+        {
+          "slug": "supalai-veranda-rama-9",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://www.supalai.com/"
+        },
+        {
+          "slug": "the-base-sukhumvit-77",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
+        },
+        {
+          "slug": "the-esse-asoke",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke"
+        },
+        {
+          "slug": "the-esse-sukhumvit-36",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36"
+        },
+        {
+          "slug": "the-livin-ramkhamhaeng",
+          "reason": "Official gallery page registered but no direct image URLs",
+          "page": "https://www.livinram.com/en"
+        },
+        {
+          "slug": "the-lofts-silom",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "the-privacy-rama-9",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "the-room-sathorn-taksin",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "the-room-sukhumvit-62",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "the-tree-rio-bang-aor",
+          "reason": "No official gallery image URLs",
+          "page": null
+        },
+        {
+          "slug": "vyva-thonglor",
+          "reason": "No official gallery image URLs",
+          "page": null
+        }
+      ]
+    },
+    "brochures": {
+      "downloaded": [
+        {
+          "slug": "knightbridge-collage-ramkhamhaeng",
+          "url": "https://origin.co.th/wp-content/uploads/2019/04/E-Brochure-KNB-Collage-RamKhamhaeng-small.pdf",
+          "checksum_sha256": "e455c7b69eb25d731de9e20ba9e0b1ca7afdf6837c26330a8d5adda7198a64bd",
+          "already": true
+        },
+        {
+          "slug": "knightsbridge-prime-sathorn",
+          "url": "https://en.origin.co.th/wp-content/uploads/2019/04/KNB-Prime-Sathorn-A4-.pdf",
+          "checksum_sha256": "8bbf1bc3628bc43ba69ca1beb7e4c5faa3ab204406144f5e55866df781953a30",
+          "already": true
+        },
+        {
+          "slug": "life-asoke-rama-9",
+          "url": "https://www.apthai.com/images/production/zB8SXHVzYtABk71XgDyfgBoAlniSh4-metaTGlmZS1Bc29rZS1SYW1hOS5wZGY=-.pdf",
+          "checksum_sha256": "f8fe362c2f9ae953faeaa55fb2c34f8d727141a866b9737cf8f1b1bd45232181",
+          "already": true
+        },
+        {
+          "slug": "life-ladprao",
+          "url": "https://www.apthai.com/images/production/LaurEIXqeyPrdeAuClpxnftVFBImkr-metaRS1CUk9DSFVSRV9MQURQUkFPXzMxMDgyMS5wZGY=-.pdf",
+          "checksum_sha256": "9948676945ee21acad0f4dd213fc6fadd7eb1d5b89763cc30fa9567bbcc57aa8",
+          "already": true
+        },
+        {
+          "slug": "life-one-wireless",
+          "url": "https://www.apthai.com/images/production/nINTvd3zSuGHvTsxNXSNaxWykFYKyN-metaRS1CUk9DSFVSRV9PTkUtV0lSRUxFU1NfMDUwNDIxLnBkZg==-.pdf",
+          "checksum_sha256": "e30f3c099ea8eb15bbe27b4fd883bff28480ae0eaba5cdd62ba34d53ff945ebf",
+          "already": true
+        },
+        {
+          "slug": "modiz-rhyme-ramkhamhaeng",
+          "url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/10/Page-Modiz-Rhyme-Brochure.pdf",
+          "checksum_sha256": "0f7dc7362efa6976ee98d949891947ae46f272b8e52b73a6b9c368ef0cf8c66c",
+          "already": true
+        },
+        {
+          "slug": "rhythm-ekkamai",
+          "url": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf",
+          "checksum_sha256": "bb07d3ef2355c14c3332cb34a1053cf777345d8b0f97bfa182633dd28bc41c2d",
+          "already": true
+        },
+        {
+          "slug": "supalai-oriental-sukhumvit-39",
+          "url": "https://www.supalai.com/stocks/project/o0x0/9f/zv/ahbg9fzvjpr/E-Brochure-oriental_39-181266.pdf",
+          "checksum_sha256": "c6fe7f6d7c5c1cb547c9bad27679d9595ec7906c55e090f3a8ddd50672ae95d1",
+          "already": true
+        },
+        {
+          "slug": "the-line-sukhumvit-101",
+          "url": "https://www.sansiri.com/uploads/docs/2017/01/24/e3f71a73-254d-4666-abd2-61cdf56ff82c.pdf",
+          "checksum_sha256": "5062dbd7cfa3ef4991b7d3c8d66408690817d44b31f2af39a87592e8428b1145",
+          "already": true
+        },
+        {
+          "slug": "xt-huai-khwang",
+          "url": "https://www.sansiri.com/uploads/docs/2018/09/20/b55832b2-8d6d-45a5-83e0-5136a85bf780.pdf",
+          "checksum_sha256": "bfe1129dc92611b738b2d08288e6ac8dd65479c0ca88603c227928025af82c42",
+          "already": true
+        },
+        {
+          "slug": "xt-phayathai",
+          "url": "https://www.sansiri.com/uploads/docs/2018/08/28/21361a5c-8176-49a4-b972-b4a245f1a6d2.pdf",
+          "checksum_sha256": "68e3f45108c97ef02567af99169469e1ecc52be01be4890d3da5adc7fc173d7b",
+          "already": true
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "slug": "168-sukhothai-residences",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "ascott-embassy-sathorn",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "ashton-asoke",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "aspire-sathorn-taksin",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "casa-condo-asoke-dindaeng",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "chapter-one-midtown-ladprao-24",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "chapter-one-shine-bang-pho",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "condo-u-sukhumvit-62-1",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "ideo-mobi-sukhumvit-66",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "ideo-q-sukhumvit-36",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "ideo-rama-9",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "kave-town-space",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "lumpini-ville-phahol-saphanmai",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "m-jive-sathorn-lumphini",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "m-silom",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "maestro-03-ratchada-rama-9",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "niche-pride-thonglor-phetchaburi",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "noble-around-ari",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "noble-beat",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "noble-revolve-ratchada",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "one-bangkok",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "origin-plug-play-sukhumvit-101",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "samyan-mitrtown",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "singha-complex",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "supalai-elite-phayathai",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "supalai-lite-sathorn-charoenrat",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "supalai-veranda-rama-9",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "the-base-sukhumvit-77",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "the-esse-asoke",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "the-esse-sukhumvit-36",
+          "reason": "Official brochure control/page only — no direct PDF URL",
+          "url": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36"
+        },
+        {
+          "slug": "the-forestias",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "the-livin-ramkhamhaeng",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "the-lofts-silom",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "the-privacy-rama-9",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "the-room-sathorn-taksin",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "the-room-sukhumvit-62",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "the-tree-rio-bang-aor",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "vyva-thonglor",
+          "reason": "No official brochure PDF URL registered"
+        },
+        {
+          "slug": "whizdom-essence",
+          "reason": "No official brochure PDF URL registered"
+        }
+      ]
+    },
+    "floor_plans": {
+      "downloaded": [
+        {
+          "slug": "modiz-rhyme-ramkhamhaeng",
+          "mirrored": 8,
+          "supplemental": true
+        }
+      ],
+      "skipped": [
+        {
+          "slug": "168-sukhothai-residences",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "ascott-embassy-sathorn",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "ashton-asoke",
+          "reason": "Floor-plan section/page only — no direct official image/PDF URLs",
+          "page": "https://www.ananda.co.th/en/condominium/ashton-asoke"
+        },
+        {
+          "slug": "aspire-sathorn-taksin",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "casa-condo-asoke-dindaeng",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "chapter-one-midtown-ladprao-24",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "chapter-one-shine-bang-pho",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "condo-u-sukhumvit-62-1",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "ideo-mobi-sukhumvit-66",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "ideo-q-sukhumvit-36",
+          "reason": "Floor-plan section/page only — no direct official image/PDF URLs",
+          "page": "https://www.ananda.co.th/en/condominium/ideo-q-sukhumvit-36"
+        },
+        {
+          "slug": "ideo-rama-9",
+          "reason": "Floor-plan section/page only — no direct official image/PDF URLs",
+          "page": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+        },
+        {
+          "slug": "kave-town-space",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "knightbridge-collage-ramkhamhaeng",
+          "reason": "Floor-plan section/page only — no direct official image/PDF URLs",
+          "page": "https://origin.co.th/condominium/knightsbridge-collage-ramkhamhaeng/"
+        },
+        {
+          "slug": "knightsbridge-prime-sathorn",
+          "reason": "Floor-plan section/page only — no direct official image/PDF URLs",
+          "page": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/"
+        },
+        {
+          "slug": "life-asoke-rama-9",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "life-ladprao",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "life-one-wireless",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "lumpini-ville-phahol-saphanmai",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "m-jive-sathorn-lumphini",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "m-silom",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "maestro-03-ratchada-rama-9",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "niche-pride-thonglor-phetchaburi",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "noble-around-ari",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "noble-beat",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "noble-revolve-ratchada",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "one-bangkok",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "origin-plug-play-sukhumvit-101",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "rhythm-ekkamai",
+          "reason": "Floor-plan section/page only — no direct official image/PDF URLs",
+          "page": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+        },
+        {
+          "slug": "samyan-mitrtown",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "singha-complex",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "supalai-elite-phayathai",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "supalai-lite-sathorn-charoenrat",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "supalai-oriental-sukhumvit-39",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "supalai-veranda-rama-9",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "the-base-sukhumvit-77",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "the-esse-asoke",
+          "reason": "Floor-plan section/page only — no direct official image/PDF URLs",
+          "page": "https://residential.singhaestate.co.th/en/condominium/the-esse/asoke"
+        },
+        {
+          "slug": "the-esse-sukhumvit-36",
+          "reason": "Floor-plan section/page only — no direct official image/PDF URLs",
+          "page": "https://residential.singhaestate.co.th/en/condominium/the-esse/sukhumvit36"
+        },
+        {
+          "slug": "the-forestias",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "the-line-sukhumvit-101",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "the-livin-ramkhamhaeng",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "the-lofts-silom",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "the-privacy-rama-9",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "the-room-sathorn-taksin",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "the-room-sukhumvit-62",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "the-tree-rio-bang-aor",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "vyva-thonglor",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "whizdom-essence",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "xt-huai-khwang",
+          "reason": "No floor_plans.asset.json"
+        },
+        {
+          "slug": "xt-phayathai",
+          "reason": "No floor_plans.asset.json"
+        }
+      ]
+    }
+  }
+}

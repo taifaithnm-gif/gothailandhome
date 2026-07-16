@@ -5,15 +5,82 @@
   "entity_slug": "modiz-rhyme-ramkhamhaeng",
   "role": "gallery",
   "official_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
-  "copyright_source": "© AssetWise Public Company Limited / Modiz Rhyme Ramkhamhaeng",
-  "downloaded_date": null,
-  "checksum_sha256": null,
-  "local_storage_path": null,
-  "rights_note": "hotlink",
-  "download_status": "official_section_hotlink_pending_license",
+  "copyright_source": "© AssetWise / Modiz Rhyme Ramkhamhaeng — official project media",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "d6aec6efb95b2d4ce811a60fcff23c4dd1e6875131badd814962d8ce7121c18a",
+  "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/gallery-01.jpg",
+  "rights_note": "mirrored_subset_pending_commercial_license",
+  "license_note": "Official CDN images archived for checksum catalog. Commercial reuse requires license.",
+  "download_status": "downloaded_pending_license",
   "verified_at": "2026-07-16",
-  "notes": "40 official gallery URLs registered",
-  "gallery_image_urls": [],
-  "updated_at": "2026-07-16",
-  "phase": "11-wave-2"
+  "phase": "11-media-factory-wave1",
+  "gallery_image_urls": [
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-New-Web-Material-1425-x-585-px.jpg",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-Ready-to-Serve-Clean-03-e1695477705816.jpg",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-Gym.png",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-rooftop.png",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/modiz-ภาพตัวอย่าง_200709_15-copy.jpg",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/modiz-ภาพตัวอย่าง_200709_16-copy.jpg",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/modiz-ภาพตัวอย่าง_200709_19-copy.jpg",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/modiz-ภาพตัวอย่าง_200709_21-copy.jpg"
+  ],
+  "mirrored_files": [
+    {
+      "index": 1,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-New-Web-Material-1425-x-585-px.jpg",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/gallery-01.jpg",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/gallery-01.jpg",
+      "checksum_sha256": "d6aec6efb95b2d4ce811a60fcff23c4dd1e6875131badd814962d8ce7121c18a"
+    },
+    {
+      "index": 2,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-Ready-to-Serve-Clean-03-e1695477705816.jpg",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/gallery-02.jpg",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/gallery-02.jpg",
+      "checksum_sha256": "30ccecea84393a903fa94ac86faa230d9727c20ebf273a944f40fbd5dbedeb66"
+    },
+    {
+      "index": 3,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-Gym.png",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/gallery-03.png",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/gallery-03.png",
+      "checksum_sha256": "9823c207f97ab13c753990c5ba544473d09bcd9384a4ccc8551e9141cc2a65ce"
+    },
+    {
+      "index": 4,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-rooftop.png",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/gallery-04.png",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/gallery-04.png",
+      "checksum_sha256": "b0559fe74b631ba7b254371cf77672e40cf8ed6251d62fc843090a399459fb39"
+    },
+    {
+      "index": 5,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/modiz-%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87_200709_15-copy.jpg",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/gallery-05.jpg",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/gallery-05.jpg",
+      "checksum_sha256": "cc64e14d67e42e345171661d89764ee96b0147855baa080005d5a4fc52e98ce5"
+    },
+    {
+      "index": 6,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/modiz-%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87_200709_16-copy.jpg",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/gallery-06.jpg",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/gallery-06.jpg",
+      "checksum_sha256": "e4b175a1912e02593a07ed6db092d63369355788792ba7d2466066e62bec9d98"
+    },
+    {
+      "index": 7,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/modiz-%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87_200709_19-copy.jpg",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/gallery-07.jpg",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/gallery-07.jpg",
+      "checksum_sha256": "d36e09f4f6f0da0167904d3aae99901a86be3c3564f922b5f327ec01de3400fc"
+    },
+    {
+      "index": 8,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/modiz-%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87_200709_21-copy.jpg",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/gallery-08.jpg",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/gallery-08.jpg",
+      "checksum_sha256": "333072dd096a17ab9c1db074ca78b73608c1308ca5c488a337e4480421ca9cac"
+    }
+  ],
+  "notes": "Supplemental Modiz Rhyme gallery from official CDN (8 files)."
 }

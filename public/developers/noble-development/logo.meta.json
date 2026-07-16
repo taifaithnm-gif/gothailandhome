@@ -3,14 +3,16 @@
   "status": "official_cached",
   "note": "Official logo cached from developer domain. Local SVG remains non-trademark fallback only.",
   "official_website": "https://www.noblehome.com/",
-  "official_logo_url": "https://www.noblehome.com/favicon.ico",
+  "official_logo_url": "https://www.noblehome.com/images/logo.svg",
   "favicon_url": "https://www.noblehome.com/favicon.ico",
   "public_path": "/developers/noble-development/logo.svg",
   "collected_at": "2026-07-16",
-  "cached_local_path": "/developers/noble-development/official-logo.ico",
-  "library_path": "content/media/library/developers/noble-development/logo.ico",
-  "checksum_sha256": "b140fdee9f43f198f92537918d4bf5459621959534717f3fa0178025dbbaa49d",
+  "cached_local_path": "/developers/noble-development/official-logo.svg",
+  "library_path": "content/media/library/developers/noble-development/logo.svg",
+  "checksum_sha256": "9fbdce81e2038a7682c3b4047e0e1dc826381f503990580cc738c2888f3d6e8e",
   "downloaded_date": "2026-07-16",
   "copyright_source": "© Noble Development — official website identity asset",
-  "placeholder_fallback": "/developers/noble-development/logo.svg"
+  "placeholder_fallback": "/developers/noble-development/logo.svg",
+  "license_note": "Official website identity asset mirrored for catalog use. Trademark remains with rights holder.",
+  "phase": "11-media-factory-wave1"
 }

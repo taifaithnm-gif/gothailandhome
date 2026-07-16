@@ -4,13 +4,14 @@
   "entity_type": "project",
   "entity_slug": "modiz-rhyme-ramkhamhaeng",
   "role": "hero",
-  "official_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
-  "copyright_source": "© AssetWise Public Company Limited / Modiz Rhyme Ramkhamhaeng",
-  "downloaded_date": null,
-  "checksum_sha256": null,
-  "local_storage_path": null,
-  "rights_note": "hotlink",
-  "download_status": "not_downloaded_pending_license",
+  "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/06/Modiz-Rhyme-New-Web-Material-1425-x-585-px.jpg",
+  "copyright_source": "© AssetWise / Modiz Rhyme Ramkhamhaeng — official project media",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "d6aec6efb95b2d4ce811a60fcff23c4dd1e6875131badd814962d8ce7121c18a",
+  "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/hero.jpg",
+  "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+  "license_note": "Hero from official gallery image. Commercial reuse requires license.",
+  "download_status": "downloaded_pending_license",
   "verified_at": "2026-07-16",
-  "notes": "Batch 6 hero provenance"
+  "phase": "11-media-factory-wave1"
 }

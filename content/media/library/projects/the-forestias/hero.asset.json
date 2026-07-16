@@ -4,13 +4,15 @@
   "entity_type": "project",
   "entity_slug": "the-forestias",
   "role": "hero",
-  "official_url": "https://mqdc.com/theforestias",
+  "official_url": "https://mqdc.com/forestias/images/home/leaf.webp",
   "copyright_source": "© Magnolia Quality Development Corporation Limited / The Forestias",
-  "downloaded_date": null,
-  "checksum_sha256": null,
-  "local_storage_path": null,
-  "rights_note": "hotlink",
-  "download_status": "not_downloaded_pending_license",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "b4dd96a47252f9b11c4a2c2f4103d339713ad174da3088f03219413d002179eb",
+  "local_storage_path": "content/media/library/projects/the-forestias/hero.webp",
+  "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+  "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+  "download_status": "downloaded_pending_license",
   "verified_at": "2026-07-16",
-  "notes": "Hero provenance from official MQDC project page (Batch 3)."
+  "phase": "11-media-factory-wave1",
+  "notes": "Selected from official gallery_image_urls[0] successful mirror"
 }

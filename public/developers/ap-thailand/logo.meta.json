@@ -3,14 +3,16 @@
   "status": "official_cached",
   "note": "Official logo cached from developer domain. Local SVG remains non-trademark fallback only.",
   "official_website": "https://www.apthai.com/",
-  "official_logo_url": "https://www.apthai.com/favicon.ico",
+  "official_logo_url": "https://www.apthai.com/images/production/AP_Logo.png",
   "favicon_url": "https://www.apthai.com/favicon.ico",
   "public_path": "/developers/ap-thailand/logo.svg",
   "collected_at": "2026-07-16",
-  "cached_local_path": "/developers/ap-thailand/official-logo.ico",
-  "library_path": "content/media/library/developers/ap-thailand/logo.ico",
-  "checksum_sha256": "bd5e1351c08072fd62b09eef761fe395e4a2c92b6ae6067576093a4bd8683d57",
+  "cached_local_path": "/developers/ap-thailand/official-logo.png",
+  "library_path": "content/media/library/developers/ap-thailand/logo.png",
+  "checksum_sha256": "6f7a751fee2e87f94b4113bff667cf4c15aa2c014fe38a56d0d4154198565cce",
   "downloaded_date": "2026-07-16",
   "copyright_source": "© AP Thailand — official website identity asset",
-  "placeholder_fallback": "/developers/ap-thailand/logo.svg"
+  "placeholder_fallback": "/developers/ap-thailand/logo.svg",
+  "license_note": "Official website identity asset mirrored for catalog use. Trademark remains with rights holder.",
+  "phase": "11-media-factory-wave1"
 }

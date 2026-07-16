@@ -1,0 +1,18 @@
+{
+  "id": "project:life-ladprao:brochure",
+  "class": "brochure",
+  "entity_type": "project",
+  "entity_slug": "life-ladprao",
+  "role": "brochure",
+  "official_url": "https://www.apthai.com/images/production/LaurEIXqeyPrdeAuClpxnftVFBImkr-metaRS1CUk9DSFVSRV9MQURQUkFPXzMxMDgyMS5wZGY=-.pdf",
+  "copyright_source": "© AP Thailand / life-ladprao — official brochure PDF",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "9948676945ee21acad0f4dd213fc6fadd7eb1d5b89763cc30fa9567bbcc57aa8",
+  "local_storage_path": "content/media/library/projects/life-ladprao/brochure.pdf",
+  "rights_note": "mirrored_to_storage",
+  "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "phase": "11-media-factory-wave1",
+  "notes": "Public path /projects/life-ladprao/brochure.pdf"
+}

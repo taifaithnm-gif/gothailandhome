@@ -4,13 +4,15 @@
   "entity_type": "developer",
   "entity_slug": "ap-thailand",
   "role": "logo",
-  "official_url": "https://www.apthai.com/favicon.ico",
+  "official_url": "https://www.apthai.com/images/production/AP_Logo.png",
   "copyright_source": "© AP Thailand — official website identity asset",
   "downloaded_date": "2026-07-16",
-  "checksum_sha256": "bd5e1351c08072fd62b09eef761fe395e4a2c92b6ae6067576093a4bd8683d57",
-  "local_storage_path": "content/media/library/developers/ap-thailand/logo.ico",
+  "checksum_sha256": "6f7a751fee2e87f94b4113bff667cf4c15aa2c014fe38a56d0d4154198565cce",
+  "local_storage_path": "content/media/library/developers/ap-thailand/logo.png",
   "rights_note": "mirrored_to_storage",
+  "license_note": "Official website identity asset mirrored for catalog use. Trademark remains with rights holder.",
   "download_status": "downloaded",
   "verified_at": "2026-07-16",
-  "notes": "Public delivery copy: /developers/ap-thailand/official-logo.ico. Placeholder SVG retained as non-trademark fallback."
+  "phase": "11-media-factory-wave1",
+  "notes": "Upgraded from favicon.ico to official AP_Logo.png on apthai.com Public delivery: /developers/ap-thailand/official-logo.png"
 }

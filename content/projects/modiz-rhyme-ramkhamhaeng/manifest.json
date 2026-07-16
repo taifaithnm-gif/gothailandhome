@@ -549,7 +549,9 @@
     "official_gallery_source": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
     "unit_count": 546,
     "floors": 30,
-    "buildings": 1
+    "buildings": 1,
+    "official_brochure": "https://cdn.assetwise.co.th/wp-content/uploads/2023/10/Page-Modiz-Rhyme-Brochure.pdf",
+    "brochure_local_path": "/projects/modiz-rhyme-ramkhamhaeng/brochure.pdf"
   },
   "field_evidence": {
     "official_project_page": {
@@ -699,12 +701,21 @@
     },
     "brochure": {
       "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/10/Page-Modiz-Rhyme-Brochure.pdf",
-      "copyright_source": "© assetwise / Modiz Rhyme Ramkhamhaeng — official brochure PDF",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "copyright_source": "© AssetWise Public Company Limited / Modiz Rhyme Ramkhamhaeng — official brochure PDF",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "0f7dc7362efa6976ee98d949891947ae46f272b8e52b73a6b9c368ef0cf8c66c",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/brochure.pdf",
+      "rights_note": "mirrored_to_storage",
+      "download_status": "downloaded",
+      "id": "project:modiz-rhyme-ramkhamhaeng:brochure",
+      "class": "brochure",
+      "entity_type": "project",
+      "entity_slug": "modiz-rhyme-ramkhamhaeng",
+      "role": "brochure",
+      "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Public path /projects/modiz-rhyme-ramkhamhaeng/brochure.pdf"
     },
     "floor_plans": {
       "official_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",

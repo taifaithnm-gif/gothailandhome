@@ -6,9 +6,15 @@
   "role": "gallery",
   "official_url": "https://www.sansiri.com/en/condominium/xt-huaikhwang/",
   "copyright_source": "© Sansiri Public Company Limited / XT Huaikhwang",
-  "download_status": "not_downloaded_pending_license",
-  "rights_note": "hotlink",
-  "notes": "14 official gallery image URLs registered; binaries not scraped.",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "8bed7ea207f6b4552ceccab3a8fc017801800eb7e6f8ae47894923139dc2d9f2",
+  "local_storage_path": "content/media/library/projects/xt-huai-khwang/files/gallery-01.jpg",
+  "rights_note": "mirrored_subset_pending_commercial_license",
+  "license_note": "Official CDN/marketing images archived for checksum catalog (subset). Commercial reuse requires rights-holder license. Not portal/watermark sources.",
+  "download_status": "partial_downloaded_pending_license",
+  "verified_at": "2026-07-16",
+  "phase": "11-media-factory-wave1",
+  "notes": "Mirrored 8/14 official gallery URLs (cap 8).",
   "gallery_image_urls": [
     "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-02.jpg",
     "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-03.jpg",
@@ -25,5 +31,62 @@
     "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-13.jpg",
     "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-14.jpg"
   ],
-  "verified_at": "2026-07-16"
+  "mirrored_files": [
+    {
+      "index": 1,
+      "official_url": "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-02.jpg",
+      "local_storage_path": "content/media/library/projects/xt-huai-khwang/files/gallery-01.jpg",
+      "public_path": "/projects/xt-huai-khwang/gallery-01.jpg",
+      "checksum_sha256": "8bed7ea207f6b4552ceccab3a8fc017801800eb7e6f8ae47894923139dc2d9f2"
+    },
+    {
+      "index": 2,
+      "official_url": "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-03.jpg",
+      "local_storage_path": "content/media/library/projects/xt-huai-khwang/files/gallery-02.jpg",
+      "public_path": "/projects/xt-huai-khwang/gallery-02.jpg",
+      "checksum_sha256": "b50ad334135d0511a546c62fc3503a1f5e38c1c29be95b877bd1cda640883c5b"
+    },
+    {
+      "index": 3,
+      "official_url": "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-01.jpg",
+      "local_storage_path": "content/media/library/projects/xt-huai-khwang/files/gallery-03.jpg",
+      "public_path": "/projects/xt-huai-khwang/gallery-03.jpg",
+      "checksum_sha256": "e25d335e09a238ddcefec56888f484b0f158aede6d14f5a79233b84e02e3d403"
+    },
+    {
+      "index": 4,
+      "official_url": "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-06.jpg",
+      "local_storage_path": "content/media/library/projects/xt-huai-khwang/files/gallery-04.jpg",
+      "public_path": "/projects/xt-huai-khwang/gallery-04.jpg",
+      "checksum_sha256": "7a2d3bbf621553fac654bf74d6ba98fc0cb4560aa84923c70ba793eec74fe31f"
+    },
+    {
+      "index": 5,
+      "official_url": "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-00.jpg",
+      "local_storage_path": "content/media/library/projects/xt-huai-khwang/files/gallery-05.jpg",
+      "public_path": "/projects/xt-huai-khwang/gallery-05.jpg",
+      "checksum_sha256": "44df400b600bdc26e013539fb7a13b067cc75f6a4449952c27ec96ddf902341f"
+    },
+    {
+      "index": 6,
+      "official_url": "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-04.jpg",
+      "local_storage_path": "content/media/library/projects/xt-huai-khwang/files/gallery-06.jpg",
+      "public_path": "/projects/xt-huai-khwang/gallery-06.jpg",
+      "checksum_sha256": "1c46de37d8534b4ae32950614426f73383e67917409d13127890ba5178cb08eb"
+    },
+    {
+      "index": 7,
+      "official_url": "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-05.jpg",
+      "local_storage_path": "content/media/library/projects/xt-huai-khwang/files/gallery-07.jpg",
+      "public_path": "/projects/xt-huai-khwang/gallery-07.jpg",
+      "checksum_sha256": "b2ae890475014c19e581fdf9cc040da74618203e6010c4a2a0b1a753bacc75c2"
+    },
+    {
+      "index": 8,
+      "official_url": "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-07.jpg",
+      "local_storage_path": "content/media/library/projects/xt-huai-khwang/files/gallery-08.jpg",
+      "public_path": "/projects/xt-huai-khwang/gallery-08.jpg",
+      "checksum_sha256": "ded5afabd25ab33fc5786462df546cb9f32dd3edac0b1038a9b839123b2230e8"
+    }
+  ]
 }

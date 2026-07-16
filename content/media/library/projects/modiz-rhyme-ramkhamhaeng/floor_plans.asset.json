@@ -3,8 +3,84 @@
   "class": "floor_plan",
   "entity_type": "project",
   "entity_slug": "modiz-rhyme-ramkhamhaeng",
+  "role": "floor_plans",
   "official_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
-  "download_status": "not_downloaded_pending_license",
-  "updated_at": "2026-07-16",
-  "phase": "11-wave-2"
+  "copyright_source": "© AssetWise / Modiz Rhyme Ramkhamhaeng — official project media",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "06b993a190dd601796958ecb7420ba4d72d07a8eb6e0106eaed699ecb811d442",
+  "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/floor-plan-01.jpg",
+  "rights_note": "mirrored_subset_pending_commercial_license",
+  "license_note": "Official floor-plan images archived for checksum catalog. Commercial reuse requires license.",
+  "download_status": "downloaded_pending_license",
+  "verified_at": "2026-07-16",
+  "phase": "11-media-factory-wave1",
+  "floor_plan_urls": [
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/g-floor-20210529-110844-1536x782.jpg",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/8th_floor-revise-1536x922.png",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/9-27th_floor-revise-1536x922.png",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/28th_floor-revise-1536x922.png",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/29th-floor-20210529-110904-1536x782.jpg",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/30th-floor-20210529-110915-1536x781.jpg",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/rooftop-20210529-110924-1536x782.jpg",
+    "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/1Type-C2avs_REV-2.png"
+  ],
+  "mirrored_files": [
+    {
+      "index": 1,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/g-floor-20210529-110844-1536x782.jpg",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/floor-plan-01.jpg",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/floor-plan-01.jpg",
+      "checksum_sha256": "06b993a190dd601796958ecb7420ba4d72d07a8eb6e0106eaed699ecb811d442"
+    },
+    {
+      "index": 2,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/8th_floor-revise-1536x922.png",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/floor-plan-02.png",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/floor-plan-02.png",
+      "checksum_sha256": "c1d9385900071264beb60c9decf5f1ef9501ab9bda5fa1d4e4c35262c12f3c89"
+    },
+    {
+      "index": 3,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/9-27th_floor-revise-1536x922.png",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/floor-plan-03.png",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/floor-plan-03.png",
+      "checksum_sha256": "6cf435d18ea522e7b2028e9e3d6c8eb17af0306644098971735ccdb6f471061d"
+    },
+    {
+      "index": 4,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/28th_floor-revise-1536x922.png",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/floor-plan-04.png",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/floor-plan-04.png",
+      "checksum_sha256": "80b81b4de3cdff72164ef726b150a0f0fedfb21e1a4c41b7a55a2a7cc8601568"
+    },
+    {
+      "index": 5,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/29th-floor-20210529-110904-1536x782.jpg",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/floor-plan-05.jpg",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/floor-plan-05.jpg",
+      "checksum_sha256": "ce00533abac7388ccc0d06a8a9b7bebd27bc8c9a13d553fdddf7789998cf2f4f"
+    },
+    {
+      "index": 6,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/30th-floor-20210529-110915-1536x781.jpg",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/floor-plan-06.jpg",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/floor-plan-06.jpg",
+      "checksum_sha256": "193cc7ef6294a7bbdaf78861d04c0e811633db2245b133890f4e8cfc81489b5f"
+    },
+    {
+      "index": 7,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/rooftop-20210529-110924-1536x782.jpg",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/floor-plan-07.jpg",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/floor-plan-07.jpg",
+      "checksum_sha256": "84409e30511b6035b5e1b26224b4cac615e82af2dc8ce7112a3c0c3626d50478"
+    },
+    {
+      "index": 8,
+      "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/03/1Type-C2avs_REV-2.png",
+      "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/files/floor-plan-08.png",
+      "public_path": "/projects/modiz-rhyme-ramkhamhaeng/floor-plan-08.png",
+      "checksum_sha256": "4236cafd067726e82e83eafae5ecd0e4edec7299bd31ed47a39da465edee59c7"
+    }
+  ],
+  "notes": "Supplemental Modiz Rhyme floor plans from official CDN (8 files)."
 }

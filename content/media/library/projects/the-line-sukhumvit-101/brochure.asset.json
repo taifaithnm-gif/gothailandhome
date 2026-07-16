@@ -6,8 +6,13 @@
   "role": "brochure",
   "official_url": "https://www.sansiri.com/uploads/docs/2017/01/24/e3f71a73-254d-4666-abd2-61cdf56ff82c.pdf",
   "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101 — official brochure PDF",
-  "download_status": "not_downloaded_pending_license",
-  "rights_note": "hotlink",
-  "notes": "Official brochure PDF URL registered; binary not mirrored pending license.",
-  "verified_at": "2026-07-16"
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "5062dbd7cfa3ef4991b7d3c8d66408690817d44b31f2af39a87592e8428b1145",
+  "local_storage_path": "content/media/library/projects/the-line-sukhumvit-101/brochure.pdf",
+  "rights_note": "mirrored_to_storage",
+  "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "phase": "11-media-factory-wave1",
+  "notes": "Public path /projects/the-line-sukhumvit-101/brochure.pdf"
 }

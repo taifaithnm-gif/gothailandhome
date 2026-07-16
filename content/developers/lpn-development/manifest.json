@@ -86,7 +86,7 @@
     "whatsapp": null
   },
   "logo_path": "/developers/lpn-development/logo.svg",
-  "logo_url": "/developers/lpn-development/official-logo.ico",
+  "logo_url": "/developers/lpn-development/official-logo.svg",
   "phone": "0-2285-5011",
   "email": null,
   "seo": {
@@ -112,7 +112,7 @@
   "logo_source": {
     "status": "official",
     "path": "/developers/lpn-development/logo.svg",
-    "official_logo_url": "https://www.lpn.co.th/favicon.ico?v=1",
+    "official_logo_url": "https://www.lpn.co.th/images/layout/logo-2.svg",
     "favicon_url": "https://www.lpn.co.th/favicon.ico?v=1",
     "note": "Remote asset on official developer domain (or official CDN). Local SVG remains a non-trademark fallback glyph; do not treat local SVG as the registered mark.",
     "verified_at": "2026-07-16",
@@ -121,8 +121,8 @@
       "url": "https://www.lpn.co.th/",
       "asset_url": "https://www.lpn.co.th/favicon.ico?v=1"
     },
-    "cached_path": "/developers/lpn-development/official-logo.ico",
-    "checksum_sha256": "9c71c42504c29f822ea1ef7e4de5efbfa11eef9fe1892a9a407ae7ff6ef0060b",
+    "cached_path": "/developers/lpn-development/official-logo.svg",
+    "checksum_sha256": "f507f2302d9e784eecaf3b2165126de891aa57c7d25c18690fda02b551552a66",
     "downloaded_date": "2026-07-16"
   },
   "headquarters_provenance": {
@@ -196,7 +196,7 @@
         "url": "https://www.lpn.co.th/favicon.ico?v=1"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.lpn.co.th/favicon.ico?v=1"
+      "value": "https://www.lpn.co.th/images/layout/logo-2.svg"
     },
     "favicon": {
       "field": "favicon",

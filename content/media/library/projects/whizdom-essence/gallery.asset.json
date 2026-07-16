@@ -6,9 +6,15 @@
   "role": "gallery",
   "official_url": "https://mqdc.com/whizdom-essence-sukhumvit",
   "copyright_source": "© Magnolia Quality Development Corporation Limited / Whizdom Essence Sukhumvit",
-  "download_status": "not_downloaded_pending_license",
-  "rights_note": "hotlink",
-  "notes": "27 official gallery/CMS image URLs registered; binaries not scraped.",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "037d706329050225f0a80d4e8a5499921e159a0bc1bc9798b5e627ba3672559e",
+  "local_storage_path": "content/media/library/projects/whizdom-essence/files/gallery-01.webp",
+  "rights_note": "mirrored_subset_pending_commercial_license",
+  "license_note": "Official CDN/marketing images archived for checksum catalog (subset). Commercial reuse requires rights-holder license. Not portal/watermark sources.",
+  "download_status": "partial_downloaded_pending_license",
+  "verified_at": "2026-07-16",
+  "phase": "11-media-factory-wave1",
+  "notes": "Mirrored 8/27 official gallery URLs (cap 8).",
   "gallery_image_urls": [
     "https://corecms.mqdc.com/assets/6c8072ff-075b-42d6-bcb1-b449ecdf1b08",
     "https://corecms.mqdc.com/assets/f22ba094-decd-42ff-a0f0-615e23032ade",
@@ -38,5 +44,62 @@
     "https://corecms.mqdc.com/assets/00b2ef50-50b2-4569-abb7-1162308d644b",
     "https://corecms.mqdc.com/assets/a3070e22-3b76-4110-b85f-b0a3c0995904"
   ],
-  "verified_at": "2026-07-16"
+  "mirrored_files": [
+    {
+      "index": 1,
+      "official_url": "https://corecms.mqdc.com/assets/6c8072ff-075b-42d6-bcb1-b449ecdf1b08",
+      "local_storage_path": "content/media/library/projects/whizdom-essence/files/gallery-01.webp",
+      "public_path": "/projects/whizdom-essence/gallery-01.webp",
+      "checksum_sha256": "037d706329050225f0a80d4e8a5499921e159a0bc1bc9798b5e627ba3672559e"
+    },
+    {
+      "index": 2,
+      "official_url": "https://corecms.mqdc.com/assets/f22ba094-decd-42ff-a0f0-615e23032ade",
+      "local_storage_path": "content/media/library/projects/whizdom-essence/files/gallery-02.bin",
+      "public_path": "/projects/whizdom-essence/gallery-02.bin",
+      "checksum_sha256": "cb1128045a7a34ad0b28f192e44669137b23a8173bfb6b0c92ed208043066caa"
+    },
+    {
+      "index": 3,
+      "official_url": "https://corecms.mqdc.com/assets/db2c9872-1e09-46db-b193-b1129a40c045",
+      "local_storage_path": "content/media/library/projects/whizdom-essence/files/gallery-03.jpg",
+      "public_path": "/projects/whizdom-essence/gallery-03.jpg",
+      "checksum_sha256": "085b239e58f01d2ada539d9ddbf34bc6363590c205abc43ffbfdbb2606a00f36"
+    },
+    {
+      "index": 4,
+      "official_url": "https://corecms.mqdc.com/assets/13e69cee-4a28-432d-8865-4fdd63a3fe79",
+      "local_storage_path": "content/media/library/projects/whizdom-essence/files/gallery-04.webp",
+      "public_path": "/projects/whizdom-essence/gallery-04.webp",
+      "checksum_sha256": "3d1c2b93442840db4cb3570dd9d3d06b0c6d6bc5f060f4f8cb813a8cc3d2db04"
+    },
+    {
+      "index": 5,
+      "official_url": "https://corecms.mqdc.com/assets/b7bd964b-f052-4e7d-9db6-02909f086ee3",
+      "local_storage_path": "content/media/library/projects/whizdom-essence/files/gallery-05.webp",
+      "public_path": "/projects/whizdom-essence/gallery-05.webp",
+      "checksum_sha256": "4d2f644c2d372076c6142438a236c805bd42644249c2e3a60f5979bbe2c8e5bc"
+    },
+    {
+      "index": 6,
+      "official_url": "https://corecms.mqdc.com/assets/64d48352-38b3-427b-8166-28aad95f98b3",
+      "local_storage_path": "content/media/library/projects/whizdom-essence/files/gallery-06.webp",
+      "public_path": "/projects/whizdom-essence/gallery-06.webp",
+      "checksum_sha256": "0c66b7e69211b7777fae00c96489cb2b4d0d28d9e7735030a9a79140bdc68d90"
+    },
+    {
+      "index": 7,
+      "official_url": "https://corecms.mqdc.com/assets/8d667ce6-df21-41e4-92da-ff1dd2e101e6",
+      "local_storage_path": "content/media/library/projects/whizdom-essence/files/gallery-07.webp",
+      "public_path": "/projects/whizdom-essence/gallery-07.webp",
+      "checksum_sha256": "3997ff580c20855a8f74494d27f21830665a3765da196f4e2005b6ade77f408d"
+    },
+    {
+      "index": 8,
+      "official_url": "https://corecms.mqdc.com/assets/9a84c7e2-bf75-4396-b506-8098e5289bb8",
+      "local_storage_path": "content/media/library/projects/whizdom-essence/files/gallery-08.webp",
+      "public_path": "/projects/whizdom-essence/gallery-08.webp",
+      "checksum_sha256": "760cb6b92c9f5e3343011f8387a1b8340cfc2590eb9ea4d4504fcc224bbda30f"
+    }
+  ]
 }

@@ -4,13 +4,15 @@
   "entity_type": "project",
   "entity_slug": "life-ladprao",
   "role": "hero",
-  "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
+  "official_url": "https://www.apthai.com/images/production/condo_60010-gallery_image_1-en.jpg",
   "copyright_source": "© AP Thailand / LIFE Ladprao — official project materials",
-  "downloaded_date": null,
-  "checksum_sha256": null,
-  "local_storage_path": null,
-  "rights_note": "hotlink",
-  "download_status": "placeholder_pending_official_mirror",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "c3a4fd138e12753b0e08cebdd119a37852d5e353390ccecc13a878d69bfabd3f",
+  "local_storage_path": "content/media/library/projects/life-ladprao/hero.jpg",
+  "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+  "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+  "download_status": "downloaded_pending_license",
   "verified_at": "2026-07-16",
-  "notes": "Placeholder remains at n/a; official hero binary not mirrored without license."
+  "phase": "11-media-factory-wave1",
+  "notes": "Selected from official gallery_image_urls[0] successful mirror"
 }

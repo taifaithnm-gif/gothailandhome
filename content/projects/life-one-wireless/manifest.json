@@ -538,7 +538,9 @@
       }
     },
     "total_units": 1344,
-    "unit_count": 1344
+    "unit_count": 1344,
+    "official_brochure": "https://www.apthai.com/images/production/nINTvd3zSuGHvTsxNXSNaxWykFYKyN-metaRS1CUk9DSFVSRV9PTkUtV0lSRUxFU1NfMDUwNDIxLnBkZg==-.pdf",
+    "brochure_local_path": "/projects/life-one-wireless/brochure.pdf"
   },
   "field_evidence": {
     "official_project_page": {
@@ -669,13 +671,13 @@
   },
   "media_library": {
     "gallery": {
-      "official_url": "https://www.apthai.com/en/condominium/life-1-wireless",
-      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ONE WIRELESS",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license",
+      "official_url": "https://www.apthai.com/images/production/condo_60015-gallery_image_1-en.jpg",
+      "copyright_source": "© AP Thailand / life-one-wireless — official project media",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "fa456cae8f9bf9ce6f06ce5ed5931827182398cd33a2aa9b0ed6631311aff460",
+      "local_storage_path": "content/media/library/projects/life-one-wireless/files/gallery-01.jpg",
+      "rights_note": "mirrored_subset_pending_commercial_license",
+      "download_status": "downloaded_pending_license",
       "gallery_image_urls": [
         "https://www.apthai.com/images/production/condo_60015-gallery_image_1-en.jpg",
         "https://www.apthai.com/images/production/condo_60015-gallery_image_2-en.jpg",
@@ -683,16 +685,78 @@
         "https://www.apthai.com/images/production/condo_60015-gallery_image_4-en.jpg",
         "https://www.apthai.com/images/production/condo_60015-gallery_image_5-en.jpg",
         "https://www.apthai.com/images/production/condo_60015-gallery_image_6-en.jpg"
+      ],
+      "id": "project:life-one-wireless:gallery",
+      "class": "gallery",
+      "entity_type": "project",
+      "entity_slug": "life-one-wireless",
+      "role": "gallery",
+      "license_note": "Official CDN/marketing images archived for checksum catalog (subset). Commercial reuse requires rights-holder license. Not portal/watermark sources.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Mirrored 6/6 official gallery URLs (cap 8).",
+      "mirrored_files": [
+        {
+          "index": 1,
+          "official_url": "https://www.apthai.com/images/production/condo_60015-gallery_image_1-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-one-wireless/files/gallery-01.jpg",
+          "public_path": "/projects/life-one-wireless/gallery-01.jpg",
+          "checksum_sha256": "fa456cae8f9bf9ce6f06ce5ed5931827182398cd33a2aa9b0ed6631311aff460"
+        },
+        {
+          "index": 2,
+          "official_url": "https://www.apthai.com/images/production/condo_60015-gallery_image_2-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-one-wireless/files/gallery-02.jpg",
+          "public_path": "/projects/life-one-wireless/gallery-02.jpg",
+          "checksum_sha256": "5efbbdb0119b40591dd18b43ce107b5c867dcad2f60feb888aa1242ee2a1c5fc"
+        },
+        {
+          "index": 3,
+          "official_url": "https://www.apthai.com/images/production/condo_60015-gallery_image_3-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-one-wireless/files/gallery-03.jpg",
+          "public_path": "/projects/life-one-wireless/gallery-03.jpg",
+          "checksum_sha256": "09002f5c995bf854e947ab0093c1747ae34ae236da40661f3f5b92aac0357012"
+        },
+        {
+          "index": 4,
+          "official_url": "https://www.apthai.com/images/production/condo_60015-gallery_image_4-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-one-wireless/files/gallery-04.jpg",
+          "public_path": "/projects/life-one-wireless/gallery-04.jpg",
+          "checksum_sha256": "28686089f3346e31a50a4a00044b82fe88594bb13e05ccda93fa22c032fc8f87"
+        },
+        {
+          "index": 5,
+          "official_url": "https://www.apthai.com/images/production/condo_60015-gallery_image_5-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-one-wireless/files/gallery-05.jpg",
+          "public_path": "/projects/life-one-wireless/gallery-05.jpg",
+          "checksum_sha256": "d98d71225fd8f7a3bd0ba273953173665d88f1dfa4623acabedfc91d648059e4"
+        },
+        {
+          "index": 6,
+          "official_url": "https://www.apthai.com/images/production/condo_60015-gallery_image_6-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-one-wireless/files/gallery-06.jpg",
+          "public_path": "/projects/life-one-wireless/gallery-06.jpg",
+          "checksum_sha256": "c21bddd0f3877a58660c90a8ff894e377f69269f8a09c48ba8ea46b0da6c87fc"
+        }
       ]
     },
     "brochure": {
       "official_url": "https://www.apthai.com/images/production/nINTvd3zSuGHvTsxNXSNaxWykFYKyN-metaRS1CUk9DSFVSRV9PTkUtV0lSRUxFU1NfMDUwNDIxLnBkZg==-.pdf",
-      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ONE WIRELESS — official brochure PDF",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "copyright_source": "© AP Thailand / life-one-wireless — official brochure PDF",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "e30f3c099ea8eb15bbe27b4fd883bff28480ae0eaba5cdd62ba34d53ff945ebf",
+      "local_storage_path": "content/media/library/projects/life-one-wireless/brochure.pdf",
+      "rights_note": "mirrored_to_storage",
+      "download_status": "downloaded",
+      "id": "project:life-one-wireless:brochure",
+      "class": "brochure",
+      "entity_type": "project",
+      "entity_slug": "life-one-wireless",
+      "role": "brochure",
+      "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Public path /projects/life-one-wireless/brochure.pdf"
     },
     "floor_plans": {
       "official_url": "https://www.apthai.com/en/condominium/life-1-wireless",
@@ -704,13 +768,22 @@
       "download_status": "unverified_no_official_plans_published"
     },
     "hero": {
-      "official_url": "https://www.apthai.com/en/condominium/life-1-wireless",
-      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ONE WIRELESS",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror"
+      "id": "project:life-one-wireless:hero",
+      "class": "hero",
+      "entity_type": "project",
+      "entity_slug": "life-one-wireless",
+      "role": "hero",
+      "official_url": "https://www.apthai.com/images/production/condo_60015-gallery_image_1-en.jpg",
+      "copyright_source": "© AP Thailand / life-one-wireless — official project media",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "fa456cae8f9bf9ce6f06ce5ed5931827182398cd33a2aa9b0ed6631311aff460",
+      "local_storage_path": "content/media/library/projects/life-one-wireless/hero.jpg",
+      "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+      "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+      "download_status": "downloaded_pending_license",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Selected from official gallery_image_urls[0] successful mirror"
     }
   },
   "content_factory": {

@@ -387,7 +387,9 @@
     "floor_count": 37,
     "floors": 37,
     "building_count": 1,
-    "buildings": 1
+    "buildings": 1,
+    "official_brochure": "https://www.sansiri.com/uploads/docs/2017/01/24/e3f71a73-254d-4666-abd2-61cdf56ff82c.pdf",
+    "brochure_local_path": "/projects/the-line-sukhumvit-101/brochure.pdf"
   },
   "field_evidence": {
     "official_project_page": {
@@ -527,11 +529,11 @@
     "gallery": {
       "official_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
       "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "d82691546dea8fcc03d78a0d8a2562d5eda9a9013eb48b924f26a457d7aac957",
+      "local_storage_path": "content/media/library/projects/the-line-sukhumvit-101/files/gallery-01.jpg",
+      "rights_note": "mirrored_subset_pending_commercial_license",
+      "download_status": "partial_downloaded_pending_license",
       "gallery_image_urls": [
         "https://www.sansiri.com/uploads/gallery/2017/01/23/42111163-ed8c-4f1f-8602-9e414bd8c937.jpg",
         "https://www.sansiri.com/uploads/gallery/2017/01/23/cb4dfbf3-d167-497a-bd8c-12107e9da3cc.jpg",
@@ -544,16 +546,92 @@
         "https://www.sansiri.com/uploads/gallery/2017/01/23/3ce0c285-f9e8-467f-9661-633cbc6eaffe.jpg",
         "https://www.sansiri.com/uploads/gallery/2017/01/23/2973a1d6-6656-446d-a9ee-01bc88120002.jpg",
         "https://www.sansiri.com/uploads/project/2017/01/23/f6c6fe27-f849-4056-bf7f-1aaee0c8ad97.jpg"
+      ],
+      "id": "project:the-line-sukhumvit-101:gallery",
+      "class": "gallery",
+      "entity_type": "project",
+      "entity_slug": "the-line-sukhumvit-101",
+      "role": "gallery",
+      "license_note": "Official CDN/marketing images archived for checksum catalog (subset). Commercial reuse requires rights-holder license. Not portal/watermark sources.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Mirrored 8/11 official gallery URLs (cap 8).",
+      "mirrored_files": [
+        {
+          "index": 1,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2017/01/23/42111163-ed8c-4f1f-8602-9e414bd8c937.jpg",
+          "local_storage_path": "content/media/library/projects/the-line-sukhumvit-101/files/gallery-01.jpg",
+          "public_path": "/projects/the-line-sukhumvit-101/gallery-01.jpg",
+          "checksum_sha256": "d82691546dea8fcc03d78a0d8a2562d5eda9a9013eb48b924f26a457d7aac957"
+        },
+        {
+          "index": 2,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2017/01/23/cb4dfbf3-d167-497a-bd8c-12107e9da3cc.jpg",
+          "local_storage_path": "content/media/library/projects/the-line-sukhumvit-101/files/gallery-02.jpg",
+          "public_path": "/projects/the-line-sukhumvit-101/gallery-02.jpg",
+          "checksum_sha256": "f45a7501f29dc4f939e4865133a48a697d8e27733e180112a191299a45da30a2"
+        },
+        {
+          "index": 3,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2017/01/23/a0c7b8a7-ca02-4102-b7dd-3bdf5b13c71e.jpg",
+          "local_storage_path": "content/media/library/projects/the-line-sukhumvit-101/files/gallery-03.jpg",
+          "public_path": "/projects/the-line-sukhumvit-101/gallery-03.jpg",
+          "checksum_sha256": "8d1d7035e39b5591ca3bd5f430e6733f3b8d7732794b05afa2540fddde517d25"
+        },
+        {
+          "index": 4,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2017/01/23/7d1a3b56-45a9-43b1-b240-8fb7cf98d650.jpg",
+          "local_storage_path": "content/media/library/projects/the-line-sukhumvit-101/files/gallery-04.jpg",
+          "public_path": "/projects/the-line-sukhumvit-101/gallery-04.jpg",
+          "checksum_sha256": "28e713c9c8a2bd8e7ea5813b63009a356a515446ecacefe046b7698f1c5f4c91"
+        },
+        {
+          "index": 5,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2017/01/23/e17fbff3-7692-4fce-8981-b7699b626780.jpg",
+          "local_storage_path": "content/media/library/projects/the-line-sukhumvit-101/files/gallery-05.jpg",
+          "public_path": "/projects/the-line-sukhumvit-101/gallery-05.jpg",
+          "checksum_sha256": "092ccd718cb504082c6e73d1e4632d4b9a5cb6edc29687e2d43d419f6ecb6a46"
+        },
+        {
+          "index": 6,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2017/01/23/41691863-daec-4dce-8950-ca3f455718c0.jpg",
+          "local_storage_path": "content/media/library/projects/the-line-sukhumvit-101/files/gallery-06.jpg",
+          "public_path": "/projects/the-line-sukhumvit-101/gallery-06.jpg",
+          "checksum_sha256": "e70eb2ee7d615b373aee93eea8346522a4fe313ddbbafbe8dfa2f5831557d4fc"
+        },
+        {
+          "index": 7,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2017/01/23/7c3ccdf9-81f6-4e92-b312-f611c4f82e49.jpg",
+          "local_storage_path": "content/media/library/projects/the-line-sukhumvit-101/files/gallery-07.jpg",
+          "public_path": "/projects/the-line-sukhumvit-101/gallery-07.jpg",
+          "checksum_sha256": "64db1f52fb4f4178d2de236cd49ac21442328577151dc43e41d4aa0d3c6235af"
+        },
+        {
+          "index": 8,
+          "official_url": "https://www.sansiri.com/uploads/gallery/2017/01/23/771313c4-e5b7-4630-a490-e8c023a98eff.jpg",
+          "local_storage_path": "content/media/library/projects/the-line-sukhumvit-101/files/gallery-08.jpg",
+          "public_path": "/projects/the-line-sukhumvit-101/gallery-08.jpg",
+          "checksum_sha256": "d466e19f28a31f290733eca8495101e4336a323ef91731dd0d88a243778fc7fe"
+        }
       ]
     },
     "brochure": {
       "official_url": "https://www.sansiri.com/uploads/docs/2017/01/24/e3f71a73-254d-4666-abd2-61cdf56ff82c.pdf",
       "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101 — official brochure PDF",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "5062dbd7cfa3ef4991b7d3c8d66408690817d44b31f2af39a87592e8428b1145",
+      "local_storage_path": "content/media/library/projects/the-line-sukhumvit-101/brochure.pdf",
+      "rights_note": "mirrored_to_storage",
+      "download_status": "downloaded",
+      "id": "project:the-line-sukhumvit-101:brochure",
+      "class": "brochure",
+      "entity_type": "project",
+      "entity_slug": "the-line-sukhumvit-101",
+      "role": "brochure",
+      "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Public path /projects/the-line-sukhumvit-101/brochure.pdf"
     },
     "floor_plans": {
       "official_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
@@ -565,13 +643,22 @@
       "download_status": "not_downloaded_pending_license"
     },
     "hero": {
-      "official_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+      "id": "project:the-line-sukhumvit-101:hero",
+      "class": "hero",
+      "entity_type": "project",
+      "entity_slug": "the-line-sukhumvit-101",
+      "role": "hero",
+      "official_url": "https://www.sansiri.com/uploads/gallery/2017/01/23/42111163-ed8c-4f1f-8602-9e414bd8c937.jpg",
       "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "d82691546dea8fcc03d78a0d8a2562d5eda9a9013eb48b924f26a457d7aac957",
+      "local_storage_path": "content/media/library/projects/the-line-sukhumvit-101/hero.jpg",
+      "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+      "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+      "download_status": "downloaded_pending_license",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Selected from official gallery_image_urls[0] successful mirror"
     }
   },
   "content_factory": {

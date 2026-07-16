@@ -6,11 +6,97 @@
   "role": "gallery",
   "official_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
   "copyright_source": "© AP Thailand / Rhythm Ekkamai — official project materials",
-  "downloaded_date": null,
-  "checksum_sha256": null,
-  "local_storage_path": null,
-  "rights_note": "hotlink",
-  "download_status": "not_downloaded_pending_license",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "dde3093635a9508a63fd06c85c307087bcc49c04cb3c3c10e0a476f4b55bb423",
+  "local_storage_path": "content/media/library/projects/rhythm-ekkamai/files/gallery-01.jpg",
+  "rights_note": "mirrored_subset_pending_commercial_license",
+  "license_note": "Official CDN/marketing images archived for checksum catalog (subset). Commercial reuse requires rights-holder license. Not portal/watermark sources.",
+  "download_status": "partial_downloaded_pending_license",
   "verified_at": "2026-07-16",
-  "notes": "Official gallery page/source registered. Image binaries not scraped (no license permission)."
+  "phase": "11-media-factory-wave1",
+  "notes": "Mirrored 8/24 official gallery URLs (cap 8).",
+  "gallery_image_urls": [
+    "https://www.apthai.com/images/production/Teiuc8G0PyO0OJCe0o73otNBM6SFbN-metaRDNoNEc5ZFRJOC0xNzY3NzUzNTMxNTQ3LWltYWdlLmpwZw==-.jpg",
+    "https://www.apthai.com/images/production/wH4mx8h5DdbESgNAh8RXbdolmxyH1a-metaR2FsbGVyeTEucG5n-.png",
+    "https://www.apthai.com/images/production/UEkb95sS5PwziNbFBdVvLWw45yBkDA-metaR2FsbGVyeTIuanBn-.jpg",
+    "https://www.apthai.com/images/production/oAdPNUHjh9guPFGBqo7Nj4RCNrqf8i-metaR2FsbGVyeTMucG5n-.png",
+    "https://www.apthai.com/images/production/OihamrnrrqpGnrNIw3MSgshOTZ0zMj-metaR2FsbGVyeTQucG5n-.png",
+    "https://www.apthai.com/images/production/Va85PyGrzVW1E1CfVk4uV177WRzgEb-metaR2FsbGVyeTUucG5n-.png",
+    "https://www.apthai.com/images/production/KAAl6IuiNcbg0A9OU8Wyh9WTBgCLSY-metaR2FsbGVyeTYucG5n-.png",
+    "https://www.apthai.com/images/production/CcYygF7tuHobvNfTx43yRwhNAaAQHd-metaR2FsbGVyeTcucG5n-.png",
+    "https://www.apthai.com/images/production/vYS7rsn3oAvlxyv4Y38F1kkMBloxg1-metaR2FsbGVyeTgucG5n-.png",
+    "https://www.apthai.com/images/production/RdYnBSjHPmoryy9TxnNF4PK7TrPgvw-metaR2FsbGVyeTkucG5n-.png",
+    "https://www.apthai.com/images/production/24Q48yPyrtl7F1vwTDLmu4nP8SPMmw-metaR2FsbGVyeTEwLnBuZw==-.png",
+    "https://www.apthai.com/images/production/SBagcEvdZPlOylnXiUfUQ5SkwVkdi2-metaR2FsbGVyeTExLnBuZw==-.png",
+    "https://www.apthai.com/images/production/W8YywPqd1eVU2OIrjQs8Qqq27SPG9Y-metaR2FsbGVyeTEyLnBuZw==-.png",
+    "https://www.apthai.com/images/production/YPedvaLOmM4edRHF1UxNAdHi4ItrYd-metaR2FsbGVyeTEzLnBuZw==-.png",
+    "https://www.apthai.com/images/production/n4jlb5qP22xmOMcF879FrTE7eQMpfa-metaR2FsbGVyeTE0LnBuZw==-.png",
+    "https://www.apthai.com/images/production/hqdvgX37tdiW426B1MBSCYTIjbyUCf-metaR2FsbGVyeTE1LnBuZw==-.png",
+    "https://www.apthai.com/images/production/zM9QanLjN0M7TY0YRlkrt1KZLplJ0i-metaR2FsbGVyeTE2LnBuZw==-.png",
+    "https://www.apthai.com/images/production/1fWzMQ4tVhGbJmb3CDbgPfBWW7cZXR-metaR2FsbGVyeTE3LnBuZw==-.png",
+    "https://www.apthai.com/images/production/R9ctXTTsrczlsPaEZTIARR3NUiMrtd-metaR2FsbGVyeTE4LnBuZw==-.png",
+    "https://www.apthai.com/images/production/pcl6xcUXnoKdIQX4NGZe06omi7Hzuw-metaR2FsbGVyeTE5LnBuZw==-.png",
+    "https://www.apthai.com/images/production/Zm2HGtnAuzgJZ0wWmvC08ce6teKs0y-metaR2FsbGVyeTIwLnBuZw==-.png",
+    "https://www.apthai.com/images/production/kUq62Jq1EVDuFvqSUppvze7KAQeNeU-metaR2FsbGVyeTIxLnBuZw==-.png",
+    "https://www.apthai.com/images/production/gYgDJ0xmDUtONGGrk7yvM8kFraT23Y-metaR2FsbGVyeTIyLnBuZw==-.png",
+    "https://www.apthai.com/images/production/Buli5JHkX08pvhbuidnNAIukhg5LEC-metaMi1iZWRyb29tLTcwIC0gc3EubS5fMS5qcGc=-.jpg"
+  ],
+  "mirrored_files": [
+    {
+      "index": 1,
+      "official_url": "https://www.apthai.com/images/production/Teiuc8G0PyO0OJCe0o73otNBM6SFbN-metaRDNoNEc5ZFRJOC0xNzY3NzUzNTMxNTQ3LWltYWdlLmpwZw==-.jpg",
+      "local_storage_path": "content/media/library/projects/rhythm-ekkamai/files/gallery-01.jpg",
+      "public_path": "/projects/rhythm-ekkamai/gallery-01.jpg",
+      "checksum_sha256": "dde3093635a9508a63fd06c85c307087bcc49c04cb3c3c10e0a476f4b55bb423"
+    },
+    {
+      "index": 2,
+      "official_url": "https://www.apthai.com/images/production/wH4mx8h5DdbESgNAh8RXbdolmxyH1a-metaR2FsbGVyeTEucG5n-.png",
+      "local_storage_path": "content/media/library/projects/rhythm-ekkamai/files/gallery-02.png",
+      "public_path": "/projects/rhythm-ekkamai/gallery-02.png",
+      "checksum_sha256": "8a9f666858d0ae1a6413a274139bd66fb4f2b43876efe472631679d6f587dd66"
+    },
+    {
+      "index": 3,
+      "official_url": "https://www.apthai.com/images/production/UEkb95sS5PwziNbFBdVvLWw45yBkDA-metaR2FsbGVyeTIuanBn-.jpg",
+      "local_storage_path": "content/media/library/projects/rhythm-ekkamai/files/gallery-03.jpg",
+      "public_path": "/projects/rhythm-ekkamai/gallery-03.jpg",
+      "checksum_sha256": "888c468425478266282b401697b896ec3777e3afd5ddcb820a5b29e1c64edc1a"
+    },
+    {
+      "index": 4,
+      "official_url": "https://www.apthai.com/images/production/oAdPNUHjh9guPFGBqo7Nj4RCNrqf8i-metaR2FsbGVyeTMucG5n-.png",
+      "local_storage_path": "content/media/library/projects/rhythm-ekkamai/files/gallery-04.png",
+      "public_path": "/projects/rhythm-ekkamai/gallery-04.png",
+      "checksum_sha256": "00abfebeeb37d78a86280e287deb515915b26417ffeb2b96b39d32126ad4f2b3"
+    },
+    {
+      "index": 5,
+      "official_url": "https://www.apthai.com/images/production/OihamrnrrqpGnrNIw3MSgshOTZ0zMj-metaR2FsbGVyeTQucG5n-.png",
+      "local_storage_path": "content/media/library/projects/rhythm-ekkamai/files/gallery-05.png",
+      "public_path": "/projects/rhythm-ekkamai/gallery-05.png",
+      "checksum_sha256": "88ad02d17f8f0c3747701c2b09e62d3430b9170670e694cadf70c517bf930435"
+    },
+    {
+      "index": 6,
+      "official_url": "https://www.apthai.com/images/production/Va85PyGrzVW1E1CfVk4uV177WRzgEb-metaR2FsbGVyeTUucG5n-.png",
+      "local_storage_path": "content/media/library/projects/rhythm-ekkamai/files/gallery-06.png",
+      "public_path": "/projects/rhythm-ekkamai/gallery-06.png",
+      "checksum_sha256": "f350f017a4c4ac95cb49a9fcb8b65ca6500a1df042f0b507884d15b517721db1"
+    },
+    {
+      "index": 7,
+      "official_url": "https://www.apthai.com/images/production/KAAl6IuiNcbg0A9OU8Wyh9WTBgCLSY-metaR2FsbGVyeTYucG5n-.png",
+      "local_storage_path": "content/media/library/projects/rhythm-ekkamai/files/gallery-07.png",
+      "public_path": "/projects/rhythm-ekkamai/gallery-07.png",
+      "checksum_sha256": "559e1daff0bb0c7b988ceea1cedd339bfed69d8900c76be692fcb8ffdb975741"
+    },
+    {
+      "index": 8,
+      "official_url": "https://www.apthai.com/images/production/CcYygF7tuHobvNfTx43yRwhNAaAQHd-metaR2FsbGVyeTcucG5n-.png",
+      "local_storage_path": "content/media/library/projects/rhythm-ekkamai/files/gallery-08.png",
+      "public_path": "/projects/rhythm-ekkamai/gallery-08.png",
+      "checksum_sha256": "de53a94eacd559f0bfd85c610c441c9bbbfb8e72b7012536d0ed2640e94c06a4"
+    }
+  ]
 }

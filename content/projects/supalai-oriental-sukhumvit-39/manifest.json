@@ -681,7 +681,9 @@
     "official_gallery_source": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
     "unit_count": 1046,
     "floors": 35,
-    "buildings": 4
+    "buildings": 4,
+    "official_brochure": "https://www.supalai.com/stocks/project/o0x0/9f/zv/ahbg9fzvjpr/E-Brochure-oriental_39-181266.pdf",
+    "brochure_local_path": "/projects/supalai-oriental-sukhumvit-39/brochure.pdf"
   },
   "field_evidence": {
     "official_project_page": {
@@ -828,11 +830,11 @@
     "gallery": {
       "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
       "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "c0ba92ee4b79a13aeac8ecebae92fd349be74e5e15fdb10f2ab1361d975ef255",
+      "local_storage_path": "content/media/library/projects/supalai-oriental-sukhumvit-39/files/gallery-01.jpg",
+      "rights_note": "mirrored_subset_pending_commercial_license",
+      "download_status": "partial_downloaded_pending_license",
       "gallery_image_urls": [
         "https://www.supalai.com/stocks/project/o0x0/xi/nl/sa4dxinlmxk/Architecture_Night_Shot_(1).jpg",
         "https://www.supalai.com/stocks/project_child_banner/c1280x680/rz/yk/eblgrzykxji/Eternity_Infinity_Smimming_Pool_(11).jpg",
@@ -846,16 +848,92 @@
         "https://www.supalai.com/stocks/project_child_facility_image/o0x0/ik/jx/vrwoikjxz3t/Yes_Yoga_%26_Fine_Fitness_(1).jpg",
         "https://www.supalai.com/stocks/project/o0x0/fx/i3/xc8hfxi3ouw/Architecture_Night_Shot_(3).jpg",
         "https://www.supalai.com/stocks/project/o0x0/kc/qm/egtokcqmraj/map_(8).jpg"
+      ],
+      "id": "project:supalai-oriental-sukhumvit-39:gallery",
+      "class": "gallery",
+      "entity_type": "project",
+      "entity_slug": "supalai-oriental-sukhumvit-39",
+      "role": "gallery",
+      "license_note": "Official CDN/marketing images archived for checksum catalog (subset). Commercial reuse requires rights-holder license. Not portal/watermark sources.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Mirrored 8/12 official gallery URLs (cap 8).",
+      "mirrored_files": [
+        {
+          "index": 1,
+          "official_url": "https://www.supalai.com/stocks/project/o0x0/xi/nl/sa4dxinlmxk/Architecture_Night_Shot_(1).jpg",
+          "local_storage_path": "content/media/library/projects/supalai-oriental-sukhumvit-39/files/gallery-01.jpg",
+          "public_path": "/projects/supalai-oriental-sukhumvit-39/gallery-01.jpg",
+          "checksum_sha256": "c0ba92ee4b79a13aeac8ecebae92fd349be74e5e15fdb10f2ab1361d975ef255"
+        },
+        {
+          "index": 2,
+          "official_url": "https://www.supalai.com/stocks/project_child_banner/c1280x680/rz/yk/eblgrzykxji/Eternity_Infinity_Smimming_Pool_(11).jpg",
+          "local_storage_path": "content/media/library/projects/supalai-oriental-sukhumvit-39/files/gallery-02.jpg",
+          "public_path": "/projects/supalai-oriental-sukhumvit-39/gallery-02.jpg",
+          "checksum_sha256": "38bb25e1a74cac162a067eada21568430beabc4133b0c68083a9f1e63e85b51c"
+        },
+        {
+          "index": 3,
+          "official_url": "https://www.supalai.com/stocks/project_child_banner/c750x1040/nh/01/xcbsnh01htq/Eternity_Infinity_Smimming_Pool_(5).jpg",
+          "local_storage_path": "content/media/library/projects/supalai-oriental-sukhumvit-39/files/gallery-03.jpg",
+          "public_path": "/projects/supalai-oriental-sukhumvit-39/gallery-03.jpg",
+          "checksum_sha256": "1f9dc44386616a7261e65be5fa621293fab22835f555d7443bb2d626e44e1d02"
+        },
+        {
+          "index": 4,
+          "official_url": "https://www.supalai.com/stocks/project_child_banner/c1280x680/gv/t7/a8opgvt7itd/maxresdefault_(9).jpg",
+          "local_storage_path": "content/media/library/projects/supalai-oriental-sukhumvit-39/files/gallery-04.jpg",
+          "public_path": "/projects/supalai-oriental-sukhumvit-39/gallery-04.jpg",
+          "checksum_sha256": "7700255146423efd156a809dbeee03edfd5b5ed6f6068402794064bd0665d31d"
+        },
+        {
+          "index": 5,
+          "official_url": "https://www.supalai.com/stocks/project_child_banner/c750x1040/2h/4o/atbb2h4ock1/maxresdefault_(9).jpg",
+          "local_storage_path": "content/media/library/projects/supalai-oriental-sukhumvit-39/files/gallery-05.jpg",
+          "public_path": "/projects/supalai-oriental-sukhumvit-39/gallery-05.jpg",
+          "checksum_sha256": "712e466414fa0e707e5d1407040b761365a3e22b2d86eeb38140d8a9f6e945ad"
+        },
+        {
+          "index": 6,
+          "official_url": "https://www.supalai.com/stocks/project_child_point/o0x0/v8/9p/uu0ev89pjkh/Lobby_(7).jpg",
+          "local_storage_path": "content/media/library/projects/supalai-oriental-sukhumvit-39/files/gallery-06.jpg",
+          "public_path": "/projects/supalai-oriental-sukhumvit-39/gallery-06.jpg",
+          "checksum_sha256": "3550dee447b4da2a4553bbec5417e29e68778b57448a67266949dfb260a9776d"
+        },
+        {
+          "index": 7,
+          "official_url": "https://www.supalai.com/stocks/project_child_point/o0x0/s1/m4/rqkas1m48wf/Hill_Garden_%26_Peacock_Pavilion_(3).jpg",
+          "local_storage_path": "content/media/library/projects/supalai-oriental-sukhumvit-39/files/gallery-07.jpg",
+          "public_path": "/projects/supalai-oriental-sukhumvit-39/gallery-07.jpg",
+          "checksum_sha256": "cc9012dfcd1e3e27c678134e6a7f269fb3f9f2bb00fd7d99fea41ef1adf23ec7"
+        },
+        {
+          "index": 8,
+          "official_url": "https://www.supalai.com/stocks/project/o0x0/sq/b7/qg50sqb7ljc/Architecture_Night_Shot_(4).jpg",
+          "local_storage_path": "content/media/library/projects/supalai-oriental-sukhumvit-39/files/gallery-08.jpg",
+          "public_path": "/projects/supalai-oriental-sukhumvit-39/gallery-08.jpg",
+          "checksum_sha256": "7a731a95955c9dc5a4c31869b0ae047a28ceb8714d650e017307b6c5ae14d388"
+        }
       ]
     },
     "brochure": {
       "official_url": "https://www.supalai.com/stocks/project/o0x0/9f/zv/ahbg9fzvjpr/E-Brochure-oriental_39-181266.pdf",
       "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39 — official e-brochure PDF",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "c6fe7f6d7c5c1cb547c9bad27679d9595ec7906c55e090f3a8ddd50672ae95d1",
+      "local_storage_path": "content/media/library/projects/supalai-oriental-sukhumvit-39/brochure.pdf",
+      "rights_note": "mirrored_to_storage",
+      "download_status": "downloaded",
+      "id": "project:supalai-oriental-sukhumvit-39:brochure",
+      "class": "brochure",
+      "entity_type": "project",
+      "entity_slug": "supalai-oriental-sukhumvit-39",
+      "role": "brochure",
+      "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Public path /projects/supalai-oriental-sukhumvit-39/brochure.pdf"
     },
     "floor_plans": {
       "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
@@ -885,13 +963,22 @@
       ]
     },
     "hero": {
-      "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+      "id": "project:supalai-oriental-sukhumvit-39:hero",
+      "class": "hero",
+      "entity_type": "project",
+      "entity_slug": "supalai-oriental-sukhumvit-39",
+      "role": "hero",
+      "official_url": "https://www.supalai.com/stocks/project/o0x0/xi/nl/sa4dxinlmxk/Architecture_Night_Shot_(1).jpg",
       "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "c0ba92ee4b79a13aeac8ecebae92fd349be74e5e15fdb10f2ab1361d975ef255",
+      "local_storage_path": "content/media/library/projects/supalai-oriental-sukhumvit-39/hero.jpg",
+      "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+      "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+      "download_status": "downloaded_pending_license",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Selected from official gallery_image_urls[0] successful mirror"
     }
   },
   "content_factory": {

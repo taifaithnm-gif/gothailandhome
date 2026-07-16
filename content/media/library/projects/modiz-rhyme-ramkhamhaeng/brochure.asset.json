@@ -6,10 +6,13 @@
   "role": "brochure",
   "official_url": "https://cdn.assetwise.co.th/wp-content/uploads/2023/10/Page-Modiz-Rhyme-Brochure.pdf",
   "copyright_source": "© AssetWise Public Company Limited / Modiz Rhyme Ramkhamhaeng — official brochure PDF",
-  "download_status": "not_downloaded_pending_license",
-  "rights_note": "hotlink",
-  "notes": "Official brochure PDF URL registered",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "0f7dc7362efa6976ee98d949891947ae46f272b8e52b73a6b9c368ef0cf8c66c",
+  "local_storage_path": "content/media/library/projects/modiz-rhyme-ramkhamhaeng/brochure.pdf",
+  "rights_note": "mirrored_to_storage",
+  "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+  "download_status": "downloaded",
   "verified_at": "2026-07-16",
-  "updated_at": "2026-07-16",
-  "phase": "11-wave-2"
+  "phase": "11-media-factory-wave1",
+  "notes": "Public path /projects/modiz-rhyme-ramkhamhaeng/brochure.pdf"
 }

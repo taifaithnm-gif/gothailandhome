@@ -1,0 +1,18 @@
+{
+  "id": "project:life-one-wireless:brochure",
+  "class": "brochure",
+  "entity_type": "project",
+  "entity_slug": "life-one-wireless",
+  "role": "brochure",
+  "official_url": "https://www.apthai.com/images/production/nINTvd3zSuGHvTsxNXSNaxWykFYKyN-metaRS1CUk9DSFVSRV9PTkUtV0lSRUxFU1NfMDUwNDIxLnBkZg==-.pdf",
+  "copyright_source": "© AP Thailand / life-one-wireless — official brochure PDF",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "e30f3c099ea8eb15bbe27b4fd883bff28480ae0eaba5cdd62ba34d53ff945ebf",
+  "local_storage_path": "content/media/library/projects/life-one-wireless/brochure.pdf",
+  "rights_note": "mirrored_to_storage",
+  "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "phase": "11-media-factory-wave1",
+  "notes": "Public path /projects/life-one-wireless/brochure.pdf"
+}

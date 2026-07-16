@@ -4,13 +4,15 @@
   "entity_type": "developer",
   "entity_slug": "noble-development",
   "role": "logo",
-  "official_url": "https://www.noblehome.com/favicon.ico",
+  "official_url": "https://www.noblehome.com/images/logo.svg",
   "copyright_source": "© Noble Development — official website identity asset",
   "downloaded_date": "2026-07-16",
-  "checksum_sha256": "b140fdee9f43f198f92537918d4bf5459621959534717f3fa0178025dbbaa49d",
-  "local_storage_path": "content/media/library/developers/noble-development/logo.ico",
+  "checksum_sha256": "9fbdce81e2038a7682c3b4047e0e1dc826381f503990580cc738c2888f3d6e8e",
+  "local_storage_path": "content/media/library/developers/noble-development/logo.svg",
   "rights_note": "mirrored_to_storage",
+  "license_note": "Official website identity asset mirrored for catalog use. Trademark remains with rights holder.",
   "download_status": "downloaded",
   "verified_at": "2026-07-16",
-  "notes": "Public delivery copy: /developers/noble-development/official-logo.ico. Placeholder SVG retained as non-trademark fallback."
+  "phase": "11-media-factory-wave1",
+  "notes": "Upgraded from favicon.ico to official Noble logo SVG Public delivery: /developers/noble-development/official-logo.svg"
 }

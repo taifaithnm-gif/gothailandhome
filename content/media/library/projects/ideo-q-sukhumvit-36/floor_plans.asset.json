@@ -12,5 +12,7 @@
   "rights_note": "hotlink",
   "download_status": "not_downloaded_pending_license",
   "verified_at": "2026-07-16",
-  "notes": "Official floor-plan section/page registered. Plan binaries not scraped without permission."
+  "notes": "Official floor-plan section/page registered. Plan binaries not scraped without permission.",
+  "license_note": "Official floor-plan section hotlinked; binary mirror skipped pending direct asset URL + license.",
+  "phase": "11-media-factory-wave1"
 }

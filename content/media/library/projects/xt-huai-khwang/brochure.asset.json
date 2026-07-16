@@ -6,8 +6,13 @@
   "role": "brochure",
   "official_url": "https://www.sansiri.com/uploads/docs/2018/09/20/b55832b2-8d6d-45a5-83e0-5136a85bf780.pdf",
   "copyright_source": "© Sansiri Public Company Limited / XT Huaikhwang — official brochure PDF",
-  "download_status": "not_downloaded_pending_license",
-  "rights_note": "hotlink",
-  "notes": "Official brochure PDF URL registered; binary not mirrored pending license.",
-  "verified_at": "2026-07-16"
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "bfe1129dc92611b738b2d08288e6ac8dd65479c0ca88603c227928025af82c42",
+  "local_storage_path": "content/media/library/projects/xt-huai-khwang/brochure.pdf",
+  "rights_note": "mirrored_to_storage",
+  "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "phase": "11-media-factory-wave1",
+  "notes": "Public path /projects/xt-huai-khwang/brochure.pdf"
 }

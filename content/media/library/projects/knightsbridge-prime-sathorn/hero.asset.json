@@ -4,13 +4,15 @@
   "entity_type": "project",
   "entity_slug": "knightsbridge-prime-sathorn",
   "role": "hero",
-  "official_url": "https://www.origin.co.th/",
-  "copyright_source": "© Origin Property / Knightsbridge Prime Sathorn — official project materials",
-  "downloaded_date": null,
-  "checksum_sha256": null,
-  "local_storage_path": null,
-  "rights_note": "hotlink",
-  "download_status": "placeholder_pending_official_mirror",
+  "official_url": "https://en.origin.co.th/wp-content/uploads/2019/04/1474541692-1-2.jpg",
+  "copyright_source": "© Origin Property / knightsbridge-prime-sathorn — official project media",
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "9f3b1baf03ca93fd972400d8509b6ec498b77b7152ae55dcc5dc4df295679310",
+  "local_storage_path": "content/media/library/projects/knightsbridge-prime-sathorn/hero.jpg",
+  "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+  "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+  "download_status": "downloaded_pending_license",
   "verified_at": "2026-07-16",
-  "notes": "Placeholder remains at n/a; official hero binary not mirrored without license."
+  "phase": "11-media-factory-wave1",
+  "notes": "Selected from official gallery_image_urls[0] successful mirror"
 }

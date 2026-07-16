@@ -492,7 +492,9 @@
     "floor_count": 42,
     "floors": 42,
     "building_count": 2,
-    "buildings": 2
+    "buildings": 2,
+    "official_brochure": "https://www.apthai.com/images/production/zB8SXHVzYtABk71XgDyfgBoAlniSh4-metaTGlmZS1Bc29rZS1SYW1hOS5wZGY=-.pdf",
+    "brochure_local_path": "/projects/life-asoke-rama-9/brochure.pdf"
   },
   "field_evidence": {
     "official_project_page": {
@@ -627,12 +629,12 @@
   "media_library": {
     "gallery": {
       "official_url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
-      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ASOKE RAMA 9",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license",
+      "copyright_source": "© AP Thailand / LIFE Asoke Rama 9 — official project materials",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "8b86e148db550e60b3956fec8ad3d61c48668ef14c7e21081e5c22b2349eb326",
+      "local_storage_path": "content/media/library/projects/life-asoke-rama-9/files/gallery-01.jpg",
+      "rights_note": "mirrored_subset_pending_commercial_license",
+      "download_status": "partial_downloaded_pending_license",
       "gallery_image_urls": [
         "https://www.apthai.com/images/production/condo_60016-gallery_image_1-en.jpg",
         "https://www.apthai.com/images/production/condo_60016-gallery_image_10-en.jpg",
@@ -649,16 +651,92 @@
         "https://www.apthai.com/images/production/condo_60016-gallery_image_7-en.jpg",
         "https://www.apthai.com/images/production/condo_60016-gallery_image_8-en.jpg",
         "https://www.apthai.com/images/production/condo_60016-gallery_image_9-en.jpg"
+      ],
+      "id": "project:life-asoke-rama-9:gallery",
+      "class": "gallery",
+      "entity_type": "project",
+      "entity_slug": "life-asoke-rama-9",
+      "role": "gallery",
+      "license_note": "Official CDN/marketing images archived for checksum catalog (subset). Commercial reuse requires rights-holder license. Not portal/watermark sources.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Mirrored 8/15 official gallery URLs (cap 8).",
+      "mirrored_files": [
+        {
+          "index": 1,
+          "official_url": "https://www.apthai.com/images/production/condo_60016-gallery_image_1-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-asoke-rama-9/files/gallery-01.jpg",
+          "public_path": "/projects/life-asoke-rama-9/gallery-01.jpg",
+          "checksum_sha256": "8b86e148db550e60b3956fec8ad3d61c48668ef14c7e21081e5c22b2349eb326"
+        },
+        {
+          "index": 2,
+          "official_url": "https://www.apthai.com/images/production/condo_60016-gallery_image_10-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-asoke-rama-9/files/gallery-02.jpg",
+          "public_path": "/projects/life-asoke-rama-9/gallery-02.jpg",
+          "checksum_sha256": "1324fcb953613971f0ea896921bb005b7cd2df52d6a88b98f7e83abde01bf57a"
+        },
+        {
+          "index": 3,
+          "official_url": "https://www.apthai.com/images/production/condo_60016-gallery_image_11-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-asoke-rama-9/files/gallery-03.jpg",
+          "public_path": "/projects/life-asoke-rama-9/gallery-03.jpg",
+          "checksum_sha256": "d52bf7712dfda1d2f5220e7a6a376320fba34eca627933ed640b0b271e2cc4ad"
+        },
+        {
+          "index": 4,
+          "official_url": "https://www.apthai.com/images/production/condo_60016-gallery_image_12-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-asoke-rama-9/files/gallery-04.jpg",
+          "public_path": "/projects/life-asoke-rama-9/gallery-04.jpg",
+          "checksum_sha256": "3024ad0db617380c82c87f9be8684fd201ef8483c01c499752e0ba90894d98ee"
+        },
+        {
+          "index": 5,
+          "official_url": "https://www.apthai.com/images/production/condo_60016-gallery_image_13-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-asoke-rama-9/files/gallery-05.jpg",
+          "public_path": "/projects/life-asoke-rama-9/gallery-05.jpg",
+          "checksum_sha256": "43000a564e215f7822001be22ee71c729d723ae60103cf259421984f3500beea"
+        },
+        {
+          "index": 6,
+          "official_url": "https://www.apthai.com/images/production/condo_60016-gallery_image_14-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-asoke-rama-9/files/gallery-06.jpg",
+          "public_path": "/projects/life-asoke-rama-9/gallery-06.jpg",
+          "checksum_sha256": "6fa3f9d1509417fc5dd896b7cebab35b09bb94bdfeceda73f0d180420b865a89"
+        },
+        {
+          "index": 7,
+          "official_url": "https://www.apthai.com/images/production/condo_60016-gallery_image_15-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-asoke-rama-9/files/gallery-07.jpg",
+          "public_path": "/projects/life-asoke-rama-9/gallery-07.jpg",
+          "checksum_sha256": "e737708fef8ee9589761a22be8b4a59a03bbdc58915ac2696fa65f411e7b6355"
+        },
+        {
+          "index": 8,
+          "official_url": "https://www.apthai.com/images/production/condo_60016-gallery_image_2-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-asoke-rama-9/files/gallery-08.jpg",
+          "public_path": "/projects/life-asoke-rama-9/gallery-08.jpg",
+          "checksum_sha256": "e51c3b1139286b0c05f2f98a1bcabb6c5d5fd6ebdec2561b81b984d456f95797"
+        }
       ]
     },
     "brochure": {
       "official_url": "https://www.apthai.com/images/production/zB8SXHVzYtABk71XgDyfgBoAlniSh4-metaTGlmZS1Bc29rZS1SYW1hOS5wZGY=-.pdf",
-      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ASOKE RAMA 9 — official brochure PDF",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "copyright_source": "© AP Thailand / life-asoke-rama-9 — official brochure PDF",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "f8fe362c2f9ae953faeaa55fb2c34f8d727141a866b9737cf8f1b1bd45232181",
+      "local_storage_path": "content/media/library/projects/life-asoke-rama-9/brochure.pdf",
+      "rights_note": "mirrored_to_storage",
+      "download_status": "downloaded",
+      "id": "project:life-asoke-rama-9:brochure",
+      "class": "brochure",
+      "entity_type": "project",
+      "entity_slug": "life-asoke-rama-9",
+      "role": "brochure",
+      "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Public path /projects/life-asoke-rama-9/brochure.pdf"
     },
     "floor_plans": {
       "official_url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
@@ -670,13 +748,22 @@
       "download_status": "not_downloaded_pending_license"
     },
     "hero": {
-      "official_url": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
-      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE ASOKE RAMA 9",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror"
+      "id": "project:life-asoke-rama-9:hero",
+      "class": "hero",
+      "entity_type": "project",
+      "entity_slug": "life-asoke-rama-9",
+      "role": "hero",
+      "official_url": "https://www.apthai.com/images/production/condo_60016-gallery_image_1-en.jpg",
+      "copyright_source": "© AP Thailand / LIFE Asoke Rama 9 — official project materials",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "8b86e148db550e60b3956fec8ad3d61c48668ef14c7e21081e5c22b2349eb326",
+      "local_storage_path": "content/media/library/projects/life-asoke-rama-9/hero.jpg",
+      "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+      "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+      "download_status": "downloaded_pending_license",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Selected from official gallery_image_urls[0] successful mirror"
     }
   },
   "content_factory": {

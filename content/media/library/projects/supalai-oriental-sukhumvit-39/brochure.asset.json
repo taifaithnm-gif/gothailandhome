@@ -6,8 +6,13 @@
   "role": "brochure",
   "official_url": "https://www.supalai.com/stocks/project/o0x0/9f/zv/ahbg9fzvjpr/E-Brochure-oriental_39-181266.pdf",
   "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39 — official e-brochure PDF",
-  "download_status": "not_downloaded_pending_license",
-  "rights_note": "hotlink",
-  "notes": "Official e-brochure PDF URL registered",
-  "verified_at": "2026-07-16"
+  "downloaded_date": "2026-07-16",
+  "checksum_sha256": "c6fe7f6d7c5c1cb547c9bad27679d9595ec7906c55e090f3a8ddd50672ae95d1",
+  "local_storage_path": "content/media/library/projects/supalai-oriental-sukhumvit-39/brochure.pdf",
+  "rights_note": "mirrored_to_storage",
+  "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+  "download_status": "downloaded",
+  "verified_at": "2026-07-16",
+  "phase": "11-media-factory-wave1",
+  "notes": "Public path /projects/supalai-oriental-sukhumvit-39/brochure.pdf"
 }

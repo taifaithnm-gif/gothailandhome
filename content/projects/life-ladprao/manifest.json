@@ -395,7 +395,9 @@
     "floor_count": 46,
     "floors": 46,
     "building_count": 2,
-    "buildings": 2
+    "buildings": 2,
+    "official_brochure": "https://www.apthai.com/images/production/LaurEIXqeyPrdeAuClpxnftVFBImkr-metaRS1CUk9DSFVSRV9MQURQUkFPXzMxMDgyMS5wZGY=-.pdf",
+    "brochure_local_path": "/projects/life-ladprao/brochure.pdf"
   },
   "field_evidence": {
     "official_project_page": {
@@ -528,12 +530,12 @@
   "media_library": {
     "gallery": {
       "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
-      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE LADPRAO",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license",
+      "copyright_source": "© AP Thailand / LIFE Ladprao — official project materials",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "c3a4fd138e12753b0e08cebdd119a37852d5e353390ccecc13a878d69bfabd3f",
+      "local_storage_path": "content/media/library/projects/life-ladprao/files/gallery-01.jpg",
+      "rights_note": "mirrored_subset_pending_commercial_license",
+      "download_status": "downloaded_pending_license",
       "gallery_image_urls": [
         "https://www.apthai.com/images/production/condo_60010-gallery_image_1-en.jpg",
         "https://www.apthai.com/images/production/condo_60010-gallery_image_2-en.jpg",
@@ -541,16 +543,78 @@
         "https://www.apthai.com/images/production/condo_60010-gallery_image_4-en.jpg",
         "https://www.apthai.com/images/production/condo_60010-gallery_image_5-en.jpg",
         "https://www.apthai.com/images/production/condo_60010-gallery_image_6-en.jpg"
+      ],
+      "id": "project:life-ladprao:gallery",
+      "class": "gallery",
+      "entity_type": "project",
+      "entity_slug": "life-ladprao",
+      "role": "gallery",
+      "license_note": "Official CDN/marketing images archived for checksum catalog (subset). Commercial reuse requires rights-holder license. Not portal/watermark sources.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Mirrored 6/6 official gallery URLs (cap 8).",
+      "mirrored_files": [
+        {
+          "index": 1,
+          "official_url": "https://www.apthai.com/images/production/condo_60010-gallery_image_1-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-ladprao/files/gallery-01.jpg",
+          "public_path": "/projects/life-ladprao/gallery-01.jpg",
+          "checksum_sha256": "c3a4fd138e12753b0e08cebdd119a37852d5e353390ccecc13a878d69bfabd3f"
+        },
+        {
+          "index": 2,
+          "official_url": "https://www.apthai.com/images/production/condo_60010-gallery_image_2-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-ladprao/files/gallery-02.jpg",
+          "public_path": "/projects/life-ladprao/gallery-02.jpg",
+          "checksum_sha256": "7542e5e1ba03cd564cf87025d09b1cb401ab154c237e560ef2d212e1e059ab26"
+        },
+        {
+          "index": 3,
+          "official_url": "https://www.apthai.com/images/production/condo_60010-gallery_image_3-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-ladprao/files/gallery-03.jpg",
+          "public_path": "/projects/life-ladprao/gallery-03.jpg",
+          "checksum_sha256": "44ecaab5f9d66f166894d9c60019e186b59a8bc7246963224088460d6a8e2046"
+        },
+        {
+          "index": 4,
+          "official_url": "https://www.apthai.com/images/production/condo_60010-gallery_image_4-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-ladprao/files/gallery-04.jpg",
+          "public_path": "/projects/life-ladprao/gallery-04.jpg",
+          "checksum_sha256": "ca7e49eb082e7173fd8d94a26ffd13188e756ae2c98749f22ab48e6505253f1f"
+        },
+        {
+          "index": 5,
+          "official_url": "https://www.apthai.com/images/production/condo_60010-gallery_image_5-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-ladprao/files/gallery-05.jpg",
+          "public_path": "/projects/life-ladprao/gallery-05.jpg",
+          "checksum_sha256": "15ce11791ef5418fefb37e95052d6965304ab0e7cbb0bfb75fab9680b6984c88"
+        },
+        {
+          "index": 6,
+          "official_url": "https://www.apthai.com/images/production/condo_60010-gallery_image_6-en.jpg",
+          "local_storage_path": "content/media/library/projects/life-ladprao/files/gallery-06.jpg",
+          "public_path": "/projects/life-ladprao/gallery-06.jpg",
+          "checksum_sha256": "d0fc3d71d0a3a8dcda13b0dd6ebb9dcd64e266b45ec8255bd0cd7b3fe9439b82"
+        }
       ]
     },
     "brochure": {
       "official_url": "https://www.apthai.com/images/production/LaurEIXqeyPrdeAuClpxnftVFBImkr-metaRS1CUk9DSFVSRV9MQURQUkFPXzMxMDgyMS5wZGY=-.pdf",
-      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE LADPRAO — official brochure PDF",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "not_downloaded_pending_license"
+      "copyright_source": "© AP Thailand / life-ladprao — official brochure PDF",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "9948676945ee21acad0f4dd213fc6fadd7eb1d5b89763cc30fa9567bbcc57aa8",
+      "local_storage_path": "content/media/library/projects/life-ladprao/brochure.pdf",
+      "rights_note": "mirrored_to_storage",
+      "download_status": "downloaded",
+      "id": "project:life-ladprao:brochure",
+      "class": "brochure",
+      "entity_type": "project",
+      "entity_slug": "life-ladprao",
+      "role": "brochure",
+      "license_note": "Official marketing PDF mirrored for catalog. Redistribution/commercial use subject to rights holder terms.",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Public path /projects/life-ladprao/brochure.pdf"
     },
     "floor_plans": {
       "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
@@ -562,13 +626,22 @@
       "download_status": "not_downloaded_pending_license"
     },
     "hero": {
-      "official_url": "https://www.apthai.com/en/condominium/life-ladprao",
-      "copyright_source": "© AP (Thailand) Public Company Limited / LIFE LADPRAO",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror"
+      "id": "project:life-ladprao:hero",
+      "class": "hero",
+      "entity_type": "project",
+      "entity_slug": "life-ladprao",
+      "role": "hero",
+      "official_url": "https://www.apthai.com/images/production/condo_60010-gallery_image_1-en.jpg",
+      "copyright_source": "© AP Thailand / LIFE Ladprao — official project materials",
+      "downloaded_date": "2026-07-16",
+      "checksum_sha256": "c3a4fd138e12753b0e08cebdd119a37852d5e353390ccecc13a878d69bfabd3f",
+      "local_storage_path": "content/media/library/projects/life-ladprao/hero.jpg",
+      "rights_note": "mirrored_from_official_gallery_pending_commercial_license",
+      "license_note": "Hero derived from first official gallery image. Commercial reuse requires rights-holder license.",
+      "download_status": "downloaded_pending_license",
+      "verified_at": "2026-07-16",
+      "phase": "11-media-factory-wave1",
+      "notes": "Selected from official gallery_image_urls[0] successful mirror"
     }
   },
   "content_factory": {
