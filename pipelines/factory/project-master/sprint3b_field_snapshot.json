@@ -3,18 +3,18 @@
   "baseline_s1_6field_pct": 33.6,
   "prior_s3_6field_pct": 35,
   "target_pct": 70,
-  "avg_10field_pct": 25.9,
-  "avg_6field_pct": 40,
-  "batch_avg_10field_pct": 38.4,
-  "batch_avg_6field_pct": 48.5,
+  "avg_10field_pct": 26.6,
+  "avg_6field_pct": 40.5,
+  "batch_avg_10field_pct": 40,
+  "batch_avg_6field_pct": 49.6,
   "target_met_6field": false,
   "target_met_10field": false,
   "field_counts": {
     "official_gallery": {
-      "OFFICIAL": 11,
+      "OFFICIAL": 12,
       "VERIFIED_PORTAL": 0,
       "DERIVED": 0,
-      "UNVERIFIED": 39
+      "UNVERIFIED": 38
     },
     "official_brochure": {
       "OFFICIAL": 2,
@@ -35,16 +35,16 @@
       "UNVERIFIED": 14
     },
     "full_address": {
-      "OFFICIAL": 8,
-      "VERIFIED_PORTAL": 42,
+      "OFFICIAL": 9,
+      "VERIFIED_PORTAL": 41,
       "DERIVED": 0,
       "UNVERIFIED": 0
     },
     "project_status": {
-      "OFFICIAL": 10,
+      "OFFICIAL": 11,
       "VERIFIED_PORTAL": 25,
       "DERIVED": 0,
-      "UNVERIFIED": 15
+      "UNVERIFIED": 14
     },
     "completion_year": {
       "OFFICIAL": 0,
@@ -65,10 +65,10 @@
       "UNVERIFIED": 43
     },
     "total_units": {
-      "OFFICIAL": 7,
+      "OFFICIAL": 8,
       "VERIFIED_PORTAL": 1,
       "DERIVED": 0,
-      "UNVERIFIED": 42
+      "UNVERIFIED": 41
     }
   },
   "rows": [
@@ -207,6 +207,23 @@
       "total_units": "OFFICIAL",
       "completeness_10_pct": 50,
       "completeness_6_pct": 58.3
+    },
+    {
+      "slug": "aspire-sathorn-taksin",
+      "developer": "ap-thailand",
+      "in_batch": true,
+      "official_gallery": "OFFICIAL",
+      "official_brochure": "UNVERIFIED",
+      "official_floor_plans": "UNVERIFIED",
+      "official_facilities": "UNVERIFIED",
+      "full_address": "OFFICIAL",
+      "project_status": "OFFICIAL",
+      "completion_year": "UNVERIFIED",
+      "building_count": "UNVERIFIED",
+      "floor_count": "UNVERIFIED",
+      "total_units": "OFFICIAL",
+      "completeness_10_pct": 40,
+      "completeness_6_pct": 50
     },
     {
       "slug": "the-forestias",
@@ -705,23 +722,6 @@
       "slug": "ascott-embassy-sathorn",
       "developer": "capitaland-thailand",
       "in_batch": false,
-      "official_gallery": "UNVERIFIED",
-      "official_brochure": "UNVERIFIED",
-      "official_floor_plans": "UNVERIFIED",
-      "official_facilities": "UNVERIFIED",
-      "full_address": "VERIFIED_PORTAL",
-      "project_status": "UNVERIFIED",
-      "completion_year": "UNVERIFIED",
-      "building_count": "UNVERIFIED",
-      "floor_count": "UNVERIFIED",
-      "total_units": "UNVERIFIED",
-      "completeness_10_pct": 5,
-      "completeness_6_pct": 25
-    },
-    {
-      "slug": "aspire-sathorn-taksin",
-      "developer": "ap-thailand",
-      "in_batch": true,
       "official_gallery": "UNVERIFIED",
       "official_brochure": "UNVERIFIED",
       "official_floor_plans": "UNVERIFIED",

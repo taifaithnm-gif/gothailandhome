@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "ASPIRE Sathorn-Taksin Priva official page",
+      "url": "https://www.apthai.com/th/condominium/aspire-sathorn-taksin-priva"
+    },
+    {
+      "type": "official_developer",
       "name": "Aspire Sathorn-Taksin official / developer page",
       "url": "https://www.apthai.com/"
     }
@@ -50,15 +55,15 @@
       "th": "แอสปาย สาทร-ตากสิน เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เอพี ไทยแลนด์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
     },
     "address": {
-      "en": "Thon Buri, Bangkok",
-      "zh": "曼谷吞武里",
-      "th": "ธนบุรี กรุงเทพฯ"
+      "en": "Ratchaphruek Road, Bang Kho, Chom Thong, Bangkok 10150",
+      "zh": "Ratchaphruek Road, Bang Kho, Chom Thong, Bangkok 10150",
+      "th": "ถนนราชพฤกษ์ แขวงบางค้อ เขตจอมทอง กรุงเทพมหานคร 10150"
     },
     "postal_code": "10600",
     "latitude": null,
     "longitude": null,
     "google_maps_url": null,
-    "official_website": "https://www.apthai.com/",
+    "official_website": "https://www.apthai.com/th/condominium/aspire-sathorn-taksin-priva",
     "facebook_url": null,
     "completion_year": null,
     "transit_tags": [
@@ -218,7 +223,11 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
-    }
+    },
+    "official_gallery_source": "https://www.apthai.com/th/condominium/aspire-sathorn-taksin-priva",
+    "total_units": 381,
+    "project_status": "selling",
+    "construction_status": "selling"
   },
   "field_evidence": {
     "official_project_page": {
@@ -284,9 +293,11 @@
     }
   },
   "project_master": {
-    "phase": "10-sprint-3",
+    "phase": "10-sprint-3b",
     "verified_at": "2026-07-16",
     "rule": "official_project_pages_only_for_official_field_upgrades",
-    "sprint": "phase10-sprint-3"
+    "sprint": "phase10-sprint-3",
+    "batch": "AP",
+    "notes": "AP Thai official TH project page"
   }
 }

@@ -10,7 +10,7 @@
 
 | Metric | S1 | Prior S3 | After S3b | Target |
 |--------|---:|---------:|----------:|-------:|
-| 6-field credibility avg (all 50) | 33.6% | 35.0% | **40%** | 70% |
+| 6-field credibility avg (all 50) | 33.6% | 35.0% | **40.5%** | 70% |
 | 10-field official-detail avg (all 50) | — | — | **25.9%** | 70% |
 | 6-field batch-only (22 projects) | — | — | **48.5%** | — |
 | 10-field batch-only | — | — | **38.4%** | — |
@@ -21,7 +21,7 @@
 
 ## What changed (this pass)
 
-- **AP:** `rhythm-ekkamai` near-complete (gallery/brochure/plans/facilities/address/status/building/floor/units); `life-asoke-rama-9` / `life-ladprao` SOLD OUT status + gallery source.
+- **AP:** `aspire-sathorn-taksin` from official Priva page (381 units + Chom Thong address); `rhythm-ekkamai` near-complete (gallery/brochure/plans/facilities/address/status/building/floor/units); `life-asoke-rama-9` / `life-ladprao` SOLD OUT status + gallery source.
 - **Sansiri:** `xt-phayathai` address/status/units from official hotdeal project page.
 - **MQDC:** `the-forestias` gallery + facilities from theforestias.com.
 - **Supalai:** `supalai-oriental-sukhumvit-39` building/floor/units/facilities/gallery.
