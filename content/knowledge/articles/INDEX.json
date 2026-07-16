@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updated_at": "2026-07-16",
+  "articles": [
+    {
+      "slug": "bts-skytrain-overview",
+      "path": "content/knowledge/articles/bts-skytrain-overview.json",
+      "verified_at": "2026-07-16",
+      "title": {
+        "en": "BTS Skytrain — official network overview",
+        "zh": "BTS 空铁——官方网络概览",
+        "th": "รถไฟฟ้าบีทีเอส — ภาพรวมจากแหล่งทางการ"
+      }
+    }
+  ]
+}

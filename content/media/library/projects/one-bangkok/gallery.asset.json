@@ -1,0 +1,18 @@
+{
+  "id": "project:one-bangkok:gallery",
+  "class": "gallery",
+  "entity_type": "project",
+  "entity_slug": "one-bangkok",
+  "role": "gallery",
+  "official_url": "https://www.onebangkok.com/en/",
+  "copyright_source": "© Frasers Property Thailand / One Bangkok",
+  "gallery_image_urls": [
+    "https://www.onebangkok.com/en.thumb.800.480.png"
+  ],
+  "rights_note": "hotlink_pending_license",
+  "download_status": "hotlink_catalogued",
+  "downloaded_date": null,
+  "checksum_sha256": null,
+  "local_storage_path": null,
+  "verified_at": "2026-07-16"
+}

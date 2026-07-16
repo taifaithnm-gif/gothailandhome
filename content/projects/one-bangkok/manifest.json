@@ -55,9 +55,9 @@
       "th": "วัน แบงค็อก เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา เฟรเซอร์ส พร็อพเพอร์ตี้ ประเทศไทย รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
     },
     "address": {
-      "en": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330 (corner of Wireless and Rama 4 Roads)",
-      "zh": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330 (corner of Wireless and Rama 4 Roads)",
-      "th": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330 (corner of Wireless and Rama 4 Roads)"
+      "en": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+      "zh": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+      "th": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand"
     },
     "postal_code": "10330",
     "latitude": null,
@@ -383,8 +383,7 @@
       "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_project_page",
-        "url": "https://www.onebangkok.com/en/",
-        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
+        "url": "https://www.onebangkok.com/en/"
       },
       "verified_at": "2026-07-16",
       "value": "https://www.onebangkok.com/en/"
@@ -395,20 +394,24 @@
       "provenance": {
         "source_type": "official_developer_project_page",
         "url": "https://www.onebangkok.com/en/",
-        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
+        "note": "Contact block on onebangkok.com/en — Wireless Road, Lumphini, Patumwan, Bangkok 10330; +66 (0) 2 483 5555; contactcenter@onebangkok.com."
       },
       "verified_at": "2026-07-16",
-      "value": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330 (corner of Wireless and Rama 4 Roads)"
+      "value": "Wireless Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand"
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_project_page",
         "url": "https://www.onebangkok.com/en/",
-        "note": "District master plan: three upscale residential towers (Frasers / One Bangkok official). Per-tower floor/unit totals and completion year not published as a single condo factsheet. Residences pages (ONE89 / EI8HTEEN SEVEN) are branded shells without unit totals in Wave 2 capture."
+        "asset_url": "https://www.onebangkok.com/en.thumb.800.480.png",
+        "note": "Official site thumbnail image on onebangkok.com domain."
       },
-      "verified_at": "2026-07-16"
+      "verified_at": "2026-07-16",
+      "value": [
+        "https://www.onebangkok.com/en.thumb.800.480.png"
+      ]
     },
     "official_brochure": {
       "field": "official_brochure",
@@ -509,23 +512,26 @@
   },
   "media_library": {
     "hero": {
-      "official_url": "https://www.onebangkok.com/en/",
-      "copyright_source": "© Frasers Property Thailand / One Bangkok — official project materials",
+      "official_url": "https://www.onebangkok.com/en.thumb.800.480.png",
+      "copyright_source": "© Frasers Property Thailand / One Bangkok",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
+      "rights_note": "hotlink_pending_license",
+      "download_status": "hotlink_catalogued",
       "placeholder_path": null
     },
     "gallery": {
       "official_url": "https://www.onebangkok.com/en/",
-      "copyright_source": "© frasers-property-thailand / One Bangkok",
+      "copyright_source": "© Frasers Property Thailand / One Bangkok",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "unverified_no_official_gallery"
+      "rights_note": "hotlink_pending_license",
+      "download_status": "hotlink_catalogued",
+      "gallery_image_urls": [
+        "https://www.onebangkok.com/en.thumb.800.480.png"
+      ]
     },
     "brochure": {
       "official_url": "https://www.onebangkok.com/en/",
@@ -547,9 +553,9 @@
     }
   },
   "project_factory": {
-    "phase": "11-wave-2",
+    "phase": "12-daily",
     "verified_at": "2026-07-16",
-    "wave": 2,
+    "daily": "2026-07-16",
     "developer": "frasers-property-thailand"
   }
 }

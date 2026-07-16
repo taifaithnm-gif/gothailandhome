@@ -1,0 +1,42 @@
+{
+  "lh_about": {
+    "url": "https://www.lh.co.th/en/about-us",
+    "final": "https://www.lh.co.th/en/about-us",
+    "status": 200,
+    "bytes": 72539
+  },
+  "lh_contact": {
+    "url": "https://www.lh.co.th/en/contact",
+    "final": "https://www.lh.co.th/en/contact",
+    "status": 200,
+    "bytes": 84990
+  },
+  "room62": {
+    "url": "https://www.lh.co.th/en/the-room/the-room-sukhumvit-62",
+    "final": "https://www.lh.co.th/en/the-room/the-room-sukhumvit-62",
+    "status": 200,
+    "bytes": 77930
+  },
+  "room_st": {
+    "url": "https://www.lh.co.th/en/the-room/the-room-sathorn-taksin",
+    "final": "https://www.lh.co.th/en/the-room/the-room-sathorn-taksin",
+    "status": 200,
+    "bytes": 77970
+  },
+  "bts": {
+    "url": "https://www.bts.co.th/eng/index.html",
+    "final": "https://www.bts.co.th/eng/index.html",
+    "status": 200,
+    "bytes": 86752
+  },
+  "bts_about": {
+    "url": "https://www.bts.co.th/eng/about/history.html",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "dusit_summary": {
+    "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Dusit_district",
+    "final": "https://en.wikipedia.org/api/rest_v1/page/summary/Dusit_district",
+    "status": 200,
+    "bytes": 1723
+  }
+}

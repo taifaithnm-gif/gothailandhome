@@ -1,0 +1,18 @@
+{
+  "id": "project:samyan-mitrtown:gallery",
+  "class": "gallery",
+  "entity_type": "project",
+  "entity_slug": "samyan-mitrtown",
+  "role": "gallery",
+  "official_url": "https://www.samyan-mitrtown.com/",
+  "copyright_source": "© Frasers Property Thailand / Samyan Mitrtown",
+  "gallery_image_urls": [
+    "https://p3.aprimocdn.net/frasersproperty/e560578f-06f6-4252-ba8b-b0c000abab8b/FPT_Samyan%20MItrtown_newyear%202024-01_downloadImageForWeb.Jpg"
+  ],
+  "rights_note": "hotlink_pending_license",
+  "download_status": "hotlink_catalogued",
+  "downloaded_date": null,
+  "checksum_sha256": null,
+  "local_storage_path": null,
+  "verified_at": "2026-07-16"
+}

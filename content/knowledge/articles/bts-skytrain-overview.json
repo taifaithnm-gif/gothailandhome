@@ -1,0 +1,107 @@
+{
+  "slug": "bts-skytrain-overview",
+  "type": "knowledge_article",
+  "publish_ready": true,
+  "collected_at": "2026-07-16",
+  "verified_at": "2026-07-16",
+  "title": {
+    "en": "BTS Skytrain — official network overview",
+    "zh": "BTS 空铁——官方网络概览",
+    "th": "รถไฟฟ้าบีทีเอส — ภาพรวมจากแหล่งทางการ"
+  },
+  "summary": {
+    "en": "BTS Skytrain is Bangkok’s elevated mass-transit brand operated under the official bts.co.th site. This article records only contact and network labels visible on the English homepage — no invented station counts or fares.",
+    "zh": "BTS 空铁为曼谷高架捷运品牌，官方站点为 bts.co.th。本文仅记录英文首页可见的联系方式与线路/产品标签，不编造车站数量或票价。",
+    "th": "รถไฟฟ้าบีทีเอสเป็นระบบขนส่งมวลชนบนทางยกระดับของกรุงเทพฯ เว็บไซต์ทางการ bts.co.th บทความนี้บันทึกเฉพาะข้อมูลติดต่อและป้ายเครือข่ายที่ปรากฏบนหน้าแรกภาษาอังกฤษ ไม่สร้างตัวเลขสถานีหรือค่าโดยสาร"
+  },
+  "body": {
+    "en": [
+      "According to the official BTS Skytrain English homepage (bts.co.th), the public site exposes route-and-fare tools, station/places search, timetables, and network products including Sukhumvit Line, Silom Line, Gold Line, Yellow Line, Pink Line, and BRT Sathorn.",
+      "Customer contact numbers published on the same homepage capture include 0 2617 6000 and 0 2617 7341.",
+      "This knowledge note does not list individual station inventories, fare tables, or ridership statistics unless those figures appear as explicit structured facts on an official BTS page in a future daily pass."
+    ],
+    "zh": [
+      "依据 BTS 空铁官方英文首页（bts.co.th），站点提供线路与票价工具、车站/地点查询、时刻表，并展示 Sukhumvit、Silom、Gold、Yellow、Pink 线路及 BRT Sathorn 等网络产品标签。",
+      "同页公开客服电话包括 0 2617 6000 与 0 2617 7341。",
+      "本文不罗列车站清单、票价表或客流统计，除非后续日报在官方页面捕获到明确结构化数据。"
+    ],
+    "th": [
+      "ตามหน้าแรกภาษาอังกฤษของ BTS Skytrain (bts.co.th) มีเครื่องมือเส้นทางและค่าโดยสาร ค้นหาสถานี/สถานที่ ตารางเวลา และป้ายเครือข่าย เช่น สายสุขุมวิท สายสีลม สายสีทอง สายสีเหลือง สายสีชมพู และ BRT สาทร",
+      "หมายเลขติดต่อที่พบในหน้าเดียวกัน ได้แก่ 0 2617 6000 และ 0 2617 7341",
+      "โน้ตนี้ไม่ระบุรายชื่อสถานี ตารางค่าโดยสาร หรือสถิติผู้โดยสาร จนกว่าจะมีตัวเลขชัดเจนจากหน้าทางการในรอบถัดไป"
+    ]
+  },
+  "sources": [
+    {
+      "type": "official_operator",
+      "name": "BTS Skytrain official English homepage",
+      "url": "https://www.bts.co.th/eng/index.html",
+      "verified_at": "2026-07-16"
+    }
+  ],
+  "field_evidence": {
+    "title": {
+      "field": "title",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_operator_website",
+        "url": "https://www.bts.co.th/eng/index.html"
+      },
+      "verified_at": "2026-07-16",
+      "value": "BTS Skytrain"
+    },
+    "contact_phones": {
+      "field": "contact_phones",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_operator_website",
+        "url": "https://www.bts.co.th/eng/index.html"
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "0 2617 6000",
+        "0 2617 7341"
+      ]
+    },
+    "network_labels": {
+      "field": "network_labels",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_operator_website",
+        "url": "https://www.bts.co.th/eng/index.html",
+        "note": "Line / product labels observed on homepage navigation and route tools."
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "Sukhumvit Line",
+        "Silom Line",
+        "Gold Line",
+        "Yellow Line",
+        "Pink Line",
+        "BRT Sathorn"
+      ]
+    }
+  },
+  "seo": {
+    "title": {
+      "en": "BTS Skytrain Overview | GoThailandHome Knowledge",
+      "zh": "BTS空铁概览 | GoThailandHome 知识",
+      "th": "ภาพรวมรถไฟฟ้าบีทีเอส | ความรู้ GoThailandHome"
+    },
+    "description": {
+      "en": "Official-source notes on Bangkok’s BTS Skytrain homepage: contact numbers and network labels.",
+      "zh": "基于 BTS 官方首页的曼谷空铁说明：联系电话与线路标签。",
+      "th": "บันทึกจากหน้าแรกทางการของบีทีเอส: เบอร์ติดต่อและป้ายเครือข่าย"
+    }
+  },
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "knowledge_factory": {
+    "phase": "12-daily",
+    "verified_at": "2026-07-16",
+    "daily": "2026-07-16"
+  }
+}

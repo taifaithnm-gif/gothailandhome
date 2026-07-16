@@ -1,0 +1,54 @@
+{
+  "phase": "12-daily",
+  "day": "2026-07-16",
+  "verified_at": "2026-07-16",
+  "policy": "official_sources_only",
+  "quota": {
+    "developer": "frasers-property-thailand",
+    "projects": [
+      "samyan-mitrtown",
+      "one-bangkok"
+    ],
+    "district": "dusit",
+    "knowledge_article": "bts-skytrain-overview"
+  },
+  "scores": {
+    "developer_field_evidence_official": {
+      "before": 8,
+      "after": 10
+    },
+    "samyan_mitrtown_pct": {
+      "before": 0,
+      "after": 40
+    },
+    "one_bangkok_pct": {
+      "before": 40,
+      "after": 50
+    }
+  },
+  "sources_used": [
+    "https://www.frasersproperty.co.th/en/contact-us",
+    "https://www.frasersproperty.co.th/en",
+    "https://www.set.or.th/en/market/product/stock/quote/FPT/factsheet",
+    "https://www.samyan-mitrtown.com/en/",
+    "https://www.onebangkok.com/en/",
+    "https://district.bangkok.go.th/",
+    "https://ssru.ac.th/",
+    "https://www.vajira.ac.th/",
+    "https://www.bts.co.th/eng/index.html"
+  ],
+  "skips": [
+    {
+      "item": "capitaland-thailand / ascott-embassy-sathorn",
+      "reason": "capitaland.com/th/* soft-lands to 404; Ascott brand URLs 403/404 — deferred."
+    },
+    {
+      "item": "land-and-houses THE ROOM project detail metrics",
+      "reason": "lh.co.th project URLs return thin SPA shells (title/OG = LH generic; localhost OG image) without publishable unit/floor facts."
+    },
+    {
+      "item": "dusit transit stations / parks",
+      "reason": "No official station or park-authority list captured this day; emptied wiki-only POIs rather than fabricate."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "frasers_home": {
+    "url": "https://www.frasersproperty.co.th/en",
+    "final": "https://www.frasersproperty.co.th/en",
+    "status": 200,
+    "bytes": 113446
+  },
+  "frasers_about": {
+    "url": "https://www.frasersproperty.co.th/en/about-us",
+    "final": "https://www.frasersproperty.co.th/en/error-pages/404",
+    "status": 200,
+    "bytes": 76413
+  },
+  "frasers_contact": {
+    "url": "https://www.frasersproperty.co.th/en/contact-us",
+    "final": "https://www.frasersproperty.co.th/en/contact-us",
+    "status": 200,
+    "bytes": 88735
+  },
+  "onebkk": {
+    "url": "https://www.onebangkok.com/en/",
+    "final": "https://www.onebangkok.com/en/",
+    "status": 200,
+    "bytes": 124288
+  },
+  "onebkk_about": {
+    "url": "https://www.onebangkok.com/en/about",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "samyan": {
+    "url": "https://www.samyan-mitrtown.com/",
+    "final": "https://www.samyan-mitrtown.com/",
+    "status": 200,
+    "bytes": 115843
+  },
+  "samyan_en": {
+    "url": "https://www.samyan-mitrtown.com/en",
+    "final": "https://www.samyan-mitrtown.com/en/",
+    "status": 200,
+    "bytes": 113450
+  },
+  "bts_about": {
+    "url": "https://www.bts.co.th/eng/company/about.html",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "bts_corp": {
+    "url": "https://www.bts.co.th/eng/company/company-info.html",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "ssru": {
+    "url": "https://ssru.ac.th/",
+    "final": "https://ssru.ac.th/",
+    "status": 200,
+    "bytes": 78451
+  },
+  "vajira": {
+    "url": "https://www.vajira.ac.th/",
+    "final": "https://www.vajira.ac.th/home",
+    "status": 200,
+    "bytes": 318228
+  },
+  "bma_dusit": {
+    "url": "https://district.bangkok.go.th/",
+    "final": "https://district.bangkok.go.th/",
+    "status": 200,
+    "bytes": 664
+  }
+}
