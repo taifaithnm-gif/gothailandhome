@@ -63,7 +63,10 @@
     "listProperty": "ลงประกาศ",
     "partners": "พาร์ทเนอร์",
     "marketplace": "ตลาดกลาง",
-    "knowledge": "ความรู้"
+    "knowledge": "ความรู้",
+    "sectionBrowse": "เรียกดู",
+    "sectionMarketplace": "ตลาดกลาง",
+    "sectionCompany": "บริษัท"
   },
   "projectLanding": {
     "centerEyebrow": "ศูนย์โครงการ",
@@ -147,7 +150,7 @@
   "common": {
     "brand": "GoThailandHome",
     "viewProperty": "ดูรายละเอียด",
-    "viewAll": "ดูประกาศทั้งหมด",
+    "viewAll": "ดูทั้งหมด",
     "searchCta": "ค้นหาบ้าน",
     "contactCta": "ติดต่อเรา",
     "backHome": "กลับหน้าแรก",

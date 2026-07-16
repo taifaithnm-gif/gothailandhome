@@ -63,7 +63,10 @@
     "listProperty": "发布房源",
     "partners": "合作",
     "marketplace": "市场入口",
-    "knowledge": "知识"
+    "knowledge": "知识",
+    "sectionBrowse": "浏览",
+    "sectionMarketplace": "市场入口",
+    "sectionCompany": "公司"
   },
   "projectLanding": {
     "centerEyebrow": "项目中心",
@@ -147,7 +150,7 @@
   "common": {
     "brand": "GoThailandHome",
     "viewProperty": "查看详情",
-    "viewAll": "查看全部房源",
+    "viewAll": "查看全部",
     "searchCta": "搜索房产",
     "contactCta": "联系我们",
     "backHome": "返回首页",

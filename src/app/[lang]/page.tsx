@@ -115,7 +115,7 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
           className="absolute inset-0 [background-image:radial-gradient(circle_at_15%_20%,white_0,transparent_28%),radial-gradient(circle_at_85%_15%,#e0b34d_0,transparent_22%)] opacity-35"
           aria-hidden
         />
-        <div className="ds-container relative flex min-h-[78vh] flex-col justify-end gap-8 py-14 sm:py-16">
+        <div className="ds-container relative flex flex-col justify-start gap-8 py-10 sm:py-12 md:min-h-[72vh] md:justify-end md:py-16">
           <div className="max-w-2xl space-y-4 text-white">
             <p className="font-heading text-4xl tracking-tight sm:text-5xl md:text-6xl">
               {dict.common.brand}

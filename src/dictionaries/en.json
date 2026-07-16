@@ -63,7 +63,10 @@
     "listProperty": "List Property",
     "partners": "Partners",
     "marketplace": "Marketplace",
-    "knowledge": "Knowledge"
+    "knowledge": "Knowledge",
+    "sectionBrowse": "Browse",
+    "sectionMarketplace": "Marketplace",
+    "sectionCompany": "Company"
   },
   "projectLanding": {
     "centerEyebrow": "Project center",
@@ -147,7 +150,7 @@
   "common": {
     "brand": "GoThailandHome",
     "viewProperty": "View details",
-    "viewAll": "View all listings",
+    "viewAll": "View all",
     "searchCta": "Search homes",
     "contactCta": "Contact us",
     "backHome": "Back to home",

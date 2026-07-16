@@ -107,7 +107,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
                   ? "bg-white/15 text-white"
                   : "text-white/70 hover:bg-white/10 hover:text-white",
               )}
-              hrefLang={item}
+              hrefLang={item === "zh" ? "zh-CN" : item}
             >
               {localeLabels[item]}
             </Link>
@@ -134,8 +134,13 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
           className="border-t border-white/10 bg-[var(--brand-deep)] lg:hidden"
         >
           <div className="ds-container flex flex-col gap-4 py-4">
-            <nav aria-label="Browse" className="flex flex-col gap-1">
-              <p className="ds-caption px-3 text-white/50">Browse</p>
+            <nav
+              aria-label={dict.nav.sectionBrowse}
+              className="flex flex-col gap-1"
+            >
+              <p className="ds-caption px-3 text-white/50">
+                {dict.nav.sectionBrowse}
+              </p>
               {browse.map((link) => (
                 <Link
                   key={link.href}
@@ -147,8 +152,13 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
                 </Link>
               ))}
             </nav>
-            <nav aria-label="Marketplace" className="flex flex-col gap-1">
-              <p className="ds-caption px-3 text-white/50">Marketplace</p>
+            <nav
+              aria-label={dict.nav.sectionMarketplace}
+              className="flex flex-col gap-1"
+            >
+              <p className="ds-caption px-3 text-white/50">
+                {dict.nav.sectionMarketplace}
+              </p>
               {marketplace.map((link) => (
                 <Link
                   key={link.href}
@@ -160,8 +170,13 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
                 </Link>
               ))}
             </nav>
-            <nav aria-label="Company" className="flex flex-col gap-1">
-              <p className="ds-caption px-3 text-white/50">Company</p>
+            <nav
+              aria-label={dict.nav.sectionCompany}
+              className="flex flex-col gap-1"
+            >
+              <p className="ds-caption px-3 text-white/50">
+                {dict.nav.sectionCompany}
+              </p>
               {company.map((link) => (
                 <Link
                   key={link.href}
@@ -184,6 +199,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
                       ? "bg-white/15 text-white"
                       : "text-white/70 hover:bg-white/10",
                   )}
+                  hrefLang={item === "zh" ? "zh-CN" : item}
                   onClick={() => setOpen(false)}
                 >
                   {localeLabels[item]}

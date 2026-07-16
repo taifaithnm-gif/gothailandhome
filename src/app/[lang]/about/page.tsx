@@ -27,11 +27,7 @@ export default async function AboutPage({
   const dict = await getDictionary(lang);
 
   return (
-    <PageShell
-      title={dict.about.title}
-      subtitle={dict.about.subtitle}
-      notice={dict.common.placeholderNotice}
-    >
+    <PageShell title={dict.about.title} subtitle={dict.about.subtitle}>
       <div className="grid gap-6 lg:grid-cols-[1.4fr_0.8fr]">
         <div className="space-y-4 rounded-2xl border border-[var(--brand-line)] bg-white p-6 leading-relaxed text-stone-600 sm:p-8">
           <p>{dict.about.body1}</p>
