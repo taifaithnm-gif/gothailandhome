@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+
+Host: www.gothailandhome.com
+Sitemap: https://www.gothailandhome.com/sitemap.xml
