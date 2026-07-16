@@ -1,0 +1,148 @@
+{
+  "verified_at": "2026-07-16",
+  "mean_combined_pct": 76.1,
+  "batches": [
+    {
+      "batch": "11-batch-1",
+      "developer": "ap-thailand",
+      "developer_pct": 100,
+      "project_avg_pct": 72,
+      "combined_pct": 86,
+      "projects": [
+        {
+          "slug": "rhythm-ekkamai",
+          "pct": 90
+        },
+        {
+          "slug": "life-asoke-rama-9",
+          "pct": 90
+        },
+        {
+          "slug": "life-ladprao",
+          "pct": 90
+        },
+        {
+          "slug": "life-one-wireless",
+          "pct": 60
+        },
+        {
+          "slug": "aspire-sathorn-taksin",
+          "pct": 30
+        }
+      ]
+    },
+    {
+      "batch": "11-batch-2",
+      "developer": "sansiri",
+      "developer_pct": 100,
+      "project_avg_pct": 64,
+      "combined_pct": 82,
+      "projects": [
+        {
+          "slug": "xt-phayathai",
+          "pct": 100
+        },
+        {
+          "slug": "xt-huai-khwang",
+          "pct": 100
+        },
+        {
+          "slug": "the-line-sukhumvit-101",
+          "pct": 100
+        },
+        {
+          "slug": "the-base-sukhumvit-77",
+          "pct": 20
+        },
+        {
+          "slug": "condo-u-sukhumvit-62-1",
+          "pct": 0
+        }
+      ]
+    },
+    {
+      "batch": "11-batch-3",
+      "developer": "mqdc",
+      "developer_pct": 100,
+      "project_avg_pct": 50,
+      "combined_pct": 75,
+      "projects": [
+        {
+          "slug": "the-forestias",
+          "pct": 40
+        },
+        {
+          "slug": "whizdom-essence",
+          "pct": 60
+        }
+      ]
+    },
+    {
+      "batch": "11-batch-4",
+      "developer": "supalai",
+      "developer_pct": 100,
+      "project_avg_pct": 22.5,
+      "combined_pct": 61.3,
+      "projects": [
+        {
+          "slug": "supalai-oriental-sukhumvit-39",
+          "pct": 90
+        },
+        {
+          "slug": "supalai-elite-phayathai",
+          "pct": 0
+        },
+        {
+          "slug": "supalai-lite-sathorn-charoenrat",
+          "pct": 0
+        },
+        {
+          "slug": "supalai-veranda-rama-9",
+          "pct": 0
+        }
+      ]
+    },
+    {
+      "batch": "11-batch-5",
+      "developer": "ananda-development",
+      "developer_pct": 100,
+      "project_avg_pct": 60,
+      "combined_pct": 80,
+      "projects": [
+        {
+          "slug": "ashton-asoke",
+          "pct": 80
+        },
+        {
+          "slug": "ideo-q-sukhumvit-36",
+          "pct": 80
+        },
+        {
+          "slug": "ideo-rama-9",
+          "pct": 80
+        },
+        {
+          "slug": "ideo-mobi-sukhumvit-66",
+          "pct": 0
+        }
+      ]
+    },
+    {
+      "batch": "11-batch-6",
+      "developer": "assetwise",
+      "developer_pct": 100,
+      "project_avg_pct": 45,
+      "combined_pct": 72.5,
+      "projects": [
+        {
+          "slug": "modiz-rhyme-ramkhamhaeng",
+          "pct": 90
+        },
+        {
+          "slug": "kave-town-space",
+          "pct": 0
+        }
+      ]
+    }
+  ]
+}
