@@ -15,7 +15,9 @@ import { ProjectLeadForm } from "@/components/projects/project-lead-form";
 import { ListingMediaFrame } from "@/components/property/listing-media-frame";
 import { PropertyGrid } from "@/components/property/property-grid";
 import { Badge, VerificationBadge } from "@/components/ui/badge";
+import { Breadcrumb } from "@/components/ui/breadcrumb";
 import { ProjectCardShell, SurfaceCard } from "@/components/ui/card";
+import { EmptyState } from "@/components/ui/states";
 import { isLocale, type Locale } from "@/config/locales";
 import {
   formatPrice,
@@ -574,11 +576,24 @@ export default async function ProjectLandingPage({
   }
 
   return (
-    <div className="bg-[var(--brand-canvas)]">
+    <div className="bg-[var(--brand-canvas)]" data-slot="project-center">
       <AdsTrackingPlaceholders
         pagePath={`/projects/${slug}`}
         projectSlug={slug}
       />
+
+      <div className="ds-container pt-6">
+        <Breadcrumb
+          items={[
+            { label: dict.nav.home, href: localePath(locale) },
+            {
+              label: dict.nav.projects,
+              href: localePath(locale, "/projects"),
+            },
+            { label: project.name[locale] || project.name.en },
+          ]}
+        />
+      </div>
 
       {/* 1. Project hero */}
       <section
@@ -588,6 +603,7 @@ export default async function ProjectLandingPage({
         <div className="mx-auto grid max-w-6xl gap-8 px-4 py-10 sm:px-6 lg:grid-cols-[1.15fr_0.85fr] lg:items-center lg:py-14">
           <div>
             <div className="flex flex-wrap items-center gap-2">
+              <Badge tone="brand">{pl.centerEyebrow}</Badge>
               <VerificationBadge
                 level={toVerificationLevel(heroEvidenceLevel(evidence))}
                 label={evidenceLabel(dict, heroEvidenceLevel(evidence))}
@@ -694,7 +710,7 @@ export default async function ProjectLandingPage({
       <div className="mx-auto grid max-w-6xl gap-12 px-4 py-12 sm:px-6 lg:grid-cols-[1.4fr_0.8fr]">
         <div className="space-y-12">
           {/* 2. Key project facts */}
-          <section aria-labelledby="project-facts-heading">
+          <section id="overview" aria-labelledby="project-facts-heading">
             <h2 id="project-facts-heading" className="ds-h2 text-2xl">
               {pl.specs}
             </h2>
@@ -749,7 +765,7 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 3. Available listings */}
-          <section aria-labelledby="project-listings-heading">
+          <section id="listings" aria-labelledby="project-listings-heading">
             <h2 id="project-listings-heading" className="ds-h2 text-2xl">
               {pl.listings}
             </h2>
@@ -788,7 +804,7 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 5. Location */}
-          <section aria-labelledby="project-map-heading">
+          <section id="map" aria-labelledby="project-map-heading">
             <h2 id="project-map-heading" className="ds-h2 text-2xl">
               {pl.map}
             </h2>
@@ -902,7 +918,7 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 6. Facilities */}
-          <section aria-labelledby="project-facilities-heading">
+          <section id="facilities" aria-labelledby="project-facilities-heading">
             <h2 id="project-facilities-heading" className="ds-h2 text-2xl">
               {pl.facilities}
             </h2>
@@ -937,7 +953,7 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 7. Nearby places */}
-          <section aria-labelledby="project-nearby-heading">
+          <section id="nearby" aria-labelledby="project-nearby-heading">
             <h2 id="project-nearby-heading" className="ds-h2 text-2xl">
               {pl.nearby}
             </h2>
@@ -982,7 +998,7 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 8. Developer */}
-          <section aria-labelledby="project-developer-heading">
+          <section id="developer" aria-labelledby="project-developer-heading">
             <h2 id="project-developer-heading" className="ds-h2 text-2xl">
               {pl.developer}
             </h2>
@@ -1057,7 +1073,7 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 9. Evidence disclosure */}
-          <section aria-labelledby="project-evidence-heading">
+          <section id="verification" aria-labelledby="project-evidence-heading">
             <h2 id="project-evidence-heading" className="ds-h2 text-2xl">
               {pl.evidenceTitle}
             </h2>
@@ -1093,13 +1109,13 @@ export default async function ProjectLandingPage({
             </ul>
           </section>
 
-          {/* 10. Similar projects */}
-          {similar.length ? (
-            <section aria-labelledby="project-similar-heading">
-              <h2 id="project-similar-heading" className="ds-h2 text-2xl">
-                {pl.similar}
-              </h2>
-              <p className="mt-2 text-sm text-stone-600">{pl.similarNote}</p>
+          {/* 10. Related projects */}
+          <section id="related-projects" aria-labelledby="project-similar-heading">
+            <h2 id="project-similar-heading" className="ds-h2 text-2xl">
+              {pl.similar}
+            </h2>
+            <p className="mt-2 text-sm text-stone-600">{pl.similarNote}</p>
+            {similar.length ? (
               <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                 {similar.map((item) => (
                   <ProjectCardShell key={item.slug}>
@@ -1118,12 +1134,19 @@ export default async function ProjectLandingPage({
                   </ProjectCardShell>
                 ))}
               </div>
-            </section>
-          ) : null}
+            ) : (
+              <div className="mt-5">
+                <EmptyState
+                  title={unknown}
+                  description={pl.relatedEmpty}
+                />
+              </div>
+            )}
+          </section>
 
           {/* FAQ when present */}
           {project.faq.length ? (
-            <section aria-labelledby="project-faq-heading">
+            <section id="faq" aria-labelledby="project-faq-heading">
               <h2 id="project-faq-heading" className="ds-h2 text-2xl">
                 {pl.faq}
               </h2>
@@ -1159,7 +1182,7 @@ export default async function ProjectLandingPage({
 
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
           {/* 11. Find My Home CTA */}
-          <SurfaceCard className="p-5!" data-slot="find-my-home">
+          <SurfaceCard className="p-5!" data-slot="find-my-home" id="find-my-home">
             <h2 className="ds-h3 text-xl">{pl.findMyHome}</h2>
             <p className="mt-2 text-sm text-stone-600">{pl.findMyHomeBody}</p>
             <Link
@@ -1199,7 +1222,7 @@ export default async function ProjectLandingPage({
             )}
           </SurfaceCard>
 
-          <div data-slot="contact-platform">
+          <div data-slot="contact-platform" id="platform-support">
             <h2 className="ds-h3 mb-3 text-xl">{pl.contactPlatform}</h2>
             <p className="mb-3 text-sm text-stone-600">{pl.contactPlatformNote}</p>
             <PlatformCustomerSuccess locale={locale} dict={dict} />

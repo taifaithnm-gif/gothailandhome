@@ -56,6 +56,7 @@
     "knowledge": "知识"
   },
   "projectLanding": {
+    "centerEyebrow": "项目中心",
     "developer": "开发商",
     "specs": "项目关键事实",
     "unitTypes": "户型",
@@ -121,6 +122,7 @@
     "transit": "BTS / MRT",
     "similar": "相似项目",
     "similarNote": "按区域或开发商匹配已发布项目——不作投资对比。",
+    "relatedEmpty": "本站暂无按重叠区域或开发商匹配到相关项目。",
     "developerOther": "其他已核实项目",
     "developerPartner": "开发商合作",
     "developerDisclaimer": "GoThailandHome 不代表该开发商。简介基于已发布项目数据。",
