@@ -6,6 +6,7 @@ import {
   AiConcierge,
   PlatformCustomerSuccess,
 } from "@/components/marketplace/contact-blocks";
+import { MarketplaceEntryGrid } from "@/components/marketplace/marketplace-entry-grid";
 import { PropertyGrid } from "@/components/property/property-grid";
 import { buttonVariants } from "@/components/ui/button";
 import {
@@ -98,7 +99,6 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
 
   const districtCards = districts.slice(0, 12);
   const h = dict.home;
-  const m = dict.marketplace;
 
   return (
     <>
@@ -330,50 +330,19 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
       {/* 8. Marketplace */}
       <section className="border-y border-[var(--brand-line)] bg-[var(--brand-soft)]">
         <div className="ds-container ds-section">
-          <div className="mb-8 max-w-2xl">
-            <h2 className="ds-h2">{h.marketplaceTitle}</h2>
-            <p className="mt-2 text-stone-600">{h.marketplaceSubtitle}</p>
+          <div className="mb-8 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+            <div className="max-w-2xl">
+              <h2 className="ds-h2">{h.marketplaceTitle}</h2>
+              <p className="mt-2 text-stone-600">{h.marketplaceSubtitle}</p>
+            </div>
+            <Link
+              href={localePath(lang, "/marketplace")}
+              className={cn(buttonVariants({ variant: "secondary" }), "shrink-0")}
+            >
+              {dict.nav.marketplace}
+            </Link>
           </div>
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-            {(
-              [
-                {
-                  href: "/find-my-home",
-                  title: m.findTitle,
-                  body: m.findSubtitle,
-                },
-                {
-                  href: "/list-your-property",
-                  title: m.listTitle,
-                  body: m.listSubtitle,
-                },
-                {
-                  href: "/partners/developers",
-                  title: m.developerPartnerTitle,
-                  body: m.developerPartnerSubtitle,
-                },
-                {
-                  href: "/partners/agencies",
-                  title: m.agencyPartnerTitle,
-                  body: m.agencyPartnerSubtitle,
-                },
-              ] as const
-            ).map((item) => (
-              <Link
-                key={item.href}
-                href={localePath(lang, item.href)}
-                className="flex h-full flex-col rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white p-5 transition hover:border-[var(--brand)]"
-              >
-                <h3 className="font-heading text-lg text-[var(--brand-deep)]">
-                  {item.title}
-                </h3>
-                <p className="mt-2 flex-1 text-sm text-stone-600">{item.body}</p>
-                <span className="mt-4 text-sm font-medium text-[var(--brand)]">
-                  →
-                </span>
-              </Link>
-            ))}
-          </div>
+          <MarketplaceEntryGrid locale={lang} dict={dict} />
         </div>
       </section>
 

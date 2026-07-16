@@ -17,24 +17,13 @@ export function SiteFooter({ locale, dict }: SiteFooterProps) {
     { href: localePath(locale, "/projects"), label: dict.nav.projects },
     { href: localePath(locale, "/cities"), label: dict.nav.cities },
     { href: localePath(locale, "/developers"), label: dict.nav.developers },
-    { href: localePath(locale, "/find-my-home"), label: dict.nav.findMyHome },
-    {
-      href: localePath(locale, "/list-your-property"),
-      label: dict.nav.listProperty,
-    },
+    { href: localePath(locale, "/marketplace"), label: dict.nav.marketplace },
     { href: localePath(locale, "/search"), label: dict.nav.search },
   ];
 
   const company = [
     { href: localePath(locale, "/about"), label: dict.nav.about },
-    {
-      href: localePath(locale, "/partners/developers"),
-      label: dict.nav.partners,
-    },
-    {
-      href: localePath(locale, "/partners/agencies"),
-      label: dict.marketplace.agencyPartnerTitle,
-    },
+    { href: localePath(locale, "/marketplace"), label: dict.nav.partners },
     { href: localePath(locale, "/contact"), label: dict.nav.contact },
   ];
 

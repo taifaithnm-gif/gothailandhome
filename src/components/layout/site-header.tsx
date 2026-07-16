@@ -38,11 +38,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
   ];
 
   const marketplace = [
-    { href: localePath(locale, "/find-my-home"), label: dict.nav.findMyHome },
-    {
-      href: localePath(locale, "/list-your-property"),
-      label: dict.nav.listProperty,
-    },
+    { href: localePath(locale, "/marketplace"), label: dict.nav.marketplace },
   ];
 
   const company = [
