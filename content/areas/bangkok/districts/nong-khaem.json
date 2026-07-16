@@ -54,8 +54,34 @@
     "khwaeng_count": 2
   },
   "transportation": [],
-  "schools": [],
-  "hospitals": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Southeast Asia University",
+        "zh": "Southeast Asia University",
+        "th": "Southeast Asia University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Southeast_Asia_University"
+    },
+    {
+      "name": {
+        "en": "Thonburi University",
+        "zh": "Thonburi University",
+        "th": "Thonburi University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Thonburi_University"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Vichaivej International Nongkhaem Hospital",
+        "zh": "Vichaivej International Nongkhaem Hospital",
+        "th": "Vichaivej International Nongkhaem Hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Vichaivej_International_Nongkhaem_Hospital"
+    }
+  ],
   "shopping": [],
   "investment_summary": {
     "en": "Nong Khaem is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
@@ -89,31 +115,31 @@
     },
     "schools": {
       "field": "schools",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "hospitals": {
       "field": "hospitals",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "shopping": {
       "field": "shopping",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
       },
       "verified_at": "2026-07-16",
@@ -124,7 +150,7 @@
       "field": "parks",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
       },
       "verified_at": "2026-07-16",
@@ -155,13 +181,13 @@
     },
     "lifestyle": {
       "field": "lifestyle",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "wikipedia_district_page",
         "url": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "office_areas": {
@@ -177,9 +203,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",
@@ -193,5 +219,13 @@
     "google_maps_url": "https://www.google.com/maps?q=13.705,100.348",
     "source": "district_package_centroid",
     "verified_at": "2026-07-16"
+  },
+  "lifestyle": {
+    "en": "Nong Khaem is one of the 50 districts (khet) of Bangkok, Thailand.",
+    "zh": "农坎（Nong Khaem）概述依据英文维基百科该区条目公开摘要首句。",
+    "th": "หนองแขม สรุปไลฟ์สไตล์/บริบทจากประโยคแรกของบทคัดย่อวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้",
+    "source_url": "https://en.wikipedia.org/wiki/Nong_Khaem_district",
+    "verified_at": "2026-07-16",
+    "evidence_note": "wikipedia_extract_first_sentence"
   }
 }

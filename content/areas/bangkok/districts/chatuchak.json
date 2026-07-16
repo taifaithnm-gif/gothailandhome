@@ -117,6 +117,54 @@
         "th": "มหาวิทยาลัยเกษตรศาสตร์"
       },
       "source_url": "https://www.ku.ac.th/"
+    },
+    {
+      "name": {
+        "en": "Kasetsart University",
+        "zh": "Kasetsart University",
+        "th": "Kasetsart University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Kasetsart_University"
+    },
+    {
+      "name": {
+        "en": "Sripatum University",
+        "zh": "Sripatum University",
+        "th": "Sripatum University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Sripatum_University"
+    },
+    {
+      "name": {
+        "en": "Saint John's University",
+        "zh": "Saint John's University",
+        "th": "Saint John's University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Saint_John's_Group_of_Schools_and_University"
+    },
+    {
+      "name": {
+        "en": "Saint John's International School",
+        "zh": "Saint John's International School",
+        "th": "Saint John's International School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Saint_John's_International_School_(Thailand)"
+    },
+    {
+      "name": {
+        "en": "Chandrakasem Rajabhat University",
+        "zh": "Chandrakasem Rajabhat University",
+        "th": "Chandrakasem Rajabhat University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Chandrakasem_Rajabhat_University"
+    },
+    {
+      "name": {
+        "en": "Rajabhat Universitie",
+        "zh": "Rajabhat Universitie",
+        "th": "Rajabhat Universitie"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Rajabhat_University"
     }
   ],
   "hospitals": [
@@ -137,6 +185,70 @@
         "th": "ตลาดนัดจตุจักร"
       },
       "source_url": "https://en.wikipedia.org/wiki/Chatuchak_Weekend_Market"
+    },
+    {
+      "name": {
+        "en": "Klong Prem Central Prison",
+        "zh": "Klong Prem Central Prison",
+        "th": "Klong Prem Central Prison"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Klong_Prem_Central_Prison"
+    },
+    {
+      "name": {
+        "en": "Or Tor Kor Market",
+        "zh": "Or Tor Kor Market",
+        "th": "Or Tor Kor Market"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Or_Tor_Kor_Market"
+    },
+    {
+      "name": {
+        "en": "Central Ladprao",
+        "zh": "Central Ladprao",
+        "th": "Central Ladprao"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Central_Ladprao"
+    },
+    {
+      "name": {
+        "en": "Union Mall",
+        "zh": "Union Mall",
+        "th": "Union Mall"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Union_Mall"
+    },
+    {
+      "name": {
+        "en": "JJ Mall",
+        "zh": "JJ Mall",
+        "th": "JJ Mall"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/JJ_Mall"
+    },
+    {
+      "name": {
+        "en": "Bang Sue (Krung Thep Aphiwat)",
+        "zh": "Bang Sue (Krung Thep Aphiwat)",
+        "th": "Bang Sue (Krung Thep Aphiwat)"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Krung_Thep_Aphiwat_Central_Terminal"
+    },
+    {
+      "name": {
+        "en": "Krung Thep Aphiwat Central Terminal",
+        "zh": "Krung Thep Aphiwat Central Terminal",
+        "th": "Krung Thep Aphiwat Central Terminal"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Krung_Thep_Aphiwat_Central_Terminal"
+    },
+    {
+      "name": {
+        "en": "Siam Commercial Bank",
+        "zh": "Siam Commercial Bank",
+        "th": "Siam Commercial Bank"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_Commercial_Bank"
     }
   ],
   "investment_summary": {
@@ -163,6 +275,46 @@
         "th": "สวนสมเด็จพระนางเจ้าสิริกิติ์"
       },
       "source_url": "https://en.wikipedia.org/wiki/Queen_Sirikit_Park"
+    },
+    {
+      "name": {
+        "en": "Department of National Parks, Wildlife and Plant Conservation",
+        "zh": "Department of National Parks, Wildlife and Plant Conservation",
+        "th": "Department of National Parks, Wildlife and Plant Conservation"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Department_of_National_Parks%2C_Wildlife_and_Plant_Conservation"
+    },
+    {
+      "name": {
+        "en": "Royal Forest Department",
+        "zh": "Royal Forest Department",
+        "th": "Royal Forest Department"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Royal_Forest_Department"
+    },
+    {
+      "name": {
+        "en": "Wachirabenchathat Park",
+        "zh": "Wachirabenchathat Park",
+        "th": "Wachirabenchathat Park"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Wachirabenchathat_Park"
+    },
+    {
+      "name": {
+        "en": "Chak Phupha Su Maha Nathee Park",
+        "zh": "Chak Phupha Su Maha Nathee Park",
+        "th": "Chak Phupha Su Maha Nathee Park"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Chak_Phupha_Su_Maha_Nathee_Park"
+    },
+    {
+      "name": {
+        "en": "SCB Park Plaza",
+        "zh": "SCB Park Plaza",
+        "th": "SCB Park Plaza"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/SCB_Park_Plaza"
     }
   ],
   "field_evidence": {
@@ -192,7 +344,7 @@
       "field": "schools",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
       },
       "verified_at": "2026-07-16",
@@ -203,7 +355,7 @@
       "field": "hospitals",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
       },
       "verified_at": "2026-07-16",
@@ -214,7 +366,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
       },
       "verified_at": "2026-07-16",
@@ -225,7 +377,7 @@
       "field": "parks",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Chatuchak_district"
       },
       "verified_at": "2026-07-16",
@@ -278,9 +430,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

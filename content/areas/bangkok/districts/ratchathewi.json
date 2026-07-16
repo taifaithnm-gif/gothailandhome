@@ -99,6 +99,102 @@
         "th": "มหิดล (ราชเทวี)"
       },
       "source_url": "https://mahidol.ac.th/"
+    },
+    {
+      "name": {
+        "en": "Queen Sirikit National Institute of Child Health",
+        "zh": "Queen Sirikit National Institute of Child Health",
+        "th": "Queen Sirikit National Institute of Child Health"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Queen_Sirikit_National_Institute_of_Child_Health"
+    },
+    {
+      "name": {
+        "en": "Mahidol University",
+        "zh": "Mahidol University",
+        "th": "Mahidol University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Mahidol_University"
+    },
+    {
+      "name": {
+        "en": "Faculty of Dentistry",
+        "zh": "Faculty of Dentistry",
+        "th": "Faculty of Dentistry"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Faculty_of_Dentistry%2C_Mahidol_University"
+    },
+    {
+      "name": {
+        "en": "Faculty of Science",
+        "zh": "Faculty of Science",
+        "th": "Faculty of Science"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Faculty_of_Science%2C_Mahidol_University"
+    },
+    {
+      "name": {
+        "en": "Faculty of Tropical Medicine",
+        "zh": "Faculty of Tropical Medicine",
+        "th": "Faculty of Tropical Medicine"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Faculty_of_Tropical_Medicine%2C_Mahidol_University"
+    },
+    {
+      "name": {
+        "en": "College of Medicine, Rangsit University",
+        "zh": "College of Medicine, Rangsit University",
+        "th": "College of Medicine, Rangsit University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/College_of_Medicine%2C_Rangsit_University"
+    },
+    {
+      "name": {
+        "en": "Phramongkutklao College of Medicine",
+        "zh": "Phramongkutklao College of Medicine",
+        "th": "Phramongkutklao College of Medicine"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Phramongkutklao_College_of_Medicine"
+    },
+    {
+      "name": {
+        "en": "Royal Thai Army Nursing College",
+        "zh": "Royal Thai Army Nursing College",
+        "th": "Royal Thai Army Nursing College"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Royal_Thai_Army_Nursing_College"
+    },
+    {
+      "name": {
+        "en": "Rajabhat University",
+        "zh": "Rajabhat University",
+        "th": "Rajabhat University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Rajabhat_University"
+    },
+    {
+      "name": {
+        "en": "Indonesian School of Bangkok",
+        "zh": "Indonesian School of Bangkok",
+        "th": "Indonesian School of Bangkok"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Indonesian_School_of_Bangkok"
+    },
+    {
+      "name": {
+        "en": "Amnuay Silpa School",
+        "zh": "Amnuay Silpa School",
+        "th": "Amnuay Silpa School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Amnuay_Silpa_School"
+    },
+    {
+      "name": {
+        "en": "boys' school",
+        "zh": "boys' school",
+        "th": "boys' school"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/boys'_school"
     }
   ],
   "hospitals": [
@@ -125,6 +221,30 @@
         "th": "โรงพยาบาลราชวิถี"
       },
       "source_url": "https://www.rajavithi.go.th/"
+    },
+    {
+      "name": {
+        "en": "Hospital for Tropical Diseases",
+        "zh": "Hospital for Tropical Diseases",
+        "th": "Hospital for Tropical Diseases"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Hospital_for_Tropical_Diseases_(Thailand)"
+    },
+    {
+      "name": {
+        "en": "Phyathai 1 Hospital",
+        "zh": "Phyathai 1 Hospital",
+        "th": "Phyathai 1 Hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Phyathai_1_Hospital"
+    },
+    {
+      "name": {
+        "en": "Faculty of Medicine Ramathibodi Hospital",
+        "zh": "Faculty of Medicine Ramathibodi Hospital",
+        "th": "Faculty of Medicine Ramathibodi Hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Faculty_of_Medicine_Ramathibodi_Hospital%2C_Mahidol_University"
     }
   ],
   "shopping": [
@@ -135,6 +255,14 @@
         "th": "มาบุญครอง"
       },
       "source_url": "https://www.mbk-center.co.th/"
+    },
+    {
+      "name": {
+        "en": "Siam Commercial Bank",
+        "zh": "Siam Commercial Bank",
+        "th": "Siam Commercial Bank"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_Commercial_Bank"
     }
   ],
   "investment_summary": {
@@ -174,7 +302,7 @@
       "field": "schools",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Ratchathewi_district"
       },
       "verified_at": "2026-07-16",
@@ -185,7 +313,7 @@
       "field": "hospitals",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Ratchathewi_district"
       },
       "verified_at": "2026-07-16",
@@ -196,7 +324,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Ratchathewi_district"
       },
       "verified_at": "2026-07-16",
@@ -207,7 +335,7 @@
       "field": "parks",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Ratchathewi_district"
       },
       "verified_at": "2026-07-16",
@@ -260,9 +388,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

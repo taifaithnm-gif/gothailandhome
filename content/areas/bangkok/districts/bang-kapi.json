@@ -81,6 +81,54 @@
         "th": "มหาวิทยาลัยรามคำแหง"
       },
       "source_url": "https://www.ru.ac.th/"
+    },
+    {
+      "name": {
+        "en": "National Institute of Development Administration",
+        "zh": "National Institute of Development Administration",
+        "th": "National Institute of Development Administration"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/National_Institute_of_Development_Administration"
+    },
+    {
+      "name": {
+        "en": "Niva International School",
+        "zh": "Niva International School",
+        "th": "Niva International School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Niva_International_School"
+    },
+    {
+      "name": {
+        "en": "Assumption University",
+        "zh": "Assumption University",
+        "th": "Assumption University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Assumption_University%2C_Thailand"
+    },
+    {
+      "name": {
+        "en": "Bang Kapi School",
+        "zh": "Bang Kapi School",
+        "th": "Bang Kapi School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Bang_Kapi_School"
+    },
+    {
+      "name": {
+        "en": "Ramkhamhaeng Advent International School",
+        "zh": "Ramkhamhaeng Advent International School",
+        "th": "Ramkhamhaeng Advent International School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Ramkhamhaeng_Advent_International_School"
+    },
+    {
+      "name": {
+        "en": "Traill International School",
+        "zh": "Traill International School",
+        "th": "Traill International School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Traill_International_School"
     }
   ],
   "hospitals": [
@@ -91,6 +139,14 @@
         "th": "โรงพยาบาลรามคำแหง"
       },
       "source_url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+    },
+    {
+      "name": {
+        "en": "Vejthani Hospital",
+        "zh": "Vejthani Hospital",
+        "th": "Vejthani Hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Vejthani_Hospital"
     }
   ],
   "shopping": [
@@ -101,6 +157,70 @@
         "th": "เดอะมอลล์ บางกะปิ"
       },
       "source_url": "https://en.wikipedia.org/wiki/The_Mall_Group"
+    },
+    {
+      "name": {
+        "en": "The Mall",
+        "zh": "The Mall",
+        "th": "The Mall"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/The_Mall_Group"
+    },
+    {
+      "name": {
+        "en": "Big C",
+        "zh": "Big C",
+        "th": "Big C"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Big_C"
+    },
+    {
+      "name": {
+        "en": "Bang Kapi market",
+        "zh": "Bang Kapi market",
+        "th": "Bang Kapi market"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Bang_Kapi_market"
+    },
+    {
+      "name": {
+        "en": "Tesco Lotus",
+        "zh": "Tesco Lotus",
+        "th": "Tesco Lotus"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Tesco_Lotus"
+    },
+    {
+      "name": {
+        "en": "Kwan Riam floating market",
+        "zh": "Kwan Riam floating market",
+        "th": "Kwan Riam floating market"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Kwan_Riam_floating_market"
+    },
+    {
+      "name": {
+        "en": "Ramkhamhaeng night market",
+        "zh": "Ramkhamhaeng night market",
+        "th": "Ramkhamhaeng night market"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Ramkhamhaeng_night_market"
+    },
+    {
+      "name": {
+        "en": "Happy Land Market",
+        "zh": "Happy Land Market",
+        "th": "Happy Land Market"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Happy_Land_Market"
+    },
+    {
+      "name": {
+        "en": "The Mall Bang Kapi bus station",
+        "zh": "The Mall Bang Kapi bus station",
+        "th": "The Mall Bang Kapi bus station"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/The_Mall_Bang_Kapi_bus_station"
     }
   ],
   "investment_summary": {
@@ -121,6 +241,14 @@
         "th": "บางกะปิ"
       },
       "source_url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+    },
+    {
+      "name": {
+        "en": "Tawanna shopping park",
+        "zh": "Tawanna shopping park",
+        "th": "Tawanna shopping park"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Tawanna_shopping_park"
     }
   ],
   "field_evidence": {
@@ -150,7 +278,7 @@
       "field": "schools",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
       },
       "verified_at": "2026-07-16",
@@ -161,7 +289,7 @@
       "field": "hospitals",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
       },
       "verified_at": "2026-07-16",
@@ -172,7 +300,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
       },
       "verified_at": "2026-07-16",
@@ -183,7 +311,7 @@
       "field": "parks",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
       },
       "verified_at": "2026-07-16",
@@ -236,9 +364,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

@@ -54,7 +54,40 @@
     "khwaeng_count": 3
   },
   "transportation": [],
-  "schools": [],
+  "schools": [
+    {
+      "name": {
+        "en": "St. Mark's International School Bangkok",
+        "zh": "St. Mark's International School Bangkok",
+        "th": "St. Mark's International School Bangkok"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/St._Mark's_International_School_Bangkok"
+    },
+    {
+      "name": {
+        "en": "Thai-Nichi Institute of Technology",
+        "zh": "Thai-Nichi Institute of Technology",
+        "th": "Thai-Nichi Institute of Technology"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Thai-Nichi_Institute_of_Technology"
+    },
+    {
+      "name": {
+        "en": "Triam Udom Suksa Pattanakarn School",
+        "zh": "Triam Udom Suksa Pattanakarn School",
+        "th": "Triam Udom Suksa Pattanakarn School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Triam_Udom_Suksa_Pattanakarn_School"
+    },
+    {
+      "name": {
+        "en": "Asokwit Onnut School",
+        "zh": "Asokwit Onnut School",
+        "th": "Asokwit Onnut School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Asokwit_Onnut_School"
+    }
+  ],
   "hospitals": [],
   "shopping": [
     {
@@ -118,20 +151,20 @@
     },
     "schools": {
       "field": "schools",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Suan_Luang_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "hospitals": {
       "field": "hospitals",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Suan_Luang_district"
       },
       "verified_at": "2026-07-16",
@@ -142,7 +175,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Suan_Luang_district"
       },
       "verified_at": "2026-07-16",
@@ -153,7 +186,7 @@
       "field": "parks",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Suan_Luang_district"
       },
       "verified_at": "2026-07-16",
@@ -206,9 +239,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

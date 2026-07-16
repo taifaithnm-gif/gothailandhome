@@ -71,6 +71,22 @@
         "th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
       },
       "source_url": "https://www.kmitl.ac.th/"
+    },
+    {
+      "name": {
+        "en": "King Mongkut's Institute of Technology Lat Krabang",
+        "zh": "King Mongkut's Institute of Technology Lat Krabang",
+        "th": "King Mongkut's Institute of Technology Lat Krabang"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/King_Mongkut's_Institute_of_Technology_Ladkrabang"
+    },
+    {
+      "name": {
+        "en": "Protpittayapayat School",
+        "zh": "Protpittayapayat School",
+        "th": "Protpittayapayat School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Protpittayapayat_School"
     }
   ],
   "hospitals": [],
@@ -90,7 +106,24 @@
     "th": "ลาดกระบังเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
   "nearby_projects": [],
-  "parks": [],
+  "parks": [
+    {
+      "name": {
+        "en": "industrial parks",
+        "zh": "industrial parks",
+        "th": "industrial parks"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/industrial_parks"
+    },
+    {
+      "name": {
+        "en": "Phra Nakhon Park",
+        "zh": "Phra Nakhon Park",
+        "th": "Phra Nakhon Park"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Phra_Nakhon_Park"
+    }
+  ],
   "field_evidence": {
     "bts": {
       "field": "bts",
@@ -118,7 +151,7 @@
       "field": "schools",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
       },
       "verified_at": "2026-07-16",
@@ -129,7 +162,7 @@
       "field": "hospitals",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
       },
       "verified_at": "2026-07-16",
@@ -140,7 +173,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
       },
       "verified_at": "2026-07-16",
@@ -149,13 +182,13 @@
     },
     "parks": {
       "field": "parks",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "overview": {
@@ -204,9 +237,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

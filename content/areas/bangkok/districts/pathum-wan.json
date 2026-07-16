@@ -135,6 +135,94 @@
         "th": "จุฬาลงกรณ์มหาวิทยาลัย"
       },
       "source_url": "https://www.chula.ac.th/"
+    },
+    {
+      "name": {
+        "en": "campus of Chulalongkorn University",
+        "zh": "campus of Chulalongkorn University",
+        "th": "campus of Chulalongkorn University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/campus_of_Chulalongkorn_University"
+    },
+    {
+      "name": {
+        "en": "Property Management Office",
+        "zh": "Property Management Office",
+        "th": "Property Management Office"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Property_Management_Office%2C_Chulalongkorn_University"
+    },
+    {
+      "name": {
+        "en": "Queen Saovabha Memorial Institute",
+        "zh": "Queen Saovabha Memorial Institute",
+        "th": "Queen Saovabha Memorial Institute"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Queen_Saovabha_Memorial_Institute"
+    },
+    {
+      "name": {
+        "en": "Pathumwan Institute of Technology",
+        "zh": "Pathumwan Institute of Technology",
+        "th": "Pathumwan Institute of Technology"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Pathumwan_Institute_of_Technology"
+    },
+    {
+      "name": {
+        "en": "Rajamangala University of Technology Tawan-ok",
+        "zh": "Rajamangala University of Technology Tawan-ok",
+        "th": "Rajamangala University of Technology Tawan-ok"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Rajamangala_University_of_Technology_Tawan-ok"
+    },
+    {
+      "name": {
+        "en": "Triam Udom Suksa School",
+        "zh": "Triam Udom Suksa School",
+        "th": "Triam Udom Suksa School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Triam_Udom_Suksa_School"
+    },
+    {
+      "name": {
+        "en": "Chulalongkorn University Demonstration School",
+        "zh": "Chulalongkorn University Demonstration School",
+        "th": "Chulalongkorn University Demonstration School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Chulalongkorn_University_Demonstration_School"
+    },
+    {
+      "name": {
+        "en": "Patumwan Demonstration School",
+        "zh": "Patumwan Demonstration School",
+        "th": "Patumwan Demonstration School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Patumwan_Demonstration_School%2C_Srinakharinwirot_University"
+    },
+    {
+      "name": {
+        "en": "Mater Dei School",
+        "zh": "Mater Dei School",
+        "th": "Mater Dei School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Mater_Dei_School_(Thailand)"
+    },
+    {
+      "name": {
+        "en": "Chulalongkorn University Centenary Park",
+        "zh": "Chulalongkorn University Centenary Park",
+        "th": "Chulalongkorn University Centenary Park"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Chulalongkorn_University_Centenary_Park"
+    },
+    {
+      "name": {
+        "en": "Auditorium, Chulalongkorn University",
+        "zh": "Auditorium, Chulalongkorn University",
+        "th": "Auditorium, Chulalongkorn University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Chulalongkorn_University_Auditorium"
     }
   ],
   "hospitals": [
@@ -145,6 +233,14 @@
         "th": "โรงพยาบาลจุฬาลงกรณ์"
       },
       "source_url": "https://chulalongkornhospital.go.th/"
+    },
+    {
+      "name": {
+        "en": "Police General Hospital",
+        "zh": "Police General Hospital",
+        "th": "Police General Hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Police_General_Hospital"
     }
   ],
   "shopping": [
@@ -163,6 +259,94 @@
         "th": "เซ็นทรัลเวิลด์"
       },
       "source_url": "https://www.centralworld.co.th/"
+    },
+    {
+      "name": {
+        "en": "Siam area",
+        "zh": "Siam area",
+        "th": "Siam area"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_area"
+    },
+    {
+      "name": {
+        "en": "Siam Square",
+        "zh": "Siam Square",
+        "th": "Siam Square"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_Square"
+    },
+    {
+      "name": {
+        "en": "Siam",
+        "zh": "Siam",
+        "th": "Siam"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_area"
+    },
+    {
+      "name": {
+        "en": "Siam Inter-Continental Hotel",
+        "zh": "Siam Inter-Continental Hotel",
+        "th": "Siam Inter-Continental Hotel"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_Inter-Continental_Hotel"
+    },
+    {
+      "name": {
+        "en": "Siam Center",
+        "zh": "Siam Center",
+        "th": "Siam Center"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_Center"
+    },
+    {
+      "name": {
+        "en": "Siam station",
+        "zh": "Siam station",
+        "th": "Siam station"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_station"
+    },
+    {
+      "name": {
+        "en": "MBK Center",
+        "zh": "MBK Center",
+        "th": "MBK Center"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/MBK_Center"
+    },
+    {
+      "name": {
+        "en": "Siam Discovery",
+        "zh": "Siam Discovery",
+        "th": "Siam Discovery"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_Discovery"
+    },
+    {
+      "name": {
+        "en": "Central Group",
+        "zh": "Central Group",
+        "th": "Central Group"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Central_Group"
+    },
+    {
+      "name": {
+        "en": "Krung Thep Aphiwat Central Terminal",
+        "zh": "Krung Thep Aphiwat Central Terminal",
+        "th": "Krung Thep Aphiwat Central Terminal"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Krung_Thep_Aphiwat_Central_Terminal"
+    },
+    {
+      "name": {
+        "en": "central station",
+        "zh": "central station",
+        "th": "central station"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/central_station"
     }
   ],
   "investment_summary": {
@@ -183,6 +367,14 @@
         "th": "สวนลุมพินี"
       },
       "source_url": "https://en.wikipedia.org/wiki/Lumphini_Park"
+    },
+    {
+      "name": {
+        "en": "Pathumwananurak Park",
+        "zh": "Pathumwananurak Park",
+        "th": "Pathumwananurak Park"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Pathumwananurak_Park"
     }
   ],
   "field_evidence": {
@@ -212,7 +404,7 @@
       "field": "schools",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
       },
       "verified_at": "2026-07-16",
@@ -223,7 +415,7 @@
       "field": "hospitals",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
       },
       "verified_at": "2026-07-16",
@@ -234,7 +426,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
       },
       "verified_at": "2026-07-16",
@@ -245,7 +437,7 @@
       "field": "parks",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
       },
       "verified_at": "2026-07-16",
@@ -298,9 +490,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

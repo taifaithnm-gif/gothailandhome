@@ -61,14 +61,32 @@
   "transportation": [],
   "schools": [],
   "hospitals": [],
-  "shopping": [],
+  "shopping": [
+    {
+      "name": {
+        "en": "Wat Sai floating market",
+        "zh": "Wat Sai floating market",
+        "th": "Wat Sai floating market"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Wat_Sai_floating_market"
+    }
+  ],
   "investment_summary": {
     "en": "Chom Thong is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "冲通为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
     "th": "จอมทองเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
   "nearby_projects": [],
-  "parks": [],
+  "parks": [
+    {
+      "name": {
+        "en": "Poomjai Garden",
+        "zh": "Poomjai Garden",
+        "th": "Poomjai Garden"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Poomjai_Garden"
+    }
+  ],
   "field_evidence": {
     "bts": {
       "field": "bts",
@@ -96,8 +114,8 @@
       "field": "schools",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
-        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district,_Bangkok"
+        "source_type": "wikipedia_district_places",
+        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district%2C_Bangkok"
       },
       "verified_at": "2026-07-16",
       "present": false,
@@ -107,8 +125,8 @@
       "field": "hospitals",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
-        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district,_Bangkok"
+        "source_type": "wikipedia_district_places",
+        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district%2C_Bangkok"
       },
       "verified_at": "2026-07-16",
       "present": false,
@@ -116,24 +134,24 @@
     },
     "shopping": {
       "field": "shopping",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
-        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district,_Bangkok"
+        "source_type": "wikipedia_district_places",
+        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district%2C_Bangkok"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "parks": {
       "field": "parks",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
-        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district,_Bangkok"
+        "source_type": "wikipedia_district_places",
+        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district%2C_Bangkok"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "overview": {
@@ -160,13 +178,13 @@
     },
     "lifestyle": {
       "field": "lifestyle",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "wikipedia_district_page",
-        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district,_Bangkok"
+        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district%2C_Bangkok"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "office_areas": {
@@ -174,7 +192,7 @@
       "evidence_class": "UNVERIFIED",
       "provenance": {
         "source_type": "wikipedia_district_page",
-        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district,_Bangkok"
+        "url": "https://en.wikipedia.org/wiki/Chom_Thong_district%2C_Bangkok"
       },
       "verified_at": "2026-07-16",
       "present": false,
@@ -182,9 +200,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",
@@ -198,5 +216,13 @@
     "google_maps_url": "https://www.google.com/maps?q=13.677,100.468",
     "source": "district_package_centroid",
     "verified_at": "2026-07-16"
+  },
+  "lifestyle": {
+    "en": "Chom Thong is one of the 50 districts (khet) of Bangkok, Thailand.",
+    "zh": "冲通（Chom Thong）概述依据英文维基百科该区条目公开摘要首句。",
+    "th": "จอมทอง สรุปไลฟ์สไตล์/บริบทจากประโยคแรกของบทคัดย่อวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้",
+    "source_url": "https://en.wikipedia.org/wiki/Chom_Thong_district%2C_Bangkok",
+    "verified_at": "2026-07-16",
+    "evidence_note": "wikipedia_extract_first_sentence"
   }
 }

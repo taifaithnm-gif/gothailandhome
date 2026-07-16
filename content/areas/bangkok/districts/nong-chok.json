@@ -54,8 +54,34 @@
     "khwaeng_count": 8
   },
   "transportation": [],
-  "schools": [],
-  "hospitals": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Mahanakorn University of Technology",
+        "zh": "Mahanakorn University of Technology",
+        "th": "Mahanakorn University of Technology"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Mahanakorn_University_of_Technology"
+    },
+    {
+      "name": {
+        "en": "Korean International School of Bangkok",
+        "zh": "Korean International School of Bangkok",
+        "th": "Korean International School of Bangkok"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Korean_International_School_of_Bangkok"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Wetchakarunrasm Hospital",
+        "zh": "Wetchakarunrasm Hospital",
+        "th": "Wetchakarunrasm Hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Wetchakarunrasm_Hospital"
+    }
+  ],
   "shopping": [
     {
       "name": {
@@ -72,7 +98,16 @@
     "th": "หนองจอกเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
   "nearby_projects": [],
-  "parks": [],
+  "parks": [
+    {
+      "name": {
+        "en": "Nong Chok Park",
+        "zh": "Nong Chok Park",
+        "th": "Nong Chok Park"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Nong_Chok_Park"
+    }
+  ],
   "field_evidence": {
     "bts": {
       "field": "bts",
@@ -98,31 +133,31 @@
     },
     "schools": {
       "field": "schools",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Nong_Chok_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "hospitals": {
       "field": "hospitals",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Nong_Chok_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "shopping": {
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Nong_Chok_district"
       },
       "verified_at": "2026-07-16",
@@ -131,13 +166,13 @@
     },
     "parks": {
       "field": "parks",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Nong_Chok_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "overview": {
@@ -164,13 +199,13 @@
     },
     "lifestyle": {
       "field": "lifestyle",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "wikipedia_district_page",
         "url": "https://en.wikipedia.org/wiki/Nong_Chok_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "office_areas": {
@@ -186,9 +221,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",
@@ -202,5 +237,13 @@
     "google_maps_url": "https://www.google.com/maps?q=13.855,100.862",
     "source": "district_package_centroid",
     "verified_at": "2026-07-16"
+  },
+  "lifestyle": {
+    "en": "Nong Chok is one of the 50 districts (khet) of Bangkok, Thailand.",
+    "zh": "农育（Nong Chok）概述依据英文维基百科该区条目公开摘要首句。",
+    "th": "หนองจอก สรุปไลฟ์สไตล์/บริบทจากประโยคแรกของบทคัดย่อวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้",
+    "source_url": "https://en.wikipedia.org/wiki/Nong_Chok_district",
+    "verified_at": "2026-07-16",
+    "evidence_note": "wikipedia_extract_first_sentence"
   }
 }

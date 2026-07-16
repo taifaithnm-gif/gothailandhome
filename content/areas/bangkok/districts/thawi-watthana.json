@@ -54,9 +54,68 @@
     "khwaeng_count": 2
   },
   "transportation": [],
-  "schools": [],
-  "hospitals": [],
-  "shopping": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Bangkokthonburi University",
+        "zh": "Bangkokthonburi University",
+        "th": "Bangkokthonburi University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Bangkokthonburi_University"
+    },
+    {
+      "name": {
+        "en": "private university",
+        "zh": "private university",
+        "th": "private university"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/private_university"
+    },
+    {
+      "name": {
+        "en": "Thongsook College",
+        "zh": "Thongsook College",
+        "th": "Thongsook College"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Thongsook_College"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Thonburi Hospital",
+        "zh": "Thonburi Hospital",
+        "th": "Thonburi Hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Thonburi_Hospital"
+    },
+    {
+      "name": {
+        "en": "first private hospital",
+        "zh": "first private hospital",
+        "th": "first private hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/List_of_hospitals_in_Thailand"
+    }
+  ],
+  "shopping": [
+    {
+      "name": {
+        "en": "Thonburi Market",
+        "zh": "Thonburi Market",
+        "th": "Thonburi Market"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Thonburi_Market"
+    },
+    {
+      "name": {
+        "en": "night market",
+        "zh": "night market",
+        "th": "night market"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/night_market"
+    }
+  ],
   "investment_summary": {
     "en": "Thawi Watthana is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "塔威瓦他那为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
@@ -89,42 +148,42 @@
     },
     "schools": {
       "field": "schools",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "hospitals": {
       "field": "hospitals",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "shopping": {
       "field": "shopping",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "parks": {
       "field": "parks",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
       },
       "verified_at": "2026-07-16",
@@ -155,13 +214,13 @@
     },
     "lifestyle": {
       "field": "lifestyle",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "wikipedia_district_page",
         "url": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "office_areas": {
@@ -177,9 +236,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",
@@ -193,5 +252,13 @@
     "google_maps_url": "https://www.google.com/maps?q=13.776,100.348",
     "source": "district_package_centroid",
     "verified_at": "2026-07-16"
+  },
+  "lifestyle": {
+    "en": "Thawi Watthana is one of the 50 districts (khet) of Bangkok, Thailand.",
+    "zh": "塔威瓦他那（Thawi Watthana）概述依据英文维基百科该区条目公开摘要首句。",
+    "th": "ทวีวัฒนา สรุปไลฟ์สไตล์/บริบทจากประโยคแรกของบทคัดย่อวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้",
+    "source_url": "https://en.wikipedia.org/wiki/Thawi_Watthana_district",
+    "verified_at": "2026-07-16",
+    "evidence_note": "wikipedia_extract_first_sentence"
   }
 }

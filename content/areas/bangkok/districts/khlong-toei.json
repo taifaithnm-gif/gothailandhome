@@ -109,7 +109,16 @@
       "source_url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
     }
   ],
-  "schools": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Sacred Heart Convent School",
+        "zh": "Sacred Heart Convent School",
+        "th": "Sacred Heart Convent School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Sacred_Heart_Convent_School_Bangkok"
+    }
+  ],
   "hospitals": [],
   "shopping": [
     {
@@ -119,6 +128,22 @@
         "th": "ตลาดคลองเตย"
       },
       "source_url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+    },
+    {
+      "name": {
+        "en": "Emporium",
+        "zh": "Emporium",
+        "th": "Emporium"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Emporium_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "EmQuartier",
+        "zh": "EmQuartier",
+        "th": "EmQuartier"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/EmQuartier"
     }
   ],
   "investment_summary": {
@@ -138,6 +163,22 @@
         "th": "สวนเบญจกิติ"
       },
       "source_url": "https://en.wikipedia.org/wiki/Benjakitti_Park"
+    },
+    {
+      "name": {
+        "en": "Benjakitti Park",
+        "zh": "Benjakitti Park",
+        "th": "Benjakitti Park"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Benjakitti_Park"
+    },
+    {
+      "name": {
+        "en": "Benjasiri Park",
+        "zh": "Benjasiri Park",
+        "th": "Benjasiri Park"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Benjasiri_Park"
     }
   ],
   "field_evidence": {
@@ -165,20 +206,20 @@
     },
     "schools": {
       "field": "schools",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "hospitals": {
       "field": "hospitals",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
       },
       "verified_at": "2026-07-16",
@@ -189,7 +230,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
       },
       "verified_at": "2026-07-16",
@@ -200,7 +241,7 @@
       "field": "parks",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
       },
       "verified_at": "2026-07-16",
@@ -253,9 +294,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

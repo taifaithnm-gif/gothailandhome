@@ -1,0 +1,2616 @@
+{
+  "fetched_at": "2026-07-16",
+  "policy": "Named wiki links + named bullets from district pages; botanical false positives removed",
+  "errors": [],
+  "harvest": {
+    "bang-bon": {
+      "wiki": "https://en.wikipedia.org/wiki/Bang_Bon_district",
+      "schools": [
+        {
+          "en": "Sarasas Witaed Bangbon School",
+          "th": "Sarasas Witaed Bangbon School",
+          "url": "https://en.wikipedia.org/wiki/Sarasas_Witaed_Bangbon_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Bon_district"
+        },
+        {
+          "en": "Suksanareewittaya School",
+          "th": "Suksanareewittaya School",
+          "url": "https://en.wikipedia.org/wiki/Suksanareewittaya_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Bon_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [
+        {
+          "en": "7th Cycle Birthday Anniversary Park, Bang Bon",
+          "th": "7th Cycle Birthday Anniversary Park, Bang Bon",
+          "url": "https://en.wikipedia.org/wiki/7th_Cycle_Birthday_Anniversary_Park%2C_Bang_Bon",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Bon_district"
+        }
+      ],
+      "other_sample": [
+        "Nam Doc Mai",
+        "mango",
+        "coconut",
+        "orchid",
+        "Wat Bang Bon"
+      ]
+    },
+    "bang-kapi": {
+      "wiki": "https://en.wikipedia.org/wiki/Bang_Kapi_district",
+      "schools": [
+        {
+          "en": "Ramkhamhaeng University",
+          "th": "Ramkhamhaeng University",
+          "url": "https://en.wikipedia.org/wiki/Ramkhamhaeng_University",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "National Institute of Development Administration",
+          "th": "National Institute of Development Administration",
+          "url": "https://en.wikipedia.org/wiki/National_Institute_of_Development_Administration",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "Niva International School",
+          "th": "Niva International School",
+          "url": "https://en.wikipedia.org/wiki/Niva_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "Assumption University",
+          "th": "Assumption University",
+          "url": "https://en.wikipedia.org/wiki/Assumption_University%2C_Thailand",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "Bang Kapi School",
+          "th": "Bang Kapi School",
+          "url": "https://en.wikipedia.org/wiki/Bang_Kapi_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "Ramkhamhaeng Advent International School",
+          "th": "Ramkhamhaeng Advent International School",
+          "url": "https://en.wikipedia.org/wiki/Ramkhamhaeng_Advent_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "Traill International School",
+          "th": "Traill International School",
+          "url": "https://en.wikipedia.org/wiki/Traill_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Vejthani Hospital",
+          "th": "Vejthani Hospital",
+          "url": "https://en.wikipedia.org/wiki/Vejthani_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        }
+      ],
+      "shopping": [
+        {
+          "en": "The Mall",
+          "th": "The Mall",
+          "url": "https://en.wikipedia.org/wiki/The_Mall_Group",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "Big C",
+          "th": "Big C",
+          "url": "https://en.wikipedia.org/wiki/Big_C",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "Bang Kapi market",
+          "th": "Bang Kapi market",
+          "url": "https://en.wikipedia.org/wiki/Bang_Kapi_market",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "Tesco Lotus",
+          "th": "Tesco Lotus",
+          "url": "https://en.wikipedia.org/wiki/Tesco_Lotus",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "Kwan Riam floating market",
+          "th": "Kwan Riam floating market",
+          "url": "https://en.wikipedia.org/wiki/Kwan_Riam_floating_market",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "Ramkhamhaeng night market",
+          "th": "Ramkhamhaeng night market",
+          "url": "https://en.wikipedia.org/wiki/Ramkhamhaeng_night_market",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "Happy Land Market",
+          "th": "Happy Land Market",
+          "url": "https://en.wikipedia.org/wiki/Happy_Land_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        },
+        {
+          "en": "The Mall Bang Kapi bus station",
+          "th": "The Mall Bang Kapi bus station",
+          "url": "https://en.wikipedia.org/wiki/The_Mall_Bang_Kapi_bus_station",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        }
+      ],
+      "parks": [
+        {
+          "en": "Tawanna shopping park",
+          "th": "Tawanna shopping park",
+          "url": "https://en.wikipedia.org/wiki/Tawanna_shopping_park",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kapi_district"
+        }
+      ],
+      "other_sample": [
+        "Homepro",
+        "Makro Bang Kapi",
+        "MRT Yellow Line",
+        "Lat Phrao",
+        "Srinagarindra",
+        "Lat Phrao 101",
+        "Bang Kapi",
+        "Yaek Lam Sali",
+        "Si Kritha",
+        "Khlong Saen Saeb"
+      ]
+    },
+    "bang-khae": {
+      "wiki": "https://en.wikipedia.org/wiki/Bang_Khae_district",
+      "schools": [],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "The Mall Bang Khae",
+          "th": "The Mall Bang Khae",
+          "url": "https://en.wikipedia.org/wiki/The_Mall_Bang_Khae",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Khae_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": []
+    },
+    "bang-khun-thian": {
+      "wiki": "https://en.wikipedia.org/wiki/Bang_Khun_Thian_district",
+      "schools": [
+        {
+          "en": "Taweethapisek School",
+          "th": "Taweethapisek School",
+          "url": "https://en.wikipedia.org/wiki/Taweethapisek_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Khun_Thian_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Central Rama II",
+          "th": "Central Rama II",
+          "url": "https://en.wikipedia.org/wiki/Central_Rama_II",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Khun_Thian_district"
+        },
+        {
+          "en": "Lotus's",
+          "th": "Lotus's",
+          "url": "https://en.wikipedia.org/wiki/Lotus's",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Khun_Thian_district"
+        },
+        {
+          "en": "Big C",
+          "th": "Big C",
+          "url": "https://en.wikipedia.org/wiki/Big_C",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Khun_Thian_district"
+        }
+      ],
+      "parks": [
+        {
+          "en": "mangrove forest",
+          "th": "mangrove forest",
+          "url": "https://en.wikipedia.org/wiki/mangrove_forest",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Khun_Thian_district"
+        }
+      ],
+      "other_sample": [
+        "aquaculture",
+        "coastal erosion",
+        "wastewater",
+        "shrimp farm",
+        "crab-eating macaque",
+        "seafood",
+        "smooth-coated otter",
+        "Thai Mon"
+      ]
+    },
+    "bang-na": {
+      "wiki": "https://en.wikipedia.org/wiki/Bang_Na_district",
+      "schools": [],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [],
+      "other_sample": [
+        "Bangkok International Trade and Exhibition Centre",
+        "CentralPlaza Bangna",
+        "Royal Dragon Restaurant",
+        "IKEA"
+      ]
+    },
+    "bang-phlat": {
+      "wiki": "https://en.wikipedia.org/wiki/Bang_Phlat_district",
+      "schools": [],
+      "hospitals": [
+        {
+          "en": "Yanhee International Hospital",
+          "th": "Yanhee International Hospital",
+          "url": "https://en.wikipedia.org/wiki/Yanhee_International_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Phlat_district"
+        }
+      ],
+      "shopping": [],
+      "parks": [
+        {
+          "en": "Rama VIII Park",
+          "th": "Rama VIII Park",
+          "url": "https://en.wikipedia.org/wiki/Rama_VIII_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Phlat_district"
+        }
+      ],
+      "other_sample": [
+        "Charan Sanit Wong",
+        "Krung Thon Bridge",
+        "Rama VII Bridge",
+        "Wat Kharuehabodi",
+        "Pata Zoo"
+      ]
+    },
+    "bang-rak": {
+      "wiki": "https://en.wikipedia.org/wiki/Bang_Rak_district",
+      "schools": [
+        {
+          "en": "Assumption College",
+          "th": "Assumption College",
+          "url": "https://en.wikipedia.org/wiki/Assumption_College_(Thailand)",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+        },
+        {
+          "en": "Assumption Convent",
+          "th": "Assumption Convent",
+          "url": "https://en.wikipedia.org/wiki/Assumption_Convent_School_(Thailand)",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+        },
+        {
+          "en": "Assumption Suksa",
+          "th": "Assumption Suksa",
+          "url": "https://en.wikipedia.org/wiki/Assumption_Suksa_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+        },
+        {
+          "en": "Saint Joseph Convent School",
+          "th": "Saint Joseph Convent School",
+          "url": "https://en.wikipedia.org/wiki/Saint_Joseph_Convent_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+        },
+        {
+          "en": "Bangkok Christian College",
+          "th": "Bangkok Christian College",
+          "url": "https://en.wikipedia.org/wiki/Bangkok_Christian_College",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+        },
+        {
+          "en": "Mahapruttaram Girls' School",
+          "th": "Mahapruttaram Girls' School",
+          "url": "https://en.wikipedia.org/wiki/Mahapruttaram_Girls'_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Bangkok Christian Hospital",
+          "th": "Bangkok Christian Hospital",
+          "url": "https://en.wikipedia.org/wiki/Bangkok_Christian_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+        },
+        {
+          "en": "Lerdsin Hospital",
+          "th": "Lerdsin Hospital",
+          "url": "https://en.wikipedia.org/wiki/Lerdsin_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+        },
+        {
+          "en": "BNH Hospital",
+          "th": "BNH Hospital",
+          "url": "https://en.wikipedia.org/wiki/BNH_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Rak_district"
+        }
+      ],
+      "shopping": [],
+      "parks": [],
+      "other_sample": []
+    },
+    "bang-sue": {
+      "wiki": "https://en.wikipedia.org/wiki/Bang_Sue_district",
+      "schools": [],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Krung Thep Aphiwat Central Terminal",
+          "th": "Krung Thep Aphiwat Central Terminal",
+          "url": "https://en.wikipedia.org/wiki/Krung_Thep_Aphiwat_Central_Terminal",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Sue_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": [
+        "Rama VI Bridge",
+        "Chao Phraya",
+        "Vajiravudh",
+        "road-rail bridge",
+        "World War II",
+        "heavily damaged by Allied bombing",
+        "Rama VII bridge",
+        "State Railway of Thailand"
+      ]
+    },
+    "bangkok-noi": {
+      "wiki": "https://en.wikipedia.org/wiki/Bangkok_Noi_district",
+      "schools": [
+        {
+          "en": "Petchyindee Academy",
+          "th": "Petchyindee Academy",
+          "url": "https://en.wikipedia.org/wiki/Petchyindee_Academy",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Noi_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Siriraj Hospital",
+          "th": "Siriraj Hospital",
+          "url": "https://en.wikipedia.org/wiki/Siriraj_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Noi_district"
+        }
+      ],
+      "shopping": [
+        {
+          "en": "Central Department Store",
+          "th": "Central Department Store",
+          "url": "https://en.wikipedia.org/wiki/Central_Department_Store",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Noi_district"
+        },
+        {
+          "en": "Wang Lang Market",
+          "th": "Wang Lang Market",
+          "url": "https://en.wikipedia.org/wiki/Wang_Lang_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Noi_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": [
+        "National Museum of Royal Barges",
+        "Khlong Bangkok Noi",
+        "Thailand's Royal Barge Procession",
+        "60th anniversary of the accession of King Bhumibol Adulyadej",
+        "King Rama V",
+        "Siriraj Medical Museum",
+        "Bangkok Noi Railway Station",
+        "Kanchanaburi",
+        "Wat Suwannaram Ratchaworawihan",
+        "King Rama I"
+      ]
+    },
+    "bangkok-yai": {
+      "wiki": "https://en.wikipedia.org/wiki/Bangkok_Yai_district",
+      "schools": [
+        {
+          "en": "Taweethapisek School",
+          "th": "Taweethapisek School",
+          "url": "https://en.wikipedia.org/wiki/Taweethapisek_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+        },
+        {
+          "en": "Ratchadamnoen Commercial School",
+          "th": "Ratchadamnoen Commercial School",
+          "url": "https://en.wikipedia.org/wiki/Ratchadamnoen_Commercial_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+        },
+        {
+          "en": "Wiboon Business Administration College",
+          "th": "Wiboon Business Administration College",
+          "url": "https://en.wikipedia.org/wiki/Wiboon_Business_Administration_College",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+        },
+        {
+          "en": "Siam Technological College",
+          "th": "Siam Technological College",
+          "url": "https://en.wikipedia.org/wiki/Siam_Technological_College",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+        },
+        {
+          "en": "Sesawech Vidhaya School",
+          "th": "Sesawech Vidhaya School",
+          "url": "https://en.wikipedia.org/wiki/Sesawech_Vidhaya_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+        },
+        {
+          "en": "Ritthinarongron School",
+          "th": "Ritthinarongron School",
+          "url": "https://en.wikipedia.org/wiki/Ritthinarongron_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+        },
+        {
+          "en": "Wat Pradu Nai Songtham School",
+          "th": "Wat Pradu Nai Songtham School",
+          "url": "https://en.wikipedia.org/wiki/Wat_Pradu_Nai_Songtham_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+        },
+        {
+          "en": "Bangkok Commercial School",
+          "th": "Bangkok Commercial School",
+          "url": "https://en.wikipedia.org/wiki/Bangkok_Commercial_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+        },
+        {
+          "en": "Saiprasit School",
+          "th": "Saiprasit School",
+          "url": "https://en.wikipedia.org/wiki/Saiprasit_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+        },
+        {
+          "en": "Prasart Wittaya Anuchon School",
+          "th": "Prasart Wittaya Anuchon School",
+          "url": "https://en.wikipedia.org/wiki/Prasart_Wittaya_Anuchon_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Tha Tian",
+          "th": "Tha Tian",
+          "url": "https://en.wikipedia.org/wiki/Tha_Tian_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": [
+        "Saiprasit Business Administration Technological",
+        "Tha Phra Intersection",
+        "Tha Phra MRT station",
+        "Chao Phraya River",
+        "Khlong Bangkok Yai",
+        "Khlong Mon",
+        "Itsaraphap MRT station"
+      ]
+    },
+    "bueng-kum": {
+      "wiki": "https://en.wikipedia.org/wiki/Bueng_Kum_district",
+      "schools": [],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Pattavikorn Market",
+          "th": "Pattavikorn Market",
+          "url": "https://en.wikipedia.org/wiki/Pattavikorn_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Bueng_Kum_district"
+        }
+      ],
+      "parks": [
+        {
+          "en": "Seri Thai Park",
+          "th": "Seri Thai Park",
+          "url": "https://en.wikipedia.org/wiki/Seri_Thai_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Bueng_Kum_district"
+        }
+      ],
+      "other_sample": [
+        "Seri Thai",
+        "second-hand"
+      ]
+    },
+    "chatuchak": {
+      "wiki": "https://en.wikipedia.org/wiki/Chatuchak_district",
+      "schools": [
+        {
+          "en": "Kasetsart University",
+          "th": "Kasetsart University",
+          "url": "https://en.wikipedia.org/wiki/Kasetsart_University",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Sripatum University",
+          "th": "Sripatum University",
+          "url": "https://en.wikipedia.org/wiki/Sripatum_University",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Saint John's University",
+          "th": "Saint John's University",
+          "url": "https://en.wikipedia.org/wiki/Saint_John's_Group_of_Schools_and_University",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Saint John's International School",
+          "th": "Saint John's International School",
+          "url": "https://en.wikipedia.org/wiki/Saint_John's_International_School_(Thailand)",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Chandrakasem Rajabhat University",
+          "th": "Chandrakasem Rajabhat University",
+          "url": "https://en.wikipedia.org/wiki/Chandrakasem_Rajabhat_University",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Rajabhat Universitie",
+          "th": "Rajabhat Universitie",
+          "url": "https://en.wikipedia.org/wiki/Rajabhat_University",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Chatuchak Weekend Market",
+          "th": "Chatuchak Weekend Market",
+          "url": "https://en.wikipedia.org/wiki/Chatuchak_Weekend_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Klong Prem Central Prison",
+          "th": "Klong Prem Central Prison",
+          "url": "https://en.wikipedia.org/wiki/Klong_Prem_Central_Prison",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Or Tor Kor Market",
+          "th": "Or Tor Kor Market",
+          "url": "https://en.wikipedia.org/wiki/Or_Tor_Kor_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Central Ladprao",
+          "th": "Central Ladprao",
+          "url": "https://en.wikipedia.org/wiki/Central_Ladprao",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Union Mall",
+          "th": "Union Mall",
+          "url": "https://en.wikipedia.org/wiki/Union_Mall",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "JJ Mall",
+          "th": "JJ Mall",
+          "url": "https://en.wikipedia.org/wiki/JJ_Mall",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Bang Sue (Krung Thep Aphiwat)",
+          "th": "Bang Sue (Krung Thep Aphiwat)",
+          "url": "https://en.wikipedia.org/wiki/Krung_Thep_Aphiwat_Central_Terminal",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Krung Thep Aphiwat Central Terminal",
+          "th": "Krung Thep Aphiwat Central Terminal",
+          "url": "https://en.wikipedia.org/wiki/Krung_Thep_Aphiwat_Central_Terminal",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Siam Commercial Bank",
+          "th": "Siam Commercial Bank",
+          "url": "https://en.wikipedia.org/wiki/Siam_Commercial_Bank",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        }
+      ],
+      "parks": [
+        {
+          "en": "Chatuchak Park",
+          "th": "Chatuchak Park",
+          "url": "https://en.wikipedia.org/wiki/Chatuchak_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Department of National Parks, Wildlife and Plant Conservation",
+          "th": "Department of National Parks, Wildlife and Plant Conservation",
+          "url": "https://en.wikipedia.org/wiki/Department_of_National_Parks%2C_Wildlife_and_Plant_Conservation",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Royal Forest Department",
+          "th": "Royal Forest Department",
+          "url": "https://en.wikipedia.org/wiki/Royal_Forest_Department",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Queen Sirikit Park",
+          "th": "Queen Sirikit Park",
+          "url": "https://en.wikipedia.org/wiki/Queen_Sirikit_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Wachirabenchathat Park",
+          "th": "Wachirabenchathat Park",
+          "url": "https://en.wikipedia.org/wiki/Wachirabenchathat_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "Chak Phupha Su Maha Nathee Park",
+          "th": "Chak Phupha Su Maha Nathee Park",
+          "url": "https://en.wikipedia.org/wiki/Chak_Phupha_Su_Maha_Nathee_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        },
+        {
+          "en": "SCB Park Plaza",
+          "th": "SCB Park Plaza",
+          "url": "https://en.wikipedia.org/wiki/SCB_Park_Plaza",
+          "source_page": "https://en.wikipedia.org/wiki/Chatuchak_district"
+        }
+      ],
+      "other_sample": [
+        "State Railway of Thailand",
+        "Phahonyothin Road",
+        "Mo Chit BTS Station",
+        "Train Museum",
+        "hibiscus",
+        "plumeria",
+        "palm",
+        "Maha Vajiralongkorn",
+        "Queen Sirikit",
+        "universities in Thailand"
+      ]
+    },
+    "chom-thong": {
+      "wiki": "https://en.wikipedia.org/wiki/Chom_Thong_district%2C_Bangkok",
+      "schools": [],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Wat Sai floating market",
+          "th": "Wat Sai floating market",
+          "url": "https://en.wikipedia.org/wiki/Wat_Sai_floating_market",
+          "source_page": "https://en.wikipedia.org/wiki/Chom_Thong_district%2C_Bangkok"
+        }
+      ],
+      "parks": [
+        {
+          "en": "Poomjai Garden",
+          "th": "Poomjai Garden",
+          "url": "https://en.wikipedia.org/wiki/Poomjai_Garden",
+          "source_page": "https://en.wikipedia.org/wiki/Chom_Thong_district%2C_Bangkok"
+        }
+      ],
+      "other_sample": [
+        "Bang Mot tangerine",
+        "Rama II Road",
+        "Suk Sawat Road",
+        "lychee",
+        "Wat Rajorasaram",
+        "Ayutthaya Kingdom",
+        "Nangklao",
+        "Wat Sai",
+        "Mahanikaya",
+        "Buddhism"
+      ]
+    },
+    "dusit": {
+      "wiki": "https://en.wikipedia.org/wiki/Dusit_district",
+      "schools": [
+        {
+          "en": "Suan Sunandha Rajabhat University",
+          "th": "Suan Sunandha Rajabhat University",
+          "url": "https://en.wikipedia.org/wiki/Suan_Sunandha_Rajabhat_University",
+          "source_page": "https://en.wikipedia.org/wiki/Dusit_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Veterinary hospital",
+          "th": "Veterinary hospital",
+          "url": "https://en.wikipedia.org/wiki/Veterinary_hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Dusit_district"
+        },
+        {
+          "en": "Vajira Hospital",
+          "th": "Vajira Hospital",
+          "url": "https://en.wikipedia.org/wiki/Vajira_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Dusit_district"
+        }
+      ],
+      "shopping": [],
+      "parks": [
+        {
+          "en": "Sanam Luang",
+          "th": "Sanam Luang",
+          "url": "https://en.wikipedia.org/wiki/Sanam_Luang",
+          "source_page": "https://en.wikipedia.org/wiki/Dusit_district"
+        },
+        {
+          "en": "Suan Amporn Park",
+          "th": "Suan Amporn Park",
+          "url": "https://en.wikipedia.org/wiki/Suan_Amporn_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Dusit_district"
+        },
+        {
+          "en": "Sanam Sua Pa",
+          "th": "Sanam Sua Pa",
+          "url": "https://en.wikipedia.org/wiki/Sanam_Sua_Pa",
+          "source_page": "https://en.wikipedia.org/wiki/Dusit_district"
+        }
+      ],
+      "other_sample": []
+    },
+    "huai-khwang": {
+      "wiki": "https://en.wikipedia.org/wiki/Huai_Khwang_district",
+      "schools": [
+        {
+          "en": "KIS International School",
+          "th": "KIS International School",
+          "url": "https://en.wikipedia.org/wiki/KIS_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+        },
+        {
+          "en": "Thai-Japanese Association School",
+          "th": "Thai-Japanese Association School",
+          "url": "https://en.wikipedia.org/wiki/Thai-Japanese_Association_School",
+          "source_page": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+        },
+        {
+          "en": "Modulo Language School",
+          "th": "Modulo Language School",
+          "url": "https://en.wikipedia.org/wiki/Modulo_Language_School",
+          "source_page": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+        },
+        {
+          "en": "Triamudomsuksapattanakarn Ratchada School",
+          "th": "Triamudomsuksapattanakarn Ratchada School",
+          "url": "https://en.wikipedia.org/wiki/Triamudomsuksapattanakarn_Ratchada_School",
+          "source_page": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Praram 9 Hospital",
+          "th": "Praram 9 Hospital",
+          "url": "https://en.wikipedia.org/wiki/Praram_9_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+        }
+      ],
+      "shopping": [
+        {
+          "en": "Siam Niramit",
+          "th": "Siam Niramit",
+          "url": "https://en.wikipedia.org/wiki/Siam_Niramit",
+          "source_page": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+        },
+        {
+          "en": "Central Rama 9",
+          "th": "Central Rama 9",
+          "url": "https://en.wikipedia.org/wiki/Central_Rama_9",
+          "source_page": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": [
+        "Thailand Cultural Centre",
+        "Japan",
+        "Thailand Cultural Centre MRT Station",
+        "Blue Line",
+        "Royal City Avenue",
+        "The Esplanade",
+        "Ganesha",
+        "Huai Khwang MRT station",
+        "Nok Mini",
+        "Nok Mini"
+      ]
+    },
+    "khan-na-yao": {
+      "wiki": "https://en.wikipedia.org/wiki/Khan_Na_Yao_district",
+      "schools": [],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [
+        {
+          "en": "Siam Amazing Park",
+          "th": "Siam Amazing Park",
+          "url": "https://en.wikipedia.org/wiki/Siam_Amazing_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Khan_Na_Yao_district"
+        }
+      ],
+      "other_sample": [
+        "Fashion Island & The Promenade"
+      ]
+    },
+    "khlong-sam-wa": {
+      "wiki": "https://en.wikipedia.org/wiki/Khlong_Sam_Wa_district",
+      "schools": [],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Wat Phraya Suren Floating Market",
+          "th": "Wat Phraya Suren Floating Market",
+          "url": "https://en.wikipedia.org/wiki/Wat_Phraya_Suren_Floating_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Khlong_Sam_Wa_district"
+        }
+      ],
+      "parks": [
+        {
+          "en": "Wari Phirom Park",
+          "th": "Wari Phirom Park",
+          "url": "https://en.wikipedia.org/wiki/Wari_Phirom_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Khlong_Sam_Wa_district"
+        }
+      ],
+      "other_sample": [
+        "Safari World",
+        "Wat Phraya Suren"
+      ]
+    },
+    "khlong-san": {
+      "wiki": "https://en.wikipedia.org/wiki/Khlong_San_district",
+      "schools": [
+        {
+          "en": "Somdet Chaopraya Institute of Psychiatry",
+          "th": "Somdet Chaopraya Institute of Psychiatry",
+          "url": "https://en.wikipedia.org/wiki/Somdet_Chaopraya_Institute_of_Psychiatry",
+          "source_page": "https://en.wikipedia.org/wiki/Khlong_San_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Taksin Hospital",
+          "th": "Taksin Hospital",
+          "url": "https://en.wikipedia.org/wiki/Taksin_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Khlong_San_district"
+        }
+      ],
+      "shopping": [
+        {
+          "en": "ICONSIAM",
+          "th": "ICONSIAM",
+          "url": "https://en.wikipedia.org/wiki/ICONSIAM",
+          "source_page": "https://en.wikipedia.org/wiki/Khlong_San_district"
+        }
+      ],
+      "parks": [
+        {
+          "en": "Princess Mother Memorial Park",
+          "th": "Princess Mother Memorial Park",
+          "url": "https://en.wikipedia.org/wiki/Princess_Mother_Memorial_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Khlong_San_district"
+        }
+      ],
+      "other_sample": [
+        "Taksin",
+        "Wongwian Yai",
+        "Wat Anongkharam",
+        "Wat Sawettachat",
+        "Wat Phichai Yat",
+        "Wat Thong Thammachat",
+        "Wat Thong Nopphakhun",
+        "PLATF@RM",
+        "Thang Nguan Hah Vintage House",
+        "Guan Yu Shrine"
+      ]
+    },
+    "khlong-toei": {
+      "wiki": "https://en.wikipedia.org/wiki/Khlong_Toei_district",
+      "schools": [
+        {
+          "en": "Sacred Heart Convent School",
+          "th": "Sacred Heart Convent School",
+          "url": "https://en.wikipedia.org/wiki/Sacred_Heart_Convent_School_Bangkok",
+          "source_page": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Khlong Toei Market",
+          "th": "Khlong Toei Market",
+          "url": "https://en.wikipedia.org/wiki/Khlong_Toei_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+        },
+        {
+          "en": "Emporium",
+          "th": "Emporium",
+          "url": "https://en.wikipedia.org/wiki/Emporium_(Bangkok)",
+          "source_page": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+        },
+        {
+          "en": "EmQuartier",
+          "th": "EmQuartier",
+          "url": "https://en.wikipedia.org/wiki/EmQuartier",
+          "source_page": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+        }
+      ],
+      "parks": [
+        {
+          "en": "Benjakitti Park",
+          "th": "Benjakitti Park",
+          "url": "https://en.wikipedia.org/wiki/Benjakitti_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+        },
+        {
+          "en": "Benjasiri Park",
+          "th": "Benjasiri Park",
+          "url": "https://en.wikipedia.org/wiki/Benjasiri_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Khlong_Toei_district"
+        }
+      ],
+      "other_sample": [
+        "Bangkok Planetarium",
+        "Science Center for Education",
+        "Tamnak Plai Noen",
+        "Prince Naris",
+        "EmSphere",
+        "Nana Plaza",
+        "prostitution",
+        "hostess bar",
+        "Queen Sirikit National Convention Center",
+        "MRT"
+      ]
+    },
+    "lak-si": {
+      "wiki": "https://en.wikipedia.org/wiki/Lak_Si_district",
+      "schools": [],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [],
+      "other_sample": []
+    },
+    "lat-krabang": {
+      "wiki": "https://en.wikipedia.org/wiki/Lat_Krabang_district",
+      "schools": [
+        {
+          "en": "King Mongkut's Institute of Technology Ladkrabang",
+          "th": "King Mongkut's Institute of Technology Ladkrabang",
+          "url": "https://en.wikipedia.org/wiki/King_Mongkut's_Institute_of_Technology_Ladkrabang",
+          "source_page": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
+        },
+        {
+          "en": "King Mongkut's Institute of Technology Lat Krabang",
+          "th": "King Mongkut's Institute of Technology Lat Krabang",
+          "url": "https://en.wikipedia.org/wiki/King_Mongkut's_Institute_of_Technology_Ladkrabang",
+          "source_page": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
+        },
+        {
+          "en": "Protpittayapayat School",
+          "th": "Protpittayapayat School",
+          "url": "https://en.wikipedia.org/wiki/Protpittayapayat_School",
+          "source_page": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [
+        {
+          "en": "industrial parks",
+          "th": "industrial parks",
+          "url": "https://en.wikipedia.org/wiki/industrial_parks",
+          "source_page": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
+        },
+        {
+          "en": "Phra Nakhon Park",
+          "th": "Phra Nakhon Park",
+          "url": "https://en.wikipedia.org/wiki/Phra_Nakhon_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Lat_Krabang_district"
+        }
+      ],
+      "other_sample": [
+        "Hua Takhe"
+      ]
+    },
+    "lat-phrao": {
+      "wiki": "https://en.wikipedia.org/wiki/Lat_Phrao_district",
+      "schools": [
+        {
+          "en": "Satriwitthaya 2 School",
+          "th": "Satriwitthaya 2 School",
+          "url": "https://en.wikipedia.org/wiki/Satriwitthaya_2_School",
+          "source_page": "https://en.wikipedia.org/wiki/Lat_Phrao_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [],
+      "other_sample": []
+    },
+    "min-buri": {
+      "wiki": "https://en.wikipedia.org/wiki/Min_Buri_district",
+      "schools": [
+        {
+          "en": "Kasem Bundit University",
+          "th": "Kasem Bundit University",
+          "url": "https://en.wikipedia.org/wiki/Kasem_Bundit_University",
+          "source_page": "https://en.wikipedia.org/wiki/Min_Buri_district"
+        },
+        {
+          "en": "Bromsgrove International School Thailand",
+          "th": "Bromsgrove International School Thailand",
+          "url": "https://en.wikipedia.org/wiki/Bromsgrove_International_School_Thailand",
+          "source_page": "https://en.wikipedia.org/wiki/Min_Buri_district"
+        },
+        {
+          "en": "Ruamrudee International School",
+          "th": "Ruamrudee International School",
+          "url": "https://en.wikipedia.org/wiki/Ruamrudee_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Min_Buri_district"
+        },
+        {
+          "en": "Josuikan Bangkok International School",
+          "th": "Josuikan Bangkok International School",
+          "url": "https://en.wikipedia.org/wiki/Josuikan_Bangkok_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Min_Buri_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Khwan Riam Floating Market",
+          "th": "Khwan Riam Floating Market",
+          "url": "https://en.wikipedia.org/wiki/Khwan_Riam_Floating_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Min_Buri_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": [
+        "RIS Swiss Section-Deutschsprachige Schule Bangkok",
+        "RIS Swiss Section-Deutschsprachige Schule Bangkok",
+        "Ministry of Education, Culture, Sports, Science and Technology"
+      ]
+    },
+    "nong-khaem": {
+      "wiki": "https://en.wikipedia.org/wiki/Nong_Khaem_district",
+      "schools": [
+        {
+          "en": "Southeast Asia University",
+          "th": "Southeast Asia University",
+          "url": "https://en.wikipedia.org/wiki/Southeast_Asia_University",
+          "source_page": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
+        },
+        {
+          "en": "Thonburi University",
+          "th": "Thonburi University",
+          "url": "https://en.wikipedia.org/wiki/Thonburi_University",
+          "source_page": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Vichaivej International Nongkhaem Hospital",
+          "th": "Vichaivej International Nongkhaem Hospital",
+          "url": "https://en.wikipedia.org/wiki/Vichaivej_International_Nongkhaem_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Nong_Khaem_district"
+        }
+      ],
+      "shopping": [],
+      "parks": [],
+      "other_sample": [
+        "green space",
+        "rai",
+        "white champaca",
+        "Thai President Foods",
+        "instant noodle",
+        "Si Racha",
+        "Channel 3",
+        "Khlong Toei",
+        "tonne",
+        "Thonburi"
+      ]
+    },
+    "pathum-wan": {
+      "wiki": "https://en.wikipedia.org/wiki/Pathum_Wan_district",
+      "schools": [
+        {
+          "en": "campus of Chulalongkorn University",
+          "th": "campus of Chulalongkorn University",
+          "url": "https://en.wikipedia.org/wiki/campus_of_Chulalongkorn_University",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Chulalongkorn University",
+          "th": "Chulalongkorn University",
+          "url": "https://en.wikipedia.org/wiki/Chulalongkorn_University",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Property Management Office",
+          "th": "Property Management Office",
+          "url": "https://en.wikipedia.org/wiki/Property_Management_Office%2C_Chulalongkorn_University",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Queen Saovabha Memorial Institute",
+          "th": "Queen Saovabha Memorial Institute",
+          "url": "https://en.wikipedia.org/wiki/Queen_Saovabha_Memorial_Institute",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Pathumwan Institute of Technology",
+          "th": "Pathumwan Institute of Technology",
+          "url": "https://en.wikipedia.org/wiki/Pathumwan_Institute_of_Technology",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Rajamangala University of Technology Tawan-ok",
+          "th": "Rajamangala University of Technology Tawan-ok",
+          "url": "https://en.wikipedia.org/wiki/Rajamangala_University_of_Technology_Tawan-ok",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Triam Udom Suksa School",
+          "th": "Triam Udom Suksa School",
+          "url": "https://en.wikipedia.org/wiki/Triam_Udom_Suksa_School",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Chulalongkorn University Demonstration School",
+          "th": "Chulalongkorn University Demonstration School",
+          "url": "https://en.wikipedia.org/wiki/Chulalongkorn_University_Demonstration_School",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Patumwan Demonstration School",
+          "th": "Patumwan Demonstration School",
+          "url": "https://en.wikipedia.org/wiki/Patumwan_Demonstration_School%2C_Srinakharinwirot_University",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Mater Dei School",
+          "th": "Mater Dei School",
+          "url": "https://en.wikipedia.org/wiki/Mater_Dei_School_(Thailand)",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Chulalongkorn University Centenary Park",
+          "th": "Chulalongkorn University Centenary Park",
+          "url": "https://en.wikipedia.org/wiki/Chulalongkorn_University_Centenary_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Auditorium, Chulalongkorn University",
+          "th": "Auditorium, Chulalongkorn University",
+          "url": "https://en.wikipedia.org/wiki/Chulalongkorn_University_Auditorium",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "King Chulalongkorn Memorial Hospital",
+          "th": "King Chulalongkorn Memorial Hospital",
+          "url": "https://en.wikipedia.org/wiki/King_Chulalongkorn_Memorial_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Police General Hospital",
+          "th": "Police General Hospital",
+          "url": "https://en.wikipedia.org/wiki/Police_General_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        }
+      ],
+      "shopping": [
+        {
+          "en": "Siam area",
+          "th": "Siam area",
+          "url": "https://en.wikipedia.org/wiki/Siam_area",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Siam Square",
+          "th": "Siam Square",
+          "url": "https://en.wikipedia.org/wiki/Siam_Square",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Siam",
+          "th": "Siam",
+          "url": "https://en.wikipedia.org/wiki/Siam_area",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Siam Inter-Continental Hotel",
+          "th": "Siam Inter-Continental Hotel",
+          "url": "https://en.wikipedia.org/wiki/Siam_Inter-Continental_Hotel",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Siam Center",
+          "th": "Siam Center",
+          "url": "https://en.wikipedia.org/wiki/Siam_Center",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Siam station",
+          "th": "Siam station",
+          "url": "https://en.wikipedia.org/wiki/Siam_station",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "MBK Center",
+          "th": "MBK Center",
+          "url": "https://en.wikipedia.org/wiki/MBK_Center",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Siam Discovery",
+          "th": "Siam Discovery",
+          "url": "https://en.wikipedia.org/wiki/Siam_Discovery",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Siam Paragon",
+          "th": "Siam Paragon",
+          "url": "https://en.wikipedia.org/wiki/Siam_Paragon",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Central Group",
+          "th": "Central Group",
+          "url": "https://en.wikipedia.org/wiki/Central_Group",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Krung Thep Aphiwat Central Terminal",
+          "th": "Krung Thep Aphiwat Central Terminal",
+          "url": "https://en.wikipedia.org/wiki/Krung_Thep_Aphiwat_Central_Terminal",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "central station",
+          "th": "central station",
+          "url": "https://en.wikipedia.org/wiki/central_station",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        }
+      ],
+      "parks": [
+        {
+          "en": "Lumphini Park",
+          "th": "Lumphini Park",
+          "url": "https://en.wikipedia.org/wiki/Lumphini_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        },
+        {
+          "en": "Pathumwananurak Park",
+          "th": "Pathumwananurak Park",
+          "url": "https://en.wikipedia.org/wiki/Pathumwananurak_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Pathum_Wan_district"
+        }
+      ],
+      "other_sample": [
+        "CentralWorld",
+        "BigC",
+        "Gaysorn",
+        "Bangkok Art and Culture Centre",
+        "Jim Thompson House",
+        "traditional Thai house",
+        "the designer",
+        "Erawan Shrine",
+        "Grand Hyatt Erawan",
+        "deadliest terrorist attack"
+      ]
+    },
+    "phasi-charoen": {
+      "wiki": "https://en.wikipedia.org/wiki/Phasi_Charoen_district",
+      "schools": [
+        {
+          "en": "Siam University",
+          "th": "Siam University",
+          "url": "https://en.wikipedia.org/wiki/Siam_University",
+          "source_page": "https://en.wikipedia.org/wiki/Phasi_Charoen_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Khlong Bang Luang Floating Market",
+          "th": "Khlong Bang Luang Floating Market",
+          "url": "https://en.wikipedia.org/wiki/Khlong_Bang_Luang_Floating_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Phasi_Charoen_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": [
+        "Wat Pak Nam Phasi Charoen",
+        "Wat Apson Sawan",
+        "Wat Nak Prok",
+        "Wat Nang Chi Worawihan",
+        "Wat Nuan Noradit Worawihan",
+        "Wat Nimmanoradi",
+        "Wat Kamphaeng Bangchak",
+        "Wat Khuha Sawan",
+        "Wat Chan Pradittharam",
+        "Wat Ko Non"
+      ]
+    },
+    "phaya-thai": {
+      "wiki": "https://en.wikipedia.org/wiki/Phaya_Thai_district",
+      "schools": [],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [
+        {
+          "en": "Sanam Pao",
+          "th": "Sanam Pao",
+          "url": "https://en.wikipedia.org/wiki/Sanam_Pao_BTS_Station",
+          "source_page": "https://en.wikipedia.org/wiki/Phaya_Thai_district"
+        }
+      ],
+      "other_sample": [
+        "Government Savings Bank",
+        "Ministry of Finance",
+        "Ministry of Natural Resources and Environment",
+        "Royal Thai Army",
+        "Army Stadium",
+        "Channel 5",
+        "Saphan Khwai",
+        "BigC",
+        "Thai Philatelic Museum",
+        "philatelists"
+      ]
+    },
+    "phra-khanong": {
+      "wiki": "https://en.wikipedia.org/wiki/Phra_Khanong_district",
+      "schools": [
+        {
+          "en": "Anglo Singapore International School",
+          "th": "Anglo Singapore International School",
+          "url": "https://en.wikipedia.org/wiki/Anglo_Singapore_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+        },
+        {
+          "en": "Wells International School",
+          "th": "Wells International School",
+          "url": "https://en.wikipedia.org/wiki/Wells_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+        },
+        {
+          "en": "Siam Culinary Academy",
+          "th": "Siam Culinary Academy",
+          "url": "https://en.wikipedia.org/wiki/Siam_Culinary_Academy",
+          "source_page": "https://en.wikipedia.org/wiki/Phra_Khanong_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [],
+      "other_sample": [
+        "chedi",
+        "Mahabodhi Temple",
+        "Bodh Gaya",
+        "India",
+        "jade",
+        "Kuan Yin",
+        "Songkran",
+        "BTS Skytrain",
+        "Chef Lucas Baking Studio",
+        "Chef Lucas Baking Studio"
+      ]
+    },
+    "phra-nakhon": {
+      "wiki": "https://en.wikipedia.org/wiki/Phra_Nakhon_district",
+      "schools": [
+        {
+          "en": "Thammasat University",
+          "th": "Thammasat University",
+          "url": "https://en.wikipedia.org/wiki/Thammasat_University",
+          "source_page": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+        },
+        {
+          "en": "Silpakorn University",
+          "th": "Silpakorn University",
+          "url": "https://en.wikipedia.org/wiki/Silpakorn_University",
+          "source_page": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [
+        {
+          "en": "Sanam Luang",
+          "th": "Sanam Luang",
+          "url": "https://en.wikipedia.org/wiki/Sanam_Luang",
+          "source_page": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+        },
+        {
+          "en": "Santichaiphrakarn",
+          "th": "Santichaiphrakarn",
+          "url": "https://en.wikipedia.org/wiki/Santi_Chai_Prakan_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Phra_Nakhon_district"
+        }
+      ],
+      "other_sample": []
+    },
+    "pom-prap-sattru-phai": {
+      "wiki": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district",
+      "schools": [
+        {
+          "en": "Debsirin School",
+          "th": "Debsirin School",
+          "url": "https://en.wikipedia.org/wiki/Debsirin_School",
+          "source_page": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Nang Loeng Market",
+          "th": "Nang Loeng Market",
+          "url": "https://en.wikipedia.org/wiki/Talat_Nang_Loeng",
+          "source_page": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district"
+        },
+        {
+          "en": "Bobae Market",
+          "th": "Bobae Market",
+          "url": "https://en.wikipedia.org/wiki/Bobae_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district"
+        },
+        {
+          "en": "its participation",
+          "th": "its participation",
+          "url": "https://en.wikipedia.org/wiki/Siam_in_World_War_I",
+          "source_page": "https://en.wikipedia.org/wiki/Pom_Prap_Sattru_Phai_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": [
+        "Wat Saket",
+        "chedi",
+        "Rama III",
+        "Rama V",
+        "Wat Mangkon Kamalawat",
+        "Mahayana",
+        "Bangkok's Chinatown",
+        "Chinese New Year",
+        "Chinese Vegetarian Food Festival",
+        "Ghost Festival"
+      ]
+    },
+    "prawet": {
+      "wiki": "https://en.wikipedia.org/wiki/Prawet_district",
+      "schools": [
+        {
+          "en": "Pan-Asia International School",
+          "th": "Pan-Asia International School",
+          "url": "https://en.wikipedia.org/wiki/Pan-Asia_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Prawet_district"
+        },
+        {
+          "en": "Wells International School",
+          "th": "Wells International School",
+          "url": "https://en.wikipedia.org/wiki/Wells_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Prawet_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [
+        {
+          "en": "Paradise Park",
+          "th": "Paradise Park",
+          "url": "https://en.wikipedia.org/wiki/Paradise_Park_(mall)",
+          "source_page": "https://en.wikipedia.org/wiki/Prawet_district"
+        },
+        {
+          "en": "PTT Metro Forest Learning Center",
+          "th": "PTT Metro Forest Learning Center",
+          "url": "https://en.wikipedia.org/wiki/Metro_Forest",
+          "source_page": "https://en.wikipedia.org/wiki/Prawet_district"
+        },
+        {
+          "en": "Suan Wanatham Park",
+          "th": "Suan Wanatham Park",
+          "url": "https://en.wikipedia.org/wiki/Suan_Wanatham_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Prawet_district"
+        }
+      ],
+      "other_sample": [
+        "Seacon Square",
+        "Srinagarindra Road",
+        "Ban Thap Chang Station",
+        "State Railway of Thailand",
+        "eastern line",
+        "airport rail link",
+        "MRT Yellow Line",
+        "Srinagarindra",
+        "Srinagarindra 38",
+        "Suan Luang Rama IX"
+      ]
+    },
+    "rat-burana": {
+      "wiki": "https://en.wikipedia.org/wiki/Rat_Burana_district",
+      "schools": [],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [],
+      "other_sample": []
+    },
+    "ratchathewi": {
+      "wiki": "https://en.wikipedia.org/wiki/Ratchathewi_district",
+      "schools": [
+        {
+          "en": "Queen Sirikit National Institute of Child Health",
+          "th": "Queen Sirikit National Institute of Child Health",
+          "url": "https://en.wikipedia.org/wiki/Queen_Sirikit_National_Institute_of_Child_Health",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Mahidol University",
+          "th": "Mahidol University",
+          "url": "https://en.wikipedia.org/wiki/Mahidol_University",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Faculty of Dentistry",
+          "th": "Faculty of Dentistry",
+          "url": "https://en.wikipedia.org/wiki/Faculty_of_Dentistry%2C_Mahidol_University",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Faculty of Science",
+          "th": "Faculty of Science",
+          "url": "https://en.wikipedia.org/wiki/Faculty_of_Science%2C_Mahidol_University",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Faculty of Tropical Medicine",
+          "th": "Faculty of Tropical Medicine",
+          "url": "https://en.wikipedia.org/wiki/Faculty_of_Tropical_Medicine%2C_Mahidol_University",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "College of Medicine, Rangsit University",
+          "th": "College of Medicine, Rangsit University",
+          "url": "https://en.wikipedia.org/wiki/College_of_Medicine%2C_Rangsit_University",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Phramongkutklao College of Medicine",
+          "th": "Phramongkutklao College of Medicine",
+          "url": "https://en.wikipedia.org/wiki/Phramongkutklao_College_of_Medicine",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Royal Thai Army Nursing College",
+          "th": "Royal Thai Army Nursing College",
+          "url": "https://en.wikipedia.org/wiki/Royal_Thai_Army_Nursing_College",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Rajabhat University",
+          "th": "Rajabhat University",
+          "url": "https://en.wikipedia.org/wiki/Rajabhat_University",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Indonesian School of Bangkok",
+          "th": "Indonesian School of Bangkok",
+          "url": "https://en.wikipedia.org/wiki/Indonesian_School_of_Bangkok",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Amnuay Silpa School",
+          "th": "Amnuay Silpa School",
+          "url": "https://en.wikipedia.org/wiki/Amnuay_Silpa_School",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "boys' school",
+          "th": "boys' school",
+          "url": "https://en.wikipedia.org/wiki/boys'_school",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Ramathibodi Hospital",
+          "th": "Ramathibodi Hospital",
+          "url": "https://en.wikipedia.org/wiki/Ramathibodi_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Phramongkutklao Hospital",
+          "th": "Phramongkutklao Hospital",
+          "url": "https://en.wikipedia.org/wiki/Phramongkutklao_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Rajavithi Hospital",
+          "th": "Rajavithi Hospital",
+          "url": "https://en.wikipedia.org/wiki/Rajavithi_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Hospital for Tropical Diseases",
+          "th": "Hospital for Tropical Diseases",
+          "url": "https://en.wikipedia.org/wiki/Hospital_for_Tropical_Diseases_(Thailand)",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Phyathai 1 Hospital",
+          "th": "Phyathai 1 Hospital",
+          "url": "https://en.wikipedia.org/wiki/Phyathai_1_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        },
+        {
+          "en": "Faculty of Medicine Ramathibodi Hospital",
+          "th": "Faculty of Medicine Ramathibodi Hospital",
+          "url": "https://en.wikipedia.org/wiki/Faculty_of_Medicine_Ramathibodi_Hospital%2C_Mahidol_University",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        }
+      ],
+      "shopping": [
+        {
+          "en": "Siam Commercial Bank",
+          "th": "Siam Commercial Bank",
+          "url": "https://en.wikipedia.org/wiki/Siam_Commercial_Bank",
+          "source_page": "https://en.wikipedia.org/wiki/Ratchathewi_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": [
+        "BTS skytrain",
+        "Ratchathewi",
+        "Phaya Thai",
+        "Victory Monument",
+        "MRT",
+        "Phetchaburi",
+        "Airport Rail Link",
+        "Phaya Thai",
+        "Ratchaprarop",
+        "Makkasan"
+      ]
+    },
+    "sathon": {
+      "wiki": "https://en.wikipedia.org/wiki/Sathon_district",
+      "schools": [
+        {
+          "en": "Assumption College Primary Section",
+          "th": "Assumption College Primary Section",
+          "url": "https://en.wikipedia.org/wiki/Assumption_College_Primary_Section",
+          "source_page": "https://en.wikipedia.org/wiki/Sathon_district"
+        },
+        {
+          "en": "Garden International School Bangkok",
+          "th": "Garden International School Bangkok",
+          "url": "https://en.wikipedia.org/wiki/Garden_International_School_Bangkok",
+          "source_page": "https://en.wikipedia.org/wiki/Sathon_district"
+        },
+        {
+          "en": "Rajamangala University of Technology Krungthep",
+          "th": "Rajamangala University of Technology Krungthep",
+          "url": "https://en.wikipedia.org/wiki/Rajamangala_University_of_Technology",
+          "source_page": "https://en.wikipedia.org/wiki/Sathon_district"
+        },
+        {
+          "en": "Wat Suthiwararam School",
+          "th": "Wat Suthiwararam School",
+          "url": "https://en.wikipedia.org/wiki/Wat_Suthiwararam_School",
+          "source_page": "https://en.wikipedia.org/wiki/Sathon_district"
+        },
+        {
+          "en": "Satri Si Suriyothai School",
+          "th": "Satri Si Suriyothai School",
+          "url": "https://en.wikipedia.org/wiki/Satri_Si_Suriyothai_School",
+          "source_page": "https://en.wikipedia.org/wiki/Sathon_district"
+        },
+        {
+          "en": "Saint Louis College (Bangkok)",
+          "th": "Saint Louis College (Bangkok)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Louis_College_(Bangkok)",
+          "source_page": "https://en.wikipedia.org/wiki/Sathon_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [],
+      "other_sample": [
+        "Wat Yannawa",
+        "Chinese junk",
+        "Wat Yannawa",
+        "temple",
+        "Ayutthaya",
+        "junk",
+        "chedi",
+        "viharn",
+        "King Rama III",
+        "Thonburi"
+      ]
+    },
+    "suan-luang": {
+      "wiki": "https://en.wikipedia.org/wiki/Suan_Luang_district",
+      "schools": [
+        {
+          "en": "St. Mark's International School Bangkok",
+          "th": "St. Mark's International School Bangkok",
+          "url": "https://en.wikipedia.org/wiki/St._Mark's_International_School_Bangkok",
+          "source_page": "https://en.wikipedia.org/wiki/Suan_Luang_district"
+        },
+        {
+          "en": "Thai-Nichi Institute of Technology",
+          "th": "Thai-Nichi Institute of Technology",
+          "url": "https://en.wikipedia.org/wiki/Thai-Nichi_Institute_of_Technology",
+          "source_page": "https://en.wikipedia.org/wiki/Suan_Luang_district"
+        },
+        {
+          "en": "Triam Udom Suksa Pattanakarn School",
+          "th": "Triam Udom Suksa Pattanakarn School",
+          "url": "https://en.wikipedia.org/wiki/Triam_Udom_Suksa_Pattanakarn_School",
+          "source_page": "https://en.wikipedia.org/wiki/Suan_Luang_district"
+        },
+        {
+          "en": "Asokwit Onnut School",
+          "th": "Asokwit Onnut School",
+          "url": "https://en.wikipedia.org/wiki/Asokwit_Onnut_School",
+          "source_page": "https://en.wikipedia.org/wiki/Suan_Luang_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [],
+      "other_sample": [
+        "Mae Nak",
+        "Nang Nak"
+      ]
+    },
+    "taling-chan": {
+      "wiki": "https://en.wikipedia.org/wiki/Taling_Chan_district",
+      "schools": [],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Wat Champa Floating Market",
+          "th": "Wat Champa Floating Market",
+          "url": "https://en.wikipedia.org/wiki/Wat_Champa",
+          "source_page": "https://en.wikipedia.org/wiki/Taling_Chan_district"
+        }
+      ],
+      "parks": [
+        {
+          "en": "muddy mangrove forests",
+          "th": "muddy mangrove forests",
+          "url": "https://en.wikipedia.org/wiki/Chao_Phraya_freshwater_swamp_forests",
+          "source_page": "https://en.wikipedia.org/wiki/Taling_Chan_district"
+        }
+      ],
+      "other_sample": [
+        "canal",
+        "Khlong Chak Phra",
+        "fruit",
+        "vegetable",
+        "fish",
+        "boat",
+        "Chamlong Srimuang",
+        "Bhumibol",
+        "homestay",
+        "cultural tourism"
+      ]
+    },
+    "thawi-watthana": {
+      "wiki": "https://en.wikipedia.org/wiki/Thawi_Watthana_district",
+      "schools": [
+        {
+          "en": "Bangkokthonburi University",
+          "th": "Bangkokthonburi University",
+          "url": "https://en.wikipedia.org/wiki/Bangkokthonburi_University",
+          "source_page": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
+        },
+        {
+          "en": "private university",
+          "th": "private university",
+          "url": "https://en.wikipedia.org/wiki/private_university",
+          "source_page": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
+        },
+        {
+          "en": "Thongsook College",
+          "th": "Thongsook College",
+          "url": "https://en.wikipedia.org/wiki/Thongsook_College",
+          "source_page": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Thonburi Hospital",
+          "th": "Thonburi Hospital",
+          "url": "https://en.wikipedia.org/wiki/Thonburi_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
+        },
+        {
+          "en": "first private hospital",
+          "th": "first private hospital",
+          "url": "https://en.wikipedia.org/wiki/List_of_hospitals_in_Thailand",
+          "source_page": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
+        }
+      ],
+      "shopping": [
+        {
+          "en": "Thonburi Market",
+          "th": "Thonburi Market",
+          "url": "https://en.wikipedia.org/wiki/Thonburi_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
+        },
+        {
+          "en": "night market",
+          "th": "night market",
+          "url": "https://en.wikipedia.org/wiki/night_market",
+          "source_page": "https://en.wikipedia.org/wiki/Thawi_Watthana_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": [
+        "Utthayan Road",
+        "Phutthamonthon",
+        "Plaek Pibulsonggram",
+        "prime minister",
+        "Khao Manee",
+        "odd-eyed",
+        "Chulalongkorn",
+        "Boromratchonnanee Road",
+        "rai",
+        "film poster"
+      ]
+    },
+    "thon-buri": {
+      "wiki": "https://en.wikipedia.org/wiki/Thon_Buri_district",
+      "schools": [],
+      "hospitals": [
+        {
+          "en": "Somdech Phra Pinklao Hospital",
+          "th": "Somdech Phra Pinklao Hospital",
+          "url": "https://en.wikipedia.org/wiki/Somdech_Phra_Pinklao_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Thon_Buri_district"
+        }
+      ],
+      "shopping": [],
+      "parks": [],
+      "other_sample": [
+        "Taksin",
+        "Wongwian Yai",
+        "Wat Kanlayanamit",
+        "Wat Intharam",
+        "Wat Prayurawongsawat",
+        "First Presbyterian Church, Samray",
+        "Chao Phraya River",
+        "BTS Skytrain",
+        "Silom Line",
+        "Wongwian Yai station"
+      ]
+    },
+    "thung-khru": {
+      "wiki": "https://en.wikipedia.org/wiki/Thung_Khru_district",
+      "schools": [
+        {
+          "en": "King Mongkut's University of Technology Thonburi",
+          "th": "King Mongkut's University of Technology Thonburi",
+          "url": "https://en.wikipedia.org/wiki/King_Mongkut's_University_of_Technology_Thonburi",
+          "source_page": "https://en.wikipedia.org/wiki/Thung_Khru_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [
+        {
+          "en": "Thonburirom Park",
+          "th": "Thonburirom Park",
+          "url": "https://en.wikipedia.org/wiki/Thonburirom_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Thung_Khru_district"
+        }
+      ],
+      "other_sample": [
+        "72nd Anniversary Stadium (Bang Mod)"
+      ]
+    },
+    "wang-thonglang": {
+      "wiki": "https://en.wikipedia.org/wiki/Wang_Thonglang_district",
+      "schools": [
+        {
+          "en": "Bodindecha (Sing Singhaseni) School",
+          "th": "Bodindecha (Sing Singhaseni) School",
+          "url": "https://en.wikipedia.org/wiki/Bodindecha_(Sing_Singhaseni)_School",
+          "source_page": "https://en.wikipedia.org/wiki/Wang_Thonglang_district"
+        },
+        {
+          "en": "Singapore International School of Bangkok",
+          "th": "Singapore International School of Bangkok",
+          "url": "https://en.wikipedia.org/wiki/Singapore_International_School_of_Bangkok",
+          "source_page": "https://en.wikipedia.org/wiki/Wang_Thonglang_district"
+        },
+        {
+          "en": "Regent's International School, Bangkok",
+          "th": "Regent's International School, Bangkok",
+          "url": "https://en.wikipedia.org/wiki/Regent's_International_School%2C_Bangkok",
+          "source_page": "https://en.wikipedia.org/wiki/Wang_Thonglang_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [],
+      "other_sample": [
+        "Lycée Français International de Bangkok",
+        "Lycée Français International de Bangkok",
+        "Yellow Line",
+        "MRTA",
+        "Chok Chai 4",
+        "Lat Phrao 71",
+        "Lat Phrao 83",
+        "Mahat Thai",
+        "Khlong Saen Saep boat service",
+        "Khlong Saen Saep"
+      ]
+    },
+    "watthana": {
+      "wiki": "https://en.wikipedia.org/wiki/Watthana_district",
+      "schools": [
+        {
+          "en": "The American School of Bangkok",
+          "th": "The American School of Bangkok",
+          "url": "https://en.wikipedia.org/wiki/The_American_School_of_Bangkok",
+          "source_page": "https://en.wikipedia.org/wiki/Watthana_district"
+        },
+        {
+          "en": "Anglo Singapore International School",
+          "th": "Anglo Singapore International School",
+          "url": "https://en.wikipedia.org/wiki/Anglo_Singapore_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Watthana_district"
+        },
+        {
+          "en": "Ekamai International School",
+          "th": "Ekamai International School",
+          "url": "https://en.wikipedia.org/wiki/Ekamai_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Watthana_district"
+        },
+        {
+          "en": "NIST International School",
+          "th": "NIST International School",
+          "url": "https://en.wikipedia.org/wiki/NIST_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Watthana_district"
+        },
+        {
+          "en": "Srinakharinwirot University",
+          "th": "Srinakharinwirot University",
+          "url": "https://en.wikipedia.org/wiki/Srinakharinwirot_University",
+          "source_page": "https://en.wikipedia.org/wiki/Watthana_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Bumrungrad International Hospital",
+          "th": "Bumrungrad International Hospital",
+          "url": "https://en.wikipedia.org/wiki/Bumrungrad_International_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Watthana_district"
+        },
+        {
+          "en": "Camillian Hospital",
+          "th": "Camillian Hospital",
+          "url": "https://en.wikipedia.org/wiki/Camillian_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Watthana_district"
+        }
+      ],
+      "shopping": [
+        {
+          "en": "Terminal 21",
+          "th": "Terminal 21",
+          "url": "https://en.wikipedia.org/wiki/Terminal_21",
+          "source_page": "https://en.wikipedia.org/wiki/Watthana_district"
+        },
+        {
+          "en": "EmQuartier",
+          "th": "EmQuartier",
+          "url": "https://en.wikipedia.org/wiki/EmQuartier",
+          "source_page": "https://en.wikipedia.org/wiki/Watthana_district"
+        },
+        {
+          "en": "Emporium",
+          "th": "Emporium",
+          "url": "https://en.wikipedia.org/wiki/Emporium_(Bangkok)",
+          "source_page": "https://en.wikipedia.org/wiki/Watthana_district"
+        },
+        {
+          "en": "The Mall Group",
+          "th": "The Mall Group",
+          "url": "https://en.wikipedia.org/wiki/The_Mall_Group",
+          "source_page": "https://en.wikipedia.org/wiki/Watthana_district"
+        },
+        {
+          "en": "Siam Society",
+          "th": "Siam Society",
+          "url": "https://en.wikipedia.org/wiki/Siam_Society",
+          "source_page": "https://en.wikipedia.org/wiki/Watthana_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": [
+        "Sukhumvit Road",
+        "Khlong Saen Saep",
+        "condominium",
+        "Expatriate",
+        "Bangkok Skytrain"
+      ]
+    },
+    "yan-nawa": {
+      "wiki": "https://en.wikipedia.org/wiki/Yan_Nawa_district",
+      "schools": [
+        {
+          "en": "Nonsi Witthaya School",
+          "th": "Nonsi Witthaya School",
+          "url": "https://en.wikipedia.org/wiki/Nonsi_Witthaya_School",
+          "source_page": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Central Plaza Rama III",
+          "th": "Central Plaza Rama III",
+          "url": "https://en.wikipedia.org/wiki/Central_Plaza_Rama_III",
+          "source_page": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+        }
+      ],
+      "parks": [
+        {
+          "en": "mangrove forest",
+          "th": "mangrove forest",
+          "url": "https://en.wikipedia.org/wiki/mangrove_forest",
+          "source_page": "https://en.wikipedia.org/wiki/Yan_Nawa_district"
+        }
+      ],
+      "other_sample": [
+        "Rama IX Bridge",
+        "cable-stayed bridge",
+        "Bhumibol Bridge",
+        "Wat Chong Nonsi",
+        "Wat Pho Maen Khunaram"
+      ]
+    },
+    "bang-khen": {
+      "wiki": "https://en.wikipedia.org/wiki/Bang_Khen_district",
+      "schools": [
+        {
+          "en": "Phranakhon Rajabhat University,",
+          "th": "Phranakhon Rajabhat University,",
+          "url": "https://en.wikipedia.org/wiki/Bang_Khen_district",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Khen_district"
+        },
+        {
+          "en": "Rattanakosin Somphot Bangkhen School,",
+          "th": "Rattanakosin Somphot Bangkhen School,",
+          "url": "https://en.wikipedia.org/wiki/Bang_Khen_district",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Khen_district"
+        },
+        {
+          "en": "Krirk University",
+          "th": "Krirk University",
+          "url": "https://en.wikipedia.org/wiki/Krirk_University",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Khen_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Saphan Mai Market",
+          "th": "Saphan Mai Market",
+          "url": "https://en.wikipedia.org/wiki/Saphan_Mai_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Khen_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": []
+    },
+    "bang-kho-laem": {
+      "wiki": "https://en.wikipedia.org/wiki/Bang_Kho_Laem_district",
+      "schools": [
+        {
+          "en": "Shrewsbury International School",
+          "th": "Shrewsbury International School",
+          "url": "https://en.wikipedia.org/wiki/Shrewsbury_International_School",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kho_Laem_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Charoenkrung Pracharak Hospital",
+          "th": "Charoenkrung Pracharak Hospital",
+          "url": "https://en.wikipedia.org/wiki/Charoenkrung_Pracharak_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kho_Laem_district"
+        }
+      ],
+      "shopping": [
+        {
+          "en": "waterfront market",
+          "th": "waterfront market",
+          "url": "https://en.wikipedia.org/wiki/floating_market",
+          "source_page": "https://en.wikipedia.org/wiki/Bang_Kho_Laem_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": []
+    },
+    "din-daeng": {
+      "wiki": "https://en.wikipedia.org/wiki/Din_Daeng_district",
+      "schools": [
+        {
+          "en": "University of the Thai Chamber of Commerce",
+          "th": "University of the Thai Chamber of Commerce",
+          "url": "https://en.wikipedia.org/wiki/University_of_the_Thai_Chamber_of_Commerce",
+          "source_page": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+        },
+        {
+          "en": "Surasakmontree School",
+          "th": "Surasakmontree School",
+          "url": "https://en.wikipedia.org/wiki/Surasakmontree_School",
+          "source_page": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+        },
+        {
+          "en": "National Defence College of Thailand",
+          "th": "National Defence College of Thailand",
+          "url": "https://en.wikipedia.org/wiki/National_Defence_College_of_Thailand",
+          "source_page": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [
+        {
+          "en": "Rot Fai Night Market",
+          "th": "Rot Fai Night Market",
+          "url": "https://en.wikipedia.org/wiki/Train_Night_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Din_Daeng_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": []
+    },
+    "don-mueang": {
+      "wiki": "https://en.wikipedia.org/wiki/Don_Mueang_district",
+      "schools": [
+        {
+          "en": "Harrow International School, Bangkok",
+          "th": "Harrow International School, Bangkok",
+          "url": "https://en.wikipedia.org/wiki/Harrow_International_School%2C_Bangkok",
+          "source_page": "https://en.wikipedia.org/wiki/Don_Mueang_district"
+        }
+      ],
+      "hospitals": [],
+      "shopping": [],
+      "parks": [],
+      "other_sample": []
+    },
+    "nong-chok": {
+      "wiki": "https://en.wikipedia.org/wiki/Nong_Chok_district",
+      "schools": [
+        {
+          "en": "Mahanakorn University of Technology",
+          "th": "Mahanakorn University of Technology",
+          "url": "https://en.wikipedia.org/wiki/Mahanakorn_University_of_Technology",
+          "source_page": "https://en.wikipedia.org/wiki/Nong_Chok_district"
+        },
+        {
+          "en": "Korean International School of Bangkok",
+          "th": "Korean International School of Bangkok",
+          "url": "https://en.wikipedia.org/wiki/Korean_International_School_of_Bangkok",
+          "source_page": "https://en.wikipedia.org/wiki/Nong_Chok_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Wetchakarunrasm Hospital",
+          "th": "Wetchakarunrasm Hospital",
+          "url": "https://en.wikipedia.org/wiki/Wetchakarunrasm_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Nong_Chok_district"
+        }
+      ],
+      "shopping": [],
+      "parks": [
+        {
+          "en": "Nong Chok Park",
+          "th": "Nong Chok Park",
+          "url": "https://en.wikipedia.org/wiki/Nong_Chok_Park",
+          "source_page": "https://en.wikipedia.org/wiki/Nong_Chok_district"
+        }
+      ],
+      "other_sample": []
+    },
+    "sai-mai": {
+      "wiki": "https://en.wikipedia.org/wiki/Sai_Mai_district",
+      "schools": [
+        {
+          "en": "Navaminda Kasatriyadhiraj Royal Thai Air Force Academy",
+          "th": "Navaminda Kasatriyadhiraj Royal Thai Air Force Academy",
+          "url": "https://en.wikipedia.org/wiki/Navaminda_Kasatriyadhiraj_Royal_Thai_Air_Force_Academy",
+          "source_page": "https://en.wikipedia.org/wiki/Sai_Mai_district"
+        },
+        {
+          "en": "Rittiyawannalai School",
+          "th": "Rittiyawannalai School",
+          "url": "https://en.wikipedia.org/wiki/Rittiyawannalai_School",
+          "source_page": "https://en.wikipedia.org/wiki/Sai_Mai_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Bhumibol Adulyadej Hospital",
+          "th": "Bhumibol Adulyadej Hospital",
+          "url": "https://en.wikipedia.org/wiki/Bhumibol_Adulyadej_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Sai_Mai_district"
+        }
+      ],
+      "shopping": [],
+      "parks": [],
+      "other_sample": []
+    },
+    "samphanthawong": {
+      "wiki": "https://en.wikipedia.org/wiki/Samphanthawong_district",
+      "schools": [],
+      "hospitals": [
+        {
+          "en": "Thien Fah Foundation",
+          "th": "Thien Fah Foundation",
+          "url": "https://en.wikipedia.org/wiki/Thian_Fah_Foundation_Hospital",
+          "source_page": "https://en.wikipedia.org/wiki/Samphanthawong_district"
+        }
+      ],
+      "shopping": [
+        {
+          "en": "Khlong Thom Market",
+          "th": "Khlong Thom Market",
+          "url": "https://en.wikipedia.org/wiki/Khlong_Thom_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Samphanthawong_district"
+        },
+        {
+          "en": "Thieves' Market",
+          "th": "Thieves' Market",
+          "url": "https://en.wikipedia.org/wiki/Thieves'_Market",
+          "source_page": "https://en.wikipedia.org/wiki/Samphanthawong_district"
+        }
+      ],
+      "parks": [],
+      "other_sample": []
+    },
+    "saphan-sung": {
+      "wiki": "https://en.wikipedia.org/wiki/Saphan_Sung_district",
+      "schools": [
+        {
+          "en": "Triam Udom Suksa Nomklao School",
+          "th": "Triam Udom Suksa Nomklao School",
+          "url": "https://en.wikipedia.org/wiki/Saphan_Sung_district",
+          "source_page": "https://en.wikipedia.org/wiki/Saphan_Sung_district"
+        },
+        {
+          "en": "Surao Thap Chang Khlong Bon School",
+          "th": "Surao Thap Chang Khlong Bon School",
+          "url": "https://en.wikipedia.org/wiki/Saphan_Sung_district",
+          "source_page": "https://en.wikipedia.org/wiki/Saphan_Sung_district"
+        },
+        {
+          "en": "Kaset New Theory School",
+          "th": "Kaset New Theory School",
+          "url": "https://en.wikipedia.org/wiki/Saphan_Sung_district",
+          "source_page": "https://en.wikipedia.org/wiki/Saphan_Sung_district"
+        },
+        {
+          "en": "Sri Phruehta School",
+          "th": "Sri Phruehta School",
+          "url": "https://en.wikipedia.org/wiki/Saphan_Sung_district",
+          "source_page": "https://en.wikipedia.org/wiki/Saphan_Sung_district"
+        }
+      ],
+      "hospitals": [
+        {
+          "en": "Ramkhamhaeng Hospital 2",
+          "th": "Ramkhamhaeng Hospital 2",
+          "url": "https://en.wikipedia.org/wiki/Saphan_Sung_district",
+          "source_page": "https://en.wikipedia.org/wiki/Saphan_Sung_district"
+        }
+      ],
+      "shopping": [],
+      "parks": [],
+      "other_sample": []
+    }
+  },
+  "summary": {
+    "bang-bon": {
+      "schools": 2,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 1
+    },
+    "bang-kapi": {
+      "schools": 7,
+      "hospitals": 1,
+      "shopping": 8,
+      "parks": 1
+    },
+    "bang-khae": {
+      "schools": 0,
+      "hospitals": 0,
+      "shopping": 1,
+      "parks": 0
+    },
+    "bang-khun-thian": {
+      "schools": 1,
+      "hospitals": 0,
+      "shopping": 3,
+      "parks": 1
+    },
+    "bang-na": {
+      "schools": 0,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 0
+    },
+    "bang-phlat": {
+      "schools": 0,
+      "hospitals": 1,
+      "shopping": 0,
+      "parks": 1
+    },
+    "bang-rak": {
+      "schools": 6,
+      "hospitals": 3,
+      "shopping": 0,
+      "parks": 0
+    },
+    "bang-sue": {
+      "schools": 0,
+      "hospitals": 0,
+      "shopping": 1,
+      "parks": 0
+    },
+    "bangkok-noi": {
+      "schools": 1,
+      "hospitals": 1,
+      "shopping": 2,
+      "parks": 0
+    },
+    "bangkok-yai": {
+      "schools": 10,
+      "hospitals": 0,
+      "shopping": 1,
+      "parks": 0
+    },
+    "bueng-kum": {
+      "schools": 0,
+      "hospitals": 0,
+      "shopping": 1,
+      "parks": 1
+    },
+    "chatuchak": {
+      "schools": 6,
+      "hospitals": 0,
+      "shopping": 9,
+      "parks": 7
+    },
+    "chom-thong": {
+      "schools": 0,
+      "hospitals": 0,
+      "shopping": 1,
+      "parks": 1
+    },
+    "dusit": {
+      "schools": 1,
+      "hospitals": 2,
+      "shopping": 0,
+      "parks": 3
+    },
+    "huai-khwang": {
+      "schools": 4,
+      "hospitals": 1,
+      "shopping": 2,
+      "parks": 0
+    },
+    "khan-na-yao": {
+      "schools": 0,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 1
+    },
+    "khlong-sam-wa": {
+      "schools": 0,
+      "hospitals": 0,
+      "shopping": 1,
+      "parks": 1
+    },
+    "khlong-san": {
+      "schools": 1,
+      "hospitals": 1,
+      "shopping": 1,
+      "parks": 1
+    },
+    "khlong-toei": {
+      "schools": 1,
+      "hospitals": 0,
+      "shopping": 3,
+      "parks": 2
+    },
+    "lak-si": {
+      "schools": 0,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 0
+    },
+    "lat-krabang": {
+      "schools": 3,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 2
+    },
+    "lat-phrao": {
+      "schools": 1,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 0
+    },
+    "min-buri": {
+      "schools": 4,
+      "hospitals": 0,
+      "shopping": 1,
+      "parks": 0
+    },
+    "nong-khaem": {
+      "schools": 2,
+      "hospitals": 1,
+      "shopping": 0,
+      "parks": 0
+    },
+    "pathum-wan": {
+      "schools": 12,
+      "hospitals": 2,
+      "shopping": 12,
+      "parks": 2
+    },
+    "phasi-charoen": {
+      "schools": 1,
+      "hospitals": 0,
+      "shopping": 1,
+      "parks": 0
+    },
+    "phaya-thai": {
+      "schools": 0,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 1
+    },
+    "phra-khanong": {
+      "schools": 3,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 0
+    },
+    "phra-nakhon": {
+      "schools": 2,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 2
+    },
+    "pom-prap-sattru-phai": {
+      "schools": 1,
+      "hospitals": 0,
+      "shopping": 3,
+      "parks": 0
+    },
+    "prawet": {
+      "schools": 2,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 3
+    },
+    "rat-burana": {
+      "schools": 0,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 0
+    },
+    "ratchathewi": {
+      "schools": 12,
+      "hospitals": 6,
+      "shopping": 1,
+      "parks": 0
+    },
+    "sathon": {
+      "schools": 6,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 0
+    },
+    "suan-luang": {
+      "schools": 4,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 0
+    },
+    "taling-chan": {
+      "schools": 0,
+      "hospitals": 0,
+      "shopping": 1,
+      "parks": 1
+    },
+    "thawi-watthana": {
+      "schools": 3,
+      "hospitals": 2,
+      "shopping": 2,
+      "parks": 0
+    },
+    "thon-buri": {
+      "schools": 0,
+      "hospitals": 1,
+      "shopping": 0,
+      "parks": 0
+    },
+    "thung-khru": {
+      "schools": 1,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 1
+    },
+    "wang-thonglang": {
+      "schools": 3,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 0
+    },
+    "watthana": {
+      "schools": 5,
+      "hospitals": 2,
+      "shopping": 5,
+      "parks": 0
+    },
+    "yan-nawa": {
+      "schools": 1,
+      "hospitals": 0,
+      "shopping": 1,
+      "parks": 1
+    },
+    "bang-khen": {
+      "schools": 3,
+      "hospitals": 0,
+      "shopping": 1,
+      "parks": 0
+    },
+    "bang-kho-laem": {
+      "schools": 1,
+      "hospitals": 1,
+      "shopping": 1,
+      "parks": 0
+    },
+    "din-daeng": {
+      "schools": 3,
+      "hospitals": 0,
+      "shopping": 1,
+      "parks": 0
+    },
+    "don-mueang": {
+      "schools": 1,
+      "hospitals": 0,
+      "shopping": 0,
+      "parks": 0
+    },
+    "nong-chok": {
+      "schools": 2,
+      "hospitals": 1,
+      "shopping": 0,
+      "parks": 1
+    },
+    "sai-mai": {
+      "schools": 2,
+      "hospitals": 1,
+      "shopping": 0,
+      "parks": 0
+    },
+    "samphanthawong": {
+      "schools": 0,
+      "hospitals": 1,
+      "shopping": 2,
+      "parks": 0
+    },
+    "saphan-sung": {
+      "schools": 4,
+      "hospitals": 1,
+      "shopping": 0,
+      "parks": 0
+    }
+  }
+}

@@ -73,9 +73,99 @@
       "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
     }
   ],
-  "schools": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Taweethapisek School",
+        "zh": "Taweethapisek School",
+        "th": "Taweethapisek School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Taweethapisek_School"
+    },
+    {
+      "name": {
+        "en": "Ratchadamnoen Commercial School",
+        "zh": "Ratchadamnoen Commercial School",
+        "th": "Ratchadamnoen Commercial School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Ratchadamnoen_Commercial_School"
+    },
+    {
+      "name": {
+        "en": "Wiboon Business Administration College",
+        "zh": "Wiboon Business Administration College",
+        "th": "Wiboon Business Administration College"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Wiboon_Business_Administration_College"
+    },
+    {
+      "name": {
+        "en": "Siam Technological College",
+        "zh": "Siam Technological College",
+        "th": "Siam Technological College"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_Technological_College"
+    },
+    {
+      "name": {
+        "en": "Sesawech Vidhaya School",
+        "zh": "Sesawech Vidhaya School",
+        "th": "Sesawech Vidhaya School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Sesawech_Vidhaya_School"
+    },
+    {
+      "name": {
+        "en": "Ritthinarongron School",
+        "zh": "Ritthinarongron School",
+        "th": "Ritthinarongron School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Ritthinarongron_School"
+    },
+    {
+      "name": {
+        "en": "Wat Pradu Nai Songtham School",
+        "zh": "Wat Pradu Nai Songtham School",
+        "th": "Wat Pradu Nai Songtham School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Wat_Pradu_Nai_Songtham_School"
+    },
+    {
+      "name": {
+        "en": "Bangkok Commercial School",
+        "zh": "Bangkok Commercial School",
+        "th": "Bangkok Commercial School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Bangkok_Commercial_School"
+    },
+    {
+      "name": {
+        "en": "Saiprasit School",
+        "zh": "Saiprasit School",
+        "th": "Saiprasit School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Saiprasit_School"
+    },
+    {
+      "name": {
+        "en": "Prasart Wittaya Anuchon School",
+        "zh": "Prasart Wittaya Anuchon School",
+        "th": "Prasart Wittaya Anuchon School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Prasart_Wittaya_Anuchon_School"
+    }
+  ],
   "hospitals": [],
-  "shopping": [],
+  "shopping": [
+    {
+      "name": {
+        "en": "Tha Tian",
+        "zh": "Tha Tian",
+        "th": "Tha Tian"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Tha_Tian_Market"
+    }
+  ],
   "investment_summary": {
     "en": "Bangkok Yai is an administrative district of Bangkok. This package does not include rental yields, price indices, or inventory counts — those require separately sourced market data.",
     "zh": "曼谷艾为曼谷行政区。本数据包不含租金收益率、价格指数或库存数量——该类指标需另行引用可核对的市场来源。",
@@ -108,20 +198,20 @@
     },
     "schools": {
       "field": "schools",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "hospitals": {
       "field": "hospitals",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
       },
       "verified_at": "2026-07-16",
@@ -130,20 +220,20 @@
     },
     "shopping": {
       "field": "shopping",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "parks": {
       "field": "parks",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
       },
       "verified_at": "2026-07-16",
@@ -174,13 +264,13 @@
     },
     "lifestyle": {
       "field": "lifestyle",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "wikipedia_district_page",
         "url": "https://en.wikipedia.org/wiki/Bangkok_Yai_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "office_areas": {
@@ -196,9 +286,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",
@@ -212,5 +302,13 @@
     "google_maps_url": "https://www.google.com/maps?q=13.732,100.476",
     "source": "district_package_centroid",
     "verified_at": "2026-07-16"
+  },
+  "lifestyle": {
+    "en": "Bangkok Yai is one of the 50 districts (khet) of Bangkok, Thailand.",
+    "zh": "曼谷艾（Bangkok Yai）概述依据英文维基百科该区条目公开摘要首句。",
+    "th": "บางกอกใหญ่ สรุปไลฟ์สไตล์/บริบทจากประโยคแรกของบทคัดย่อวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้",
+    "source_url": "https://en.wikipedia.org/wiki/Bangkok_Yai_district",
+    "verified_at": "2026-07-16",
+    "evidence_note": "wikipedia_extract_first_sentence"
   }
 }

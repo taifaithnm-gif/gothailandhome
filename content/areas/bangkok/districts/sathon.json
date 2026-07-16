@@ -134,6 +134,54 @@
         "th": "โรงเรียนเซนต์โยเซฟคอนเวนต์"
       },
       "source_url": "https://en.wikipedia.org/wiki/Saint_Joseph_Convent_School"
+    },
+    {
+      "name": {
+        "en": "Assumption College Primary Section",
+        "zh": "Assumption College Primary Section",
+        "th": "Assumption College Primary Section"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Assumption_College_Primary_Section"
+    },
+    {
+      "name": {
+        "en": "Garden International School Bangkok",
+        "zh": "Garden International School Bangkok",
+        "th": "Garden International School Bangkok"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Garden_International_School_Bangkok"
+    },
+    {
+      "name": {
+        "en": "Rajamangala University of Technology Krungthep",
+        "zh": "Rajamangala University of Technology Krungthep",
+        "th": "Rajamangala University of Technology Krungthep"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Rajamangala_University_of_Technology"
+    },
+    {
+      "name": {
+        "en": "Wat Suthiwararam School",
+        "zh": "Wat Suthiwararam School",
+        "th": "Wat Suthiwararam School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Wat_Suthiwararam_School"
+    },
+    {
+      "name": {
+        "en": "Satri Si Suriyothai School",
+        "zh": "Satri Si Suriyothai School",
+        "th": "Satri Si Suriyothai School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Satri_Si_Suriyothai_School"
+    },
+    {
+      "name": {
+        "en": "Saint Louis College (Bangkok)",
+        "zh": "Saint Louis College (Bangkok)",
+        "th": "Saint Louis College (Bangkok)"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Saint_Louis_College_(Bangkok)"
     }
   ],
   "hospitals": [
@@ -210,7 +258,7 @@
       "field": "schools",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Sathon_district"
       },
       "verified_at": "2026-07-16",
@@ -221,7 +269,7 @@
       "field": "hospitals",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Sathon_district"
       },
       "verified_at": "2026-07-16",
@@ -232,7 +280,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Sathon_district"
       },
       "verified_at": "2026-07-16",
@@ -243,7 +291,7 @@
       "field": "parks",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Sathon_district"
       },
       "verified_at": "2026-07-16",
@@ -296,9 +344,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

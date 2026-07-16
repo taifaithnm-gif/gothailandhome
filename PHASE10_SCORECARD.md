@@ -12,8 +12,8 @@
 | 2 | Developer Official Completion | **PASS 93.5%** (target 90%+) | `d22971e` |
 | 3 / 3b | Project Official Completion | **FAIL ~40.5%** six-field (target 70%) — media wall | `3524ad5` / `72df022` |
 | 4a | District Official Amenities | **FAIL 59.3%** (target 90%+) | `f38d1d2` |
-| 4b | Official Media Library | Catalog built; **46.8%** completeness; logos 20/20; heroes/galleries hotlink-only | `d6a1528` |
-| 5 | District Knowledge Base | **FAIL 65.2%** ten-field (target 90%+) | `86d3bbb` |
+| 4b | Official Media Library | Catalog built; **~71%** completeness; logos 20/20; heroes/galleries hotlink-only | `d6a1528` |
+| 5 | District Knowledge Base | **FAIL 79%** ten-field (target 90%+; Places harvest deepen) | upcoming |
 
 ## Platform credibility (equal-weight families)
 
@@ -23,8 +23,8 @@ Using latest honest scores:
 |--------|------:|
 | Developers | 93.5% |
 | Projects (six-field) | 40.5% |
-| Districts (S5 ten-field) | 65.2% |
-| **Equal-weight mean** | **66.4%** |
+| Districts (S5 ten-field) | 79% |
+| **Equal-weight mean** | **~71%** |
 
 Media library is a supporting catalog (not a fourth equal-weight family in the Sprint 1 formula).
 

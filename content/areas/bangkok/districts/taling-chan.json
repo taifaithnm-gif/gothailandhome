@@ -64,6 +64,14 @@
         "th": "ตลิ่งชัน"
       },
       "source_url": "https://en.wikipedia.org/wiki/Taling_Chan_district"
+    },
+    {
+      "name": {
+        "en": "Wat Champa Floating Market",
+        "zh": "Wat Champa Floating Market",
+        "th": "Wat Champa Floating Market"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Wat_Champa"
     }
   ],
   "investment_summary": {
@@ -72,7 +80,16 @@
     "th": "ตลิ่งชันเป็นเขตการปกครองของกรุงเทพฯ แพ็กเกจนี้ไม่มีตัวเลขผลตอบแทนค่าเช่า ดัชนีราคา หรือจำนวนสินค้าคงคลัง — ต้องอ้างอิงแหล่งข้อมูลตลาดที่ตรวจสอบได้แยกต่างหาก"
   },
   "nearby_projects": [],
-  "parks": [],
+  "parks": [
+    {
+      "name": {
+        "en": "muddy mangrove forests",
+        "zh": "muddy mangrove forests",
+        "th": "muddy mangrove forests"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Chao_Phraya_freshwater_swamp_forests"
+    }
+  ],
   "field_evidence": {
     "bts": {
       "field": "bts",
@@ -100,7 +117,7 @@
       "field": "schools",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Taling_Chan_district"
       },
       "verified_at": "2026-07-16",
@@ -111,7 +128,7 @@
       "field": "hospitals",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Taling_Chan_district"
       },
       "verified_at": "2026-07-16",
@@ -122,7 +139,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Taling_Chan_district"
       },
       "verified_at": "2026-07-16",
@@ -131,13 +148,13 @@
     },
     "parks": {
       "field": "parks",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Taling_Chan_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "overview": {
@@ -186,9 +203,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

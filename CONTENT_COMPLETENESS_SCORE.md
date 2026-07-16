@@ -43,5 +43,5 @@ Documentation only. No harvest, schema, UI, CRM, or deploy.
 | Projects (six-field) | 33.6% | **~40.5%** (Sprint 3b; media-blocked) |
 | Districts (S1 arrays) | 3.7% | **39%** (Sprint 4 amenities) |
 | Districts (S4 + rail absence) | — | **59.3%** |
-| Districts (S5 ten-field KB) | — | **65.2%** |
+| Districts (S5 ten-field KB) | — | **79%** |
 | Media library catalog | — | **46.8%** (Sprint 4 media) |

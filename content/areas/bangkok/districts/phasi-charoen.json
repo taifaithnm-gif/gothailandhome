@@ -91,7 +91,16 @@
       "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
     }
   ],
-  "schools": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Siam University",
+        "zh": "Siam University",
+        "th": "Siam University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_University"
+    }
+  ],
   "hospitals": [
     {
       "name": {
@@ -110,6 +119,14 @@
         "th": "เซ็นทรัล พระราม 2"
       },
       "source_url": "https://en.wikipedia.org/wiki/Phasi_Charoen_district"
+    },
+    {
+      "name": {
+        "en": "Khlong Bang Luang Floating Market",
+        "zh": "Khlong Bang Luang Floating Market",
+        "th": "Khlong Bang Luang Floating Market"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Khlong_Bang_Luang_Floating_Market"
     }
   ],
   "investment_summary": {
@@ -144,20 +161,20 @@
     },
     "schools": {
       "field": "schools",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Phasi_Charoen_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "hospitals": {
       "field": "hospitals",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Phasi_Charoen_district"
       },
       "verified_at": "2026-07-16",
@@ -168,7 +185,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Phasi_Charoen_district"
       },
       "verified_at": "2026-07-16",
@@ -179,7 +196,7 @@
       "field": "parks",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Phasi_Charoen_district"
       },
       "verified_at": "2026-07-16",
@@ -210,13 +227,13 @@
     },
     "lifestyle": {
       "field": "lifestyle",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "wikipedia_district_page",
         "url": "https://en.wikipedia.org/wiki/Phasi_Charoen_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "office_areas": {
@@ -232,9 +249,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",
@@ -248,5 +265,13 @@
     "google_maps_url": "https://www.google.com/maps?q=13.714,100.437",
     "source": "district_package_centroid",
     "verified_at": "2026-07-16"
+  },
+  "lifestyle": {
+    "en": "Phasi Charoen is one of the 50 districts (Khet) of Bangkok, Thailand.",
+    "zh": "帕西乍伦（Phasi Charoen）概述依据英文维基百科该区条目公开摘要首句。",
+    "th": "ภาษีเจริญ สรุปไลฟ์สไตล์/บริบทจากประโยคแรกของบทคัดย่อวิกิพีเดียภาษาอังกฤษสำหรับเขตนี้",
+    "source_url": "https://en.wikipedia.org/wiki/Phasi_Charoen_district",
+    "verified_at": "2026-07-16",
+    "evidence_note": "wikipedia_extract_first_sentence"
   }
 }

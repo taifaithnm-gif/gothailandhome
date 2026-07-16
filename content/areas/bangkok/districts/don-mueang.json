@@ -72,6 +72,14 @@
         "th": "ดอนเมือง"
       },
       "source_url": "https://en.wikipedia.org/wiki/Don_Mueang_district"
+    },
+    {
+      "name": {
+        "en": "Harrow International School, Bangkok",
+        "zh": "Harrow International School, Bangkok",
+        "th": "Harrow International School, Bangkok"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Harrow_International_School%2C_Bangkok"
     }
   ],
   "hospitals": [
@@ -128,7 +136,7 @@
       "field": "schools",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Don_Mueang_district"
       },
       "verified_at": "2026-07-16",
@@ -139,7 +147,7 @@
       "field": "hospitals",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Don_Mueang_district"
       },
       "verified_at": "2026-07-16",
@@ -150,7 +158,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Don_Mueang_district"
       },
       "verified_at": "2026-07-16",
@@ -161,7 +169,7 @@
       "field": "parks",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Don_Mueang_district"
       },
       "verified_at": "2026-07-16",
@@ -214,9 +222,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

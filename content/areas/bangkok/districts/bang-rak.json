@@ -125,6 +125,54 @@
         "th": "โรงเรียนอัสสัมชัญ"
       },
       "source_url": "https://en.wikipedia.org/wiki/Assumption_College_(Thailand)"
+    },
+    {
+      "name": {
+        "en": "Assumption College",
+        "zh": "Assumption College",
+        "th": "Assumption College"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Assumption_College_(Thailand)"
+    },
+    {
+      "name": {
+        "en": "Assumption Convent",
+        "zh": "Assumption Convent",
+        "th": "Assumption Convent"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Assumption_Convent_School_(Thailand)"
+    },
+    {
+      "name": {
+        "en": "Assumption Suksa",
+        "zh": "Assumption Suksa",
+        "th": "Assumption Suksa"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Assumption_Suksa_School"
+    },
+    {
+      "name": {
+        "en": "Saint Joseph Convent School",
+        "zh": "Saint Joseph Convent School",
+        "th": "Saint Joseph Convent School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Saint_Joseph_Convent_School"
+    },
+    {
+      "name": {
+        "en": "Bangkok Christian College",
+        "zh": "Bangkok Christian College",
+        "th": "Bangkok Christian College"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Bangkok_Christian_College"
+    },
+    {
+      "name": {
+        "en": "Mahapruttaram Girls' School",
+        "zh": "Mahapruttaram Girls' School",
+        "th": "Mahapruttaram Girls' School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Mahapruttaram_Girls'_School"
     }
   ],
   "hospitals": [
@@ -135,6 +183,22 @@
         "th": "โรงพยาบาลกรุงเทพคริสเตียน"
       },
       "source_url": "https://en.wikipedia.org/wiki/Bangkok_Christian_Hospital"
+    },
+    {
+      "name": {
+        "en": "Lerdsin Hospital",
+        "zh": "Lerdsin Hospital",
+        "th": "Lerdsin Hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Lerdsin_Hospital"
+    },
+    {
+      "name": {
+        "en": "BNH Hospital",
+        "zh": "BNH Hospital",
+        "th": "BNH Hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/BNH_Hospital"
     }
   ],
   "shopping": [],
@@ -184,7 +248,7 @@
       "field": "schools",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Bang_Rak_district"
       },
       "verified_at": "2026-07-16",
@@ -195,7 +259,7 @@
       "field": "hospitals",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Bang_Rak_district"
       },
       "verified_at": "2026-07-16",
@@ -206,7 +270,7 @@
       "field": "shopping",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Bang_Rak_district"
       },
       "verified_at": "2026-07-16",
@@ -217,7 +281,7 @@
       "field": "parks",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Bang_Rak_district"
       },
       "verified_at": "2026-07-16",
@@ -270,9 +334,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

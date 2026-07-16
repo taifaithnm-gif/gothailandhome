@@ -74,7 +74,16 @@
     }
   ],
   "schools": [],
-  "hospitals": [],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Thien Fah Foundation",
+        "zh": "Thien Fah Foundation",
+        "th": "Thien Fah Foundation"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Thian_Fah_Foundation_Hospital"
+    }
+  ],
   "shopping": [
     {
       "name": {
@@ -83,6 +92,22 @@
         "th": "เยาวราช"
       },
       "source_url": "https://en.wikipedia.org/wiki/Samphanthawong_district"
+    },
+    {
+      "name": {
+        "en": "Khlong Thom Market",
+        "zh": "Khlong Thom Market",
+        "th": "Khlong Thom Market"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Khlong_Thom_Market"
+    },
+    {
+      "name": {
+        "en": "Thieves' Market",
+        "zh": "Thieves' Market",
+        "th": "Thieves' Market"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Thieves'_Market"
     }
   ],
   "investment_summary": {
@@ -119,7 +144,7 @@
       "field": "schools",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Samphanthawong_district"
       },
       "verified_at": "2026-07-16",
@@ -128,20 +153,20 @@
     },
     "hospitals": {
       "field": "hospitals",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Samphanthawong_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "shopping": {
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Samphanthawong_district"
       },
       "verified_at": "2026-07-16",
@@ -152,7 +177,7 @@
       "field": "parks",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Samphanthawong_district"
       },
       "verified_at": "2026-07-16",
@@ -205,9 +230,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

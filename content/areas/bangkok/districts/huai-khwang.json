@@ -82,7 +82,40 @@
       "source_url": "https://en.wikipedia.org/wiki/Blue_Line_(Bangkok)"
     }
   ],
-  "schools": [],
+  "schools": [
+    {
+      "name": {
+        "en": "KIS International School",
+        "zh": "KIS International School",
+        "th": "KIS International School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/KIS_International_School"
+    },
+    {
+      "name": {
+        "en": "Thai-Japanese Association School",
+        "zh": "Thai-Japanese Association School",
+        "th": "Thai-Japanese Association School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Thai-Japanese_Association_School"
+    },
+    {
+      "name": {
+        "en": "Modulo Language School",
+        "zh": "Modulo Language School",
+        "th": "Modulo Language School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Modulo_Language_School"
+    },
+    {
+      "name": {
+        "en": "Triamudomsuksapattanakarn Ratchada School",
+        "zh": "Triamudomsuksapattanakarn Ratchada School",
+        "th": "Triamudomsuksapattanakarn Ratchada School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Triamudomsuksapattanakarn_Ratchada_School"
+    }
+  ],
   "hospitals": [
     {
       "name": {
@@ -91,6 +124,14 @@
         "th": "โรงพยาบาลกรุงเทพ"
       },
       "source_url": "https://www.bangkokhospital.com/"
+    },
+    {
+      "name": {
+        "en": "Praram 9 Hospital",
+        "zh": "Praram 9 Hospital",
+        "th": "Praram 9 Hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Praram_9_Hospital"
     }
   ],
   "shopping": [
@@ -101,6 +142,14 @@
         "th": "เซ็นทรัล พระราม 9"
       },
       "source_url": "https://www.central.co.th/"
+    },
+    {
+      "name": {
+        "en": "Siam Niramit",
+        "zh": "Siam Niramit",
+        "th": "Siam Niramit"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_Niramit"
     }
   ],
   "investment_summary": {
@@ -143,20 +192,20 @@
     },
     "schools": {
       "field": "schools",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "hospitals": {
       "field": "hospitals",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
       },
       "verified_at": "2026-07-16",
@@ -167,7 +216,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
       },
       "verified_at": "2026-07-16",
@@ -178,7 +227,7 @@
       "field": "parks",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Huai_Khwang_district"
       },
       "verified_at": "2026-07-16",
@@ -231,9 +280,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

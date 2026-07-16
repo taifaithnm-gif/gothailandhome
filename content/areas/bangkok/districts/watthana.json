@@ -135,6 +135,46 @@
         "th": "มหาวิทยาลัยศรีนครินทรวิโรฒ ประสานมิตร"
       },
       "source_url": "https://www.swu.ac.th/"
+    },
+    {
+      "name": {
+        "en": "The American School of Bangkok",
+        "zh": "The American School of Bangkok",
+        "th": "The American School of Bangkok"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/The_American_School_of_Bangkok"
+    },
+    {
+      "name": {
+        "en": "Anglo Singapore International School",
+        "zh": "Anglo Singapore International School",
+        "th": "Anglo Singapore International School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Anglo_Singapore_International_School"
+    },
+    {
+      "name": {
+        "en": "Ekamai International School",
+        "zh": "Ekamai International School",
+        "th": "Ekamai International School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Ekamai_International_School"
+    },
+    {
+      "name": {
+        "en": "NIST International School",
+        "zh": "NIST International School",
+        "th": "NIST International School"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/NIST_International_School"
+    },
+    {
+      "name": {
+        "en": "Srinakharinwirot University",
+        "zh": "Srinakharinwirot University",
+        "th": "Srinakharinwirot University"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Srinakharinwirot_University"
     }
   ],
   "hospitals": [
@@ -153,6 +193,14 @@
         "th": "โรงพยาบาลสมิติเวช สุขุมวิท"
       },
       "source_url": "https://www.samitivejhospitals.com/"
+    },
+    {
+      "name": {
+        "en": "Camillian Hospital",
+        "zh": "Camillian Hospital",
+        "th": "Camillian Hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Camillian_Hospital"
     }
   ],
   "shopping": [
@@ -171,6 +219,38 @@
         "th": "เทอร์มินอล 21 อโศก"
       },
       "source_url": "https://www.terminal21.co.th/"
+    },
+    {
+      "name": {
+        "en": "Terminal 21",
+        "zh": "Terminal 21",
+        "th": "Terminal 21"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Terminal_21"
+    },
+    {
+      "name": {
+        "en": "Emporium",
+        "zh": "Emporium",
+        "th": "Emporium"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Emporium_(Bangkok)"
+    },
+    {
+      "name": {
+        "en": "The Mall Group",
+        "zh": "The Mall Group",
+        "th": "The Mall Group"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/The_Mall_Group"
+    },
+    {
+      "name": {
+        "en": "Siam Society",
+        "zh": "Siam Society",
+        "th": "Siam Society"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Siam_Society"
     }
   ],
   "investment_summary": {
@@ -224,7 +304,7 @@
       "field": "schools",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Watthana_district"
       },
       "verified_at": "2026-07-16",
@@ -235,7 +315,7 @@
       "field": "hospitals",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Watthana_district"
       },
       "verified_at": "2026-07-16",
@@ -246,7 +326,7 @@
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Watthana_district"
       },
       "verified_at": "2026-07-16",
@@ -257,7 +337,7 @@
       "field": "parks",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Watthana_district"
       },
       "verified_at": "2026-07-16",
@@ -310,9 +390,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",

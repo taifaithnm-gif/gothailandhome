@@ -64,8 +64,26 @@
       "source_url": "https://en.wikipedia.org/wiki/BTS_Sukhumvit_Line"
     }
   ],
-  "schools": [],
-  "hospitals": [],
+  "schools": [
+    {
+      "name": {
+        "en": "Somdet Chaopraya Institute of Psychiatry",
+        "zh": "Somdet Chaopraya Institute of Psychiatry",
+        "th": "Somdet Chaopraya Institute of Psychiatry"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Somdet_Chaopraya_Institute_of_Psychiatry"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Taksin Hospital",
+        "zh": "Taksin Hospital",
+        "th": "Taksin Hospital"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Taksin_Hospital"
+    }
+  ],
   "shopping": [
     {
       "name": {
@@ -84,7 +102,16 @@
   "nearby_projects": [
     "the-room-sathorn-taksin"
   ],
-  "parks": [],
+  "parks": [
+    {
+      "name": {
+        "en": "Princess Mother Memorial Park",
+        "zh": "Princess Mother Memorial Park",
+        "th": "Princess Mother Memorial Park"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Princess_Mother_Memorial_Park"
+    }
+  ],
   "field_evidence": {
     "bts": {
       "field": "bts",
@@ -110,31 +137,31 @@
     },
     "schools": {
       "field": "schools",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Khlong_San_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "hospitals": {
       "field": "hospitals",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Khlong_San_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "shopping": {
       "field": "shopping",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Khlong_San_district"
       },
       "verified_at": "2026-07-16",
@@ -143,13 +170,13 @@
     },
     "parks": {
       "field": "parks",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "wikipedia_or_official_institution",
+        "source_type": "wikipedia_district_places",
         "url": "https://en.wikipedia.org/wiki/Khlong_San_district"
       },
       "verified_at": "2026-07-16",
-      "present": false,
+      "present": true,
       "absence_verified": false
     },
     "overview": {
@@ -198,9 +225,9 @@
     }
   },
   "district_master": {
-    "phase": "10-sprint-5",
+    "phase": "10-sprint-5b",
     "verified_at": "2026-07-16",
-    "rule": "knowledge_base_overview_map_lifestyle_office_named_pois"
+    "rule": "wiki_places_harvest_named_pois_plus_extract_lifestyle"
   },
   "overview_source": {
     "type": "wikipedia_rest_summary",
