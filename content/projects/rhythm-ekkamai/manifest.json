@@ -124,7 +124,7 @@
         "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       {
-        "key": "fitness",
+        "key": "fitness_center",
         "name": {
           "en": "Fitness center",
           "zh": "Fitness center",
@@ -134,7 +134,7 @@
         "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       {
-        "key": "sky_spa",
+        "key": "sky_spa_wellness_spa",
         "name": {
           "en": "Sky spa / wellness spa",
           "zh": "Sky spa / wellness spa",
@@ -684,7 +684,7 @@
         "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       {
-        "key": "fitness",
+        "key": "fitness_center",
         "name": {
           "en": "Fitness center",
           "zh": "Fitness center",
@@ -694,7 +694,7 @@
         "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       {
-        "key": "sky_spa",
+        "key": "sky_spa_wellness_spa",
         "name": {
           "en": "Sky spa / wellness spa",
           "zh": "Sky spa / wellness spa",
@@ -714,7 +714,13 @@
         "source_url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       }
     ],
-    "official_brochure": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf"
+    "official_brochure": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf",
+    "project_status": "completed",
+    "building_count": 1,
+    "floor_count": 33,
+    "total_units": 303,
+    "official_gallery_source": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+    "official_floor_plans": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
   },
   "field_evidence": {
     "official_project_page": {
@@ -732,21 +738,20 @@
       "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_website",
-        "url": "https://www.apthai.com/images/production/fFcY8ErhREZyw5E1BxUkKuKtyMj2j8-metaUkhZVEhNRUtLQU1BSUVTVEFURUUtQlJPQ0hVUkUucGRmLnBkZg==-.pdf"
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       "verified_at": "2026-07-16",
       "value": "Soi Sukhumvit 63 (Ekkamai Soi 1), Khlong Tan Nuea, Watthana, Bangkok"
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
+        "source_type": "official_developer_website",
         "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared gallery harvested."
+      "value": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
     },
     "official_brochure": {
       "field": "official_brochure",
@@ -760,13 +765,13 @@
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
+        "source_type": "official_developer_website",
         "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
     },
     "official_facilities": {
       "field": "official_facilities",
@@ -784,12 +789,64 @@
         "Sky spa / wellness spa",
         "Sky garden"
       ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      "verified_at": "2026-07-16",
+      "value": "completed"
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "VERIFIED_PORTAL",
+      "provenance": {
+        "source_type": "verified_portal",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      "verified_at": "2026-07-16",
+      "value": 2018
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      "verified_at": "2026-07-16",
+      "value": 1
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      "verified_at": "2026-07-16",
+      "value": 33
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+      },
+      "verified_at": "2026-07-16",
+      "value": 303
     }
   },
   "project_master": {
-    "phase": "10-sprint-3",
+    "phase": "10-sprint-3b",
     "verified_at": "2026-07-16",
     "rule": "official_project_pages_only_for_official_field_upgrades",
-    "sprint": "phase10-sprint-3-pass2"
+    "sprint": "phase10-sprint-3b-developer-batches",
+    "batch": "AP",
+    "notes": "AP official Ready-to-Move-In page + brochure PDF + floor plan section"
   }
 }

@@ -677,7 +677,10 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
-    }
+    },
+    "project_status": "completed",
+    "total_units": 1435,
+    "official_gallery_source": "https://www.sansiri.com/hotdeal/project/xt-phayathai"
   },
   "field_evidence": {
     "official_project_page": {
@@ -702,14 +705,13 @@
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
+        "source_type": "official_developer_website",
         "url": "https://www.sansiri.com/hotdeal/project/xt-phayathai"
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared gallery harvested."
+      "value": "https://www.sansiri.com/hotdeal/project/xt-phayathai"
     },
     "official_brochure": {
       "field": "official_brochure",
@@ -740,12 +742,64 @@
       },
       "verified_at": "2026-07-16",
       "value": null
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.sansiri.com/hotdeal/project/xt-phayathai"
+      },
+      "verified_at": "2026-07-16",
+      "value": "completed"
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "VERIFIED_PORTAL",
+      "provenance": {
+        "source_type": "verified_portal",
+        "url": "https://www.sansiri.com/hotdeal/project/xt-phayathai"
+      },
+      "verified_at": "2026-07-16",
+      "value": 2023
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.sansiri.com/hotdeal/project/xt-phayathai"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.sansiri.com/hotdeal/project/xt-phayathai"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.sansiri.com/hotdeal/project/xt-phayathai"
+      },
+      "verified_at": "2026-07-16",
+      "value": 1435
     }
   },
   "project_master": {
-    "phase": "10-sprint-3",
+    "phase": "10-sprint-3b",
     "verified_at": "2026-07-16",
     "rule": "official_project_pages_only_for_official_field_upgrades",
-    "sprint": "phase10-sprint-3-pass2"
+    "sprint": "phase10-sprint-3b-developer-batches",
+    "batch": "Sansiri",
+    "notes": "Sansiri hotdeal page: ready-to-move, ~3 rai, 1435 units, Si Ayutthaya Rd"
   }
 }

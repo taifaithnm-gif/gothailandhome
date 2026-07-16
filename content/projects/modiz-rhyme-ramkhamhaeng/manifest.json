@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "modiz-rhyme-ramkhamhaeng official project page",
+      "url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+    },
+    {
+      "type": "official_developer",
       "name": "Modiz Rhyme Ramkhamhaeng official / developer page",
       "url": "https://www.assetwise.co.th/"
     },
@@ -55,15 +60,15 @@
       "th": "โมดิซ ไรย์ม รามคำแหง เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา แอสเซทไวส์ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
     },
     "address": {
-      "en": "Bang Kapi, Bangkok",
-      "zh": "曼谷挽甲必",
-      "th": "บางกะปิ กรุงเทพฯ"
+      "en": "Ramkhamhaeng Road (opposite Ramkhamhaeng University), Bangkok",
+      "zh": "Ramkhamhaeng Road (opposite Ramkhamhaeng University), Bangkok",
+      "th": "ถนนรามคำแหง ตรงข้ามมหาวิทยาลัยรามคำแหง กรุงเทพฯ"
     },
     "postal_code": "10240",
     "latitude": 13.759265096735861,
     "longitude": 100.6175268862197,
     "google_maps_url": "https://www.google.com/maps?q=13.759265096735861,100.6175268862197",
-    "official_website": "https://www.assetwise.co.th/",
+    "official_website": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
     "facebook_url": "https://www.facebook.com/AssetWise",
     "completion_year": 2023,
     "transit_tags": [],
@@ -82,85 +87,84 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "pool",
+        "key": "infinite_horizon_pool",
         "name": {
-          "en": "Swimming pool",
-          "zh": "Swimming pool",
-          "th": "Swimming pool"
+          "en": "Infinite Horizon Pool",
+          "zh": "Infinite Horizon Pool",
+          "th": "Infinite Horizon Pool"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
       },
       {
-        "key": "fitness",
+        "key": "cloud_gym",
         "name": {
-          "en": "Fitness / gym",
-          "zh": "Fitness / gym",
-          "th": "Fitness / gym"
+          "en": "Cloud Gym",
+          "zh": "Cloud Gym",
+          "th": "Cloud Gym"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
       },
       {
-        "key": "parking",
+        "key": "long_table_dining_room",
         "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
+          "en": "Long Table Dining Room",
+          "zh": "Long Table Dining Room",
+          "th": "Long Table Dining Room"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
       },
       {
-        "key": "security",
+        "key": "savory_cooking_lab",
         "name": {
-          "en": "24h security",
-          "zh": "24h security",
-          "th": "24h security"
+          "en": "Savory Cooking Lab",
+          "zh": "Savory Cooking Lab",
+          "th": "Savory Cooking Lab"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
       },
       {
-        "key": "park",
+        "key": "cinematic_room",
         "name": {
-          "en": "Garden / courtyard",
-          "zh": "Garden / courtyard",
-          "th": "Garden / courtyard"
+          "en": "Cinematic Room",
+          "zh": "Cinematic Room",
+          "th": "Cinematic Room"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
       },
       {
-        "key": "jacuzzi",
+        "key": "panoramic_bar",
         "name": {
-          "en": "Jacuzzi",
-          "zh": "Jacuzzi",
-          "th": "Jacuzzi"
+          "en": "Panoramic Bar",
+          "zh": "Panoramic Bar",
+          "th": "Panoramic Bar"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
       },
       {
-        "key": "lift",
+        "key": "moonlight_party_balcony",
         "name": {
-          "en": "Elevator",
-          "zh": "Elevator",
-          "th": "Elevator"
+          "en": "Moonlight Party Balcony",
+          "zh": "Moonlight Party Balcony",
+          "th": "Moonlight Party Balcony"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
       },
       {
-        "key": "cctv",
+        "key": "lifestyle_retails",
         "name": {
-          "en": "CCTV",
-          "zh": "CCTV",
-          "th": "CCTV"
+          "en": "Lifestyle Retails",
+          "zh": "Lifestyle Retails",
+          "th": "Lifestyle Retails"
         },
-        "source": "propertyhub"
-      },
-      {
-        "key": "keycard",
-        "name": {
-          "en": "Keycard access",
-          "zh": "Keycard access",
-          "th": "Keycard access"
-        },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
       }
     ],
     "nearby_schools": [
@@ -610,7 +614,94 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
-    }
+    },
+    "project_status": "completed",
+    "building_count": 1,
+    "floor_count": 30,
+    "total_units": 546,
+    "facilities_official": [
+      {
+        "key": "infinite_horizon_pool",
+        "name": {
+          "en": "Infinite Horizon Pool",
+          "zh": "Infinite Horizon Pool",
+          "th": "Infinite Horizon Pool"
+        },
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+      },
+      {
+        "key": "cloud_gym",
+        "name": {
+          "en": "Cloud Gym",
+          "zh": "Cloud Gym",
+          "th": "Cloud Gym"
+        },
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+      },
+      {
+        "key": "long_table_dining_room",
+        "name": {
+          "en": "Long Table Dining Room",
+          "zh": "Long Table Dining Room",
+          "th": "Long Table Dining Room"
+        },
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+      },
+      {
+        "key": "savory_cooking_lab",
+        "name": {
+          "en": "Savory Cooking Lab",
+          "zh": "Savory Cooking Lab",
+          "th": "Savory Cooking Lab"
+        },
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+      },
+      {
+        "key": "cinematic_room",
+        "name": {
+          "en": "Cinematic Room",
+          "zh": "Cinematic Room",
+          "th": "Cinematic Room"
+        },
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+      },
+      {
+        "key": "panoramic_bar",
+        "name": {
+          "en": "Panoramic Bar",
+          "zh": "Panoramic Bar",
+          "th": "Panoramic Bar"
+        },
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+      },
+      {
+        "key": "moonlight_party_balcony",
+        "name": {
+          "en": "Moonlight Party Balcony",
+          "zh": "Moonlight Party Balcony",
+          "th": "Moonlight Party Balcony"
+        },
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+      },
+      {
+        "key": "lifestyle_retails",
+        "name": {
+          "en": "Lifestyle Retails",
+          "zh": "Lifestyle Retails",
+          "th": "Lifestyle Retails"
+        },
+        "source": "official_developer",
+        "source_url": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
+      }
+    ],
+    "official_gallery_source": "https://assetwise.co.th/en/condominium/modiz-rhyme/"
   },
   "field_evidence": {
     "official_project_page": {
@@ -676,9 +767,11 @@
     }
   },
   "project_master": {
-    "phase": "10-sprint-3",
+    "phase": "10-sprint-3b",
     "verified_at": "2026-07-16",
     "rule": "official_project_pages_only_for_official_field_upgrades",
-    "sprint": "phase10-sprint-3"
+    "sprint": "phase10-sprint-3",
+    "batch": "AssetWise",
+    "notes": "AssetWise official Modiz Rhyme page: 1 residential building 30 storeys, 546 units"
   }
 }

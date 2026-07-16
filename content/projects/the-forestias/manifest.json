@@ -79,100 +79,150 @@
         "th": "หน้าโครงการ เดอะ ฟอเรสเทียส์ เขตบางนา อ้างอิงเว็บไซต์ทางการของผู้พัฒนา"
       }
     },
-    "construction_status": "under_construction",
-    "project_status": "under_construction",
+    "construction_status": "selling",
+    "project_status": "under_construction_or_selling",
     "facilities_official": [
       {
-        "key": "forest",
+        "key": "deep_forest_reserve",
         "name": {
-          "en": "Forest / green space zones",
-          "zh": "Forest / green space",
-          "th": "Forest / green space"
+          "en": "Deep Forest reserve",
+          "zh": "Deep Forest reserve",
+          "th": "Deep Forest reserve"
         },
-        "source": "theforestias_official"
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
       },
       {
-        "key": "sky_walk",
+        "key": "forest_pavilion",
         "name": {
-          "en": "Residence Sky Walk / Canopy Walk",
+          "en": "Forest Pavilion",
+          "zh": "Forest Pavilion",
+          "th": "Forest Pavilion"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
+      },
+      {
+        "key": "resident_forest",
+        "name": {
+          "en": "Resident Forest",
+          "zh": "Resident Forest",
+          "th": "Resident Forest"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
+      },
+      {
+        "key": "event_lawn",
+        "name": {
+          "en": "Event Lawn",
+          "zh": "Event Lawn",
+          "th": "Event Lawn"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
+      },
+      {
+        "key": "canopy_walk",
+        "name": {
+          "en": "Canopy Walk",
+          "zh": "Canopy Walk",
+          "th": "Canopy Walk"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
+      },
+      {
+        "key": "residence_sky_walk",
+        "name": {
+          "en": "Residence Sky Walk",
           "zh": "Residence Sky Walk",
           "th": "Residence Sky Walk"
         },
-        "source": "theforestias_official"
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
       },
       {
-        "key": "learning_center",
+        "key": "community_center_family_center",
         "name": {
-          "en": "Forest Pavilion / ecosystem learning center",
-          "zh": "Learning center",
-          "th": "Learning center"
+          "en": "Community center & Family center",
+          "zh": "Community center & Family center",
+          "th": "Community center & Family center"
         },
-        "source": "theforestias_official"
-      },
-      {
-        "key": "community_center",
-        "name": {
-          "en": "Community & Family center",
-          "zh": "Community & Family center",
-          "th": "Community & Family center"
-        },
-        "source": "theforestias_official"
-      },
-      {
-        "key": "hotel",
-        "name": {
-          "en": "6-star hotel (cited on official site)",
-          "zh": "6-star hotel",
-          "th": "6-star hotel"
-        },
-        "source": "theforestias_official"
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
       }
     ],
     "facilities": [
       {
-        "key": "forest",
+        "key": "deep_forest_reserve",
         "name": {
-          "en": "Forest / green space zones",
-          "zh": "Forest / green space",
-          "th": "Forest / green space"
+          "en": "Deep Forest reserve",
+          "zh": "Deep Forest reserve",
+          "th": "Deep Forest reserve"
         },
-        "source": "theforestias_official"
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
       },
       {
-        "key": "sky_walk",
+        "key": "forest_pavilion",
         "name": {
-          "en": "Residence Sky Walk / Canopy Walk",
+          "en": "Forest Pavilion",
+          "zh": "Forest Pavilion",
+          "th": "Forest Pavilion"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
+      },
+      {
+        "key": "resident_forest",
+        "name": {
+          "en": "Resident Forest",
+          "zh": "Resident Forest",
+          "th": "Resident Forest"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
+      },
+      {
+        "key": "event_lawn",
+        "name": {
+          "en": "Event Lawn",
+          "zh": "Event Lawn",
+          "th": "Event Lawn"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
+      },
+      {
+        "key": "canopy_walk",
+        "name": {
+          "en": "Canopy Walk",
+          "zh": "Canopy Walk",
+          "th": "Canopy Walk"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
+      },
+      {
+        "key": "residence_sky_walk",
+        "name": {
+          "en": "Residence Sky Walk",
           "zh": "Residence Sky Walk",
           "th": "Residence Sky Walk"
         },
-        "source": "theforestias_official"
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
       },
       {
-        "key": "learning_center",
+        "key": "community_center_family_center",
         "name": {
-          "en": "Forest Pavilion / ecosystem learning center",
-          "zh": "Learning center",
-          "th": "Learning center"
+          "en": "Community center & Family center",
+          "zh": "Community center & Family center",
+          "th": "Community center & Family center"
         },
-        "source": "theforestias_official"
-      },
-      {
-        "key": "community_center",
-        "name": {
-          "en": "Community & Family center",
-          "zh": "Community & Family center",
-          "th": "Community & Family center"
-        },
-        "source": "theforestias_official"
-      },
-      {
-        "key": "hotel",
-        "name": {
-          "en": "6-star hotel (cited on official site)",
-          "zh": "6-star hotel",
-          "th": "6-star hotel"
-        },
-        "source": "theforestias_official"
+        "source": "official_developer",
+        "source_url": "https://www.theforestias.com/"
       }
     ],
     "project_master": {
@@ -332,7 +382,8 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
-    }
+    },
+    "official_gallery_source": "https://www.theforestias.com/"
   },
   "field_evidence": {
     "official_project_page": {
@@ -357,14 +408,13 @@
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
+        "source_type": "official_developer_website",
         "url": "https://www.theforestias.com/"
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "value": "https://www.theforestias.com/"
     },
     "official_brochure": {
       "field": "official_brochure",
@@ -394,13 +444,73 @@
         "url": "https://www.theforestias.com/"
       },
       "verified_at": "2026-07-16",
+      "value": [
+        "Deep Forest reserve",
+        "Forest Pavilion",
+        "Resident Forest",
+        "Event Lawn",
+        "Canopy Walk",
+        "Residence Sky Walk",
+        "Community center & Family center"
+      ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.theforestias.com/"
+      },
+      "verified_at": "2026-07-16",
+      "value": "under_construction_or_selling"
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.theforestias.com/"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.theforestias.com/"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.theforestias.com/"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.theforestias.com/"
+      },
+      "verified_at": "2026-07-16",
       "value": null
     }
   },
   "project_master": {
-    "phase": "10-sprint-3",
+    "phase": "10-sprint-3b",
     "verified_at": "2026-07-16",
     "rule": "official_project_pages_only_for_official_field_upgrades",
-    "sprint": "phase10-sprint-3"
+    "sprint": "phase10-sprint-3b-developer-batches",
+    "batch": "MQDC",
+    "notes": "Official The Forestias site — multi-product district; Whizdom cited as 3 high-rise buildings on same site"
   }
 }

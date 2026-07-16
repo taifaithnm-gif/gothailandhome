@@ -1,107 +1,106 @@
 # PROJECT_COMPLETION_REPORT
 
-**Milestone:** Phase 10 Sprint 3 — Project Official Completion
+**Milestone:** Phase 10 Sprint 3 — Project Official Completion (developer batches)
 **Date:** 2026-07-16
-**Baseline HEAD:** `d22971e`
-**Policy:** OFFICIAL developer/project pages + official PDFs only. No invented galleries, brochures, floor plans, or addresses.
+**Baseline HEAD:** `f38d1d2`
+**Batches:** AP → Sansiri → MQDC → Supalai → Ananda → AssetWise
+**Policy:** Official project pages only. Unknown remains UNVERIFIED. Provenance on every field.
 
 ## Target
 
-| Metric | Before (S1) | After (S3) | Target |
-|--------|------------:|-----------:|-------:|
-| Project completeness (6-field S1 formula) | 33.6% | **35%** | 90%+ |
+| Metric | S1 | Prior S3 | After S3b | Target |
+|--------|---:|---------:|----------:|-------:|
+| 6-field credibility avg (all 50) | 33.6% | 35.0% | **40%** | 70% |
+| 10-field official-detail avg (all 50) | — | — | **25.9%** | 70% |
+| 6-field batch-only (22 projects) | — | — | **48.5%** | — |
+| 10-field batch-only | — | — | **38.4%** | — |
 
 ## Result
 
-**FAIL (honest) — target 90%+ not met.**
+**FAIL (honest) — 70% not met** on all-50 averages. Batch projects improved; brochure/floor-plan/completion-year still sparse outside pages that publish them.
 
-Hard ceiling without rights-cleared official **gallery / brochure / floor-plan** harvest is ~50% (page + address + facilities). Media fields remain mostly UNVERIFIED by policy.
+## What changed (this pass)
 
-## What changed
+- **AP:** `rhythm-ekkamai` near-complete (gallery/brochure/plans/facilities/address/status/building/floor/units); `life-asoke-rama-9` / `life-ladprao` SOLD OUT status + gallery source.
+- **Sansiri:** `xt-phayathai` address/status/units from official hotdeal project page.
+- **MQDC:** `the-forestias` gallery + facilities from theforestias.com.
+- **Supalai:** `supalai-oriental-sukhumvit-39` building/floor/units/facilities/gallery.
+- **Ananda:** `ashton-asoke`, `ideo-q-sukhumvit-36`, `ideo-rama-9` DETAIL blocks (buildings/units/floors/facilities/gallery/plans); `ideo-mobi` URL only — DETAIL not exposed → UNVERIFIED.
+- **AssetWise:** `modiz-rhyme-ramkhamhaeng` full official page (30 floors / 546 units / facilities).
 
-- Upgraded **project-specific official URLs** where HTTP 200 on developer domains (Ananda, AP, Noble, Supalai, Sansiri, etc.).
-- Added **field_evidence** (provenance + verified_at + evidence_class) on all 50 project manifests.
-- Official address upgrades: `noble-around-ari`, `rhythm-ekkamai`, `xt-phayathai` (plus prior OFFICIAL: livin / one-bangkok / forestias).
-- Official facilities upgrades: `noble-around-ari`, `supalai-oriental-sukhumvit-39`, `rhythm-ekkamai`.
-- Official brochure: `rhythm-ekkamai` → AP Thai brochure PDF (HTTP 200).
-- Matrix + official source index refreshed under `pipelines/factory/project-master/`.
+## OFFICIAL coverage (count / 50) — 10 fields
 
-## OFFICIAL coverage (count / 50)
+| Field | OFFICIAL | VP/DER | UNVERIFIED |
+|-------|----------:|-------:|-----------:|
+| official_gallery | 11 | 0 | 39 |
+| official_brochure | 2 | 0 | 48 |
+| official_floor_plans | 5 | 0 | 45 |
+| official_facilities | 10 | 26 | 14 |
+| full_address | 8 | 42 | 0 |
+| project_status | 10 | 25 | 15 |
+| completion_year | 0 | 33 | 17 |
+| building_count | 6 | 1 | 43 |
+| floor_count | 6 | 1 | 43 |
+| total_units | 7 | 1 | 42 |
 
-| Field | S1 | S3 |
-|-------|---:|---:|
-| official project page | 50 | 50 |
-| official address | 3 | 6 |
-| official gallery | 3 | 3 |
-| official brochure | 1 | 2 |
-| official floor plan | 1 | 1 |
-| official facilities | 4 | 7 |
+## Per-project scorecard (10-field %)
 
-## Per-project scorecard
+| Project | Gal | Bro | Plans | Fac | Addr | Status | Year | Bld | Flr | Units | 10% | 6% | Batch |
+|---------|-----|-----|-------|-----|------|--------|------|-----|-----|-------|----:|---:|-------|
+| rhythm-ekkamai | OFF | OFF | OFF | OFF | OFF | OFF | VP | OFF | OFF | OFF | 95% | 100% | Y |
+| ashton-asoke | OFF | — | OFF | OFF | OFF | OFF | VP | OFF | OFF | OFF | 85% | 83.3% | Y |
+| ideo-q-sukhumvit-36 | OFF | — | OFF | OFF | VP | OFF | VP | OFF | OFF | OFF | 80% | 75% | Y |
+| the-livin-ramkhamhaeng | OFF | OFF | OFF | OFF | OFF | OFF | VP | VP | VP | VP | 80% | 100% | — |
+| ideo-rama-9 | OFF | — | OFF | OFF | VP | OFF | — | OFF | OFF | OFF | 75% | 75% | Y |
+| modiz-rhyme-ramkhamhaeng | OFF | — | — | OFF | OFF | OFF | VP | OFF | OFF | OFF | 75% | 66.7% | Y |
+| supalai-oriental-sukhumvit-39 | OFF | — | — | OFF | VP | VP | VP | OFF | OFF | OFF | 65% | 58.3% | Y |
+| xt-phayathai | OFF | — | — | VP | OFF | OFF | VP | — | — | OFF | 50% | 58.3% | Y |
+| the-forestias | OFF | — | — | OFF | OFF | OFF | — | — | — | — | 40% | 66.7% | Y |
+| life-asoke-rama-9 | OFF | — | — | VP | VP | OFF | VP | — | — | — | 35% | 50% | Y |
+| life-ladprao | OFF | — | — | VP | VP | OFF | VP | — | — | — | 35% | 50% | Y |
+| noble-around-ari | — | — | — | OFF | OFF | VP | VP | — | — | — | 30% | 50% | — |
+| casa-condo-asoke-dindaeng | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| chapter-one-midtown-ladprao-24 | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| ideo-mobi-sukhumvit-66 | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | Y |
+| kave-town-space | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | Y |
+| knightsbridge-prime-sathorn | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| life-one-wireless | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | Y |
+| m-silom | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| maestro-03-ratchada-rama-9 | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| niche-pride-thonglor-phetchaburi | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| noble-revolve-ratchada | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| one-bangkok | — | — | — | OFF | OFF | — | — | — | — | — | 20% | 50% | — |
+| supalai-elite-phayathai | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | Y |
+| supalai-lite-sathorn-charoenrat | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | Y |
+| supalai-veranda-rama-9 | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | Y |
+| the-base-sukhumvit-77 | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | Y |
+| the-esse-asoke | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| the-esse-sukhumvit-36 | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| the-line-sukhumvit-101 | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | Y |
+| the-lofts-silom | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| the-privacy-rama-9 | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| the-room-sathorn-taksin | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| the-room-sukhumvit-62 | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | — |
+| whizdom-essence | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | Y |
+| xt-huai-khwang | — | — | — | VP | VP | VP | VP | — | — | — | 20% | 33.3% | Y |
+| 168-sukhothai-residences | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | — |
+| ascott-embassy-sathorn | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | — |
+| aspire-sathorn-taksin | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | Y |
+| chapter-one-shine-bang-pho | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | — |
+| condo-u-sukhumvit-62-1 | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | Y |
+| knightbridge-collage-ramkhamhaeng | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | — |
+| lumpini-ville-phahol-saphanmai | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | — |
+| m-jive-sathorn-lumphini | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | — |
+| noble-beat | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | — |
+| origin-plug-play-sukhumvit-101 | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | — |
+| samyan-mitrtown | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | — |
+| singha-complex | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | — |
+| the-tree-rio-bang-aor | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | — |
+| vyva-thonglor | — | — | — | — | VP | — | — | — | — | — | 5% | 25% | — |
 
-| Project | Page | Address | Gallery | Brochure | Floor plan | Facilities | Score |
-|---------|------|---------|---------|----------|------------|------------|------:|
-| the-livin-ramkhamhaeng | OFF | OFF | OFF | OFF | OFF | OFF | 100% |
-| rhythm-ekkamai | OFF | OFF | — | OFF | — | OFF | 66.7% |
-| ashton-asoke | OFF | VP | OFF | — | — | OFF | 58.3% |
-| ideo-q-sukhumvit-36 | OFF | VP | OFF | — | — | VP | 50% |
-| noble-around-ari | OFF | OFF | — | — | — | OFF | 50% |
-| one-bangkok | OFF | OFF | — | — | — | OFF | 50% |
-| the-forestias | OFF | OFF | — | — | — | OFF | 50% |
-| supalai-oriental-sukhumvit-39 | OFF | VP | — | — | — | OFF | 41.7% |
-| xt-phayathai | OFF | OFF | — | — | — | VP | 41.7% |
-| casa-condo-asoke-dindaeng | OFF | VP | — | — | — | VP | 33.3% |
-| chapter-one-midtown-ladprao-24 | OFF | VP | — | — | — | VP | 33.3% |
-| ideo-mobi-sukhumvit-66 | OFF | VP | — | — | — | VP | 33.3% |
-| kave-town-space | OFF | VP | — | — | — | VP | 33.3% |
-| knightsbridge-prime-sathorn | OFF | VP | — | — | — | VP | 33.3% |
-| life-asoke-rama-9 | OFF | VP | — | — | — | VP | 33.3% |
-| life-ladprao | OFF | VP | — | — | — | VP | 33.3% |
-| life-one-wireless | OFF | VP | — | — | — | VP | 33.3% |
-| m-silom | OFF | VP | — | — | — | VP | 33.3% |
-| maestro-03-ratchada-rama-9 | OFF | VP | — | — | — | VP | 33.3% |
-| modiz-rhyme-ramkhamhaeng | OFF | VP | — | — | — | VP | 33.3% |
-| niche-pride-thonglor-phetchaburi | OFF | VP | — | — | — | VP | 33.3% |
-| noble-revolve-ratchada | OFF | VP | — | — | — | VP | 33.3% |
-| supalai-elite-phayathai | OFF | VP | — | — | — | VP | 33.3% |
-| supalai-lite-sathorn-charoenrat | OFF | VP | — | — | — | VP | 33.3% |
-| supalai-veranda-rama-9 | OFF | VP | — | — | — | VP | 33.3% |
-| the-base-sukhumvit-77 | OFF | VP | — | — | — | VP | 33.3% |
-| the-esse-asoke | OFF | VP | — | — | — | VP | 33.3% |
-| the-esse-sukhumvit-36 | OFF | VP | — | — | — | VP | 33.3% |
-| the-line-sukhumvit-101 | OFF | VP | — | — | — | VP | 33.3% |
-| the-lofts-silom | OFF | VP | — | — | — | VP | 33.3% |
-| the-privacy-rama-9 | OFF | VP | — | — | — | VP | 33.3% |
-| the-room-sathorn-taksin | OFF | VP | — | — | — | VP | 33.3% |
-| the-room-sukhumvit-62 | OFF | VP | — | — | — | VP | 33.3% |
-| whizdom-essence | OFF | VP | — | — | — | VP | 33.3% |
-| xt-huai-khwang | OFF | VP | — | — | — | VP | 33.3% |
-| 168-sukhothai-residences | OFF | VP | — | — | — | — | 25% |
-| ascott-embassy-sathorn | OFF | VP | — | — | — | — | 25% |
-| aspire-sathorn-taksin | OFF | VP | — | — | — | — | 25% |
-| chapter-one-shine-bang-pho | OFF | VP | — | — | — | — | 25% |
-| condo-u-sukhumvit-62-1 | OFF | VP | — | — | — | — | 25% |
-| ideo-rama-9 | OFF | VP | — | — | — | — | 25% |
-| knightbridge-collage-ramkhamhaeng | OFF | VP | — | — | — | — | 25% |
-| lumpini-ville-phahol-saphanmai | OFF | VP | — | — | — | — | 25% |
-| m-jive-sathorn-lumphini | OFF | VP | — | — | — | — | 25% |
-| noble-beat | OFF | VP | — | — | — | — | 25% |
-| origin-plug-play-sukhumvit-101 | OFF | VP | — | — | — | — | 25% |
-| samyan-mitrtown | OFF | VP | — | — | — | — | 25% |
-| singha-complex | OFF | VP | — | — | — | — | 25% |
-| the-tree-rio-bang-aor | OFF | VP | — | — | — | — | 25% |
-| vyva-thonglor | OFF | VP | — | — | — | — | 25% |
+## Blockers to 70% (all 50)
 
-Legend: **OFF** = OFFICIAL · **VP** = VERIFIED_PORTAL · **—** = UNVERIFIED.
-
-## Blockers to 90%
-
-1. **47/50** projects lack rights-cleared official gallery assets.
-2. **48/50** lack official brochure PDF URLs on record.
-3. **49/50** lack official floor-plan URLs.
-4. Many developer “project URLs” were homepage roots; project-specific pages often gated (bot protection) or retired.
-5. Do-not-invent policy forbids portal media upgrades to OFFICIAL.
-
-## Next
-
-Phase 10 Sprint 4 — District Official Completion (baseline district completeness **3.7%**).
+1. Most non-batch projects still homepage-only official URLs → no DETAIL blocks.
+2. Completion year almost never on current official marketing pages → 0 OFFICIAL.
+3. Brochure PDFs rare; floor-plan OFFICIAL only where pages expose plan sections.
+4. Do-not-invent: portal counts never promoted to OFFICIAL.

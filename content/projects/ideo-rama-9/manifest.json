@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "ideo-rama-9 official project page",
+      "url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+    },
+    {
+      "type": "official_developer",
       "name": "IDEO Rama 9 official / developer page",
       "url": "https://www.ananda.co.th/"
     }
@@ -58,7 +63,7 @@
     "latitude": null,
     "longitude": null,
     "google_maps_url": null,
-    "official_website": "https://www.ananda.co.th/",
+    "official_website": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
     "facebook_url": null,
     "completion_year": null,
     "transit_tags": [
@@ -218,7 +223,158 @@
           "note": "Audit metadata timestamp — not an official project fact"
         }
       }
-    }
+    },
+    "project_status": "completed",
+    "construction_status": "completed",
+    "official_gallery_source": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+    "building_count": 3,
+    "official_floor_plans": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke",
+    "total_units": 1222,
+    "floor_count": 36,
+    "facilities_official": [
+      {
+        "key": "swimming_pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "fitness_studio",
+        "name": {
+          "en": "Fitness studio",
+          "zh": "Fitness studio",
+          "th": "Fitness studio"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "theater_area",
+        "name": {
+          "en": "Theater area",
+          "zh": "Theater area",
+          "th": "Theater area"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "multipurpose_area",
+        "name": {
+          "en": "Multipurpose area",
+          "zh": "Multipurpose area",
+          "th": "Multipurpose area"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "garden",
+        "name": {
+          "en": "Garden",
+          "zh": "Garden",
+          "th": "Garden"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "lobby",
+        "name": {
+          "en": "Lobby",
+          "zh": "Lobby",
+          "th": "Lobby"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "meeting_room",
+        "name": {
+          "en": "Meeting room",
+          "zh": "Meeting room",
+          "th": "Meeting room"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      }
+    ],
+    "facilities": [
+      {
+        "key": "swimming_pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "fitness_studio",
+        "name": {
+          "en": "Fitness studio",
+          "zh": "Fitness studio",
+          "th": "Fitness studio"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "theater_area",
+        "name": {
+          "en": "Theater area",
+          "zh": "Theater area",
+          "th": "Theater area"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "multipurpose_area",
+        "name": {
+          "en": "Multipurpose area",
+          "zh": "Multipurpose area",
+          "th": "Multipurpose area"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "garden",
+        "name": {
+          "en": "Garden",
+          "zh": "Garden",
+          "th": "Garden"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "lobby",
+        "name": {
+          "en": "Lobby",
+          "zh": "Lobby",
+          "th": "Lobby"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      },
+      {
+        "key": "meeting_room",
+        "name": {
+          "en": "Meeting room",
+          "zh": "Meeting room",
+          "th": "Meeting room"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.ananda.co.th/en/condominium/ideo-rama9-asoke"
+      }
+    ]
   },
   "field_evidence": {
     "official_project_page": {
@@ -284,9 +440,11 @@
     }
   },
   "project_master": {
-    "phase": "10-sprint-3",
+    "phase": "10-sprint-3b",
     "verified_at": "2026-07-16",
     "rule": "official_project_pages_only_for_official_field_upgrades",
-    "sprint": "phase10-sprint-3"
+    "sprint": "phase10-sprint-3",
+    "batch": "Ananda",
+    "notes": "Ananda official Ideo Rama 9 - Asoke — READY TO MOVE IN; structured unit counts not confirmed in fetch text"
   }
 }

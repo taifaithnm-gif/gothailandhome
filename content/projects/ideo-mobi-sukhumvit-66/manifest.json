@@ -562,12 +562,12 @@
       "field": "official_gallery",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
+        "source_type": "official_developer_website",
         "url": "https://www.ananda.co.th/en/condominium/ideo-mobi-sukhumvit-66"
       },
       "verified_at": "2026-07-16",
       "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "note": "Official EN project page did not expose DETAIL block at verification time; left UNVERIFIED."
     },
     "official_brochure": {
       "field": "official_brochure",
@@ -598,12 +598,67 @@
       },
       "verified_at": "2026-07-16",
       "value": null
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "VERIFIED_PORTAL",
+      "provenance": {
+        "source_type": "verified_portal",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-mobi-sukhumvit-66"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "VERIFIED_PORTAL",
+      "provenance": {
+        "source_type": "verified_portal",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-mobi-sukhumvit-66"
+      },
+      "verified_at": "2026-07-16",
+      "value": 2018
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-mobi-sukhumvit-66"
+      },
+      "verified_at": "2026-07-16",
+      "value": null,
+      "note": "Official EN project page did not expose DETAIL block at verification time; left UNVERIFIED."
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-mobi-sukhumvit-66"
+      },
+      "verified_at": "2026-07-16",
+      "value": null,
+      "note": "Official EN project page did not expose DETAIL block at verification time; left UNVERIFIED."
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.ananda.co.th/en/condominium/ideo-mobi-sukhumvit-66"
+      },
+      "verified_at": "2026-07-16",
+      "value": null,
+      "note": "Official EN project page did not expose DETAIL block at verification time; left UNVERIFIED."
     }
   },
   "project_master": {
-    "phase": "10-sprint-3",
+    "phase": "10-sprint-3b",
     "verified_at": "2026-07-16",
     "rule": "official_project_pages_only_for_official_field_upgrades",
-    "sprint": "phase10-sprint-3"
+    "sprint": "phase10-sprint-3b-developer-batches",
+    "batch": "Ananda",
+    "notes": "URL reachable; structured facts not confirmed on EN page shell — UNVERIFIED"
   }
 }

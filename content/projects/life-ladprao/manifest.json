@@ -552,7 +552,7 @@
         }
       }
     },
-    "project_status": "completed",
+    "project_status": "sold_out",
     "official_gallery_source": "https://www.apthai.com/en/condominium/life-ladprao",
     "_official_enrichments": {
       "status": {
@@ -584,14 +584,13 @@
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
+        "source_type": "official_developer_website",
         "url": "https://www.apthai.com/en/condominium/life-ladprao"
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "value": "https://www.apthai.com/en/condominium/life-ladprao"
     },
     "official_brochure": {
       "field": "official_brochure",
@@ -622,12 +621,64 @@
       },
       "verified_at": "2026-07-16",
       "value": null
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+      },
+      "verified_at": "2026-07-16",
+      "value": "sold_out"
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "VERIFIED_PORTAL",
+      "provenance": {
+        "source_type": "verified_portal",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+      },
+      "verified_at": "2026-07-16",
+      "value": 2020
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "unavailable",
+        "url": "https://www.apthai.com/en/condominium/life-ladprao"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
     }
   },
   "project_master": {
-    "phase": "10-sprint-3",
+    "phase": "10-sprint-3b",
     "verified_at": "2026-07-16",
     "rule": "official_project_pages_only_for_official_field_upgrades",
-    "sprint": "phase10-sprint-3"
+    "sprint": "phase10-sprint-3b-developer-batches",
+    "batch": "AP",
+    "notes": "AP official thank-you / sold-out style page"
   }
 }

@@ -120,7 +120,7 @@
         "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
-        "key": "coworking",
+        "key": "co_working_space",
         "name": {
           "en": "Co-working space",
           "zh": "Co-working space",
@@ -130,7 +130,7 @@
         "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
-        "key": "garden",
+        "key": "garden_park",
         "name": {
           "en": "Garden / Park",
           "zh": "Garden / Park",
@@ -140,7 +140,7 @@
         "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
-        "key": "kids_room",
+        "key": "kid_s_room",
         "name": {
           "en": "Kid’s Room",
           "zh": "Kid’s Room",
@@ -160,11 +160,41 @@
         "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
-        "key": "security",
+        "key": "24_hour_security",
         "name": {
           "en": "24-hour Security",
           "zh": "24-hour Security",
           "th": "24-hour Security"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "roof_garden",
+        "name": {
+          "en": "Roof Garden",
+          "zh": "Roof Garden",
+          "th": "Roof Garden"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "kid_s_pool",
+        "name": {
+          "en": "Kid’s Pool",
+          "zh": "Kid’s Pool",
+          "th": "Kid’s Pool"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "lounge_lobby",
+        "name": {
+          "en": "Lounge Lobby",
+          "zh": "Lounge Lobby",
+          "th": "Lounge Lobby"
         },
         "source": "official_developer",
         "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
@@ -690,7 +720,7 @@
         "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
-        "key": "coworking",
+        "key": "co_working_space",
         "name": {
           "en": "Co-working space",
           "zh": "Co-working space",
@@ -700,7 +730,7 @@
         "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
-        "key": "garden",
+        "key": "garden_park",
         "name": {
           "en": "Garden / Park",
           "zh": "Garden / Park",
@@ -710,7 +740,7 @@
         "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
-        "key": "kids_room",
+        "key": "kid_s_room",
         "name": {
           "en": "Kid’s Room",
           "zh": "Kid’s Room",
@@ -730,7 +760,7 @@
         "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       {
-        "key": "security",
+        "key": "24_hour_security",
         "name": {
           "en": "24-hour Security",
           "zh": "24-hour Security",
@@ -738,8 +768,42 @@
         },
         "source": "official_developer",
         "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "roof_garden",
+        "name": {
+          "en": "Roof Garden",
+          "zh": "Roof Garden",
+          "th": "Roof Garden"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "kid_s_pool",
+        "name": {
+          "en": "Kid’s Pool",
+          "zh": "Kid’s Pool",
+          "th": "Kid’s Pool"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      {
+        "key": "lounge_lobby",
+        "name": {
+          "en": "Lounge Lobby",
+          "zh": "Lounge Lobby",
+          "th": "Lounge Lobby"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       }
-    ]
+    ],
+    "building_count": 4,
+    "floor_count": 35,
+    "total_units": 1046,
+    "official_gallery_source": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
   },
   "field_evidence": {
     "official_project_page": {
@@ -764,14 +828,13 @@
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
+        "source_type": "official_developer_website",
         "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "value": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
     },
     "official_brochure": {
       "field": "official_brochure",
@@ -809,14 +872,69 @@
         "Garden / Park",
         "Kid’s Room",
         "Sauna",
-        "24-hour Security"
+        "24-hour Security",
+        "Roof Garden",
+        "Kid’s Pool",
+        "Lounge Lobby"
       ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "VERIFIED_PORTAL",
+      "provenance": {
+        "source_type": "verified_portal",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "VERIFIED_PORTAL",
+      "provenance": {
+        "source_type": "verified_portal",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      "verified_at": "2026-07-16",
+      "value": 2020
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      "verified_at": "2026-07-16",
+      "value": 4
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      "verified_at": "2026-07-16",
+      "value": 35
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_website",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      },
+      "verified_at": "2026-07-16",
+      "value": 1046
     }
   },
   "project_master": {
-    "phase": "10-sprint-3",
+    "phase": "10-sprint-3b",
     "verified_at": "2026-07-16",
     "rule": "official_project_pages_only_for_official_field_upgrades",
-    "sprint": "phase10-sprint-3"
+    "sprint": "phase10-sprint-3b-developer-batches",
+    "batch": "Supalai",
+    "notes": "Supalai official: two 25-storey + two 35-storey buildings, 1,046 residential units"
   }
 }
