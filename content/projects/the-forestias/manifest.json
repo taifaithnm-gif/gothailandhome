@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "The Forestias official project page",
+      "url": "https://mqdc.com/theforestias"
+    },
+    {
+      "type": "official_developer",
       "name": "The Forestias official / developer page",
       "url": "https://www.theforestias.com/"
     },
@@ -50,20 +55,20 @@
       "th": "เดอะ ฟอเรสเทียส์"
     },
     "description": {
-      "en": "The Forestias is a real Bangkok project associated with MQDC. Details beyond name, district, and official URL are omitted until separately sourced.",
-      "zh": "The Forestias为曼谷真实项目，关联开发商 MQDC。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
-      "th": "เดอะ ฟอเรสเทียส์ เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+      "en": "The Forestias is an MQDC project. Facts on this page are taken from the official MQDC project page (https://mqdc.com/theforestias).",
+      "zh": "The Forestias 为 MQDC 项目。本页事实来自 MQDC 官方项目页。",
+      "th": "The Forestias เป็นโครงการของ MQDC ข้อมูลในหน้านี้มาจากหน้าโครงการทางการของ MQDC"
     },
     "address": {
       "en": "Bangna-Trad Road Km 7, Bangkok",
       "zh": "Bangna-Trad Road Km 7, Bangkok",
-      "th": "ถนนบางนา-ตราด กม. 7 กรุงเทพฯ"
+      "th": "Bangna-Trad Road Km 7, Bangkok"
     },
     "postal_code": "10260",
     "latitude": null,
     "longitude": null,
     "google_maps_url": null,
-    "official_website": "https://www.theforestias.com/",
+    "official_website": "https://mqdc.com/theforestias",
     "facebook_url": null,
     "completion_year": null,
     "transit_tags": [],
@@ -162,7 +167,7 @@
           "th": "Deep Forest reserve"
         },
         "source": "official_developer",
-        "source_url": "https://www.theforestias.com/"
+        "source_url": "https://mqdc.com/theforestias"
       },
       {
         "key": "forest_pavilion",
@@ -172,7 +177,7 @@
           "th": "Forest Pavilion"
         },
         "source": "official_developer",
-        "source_url": "https://www.theforestias.com/"
+        "source_url": "https://mqdc.com/theforestias"
       },
       {
         "key": "resident_forest",
@@ -182,7 +187,7 @@
           "th": "Resident Forest"
         },
         "source": "official_developer",
-        "source_url": "https://www.theforestias.com/"
+        "source_url": "https://mqdc.com/theforestias"
       },
       {
         "key": "event_lawn",
@@ -192,7 +197,7 @@
           "th": "Event Lawn"
         },
         "source": "official_developer",
-        "source_url": "https://www.theforestias.com/"
+        "source_url": "https://mqdc.com/theforestias"
       },
       {
         "key": "canopy_walk",
@@ -202,7 +207,7 @@
           "th": "Canopy Walk"
         },
         "source": "official_developer",
-        "source_url": "https://www.theforestias.com/"
+        "source_url": "https://mqdc.com/theforestias"
       },
       {
         "key": "residence_sky_walk",
@@ -212,7 +217,7 @@
           "th": "Residence Sky Walk"
         },
         "source": "official_developer",
-        "source_url": "https://www.theforestias.com/"
+        "source_url": "https://mqdc.com/theforestias"
       },
       {
         "key": "community_center_family_center",
@@ -222,165 +227,46 @@
           "th": "Community center & Family center"
         },
         "source": "official_developer",
-        "source_url": "https://www.theforestias.com/"
+        "source_url": "https://mqdc.com/theforestias"
+      },
+      {
+        "key": "learning_center",
+        "name": {
+          "en": "Learning center",
+          "zh": "Learning center",
+          "th": "Learning center"
+        },
+        "source": "official_developer",
+        "source_url": "https://mqdc.com/theforestias"
+      },
+      {
+        "key": "transport_active_mobility",
+        "name": {
+          "en": "Transport & active mobility",
+          "zh": "Transport & active mobility",
+          "th": "Transport & active mobility"
+        },
+        "source": "official_developer",
+        "source_url": "https://mqdc.com/theforestias"
       }
     ],
     "project_master": {
-      "phase": "7",
-      "verified_at": "2026-07-15T08:06:30Z",
-      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
-      "fields_updated": [
-        "official_project_url",
-        "address",
-        "address_source",
-        "project_status",
-        "facilities_official"
-      ],
-      "notes": "MQDC official progress/news describe ongoing construction and 2026 delivery targets; no single completed-year claimed as whole-district finish on project homepage",
-      "audit_version": "2026-07-15-project-master-hygiene-v2",
+      "phase": "11-batch-3",
+      "verified_at": "2026-07-16",
+      "rule": "official_mqdc_project_pages_only",
+      "developer": "mqdc",
       "field_classifications": {
-        "official_project_name": "OFFICIAL",
-        "thai_project_name": "OFFICIAL",
-        "developer_relation": "OFFICIAL",
-        "official_project_url": "OFFICIAL",
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
         "project_status": "OFFICIAL",
         "completion_year": "UNVERIFIED",
-        "full_address": "OFFICIAL",
-        "district": "OFFICIAL",
-        "subdistrict": "UNVERIFIED",
-        "latitude": "UNVERIFIED",
-        "longitude": "UNVERIFIED",
         "building_count": "UNVERIFIED",
         "floor_count": "UNVERIFIED",
-        "total_units": "UNVERIFIED",
-        "unit_types": "UNVERIFIED",
-        "official_facilities": "OFFICIAL",
-        "nearest_bts": "UNVERIFIED",
-        "nearest_mrt": "UNVERIFIED",
-        "official_brochure": "UNVERIFIED",
-        "official_floor_plans": "UNVERIFIED",
-        "official_gallery_source": "UNVERIFIED",
-        "verification_timestamp": "DERIVED"
-      },
-      "field_provenance": {
-        "official_project_name": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.theforestias.com/",
-          "note": "Confirmed on project-specific official page"
-        },
-        "thai_project_name": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.theforestias.com/",
-          "note": "Confirmed on project-specific official page"
-        },
-        "developer_relation": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.theforestias.com/",
-          "note": "Developer relation confirmed via project-specific official page domain/branding"
-        },
-        "official_project_url": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.theforestias.com/",
-          "note": "Project-specific official URL"
-        },
-        "project_status": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.theforestias.com/",
-          "note": "Stated on official project page"
-        },
-        "completion_year": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "full_address": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.theforestias.com/",
-          "note": "Street-level address from official project site"
-        },
-        "district": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.theforestias.com/",
-          "note": "Bang Na context from official Forestias address (Bangna-Trad Road)"
-        },
-        "subdistrict": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "subdistrict not present / not Tier-1 confirmed"
-        },
-        "latitude": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "longitude": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "building_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "floor_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "total_units": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "unit_types": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_facilities": {
-          "tier": 1,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.theforestias.com/",
-          "note": "Facilities listed on official project page"
-        },
-        "nearest_bts": {
-          "tier": 4,
-          "note": "Missing",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "nearest_mrt": {
-          "tier": 4,
-          "note": "Missing",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "official_brochure": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_floor_plans": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_gallery_source": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "verification_timestamp": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Audit metadata timestamp — not an official project fact"
-        }
+        "total_units": "UNVERIFIED"
       }
     },
     "official_gallery_source": "https://www.theforestias.com/"
@@ -390,18 +276,19 @@
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.theforestias.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/theforestias"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.theforestias.com/"
+      "value": "https://mqdc.com/theforestias"
     },
     "official_address": {
       "field": "official_address",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.theforestias.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/theforestias",
+        "note": "Confirmed on official progress page: across 398 rai at Bangna-Trad Road Km 7"
       },
       "verified_at": "2026-07-16",
       "value": "Bangna-Trad Road Km 7, Bangkok"
@@ -410,18 +297,19 @@
       "field": "official_gallery",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.theforestias.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/theforestias",
+        "note": "Image binaries not mirrored pending license; URLs registered"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.theforestias.com/"
+      "value": "42 gallery URLs on official page"
     },
     "official_brochure": {
       "field": "official_brochure",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.theforestias.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/theforestias"
       },
       "verified_at": "2026-07-16",
       "value": null
@@ -430,8 +318,8 @@
       "field": "official_floor_plan",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.theforestias.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/theforestias"
       },
       "verified_at": "2026-07-16",
       "value": null
@@ -440,8 +328,8 @@
       "field": "official_facilities",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.theforestias.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/theforestias"
       },
       "verified_at": "2026-07-16",
       "value": [
@@ -451,25 +339,31 @@
         "Event Lawn",
         "Canopy Walk",
         "Residence Sky Walk",
-        "Community center & Family center"
+        "Community center & Family center",
+        "Learning center",
+        "Transport & active mobility"
       ]
     },
     "project_status": {
       "field": "project_status",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.theforestias.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/theforestias"
       },
       "verified_at": "2026-07-16",
-      "value": "under_construction_or_selling"
+      "value": [
+        "selling",
+        "under_construction"
+      ]
     },
     "completion_year": {
       "field": "completion_year",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.theforestias.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/theforestias",
+        "note": "No single whole-project completion year on official page; packaged value not upgraded"
       },
       "verified_at": "2026-07-16",
       "value": null
@@ -478,8 +372,8 @@
       "field": "building_count",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.theforestias.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/theforestias"
       },
       "verified_at": "2026-07-16",
       "value": null
@@ -488,8 +382,8 @@
       "field": "floor_count",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.theforestias.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/theforestias"
       },
       "verified_at": "2026-07-16",
       "value": null
@@ -498,8 +392,8 @@
       "field": "total_units",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.theforestias.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/theforestias"
       },
       "verified_at": "2026-07-16",
       "value": null
@@ -515,23 +409,89 @@
   },
   "media_library": {
     "gallery": {
-      "official_url": "https://www.theforestias.com/",
-      "copyright_source": "© MQDC / The Forestias — official project materials",
+      "official_url": "https://mqdc.com/theforestias",
+      "copyright_source": "© Magnolia Quality Development Corporation Limited / The Forestias",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license",
+      "gallery_image_urls": [
+        "https://mqdc.com/forestias/images/home/leaf.webp",
+        "https://mqdc.com/forestias/images/home/leaf.png",
+        "https://mqdc.com/forestias/images/home/mini-brochure/masterplan_en.jpg",
+        "https://mqdc.com/forestias/images/home/map-forest-mb.jpg",
+        "https://mqdc.com/forestias/images/home/forest/forest-1.jpg",
+        "https://mqdc.com/forestias/images/home/forest/forest-2.jpg",
+        "https://mqdc.com/forestias/images/home/forest/forest-3.jpg",
+        "https://mqdc.com/forestias/images/home/forest/forest-4.jpg",
+        "https://mqdc.com/forestias/images/home/map-forest.png",
+        "https://mqdc.com/forestias/images/home/map-walking-trails.jpg",
+        "https://mqdc.com/forestias/images/home/map-walking-trails-mb.jpg",
+        "https://mqdc.com/forestias/images/home/mini-brochure/image-com-1.jpg",
+        "https://mqdc.com/forestias/images/home/mini-brochure/image-com-2.jpg",
+        "https://mqdc.com/forestias/images/home/vr-highlight-en.jpg",
+        "https://mqdc.com/forestias/images/project/project-whizdom.webp",
+        "https://mqdc.com/forestias/images/project/project-whizdom.jpg",
+        "https://mqdc.com/forestias/images/project/whizdom/whizdom-1.jpg",
+        "https://mqdc.com/forestias/images/project/whizdom/whizdom-2.jpg",
+        "https://mqdc.com/forestias/images/project/whizdom/whizdom-3.jpg",
+        "https://mqdc.com/forestias/images/project/project-mulberry.webp",
+        "https://mqdc.com/forestias/images/project/project-mulberry.jpg",
+        "https://mqdc.com/forestias/images/project/mulberry/mulberry-groove-1.jpg",
+        "https://mqdc.com/forestias/images/project/mulberry/mulberry-groove-2.jpg",
+        "https://mqdc.com/forestias/images/project/mulberry/mulberry-groove-5.jpg",
+        "https://mqdc.com/forestias/images/project/mulberry/mulberry-groove-3.jpg",
+        "https://mqdc.com/forestias/images/project/project-aspen.webp",
+        "https://mqdc.com/forestias/images/project/project-aspen.jpg",
+        "https://mqdc.com/forestias/images/project/aspen/aspen-tree-1.jpg",
+        "https://mqdc.com/forestias/images/project/aspen/aspen-tree-2.jpg",
+        "https://mqdc.com/forestias/images/project/aspen/aspen-tree-3.jpg",
+        "https://mqdc.com/forestias/images/project/project-signature-series.jpg",
+        "https://mqdc.com/forestias/images/project/project-sixsenses.webp",
+        "https://mqdc.com/forestias/images/project/project-sixsenses.jpg",
+        "https://mqdc.com/forestias/images/project/six-senses-image-hi-light.jpg",
+        "https://mqdc.com/forestias/images/project/sixsenses/six-senses-image-01.jpg",
+        "https://mqdc.com/forestias/images/project/sixsenses/six-senses-image-02.jpg",
+        "https://mqdc.com/forestias/images/project/sixsenses/six-senses-image-03.jpg",
+        "https://mqdc.com/forestias/images/project/sixsenses/six-senses-image-04.jpg",
+        "https://mqdc.com/forestias/images/project/sixsenses/six-senses-image-05.jpg",
+        "https://mqdc.com/forestias/images/project/sixsenses/six-senses-image-06.jpg",
+        "https://mqdc.com/forestias/images/project/sixsenses/six-senses-image-07.jpg",
+        "https://mqdc.com/forestias/images/project/sixsenses/six-senses-image-08.jpg"
+      ]
+    },
+    "brochure": {
+      "official_url": "https://mqdc.com/theforestias",
+      "copyright_source": "© Magnolia Quality Development Corporation Limited / The Forestias",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "unverified_no_official_pdf"
+    },
+    "floor_plans": {
+      "official_url": "https://mqdc.com/theforestias",
+      "copyright_source": "© Magnolia Quality Development Corporation Limited / The Forestias",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "unverified_no_official_plans_published"
+    },
+    "hero": {
+      "official_url": "https://mqdc.com/theforestias",
+      "copyright_source": "© Magnolia Quality Development Corporation Limited / The Forestias",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
       "download_status": "not_downloaded_pending_license"
-    },
-    "hero": {
-      "official_url": "https://www.theforestias.com/",
-      "copyright_source": "© MQDC / The Forestias — official project materials",
-      "downloaded_date": null,
-      "checksum_sha256": null,
-      "local_storage_path": null,
-      "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
-      "placeholder_path": null
     }
+  },
+  "content_factory": {
+    "phase": "11-batch-3",
+    "developer": "mqdc",
+    "verified_at": "2026-07-16"
   }
 }

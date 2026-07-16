@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "Whizdom Essence Sukhumvit official project page",
+      "url": "https://mqdc.com/whizdom-essence-sukhumvit"
+    },
+    {
+      "type": "official_developer",
       "name": "Whizdom Essence Sukhumvit official / developer page",
       "url": "https://www.mqdc.com/"
     },
@@ -50,20 +55,20 @@
       "th": "วิซดอม เอสเซนส์"
     },
     "description": {
-      "en": "Whizdom Essence Sukhumvit is a real Bangkok project associated with MQDC. Details beyond name, district, and official URL are omitted until separately sourced.",
-      "zh": "Whizdom Essence为曼谷真实项目，关联开发商 MQDC。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
-      "th": "วิซดอม เอสเซนส์ เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+      "en": "Whizdom Essence Sukhumvit is an MQDC project. Facts on this page are taken from the official MQDC project page (https://mqdc.com/whizdom-essence-sukhumvit).",
+      "zh": "Whizdom Essence Sukhumvit 为 MQDC 项目。本页事实来自 MQDC 官方项目页。",
+      "th": "Whizdom Essence Sukhumvit เป็นโครงการของ MQDC ข้อมูลในหน้านี้มาจากหน้าโครงการทางการของ MQDC"
     },
     "address": {
-      "en": "Phra Khanong, Bangkok",
-      "zh": "曼谷帕卡农",
-      "th": "พระโขนง กรุงเทพฯ"
+      "en": "Sukhumvit Rd. Near BTS Punnawithi Station.",
+      "zh": "Sukhumvit Rd. Near BTS Punnawithi Station.",
+      "th": "Sukhumvit Rd. Near BTS Punnawithi Station."
     },
     "postal_code": "10260",
     "latitude": 13.68653619084634,
     "longitude": 100.6120060205224,
     "google_maps_url": "https://www.google.com/maps?q=13.68653619084634,100.6120060205224",
-    "official_website": "https://www.mqdc.com/",
+    "official_website": "https://mqdc.com/whizdom-essence-sukhumvit",
     "facebook_url": "https://www.facebook.com/mqdc.thailand",
     "completion_year": 2019,
     "transit_tags": [
@@ -84,85 +89,84 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "pool",
+        "key": "2_rai_park_on_the_ground",
         "name": {
-          "en": "Swimming pool",
-          "zh": "Swimming pool",
-          "th": "Swimming pool"
+          "en": "2-Rai park on the ground",
+          "zh": "2-Rai park on the ground",
+          "th": "2-Rai park on the ground"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://mqdc.com/whizdom-essence-sukhumvit"
       },
       {
-        "key": "fitness",
+        "key": "jogging_track_and_bicycle_lane",
         "name": {
-          "en": "Fitness / gym",
-          "zh": "Fitness / gym",
-          "th": "Fitness / gym"
+          "en": "jogging track and bicycle lane",
+          "zh": "jogging track and bicycle lane",
+          "th": "jogging track and bicycle lane"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://mqdc.com/whizdom-essence-sukhumvit"
       },
       {
-        "key": "parking",
+        "key": "olympic_standard_size_swimming_pool",
         "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
+          "en": "Olympic standard size swimming pool",
+          "zh": "Olympic standard size swimming pool",
+          "th": "Olympic standard size swimming pool"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://mqdc.com/whizdom-essence-sukhumvit"
       },
       {
-        "key": "security",
+        "key": "swimming_pool_for_kids_and_a_jacuzzi",
         "name": {
-          "en": "24h security",
-          "zh": "24h security",
-          "th": "24h security"
+          "en": "Swimming pool for kids and a Jacuzzi",
+          "zh": "Swimming pool for kids and a Jacuzzi",
+          "th": "Swimming pool for kids and a Jacuzzi"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://mqdc.com/whizdom-essence-sukhumvit"
       },
       {
-        "key": "park",
+        "key": "fitness_yoga_room",
         "name": {
-          "en": "Garden / courtyard",
-          "zh": "Garden / courtyard",
-          "th": "Garden / courtyard"
+          "en": "Fitness / Yoga room",
+          "zh": "Fitness / Yoga room",
+          "th": "Fitness / Yoga room"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://mqdc.com/whizdom-essence-sukhumvit"
       },
       {
-        "key": "library",
+        "key": "relaxing_zone_and_sky_garden",
         "name": {
-          "en": "Library",
-          "zh": "Library",
-          "th": "Library"
+          "en": "Relaxing Zone and Sky Garden",
+          "zh": "Relaxing Zone and Sky Garden",
+          "th": "Relaxing Zone and Sky Garden"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://mqdc.com/whizdom-essence-sukhumvit"
       },
       {
-        "key": "lift",
+        "key": "business_lounge_library_and_special_study_room",
         "name": {
-          "en": "Elevator",
-          "zh": "Elevator",
-          "th": "Elevator"
+          "en": "Business Lounge Library and Special Study Room",
+          "zh": "Business Lounge Library and Special Study Room",
+          "th": "Business Lounge Library and Special Study Room"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://mqdc.com/whizdom-essence-sukhumvit"
       },
       {
-        "key": "cctv",
+        "key": "playroom",
         "name": {
-          "en": "CCTV",
-          "zh": "CCTV",
-          "th": "CCTV"
+          "en": "Playroom",
+          "zh": "Playroom",
+          "th": "Playroom"
         },
-        "source": "propertyhub"
-      },
-      {
-        "key": "keycard",
-        "name": {
-          "en": "Keycard access",
-          "zh": "Keycard access",
-          "th": "Keycard access"
-        },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://mqdc.com/whizdom-essence-sukhumvit"
       }
     ],
     "nearby_schools": [
@@ -370,188 +374,67 @@
       }
     ],
     "project_master": {
-      "phase": "7",
-      "audit_version": "2026-07-15-project-master-hygiene-v2",
-      "verified_at": "2026-07-15T08:06:30Z",
-      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
+      "phase": "11-batch-3",
+      "verified_at": "2026-07-16",
+      "rule": "official_mqdc_project_pages_only",
+      "developer": "mqdc",
       "field_classifications": {
-        "official_project_name": "VERIFIED_PORTAL",
-        "thai_project_name": "VERIFIED_PORTAL",
-        "developer_relation": "VERIFIED_PORTAL",
-        "official_project_url": "UNVERIFIED",
-        "project_status": "VERIFIED_PORTAL",
-        "completion_year": "VERIFIED_PORTAL",
-        "full_address": "VERIFIED_PORTAL",
-        "district": "DERIVED",
-        "subdistrict": "UNVERIFIED",
-        "latitude": "VERIFIED_PORTAL",
-        "longitude": "VERIFIED_PORTAL",
-        "building_count": "UNVERIFIED",
-        "floor_count": "UNVERIFIED",
-        "total_units": "UNVERIFIED",
-        "unit_types": "UNVERIFIED",
-        "official_facilities": "VERIFIED_PORTAL",
-        "nearest_bts": "DERIVED",
-        "nearest_mrt": "UNVERIFIED",
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
         "official_brochure": "UNVERIFIED",
-        "official_floor_plans": "UNVERIFIED",
-        "official_gallery_source": "UNVERIFIED",
-        "verification_timestamp": "DERIVED"
-      },
-      "field_provenance": {
-        "official_project_name": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://propertyhub.in.th/en/projects/whizdom-essence",
-          "note": "Packaged EN name retained as portal/package; not Tier-1 project-page confirmed"
-        },
-        "thai_project_name": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Packaged Thai name from portal/package; not project-page confirmed"
-        },
-        "developer_relation": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Package developer.slug only — not OFFICIAL without Tier-1 project page"
-        },
-        "official_project_url": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.mqdc.com/",
-          "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
-        },
-        "project_status": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Status from portal/package"
-        },
-        "completion_year": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Completion year from portal/package; not promoted to OFFICIAL"
-        },
-        "full_address": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Address from portal/package (may be district-level placeholder)"
-        },
-        "district": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Derived from package location.district_slug/name — not Tier-1 OFFICIAL"
-        },
-        "subdistrict": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "subdistrict not present / not Tier-1 confirmed"
-        },
-        "latitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "longitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "building_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "floor_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "total_units": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "unit_types": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_facilities": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Facilities from portal/package"
-        },
-        "nearest_bts": {
-          "tier": 3,
-          "note": "Derived from package nearby_bts/transportation/transit_tags — not Tier-1 confirmed",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "nearest_mrt": {
-          "tier": 4,
-          "note": "Missing",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "official_brochure": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_floor_plans": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_gallery_source": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "verification_timestamp": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Audit metadata timestamp — not an official project fact"
-        }
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
       }
-    }
+    },
+    "total_units": 664,
+    "unit_count": 664,
+    "floor_count": 50,
+    "floors": 50
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.mqdc.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/whizdom-essence-sukhumvit"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.mqdc.com/"
+      "value": "https://mqdc.com/whizdom-essence-sukhumvit"
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.mqdc.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/whizdom-essence-sukhumvit"
       },
       "verified_at": "2026-07-16",
-      "value": "Phra Khanong, Bangkok"
+      "value": "Sukhumvit Rd. Near BTS Punnawithi Station."
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.mqdc.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/whizdom-essence-sukhumvit",
+        "note": "Image binaries not mirrored pending license; URLs registered"
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "value": "27 gallery URLs on official page"
     },
     "official_brochure": {
       "field": "official_brochure",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.mqdc.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/whizdom-essence-sukhumvit"
       },
       "verified_at": "2026-07-16",
       "value": null
@@ -560,21 +443,85 @@
       "field": "official_floor_plan",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.mqdc.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/whizdom-essence-sukhumvit"
       },
       "verified_at": "2026-07-16",
       "value": null
     },
     "official_facilities": {
       "field": "official_facilities",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.mqdc.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/whizdom-essence-sukhumvit"
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "2-Rai park on the ground",
+        "jogging track and bicycle lane",
+        "Olympic standard size swimming pool",
+        "Swimming pool for kids and a Jacuzzi",
+        "Fitness / Yoga room",
+        "Relaxing Zone and Sky Garden",
+        "Business Lounge Library and Special Study Room",
+        "Playroom"
+      ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/whizdom-essence-sukhumvit"
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "sold_out"
+      ]
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/whizdom-essence-sukhumvit",
+        "note": "No single whole-project completion year on official page; packaged value not upgraded"
+      },
+      "verified_at": "2026-07-16",
+      "value": 2019
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/whizdom-essence-sukhumvit"
       },
       "verified_at": "2026-07-16",
       "value": null
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/whizdom-essence-sukhumvit",
+        "note": "Official Project Information: Number of levels — 50 Storeys"
+      },
+      "verified_at": "2026-07-16",
+      "value": 50
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://mqdc.com/whizdom-essence-sukhumvit",
+        "note": "Official: Residential 664 units, Commercial 2 units — residential count used"
+      },
+      "verified_at": "2026-07-16",
+      "value": 664
     }
   },
   "project_master": {
@@ -584,15 +531,75 @@
     "sprint": "phase10-sprint-3"
   },
   "media_library": {
-    "hero": {
-      "official_url": "https://www.mqdc.com/",
-      "copyright_source": "© MQDC / Whizdom Essence Sukhumvit — official project materials",
+    "gallery": {
+      "official_url": "https://mqdc.com/whizdom-essence-sukhumvit",
+      "copyright_source": "© Magnolia Quality Development Corporation Limited / Whizdom Essence Sukhumvit",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
-      "placeholder_path": null
+      "download_status": "not_downloaded_pending_license",
+      "gallery_image_urls": [
+        "https://corecms.mqdc.com/assets/6c8072ff-075b-42d6-bcb1-b449ecdf1b08",
+        "https://corecms.mqdc.com/assets/f22ba094-decd-42ff-a0f0-615e23032ade",
+        "https://corecms.mqdc.com/assets/db2c9872-1e09-46db-b193-b1129a40c045",
+        "https://corecms.mqdc.com/assets/13e69cee-4a28-432d-8865-4fdd63a3fe79",
+        "https://corecms.mqdc.com/assets/b7bd964b-f052-4e7d-9db6-02909f086ee3",
+        "https://corecms.mqdc.com/assets/64d48352-38b3-427b-8166-28aad95f98b3",
+        "https://corecms.mqdc.com/assets/8d667ce6-df21-41e4-92da-ff1dd2e101e6",
+        "https://corecms.mqdc.com/assets/9a84c7e2-bf75-4396-b506-8098e5289bb8",
+        "https://corecms.mqdc.com/assets/c7766e39-b7f5-4b7e-b401-ba8a8a264ff3",
+        "https://corecms.mqdc.com/assets/a4097051-b1a7-4276-ac8a-3b7087d671b6",
+        "https://corecms.mqdc.com/assets/af402ce4-a9d4-4462-8a4e-97eda603d695",
+        "https://corecms.mqdc.com/assets/df1d64b0-b874-43f1-8e8a-eed71e1ed5a4",
+        "https://corecms.mqdc.com/assets/3ec0c40d-d329-45db-b9dc-c1a8763fbfa7",
+        "https://corecms.mqdc.com/assets/702cf369-c1d3-4047-9a80-9516d7be6eee",
+        "https://corecms.mqdc.com/assets/16e9bbed-16d7-482c-b641-e24b04cdc488",
+        "https://corecms.mqdc.com/assets/927d574c-dadd-4383-abb1-fd79907b149b",
+        "https://corecms.mqdc.com/assets/4bbf0007-0084-4af0-bb41-e65ec80e3bbf",
+        "https://corecms.mqdc.com/assets/44152a52-438c-4899-bcd2-36b8a7582ccb",
+        "https://corecms.mqdc.com/assets/26adfe54-3f01-40e1-866d-ba2d37e5d1aa",
+        "https://corecms.mqdc.com/assets/3e490b84-ac99-45c9-8c01-8430c23c1fb0",
+        "https://corecms.mqdc.com/assets/acb99243-61a4-401c-853b-1b78f8322be6",
+        "https://corecms.mqdc.com/assets/f3657cab-ab0e-4b00-ace7-478c1efb8432",
+        "https://corecms.mqdc.com/assets/9b16da02-2d3b-4e4b-abb8-b19a7472b437",
+        "https://corecms.mqdc.com/assets/0cf9e03e-df15-4d75-bd88-4ea063669159",
+        "https://corecms.mqdc.com/assets/e74ed06e-fa82-46c2-abdf-3c835e0d8b57",
+        "https://corecms.mqdc.com/assets/00b2ef50-50b2-4569-abb7-1162308d644b",
+        "https://corecms.mqdc.com/assets/a3070e22-3b76-4110-b85f-b0a3c0995904"
+      ]
+    },
+    "brochure": {
+      "official_url": "https://mqdc.com/whizdom-essence-sukhumvit",
+      "copyright_source": "© Magnolia Quality Development Corporation Limited / Whizdom Essence Sukhumvit",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "unverified_no_official_pdf"
+    },
+    "floor_plans": {
+      "official_url": "https://mqdc.com/whizdom-essence-sukhumvit",
+      "copyright_source": "© Magnolia Quality Development Corporation Limited / Whizdom Essence Sukhumvit",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "unverified_no_official_plans_published"
+    },
+    "hero": {
+      "official_url": "https://mqdc.com/whizdom-essence-sukhumvit",
+      "copyright_source": "© Magnolia Quality Development Corporation Limited / Whizdom Essence Sukhumvit",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
     }
+  },
+  "content_factory": {
+    "phase": "11-batch-3",
+    "developer": "mqdc",
+    "verified_at": "2026-07-16"
   }
 }
