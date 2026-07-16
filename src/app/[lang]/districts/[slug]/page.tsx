@@ -1,12 +1,15 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 
-import { PageShell } from "@/components/layout/page-shell";
-import { PropertyGrid } from "@/components/property/property-grid";
+import {
+  DISTRICT_LISTING_PREVIEW,
+  DistrictCenter,
+} from "@/components/district/district-center";
+import { Breadcrumb } from "@/components/ui/breadcrumb";
 import { isLocale } from "@/config/locales";
 import { getDistrictBySlug } from "@/lib/data/geography";
 import { listPublishedProjects } from "@/lib/data/projects";
-import { listPublishedProperties } from "@/lib/data/properties";
+import { listPublishedPropertiesPaged } from "@/lib/data/properties";
+import { getDistrictPackage } from "@/lib/districts/package";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
 
@@ -36,59 +39,51 @@ export default async function DistrictDetailPage({
   const district = await getDistrictBySlug(slug);
   if (!district) notFound();
 
-  const [dict, projects, listings] = await Promise.all([
+  const pkg = getDistrictPackage(district.slug, district.citySlug || "bangkok");
+
+  const [dict, projects, listingPage] = await Promise.all([
     getDictionary(lang),
     listPublishedProjects({ districtId: district.id }),
-    listPublishedProperties({
+    listPublishedPropertiesPaged({
       districtSlug: district.slug,
       verifiedOnly: true,
-      sort: "newest",
+      sort: "newest_verified",
+      page: 1,
+      pageSize: DISTRICT_LISTING_PREVIEW,
     }),
   ]);
 
+  const transitTags = Array.from(
+    new Set(
+      projects.flatMap((project) => project.transitTags ?? []).filter(Boolean),
+    ),
+  ).sort((a, b) => a.localeCompare(b));
+
   return (
-    <PageShell
-      title={district.name[lang]}
-      subtitle={`${district.cityName[lang]} · ${district.summary[lang]}`}
-    >
-      <p className="mb-6 text-sm">
-        <Link
-          href={localePath(lang, `/cities/${district.citySlug}`)}
-          className="text-[var(--brand)] hover:underline"
-        >
-          {district.cityName[lang]}
-        </Link>
-      </p>
-
-      <section className="space-y-4">
-        <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
-          {dict.nav.projects}
-        </h2>
-        <ul className="grid gap-3 sm:grid-cols-2">
-          {projects.map((project) => (
-            <li key={project.id}>
-              <Link
-                href={localePath(lang, `/projects/${project.slug}`)}
-                className="block rounded-xl border border-[var(--brand-line)] bg-white p-4 hover:border-[var(--brand)]"
-              >
-                {project.name[lang]}
-              </Link>
-            </li>
-          ))}
-          {!projects.length ? (
-            <li className="text-sm text-stone-500">
-              {dict.cities.emptyProjects}
-            </li>
-          ) : null}
-        </ul>
-      </section>
-
-      <section className="mt-10 space-y-4">
-        <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
-          {dict.cities.listings}
-        </h2>
-        <PropertyGrid locale={lang} dict={dict} properties={listings} />
-      </section>
-    </PageShell>
+    <>
+      <div className="ds-container pt-6">
+        <Breadcrumb
+          items={[
+            { label: dict.nav.home, href: localePath(lang) },
+            { label: dict.nav.cities, href: localePath(lang, "/cities") },
+            {
+              label: district.cityName[lang],
+              href: localePath(lang, `/cities/${district.citySlug}`),
+            },
+            { label: district.name[lang] },
+          ]}
+        />
+      </div>
+      <DistrictCenter
+        locale={lang}
+        dict={dict}
+        district={district}
+        pkg={pkg}
+        projects={projects}
+        listings={listingPage.items}
+        listingTotal={listingPage.total}
+        transitTags={transitTags}
+      />
+    </>
   );
 }
