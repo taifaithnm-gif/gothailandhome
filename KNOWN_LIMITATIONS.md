@@ -9,6 +9,7 @@
 3. **Factory-linked portfolios** — Developer/project lists on GoThailandHome are platform-linked subsets, not claimed complete official portfolios (unless an OFFICIAL label applies).
 4. **District pages** — District Center Alpha ships hero/overview/map/projects/listings/transit/lifestyle/schools/hospitals/shopping/knowledge + Find My Home + Platform Support. Empty package amenity arrays remain **Unknown**; no invented market statistics.
 5. **Marketplace forms** — Shared Alpha form kit + hub entry layer (`/[lang]/marketplace`). Still not a completed partnership/ops workflow (no CRM / email automation).
+5b. **Knowledge** — Hub + glossary + Bangkok district index from `content/glossary`. Editorial long-form articles remain absent (intentionally not invented).
 6. **Evidence gaps** — Many project/developer fields remain PARTIAL / UNVERIFIED / FACTORY by design; unavailable stays unavailable.
 7. **Sitemap listing coverage** — `listPublishedProperties` used by `sitemap.ts` is subject to Supabase/PostgREST default row caps (~**1000** listing URLs per locale observed vs ~1318 published). Not a silent invent — incomplete SEO coverage until paged sitemap generation.
 8. **Maps** — Verified coordinates linked out; no embedded map product SLA.
