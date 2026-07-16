@@ -1,0 +1,29 @@
+{
+  "id": "project:xt-huai-khwang:gallery",
+  "class": "gallery",
+  "entity_type": "project",
+  "entity_slug": "xt-huai-khwang",
+  "role": "gallery",
+  "official_url": "https://www.sansiri.com/en/condominium/xt-huaikhwang/",
+  "copyright_source": "© Sansiri Public Company Limited / XT Huaikhwang",
+  "download_status": "not_downloaded_pending_license",
+  "rights_note": "hotlink",
+  "notes": "14 official gallery image URLs registered; binaries not scraped.",
+  "gallery_image_urls": [
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-02.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-03.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-01.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-06.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-00.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-04.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-05.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-07.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-08.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-10.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-11.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-12.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-13.jpg",
+    "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-14.jpg"
+  ],
+  "verified_at": "2026-07-16"
+}

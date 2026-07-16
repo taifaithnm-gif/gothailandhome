@@ -28,6 +28,21 @@
       "type": "official_developer",
       "name": "sansiri official (headquarters_source)",
       "url": "https://sustainability.sansiri.com/en/document/viewer/62/sustainability-report-2019"
+    },
+    {
+      "type": "facebook",
+      "name": "Sansiri facebook",
+      "url": "https://www.facebook.com/sansirifamily"
+    },
+    {
+      "type": "instagram",
+      "name": "Sansiri instagram",
+      "url": "https://www.instagram.com/sansiriplc/"
+    },
+    {
+      "type": "youtube",
+      "name": "Sansiri youtube",
+      "url": "https://www.youtube.com/user/sansiritv"
     }
   ],
   "name": {
@@ -131,10 +146,15 @@
     "phuket": []
   },
   "website": "https://www.sansiri.com/",
-  "facebook_url": "https://www.facebook.com/SansiriPLC",
+  "facebook_url": "https://www.facebook.com/sansirifamily",
   "google_maps_url": null,
   "social_links": {
-    "facebook": "https://www.facebook.com/SansiriPLC",
+    "facebook": "https://www.facebook.com/sansirifamily",
+    "instagram": "https://www.instagram.com/sansiriplc/",
+    "youtube": "https://www.youtube.com/user/sansiritv",
+    "twitter": "https://x.com/SansiriPLC",
+    "tiktok": "https://www.tiktok.com/@sansiriplc",
+    "line": "https://line.me/R/ti/p/%40sansiriplc",
     "website": "https://www.sansiri.com/"
   },
   "contact": {
@@ -252,25 +272,12 @@
     }
   ],
   "developer_master": {
-    "phase": "10-sprint-2",
+    "phase": "11-batch-2",
     "verified_at": "2026-07-16",
-    "rule": "official_developer_websites_and_set_factsheets_for_official_fields",
-    "fields_touched": [
-      "official_website",
-      "official_logo",
-      "favicon",
-      "headquarters",
-      "established_year",
-      "company_profile",
-      "company_history",
-      "corporate_overview",
-      "official_contact_page",
-      "listed_company_code",
-      "official_social_links"
-    ],
-    "sprint": "phase10-sprint-2"
+    "rule": "official_sansiri_and_set_only",
+    "developer": "sansiri"
   },
-  "official_contact_page": "https://www.sansiri.com/contact/",
+  "official_contact_page": "https://www.sansiri.com/en/contact/",
   "field_evidence": {
     "official_website": {
       "field": "official_website",
@@ -360,10 +367,10 @@
       "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_website",
-        "url": "https://www.sansiri.com/contact/"
+        "url": "https://www.sansiri.com/en/contact/"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.sansiri.com/contact/"
+      "value": "https://www.sansiri.com/en/contact/"
     },
     "listed_company_code": {
       "field": "listed_company_code",
@@ -379,14 +386,27 @@
       "field": "official_social_links",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_package_social",
-        "url": "https://www.facebook.com/SansiriPLC"
+        "source_type": "official_developer_contact_page",
+        "url": "https://www.sansiri.com/en/contact/",
+        "note": "Footer social icons on official EN contact + homepage"
       },
       "verified_at": "2026-07-16",
       "value": {
-        "facebook": "https://www.facebook.com/SansiriPLC",
+        "facebook": "https://www.facebook.com/sansirifamily",
+        "instagram": "https://www.instagram.com/sansiriplc/",
+        "youtube": "https://www.youtube.com/user/sansiritv",
+        "twitter": "https://x.com/SansiriPLC",
+        "tiktok": "https://www.tiktok.com/@sansiriplc",
+        "line": "https://line.me/R/ti/p/%40sansiriplc",
         "website": "https://www.sansiri.com/"
       }
     }
+  },
+  "instagram_url": "https://www.instagram.com/sansiriplc/",
+  "youtube_url": "https://www.youtube.com/user/sansiritv",
+  "company_history": {
+    "en": "Sansiri Public Company Limited — established since 1984 (Annual Report 2024); SET ticker SIRI.",
+    "zh": "Sansiri Public Company Limited — 成立于 1984 年（年度报告 2024）；SET 代码 SIRI。",
+    "th": "บริษัท แสนสิริ จำกัด (มหาชน) — ก่อตั้งตั้งแต่ปี 2527 (รายงานประจำปี 2024); SET ชื่อย่อ SIRI"
   }
 }

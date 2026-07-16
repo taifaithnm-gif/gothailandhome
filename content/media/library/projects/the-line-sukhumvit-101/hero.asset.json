@@ -4,13 +4,13 @@
   "entity_type": "project",
   "entity_slug": "the-line-sukhumvit-101",
   "role": "hero",
-  "official_url": "https://www.sansiri.com/",
-  "copyright_source": "© Sansiri / THE LINE Sukhumvit 101 — official project materials",
+  "official_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+  "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101",
   "downloaded_date": null,
   "checksum_sha256": null,
   "local_storage_path": null,
   "rights_note": "hotlink",
-  "download_status": "placeholder_pending_official_mirror",
+  "download_status": "not_downloaded_pending_license",
   "verified_at": "2026-07-16",
-  "notes": "Placeholder remains at n/a; official hero binary not mirrored without license."
+  "notes": "Hero provenance from official Sansiri project page (Batch 2)."
 }

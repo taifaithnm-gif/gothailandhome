@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "The Line Sukhumvit 101 official project page",
+      "url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
+    },
+    {
+      "type": "official_developer",
       "name": "THE LINE Sukhumvit 101 official / developer page",
       "url": "https://www.sansiri.com/"
     },
@@ -50,20 +55,20 @@
       "th": "เดอะ ไลน์ สุขุมวิท 101"
     },
     "description": {
-      "en": "THE LINE Sukhumvit 101 is a real Bangkok project associated with Sansiri. Details beyond name, district, and official URL are omitted until separately sourced.",
-      "zh": "THE LINE 素坤逸101为曼谷真实项目，关联开发商 尚思瑞。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
-      "th": "เดอะ ไลน์ สุขุมวิท 101 เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา แสนสิริ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+      "en": "The Line Sukhumvit 101 is a Sansiri condominium project. Facts on this page are taken from the official Sansiri project page (https://www.sansiri.com/en/condominium/theline-sukhumvit101/).",
+      "zh": "The Line Sukhumvit 101 为 Sansiri 公寓项目。本页事实来自 Sansiri 官方项目页。",
+      "th": "The Line Sukhumvit 101 เป็นโครงการคอนโดของ แสนสิริ ข้อมูลในหน้านี้มาจากหน้าโครงการทางการของแสนสิริ"
     },
     "address": {
-      "en": "Phra Khanong, Bangkok",
-      "zh": "曼谷帕卡农",
-      "th": "พระโขนง กรุงเทพฯ"
+      "en": "Sukhumvit 101, Sukhumvit road, Phra Khanong, Wattana, Bangkok",
+      "zh": "Sukhumvit 101, Sukhumvit road, Phra Khanong, Wattana, Bangkok",
+      "th": "Sukhumvit 101, Sukhumvit road, Phra Khanong, Wattana, Bangkok"
     },
     "postal_code": "10260",
     "latitude": 13.691924907962246,
     "longitude": 100.60792446304569,
     "google_maps_url": "https://www.google.com/maps?q=13.691924907962246,100.60792446304569",
-    "official_website": "https://www.sansiri.com/",
+    "official_website": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
     "facebook_url": "https://www.facebook.com/SansiriPLC",
     "completion_year": 2020,
     "transit_tags": [
@@ -84,76 +89,74 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "pool",
+        "key": "fitness",
+        "name": {
+          "en": "Fitness",
+          "zh": "Fitness",
+          "th": "Fitness"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
+      },
+      {
+        "key": "swimming_pool",
         "name": {
           "en": "Swimming pool",
           "zh": "Swimming pool",
           "th": "Swimming pool"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
       },
       {
-        "key": "fitness",
+        "key": "jogging_lane",
         "name": {
-          "en": "Fitness / gym",
-          "zh": "Fitness / gym",
-          "th": "Fitness / gym"
+          "en": "Jogging lane",
+          "zh": "Jogging lane",
+          "th": "Jogging lane"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
       },
       {
-        "key": "parking",
+        "key": "lounge_room",
         "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
+          "en": "Lounge / room",
+          "zh": "Lounge / room",
+          "th": "Lounge / room"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
       },
       {
-        "key": "security",
+        "key": "common_space",
         "name": {
-          "en": "24h security",
-          "zh": "24h security",
-          "th": "24h security"
+          "en": "Common space",
+          "zh": "Common space",
+          "th": "Common space"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
       },
       {
-        "key": "park",
+        "key": "library",
         "name": {
-          "en": "Garden / courtyard",
-          "zh": "Garden / courtyard",
-          "th": "Garden / courtyard"
+          "en": "Library",
+          "zh": "Library",
+          "th": "Library"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
       },
       {
-        "key": "sauna",
+        "key": "park_garden",
         "name": {
-          "en": "Sauna",
-          "zh": "Sauna",
-          "th": "Sauna"
+          "en": "Park / garden",
+          "zh": "Park / garden",
+          "th": "Park / garden"
         },
-        "source": "propertyhub"
-      },
-      {
-        "key": "jacuzzi",
-        "name": {
-          "en": "Jacuzzi",
-          "zh": "Jacuzzi",
-          "th": "Jacuzzi"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "lift",
-        "name": {
-          "en": "Elevator",
-          "zh": "Elevator",
-          "th": "Elevator"
-        },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
       },
       {
         "key": "cctv",
@@ -162,25 +165,18 @@
           "zh": "CCTV",
           "th": "CCTV"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
       },
       {
-        "key": "keycard",
+        "key": "24h_security",
         "name": {
-          "en": "Keycard access",
-          "zh": "Keycard access",
-          "th": "Keycard access"
+          "en": "24h security",
+          "zh": "24h security",
+          "th": "24h security"
         },
-        "source": "propertyhub"
-      },
-      {
-        "key": "motorcycle-parking",
-        "name": {
-          "en": "Motorcycle parking",
-          "zh": "Motorcycle parking",
-          "th": "Motorcycle parking"
-        },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
       }
     ],
     "nearby_schools": [
@@ -368,211 +364,157 @@
       }
     ],
     "project_master": {
-      "phase": "7",
-      "audit_version": "2026-07-15-project-master-hygiene-v2",
-      "verified_at": "2026-07-15T08:06:30Z",
-      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
+      "phase": "11-batch-2",
+      "verified_at": "2026-07-16",
+      "rule": "official_sansiri_project_pages_only",
+      "developer": "sansiri",
       "field_classifications": {
-        "official_project_name": "VERIFIED_PORTAL",
-        "thai_project_name": "VERIFIED_PORTAL",
-        "developer_relation": "VERIFIED_PORTAL",
-        "official_project_url": "UNVERIFIED",
-        "project_status": "VERIFIED_PORTAL",
-        "completion_year": "VERIFIED_PORTAL",
-        "full_address": "VERIFIED_PORTAL",
-        "district": "DERIVED",
-        "subdistrict": "UNVERIFIED",
-        "latitude": "VERIFIED_PORTAL",
-        "longitude": "VERIFIED_PORTAL",
-        "building_count": "UNVERIFIED",
-        "floor_count": "UNVERIFIED",
-        "total_units": "UNVERIFIED",
-        "unit_types": "UNVERIFIED",
-        "official_facilities": "VERIFIED_PORTAL",
-        "nearest_bts": "DERIVED",
-        "nearest_mrt": "UNVERIFIED",
-        "official_brochure": "UNVERIFIED",
-        "official_floor_plans": "UNVERIFIED",
-        "official_gallery_source": "UNVERIFIED",
-        "verification_timestamp": "DERIVED"
-      },
-      "field_provenance": {
-        "official_project_name": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://propertyhub.in.th/en/projects/the-line-sukhumvit-101",
-          "note": "Packaged EN name retained as portal/package; not Tier-1 project-page confirmed"
-        },
-        "thai_project_name": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Packaged Thai name from portal/package; not project-page confirmed"
-        },
-        "developer_relation": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Package developer.slug only — not OFFICIAL without Tier-1 project page"
-        },
-        "official_project_url": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.sansiri.com/",
-          "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
-        },
-        "project_status": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Status from portal/package"
-        },
-        "completion_year": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Completion year from portal/package; not promoted to OFFICIAL"
-        },
-        "full_address": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Address from portal/package (may be district-level placeholder)"
-        },
-        "district": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Derived from package location.district_slug/name — not Tier-1 OFFICIAL"
-        },
-        "subdistrict": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "subdistrict not present / not Tier-1 confirmed"
-        },
-        "latitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "longitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "building_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "floor_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "total_units": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "unit_types": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_facilities": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Facilities from portal/package"
-        },
-        "nearest_bts": {
-          "tier": 3,
-          "note": "Derived from package nearby_bts/transportation/transit_tags — not Tier-1 confirmed",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "nearest_mrt": {
-          "tier": 4,
-          "note": "Missing",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "official_brochure": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_floor_plans": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_gallery_source": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "verification_timestamp": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Audit metadata timestamp — not an official project fact"
-        }
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "OFFICIAL",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
       }
-    }
+    },
+    "total_units": 778,
+    "unit_count": 778,
+    "floor_count": 37,
+    "floors": 37,
+    "building_count": 1,
+    "buildings": 1
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.sansiri.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.sansiri.com/"
+      "value": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.sansiri.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
       },
       "verified_at": "2026-07-16",
-      "value": "Phra Khanong, Bangkok"
+      "value": "Sukhumvit 101, Sukhumvit road, Phra Khanong, Wattana, Bangkok"
     },
     "official_gallery": {
       "field": "official_gallery",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.sansiri.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+        "note": "Image binaries not mirrored pending license; URLs registered"
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "value": "11 gallery URLs on official page"
     },
     "official_brochure": {
       "field": "official_brochure",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.sansiri.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/uploads/docs/2017/01/24/e3f71a73-254d-4666-abd2-61cdf56ff82c.pdf"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "https://www.sansiri.com/uploads/docs/2017/01/24/e3f71a73-254d-4666-abd2-61cdf56ff82c.pdf"
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.sansiri.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "Unit/floor plan section present on official project page (hotlink; binaries not mirrored)"
     },
     "official_facilities": {
       "field": "official_facilities",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.sansiri.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": [
+        "Fitness",
+        "Swimming pool",
+        "Jogging lane",
+        "Lounge / room",
+        "Common space",
+        "Library",
+        "Park / garden",
+        "CCTV",
+        "24h security"
+      ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "ready_to_move"
+      ]
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+        "note": "Official Project Details Completion field"
+      },
+      "verified_at": "2026-07-16",
+      "value": 2020
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+        "note": "From official Project Type: 37 Storey Residential Building"
+      },
+      "verified_at": "2026-07-16",
+      "value": 1
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+        "note": "From official Project Type: 37 Storey Residential Building"
+      },
+      "verified_at": "2026-07-16",
+      "value": 37
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/"
+      },
+      "verified_at": "2026-07-16",
+      "value": 778
     }
   },
   "project_master": {
@@ -582,15 +524,59 @@
     "sprint": "phase10-sprint-3"
   },
   "media_library": {
-    "hero": {
-      "official_url": "https://www.sansiri.com/",
-      "copyright_source": "© Sansiri / THE LINE Sukhumvit 101 — official project materials",
+    "gallery": {
+      "official_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+      "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
-      "placeholder_path": null
+      "download_status": "not_downloaded_pending_license",
+      "gallery_image_urls": [
+        "https://www.sansiri.com/uploads/gallery/2017/01/23/42111163-ed8c-4f1f-8602-9e414bd8c937.jpg",
+        "https://www.sansiri.com/uploads/gallery/2017/01/23/cb4dfbf3-d167-497a-bd8c-12107e9da3cc.jpg",
+        "https://www.sansiri.com/uploads/gallery/2017/01/23/a0c7b8a7-ca02-4102-b7dd-3bdf5b13c71e.jpg",
+        "https://www.sansiri.com/uploads/gallery/2017/01/23/7d1a3b56-45a9-43b1-b240-8fb7cf98d650.jpg",
+        "https://www.sansiri.com/uploads/gallery/2017/01/23/e17fbff3-7692-4fce-8981-b7699b626780.jpg",
+        "https://www.sansiri.com/uploads/gallery/2017/01/23/41691863-daec-4dce-8950-ca3f455718c0.jpg",
+        "https://www.sansiri.com/uploads/gallery/2017/01/23/7c3ccdf9-81f6-4e92-b312-f611c4f82e49.jpg",
+        "https://www.sansiri.com/uploads/gallery/2017/01/23/771313c4-e5b7-4630-a490-e8c023a98eff.jpg",
+        "https://www.sansiri.com/uploads/gallery/2017/01/23/3ce0c285-f9e8-467f-9661-633cbc6eaffe.jpg",
+        "https://www.sansiri.com/uploads/gallery/2017/01/23/2973a1d6-6656-446d-a9ee-01bc88120002.jpg",
+        "https://www.sansiri.com/uploads/project/2017/01/23/f6c6fe27-f849-4056-bf7f-1aaee0c8ad97.jpg"
+      ]
+    },
+    "brochure": {
+      "official_url": "https://www.sansiri.com/uploads/docs/2017/01/24/e3f71a73-254d-4666-abd2-61cdf56ff82c.pdf",
+      "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101 — official brochure PDF",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "floor_plans": {
+      "official_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+      "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "not_downloaded_pending_license"
+    },
+    "hero": {
+      "official_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+      "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license"
     }
+  },
+  "content_factory": {
+    "phase": "11-batch-2",
+    "developer": "sansiri",
+    "verified_at": "2026-07-16"
   }
 }

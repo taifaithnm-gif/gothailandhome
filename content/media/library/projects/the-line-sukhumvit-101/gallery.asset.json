@@ -1,0 +1,26 @@
+{
+  "id": "project:the-line-sukhumvit-101:gallery",
+  "class": "gallery",
+  "entity_type": "project",
+  "entity_slug": "the-line-sukhumvit-101",
+  "role": "gallery",
+  "official_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+  "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101",
+  "download_status": "not_downloaded_pending_license",
+  "rights_note": "hotlink",
+  "notes": "11 official gallery image URLs registered; binaries not scraped.",
+  "gallery_image_urls": [
+    "https://www.sansiri.com/uploads/gallery/2017/01/23/42111163-ed8c-4f1f-8602-9e414bd8c937.jpg",
+    "https://www.sansiri.com/uploads/gallery/2017/01/23/cb4dfbf3-d167-497a-bd8c-12107e9da3cc.jpg",
+    "https://www.sansiri.com/uploads/gallery/2017/01/23/a0c7b8a7-ca02-4102-b7dd-3bdf5b13c71e.jpg",
+    "https://www.sansiri.com/uploads/gallery/2017/01/23/7d1a3b56-45a9-43b1-b240-8fb7cf98d650.jpg",
+    "https://www.sansiri.com/uploads/gallery/2017/01/23/e17fbff3-7692-4fce-8981-b7699b626780.jpg",
+    "https://www.sansiri.com/uploads/gallery/2017/01/23/41691863-daec-4dce-8950-ca3f455718c0.jpg",
+    "https://www.sansiri.com/uploads/gallery/2017/01/23/7c3ccdf9-81f6-4e92-b312-f611c4f82e49.jpg",
+    "https://www.sansiri.com/uploads/gallery/2017/01/23/771313c4-e5b7-4630-a490-e8c023a98eff.jpg",
+    "https://www.sansiri.com/uploads/gallery/2017/01/23/3ce0c285-f9e8-467f-9661-633cbc6eaffe.jpg",
+    "https://www.sansiri.com/uploads/gallery/2017/01/23/2973a1d6-6656-446d-a9ee-01bc88120002.jpg",
+    "https://www.sansiri.com/uploads/project/2017/01/23/f6c6fe27-f849-4056-bf7f-1aaee0c8ad97.jpg"
+  ],
+  "verified_at": "2026-07-16"
+}

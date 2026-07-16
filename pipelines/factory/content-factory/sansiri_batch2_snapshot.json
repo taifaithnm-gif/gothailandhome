@@ -1,0 +1,408 @@
+{
+  "verified_at": "2026-07-16",
+  "phase": "11-batch-2",
+  "developer": "sansiri",
+  "developer_completeness_pct": 100,
+  "project_avg_completeness_pct": 64,
+  "combined_sansiri_score_pct": 82,
+  "projects": [
+    {
+      "slug": "xt-phayathai",
+      "official_url": "https://www.sansiri.com/en/condominium/xt-phayathai/",
+      "status": [
+        "ready_to_move"
+      ],
+      "mapped_status": "completed",
+      "units": 1435,
+      "floors": 41,
+      "buildings": 2,
+      "facilities": 12,
+      "gallery_urls": 17,
+      "brochure": true,
+      "address": "Sri Ayutthaya Road, Phayathai, Rajthevi, Bangkok.",
+      "completion_year": 2023,
+      "completion_year_class": "OFFICIAL",
+      "completeness_pct": 100,
+      "field_evidence": {
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "OFFICIAL",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "official_url": "https://www.sansiri.com/en/condominium/xt-huaikhwang/",
+      "status": [
+        "ready_to_move"
+      ],
+      "mapped_status": "completed",
+      "units": 1405,
+      "floors": 43,
+      "buildings": 2,
+      "facilities": 13,
+      "gallery_urls": 14,
+      "brochure": true,
+      "address": "Ratchadapisek Road, Huai Kwang, Bangkok",
+      "completion_year": 2021,
+      "completion_year_class": "OFFICIAL",
+      "completeness_pct": 100,
+      "field_evidence": {
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "OFFICIAL",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "official_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+      "status": [
+        "ready_to_move"
+      ],
+      "mapped_status": "completed",
+      "units": 778,
+      "floors": 37,
+      "buildings": 1,
+      "facilities": 9,
+      "gallery_urls": 11,
+      "brochure": true,
+      "address": "Sukhumvit 101, Sukhumvit road, Phra Khanong, Wattana, Bangkok",
+      "completion_year": 2020,
+      "completion_year_class": "OFFICIAL",
+      "completeness_pct": 100,
+      "field_evidence": {
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "OFFICIAL",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "official_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
+      "status": [
+        "ready_to_move",
+        "sold_out"
+      ],
+      "mapped_status": "completed",
+      "units": null,
+      "floors": null,
+      "buildings": null,
+      "facilities": 8,
+      "gallery_urls": 0,
+      "brochure": false,
+      "address": null,
+      "completion_year": 2013,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 20,
+      "field_evidence": {
+        "official_project_page": "OFFICIAL",
+        "official_address": "UNVERIFIED",
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      }
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "official_url": null,
+      "status": [],
+      "units": null,
+      "floors": null,
+      "buildings": null,
+      "facilities": 0,
+      "gallery_urls": 0,
+      "brochure": false,
+      "address": null,
+      "completion_year": null,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_project_page": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      }
+    }
+  ],
+  "media": [
+    {
+      "slug": "xt-phayathai",
+      "gallery": {
+        "official_url": "https://www.sansiri.com/en/condominium/xt-phayathai/",
+        "copyright_source": "© Sansiri Public Company Limited / XT Phayathai",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license",
+        "gallery_image_urls": [
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-01.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-02.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-03.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-05.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-04.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-06.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-07.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-08.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-09.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-10.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-11.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-12.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-13.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-14.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-15.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-16.jpg",
+          "https://www.sansiri.com/uploads/gallery/2023/04/03/xt-phayathai-gallery-17.jpg"
+        ]
+      },
+      "brochure": {
+        "official_url": "https://www.sansiri.com/uploads/docs/2018/08/28/21361a5c-8176-49a4-b972-b4a245f1a6d2.pdf",
+        "copyright_source": "© Sansiri Public Company Limited / XT Phayathai — official brochure PDF",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "floor_plans": {
+        "official_url": "https://www.sansiri.com/en/condominium/xt-phayathai/",
+        "copyright_source": "© Sansiri Public Company Limited / XT Phayathai",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "hero": {
+        "official_url": "https://www.sansiri.com/en/condominium/xt-phayathai/",
+        "copyright_source": "© Sansiri Public Company Limited / XT Phayathai",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      }
+    },
+    {
+      "slug": "xt-huai-khwang",
+      "gallery": {
+        "official_url": "https://www.sansiri.com/en/condominium/xt-huaikhwang/",
+        "copyright_source": "© Sansiri Public Company Limited / XT Huaikhwang",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license",
+        "gallery_image_urls": [
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-02.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-03.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-01.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-06.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-00.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-04.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-05.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-07.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-08.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-10.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-11.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-12.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-13.jpg",
+          "https://www.sansiri.com/uploads/gallery/2022/04/xt-huaikhwang/xt-huaikhwang-condo-gallery-14.jpg"
+        ]
+      },
+      "brochure": {
+        "official_url": "https://www.sansiri.com/uploads/docs/2018/09/20/b55832b2-8d6d-45a5-83e0-5136a85bf780.pdf",
+        "copyright_source": "© Sansiri Public Company Limited / XT Huaikhwang — official brochure PDF",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "floor_plans": {
+        "official_url": "https://www.sansiri.com/en/condominium/xt-huaikhwang/",
+        "copyright_source": "© Sansiri Public Company Limited / XT Huaikhwang",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "hero": {
+        "official_url": "https://www.sansiri.com/en/condominium/xt-huaikhwang/",
+        "copyright_source": "© Sansiri Public Company Limited / XT Huaikhwang",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      }
+    },
+    {
+      "slug": "the-line-sukhumvit-101",
+      "gallery": {
+        "official_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+        "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license",
+        "gallery_image_urls": [
+          "https://www.sansiri.com/uploads/gallery/2017/01/23/42111163-ed8c-4f1f-8602-9e414bd8c937.jpg",
+          "https://www.sansiri.com/uploads/gallery/2017/01/23/cb4dfbf3-d167-497a-bd8c-12107e9da3cc.jpg",
+          "https://www.sansiri.com/uploads/gallery/2017/01/23/a0c7b8a7-ca02-4102-b7dd-3bdf5b13c71e.jpg",
+          "https://www.sansiri.com/uploads/gallery/2017/01/23/7d1a3b56-45a9-43b1-b240-8fb7cf98d650.jpg",
+          "https://www.sansiri.com/uploads/gallery/2017/01/23/e17fbff3-7692-4fce-8981-b7699b626780.jpg",
+          "https://www.sansiri.com/uploads/gallery/2017/01/23/41691863-daec-4dce-8950-ca3f455718c0.jpg",
+          "https://www.sansiri.com/uploads/gallery/2017/01/23/7c3ccdf9-81f6-4e92-b312-f611c4f82e49.jpg",
+          "https://www.sansiri.com/uploads/gallery/2017/01/23/771313c4-e5b7-4630-a490-e8c023a98eff.jpg",
+          "https://www.sansiri.com/uploads/gallery/2017/01/23/3ce0c285-f9e8-467f-9661-633cbc6eaffe.jpg",
+          "https://www.sansiri.com/uploads/gallery/2017/01/23/2973a1d6-6656-446d-a9ee-01bc88120002.jpg",
+          "https://www.sansiri.com/uploads/project/2017/01/23/f6c6fe27-f849-4056-bf7f-1aaee0c8ad97.jpg"
+        ]
+      },
+      "brochure": {
+        "official_url": "https://www.sansiri.com/uploads/docs/2017/01/24/e3f71a73-254d-4666-abd2-61cdf56ff82c.pdf",
+        "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101 — official brochure PDF",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "floor_plans": {
+        "official_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+        "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "hero": {
+        "official_url": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+        "copyright_source": "© Sansiri Public Company Limited / The Line Sukhumvit 101",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      }
+    },
+    {
+      "slug": "the-base-sukhumvit-77",
+      "gallery": {
+        "official_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
+        "copyright_source": "© Sansiri Public Company Limited / The Base Park East",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_gallery"
+      },
+      "brochure": {
+        "official_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
+        "copyright_source": "© Sansiri Public Company Limited / The Base Park East",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_pdf"
+      },
+      "floor_plans": {
+        "official_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
+        "copyright_source": "© Sansiri Public Company Limited / The Base Park East",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "unverified_no_official_plans_published"
+      },
+      "hero": {
+        "official_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
+        "copyright_source": "© Sansiri Public Company Limited / The Base Park East",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "placeholder_pending_official_mirror"
+      }
+    },
+    {
+      "slug": "condo-u-sukhumvit-62-1",
+      "gallery": {
+        "official_url": "https://www.sansiri.com/",
+        "copyright_source": "© Sansiri Public Company Limited / CONDO U Sukhumvit 62-1",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_gallery"
+      },
+      "brochure": {
+        "official_url": "https://www.sansiri.com/",
+        "copyright_source": "© Sansiri Public Company Limited / CONDO U Sukhumvit 62-1",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_pdf"
+      },
+      "floor_plans": {
+        "official_url": "https://www.sansiri.com/",
+        "copyright_source": "© Sansiri Public Company Limited / CONDO U Sukhumvit 62-1",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "unverified_no_official_plans_published"
+      },
+      "hero": {
+        "official_url": "https://www.sansiri.com/",
+        "copyright_source": "© Sansiri Public Company Limited / CONDO U Sukhumvit 62-1",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "placeholder_pending_official_mirror"
+      }
+    }
+  ]
+}

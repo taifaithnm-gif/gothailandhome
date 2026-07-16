@@ -5,6 +5,11 @@
   "sources": [
     {
       "type": "official_developer",
+      "name": "The Base Park East official project page",
+      "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
+    },
+    {
+      "type": "official_developer",
       "name": "THE BASE Sukhumvit 77 official / developer page",
       "url": "https://www.sansiri.com/"
     },
@@ -50,9 +55,9 @@
       "th": "เดอะ เบส สุขุมวิท 77"
     },
     "description": {
-      "en": "THE BASE Sukhumvit 77 is a real Bangkok project associated with Sansiri. Details beyond name, district, and official URL are omitted until separately sourced.",
-      "zh": "THE BASE 素坤逸77为曼谷真实项目，关联开发商 尚思瑞。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
-      "th": "เดอะ เบส สุขุมวิท 77 เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา แสนสิริ รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+      "en": "The Base Park East is a Sansiri condominium project. Facts on this page are taken from the official Sansiri project page (https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/).",
+      "zh": "The Base Park East 为 Sansiri 公寓项目。本页事实来自 Sansiri 官方项目页。",
+      "th": "The Base Park East เป็นโครงการคอนโดของ แสนสิริ ข้อมูลในหน้านี้มาจากหน้าโครงการทางการของแสนสิริ"
     },
     "address": {
       "en": "Suan Luang, Bangkok",
@@ -63,7 +68,7 @@
     "latitude": 13.71058532140166,
     "longitude": 100.6023064760605,
     "google_maps_url": "https://www.google.com/maps?q=13.71058532140166,100.6023064760605",
-    "official_website": "https://www.sansiri.com/",
+    "official_website": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
     "facebook_url": "https://www.facebook.com/SansiriPLC",
     "completion_year": 2013,
     "transit_tags": [
@@ -84,58 +89,34 @@
     "construction_status": "completed",
     "facilities": [
       {
-        "key": "pool",
+        "key": "sansiri_family_club",
         "name": {
-          "en": "Swimming pool",
-          "zh": "Swimming pool",
-          "th": "Swimming pool"
+          "en": "Sansiri Family Club",
+          "zh": "Sansiri Family Club",
+          "th": "Sansiri Family Club"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
       },
       {
-        "key": "fitness",
+        "key": "park_garden",
         "name": {
-          "en": "Fitness / gym",
-          "zh": "Fitness / gym",
-          "th": "Fitness / gym"
+          "en": "Park / garden",
+          "zh": "Park / garden",
+          "th": "Park / garden"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
       },
       {
-        "key": "parking",
-        "name": {
-          "en": "Parking",
-          "zh": "Parking",
-          "th": "Parking"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "security",
+        "key": "24h_security",
         "name": {
           "en": "24h security",
           "zh": "24h security",
           "th": "24h security"
         },
-        "source": "propertyhub"
-      },
-      {
-        "key": "park",
-        "name": {
-          "en": "Garden / courtyard",
-          "zh": "Garden / courtyard",
-          "th": "Garden / courtyard"
-        },
-        "source": "propertyhub"
-      },
-      {
-        "key": "lift",
-        "name": {
-          "en": "Elevator",
-          "zh": "Elevator",
-          "th": "Elevator"
-        },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
       },
       {
         "key": "cctv",
@@ -144,25 +125,48 @@
           "zh": "CCTV",
           "th": "CCTV"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
       },
       {
-        "key": "keycard",
+        "key": "internet",
         "name": {
-          "en": "Keycard access",
-          "zh": "Keycard access",
-          "th": "Keycard access"
+          "en": "Internet",
+          "zh": "Internet",
+          "th": "Internet"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
       },
       {
-        "key": "motorcycle-parking",
+        "key": "common_space",
         "name": {
-          "en": "Motorcycle parking",
-          "zh": "Motorcycle parking",
-          "th": "Motorcycle parking"
+          "en": "Common space",
+          "zh": "Common space",
+          "th": "Common space"
         },
-        "source": "propertyhub"
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
+      },
+      {
+        "key": "fitness",
+        "name": {
+          "en": "Fitness",
+          "zh": "Fitness",
+          "th": "Fitness"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
+      },
+      {
+        "key": "swimming_pool",
+        "name": {
+          "en": "Swimming pool",
+          "zh": "Swimming pool",
+          "th": "Swimming pool"
+        },
+        "source": "official_developer",
+        "source_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
       }
     ],
     "nearby_schools": [
@@ -400,147 +404,22 @@
       }
     ],
     "project_master": {
-      "phase": "7",
-      "audit_version": "2026-07-15-project-master-hygiene-v2",
-      "verified_at": "2026-07-15T08:06:30Z",
-      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
+      "phase": "11-batch-2",
+      "verified_at": "2026-07-16",
+      "rule": "official_sansiri_project_pages_only",
+      "developer": "sansiri",
       "field_classifications": {
-        "official_project_name": "VERIFIED_PORTAL",
-        "thai_project_name": "VERIFIED_PORTAL",
-        "developer_relation": "VERIFIED_PORTAL",
-        "official_project_url": "UNVERIFIED",
-        "project_status": "VERIFIED_PORTAL",
-        "completion_year": "VERIFIED_PORTAL",
-        "full_address": "VERIFIED_PORTAL",
-        "district": "DERIVED",
-        "subdistrict": "UNVERIFIED",
-        "latitude": "VERIFIED_PORTAL",
-        "longitude": "VERIFIED_PORTAL",
+        "official_project_page": "OFFICIAL",
+        "official_address": "UNVERIFIED",
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
         "building_count": "UNVERIFIED",
         "floor_count": "UNVERIFIED",
-        "total_units": "UNVERIFIED",
-        "unit_types": "UNVERIFIED",
-        "official_facilities": "VERIFIED_PORTAL",
-        "nearest_bts": "DERIVED",
-        "nearest_mrt": "UNVERIFIED",
-        "official_brochure": "UNVERIFIED",
-        "official_floor_plans": "UNVERIFIED",
-        "official_gallery_source": "UNVERIFIED",
-        "verification_timestamp": "DERIVED"
-      },
-      "field_provenance": {
-        "official_project_name": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://propertyhub.in.th/en/projects/the-base-sukhumvit-77",
-          "note": "Packaged EN name retained as portal/package; not Tier-1 project-page confirmed"
-        },
-        "thai_project_name": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Packaged Thai name from portal/package; not project-page confirmed"
-        },
-        "developer_relation": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Package developer.slug only — not OFFICIAL without Tier-1 project page"
-        },
-        "official_project_url": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.sansiri.com/",
-          "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
-        },
-        "project_status": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Status from portal/package"
-        },
-        "completion_year": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Completion year from portal/package; not promoted to OFFICIAL"
-        },
-        "full_address": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Address from portal/package (may be district-level placeholder)"
-        },
-        "district": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Derived from package location.district_slug/name — not Tier-1 OFFICIAL"
-        },
-        "subdistrict": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "subdistrict not present / not Tier-1 confirmed"
-        },
-        "latitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "longitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "building_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "floor_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "total_units": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "unit_types": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_facilities": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Facilities from portal/package"
-        },
-        "nearest_bts": {
-          "tier": 3,
-          "note": "Derived from package nearby_bts/transportation/transit_tags — not Tier-1 confirmed",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "nearest_mrt": {
-          "tier": 4,
-          "note": "Missing",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "official_brochure": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_floor_plans": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_gallery_source": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "verification_timestamp": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Audit metadata timestamp — not an official project fact"
-        }
+        "total_units": "UNVERIFIED"
       }
     }
   },
@@ -549,18 +428,19 @@
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.sansiri.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.sansiri.com/"
+      "value": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.sansiri.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
+        "note": "Location blank or missing on official page; packaged address not upgraded"
       },
       "verified_at": "2026-07-16",
       "value": "Suan Luang, Bangkok"
@@ -569,19 +449,19 @@
       "field": "official_gallery",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.sansiri.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
+        "note": "Image binaries not mirrored pending license; URLs registered"
       },
       "verified_at": "2026-07-16",
-      "value": null,
-      "note": "No rights-cleared official gallery harvested this sprint."
+      "value": null
     },
     "official_brochure": {
       "field": "official_brochure",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.sansiri.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
       },
       "verified_at": "2026-07-16",
       "value": null
@@ -590,18 +470,81 @@
       "field": "official_floor_plan",
       "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.sansiri.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
       },
       "verified_at": "2026-07-16",
       "value": null
     },
     "official_facilities": {
       "field": "official_facilities",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.sansiri.com/"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "Sansiri Family Club",
+        "Park / garden",
+        "24h security",
+        "CCTV",
+        "Internet",
+        "Common space",
+        "Fitness",
+        "Swimming pool"
+      ]
+    },
+    "project_status": {
+      "field": "project_status",
+      "evidence_class": "OFFICIAL",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
+      },
+      "verified_at": "2026-07-16",
+      "value": [
+        "ready_to_move",
+        "sold_out"
+      ]
+    },
+    "completion_year": {
+      "field": "completion_year",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
+        "note": "Completion year not published on official page; packaged value not upgraded"
+      },
+      "verified_at": "2026-07-16",
+      "value": 2013
+    },
+    "building_count": {
+      "field": "building_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "floor_count": {
+      "field": "floor_count",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
+      },
+      "verified_at": "2026-07-16",
+      "value": null
+    },
+    "total_units": {
+      "field": "total_units",
+      "evidence_class": "UNVERIFIED",
+      "provenance": {
+        "source_type": "official_developer_project_page",
+        "url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/"
       },
       "verified_at": "2026-07-16",
       "value": null
@@ -614,15 +557,46 @@
     "sprint": "phase10-sprint-3"
   },
   "media_library": {
-    "hero": {
-      "official_url": "https://www.sansiri.com/",
-      "copyright_source": "© Sansiri / THE BASE Sukhumvit 77 — official project materials",
+    "gallery": {
+      "official_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
+      "copyright_source": "© Sansiri Public Company Limited / The Base Park East",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
-      "placeholder_path": null
+      "download_status": "unverified_no_official_gallery"
+    },
+    "brochure": {
+      "official_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
+      "copyright_source": "© Sansiri Public Company Limited / The Base Park East",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "unverified_no_official_pdf"
+    },
+    "floor_plans": {
+      "official_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
+      "copyright_source": "© Sansiri Public Company Limited / The Base Park East",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "unverified_no_official_plans_published"
+    },
+    "hero": {
+      "official_url": "https://www.sansiri.com/en/condominium/the-base-park-east-sukhumvit77/",
+      "copyright_source": "© Sansiri Public Company Limited / The Base Park East",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "placeholder_pending_official_mirror"
     }
+  },
+  "content_factory": {
+    "phase": "11-batch-2",
+    "developer": "sansiri",
+    "verified_at": "2026-07-16"
   }
 }
