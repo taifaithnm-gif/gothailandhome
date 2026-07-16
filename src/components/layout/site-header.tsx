@@ -42,6 +42,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
   ];
 
   const company = [
+    { href: localePath(locale, "/knowledge"), label: dict.nav.knowledge },
     { href: localePath(locale, "/about"), label: dict.nav.about },
     { href: localePath(locale, "/contact"), label: dict.nav.contact },
   ];

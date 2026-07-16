@@ -29,7 +29,13 @@
     "agencyPartnerTitle": "พาร์ทเนอร์เอเจนซี่ | GoThailandHome",
     "agencyPartnerDescription": "สมัครเป็นพาร์ทเนอร์เอเจนซี่ คำขอยังคงรอตรวจสอบ",
     "marketplaceTitle": "ตลาดกลาง | GoThailandHome",
-    "marketplaceDescription": "เลือกเส้นทางที่เหมาะกับคุณ: หาบ้าน ลงประกาศ พาร์ทเนอร์ หรือขอนัดชมที่หน้าประกาศ"
+    "marketplaceDescription": "เลือกเส้นทางที่เหมาะกับคุณ: หาบ้าน ลงประกาศ พาร์ทเนอร์ หรือขอนัดชมที่หน้าประกาศ",
+    "knowledgeTitle": "ความรู้ | GoThailandHome",
+    "knowledgeDescription": "คู่มือ Alpha และคำศัพท์ควบคุมของกรุงเทพฯ ไม่มีผลตอบแทน รางวัล หรือรีวิวปลอม",
+    "knowledgeGlossaryTitle": "อภิธานศัพท์ | GoThailandHome",
+    "knowledgeGlossaryDescription": "ชื่อคำศัพท์ควบคุมสำหรับขนส่ง สิ่งอำนวยความสะดวก และประเภทอสังหาฯ — เฉพาะชื่อ",
+    "knowledgeDistrictsTitle": "เขตกรุงเทพฯ | GoThailandHome",
+    "knowledgeDistrictsDescription": "ดัชนี 50 เขตของกรุงเทพฯ พร้อมลิงก์ไปยังหน้าศูนย์เขต"
   },
   "nav": {
     "home": "หน้าแรก",
@@ -46,7 +52,8 @@
     "findMyHome": "หาบ้าน",
     "listProperty": "ลงประกาศ",
     "partners": "พาร์ทเนอร์",
-    "marketplace": "ตลาดกลาง"
+    "marketplace": "ตลาดกลาง",
+    "knowledge": "ความรู้"
   },
   "projectLanding": {
     "developer": "ผู้พัฒนา",
@@ -370,6 +377,29 @@
     "listings": "ประกาศ",
     "emptyDistricts": "ยังไม่มีเขตที่เผยแพร่",
     "emptyProjects": "ยังไม่มีโครงการที่นำเข้าในพื้นที่นี้"
+  },
+  "knowledge": {
+    "title": "ความรู้",
+    "subtitle": "คู่มือ Alpha และคำศัพท์ควบคุมสำหรับการค้นหาอสังหาฯ กรุงเทพฯ",
+    "notice": "ไม่มีรางวัล รีวิว อัตราผลตอบแทน หรือดัชนีราคาที่แต่งขึ้น",
+    "guidesTitle": "แพลตฟอร์มทำงานอย่างไร",
+    "indexesTitle": "ดัชนี",
+    "glossaryTitle": "อภิธานศัพท์",
+    "glossaryBody": "ชื่อคำศัพท์ควบคุมสำหรับแท็กขนส่ง สิ่งอำนวยความสะดวก และประเภทอสังหาฯ",
+    "glossaryNotice": "เฉพาะชื่อ — ไม่ใช่ข้อเท็จจริงของทรัพย์หรือคำแนะนำการลงทุน",
+    "glossarySections": {
+      "transit_tags": "ขนส่ง",
+      "facilities": "สิ่งอำนวยความสะดวก",
+      "schools": "หมวดโรงเรียน",
+      "hospitals": "หมวดโรงพยาบาล",
+      "shopping": "หมวดช้อปปิ้ง",
+      "property_types": "ประเภทอสังหาฯ"
+    },
+    "districtsTitle": "เขตกรุงเทพฯ",
+    "districtsBody": "ครบ 50 เขต พร้อมลิงก์ไปยังหน้าศูนย์เขต",
+    "districtsNotice": "รหัสไปรษณีย์มาจากแพ็กเกจอภิธานศัพท์ หน้าศูนย์เขตแสดงสิ่งอำนวยความสะดวกเมื่อมีแหล่งอ้างอิงเท่านั้น",
+    "postalLabel": "รหัสไปรษณีย์",
+    "unknown": "ไม่ทราบ"
   },
   "districtCenter": {
     "heroEyebrow": "ศูนย์เขต",

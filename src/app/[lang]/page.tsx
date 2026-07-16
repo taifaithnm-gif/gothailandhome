@@ -349,10 +349,18 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
       {/* 9. Knowledge */}
       <section className="ds-section">
         <div className="ds-container">
-          <div className="mb-8 max-w-2xl">
-            <h2 className="ds-h2">{h.knowledgeTitle}</h2>
-            <p className="mt-2 text-stone-600">{h.knowledgeSubtitle}</p>
-            <p className="mt-1 text-sm text-stone-500">{h.knowledgeComing}</p>
+          <div className="mb-8 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+            <div className="max-w-2xl">
+              <h2 className="ds-h2">{h.knowledgeTitle}</h2>
+              <p className="mt-2 text-stone-600">{h.knowledgeSubtitle}</p>
+              <p className="mt-1 text-sm text-stone-500">{h.knowledgeComing}</p>
+            </div>
+            <Link
+              href={localePath(lang, "/knowledge")}
+              className={cn(buttonVariants({ variant: "secondary" }), "shrink-0")}
+            >
+              {dict.nav.knowledge}
+            </Link>
           </div>
           <div className="grid gap-4 md:grid-cols-3">
             <Link
@@ -365,22 +373,26 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
               <p className="mt-2 text-sm text-stone-600">{h.guidePlatformBody}</p>
             </Link>
             <Link
-              href={localePath(lang, "/find-my-home")}
+              href={localePath(lang, "/knowledge/glossary")}
               className="block rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white p-5 transition hover:border-[var(--brand)]"
             >
               <h3 className="font-heading text-lg text-[var(--brand-deep)]">
-                {h.guideVerifiedTitle}
+                {dict.knowledge.glossaryTitle}
               </h3>
-              <p className="mt-2 text-sm text-stone-600">{h.guideVerifiedBody}</p>
+              <p className="mt-2 text-sm text-stone-600">
+                {dict.knowledge.glossaryBody}
+              </p>
             </Link>
             <Link
-              href={localePath(lang, "/contact")}
+              href={localePath(lang, "/knowledge/bangkok-districts")}
               className="block rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white p-5 transition hover:border-[var(--brand)]"
             >
               <h3 className="font-heading text-lg text-[var(--brand-deep)]">
-                {h.guideContactTitle}
+                {dict.knowledge.districtsTitle}
               </h3>
-              <p className="mt-2 text-sm text-stone-600">{h.guideContactBody}</p>
+              <p className="mt-2 text-sm text-stone-600">
+                {dict.knowledge.districtsBody}
+              </p>
             </Link>
           </div>
         </div>

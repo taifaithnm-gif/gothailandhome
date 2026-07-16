@@ -29,7 +29,13 @@
     "agencyPartnerTitle": "中介合作 | GoThailandHome",
     "agencyPartnerDescription": "申请中介合作，审核前保持待处理。",
     "marketplaceTitle": "市场入口 | GoThailandHome",
-    "marketplaceDescription": "选择适合您的路径：帮我找房、发布房源、合作申请，或在房源页预约看房。"
+    "marketplaceDescription": "选择适合您的路径：帮我找房、发布房源、合作申请，或在房源页预约看房。",
+    "knowledgeTitle": "知识 | GoThailandHome",
+    "knowledgeDescription": "Alpha 指南与曼谷受控词汇。无虚构收益率、奖项或用户见证。",
+    "knowledgeGlossaryTitle": "术语表 | GoThailandHome",
+    "knowledgeGlossaryDescription": "轨道交通、设施与房型的受控名称——仅名称。",
+    "knowledgeDistrictsTitle": "曼谷行政区 | GoThailandHome",
+    "knowledgeDistrictsDescription": "曼谷 50 个行政区索引，链接至区域中心页。"
   },
   "nav": {
     "home": "首页",
@@ -46,7 +52,8 @@
     "findMyHome": "帮我找房",
     "listProperty": "发布房源",
     "partners": "合作",
-    "marketplace": "市场入口"
+    "marketplace": "市场入口",
+    "knowledge": "知识"
   },
   "projectLanding": {
     "developer": "开发商",
@@ -370,6 +377,29 @@
     "listings": "挂牌",
     "emptyDistricts": "暂无已发布区域。",
     "emptyProjects": "该区域暂无已导入项目。"
+  },
+  "knowledge": {
+    "title": "知识",
+    "subtitle": "Alpha 指南与曼谷受控词汇。",
+    "notice": "不编造奖项、见证、租金收益率或价格指数。",
+    "guidesTitle": "平台如何运作",
+    "indexesTitle": "索引",
+    "glossaryTitle": "术语表",
+    "glossaryBody": "轨道交通标签、设施与房型所用的受控名称。",
+    "glossaryNotice": "仅名称——术语表不是物业事实或投资建议。",
+    "glossarySections": {
+      "transit_tags": "轨道交通",
+      "facilities": "设施",
+      "schools": "学校类别",
+      "hospitals": "医院类别",
+      "shopping": "购物类别",
+      "property_types": "房型"
+    },
+    "districtsTitle": "曼谷行政区",
+    "districtsBody": "全部 50 个曼谷行政区，链接至区域中心页。",
+    "districtsNotice": "邮编来自术语包。区域中心页仅在有来源时展示配套设施。",
+    "postalLabel": "邮编",
+    "unknown": "未知"
   },
   "districtCenter": {
     "heroEyebrow": "区域中心",

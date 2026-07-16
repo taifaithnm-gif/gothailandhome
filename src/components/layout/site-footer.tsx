@@ -23,6 +23,7 @@ export function SiteFooter({ locale, dict }: SiteFooterProps) {
 
   const company = [
     { href: localePath(locale, "/about"), label: dict.nav.about },
+    { href: localePath(locale, "/knowledge"), label: dict.nav.knowledge },
     { href: localePath(locale, "/marketplace"), label: dict.nav.partners },
     { href: localePath(locale, "/contact"), label: dict.nav.contact },
   ];

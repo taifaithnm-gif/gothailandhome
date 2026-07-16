@@ -16,6 +16,14 @@ const staticPaths = [
   "/search",
   "/about",
   "/contact",
+  "/marketplace",
+  "/find-my-home",
+  "/list-your-property",
+  "/partners/developers",
+  "/partners/agencies",
+  "/knowledge",
+  "/knowledge/glossary",
+  "/knowledge/bangkok-districts",
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

@@ -29,7 +29,13 @@
     "agencyPartnerTitle": "Agency Partnership | GoThailandHome",
     "agencyPartnerDescription": "Apply for an agency partnership. Applications stay pending until review.",
     "marketplaceTitle": "Marketplace | GoThailandHome",
-    "marketplaceDescription": "Choose your marketplace path: Find My Home, List Your Property, partnerships, or request a viewing on a listing."
+    "marketplaceDescription": "Choose your marketplace path: Find My Home, List Your Property, partnerships, or request a viewing on a listing.",
+    "knowledgeTitle": "Knowledge | GoThailandHome",
+    "knowledgeDescription": "Alpha guides and controlled Bangkok glossary terms. No invented yields, awards, or testimonials.",
+    "knowledgeGlossaryTitle": "Glossary | GoThailandHome",
+    "knowledgeGlossaryDescription": "Controlled vocabulary names for transit, facilities, and property types — names only.",
+    "knowledgeDistrictsTitle": "Bangkok districts | GoThailandHome",
+    "knowledgeDistrictsDescription": "Index of Bangkok’s 50 districts with links to District Center pages."
   },
   "nav": {
     "home": "Home",
@@ -46,7 +52,8 @@
     "findMyHome": "Find My Home",
     "listProperty": "List Property",
     "partners": "Partners",
-    "marketplace": "Marketplace"
+    "marketplace": "Marketplace",
+    "knowledge": "Knowledge"
   },
   "projectLanding": {
     "developer": "Developer",
@@ -370,6 +377,29 @@
     "listings": "Listings",
     "emptyDistricts": "No districts published yet.",
     "emptyProjects": "No imported projects in this area yet."
+  },
+  "knowledge": {
+    "title": "Knowledge",
+    "subtitle": "Alpha guides and controlled vocabulary for Bangkok property discovery.",
+    "notice": "No invented awards, testimonials, rental yields, or price indices.",
+    "guidesTitle": "How this platform works",
+    "indexesTitle": "Indexes",
+    "glossaryTitle": "Glossary",
+    "glossaryBody": "Controlled term names used across transit tags, facilities, and property types.",
+    "glossaryNotice": "Names only — glossary entries are not property facts or investment advice.",
+    "glossarySections": {
+      "transit_tags": "Transit",
+      "facilities": "Facilities",
+      "schools": "School categories",
+      "hospitals": "Hospital categories",
+      "shopping": "Shopping categories",
+      "property_types": "Property types"
+    },
+    "districtsTitle": "Bangkok districts",
+    "districtsBody": "All 50 Bangkok districts with links to District Center pages.",
+    "districtsNotice": "Postal codes come from the glossary package. District Center pages add sourced amenities only when present.",
+    "postalLabel": "Postal code",
+    "unknown": "Unknown"
   },
   "districtCenter": {
     "heroEyebrow": "District center",
