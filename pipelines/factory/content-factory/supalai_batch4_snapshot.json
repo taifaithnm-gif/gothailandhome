@@ -1,0 +1,319 @@
+{
+  "verified_at": "2026-07-16",
+  "phase": "11-batch-4",
+  "developer": "supalai",
+  "developer_completeness_pct": 100,
+  "project_avg_completeness_pct": 22.5,
+  "combined_supalai_score_pct": 61.3,
+  "projects": [
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+      "status": [
+        "ready_to_move",
+        "sold_out"
+      ],
+      "mapped_status": "completed",
+      "units": 1046,
+      "floors": 35,
+      "buildings": 4,
+      "facilities": 11,
+      "gallery_urls": 12,
+      "brochure": true,
+      "address": "Sukhumvit 39, Bangkok",
+      "completion_year": 2020,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 90,
+      "field_evidence": {
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
+      }
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "official_url": null,
+      "status": [],
+      "mapped_status": "completed",
+      "units": null,
+      "floors": null,
+      "buildings": null,
+      "facilities": 9,
+      "gallery_urls": 0,
+      "brochure": false,
+      "address": null,
+      "completion_year": 2018,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_project_page": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      }
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "official_url": null,
+      "status": [],
+      "mapped_status": "completed",
+      "units": null,
+      "floors": null,
+      "buildings": null,
+      "facilities": 9,
+      "gallery_urls": 0,
+      "brochure": false,
+      "address": null,
+      "completion_year": 2015,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_project_page": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      }
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "official_url": null,
+      "status": [],
+      "mapped_status": "completed",
+      "units": null,
+      "floors": null,
+      "buildings": null,
+      "facilities": 10,
+      "gallery_urls": 0,
+      "brochure": false,
+      "address": null,
+      "completion_year": 2019,
+      "completion_year_class": "UNVERIFIED",
+      "completeness_pct": 0,
+      "field_evidence": {
+        "official_project_page": "UNVERIFIED",
+        "official_address": "UNVERIFIED",
+        "official_gallery": "UNVERIFIED",
+        "official_brochure": "UNVERIFIED",
+        "official_floor_plan": "UNVERIFIED",
+        "official_facilities": "UNVERIFIED",
+        "project_status": "UNVERIFIED",
+        "completion_year": "UNVERIFIED",
+        "building_count": "UNVERIFIED",
+        "floor_count": "UNVERIFIED",
+        "total_units": "UNVERIFIED"
+      }
+    }
+  ],
+  "media": [
+    {
+      "slug": "supalai-oriental-sukhumvit-39",
+      "gallery": {
+        "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license",
+        "gallery_image_urls": [
+          "https://www.supalai.com/stocks/project/o0x0/xi/nl/sa4dxinlmxk/Architecture_Night_Shot_(1).jpg",
+          "https://www.supalai.com/stocks/project_child_banner/c1280x680/rz/yk/eblgrzykxji/Eternity_Infinity_Smimming_Pool_(11).jpg",
+          "https://www.supalai.com/stocks/project_child_banner/c750x1040/nh/01/xcbsnh01htq/Eternity_Infinity_Smimming_Pool_(5).jpg",
+          "https://www.supalai.com/stocks/project_child_banner/c1280x680/gv/t7/a8opgvt7itd/maxresdefault_(9).jpg",
+          "https://www.supalai.com/stocks/project_child_banner/c750x1040/2h/4o/atbb2h4ock1/maxresdefault_(9).jpg",
+          "https://www.supalai.com/stocks/project_child_point/o0x0/v8/9p/uu0ev89pjkh/Lobby_(7).jpg",
+          "https://www.supalai.com/stocks/project_child_point/o0x0/s1/m4/rqkas1m48wf/Hill_Garden_%26_Peacock_Pavilion_(3).jpg",
+          "https://www.supalai.com/stocks/project/o0x0/sq/b7/qg50sqb7ljc/Architecture_Night_Shot_(4).jpg",
+          "https://www.supalai.com/stocks/project_child_facility_image/o0x0/aq/rm/4kqnaqrmjng/Eternity_Infinity_Smimming_Pool_(7).jpg",
+          "https://www.supalai.com/stocks/project_child_facility_image/o0x0/ik/jx/vrwoikjxz3t/Yes_Yoga_%26_Fine_Fitness_(1).jpg",
+          "https://www.supalai.com/stocks/project/o0x0/fx/i3/xc8hfxi3ouw/Architecture_Night_Shot_(3).jpg",
+          "https://www.supalai.com/stocks/project/o0x0/kc/qm/egtokcqmraj/map_(8).jpg"
+        ]
+      },
+      "brochure": {
+        "official_url": "https://www.supalai.com/stocks/project/o0x0/9f/zv/ahbg9fzvjpr/E-Brochure-oriental_39-181266.pdf",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39 — official e-brochure PDF",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      },
+      "floor_plans": {
+        "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "not_downloaded_pending_license",
+        "gallery_image_urls": [
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/i2/l7/4u0oi2l7ekw/Master-Plan-A_B.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/pv/r6/islqpvr6nac/Master-Plan-C_D.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/9t/cw/08px9tcwnek/TowerA-2-19TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/os/dl/ghg0osdltyc/TowerA-20TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/kp/uo/nbbhkpuolew/TowerA-21TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/sm/9a/ezojsm9ai3b/TowerA-22TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/wv/ge/guqewvgefhy/TowerA-23-24TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/il/dd/siqnilddram/TowerB-2-19TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/g8/ws/p0oeg8wsdmu/TowerB-20TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/d0/ic/xlfnd0iczlq/TowerB-21TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/iu/oq/traziuoqasr/TowerB-22TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/iu/pv/m5n7iupvtrb/TowerB-23-24TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/kc/8j/xcg9kc8jzlm/TowerC2-20TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/hj/9g/mh2xhj9g1wn/TowerC21-31TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/ko/yy/68qnkoyyiwl/TowerD2-20TH.jpg",
+          "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/eg/o7/clikego7mbd/TowerD21-31TH.jpg"
+        ]
+      },
+      "hero": {
+        "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "not_downloaded_pending_license"
+      }
+    },
+    {
+      "slug": "supalai-elite-phayathai",
+      "gallery": {
+        "official_url": "https://www.supalai.com/",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Elite Phayathai",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_gallery"
+      },
+      "brochure": {
+        "official_url": "https://www.supalai.com/",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Elite Phayathai",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_pdf"
+      },
+      "floor_plans": {
+        "official_url": "https://www.supalai.com/",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Elite Phayathai",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "unverified_no_official_plans_published"
+      },
+      "hero": {
+        "official_url": "https://www.supalai.com/",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Elite Phayathai",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "placeholder_pending_official_mirror"
+      }
+    },
+    {
+      "slug": "supalai-lite-sathorn-charoenrat",
+      "gallery": {
+        "official_url": "https://www.supalai.com/",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Lite Sathorn-Charoenrat",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_gallery"
+      },
+      "brochure": {
+        "official_url": "https://www.supalai.com/",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Lite Sathorn-Charoenrat",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_pdf"
+      },
+      "floor_plans": {
+        "official_url": "https://www.supalai.com/",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Lite Sathorn-Charoenrat",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "unverified_no_official_plans_published"
+      },
+      "hero": {
+        "official_url": "https://www.supalai.com/",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Lite Sathorn-Charoenrat",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "placeholder_pending_official_mirror"
+      }
+    },
+    {
+      "slug": "supalai-veranda-rama-9",
+      "gallery": {
+        "official_url": "https://www.supalai.com/",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Veranda Rama 9",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_gallery"
+      },
+      "brochure": {
+        "official_url": "https://www.supalai.com/",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Veranda Rama 9",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "unverified_no_official_pdf"
+      },
+      "floor_plans": {
+        "official_url": "https://www.supalai.com/",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Veranda Rama 9",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink_section",
+        "download_status": "unverified_no_official_plans_published"
+      },
+      "hero": {
+        "official_url": "https://www.supalai.com/",
+        "copyright_source": "© Supalai Public Company Limited / Supalai Veranda Rama 9",
+        "downloaded_date": null,
+        "checksum_sha256": null,
+        "local_storage_path": null,
+        "rights_note": "hotlink",
+        "download_status": "placeholder_pending_official_mirror"
+      }
+    }
+  ]
+}

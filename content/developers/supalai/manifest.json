@@ -23,6 +23,11 @@
       "type": "official_developer",
       "name": "supalai official (established_year_source)",
       "url": "https://www.supalai.com/en/about/history"
+    },
+    {
+      "type": "youtube",
+      "name": "Supalai YouTube",
+      "url": "https://www.youtube.com/channel/UC5bwXG3-6YC23xt3qw-sKww"
     }
   ],
   "name": {
@@ -121,6 +126,7 @@
   "google_maps_url": null,
   "social_links": {
     "facebook": "https://www.facebook.com/Supalai",
+    "youtube": "https://www.youtube.com/channel/UC5bwXG3-6YC23xt3qw-sKww",
     "website": "https://www.supalai.com/"
   },
   "contact": {
@@ -228,25 +234,12 @@
   "active_projects": [],
   "unclassified_projects": [],
   "developer_master": {
-    "phase": "10-sprint-2",
+    "phase": "11-batch-4",
     "verified_at": "2026-07-16",
-    "rule": "official_developer_websites_and_set_factsheets_for_official_fields",
-    "fields_touched": [
-      "official_website",
-      "official_logo",
-      "favicon",
-      "headquarters",
-      "established_year",
-      "company_profile",
-      "company_history",
-      "corporate_overview",
-      "official_contact_page",
-      "listed_company_code",
-      "official_social_links"
-    ],
-    "sprint": "phase10-sprint-2"
+    "rule": "official_supalai_and_set_only",
+    "developer": "supalai"
   },
-  "official_contact_page": "https://www.supalai.com/contact",
+  "official_contact_page": "https://www.supalai.com/en/contact",
   "field_evidence": {
     "official_website": {
       "field": "official_website",
@@ -336,10 +329,10 @@
       "evidence_class": "OFFICIAL",
       "provenance": {
         "source_type": "official_developer_website",
-        "url": "https://www.supalai.com/contact"
+        "url": "https://www.supalai.com/en/contact"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.supalai.com/contact"
+      "value": "https://www.supalai.com/en/contact"
     },
     "listed_company_code": {
       "field": "listed_company_code",
@@ -355,14 +348,22 @@
       "field": "official_social_links",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_package_social",
-        "url": "https://www.facebook.com/Supalai"
+        "source_type": "official_developer_website",
+        "url": "https://www.supalai.com/en/contact",
+        "note": "Facebook from official package social; YouTube channel linked from official site chrome"
       },
       "verified_at": "2026-07-16",
       "value": {
         "facebook": "https://www.facebook.com/Supalai",
+        "youtube": "https://www.youtube.com/channel/UC5bwXG3-6YC23xt3qw-sKww",
         "website": "https://www.supalai.com/"
       }
     }
+  },
+  "youtube_url": "https://www.youtube.com/channel/UC5bwXG3-6YC23xt3qw-sKww",
+  "company_history": {
+    "en": "Supalai Public Company Limited — SET:SPALI. Company history retained from official About / SET materials.",
+    "zh": "Supalai Public Company Limited — SET:SPALI。公司历史来自官方 About / SET。",
+    "th": "บริษัท ศุภาลัย จำกัด (มหาชน) — SET:SPALI ประวัติอ้างอิง About / SET ทางการ"
   }
 }

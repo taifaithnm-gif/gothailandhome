@@ -5,12 +5,26 @@
   "entity_slug": "supalai-oriental-sukhumvit-39",
   "role": "gallery",
   "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
-  "copyright_source": "© Supalai / Supalai Oriental Sukhumvit 39 — official project materials",
+  "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39",
   "downloaded_date": null,
   "checksum_sha256": null,
   "local_storage_path": null,
   "rights_note": "hotlink",
   "download_status": "not_downloaded_pending_license",
   "verified_at": "2026-07-16",
-  "notes": "Official gallery page/source registered. Image binaries not scraped (no license permission)."
+  "notes": "12 official gallery URLs registered",
+  "gallery_image_urls": [
+    "https://www.supalai.com/stocks/project/o0x0/xi/nl/sa4dxinlmxk/Architecture_Night_Shot_(1).jpg",
+    "https://www.supalai.com/stocks/project_child_banner/c1280x680/rz/yk/eblgrzykxji/Eternity_Infinity_Smimming_Pool_(11).jpg",
+    "https://www.supalai.com/stocks/project_child_banner/c750x1040/nh/01/xcbsnh01htq/Eternity_Infinity_Smimming_Pool_(5).jpg",
+    "https://www.supalai.com/stocks/project_child_banner/c1280x680/gv/t7/a8opgvt7itd/maxresdefault_(9).jpg",
+    "https://www.supalai.com/stocks/project_child_banner/c750x1040/2h/4o/atbb2h4ock1/maxresdefault_(9).jpg",
+    "https://www.supalai.com/stocks/project_child_point/o0x0/v8/9p/uu0ev89pjkh/Lobby_(7).jpg",
+    "https://www.supalai.com/stocks/project_child_point/o0x0/s1/m4/rqkas1m48wf/Hill_Garden_%26_Peacock_Pavilion_(3).jpg",
+    "https://www.supalai.com/stocks/project/o0x0/sq/b7/qg50sqb7ljc/Architecture_Night_Shot_(4).jpg",
+    "https://www.supalai.com/stocks/project_child_facility_image/o0x0/aq/rm/4kqnaqrmjng/Eternity_Infinity_Smimming_Pool_(7).jpg",
+    "https://www.supalai.com/stocks/project_child_facility_image/o0x0/ik/jx/vrwoikjxz3t/Yes_Yoga_%26_Fine_Fitness_(1).jpg",
+    "https://www.supalai.com/stocks/project/o0x0/fx/i3/xc8hfxi3ouw/Architecture_Night_Shot_(3).jpg",
+    "https://www.supalai.com/stocks/project/o0x0/kc/qm/egtokcqmraj/map_(8).jpg"
+  ]
 }

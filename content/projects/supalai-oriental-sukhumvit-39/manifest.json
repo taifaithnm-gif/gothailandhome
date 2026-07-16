@@ -55,14 +55,14 @@
       "th": "ศุภาลัย โอเรียนทัล สุขุมวิท 39"
     },
     "description": {
-      "en": "Supalai Oriental Sukhumvit 39 is a real Bangkok project associated with Supalai. Details beyond name, district, and official URL are omitted until separately sourced.",
-      "zh": "苏帕莱东方 素坤逸39为曼谷真实项目，关联开发商 苏帕莱。除名称、区域与官方 URL 外，其余细节待另行核对来源后再补全。",
-      "th": "ศุภาลัย โอเรียนทัล สุขุมวิท 39 เป็นโครงการจริงในกรุงเทพฯ ที่เชื่อมกับผู้พัฒนา ศุภาลัย รายละเอียดนอกเหนือชื่อ เขต และ URL ทางการจะเพิ่มเมื่อมีแหล่งอ้างอิง"
+      "en": "Supalai Oriental Sukhumvit 39 is a Supalai condominium project. Facts on this page are taken from the official Supalai project page (https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39).",
+      "zh": "Supalai Oriental Sukhumvit 39 为 Supalai 公寓项目。本页事实来自 Supalai 官方项目页。",
+      "th": "Supalai Oriental Sukhumvit 39 เป็นโครงการคอนโดของศุภาลัย ข้อมูลในหน้านี้มาจากหน้าโครงการทางการของศุภาลัย"
     },
     "address": {
-      "en": "Watthana, Bangkok",
-      "zh": "曼谷瓦他那",
-      "th": "วัฒนา กรุงเทพฯ"
+      "en": "Sukhumvit 39, Bangkok",
+      "zh": "Sukhumvit 39, Bangkok",
+      "th": "Sukhumvit 39, Bangkok"
     },
     "postal_code": "10110",
     "latitude": 13.74501692569838,
@@ -142,9 +142,9 @@
       {
         "key": "kid_s_room",
         "name": {
-          "en": "Kid’s Room",
-          "zh": "Kid’s Room",
-          "th": "Kid’s Room"
+          "en": "Kid's Room",
+          "zh": "Kid's Room",
+          "th": "Kid's Room"
         },
         "source": "official_developer",
         "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
@@ -182,9 +182,9 @@
       {
         "key": "kid_s_pool",
         "name": {
-          "en": "Kid’s Pool",
-          "zh": "Kid’s Pool",
-          "th": "Kid’s Pool"
+          "en": "Kid's Pool",
+          "zh": "Kid's Pool",
+          "th": "Kid's Pool"
         },
         "source": "official_developer",
         "source_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
@@ -545,147 +545,22 @@
       }
     ],
     "project_master": {
-      "phase": "7",
-      "audit_version": "2026-07-15-project-master-hygiene-v2",
-      "verified_at": "2026-07-15T08:06:30Z",
-      "rule": "Tier1_project_page_only_for_OFFICIAL; hygiene demotions applied; never invent",
+      "phase": "11-batch-4",
+      "verified_at": "2026-07-16",
+      "rule": "official_supalai_project_pages_only",
+      "developer": "supalai",
       "field_classifications": {
-        "official_project_name": "VERIFIED_PORTAL",
-        "thai_project_name": "VERIFIED_PORTAL",
-        "developer_relation": "VERIFIED_PORTAL",
-        "official_project_url": "UNVERIFIED",
-        "project_status": "VERIFIED_PORTAL",
-        "completion_year": "VERIFIED_PORTAL",
-        "full_address": "VERIFIED_PORTAL",
-        "district": "DERIVED",
-        "subdistrict": "UNVERIFIED",
-        "latitude": "VERIFIED_PORTAL",
-        "longitude": "VERIFIED_PORTAL",
-        "building_count": "UNVERIFIED",
-        "floor_count": "UNVERIFIED",
-        "total_units": "UNVERIFIED",
-        "unit_types": "UNVERIFIED",
-        "official_facilities": "VERIFIED_PORTAL",
-        "nearest_bts": "DERIVED",
-        "nearest_mrt": "DERIVED",
-        "official_brochure": "UNVERIFIED",
-        "official_floor_plans": "UNVERIFIED",
-        "official_gallery_source": "UNVERIFIED",
-        "verification_timestamp": "DERIVED"
-      },
-      "field_provenance": {
-        "official_project_name": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://propertyhub.in.th/en/projects/supalai-oriental-sukhumvit-39",
-          "note": "Packaged EN name retained as portal/package; not Tier-1 project-page confirmed"
-        },
-        "thai_project_name": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Packaged Thai name from portal/package; not project-page confirmed"
-        },
-        "developer_relation": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Package developer.slug only — not OFFICIAL without Tier-1 project page"
-        },
-        "official_project_url": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "source_url": "https://www.supalai.com/",
-          "note": "Developer homepage alone is not a project-specific OFFICIAL URL"
-        },
-        "project_status": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Status from portal/package"
-        },
-        "completion_year": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Completion year from portal/package; not promoted to OFFICIAL"
-        },
-        "full_address": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Address from portal/package (may be district-level placeholder)"
-        },
-        "district": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Derived from package location.district_slug/name — not Tier-1 OFFICIAL"
-        },
-        "subdistrict": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "subdistrict not present / not Tier-1 confirmed"
-        },
-        "latitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "longitude": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Coordinates from portal/package"
-        },
-        "building_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "floor_count": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "total_units": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "unit_types": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_facilities": {
-          "tier": 2,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Facilities from portal/package"
-        },
-        "nearest_bts": {
-          "tier": 3,
-          "note": "Derived from package nearby_bts/transportation/transit_tags — not Tier-1 confirmed",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "nearest_mrt": {
-          "tier": 3,
-          "note": "Derived from package nearby_mrt/transportation/transit_tags — not Tier-1 confirmed",
-          "verified_at": "2026-07-15T08:07:07Z"
-        },
-        "official_brochure": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_floor_plans": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "official_gallery_source": {
-          "tier": 4,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Missing"
-        },
-        "verification_timestamp": {
-          "tier": 3,
-          "verified_at": "2026-07-15T08:06:30Z",
-          "note": "Audit metadata timestamp — not an official project fact"
-        }
+        "official_project_page": "OFFICIAL",
+        "official_address": "OFFICIAL",
+        "official_gallery": "OFFICIAL",
+        "official_brochure": "OFFICIAL",
+        "official_floor_plan": "OFFICIAL",
+        "official_facilities": "OFFICIAL",
+        "project_status": "OFFICIAL",
+        "completion_year": "UNVERIFIED",
+        "building_count": "OFFICIAL",
+        "floor_count": "OFFICIAL",
+        "total_units": "OFFICIAL"
       }
     },
     "facilities_official": [
@@ -803,14 +678,17 @@
     "building_count": 4,
     "floor_count": 35,
     "total_units": 1046,
-    "official_gallery_source": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+    "official_gallery_source": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+    "unit_count": 1046,
+    "floors": 35,
+    "buildings": 4
   },
   "field_evidence": {
     "official_project_page": {
       "field": "official_project_page",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       "verified_at": "2026-07-16",
@@ -818,49 +696,51 @@
     },
     "official_address": {
       "field": "official_address",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+        "note": "Official project identity / location branding on project page"
       },
       "verified_at": "2026-07-16",
-      "value": "Watthana, Bangkok"
+      "value": "Sukhumvit 39, Bangkok"
     },
     "official_gallery": {
       "field": "official_gallery",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+        "note": "Binaries not mirrored pending license"
       },
       "verified_at": "2026-07-16",
-      "value": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+      "value": "12 gallery URLs"
     },
     "official_brochure": {
       "field": "official_brochure",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
-        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.supalai.com/stocks/project/o0x0/9f/zv/ahbg9fzvjpr/E-Brochure-oriental_39-181266.pdf"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "https://www.supalai.com/stocks/project/o0x0/9f/zv/ahbg9fzvjpr/E-Brochure-oriental_39-181266.pdf"
     },
     "official_floor_plan": {
       "field": "official_floor_plan",
-      "evidence_class": "UNVERIFIED",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "unavailable",
+        "source_type": "official_developer_project_page",
         "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": "16 official floor-plan asset URLs"
     },
     "official_facilities": {
       "field": "official_facilities",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
+        "source_type": "official_developer_project_page",
         "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       "verified_at": "2026-07-16",
@@ -870,30 +750,34 @@
         "Sky lounge",
         "Co-working space",
         "Garden / Park",
-        "Kid’s Room",
+        "Kid's Room",
         "Sauna",
         "24-hour Security",
         "Roof Garden",
-        "Kid’s Pool",
+        "Kid's Pool",
         "Lounge Lobby"
       ]
     },
     "project_status": {
       "field": "project_status",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "verified_portal",
+        "source_type": "official_developer_project_page",
         "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
       },
       "verified_at": "2026-07-16",
-      "value": null
+      "value": [
+        "ready_to_move",
+        "sold_out"
+      ]
     },
     "completion_year": {
       "field": "completion_year",
-      "evidence_class": "VERIFIED_PORTAL",
+      "evidence_class": "UNVERIFIED",
       "provenance": {
-        "source_type": "verified_portal",
-        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+        "note": "Completion calendar year not stated on official Project Info; packaged value not upgraded"
       },
       "verified_at": "2026-07-16",
       "value": 2020
@@ -902,8 +786,9 @@
       "field": "building_count",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+        "note": "Official Project Type: two 25-storey + two 35-storey buildings; floor-plan Towers A–D"
       },
       "verified_at": "2026-07-16",
       "value": 4
@@ -912,8 +797,9 @@
       "field": "floor_count",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+        "note": "Official Project Type: two 25-storey and two 35-storey buildings — tallest 35"
       },
       "verified_at": "2026-07-16",
       "value": 35
@@ -922,8 +808,9 @@
       "field": "total_units",
       "evidence_class": "OFFICIAL",
       "provenance": {
-        "source_type": "official_developer_website",
-        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39"
+        "source_type": "official_developer_project_page",
+        "url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+        "note": "Official Project Info: 1,046 residential units / 8 commercial units — residential count used"
       },
       "verified_at": "2026-07-16",
       "value": 1046
@@ -940,22 +827,76 @@
   "media_library": {
     "gallery": {
       "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
-      "copyright_source": "© Supalai / Supalai Oriental Sukhumvit 39 — official project materials",
+      "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink",
+      "download_status": "not_downloaded_pending_license",
+      "gallery_image_urls": [
+        "https://www.supalai.com/stocks/project/o0x0/xi/nl/sa4dxinlmxk/Architecture_Night_Shot_(1).jpg",
+        "https://www.supalai.com/stocks/project_child_banner/c1280x680/rz/yk/eblgrzykxji/Eternity_Infinity_Smimming_Pool_(11).jpg",
+        "https://www.supalai.com/stocks/project_child_banner/c750x1040/nh/01/xcbsnh01htq/Eternity_Infinity_Smimming_Pool_(5).jpg",
+        "https://www.supalai.com/stocks/project_child_banner/c1280x680/gv/t7/a8opgvt7itd/maxresdefault_(9).jpg",
+        "https://www.supalai.com/stocks/project_child_banner/c750x1040/2h/4o/atbb2h4ock1/maxresdefault_(9).jpg",
+        "https://www.supalai.com/stocks/project_child_point/o0x0/v8/9p/uu0ev89pjkh/Lobby_(7).jpg",
+        "https://www.supalai.com/stocks/project_child_point/o0x0/s1/m4/rqkas1m48wf/Hill_Garden_%26_Peacock_Pavilion_(3).jpg",
+        "https://www.supalai.com/stocks/project/o0x0/sq/b7/qg50sqb7ljc/Architecture_Night_Shot_(4).jpg",
+        "https://www.supalai.com/stocks/project_child_facility_image/o0x0/aq/rm/4kqnaqrmjng/Eternity_Infinity_Smimming_Pool_(7).jpg",
+        "https://www.supalai.com/stocks/project_child_facility_image/o0x0/ik/jx/vrwoikjxz3t/Yes_Yoga_%26_Fine_Fitness_(1).jpg",
+        "https://www.supalai.com/stocks/project/o0x0/fx/i3/xc8hfxi3ouw/Architecture_Night_Shot_(3).jpg",
+        "https://www.supalai.com/stocks/project/o0x0/kc/qm/egtokcqmraj/map_(8).jpg"
+      ]
+    },
+    "brochure": {
+      "official_url": "https://www.supalai.com/stocks/project/o0x0/9f/zv/ahbg9fzvjpr/E-Brochure-oriental_39-181266.pdf",
+      "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39 — official e-brochure PDF",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
       "download_status": "not_downloaded_pending_license"
     },
+    "floor_plans": {
+      "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+      "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39",
+      "downloaded_date": null,
+      "checksum_sha256": null,
+      "local_storage_path": null,
+      "rights_note": "hotlink_section",
+      "download_status": "not_downloaded_pending_license",
+      "gallery_image_urls": [
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/i2/l7/4u0oi2l7ekw/Master-Plan-A_B.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/pv/r6/islqpvr6nac/Master-Plan-C_D.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/9t/cw/08px9tcwnek/TowerA-2-19TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/os/dl/ghg0osdltyc/TowerA-20TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/kp/uo/nbbhkpuolew/TowerA-21TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/sm/9a/ezojsm9ai3b/TowerA-22TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/wv/ge/guqewvgefhy/TowerA-23-24TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/il/dd/siqnilddram/TowerB-2-19TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/g8/ws/p0oeg8wsdmu/TowerB-20TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/d0/ic/xlfnd0iczlq/TowerB-21TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/iu/oq/traziuoqasr/TowerB-22TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/iu/pv/m5n7iupvtrb/TowerB-23-24TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/kc/8j/xcg9kc8jzlm/TowerC2-20TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/hj/9g/mh2xhj9g1wn/TowerC21-31TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/ko/yy/68qnkoyyiwl/TowerD2-20TH.jpg",
+        "https://www.supalai.com/stocks/project_child_unit_condo_floor_plan/o0x0/eg/o7/clikego7mbd/TowerD21-31TH.jpg"
+      ]
+    },
     "hero": {
       "official_url": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
-      "copyright_source": "© Supalai / Supalai Oriental Sukhumvit 39 — official project materials",
+      "copyright_source": "© Supalai Public Company Limited / Supalai Oriental Sukhumvit 39",
       "downloaded_date": null,
       "checksum_sha256": null,
       "local_storage_path": null,
       "rights_note": "hotlink",
-      "download_status": "placeholder_pending_official_mirror",
-      "placeholder_path": null
+      "download_status": "not_downloaded_pending_license"
     }
+  },
+  "content_factory": {
+    "phase": "11-batch-4",
+    "developer": "supalai",
+    "verified_at": "2026-07-16"
   }
 }
