@@ -7,6 +7,8 @@ import {
   submitProjectLead,
   type LeadFormState,
 } from "@/app/[lang]/projects/actions";
+import { Button } from "@/components/ui/button";
+import { Field, FieldLabel, Input, Textarea } from "@/components/ui/field";
 import type { Locale } from "@/config/locales";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 
@@ -59,7 +61,7 @@ export function ProjectLeadForm({
   return (
     <form
       action={formAction}
-      className="space-y-4 rounded-2xl border border-[var(--brand-line)] bg-white p-6 sm:p-8"
+      className="space-y-4 rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white p-6 shadow-[0_1px_0_rgba(6,61,56,0.04)] sm:p-8"
       data-ads-lead-form="project"
     >
       <input type="hidden" name="locale" value={locale} />
@@ -110,62 +112,37 @@ export function ProjectLeadForm({
         </p>
       </div>
 
-      <label className="flex flex-col gap-2 text-sm">
-        <span className="font-medium text-[var(--brand-deep)]">
-          {dict.contact.name}
-        </span>
-        <input
-          required
-          type="text"
-          name="name"
-          className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
-        />
-      </label>
-      <label className="flex flex-col gap-2 text-sm">
-        <span className="font-medium text-[var(--brand-deep)]">
-          {dict.contact.email}
-        </span>
-        <input
-          required
-          type="email"
-          name="email"
-          className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
-        />
-      </label>
-      <label className="flex flex-col gap-2 text-sm">
-        <span className="font-medium text-[var(--brand-deep)]">
-          {dict.projectLanding.phone}
-        </span>
-        <input
-          type="tel"
-          name="phone"
-          className="h-11 rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
-        />
-      </label>
-      <label className="flex flex-col gap-2 text-sm">
-        <span className="font-medium text-[var(--brand-deep)]">
-          {dict.contact.message}
-        </span>
-        <textarea
-          required
-          name="message"
-          rows={4}
-          className="rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 py-3 transition outline-none focus:border-[var(--brand)] focus:ring-2 focus:ring-[var(--brand)]/20"
-        />
-      </label>
+      <Field>
+        <FieldLabel htmlFor="lead-name">{dict.contact.name}</FieldLabel>
+        <Input id="lead-name" required type="text" name="name" />
+      </Field>
+      <Field>
+        <FieldLabel htmlFor="lead-email">{dict.contact.email}</FieldLabel>
+        <Input id="lead-email" required type="email" name="email" />
+      </Field>
+      <Field>
+        <FieldLabel htmlFor="lead-phone">{dict.projectLanding.phone}</FieldLabel>
+        <Input id="lead-phone" type="tel" name="phone" />
+      </Field>
+      <Field>
+        <FieldLabel htmlFor="lead-message">{dict.contact.message}</FieldLabel>
+        <Textarea id="lead-message" required name="message" rows={4} />
+      </Field>
 
-      <button
+      <Button
         type="submit"
+        variant="primary"
+        size="lg"
         disabled={pending}
-        className="inline-flex h-11 items-center justify-center rounded-xl bg-[var(--brand)] px-5 text-sm font-medium text-white transition hover:bg-[var(--brand-deep)] disabled:opacity-60"
+        aria-busy={pending}
         data-ads-conversion="lead_submit"
       >
         {pending ? dict.projectLanding.sending : dict.projectLanding.submit}
-      </button>
+      </Button>
 
       {state.message ? (
         <p
-          className={`text-sm ${state.ok ? "text-emerald-700" : "text-red-600"}`}
+          className={`text-sm ${state.ok ? "text-[var(--success)]" : "text-[var(--danger)]"}`}
           role="status"
         >
           {state.ok ? dict.projectLanding.success : state.message}
