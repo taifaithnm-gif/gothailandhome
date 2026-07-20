@@ -137,8 +137,8 @@ check("a11y:route:/[lang] selector:skip-link+main landmark", () => {
 check("a11y:route:shell selector:header/footer landmarks", () => {
   requireIn(
     "src/components/layout/site-header.tsx",
-    'aria-label="Primary"',
-    "nav[aria-label=Primary]",
+    "aria-label={dict.nav.primary}",
+    "nav[aria-label=primary]",
   );
   requireIn(
     "src/components/layout/site-header.tsx",

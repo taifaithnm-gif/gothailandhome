@@ -57,7 +57,11 @@ const header = readFileSync(
   resolve(root, "src/components/layout/site-header.tsx"),
   "utf8",
 );
-if (!header.includes('aria-label="Primary"')) fail("header primary nav landmark");
+if (
+  !header.includes("dict.nav.primary") &&
+  !header.includes('aria-label="Primary"')
+)
+  fail("header primary nav landmark");
 else ok("header primary nav landmark");
 if (!header.includes("mobile-nav")) fail("mobile nav id missing");
 else ok("mobile nav present");

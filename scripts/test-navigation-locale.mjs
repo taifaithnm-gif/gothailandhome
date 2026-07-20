@@ -91,7 +91,10 @@ check("nav:desktop/mobile groups match via shared getSiteNavGroups", () => {
   );
 
   const header = read(HEADER);
-  assert.ok(header.includes('aria-label="Primary"'), "desktop primary nav");
+  assert.ok(
+    header.includes("dict.nav.primary") || header.includes("aria-label={dict.nav.primary}"),
+    "desktop primary nav uses localized label",
+  );
   assert.ok(header.includes("groups.map"), "shared groups rendered");
   assert.ok(header.includes('id="mobile-nav"'), "mobile nav drawer");
   assert.ok(header.includes('role="group"'), "desktop group landmarks");

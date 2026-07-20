@@ -77,7 +77,8 @@
     "sectionBrowse": "Browse",
     "sectionMarketplace": "Marketplace",
     "sectionCompany": "Company",
-    "skipToContent": "Skip to main content"
+    "skipToContent": "Skip to main content",
+    "primary": "Primary"
   },
   "projectLanding": {
     "centerEyebrow": "Project center",

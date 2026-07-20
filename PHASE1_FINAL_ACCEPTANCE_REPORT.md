@@ -1,6 +1,7 @@
 # Phase 1 Final Acceptance Report
 
 **Date:** 2026-07-20  
+**Verified:** 2026-07-20 (P1-29–P1-36 continuous closeout + full gate re-run)  
 **Repository:** `/Users/jun/AI-Workspace/Projects/GoThailandHome`  
 **Scope:** Phase 1 business website features (P1-01–P1-36), Mac mini / local engineering only
 
@@ -34,14 +35,15 @@ Phase 1 engineering release candidate is accepted for **final human review**. Th
 
 ## Test summary
 
-- Aggregate `npm test` — **PASS**
+- Aggregate `npm test` — **PASS** (re-verified 2026-07-20 closeout)
+- Task suites P1-29–P1-36: `test:content-seo`, `test:internal-links`, `test:analytics-bootstrap`, `test:analytics-events`, `test:a11y-remediation`, `test:responsive-remediation`, `test:performance-budget`, `test:phase1-acceptance` — **PASS**
 - Includes a11y baseline + remediation, responsive matrix + remediation, performance budget, content/SEO, analytics consent/events, Phase 1 acceptance
 
 ## Build summary
 
-- `npm run typecheck` — **PASS**
-- `npm run lint` — **PASS**
-- `npm run build` — **PASS**
+- `npm run typecheck` — **PASS** (re-verified)
+- `npm run lint` — **PASS** (re-verified)
+- `npm run build` — **PASS** (re-verified)
 - Residual: Turbopack NFT warning (documented, non-fatal)
 
 ## Known limitations / technical debt

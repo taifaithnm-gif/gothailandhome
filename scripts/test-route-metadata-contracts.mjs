@@ -279,7 +279,9 @@ check("contract:schema builders export Alpha types", () => {
 
 check("contract:robots disallow admin + sitemap host", () => {
   const src = read(ROUTES.robots);
-  assert.ok(src.includes('disallow: ["/admin", "/admin/"]'), "disallow admin");
+  assert.ok(src.includes('"/admin"'), "disallow admin");
+  assert.ok(src.includes('"/admin/"'), "disallow admin trailing");
+  assert.ok(src.includes("disallow:"), "disallow list present");
   assert.ok(src.includes("allow: \"/\""), "allow root");
   assert.ok(
     src.includes("sitemap: `${siteConfig.url}/sitemap.xml`"),

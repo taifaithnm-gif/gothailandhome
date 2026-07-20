@@ -175,7 +175,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
 
         <nav
           className="hidden max-w-[42rem] items-center gap-5 overflow-x-auto [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden lg:flex xl:max-w-none xl:gap-6"
-          aria-label="Primary"
+          aria-label={dict.nav.primary}
         >
           {groups.map((group, index) => (
             <div

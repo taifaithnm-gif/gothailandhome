@@ -9,7 +9,7 @@ import { listPublishedProjects } from "@/lib/data/projects";
 import { listPublishedPropertySlugsForSitemap } from "@/lib/data/properties";
 import { buildLocalizedPropertySitemapEntries } from "@/lib/seo/sitemap-inventory";
 
-/** Indexable static public routes — excludes drafts, leads, search, admin, state pages. */
+/** Indexable static public routes — excludes drafts, leads, search, admin, compare (device-state). Favorites remains a public feature landing. */
 const staticPaths = [
   "",
   "/buy",
