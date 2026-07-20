@@ -2,12 +2,10 @@ import Link from "next/link";
 import type { ReactNode } from "react";
 import { ExternalLink, MapPin } from "lucide-react";
 
-import {
-  PlatformCustomerSuccess,
-} from "@/components/marketplace/contact-blocks";
+import { PlatformCustomerSuccess } from "@/components/marketplace/contact-blocks";
 import { PropertyGrid } from "@/components/property/property-grid";
-import { buttonVariants } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
+import { buttonVariants } from "@/components/ui/button";
 import { ProjectCardShell, SurfaceCard } from "@/components/ui/card";
 import { EmptyState } from "@/components/ui/states";
 import type { Locale } from "@/config/locales";
@@ -19,6 +17,8 @@ import type {
   DistrictPackage,
 } from "@/lib/districts/package";
 import {
+  DISTRICT_LISTING_PREVIEW_SIZE,
+  DISTRICT_PROJECT_PREVIEW_SIZE,
   districtMapsUrl,
   hasDistrictCoordinates,
   localizedOrNull,
@@ -26,8 +26,6 @@ import {
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { localePath } from "@/lib/i18n/metadata";
 import { cn } from "@/lib/utils";
-
-const LISTING_PREVIEW = 12;
 
 function Section({
   id,
@@ -41,9 +39,15 @@ function Section({
   note?: string;
 }) {
   return (
-    <section id={id} className="scroll-mt-24 space-y-4">
+    <section
+      id={id}
+      className="scroll-mt-24 space-y-4"
+      aria-labelledby={`${id}-heading`}
+    >
       <div>
-        <h2 className="ds-h2 text-2xl sm:text-3xl">{title}</h2>
+        <h2 id={`${id}-heading`} className="ds-h2 text-2xl sm:text-3xl">
+          {title}
+        </h2>
         {note ? <p className="mt-1 text-sm text-stone-500">{note}</p> : null}
       </div>
       {children}
@@ -55,13 +59,17 @@ function AmenityList({
   items,
   locale,
   emptyLabel,
+  emptyDescription,
+  sourceLabel,
 }: {
   items: DistrictAmenity[];
   locale: Locale;
   emptyLabel: string;
+  emptyDescription: string;
+  sourceLabel: string;
 }) {
   if (!items.length) {
-    return <EmptyState title={emptyLabel} />;
+    return <EmptyState title={emptyLabel} description={emptyDescription} />;
   }
   return (
     <ul className="grid gap-3 sm:grid-cols-2">
@@ -87,7 +95,8 @@ function AmenityList({
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-1 text-sm text-[var(--brand)] hover:underline"
                 >
-                  Source <ExternalLink className="size-3.5" aria-hidden />
+                  {sourceLabel}{" "}
+                  <ExternalLink className="size-3.5" aria-hidden />
                 </a>
               ) : null}
             </SurfaceCard>
@@ -101,23 +110,15 @@ function AmenityList({
 function OverviewFact({
   label,
   value,
-  unknown,
 }: {
   label: string;
-  value: string | number | null | undefined;
-  unknown: string;
+  value: string | number;
 }) {
-  const display =
-    value == null || value === ""
-      ? unknown
-      : typeof value === "number"
-        ? String(value)
-        : value;
   return (
     <div className="rounded-xl border border-[var(--brand-line)] bg-white p-4">
       <dt className="ds-caption text-stone-500">{label}</dt>
       <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
-        {display}
+        {typeof value === "number" ? String(value) : value}
       </dd>
     </div>
   );
@@ -157,6 +158,44 @@ export function DistrictCenter({
   const investment = localizedOrNull(pkg.investmentSummary, locale);
   const packageTransit = pkg.transportation;
   const hasTransit = packageTransit.length > 0 || transitTags.length > 0;
+
+  const projectPreview = projects.slice(0, DISTRICT_PROJECT_PREVIEW_SIZE);
+  const listingPreview = listings.slice(0, DISTRICT_LISTING_PREVIEW_SIZE);
+
+  const overviewFacts: Array<{ label: string; value: string | number }> = [];
+  if (pkg.postalCode) {
+    overviewFacts.push({ label: d.postalCode, value: pkg.postalCode });
+  }
+  if (pkg.districtCode != null) {
+    overviewFacts.push({ label: d.districtCode, value: pkg.districtCode });
+  }
+  if (pkg.khwaengCount != null) {
+    overviewFacts.push({
+      label: d.subdistrictCount,
+      value: pkg.khwaengCount,
+    });
+  }
+  if (coordsOk && pkg.latitude != null && pkg.longitude != null) {
+    overviewFacts.push({
+      label: d.coordinates,
+      value: `${pkg.latitude}, ${pkg.longitude}`,
+    });
+  }
+
+  const sectionLinks: Array<{ id: string; label: string }> = [
+    { id: "overview", label: d.overview },
+    { id: "map", label: d.map },
+    { id: "projects", label: d.projects },
+    { id: "listings", label: d.listings },
+    { id: "transit", label: d.transit },
+    { id: "lifestyle", label: d.lifestyle },
+    { id: "schools", label: d.schools },
+    { id: "hospitals", label: d.hospitals },
+    { id: "shopping", label: d.shopping },
+    { id: "knowledge", label: d.knowledge },
+    { id: "find-my-home", label: d.findMyHomeTitle },
+    { id: "platform-support", label: d.platformSupport },
+  ];
 
   return (
     <div data-slot="district-center" className="space-y-14">
@@ -209,38 +248,45 @@ export function DistrictCenter({
         </div>
       </section>
 
+      <nav
+        className="border-b border-[var(--brand-line)] bg-white/70"
+        aria-label={d.sectionNav}
+        data-slot="district-section-nav"
+      >
+        <div className="ds-container flex gap-2 overflow-x-auto py-3">
+          {sectionLinks.map((link) => (
+            <a
+              key={link.id}
+              href={`#${link.id}`}
+              className="shrink-0 rounded-lg px-3 py-1.5 text-sm text-[var(--brand-deep)] transition hover:bg-[var(--brand-soft)]"
+            >
+              {link.label}
+            </a>
+          ))}
+        </div>
+      </nav>
+
       <div className="ds-container space-y-14 pb-16">
-        {/* Overview */}
+        {/* Overview — only available package facts */}
         <Section id="overview" title={d.overview} note={d.overviewNote}>
-          <p className="max-w-3xl text-stone-700">
-            {summary ?? unknown}
-          </p>
-          <dl className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-            <OverviewFact
-              label={d.postalCode}
-              value={pkg.postalCode}
-              unknown={unknown}
-            />
-            <OverviewFact
-              label={d.districtCode}
-              value={pkg.districtCode}
-              unknown={unknown}
-            />
-            <OverviewFact
-              label={d.subdistrictCount}
-              value={pkg.khwaengCount}
-              unknown={unknown}
-            />
-            <OverviewFact
-              label={d.coordinates}
-              value={
-                coordsOk
-                  ? `${pkg.latitude}, ${pkg.longitude}`
-                  : null
-              }
-              unknown={unknown}
-            />
-          </dl>
+          {summary ? (
+            <p className="max-w-3xl text-stone-700">{summary}</p>
+          ) : (
+            <p className="text-sm text-stone-500">{unknown}</p>
+          )}
+          {overviewFacts.length ? (
+            <dl className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+              {overviewFacts.map((fact) => (
+                <OverviewFact
+                  key={fact.label}
+                  label={fact.label}
+                  value={fact.value}
+                />
+              ))}
+            </dl>
+          ) : (
+            <p className="mt-4 text-sm text-stone-500">{unknown}</p>
+          )}
           <p className="mt-3 text-sm text-stone-500">{d.inventoryNote}</p>
           <p className="text-sm text-stone-600">
             {d.projectsOnPlatform}: {projects.length} · {d.listingsOnPlatform}:{" "}
@@ -272,28 +318,41 @@ export function DistrictCenter({
 
         {/* Projects */}
         <Section id="projects" title={d.projects} note={d.projectsNote}>
-          {projects.length ? (
-            <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-              {projects.map((project) => (
-                <li key={project.id}>
-                  <Link
-                    href={localePath(locale, `/projects/${project.slug}`)}
-                    className="block h-full"
-                  >
-                    <ProjectCardShell className="h-full transition hover:border-[var(--brand)]">
-                      <p className="font-heading text-lg text-[var(--brand-deep)]">
-                        {project.name[locale]}
-                      </p>
-                      {project.developer?.name[locale] ? (
-                        <p className="mt-1 text-sm text-stone-500">
-                          {project.developer.name[locale]}
+          {projectPreview.length ? (
+            <>
+              <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+                {projectPreview.map((project) => (
+                  <li key={project.id}>
+                    <Link
+                      href={localePath(locale, `/projects/${project.slug}`)}
+                      className="block h-full"
+                    >
+                      <ProjectCardShell className="h-full transition hover:border-[var(--brand)]">
+                        <p className="font-heading text-lg text-[var(--brand-deep)]">
+                          {project.name[locale]}
                         </p>
-                      ) : null}
-                    </ProjectCardShell>
-                  </Link>
-                </li>
-              ))}
-            </ul>
+                        {project.developer?.name[locale] ? (
+                          <p className="mt-1 text-sm text-stone-500">
+                            {project.developer.name[locale]}
+                          </p>
+                        ) : null}
+                      </ProjectCardShell>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+              {projects.length > DISTRICT_PROJECT_PREVIEW_SIZE ? (
+                <Link
+                  href={localePath(locale, "/projects")}
+                  className={cn(
+                    buttonVariants({ variant: "secondary" }),
+                    "mt-2",
+                  )}
+                >
+                  {d.viewAllProjects}
+                </Link>
+              ) : null}
+            </>
           ) : (
             <EmptyState title={dict.cities.emptyProjects} />
           )}
@@ -301,8 +360,12 @@ export function DistrictCenter({
 
         {/* Listings */}
         <Section id="listings" title={d.listings} note={d.listingsNote}>
-          <PropertyGrid locale={locale} dict={dict} properties={listings} />
-          {listingTotal > LISTING_PREVIEW ? (
+          <PropertyGrid
+            locale={locale}
+            dict={dict}
+            properties={listingPreview}
+          />
+          {listingTotal > DISTRICT_LISTING_PREVIEW_SIZE || listingTotal > 0 ? (
             <Link
               href={localePath(
                 locale,
@@ -324,6 +387,8 @@ export function DistrictCenter({
                   items={packageTransit}
                   locale={locale}
                   emptyLabel={unknown}
+                  emptyDescription={d.amenitiesEmpty}
+                  sourceLabel={d.amenitySource}
                 />
               ) : null}
               {transitTags.length ? (
@@ -352,29 +417,35 @@ export function DistrictCenter({
         </Section>
 
         {/* Schools */}
-        <Section id="schools" title={d.schools}>
+        <Section id="schools" title={d.schools} note={d.schoolsNote}>
           <AmenityList
             items={pkg.schools}
             locale={locale}
             emptyLabel={unknown}
+            emptyDescription={d.amenitiesEmpty}
+            sourceLabel={d.amenitySource}
           />
         </Section>
 
         {/* Hospitals */}
-        <Section id="hospitals" title={d.hospitals}>
+        <Section id="hospitals" title={d.hospitals} note={d.hospitalsNote}>
           <AmenityList
             items={pkg.hospitals}
             locale={locale}
             emptyLabel={unknown}
+            emptyDescription={d.amenitiesEmpty}
+            sourceLabel={d.amenitySource}
           />
         </Section>
 
         {/* Shopping */}
-        <Section id="shopping" title={d.shopping}>
+        <Section id="shopping" title={d.shopping} note={d.shoppingNote}>
           <AmenityList
             items={pkg.shopping}
             locale={locale}
             emptyLabel={unknown}
+            emptyDescription={d.amenitiesEmpty}
+            sourceLabel={d.amenitySource}
           />
         </Section>
 
@@ -403,6 +474,29 @@ export function DistrictCenter({
             ) : (
               <p className="text-sm text-stone-500">{unknown}</p>
             )}
+            <div
+              className="flex flex-wrap gap-3 pt-2"
+              data-slot="district-knowledge-links"
+            >
+              <Link
+                href={localePath(locale, "/knowledge")}
+                className="text-sm font-medium text-[var(--brand)] hover:underline"
+              >
+                {d.knowledgeHub}
+              </Link>
+              <Link
+                href={localePath(locale, "/knowledge/bangkok-districts")}
+                className="text-sm font-medium text-[var(--brand)] hover:underline"
+              >
+                {d.knowledgeDistricts}
+              </Link>
+              <Link
+                href={localePath(locale, "/knowledge/glossary")}
+                className="text-sm font-medium text-[var(--brand)] hover:underline"
+              >
+                {d.knowledgeGlossary}
+              </Link>
+            </div>
           </SurfaceCard>
         </Section>
 
@@ -430,4 +524,5 @@ export function DistrictCenter({
   );
 }
 
-export const DISTRICT_LISTING_PREVIEW = LISTING_PREVIEW;
+/** @deprecated Prefer DISTRICT_LISTING_PREVIEW_SIZE from package helpers. */
+export const DISTRICT_LISTING_PREVIEW = DISTRICT_LISTING_PREVIEW_SIZE;

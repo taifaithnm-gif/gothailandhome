@@ -21,6 +21,20 @@ export {
 } from "@/lib/leads/urls";
 
 export {
+  LEAD_CONTEXT_KINDS,
+  LEAD_CONTEXT_PARAM,
+  LEAD_CONTEXT_FIELD,
+  isLeadContextKind,
+  normalizeLeadContext,
+  readLeadContextFromForm,
+  appendLeadContextParams,
+  parseLeadContextParams,
+  leadContextSourcePath,
+  type LeadContext,
+  type LeadContextKind,
+} from "@/lib/leads/context";
+
+export {
   generateLeadReference,
   validateContactBasics,
   validateDeveloperPartnership,

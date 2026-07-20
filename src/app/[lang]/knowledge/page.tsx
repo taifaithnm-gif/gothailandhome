@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
+import { ContentRelatedLinks } from "@/components/content/content-related-links";
 import { PageShell } from "@/components/layout/page-shell";
 import { SurfaceCard } from "@/components/ui/card";
 import { isLocale } from "@/config/locales";
@@ -36,6 +37,21 @@ export default async function KnowledgeHubPage({
 
   const guides = [
     {
+      href: "/knowledge/investment",
+      title: dict.investmentGuide.title,
+      body: dict.investmentGuide.educationalLabel,
+    },
+    {
+      href: "/knowledge/legal",
+      title: dict.legalGuide.title,
+      body: dict.legalGuide.notAdviceLabel,
+    },
+    {
+      href: "/faq",
+      title: dict.faqHub.title,
+      body: dict.faqHub.subtitle,
+    },
+    {
       href: "/about",
       title: h.guidePlatformTitle,
       body: h.guidePlatformBody,
@@ -50,9 +66,19 @@ export default async function KnowledgeHubPage({
       title: h.guideContactTitle,
       body: h.guideContactBody,
     },
+    {
+      href: "/blog",
+      title: dict.blog.title,
+      body: dict.blog.subtitle,
+    },
   ] as const;
 
   const indexes = [
+    {
+      href: "/knowledge/articles",
+      title: k.articlesTitle,
+      body: k.articlesSubtitle,
+    },
     {
       href: "/knowledge/glossary",
       title: k.glossaryTitle,
@@ -78,7 +104,7 @@ export default async function KnowledgeHubPage({
       <div className="space-y-10">
         <section className="space-y-4">
           <h2 className="ds-h3 text-xl">{k.guidesTitle}</h2>
-          <div className="grid gap-4 md:grid-cols-3">
+          <div className="grid gap-4 md:grid-cols-3 lg:grid-cols-4">
             {guides.map((guide) => (
               <Link
                 key={guide.href}
@@ -115,6 +141,12 @@ export default async function KnowledgeHubPage({
             ))}
           </div>
         </section>
+
+        <ContentRelatedLinks
+          locale={lang}
+          dict={dict}
+          currentPath="/knowledge"
+        />
       </div>
     </PageShell>
   );

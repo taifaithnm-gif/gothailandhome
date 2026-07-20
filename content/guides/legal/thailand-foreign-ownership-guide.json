@@ -1,0 +1,68 @@
+{
+  "slug": "thailand-foreign-ownership-guide",
+  "type": "legal_guide",
+  "status": "approved",
+  "version": "LEG-GUIDE-1.0.0",
+  "owner": "Qualified Legal Reviewer",
+  "jurisdiction": {
+    "en": "Jurisdiction: Kingdom of Thailand",
+    "zh": "管辖范围：泰王国",
+    "th": "เขตอำนาจศาล: ราชอาณาจักรไทย"
+  },
+  "reviewed_at": "2026-07-20",
+  "title": {
+    "en": "Thailand property — foreign ownership information guide",
+    "zh": "泰国房产——外籍人士产权信息指南",
+    "th": "อสังหาริมทรัพย์ไทย — คู่มือข้อมูลกรรมสิทธิ์สำหรับชาวต่างชาติ"
+  },
+  "summary": {
+    "en": "General information about property-related rules in Thailand for international readers. This is not legal advice for your specific circumstances.",
+    "zh": "面向国际读者的泰国房产相关规则一般性信息。不构成针对您具体情况的法律建议。",
+    "th": "ข้อมูลทั่วไปเกี่ยวกับกฎที่เกี่ยวข้องกับอสังหาริมทรัพย์ในไทยสำหรับผู้อ่านต่างชาติ ไม่ใช่คำแนะนำทางกฎหมายสำหรับสถานการณ์เฉพาะของคุณ"
+  },
+  "disclaimer": {
+    "en": "This guide provides general information about property-related rules in Thailand. It is not legal advice and does not apply to your specific circumstances. GoThailandHome is not a law firm. Laws and regulations may change. Consult a qualified Thai lawyer before making property or ownership decisions.",
+    "zh": "本指南提供有关泰国房产相关规则的一般性信息。不构成法律建议，也不适用于您的具体情况。GoThailandHome 不是律师事务所。法律法规可能变更。在做出房产或产权决定前，请咨询合格的泰国律师。",
+    "th": "คู่มือนี้ให้ข้อมูลทั่วไปเกี่ยวกับกฎที่เกี่ยวข้องกับอสังหาริมทรัพย์ในไทย ไม่ใช่คำแนะนำทางกฎหมายและไม่ใช้กับสถานการณ์เฉพาะของคุณ GoThailandHome ไม่ใช่สำนักงานกฎหมาย กฎหมายและระเบียบอาจเปลี่ยนแปลง ปรึกษาทนายความไทยที่มีคุณสมบัติก่อนตัดสินใจด้านอสังหาริมทรัพย์หรือกรรมสิทธิ์"
+  },
+  "body": {
+    "en": [
+      "This guide describes general information about property rules in the Kingdom of Thailand. It is for educational orientation only and is not legal advice for any individual buyer, seller, or tenant.",
+      "GoThailandHome is a property discovery marketplace. It is not a law firm and does not provide legal services, title opinions, or contract drafting.",
+      "Foreign buyers often review condominium foreign-ownership quota rules with qualified counsel. Public sources describe quota concepts for condominiums registered under Thai law. Eligibility for a specific unit requires professional review of title documents and registry records.",
+      "Before transferring funds or signing agreements, verify title status, developer disclosures, and registration requirements with a qualified Thai lawyer. Platform listing pages show source-linked public information and are not a substitute for legal due diligence.",
+      "Laws and regulations may change. Always confirm current rules with official government publications and qualified counsel.",
+      "For platform process questions (viewing requests, Marketplace forms, Platform Customer Success), use the Contact page. Legal questions about your situation require a qualified lawyer."
+    ],
+    "zh": [
+      "本指南描述泰王国房产相关规则的一般性信息，仅供教育性参考，不构成对任何个人买家、卖家或租户的法律建议。",
+      "GoThailandHome 是房产发现平台，不是律师事务所，不提供法律服务、产权意见或合同起草。",
+      "外籍买家通常会与合格顾问一起审阅公寓外籍配额相关规则。公开来源描述在泰国法律下注册的公寓配额概念。特定单元的资格需由专业人士审阅产权文件及登记记录。",
+      "在转账或签署协议前，请与合格的泰国律师核实产权状态、开发商披露及登记要求。平台挂牌页展示来源链接的公开信息，不能替代法律尽职调查。",
+      "法律法规可能变更。请始终通过政府官方出版物及合格顾问确认现行规则。",
+      "平台流程问题（看房申请、Marketplace 表单、平台客户成功团队）请使用联系页面。关于您个人情况的法律问题需咨询合格律师。"
+    ],
+    "th": [
+      "คู่มือนี้อธิบายข้อมูลทั่วไปเกี่ยวกับกฎอสังหาริมทรัพย์ในราชอาณาจักรไทย เพื่อการศึกษาเท่านั้น ไม่ใช่คำแนะนำทางกฎหมายสำหรับผู้ซื้อ ผู้ขาย หรือผู้เช่าแต่ละราย",
+      "GoThailandHome เป็นตลาดค้นหาอสังหาริมทรัพย์ ไม่ใช่สำนักงานกฎหมายและไม่ให้บริการทางกฎหมาย ความเห็นเรื่องโฉนด หรือการร่างสัญญา",
+      "ผู้ซื้อชาวต่างชาติมักทบทวนกฎโควต้ากรรมสิทธิ์ชาวต่างชาติของคอนโดมิเนียมกับที่ปรึกษาที่มีคุณสมบัติ แหล่งสาธารณะอธิบายแนวคิดโควต้าสำหรับคอนโดมิเนียมที่จดทะเบียนตามกฎหมายไทย คุณสมบัติสำหรับยูนิตเฉพาะต้องให้ผู้เชี่ยวชาญตรวจสอบเอกสารโฉนดและทะเบียน",
+      "ก่อนโอนเงินหรือลงนามข้อตกลง ให้ยืนยันสถานะโฉนด การเปิดเผยของผู้พัฒนา และข้อกำหนดการจดทะเบียนกับทนายความไทยที่มีคุณสมบัติ หน้าประกาศบนแพลตฟอร์มแสดงข้อมูลสาธารณะที่เชื่อมแหล่งที่มา ไม่ใช่ทดแทนการตรวจสอบความถูกต้องทางกฎหมาย",
+      "กฎหมายและระเบียบอาจเปลี่ยนแปลง ยืนยันกฎปัจจุบันกับสิ่งพิมพ์ของรัฐและที่ปรึกษาที่มีคุณสมบัติเสมอ",
+      "สำหรับคำถามกระบวนการแพลตฟอร์ม (ขอดูทรัพย์ แบบฟอร์ม Marketplace ทีมลูกค้าสำเร็จของแพลตฟอร์ม) ใช้หน้าติดต่อ คำถามทางกฎหมายเกี่ยวกับสถานการณ์ของคุณต้องปรึกษาทนายความที่มีคุณสมบัติ"
+    ]
+  },
+  "sources": [
+    {
+      "type": "government",
+      "name": "Thailand Land Department — public information",
+      "url": "https://www.dol.go.th/",
+      "verified_at": "2026-07-20",
+      "note": "General reference for property registration and condominium rules."
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

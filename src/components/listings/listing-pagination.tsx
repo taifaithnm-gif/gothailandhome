@@ -2,7 +2,12 @@ import Link from "next/link";
 
 import type { Locale } from "@/config/locales";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
-import { localePath } from "@/lib/i18n/metadata";
+import {
+  buildListingPaginationHref,
+  LISTING_RESULTS_HASH,
+} from "@/lib/search/listing-pagination-href";
+
+export { buildListingPaginationHref, LISTING_RESULTS_HASH };
 
 type ListingPaginationProps = {
   locale: Locale;
@@ -14,22 +19,9 @@ type ListingPaginationProps = {
   pageSize: number;
   /** Current query string params excluding `page`. */
   params: Record<string, string | undefined>;
+  /** Focus target after pagination navigation. */
+  resultsHash?: string;
 };
-
-function hrefFor(
-  locale: Locale,
-  basePath: string,
-  params: Record<string, string | undefined>,
-  page: number,
-) {
-  const search = new URLSearchParams();
-  for (const [key, value] of Object.entries(params)) {
-    if (value) search.set(key, value);
-  }
-  if (page > 1) search.set("page", String(page));
-  const qs = search.toString();
-  return `${localePath(locale, basePath)}${qs ? `?${qs}` : ""}`;
-}
 
 export function ListingPagination({
   locale,
@@ -40,7 +32,12 @@ export function ListingPagination({
   total,
   pageSize,
   params,
+  resultsHash = LISTING_RESULTS_HASH,
 }: ListingPaginationProps) {
+  if (total === 0 || totalPages <= 0) {
+    return null;
+  }
+
   if (totalPages <= 1) {
     return (
       <p className="text-sm text-stone-500">
@@ -53,14 +50,16 @@ export function ListingPagination({
   const to = Math.min(page * pageSize, total);
   const prev = page > 1 ? page - 1 : null;
   const next = page < totalPages ? page + 1 : null;
+  const linkClass =
+    "rounded-sm font-medium text-[var(--brand)] underline-offset-4 outline-none hover:underline focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35";
 
   return (
     <nav
       className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between"
-      aria-label="Pagination"
+      aria-label={dict.search.paginationLabel}
     >
       <p className="text-sm text-stone-500">
-        {(dict.search.pageSummary || "{from}–{to} of {total}")
+        {dict.search.pageSummary
           .replace("{from}", String(from))
           .replace("{to}", String(to))
           .replace("{total}", String(total))}
@@ -68,30 +67,42 @@ export function ListingPagination({
       <div className="flex items-center gap-3 text-sm">
         {prev ? (
           <Link
-            href={hrefFor(locale, basePath, params, prev)}
-            className="font-medium text-[var(--brand)] underline-offset-4 hover:underline"
+            href={buildListingPaginationHref(
+              locale,
+              basePath,
+              params,
+              prev,
+              resultsHash,
+            )}
+            className={linkClass}
             rel="prev"
           >
-            {dict.search.prevPage || "Previous"}
+            {dict.search.prevPage}
           </Link>
         ) : (
-          <span className="text-stone-400">{dict.search.prevPage || "Previous"}</span>
+          <span className="text-stone-400">{dict.search.prevPage}</span>
         )}
-        <span className="text-stone-600">
-          {(dict.search.pageOf || "Page {page} of {totalPages}")
+        <span className="text-stone-600" aria-current="page">
+          {dict.search.pageOf
             .replace("{page}", String(page))
             .replace("{totalPages}", String(totalPages))}
         </span>
         {next ? (
           <Link
-            href={hrefFor(locale, basePath, params, next)}
-            className="font-medium text-[var(--brand)] underline-offset-4 hover:underline"
+            href={buildListingPaginationHref(
+              locale,
+              basePath,
+              params,
+              next,
+              resultsHash,
+            )}
+            className={linkClass}
             rel="next"
           >
-            {dict.search.nextPage || "Next"}
+            {dict.search.nextPage}
           </Link>
         ) : (
-          <span className="text-stone-400">{dict.search.nextPage || "Next"}</span>
+          <span className="text-stone-400">{dict.search.nextPage}</span>
         )}
       </div>
     </nav>

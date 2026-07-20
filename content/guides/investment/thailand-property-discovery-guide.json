@@ -1,0 +1,68 @@
+{
+  "slug": "thailand-property-discovery-guide",
+  "type": "investment_guide",
+  "status": "approved",
+  "version": "INV-GUIDE-1.0.0",
+  "owner": "Qualified Investment Reviewer",
+  "reviewed_at": "2026-07-20",
+  "title": {
+    "en": "Thailand property discovery — investment education guide",
+    "zh": "泰国房产发现——投资教育指南",
+    "th": "การค้นหาอสังหาริมทรัพย์ไทย — คู่มือการศึกษาด้านการลงทุน"
+  },
+  "summary": {
+    "en": "Educational guide explaining how to use GoThailandHome for verified public listing discovery and due-diligence screening — without yield, ROI, or return forecasts.",
+    "zh": "教育性指南，说明如何使用 GoThailandHome 发现经核验的公开挂牌并进行尽职调查筛选——不提供收益率、投资回报率或回报预测。",
+    "th": "คู่มือเพื่อการศึกษาอธิบายวิธีใช้ GoThailandHome ค้นหาประกาศสาธารณะที่ตรวจสอบแล้วและคัดกรองการตรวจสอบความถูกต้อง — ไม่มีการคาดการณ์ผลตอบแทน อัตราผลตอบแทน หรือ ROI"
+  },
+  "disclaimer": {
+    "en": "This educational guide explains how GoThailandHome helps you discover and review verified public property listings. It does not provide investment advice, yield forecasts, ROI projections, or guaranteed outcomes. Listing prices and availability come from third-party public sources and may change. Consult qualified financial, tax, and legal professionals before making property decisions.",
+    "zh": "本教育性指南说明 GoThailandHome 如何帮助您发现并审阅经核验的公开房产挂牌。不提供投资建议、收益率预测、投资回报率预测或保证结果。挂牌价格与可售状态来自第三方公开来源，可能变动。在做出房产决策前，请咨询合格的财务、税务及法律专业人士。",
+    "th": "คู่มือเพื่อการศึกษานี้อธิบายว่า GoThailandHome ช่วยคุณค้นหาและตรวจสอบประกาศอสังหาริมทรัพย์สาธารณะที่ตรวจสอบแล้วอย่างไร ไม่ให้คำแนะนำการลงทุน การคาดการณ์ผลตอบแทน การคาดการณ์ ROI หรือผลลัพธ์ที่รับประกัน ราคาและความพร้อมจำหน่ายมาจากแหล่งสาธารณะของบุคคลที่สามและอาจเปลี่ยนแปลง ปรึกษาผู้เชี่ยวชาญด้านการเงิน ภาษี และกฎหมายที่มีคุณสมบัติก่อนตัดสินใจด้านอสังหาริมทรัพย์"
+  },
+  "forecast_disclaimer": {
+    "en": "No yield, ROI, or return forecasts are provided on this page.",
+    "zh": "本页面不提供收益率、投资回报率或回报预测。",
+    "th": "หน้านี้ไม่มีการคาดการณ์ผลตอบแทน ROI หรืออัตราผลตอบแทน"
+  },
+  "body": {
+    "en": [
+      "GoThailandHome is a property discovery marketplace. It indexes verified public listings from third-party sources. The platform is not the listing agent for individual properties.",
+      "When you review a listing, check the source link, verification labels, and freshness date shown on the property page. Published prices reflect what appears on the linked public source at import time and may change when sources update.",
+      "Use a simple due-diligence checklist: confirm the source page, note verification status, request a viewing when available, and contact the listing party shown on the property before relying on any detail.",
+      "Published listing prices are not developer official project prices. Project pages may show separate official facts when evidence allows.",
+      "For private buyer or tenant briefs, use Find My Home from the Marketplace hub. Your request is not published as a public listing.",
+      "This guide does not provide investment advice, yield forecasts, ROI projections, or guaranteed outcomes. Consult qualified financial, tax, and legal professionals for decisions specific to your situation."
+    ],
+    "zh": [
+      "GoThailandHome 是房产发现平台，索引来自第三方来源的经核验公开挂牌。平台不是各套房产的挂牌代理。",
+      "审阅挂牌时，请查看房源页上的来源链接、核验标签与新鲜度日期。已发布价格反映导入时链接公开来源上的信息，来源更新后可能变化。",
+      "尽职调查清单：确认来源页面、注意核验状态、在可用时预约看房，并在依赖任何细节前联系房源页显示的挂牌方。",
+      "已发布挂牌价格不是开发商官方项目价。项目页在证据允许时可能单独展示官方事实。",
+      "如需私人买家或租客需求，请从 Marketplace 中心使用 Find My Home。您的需求不会作为公开挂牌发布。",
+      "本指南不提供投资建议、收益率预测、投资回报率预测或保证结果。针对您个人情况的决定，请咨询合格的财务、税务及法律专业人士。"
+    ],
+    "th": [
+      "GoThailandHome เป็นตลาดค้นหาอสังหาริมทรัพย์ จัดทำดัชนีประกาศสาธารณะที่ตรวจสอบแล้วจากแหล่งบุคคลที่สาม แพลตฟอร์มไม่ใช่ตัวแทนประกาศของแต่ละทรัพย์",
+      "เมื่อตรวจสอบประกาศ ให้ดูลิงก์แหล่งที่มา ป้ายการตรวจสอบ และวันที่ความสดบนหน้าทรัพย์ ราคาที่เผยแพร่สะท้อนข้อมูลบนแหล่งสาธารณะที่ลิงก์ไว้ ณ เวลานำเข้า และอาจเปลี่ยนเมื่อแหล่งอัปเดต",
+      "ใช้รายการตรวจสอบความถูกต้องเบื้องต้น: ยืนยันหน้าแหล่งที่มา สังเกตสถานะการตรวจสอบ ขอดูทรัพย์เมื่อมี และติดต่อฝ่ายประกาศที่แสดงบนหน้าทรัพย์ก่อนพึ่งพารายละเอียดใดๆ",
+      "ราคาประกาศที่เผยแพร่ไม่ใช่ราคาโครงการอย่างเป็นทางการจากผู้พัฒนา หน้าโครงการอาจแสดงข้อเท็จจริงอย่างเป็นทางการแยกต่างหากเมื่อมีหลักฐาน",
+      "สำหรับบรีฟผู้ซื้อหรือผู้เช่าส่วนตัว ใช้ Find My Home จากศูนย์ Marketplace คำขอของคุณจะไม่ถูกเผยแพร่เป็นประกาศสาธารณะ",
+      "คู่มือนี้ไม่ให้คำแนะนำการลงทุน การคาดการณ์ผลตอบแทน การคาดการณ์ ROI หรือผลลัพธ์ที่รับประกัน ปรึกษาผู้เชี่ยวชาญด้านการเงิน ภาษี และกฎหมายที่มีคุณสมบัติสำหรับการตัดสินใจเฉพาะสถานการณ์ของคุณ"
+    ]
+  },
+  "sources": [
+    {
+      "type": "platform_process",
+      "name": "GoThailandHome Marketplace and listing verification process",
+      "url": "https://gothailandhome.com/en/marketplace",
+      "verified_at": "2026-07-20",
+      "note": "Platform role, verification labels, and Find My Home process."
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

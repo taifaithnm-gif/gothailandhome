@@ -1,0 +1,24 @@
+{
+  "id": "faq-not-listing-agent",
+  "type": "faq_entry",
+  "status": "approved",
+  "category": "platform",
+  "sort_order": 2,
+  "question": {
+    "en": "Is GoThailandHome the listing agent?",
+    "zh": "GoThailandHome 是挂牌代理吗？",
+    "th": "GoThailandHome เป็นตัวแทนประกาศหรือไม่?"
+  },
+  "answer": {
+    "en": "No. Listing contacts appear on each property when available. Platform Customer Success helps with escalation only.",
+    "zh": "不是。各房源在可用时显示挂牌联系方式。平台客户成功团队仅协助升级处理。",
+    "th": "ไม่ ข้อมูลติดต่อประกาศปรากฏบนแต่ละทรัพย์เมื่อมี ทีมลูกค้าสำเร็จของแพลตฟอร์มช่วยเรื่องการส่งต่อเท่านั้น"
+  },
+  "source_class": "platform_process",
+  "reviewed_at": "2026-07-20",
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

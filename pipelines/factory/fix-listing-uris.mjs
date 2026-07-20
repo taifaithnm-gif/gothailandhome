@@ -26,7 +26,6 @@ for (const d of readdirSync(projectsDir)) {
     // If URL has non-ASCII or spaces or fails URL parse, canonicalize
     let needsFix = /[^\x00-\x7F]/.test(l.listing_url) || /\s/.test(l.listing_url);
     try {
-      // eslint-disable-next-line no-new
       new URL(l.listing_url);
     } catch {
       needsFix = true;

@@ -14,6 +14,22 @@ export const LISTING_SORTS = [
 
 export type ListingSearchSort = (typeof LISTING_SORTS)[number];
 
+export const LISTING_TYPES = ["sale", "rent", "all"] as const;
+export const PROPERTY_TYPES = [
+  "condo",
+  "house",
+  "villa",
+  "land",
+  "commercial",
+] as const;
+export const TRANSIT_TYPES = ["bts", "mrt"] as const;
+
+const DEFAULT_LISTING_SORT: ListingSearchSort = "newest_verified";
+const MAX_QUERY_LENGTH = 200;
+const MAX_SLUG_LENGTH = 120;
+const DECIMAL_PATTERN = /^(?:0|[1-9]\d*)(?:\.\d+)?$/;
+const INTEGER_PATTERN = /^(?:0|[1-9]\d*)$/;
+
 export type ListingSearchParams = {
   q?: string;
   location?: string;
@@ -59,25 +75,58 @@ function one(
   return value;
 }
 
-function positiveInt(raw: string | undefined): number | undefined {
-  if (raw == null || raw === "") return undefined;
-  const n = Number(raw);
-  if (!Number.isFinite(n) || n < 0) return undefined;
-  return Math.floor(n);
+function normalizedText(
+  raw: string | undefined,
+  maxLength = MAX_QUERY_LENGTH,
+): string | undefined {
+  const value = raw?.trim().replace(/\s+/g, " ");
+  if (!value || value.length > maxLength) return undefined;
+  return value;
 }
 
-function positiveNumber(raw: string | undefined): number | undefined {
-  if (raw == null || raw === "") return undefined;
-  const n = Number(raw);
+function normalizedSlug(raw: string | undefined): string | undefined {
+  const value = raw?.trim().toLowerCase();
+  if (
+    !value ||
+    value.length > MAX_SLUG_LENGTH ||
+    !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(value)
+  ) {
+    return undefined;
+  }
+  return value;
+}
+
+function nonNegativeInt(raw: string | undefined): number | undefined {
+  const value = raw?.trim();
+  if (!value || !INTEGER_PATTERN.test(value)) return undefined;
+  const n = Number(value);
+  if (!Number.isSafeInteger(n)) return undefined;
+  return n;
+}
+
+function nonNegativeNumber(raw: string | undefined): number | undefined {
+  const value = raw?.trim();
+  if (!value || !DECIMAL_PATTERN.test(value)) return undefined;
+  const n = Number(value);
   if (!Number.isFinite(n) || n < 0) return undefined;
   return n;
+}
+
+function orderedRange(
+  min: number | undefined,
+  max: number | undefined,
+): [number | undefined, number | undefined] {
+  if (min != null && max != null && min > max) {
+    return [undefined, undefined];
+  }
+  return [min, max];
 }
 
 /** Normalize transit tokens to lowercase glossary codes (`bts` / `mrt`). */
 export function normalizeTransit(raw: string | undefined): string | undefined {
   if (!raw) return undefined;
   const v = raw.trim().toLowerCase();
-  if (v === "bts" || v === "mrt") return v;
+  if ((TRANSIT_TYPES as readonly string[]).includes(v)) return v;
   return undefined;
 }
 
@@ -85,7 +134,7 @@ export function parseListingSort(raw: string | undefined): ListingSearchSort {
   if (raw && (LISTING_SORTS as readonly string[]).includes(raw)) {
     return raw as ListingSearchSort;
   }
-  return "newest_verified";
+  return DEFAULT_LISTING_SORT;
 }
 
 export function parseListingSearchParams(
@@ -95,29 +144,39 @@ export function parseListingSearchParams(
   const listingType =
     listingRaw === "sale" || listingRaw === "rent" ? listingRaw : "all";
 
-  const typeRaw = one(input.type);
+  const typeRaw = one(input.type)?.trim().toLowerCase();
   const type =
-    typeRaw && typeRaw !== "all" ? typeRaw : undefined;
+    typeRaw && (PROPERTY_TYPES as readonly string[]).includes(typeRaw)
+      ? typeRaw
+      : undefined;
 
-  const pageRaw = Number(one(input.page) || "1");
-  const page = Number.isFinite(pageRaw) && pageRaw > 0 ? Math.floor(pageRaw) : 1;
+  const parsedPage = nonNegativeInt(one(input.page));
+  const page = parsedPage && parsedPage > 0 ? parsedPage : 1;
+  const [minPrice, maxPrice] = orderedRange(
+    nonNegativeNumber(one(input.min_price)),
+    nonNegativeNumber(one(input.max_price)),
+  );
+  const [minArea, maxArea] = orderedRange(
+    nonNegativeNumber(one(input.min_area)),
+    nonNegativeNumber(one(input.max_area)),
+  );
 
   return {
-    q: one(input.q)?.trim() || undefined,
-    location: one(input.location)?.trim() || undefined,
+    q: normalizedText(one(input.q)),
+    location: normalizedText(one(input.location)),
     sort: parseListingSort(one(input.sort)),
     listingType,
     type,
-    city: one(input.city)?.trim() || undefined,
-    district: one(input.district)?.trim() || undefined,
-    project: one(input.project)?.trim() || undefined,
-    developer: one(input.developer)?.trim() || undefined,
+    city: normalizedSlug(one(input.city)),
+    district: normalizedSlug(one(input.district)),
+    project: normalizedSlug(one(input.project)),
+    developer: normalizedSlug(one(input.developer)),
     transit: normalizeTransit(one(input.transit)),
-    bedrooms: positiveInt(one(input.bedrooms)),
-    minPrice: positiveNumber(one(input.min_price)),
-    maxPrice: positiveNumber(one(input.max_price)),
-    minArea: positiveNumber(one(input.min_area)),
-    maxArea: positiveNumber(one(input.max_area)),
+    bedrooms: nonNegativeInt(one(input.bedrooms)),
+    minPrice,
+    maxPrice,
+    minArea,
+    maxArea,
     page,
   };
 }
@@ -153,6 +212,7 @@ export function listingSearchToQueryRecord(
   const values = toListingFilterValues(state);
   const out: Record<string, string | undefined> = {};
   for (const [key, value] of Object.entries(values)) {
+    if (key === "sort" && value === DEFAULT_LISTING_SORT) continue;
     if (value) out[key] = value;
   }
   return out;
@@ -171,6 +231,14 @@ export function buildListingSearchHref(
   if (p > 1) search.set("page", String(p));
   const qs = search.toString();
   return qs ? `${basePath}?${qs}` : basePath;
+}
+
+/** Build a filter-submit href and always reset pagination to page one. */
+export function buildListingFilterHref(
+  basePath: string,
+  state: ListingSearchState,
+): string {
+  return buildListingSearchHref(basePath, state, 1);
 }
 
 export function countActiveListingFilters(state: ListingSearchState): number {

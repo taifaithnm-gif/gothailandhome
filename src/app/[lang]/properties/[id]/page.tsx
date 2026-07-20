@@ -2,6 +2,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { PageShell } from "@/components/layout/page-shell";
+import { CompareButton } from "@/components/compare/compare-button";
+import { FavoriteButton } from "@/components/favorites/favorite-button";
 import { ListingContactCard } from "@/components/property/listing-contact-card";
 import { ListingGallery } from "@/components/property/listing-gallery";
 import { PropertyGrid } from "@/components/property/property-grid";
@@ -29,6 +31,12 @@ import {
   propertyTypeLabel,
 } from "@/lib/i18n/metadata";
 import {
+  displayOrUnknown,
+  isUnknownFactValue,
+  listingFreshnessStatus,
+  mayPresentPriceAsCurrent,
+} from "@/lib/property/listing-trust";
+import {
   poiDisplayName,
   type ProjectPoi,
 } from "@/lib/projects/normalize-project-content";
@@ -36,6 +44,7 @@ import {
   breadcrumbListSchema,
   listingSchema,
 } from "@/lib/seo/schema";
+import { cn } from "@/lib/utils";
 
 export const revalidate = 60;
 
@@ -77,19 +86,49 @@ function formatEvidenceDate(iso: string | null, locale: Locale) {
   }).format(date);
 }
 
-function displayOrUnknown(
-  value: string | number | null | undefined,
-  unknown: string,
-) {
-  if (value == null || value === "") return unknown;
-  return String(value);
-}
-
 function transitLabel(tag: string, dict: Dictionary) {
   const t = tag.toLowerCase();
   if (t === "bts") return dict.listings.bts;
   if (t === "mrt") return dict.listings.mrt;
   return tag;
+}
+
+function freshnessMessage(
+  status: ReturnType<typeof listingFreshnessStatus>,
+  dict: Dictionary,
+) {
+  switch (status) {
+    case "fresh":
+      return dict.property.freshnessFresh;
+    case "warning":
+      return dict.property.freshnessWarning;
+    case "expired":
+      return dict.property.freshnessExpired;
+    default:
+      return dict.property.freshnessUnknown;
+  }
+}
+
+function FactValue({
+  value,
+  unknown,
+}: {
+  value: string;
+  unknown: string;
+}) {
+  const missing = isUnknownFactValue(value, unknown);
+  return (
+    <dd
+      className={cn(
+        "mt-1 text-sm",
+        missing
+          ? "font-normal text-stone-500"
+          : "font-medium text-[var(--brand-deep)]",
+      )}
+    >
+      {value}
+    </dd>
+  );
 }
 
 function NearbyList({
@@ -196,6 +235,22 @@ export default async function PropertyDetailPage({
 
   const lastVerified = formatEvidenceDate(property.lastVerifiedAt, lang);
   const sourceUpdated = formatEvidenceDate(property.sourceUpdatedAt, lang);
+  const freshness = listingFreshnessStatus(property.lastVerifiedAt);
+  const priceIsCurrent = mayPresentPriceAsCurrent({
+    isVerifiedListing: property.isVerifiedListing,
+    lastVerifiedAt: property.lastVerifiedAt,
+  });
+  const priceLabel = formatPrice(
+    property.priceThb,
+    lang,
+    property.listingType,
+  );
+  const priceAsOfDate = lastVerified || sourceUpdated;
+  const priceCaption = priceIsCurrent
+    ? null
+    : priceAsOfDate
+      ? dict.property.priceAsOf.replace("{date}", priceAsOfDate)
+      : dict.property.priceNotCurrent;
 
   const areaLabel =
     property.areaSqm != null
@@ -301,56 +356,95 @@ export default async function PropertyDetailPage({
 
           {/* 2. Key Summary */}
           <SurfaceCard className="p-5!" data-slot="listing-key-summary">
-            <div className="flex flex-wrap items-center gap-2">
-              <Badge tone="brand">
-                {property.listingType === "rent"
-                  ? dict.common.rent
-                  : dict.common.sale}
-              </Badge>
-              {property.isVerifiedListing ? (
-                <Badge tone="verified">{dict.property.verified}</Badge>
-              ) : (
-                <Badge tone="unverified">{dict.property.unverified}</Badge>
-              )}
-              {property.source ? (
-                <SourceBadge source={property.source} />
-              ) : null}
+            <div className="flex flex-wrap items-center justify-between gap-3">
+              <div className="flex flex-wrap items-center gap-2">
+                <Badge tone="brand">
+                  {property.listingType === "rent"
+                    ? dict.common.rent
+                    : dict.common.sale}
+                </Badge>
+                {property.isVerifiedListing ? (
+                  <Badge tone="verified">{dict.property.verified}</Badge>
+                ) : (
+                  <Badge tone="unverified">{dict.property.unverified}</Badge>
+                )}
+                {property.source ? (
+                  <SourceBadge source={property.source} />
+                ) : null}
+              </div>
+              <div className="flex items-center gap-2">
+                <CompareButton
+                  propertyId={property.id}
+                  propertySlug={property.slug}
+                  dict={dict}
+                />
+                <FavoriteButton
+                  propertyId={property.id}
+                  propertySlug={property.slug}
+                  dict={dict}
+                />
+              </div>
             </div>
-            <p className="font-heading mt-4 text-3xl text-[var(--brand-deep)]">
-              {formatPrice(property.priceThb, lang, property.listingType)}
+            <p
+              className={cn(
+                "font-heading mt-4 text-3xl",
+                priceIsCurrent
+                  ? "text-[var(--brand-deep)]"
+                  : "text-[var(--brand-deep)]/90",
+              )}
+              data-slot="listing-price"
+              data-price-current={priceIsCurrent ? "true" : "false"}
+            >
+              {priceLabel}
+            </p>
+            {priceCaption ? (
+              <p
+                className="mt-2 text-xs text-stone-500"
+                data-slot="listing-price-caption"
+              >
+                {priceCaption}
+              </p>
+            ) : null}
+            <p
+              className="mt-2 text-xs text-stone-500"
+              data-slot="listing-freshness"
+              data-freshness={freshness}
+            >
+              {freshnessMessage(freshness, dict)}
             </p>
             <dl className="mt-5 grid grid-cols-2 gap-4 sm:grid-cols-4">
               <div>
                 <dt className="ds-caption text-stone-500">
                   {dict.common.area}
                 </dt>
-                <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
-                  {areaLabel}
-                </dd>
+                <FactValue value={areaLabel} unknown={unknown} />
               </div>
               <div>
                 <dt className="ds-caption text-stone-500">
                   {dict.common.bedrooms}
                 </dt>
-                <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
-                  {displayOrUnknown(property.bedrooms, unknown)}
-                </dd>
+                <FactValue
+                  value={displayOrUnknown(property.bedrooms, unknown)}
+                  unknown={unknown}
+                />
               </div>
               <div>
                 <dt className="ds-caption text-stone-500">
                   {dict.common.bathrooms}
                 </dt>
-                <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
-                  {displayOrUnknown(property.bathrooms, unknown)}
-                </dd>
+                <FactValue
+                  value={displayOrUnknown(property.bathrooms, unknown)}
+                  unknown={unknown}
+                />
               </div>
               <div>
                 <dt className="ds-caption text-stone-500">
                   {dict.property.floor}
                 </dt>
-                <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
-                  {displayOrUnknown(property.floorLabel, unknown)}
-                </dd>
+                <FactValue
+                  value={displayOrUnknown(property.floorLabel, unknown)}
+                  unknown={unknown}
+                />
               </div>
             </dl>
           </SurfaceCard>
@@ -370,9 +464,7 @@ export default async function PropertyDetailPage({
                   className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
                 >
                   <dt className="ds-caption text-stone-500">{fact.label}</dt>
-                  <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
-                    {fact.value}
-                  </dd>
+                  <FactValue value={fact.value} unknown={unknown} />
                 </div>
               ))}
             </dl>
@@ -577,7 +669,7 @@ export default async function PropertyDetailPage({
             <h2 id="listing-source-heading" className="ds-h2 text-2xl">
               {dict.property.sourceVerification}
             </h2>
-            <SurfaceCard className="mt-4 space-y-2 p-5!">
+            <SurfaceCard className="mt-4 space-y-2 p-5!" data-slot="listing-source-evidence">
               <div className="flex flex-wrap items-center gap-2">
                 {property.isVerifiedListing ? (
                   <Badge tone="verified">{dict.property.verified}</Badge>
@@ -592,11 +684,18 @@ export default async function PropertyDetailPage({
                   </span>
                 )}
               </div>
+              <p className="text-sm text-stone-600" data-freshness={freshness}>
+                {freshnessMessage(freshness, dict)}
+              </p>
               {lastVerified ? (
                 <p className="text-sm text-stone-600">
                   {dict.property.lastVerified}: {lastVerified}
                 </p>
-              ) : null}
+              ) : (
+                <p className="text-sm text-stone-500">
+                  {dict.property.lastVerified}: {unknown}
+                </p>
+              )}
               {sourceUpdated ? (
                 <p className="text-sm text-stone-600">
                   {dict.property.sourceUpdated}: {sourceUpdated}
@@ -607,7 +706,7 @@ export default async function PropertyDetailPage({
                   href={property.listingUrl}
                   target="_blank"
                   rel="noreferrer"
-                  className="inline-flex text-sm font-medium text-[var(--brand)] underline-offset-4 hover:underline"
+                  className="inline-flex rounded-sm text-sm font-medium text-[var(--brand)] underline-offset-4 outline-none hover:underline focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
                 >
                   {dict.property.sourceLink}
                 </a>
@@ -616,12 +715,17 @@ export default async function PropertyDetailPage({
           </section>
         </div>
 
-        {/* 7–8. Contact + Request Viewing */}
-        <aside className="space-y-4 lg:sticky lg:top-24 lg:self-start">
+        {/* 7–8. Contact + Request Viewing — roles stay distinct */}
+        <aside
+          className="space-y-4 lg:sticky lg:top-24 lg:self-start"
+          data-slot="listing-inquiry-aside"
+        >
           <ListingContactCard
             locale={lang}
             dict={dict}
             propertyId={property.id}
+            propertySlug={property.slug}
+            propertyTitle={property.title[lang] || property.title.en}
             agent={agent}
           />
         </aside>

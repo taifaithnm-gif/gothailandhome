@@ -1,0 +1,24 @@
+{
+  "id": "faq-contact-pcs",
+  "type": "faq_entry",
+  "status": "approved",
+  "category": "contact",
+  "sort_order": 10,
+  "question": {
+    "en": "How do I contact Platform Customer Success?",
+    "zh": "如何联系平台客户成功团队？",
+    "th": "ติดต่อทีมลูกค้าสำเร็จของแพลตฟอร์มได้อย่างไร?"
+  },
+  "answer": {
+    "en": "Use the Contact page. Platform support is separate from listing ownership.",
+    "zh": "使用联系页面。平台支持与挂牌方所有权分开。",
+    "th": "ใช้หน้าติดต่อ การสนับสนุนแพลตฟอร์มแยกจากความเป็นเจ้าของประกาศ"
+  },
+  "source_class": "platform_process",
+  "reviewed_at": "2026-07-20",
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

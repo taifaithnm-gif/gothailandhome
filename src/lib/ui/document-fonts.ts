@@ -5,10 +5,9 @@ import {
   Noto_Sans_Thai,
   Plus_Jakarta_Sans,
 } from "next/font/google";
+import type { CSSProperties } from "react";
 
 import { siteConfig } from "@/config/site";
-
-import "./globals.css";
 
 const plusJakarta = Plus_Jakarta_Sans({
   variable: "--font-display",
@@ -35,7 +34,15 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
+/** Shared font CSS variables for every root document shell. */
+export const documentFontClassName = `${plusJakarta.variable} ${notoSansSc.variable} ${notoSansThai.variable} ${geistMono.variable} h-full antialiased`;
+
+export const documentBodyStyle = {
+  "--font-body":
+    "var(--font-display), var(--font-cjk), var(--font-thai), ui-sans-serif, system-ui, sans-serif",
+} as CSSProperties;
+
+export const documentMetadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
     default: siteConfig.name,
@@ -60,29 +67,3 @@ export const metadata: Metadata = {
     images: ["/og/default.svg"],
   },
 };
-
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
-  return (
-    <html
-      lang="en"
-      className={`${plusJakarta.variable} ${notoSansSc.variable} ${notoSansThai.variable} ${geistMono.variable} h-full antialiased`}
-      suppressHydrationWarning
-    >
-      <body
-        className="flex min-h-full flex-col font-sans"
-        style={
-          {
-            "--font-body":
-              "var(--font-display), var(--font-cjk), var(--font-thai), ui-sans-serif, system-ui, sans-serif",
-          } as React.CSSProperties
-        }
-      >
-        {children}
-      </body>
-    </html>
-  );
-}

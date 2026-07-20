@@ -1,12 +1,27 @@
+"use client";
+
 import Link from "next/link";
 
+import { CompareButton } from "@/components/compare/compare-button";
+import { FavoriteButton } from "@/components/favorites/favorite-button";
 import { ListingMediaFrame } from "@/components/property/listing-media-frame";
 import { Badge, SourceBadge } from "@/components/ui/badge";
 import { ListingCardShell } from "@/components/ui/card";
 import type { Locale } from "@/config/locales";
-import { formatPrice, type PropertyView } from "@/lib/data/properties";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { localePath, propertyTypeLabel } from "@/lib/i18n/metadata";
+import { formatPrice, type PropertyView } from "@/lib/property/property-view";
+import {
+  cardLocationLabel,
+  cardMediaAlt,
+  cardProjectLabel,
+  cardTransitLabels,
+  displayCardValue,
+  formatCardArea,
+  formatCardBedrooms,
+  isSourcedPrice,
+  sourcedText,
+} from "@/lib/property/property-card-model";
 import { cn } from "@/lib/utils";
 
 type PropertyCardProps = {
@@ -35,14 +50,44 @@ export function PropertyCard({
   className,
   imagePriority = false,
 }: PropertyCardProps) {
-  const projectLabel = property.projectName[locale] || property.projectName.en;
-  const districtLabel =
-    property.districtName[locale] || property.districtName.en;
-  const placeBits = [
-    propertyTypeLabel(dict, property.type),
-    districtLabel || property.location[locale],
-  ].filter(Boolean);
-
+  const unknown = dict.property.unknown;
+  const title =
+    sourcedText(property.title[locale]) ||
+    sourcedText(property.title.en) ||
+    property.slug;
+  const typeLabel = propertyTypeLabel(dict, property.type);
+  const locationLabel = cardLocationLabel(
+    property.districtName,
+    property.location,
+    locale,
+  );
+  const projectLabel = cardProjectLabel(
+    property.projectSlug,
+    property.projectName,
+    locale,
+  );
+  const placeBits = [typeLabel, locationLabel].filter(Boolean);
+  const detailHref = localePath(locale, `/properties/${property.slug}`);
+  const mediaAlt = cardMediaAlt(title, typeLabel, locationLabel);
+  const bedroomsLabel = formatCardBedrooms(
+    property.bedrooms,
+    dict.listings.studio,
+    unknown,
+  );
+  const bathroomsLabel = displayCardValue(property.bathrooms, unknown);
+  const areaLabel = formatCardArea(
+    property.areaSqm,
+    property.landAreaSqm,
+    dict.common.sqm,
+    unknown,
+  );
+  const transitLabels = cardTransitLabels(property.transitTags, {
+    bts: dict.listings.bts,
+    mrt: dict.listings.mrt,
+  });
+  const priceLabel = isSourcedPrice(property.priceThb)
+    ? formatPrice(property.priceThb, locale, property.listingType)
+    : unknown;
   const verifiedLabel = property.lastVerifiedAt
     ? dict.properties.lastVerified.replace(
         "{date}",
@@ -54,6 +99,10 @@ export function PropertyCard({
           formatEvidenceDate(property.sourceUpdatedAt, locale),
         )
       : null;
+  const listingTypeLabel =
+    property.listingType === "rent" ? dict.common.rent : dict.common.sale;
+  const viewLabel = `${dict.common.viewProperty}: ${title}`;
+  const helpLabel = `${dict.properties.platformHelp}: ${title}`;
 
   return (
     <ListingCardShell className={cn("min-h-[26rem]", className)}>
@@ -61,7 +110,8 @@ export function PropertyCard({
         <ListingMediaFrame
           locale={locale}
           dict={dict}
-          title={property.title[locale]}
+          title={title}
+          alt={mediaAlt}
           propertyType={property.type}
           imageUrl={property.coverUrl}
           imageSource={property.source}
@@ -73,10 +123,24 @@ export function PropertyCard({
             {dict.common.featured}
           </span>
         ) : null}
-        <span className="absolute top-3 right-3 rounded-md bg-[var(--brand-deep)]/85 px-2 py-1 text-xs font-medium text-white">
-          {property.listingType === "rent"
-            ? dict.common.rent
-            : dict.common.sale}
+        <span className="absolute top-3 right-3 z-10 flex items-start gap-2">
+          <CompareButton
+            propertyId={property.id}
+            propertySlug={property.slug}
+            dict={dict}
+            size="sm"
+            className="shadow-sm"
+          />
+          <FavoriteButton
+            propertyId={property.id}
+            propertySlug={property.slug}
+            dict={dict}
+            size="sm"
+            className="shadow-sm"
+          />
+          <span className="rounded-md bg-[var(--brand-deep)]/85 px-2 py-1 text-xs font-medium text-white">
+            {listingTypeLabel}
+          </span>
         </span>
         {property.source && !property.coverUrl ? (
           <span className="absolute bottom-3 left-3">
@@ -85,7 +149,7 @@ export function PropertyCard({
         ) : null}
       </div>
 
-      <div className="flex flex-1 flex-col gap-4 p-5">
+      <div className="flex min-w-0 flex-1 flex-col gap-4 p-5">
         <div className="space-y-2">
           <div className="flex min-h-6 flex-wrap items-center gap-2">
             {property.isVerifiedListing ? (
@@ -95,55 +159,72 @@ export function PropertyCard({
               <SourceBadge source={property.source} />
             ) : null}
           </div>
-          <p className="text-xs tracking-wide text-[var(--brand)] uppercase">
-            {placeBits.join(" · ")}
-          </p>
+
+          {placeBits.length ? (
+            <p className="text-xs tracking-wide text-[var(--brand)] uppercase">
+              {placeBits.join(" · ")}
+            </p>
+          ) : null}
+
           {projectLabel ? (
             <p className="text-xs text-stone-500">
               {dict.properties.project}: {projectLabel}
             </p>
           ) : null}
+
           <h3 className="font-heading text-xl leading-snug text-[var(--brand-deep)]">
-            {property.title[locale]}
+            <Link
+              href={detailHref}
+              className="rounded-sm outline-none hover:underline focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
+            >
+              {title}
+            </Link>
           </h3>
+
           {verifiedLabel ? (
             <p className="text-xs text-stone-500">{verifiedLabel}</p>
+          ) : null}
+
+          {transitLabels.length ? (
+            <p className="text-xs text-stone-500">
+              <span className="font-medium text-stone-600">
+                {dict.property.transit}:
+              </span>{" "}
+              {transitLabels.join(" · ")}
+            </p>
           ) : null}
         </div>
 
         <dl className="mt-auto grid grid-cols-3 gap-2 border-t border-[var(--brand-line)] pt-4 text-xs text-stone-600">
-          <div>
+          <div className="min-w-0">
             <dt>{dict.common.bedrooms}</dt>
-            <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
-              {property.bedrooms ?? "—"}
+            <dd className="mt-1 truncate text-sm font-medium text-[var(--brand-deep)]">
+              {bedroomsLabel}
             </dd>
           </div>
-          <div>
+          <div className="min-w-0">
             <dt>{dict.common.bathrooms}</dt>
-            <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
-              {property.bathrooms ?? "—"}
+            <dd className="mt-1 truncate text-sm font-medium text-[var(--brand-deep)]">
+              {bathroomsLabel}
             </dd>
           </div>
-          <div>
+          <div className="min-w-0">
             <dt>{dict.common.area}</dt>
-            <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
-              {property.areaSqm != null
-                ? `${property.areaSqm} ${dict.common.sqm}`
-                : property.landAreaSqm != null
-                  ? `${property.landAreaSqm} ${dict.common.sqm}`
-                  : "—"}
+            <dd className="mt-1 truncate text-sm font-medium text-[var(--brand-deep)]">
+              {areaLabel}
             </dd>
           </div>
         </dl>
 
-        <div className="flex items-center justify-between gap-3">
-          <p className="text-base font-semibold text-[var(--brand-deep)]">
-            {formatPrice(property.priceThb, locale, property.listingType)}
+        <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+          <p className="min-w-0 text-base font-semibold text-[var(--brand-deep)]">
+            <span className="sr-only">{dict.common.price}: </span>
+            {priceLabel}
           </p>
           <Link
-            href={localePath(locale, `/properties/${property.slug}`)}
-            className="min-h-11 min-w-[5rem] rounded-sm text-sm font-medium text-[var(--brand)] underline-offset-4 transition outline-none hover:underline focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
-            aria-label={`${dict.common.viewProperty}: ${property.title[locale]}`}
+            href={detailHref}
+            className="inline-flex min-h-11 min-w-[5rem] items-center rounded-sm text-sm font-medium text-[var(--brand)] underline-offset-4 transition outline-none hover:underline focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
+            aria-label={viewLabel}
           >
             {dict.common.viewProperty}
           </Link>
@@ -152,6 +233,7 @@ export function PropertyCard({
         <Link
           href={localePath(locale, "/contact")}
           className="rounded-sm text-xs font-medium text-stone-500 underline-offset-4 outline-none hover:text-[var(--brand)] hover:underline focus-visible:text-[var(--brand)] focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/30"
+          aria-label={helpLabel}
         >
           {dict.properties.platformHelp}
         </Link>

@@ -192,3 +192,7 @@ export function districtMapsUrl(pkg: DistrictPackage): string | null {
   if (!hasDistrictCoordinates(pkg)) return null;
   return `https://www.google.com/maps/search/?api=1&query=${pkg.latitude},${pkg.longitude}`;
 }
+
+/** Bounded discovery previews on district detail HTML. */
+export const DISTRICT_PROJECT_PREVIEW_SIZE = 6;
+export const DISTRICT_LISTING_PREVIEW_SIZE = 12;

@@ -1,0 +1,24 @@
+{
+  "id": "faq-find-my-home",
+  "type": "faq_entry",
+  "status": "approved",
+  "category": "process",
+  "sort_order": 3,
+  "question": {
+    "en": "How do I request help finding a home?",
+    "zh": "如何申请找房帮助？",
+    "th": "ขอความช่วยเหลือหาบ้านได้อย่างไร?"
+  },
+  "answer": {
+    "en": "Use Find My Home from the Marketplace hub. Your request stays private and is not published as a listing.",
+    "zh": "从 Marketplace 中心使用 Find My Home。您的需求保持私密，不会作为挂牌发布。",
+    "th": "ใช้ Find My Home จากศูนย์ Marketplace คำขอของคุณเป็นส่วนตัวและไม่ถูกเผยแพร่เป็นประกาศ"
+  },
+  "source_class": "platform_process",
+  "reviewed_at": "2026-07-20",
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

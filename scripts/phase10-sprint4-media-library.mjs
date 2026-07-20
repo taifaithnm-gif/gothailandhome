@@ -324,7 +324,6 @@ const projectSlugs = readdirSync(projectDir).filter((d) =>
 
 let galleryHotlinks = 0;
 let floorHotlinks = 0;
-let heroHotlinks = 0;
 let heroPlaceholders = 0;
 
 for (const slug of projectSlugs) {
@@ -460,7 +459,6 @@ for (const slug of projectSlugs) {
       placeholder_path: isPlaceholder ? heroPath : null,
     };
     if (isPlaceholder) heroPlaceholders += 1;
-    else heroHotlinks += 1;
     writeFileSync(
       join(outDir, "hero.asset.json"),
       JSON.stringify(rec, null, 2) + "\n",

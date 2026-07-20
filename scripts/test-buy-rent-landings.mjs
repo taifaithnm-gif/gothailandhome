@@ -24,11 +24,16 @@ check("buy/rent pages exist", () => {
 
 check("header surfaces buy/rent", () => {
   const src = readFileSync(
-    resolve(root, "src/components/layout/site-header.tsx"),
+    resolve(root, "src/lib/navigation/site-nav.ts"),
     "utf8",
   );
   assert.ok(src.includes('/buy"') || src.includes("/buy"));
   assert.ok(src.includes("/rent"));
+  const header = readFileSync(
+    resolve(root, "src/components/layout/site-header.tsx"),
+    "utf8",
+  );
+  assert.ok(header.includes("getSiteNavGroups"), "header uses shared nav IA");
 });
 
 check("dictionary keys", () => {

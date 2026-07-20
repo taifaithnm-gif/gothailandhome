@@ -5,18 +5,24 @@ import {
   type LeadChannel,
   type LeadSubmitMode,
 } from "@/lib/leads/channels";
+import {
+  appendLeadContextParams,
+  type LeadContext,
+} from "@/lib/leads/context";
 
 export function buildLeadSuccessPath(
   locale: Locale | string,
   channel: LeadChannel,
   reference: string,
   mode: LeadSubmitMode,
+  context?: LeadContext | null,
 ): string {
   const params = new URLSearchParams({
     channel,
     ref: reference,
     mode,
   });
+  appendLeadContextParams(params, context);
   return `${localePath(locale as Locale, "/leads/success")}?${params.toString()}`;
 }
 

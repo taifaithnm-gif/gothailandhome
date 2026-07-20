@@ -68,17 +68,21 @@ export function PlatformCustomerSuccess({
   dict,
   contacts,
   showEscalationLink = true,
+  escalationHref,
 }: {
   locale: Locale;
   dict: Dictionary;
   /** Optional override; defaults to configured platform CS contacts. */
   contacts?: ContactRecord[];
   showEscalationLink?: boolean;
+  /** Optional listing-scoped contact path (never implies listing ownership). */
+  escalationHref?: string;
 }) {
   const m = dict.marketplace;
   const support = (contacts ?? getPlatformCustomerSuccessContacts()).filter(
     (contact) => isPlatformCustomerSuccess(contact),
   );
+  const href = escalationHref || localePath(locale, "/contact");
 
   return (
     <SurfaceCard
@@ -106,8 +110,8 @@ export function PlatformCustomerSuccess({
       </ul>
       {showEscalationLink ? (
         <Link
-          href={localePath(locale, "/contact")}
-          className="mt-3 inline-flex text-sm font-medium text-[var(--brand)] hover:underline"
+          href={href}
+          className="mt-3 inline-flex rounded-sm text-sm font-medium text-[var(--brand)] outline-none hover:underline focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
         >
           {m.escalationCta}
         </Link>

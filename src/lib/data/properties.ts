@@ -11,48 +11,19 @@ import type {
   PropertyRow,
   PropertyType,
 } from "@/lib/supabase/types";
+import {
+  formatPrice,
+  type PropertyView,
+} from "@/lib/property/property-view";
+import {
+  SITEMAP_PROPERTY_MAX_PAGES,
+  SITEMAP_PROPERTY_PAGE_SIZE,
+  hasMoreSitemapPropertyPages,
+} from "@/lib/seo/sitemap-inventory";
 
 export type { ListingType, PropertyType };
-
-export type PropertyView = {
-  id: string;
-  slug: string;
-  status: "draft" | "published";
-  listingType: ListingType;
-  type: PropertyType;
-  locationId: string;
-  projectId: string | null;
-  agentId: string | null;
-  cityId: string | null;
-  districtId: string | null;
-  developerSlug: string | null;
-  projectSlug: string | null;
-  projectName: Record<Locale, string>;
-  districtSlug: string | null;
-  districtName: Record<Locale, string>;
-  bedrooms: number | null;
-  bathrooms: number | null;
-  areaSqm: number | null;
-  landAreaSqm: number | null;
-  floorLabel: string | null;
-  buildingLabel: string | null;
-  priceThb: number;
-  featured: boolean;
-  transitTags: string[];
-  source: string | null;
-  listingUrl: string | null;
-  sourceUpdatedAt: string | null;
-  lastVerifiedAt: string | null;
-  isVerifiedListing: boolean;
-  publishedAt: string | null;
-  title: Record<Locale, string>;
-  location: Record<Locale, string>;
-  summary: Record<Locale, string>;
-  description: Record<Locale, string>;
-  coverUrl: string | null;
-  media: PropertyMediaRow[];
-  features: PropertyFeatureRow[];
-};
+export type { PropertyView };
+export { formatPrice };
 
 type PropertyProjectRelation = Pick<
   import("@/lib/supabase/types").PropertyProjectRow,
@@ -179,27 +150,6 @@ export function mapProperty(row: PropertyWithRelations): PropertyView {
     media,
     features: row.property_features ?? [],
   };
-}
-
-export function formatPrice(
-  priceThb: number,
-  locale: Locale,
-  listingType?: ListingType,
-): string {
-  const numberLocale =
-    locale === "zh" ? "zh-CN" : locale === "th" ? "th-TH" : "en-US";
-
-  const formatted = new Intl.NumberFormat(numberLocale, {
-    style: "currency",
-    currency: "THB",
-    maximumFractionDigits: 0,
-  }).format(priceThb);
-
-  if (listingType === "rent") {
-    return `${formatted}/mo`;
-  }
-
-  return formatted;
 }
 
 export type ListingSort =
@@ -585,6 +535,50 @@ export async function listPublishedProperties(
   return properties;
 }
 
+/**
+ * Bounded, deterministic slug inventory for sitemap generation.
+ * Pages under the PostgREST default row cap so every verified published
+ * property is included (not just the first ~1000).
+ */
+export async function listPublishedPropertySlugsForSitemap(): Promise<
+  string[]
+> {
+  if (!hasSupabaseEnv()) return [];
+
+  const supabase = await createClient();
+  const slugs: string[] = [];
+
+  for (let pageIndex = 0; pageIndex < SITEMAP_PROPERTY_MAX_PAGES; pageIndex += 1) {
+    const from = pageIndex * SITEMAP_PROPERTY_PAGE_SIZE;
+    const to = from + SITEMAP_PROPERTY_PAGE_SIZE - 1;
+    const { data, error } = await supabase
+      .from("properties")
+      .select("slug")
+      .eq("status", "published")
+      .eq("is_verified_listing", true)
+      .order("slug", { ascending: true })
+      .range(from, to);
+
+    if (error) {
+      console.error("listPublishedPropertySlugsForSitemap", error.message);
+      break;
+    }
+
+    const rows = data ?? [];
+    for (const row of rows) {
+      if (typeof row.slug === "string" && row.slug.length > 0) {
+        slugs.push(row.slug);
+      }
+    }
+
+    if (!hasMoreSitemapPropertyPages(rows.length, pageIndex)) {
+      break;
+    }
+  }
+
+  return slugs;
+}
+
 export async function getPublishedPropertyBySlug(
   slug: string,
 ): Promise<PropertyView | null> {
@@ -605,6 +599,49 @@ export async function getPublishedPropertyBySlug(
 
   if (!data) return null;
   return mapProperty(data as PropertyWithRelations);
+}
+
+/**
+ * Resolve published favorites by public slug. Order follows the input list.
+ * Missing / unpublished slugs are omitted (caller may prune local storage).
+ */
+export async function getPublishedPropertiesBySlugs(
+  slugs: string[],
+): Promise<PropertyView[]> {
+  if (!hasSupabaseEnv() || !slugs.length) return [];
+
+  const unique = Array.from(
+    new Set(
+      slugs
+        .map((slug) => String(slug).trim().toLowerCase())
+        .filter(Boolean),
+    ),
+  ).slice(0, 50);
+
+  if (!unique.length) return [];
+
+  const supabase = await createClient();
+  const { data, error } = await supabase
+    .from("properties")
+    .select(propertySelect)
+    .eq("status", "published")
+    .in("slug", unique);
+
+  if (error) {
+    console.error("getPublishedPropertiesBySlugs", error.message);
+    return [];
+  }
+
+  const bySlug = new Map(
+    (data ?? []).map((row) => {
+      const property = mapProperty(row as PropertyWithRelations);
+      return [property.slug, property] as const;
+    }),
+  );
+
+  return unique
+    .map((slug) => bySlug.get(slug))
+    .filter((item): item is PropertyView => Boolean(item));
 }
 
 export async function listAllPropertiesForAdmin(): Promise<PropertyView[]> {

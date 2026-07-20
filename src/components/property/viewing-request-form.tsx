@@ -23,6 +23,8 @@ type Props = {
   locale: Locale;
   dict: Dictionary;
   propertyId: string;
+  propertySlug: string;
+  propertyTitle: string;
 };
 
 const initial: MarketplaceFormState = {
@@ -33,7 +35,13 @@ const initial: MarketplaceFormState = {
   mode: null,
 };
 
-export function ViewingRequestForm({ locale, dict, propertyId }: Props) {
+export function ViewingRequestForm({
+  locale,
+  dict,
+  propertyId,
+  propertySlug,
+  propertyTitle,
+}: Props) {
   const m = dict.marketplace;
   const [state, action, pending] = useActionState(
     submitViewingRequestLead,
@@ -46,12 +54,20 @@ export function ViewingRequestForm({ locale, dict, propertyId }: Props) {
       : null;
 
   return (
-    <form action={action}>
+    <form action={action} data-slot="viewing-request-form">
       <FormShell className="p-4! sm:p-5!">
         <input type="hidden" name="locale" value={locale} />
         <input type="hidden" name="property_id" value={propertyId} />
+        <input type="hidden" name="property_slug" value={propertySlug} />
+        <input type="hidden" name="property_title" value={propertyTitle} />
+        <input type="hidden" name="context_kind" value="property" />
+        <input type="hidden" name="context_ref" value={propertySlug} />
+        <input type="hidden" name="context_label" value={propertyTitle} />
         <p className="text-sm font-medium text-[var(--brand-deep)]">
           {dict.property.requestViewing}
+        </p>
+        <p className="text-xs text-stone-500" data-slot="listing-inquiry-context">
+          {propertyTitle}
         </p>
         <FormField label={m.name} htmlFor="viewing-name" required>
           <Input id="viewing-name" name="name" required autoComplete="name" />

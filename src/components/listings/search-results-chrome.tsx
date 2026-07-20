@@ -7,6 +7,7 @@ import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { propertyTypeLabel } from "@/lib/i18n/metadata";
 import {
   countActiveListingFilters,
+  type ListingSearchSort,
   type ListingSearchState,
 } from "@/lib/search/listing-search-state";
 
@@ -34,6 +35,25 @@ function chip(label: string, value: string) {
   );
 }
 
+function sortLabel(dict: Dictionary, sort: ListingSearchSort): string {
+  const f = dict.listings;
+  switch (sort) {
+    case "newest":
+      return f.sortNewest;
+    case "price_asc":
+      return f.sortPriceAsc;
+    case "price_desc":
+      return f.sortPriceDesc;
+    case "area_desc":
+      return f.sortAreaDesc;
+    case "featured":
+      return f.sortFeatured;
+    case "newest_verified":
+    default:
+      return f.sortNewestVerified;
+  }
+}
+
 export function ActiveSearchSummary({
   locale,
   dict,
@@ -48,6 +68,9 @@ export function ActiveSearchSummary({
   const f = dict.listings;
   const chips: ReactNode[] = [];
 
+  if (state.sort !== "newest_verified") {
+    chips.push(chip(f.sort, sortLabel(dict, state.sort)));
+  }
   if (state.listingType !== "all") {
     chips.push(
       chip(
@@ -105,6 +128,9 @@ export function ActiveSearchSummary({
   if (state.location) {
     chips.push(chip(dict.search.locationLabel, state.location));
   }
+  if (state.page > 1) {
+    chips.push(chip(dict.search.pageLabel, String(state.page)));
+  }
 
   const active = countActiveListingFilters(state);
 
@@ -117,7 +143,7 @@ export function ActiveSearchSummary({
         {active > 0 ? (
           <Link
             href={clearHref}
-            className="text-sm font-medium text-[var(--brand)] underline-offset-4 hover:underline"
+            className="rounded-sm text-sm font-medium text-[var(--brand)] underline-offset-4 outline-none hover:underline focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
           >
             {dict.listings.clearAll}
           </Link>

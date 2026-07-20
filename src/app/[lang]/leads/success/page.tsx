@@ -10,6 +10,7 @@ import {
   parseLeadModeParam,
   parseSingleParam,
 } from "@/lib/leads/urls";
+import { parseLeadContextParams } from "@/lib/leads/context";
 
 type SearchParams = Promise<Record<string, string | string[] | undefined>>;
 
@@ -48,6 +49,7 @@ export default async function LeadSuccessPage({
   const dict = await getDictionary(lang);
   const reference = parseSingleParam(query.ref);
   const mode = parseLeadModeParam(query.mode);
+  const context = parseLeadContextParams(query);
 
   return (
     <PageShell
@@ -64,6 +66,7 @@ export default async function LeadSuccessPage({
         channel={channel}
         reference={reference}
         mode={mode}
+        context={context}
       />
     </PageShell>
   );

@@ -1,0 +1,24 @@
+{
+  "id": "faq-verification",
+  "type": "faq_entry",
+  "status": "approved",
+  "category": "listings",
+  "sort_order": 6,
+  "question": {
+    "en": "What does “verified” mean?",
+    "zh": "“已核验”是什么意思？",
+    "th": "“ตรวจสอบแล้ว” หมายถึงอะไร?"
+  },
+  "answer": {
+    "en": "Verified listings carry source identity and provenance checks from the platform import pipeline. Prices can change; freshness is shown on the listing.",
+    "zh": "经核验挂牌带有平台导入流程的来源身份与溯源检查。价格可能变动；新鲜度显示在挂牌页。",
+    "th": "ประกาศที่ตรวจสอบแล้วมีการตรวจสอบตัวตนแหล่งที่มาและที่มาจาก pipeline นำเข้าของแพลตฟอร์ม ราคาอาจเปลี่ยน ความสดแสดงบนประกาศ"
+  },
+  "source_class": "platform_process",
+  "reviewed_at": "2026-07-20",
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

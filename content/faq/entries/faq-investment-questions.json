@@ -1,0 +1,24 @@
+{
+  "id": "faq-investment-questions",
+  "type": "faq_entry",
+  "status": "approved",
+  "category": "guides",
+  "sort_order": 8,
+  "question": {
+    "en": "Where can I read investment guidance?",
+    "zh": "在哪里阅读投资指南？",
+    "th": "อ่านคำแนะนำการลงทุนได้ที่ไหน?"
+  },
+  "answer": {
+    "en": "Use the Investment Guide at /knowledge/investment. FAQ answers do not provide yield, ROI, or return forecasts.",
+    "zh": "请使用 /knowledge/investment 的投资指南。常见问题不提供收益率、投资回报率或回报预测。",
+    "th": "ใช้คู่มือการลงทุนที่ /knowledge/investment คำถามที่พบบ่อยไม่ให้การคาดการณ์ผลตอบแทน ROI หรืออัตราผลตอบแทน"
+  },
+  "source_class": "platform_process",
+  "reviewed_at": "2026-07-20",
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

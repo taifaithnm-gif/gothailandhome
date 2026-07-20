@@ -19,6 +19,10 @@ import {
   type LeadChannel,
   type LeadSubmitMode,
 } from "@/lib/leads/channels";
+import {
+  readLeadContextFromForm,
+  type LeadContext,
+} from "@/lib/leads/context";
 import { buildLeadSuccessPath } from "@/lib/leads/urls";
 
 export type MarketplaceFormState = {
@@ -50,12 +54,13 @@ async function finalizeLead(
   channel: LeadChannel,
   localeRaw: string,
   create: () => ReturnType<typeof createMarketplaceLead>,
+  context?: LeadContext | null,
 ): Promise<never> {
   const locale = localeRaw || "en";
   const reference = generateLeadReference(LEAD_CHANNEL_PREFIX[channel]);
   const result = await create();
   const mode: LeadSubmitMode = result.ok ? "stored" : "placeholder";
-  redirect(buildLeadSuccessPath(locale, channel, reference, mode));
+  redirect(buildLeadSuccessPath(locale, channel, reference, mode, context));
 }
 
 export async function submitFindMyHomeLead(
@@ -269,32 +274,43 @@ export async function submitViewingRequestLead(
   const phone = normalizeField(formData.get("phone"));
   const email = normalizeField(formData.get("email"));
   const propertyId = normalizeField(formData.get("property_id")) || null;
+  const propertySlug = normalizeField(formData.get("property_slug")) || null;
+  const propertyTitle = normalizeField(formData.get("property_title")) || null;
   const consent = isChecked(formData.get("consent"));
   const locale = normalizeField(formData.get("locale")) || "en";
 
   const basics = validateContactBasics({ name, phone, email, consent });
   if (!basics.ok) return fail(basics.code);
 
-  return finalizeLead("viewing_request", locale, () =>
-    createMarketplaceLead({
-      leadType: "viewing_request",
-      locale,
-      source: "property_viewing_form",
-      name,
-      phone: phone || null,
-      email: email || null,
-      lineId: normalizeField(formData.get("line")) || null,
-      whatsapp: normalizeField(formData.get("whatsapp")) || null,
-      message: normalizeField(formData.get("notes")) || null,
-      propertyId,
-      consent: true,
-      payload: {
-        preferred_datetime:
-          normalizeField(formData.get("preferred_datetime")) || null,
-        uses_listing_contact_first: true,
-        platform_support_is_escalation_only: true,
-      },
-    }),
+  // Allowlisted, validated public source context only (no private payload).
+  const context = readLeadContextFromForm(formData);
+
+  return finalizeLead(
+    "viewing_request",
+    locale,
+    () =>
+      createMarketplaceLead({
+        leadType: "viewing_request",
+        locale,
+        source: "property_viewing_form",
+        name,
+        phone: phone || null,
+        email: email || null,
+        lineId: normalizeField(formData.get("line")) || null,
+        whatsapp: normalizeField(formData.get("whatsapp")) || null,
+        message: normalizeField(formData.get("notes")) || null,
+        propertyId,
+        consent: true,
+        payload: {
+          preferred_datetime:
+            normalizeField(formData.get("preferred_datetime")) || null,
+          property_slug: propertySlug,
+          property_title: propertyTitle,
+          uses_listing_contact_first: true,
+          platform_support_is_escalation_only: true,
+        },
+      }),
+    context,
   );
 }
 

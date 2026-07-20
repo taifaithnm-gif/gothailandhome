@@ -184,17 +184,28 @@ export function FormSubmitButton({
   className?: string;
 }) {
   return (
-    <Button
-      type="submit"
-      variant="primary"
-      size="lg"
-      disabled={pending}
-      aria-busy={pending}
-      className={cn("w-full sm:w-auto", className)}
-      data-slot="marketplace-form-submit"
-    >
-      {pending ? pendingLabel : idleLabel}
-    </Button>
+    <>
+      <Button
+        type="submit"
+        variant="primary"
+        size="lg"
+        disabled={pending}
+        aria-busy={pending}
+        aria-disabled={pending}
+        data-pending={pending ? "true" : "false"}
+        className={cn("w-full sm:w-auto", className)}
+        data-slot="marketplace-form-submit"
+        onClick={(event) => {
+          // Block duplicate client submissions while a submit is in flight.
+          if (pending) event.preventDefault();
+        }}
+      >
+        {pending ? pendingLabel : idleLabel}
+      </Button>
+      <span className="sr-only" role="status" aria-live="polite">
+        {pending ? pendingLabel : ""}
+      </span>
+    </>
   );
 }
 

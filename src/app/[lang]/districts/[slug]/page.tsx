@@ -1,16 +1,16 @@
 import { notFound } from "next/navigation";
 
-import {
-  DISTRICT_LISTING_PREVIEW,
-  DistrictCenter,
-} from "@/components/district/district-center";
+import { DistrictCenter } from "@/components/district/district-center";
 import { JsonLd } from "@/components/seo/json-ld";
 import { Breadcrumb } from "@/components/ui/breadcrumb";
 import { isLocale } from "@/config/locales";
 import { getDistrictBySlug } from "@/lib/data/geography";
 import { listPublishedProjects } from "@/lib/data/projects";
 import { listPublishedPropertiesPaged } from "@/lib/data/properties";
-import { getDistrictPackage } from "@/lib/districts/package";
+import {
+  DISTRICT_LISTING_PREVIEW_SIZE,
+  getDistrictPackage,
+} from "@/lib/districts/package";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
 import {
@@ -54,7 +54,7 @@ export default async function DistrictDetailPage({
       verifiedOnly: true,
       sort: "newest_verified",
       page: 1,
-      pageSize: DISTRICT_LISTING_PREVIEW,
+      pageSize: DISTRICT_LISTING_PREVIEW_SIZE,
     }),
   ]);
 

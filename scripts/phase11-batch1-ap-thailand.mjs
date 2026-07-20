@@ -3,19 +3,11 @@
  * Phase 11 Batch 1 — AP Thailand Official Content Factory
  * Official AP project pages + SET factsheet / contact only. No invention.
  */
-import { createHash } from "node:crypto";
-import {
-  existsSync,
-  mkdirSync,
-  readFileSync,
-  writeFileSync,
-  copyFileSync,
-} from "node:fs";
-import { dirname, join, resolve } from "node:path";
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { join, resolve } from "node:path";
 
 const ROOT = resolve(process.cwd());
 const VERIFIED_AT = "2026-07-16";
-const TODAY = VERIFIED_AT;
 const extracted = JSON.parse(
   readFileSync(
     join(ROOT, "pipelines/factory/content-factory/ap_batch1_extracted.json"),

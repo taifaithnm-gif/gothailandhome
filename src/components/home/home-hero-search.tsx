@@ -59,7 +59,7 @@ export function HomeHeroSearch({
         <button
           type="button"
           className={cn(
-            "rounded-lg px-4 py-2 text-sm font-medium transition",
+            "rounded-lg px-4 py-2 text-sm font-medium transition outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-gold)]/70",
             listingType === "sale"
               ? "bg-white text-[var(--brand-deep)]"
               : "text-white/85 hover:bg-white/10",
@@ -72,7 +72,7 @@ export function HomeHeroSearch({
         <button
           type="button"
           className={cn(
-            "rounded-lg px-4 py-2 text-sm font-medium transition",
+            "rounded-lg px-4 py-2 text-sm font-medium transition outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-gold)]/70",
             listingType === "rent"
               ? "bg-white text-[var(--brand-deep)]"
               : "text-white/85 hover:bg-white/10",
@@ -168,7 +168,7 @@ export function HomeHeroSearch({
         </Field>
 
         <div className="flex items-end sm:col-span-2 lg:col-span-1">
-          <Button type="submit" variant="primary" className="h-10 w-full">
+          <Button type="submit" variant="primary" className="min-h-11 w-full">
             {dict.search.submit}
           </Button>
         </div>
@@ -177,6 +177,7 @@ export function HomeHeroSearch({
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
         <Link
           href={localePath(locale, "/find-my-home")}
+          data-home-cta="find-my-home"
           className={cn(
             buttonVariants({ variant: "primary", size: "lg" }),
             "bg-[var(--brand-gold)] text-[var(--brand-deep)] hover:bg-[color-mix(in_srgb,var(--brand-gold),white_12%)]",
@@ -186,12 +187,33 @@ export function HomeHeroSearch({
         </Link>
         <Link
           href={localePath(locale, "/list-your-property")}
+          data-home-cta="list-property"
           className={cn(
             buttonVariants({ variant: "secondary", size: "lg" }),
             "border-white/35 bg-white/10 text-white hover:bg-white/20 hover:text-white",
           )}
         >
           {dict.nav.listProperty}
+        </Link>
+        <Link
+          href={localePath(locale, "/buy")}
+          data-home-cta="buy-hero"
+          className={cn(
+            buttonVariants({ variant: "ghost", size: "lg" }),
+            "text-white hover:bg-white/10 hover:text-white",
+          )}
+        >
+          {dict.nav.buy}
+        </Link>
+        <Link
+          href={localePath(locale, "/rent")}
+          data-home-cta="rent-hero"
+          className={cn(
+            buttonVariants({ variant: "ghost", size: "lg" }),
+            "text-white hover:bg-white/10 hover:text-white",
+          )}
+        >
+          {dict.nav.rent}
         </Link>
       </div>
     </div>

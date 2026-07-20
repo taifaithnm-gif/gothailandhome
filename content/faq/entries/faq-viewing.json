@@ -1,0 +1,24 @@
+{
+  "id": "faq-viewing",
+  "type": "faq_entry",
+  "status": "approved",
+  "category": "listings",
+  "sort_order": 5,
+  "question": {
+    "en": "How do I request a viewing?",
+    "zh": "如何预约看房？",
+    "th": "ขอดูทรัพย์ได้อย่างไร?"
+  },
+  "answer": {
+    "en": "Open a verified listing and use the viewing request form. Listing contact is used first when available.",
+    "zh": "打开经核验的挂牌并使用看房申请表。在可用时优先使用挂牌联系方式。",
+    "th": "เปิดประกาศที่ตรวจสอบแล้วและใช้แบบฟอร์มขอดูทรัพย์ ใช้ข้อมูลติดต่อประกาศก่อนเมื่อมี"
+  },
+  "source_class": "platform_process",
+  "reviewed_at": "2026-07-20",
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

@@ -9,6 +9,10 @@ import {
   type LeadChannel,
   type LeadSubmitMode,
 } from "@/lib/leads/channels";
+import {
+  leadContextSourcePath,
+  type LeadContext,
+} from "@/lib/leads/context";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { localePath } from "@/lib/i18n/metadata";
 import { cn } from "@/lib/utils";
@@ -50,12 +54,14 @@ export function LeadSuccessPanel({
   channel,
   reference,
   mode,
+  context = null,
 }: {
   locale: Locale;
   dict: Dictionary;
   channel: LeadChannel;
   reference: string | null;
   mode: LeadSubmitMode;
+  context?: LeadContext | null;
 }) {
   const leads = dict.leads;
   const m = dict.marketplace;
@@ -78,6 +84,14 @@ export function LeadSuccessPanel({
           </p>
           <h1 className="ds-h2 text-2xl sm:text-3xl">{leads.successTitle}</h1>
           <p className="text-sm text-stone-700">{channelBody(dict, channel)}</p>
+          {context ? (
+            <p className="text-sm text-stone-600" data-slot="lead-context">
+              <span className="font-medium text-[var(--brand-deep)]">
+                {leads.regardingLabel}:
+              </span>{" "}
+              {context.label}
+            </p>
+          ) : null}
           {reference ? (
             <p className="text-sm text-stone-600">
               <span className="font-medium text-[var(--brand-deep)]">
@@ -95,9 +109,20 @@ export function LeadSuccessPanel({
         </div>
       </div>
       <div className="flex flex-wrap gap-3 pt-2">
+        {context ? (
+          <Link
+            href={localePath(locale, leadContextSourcePath(context))}
+            className={buttonVariants({ variant: "primary" })}
+            data-slot="lead-context-back"
+          >
+            {leads.backToSource}
+          </Link>
+        ) : null}
         <Link
           href={localePath(locale, leadReturnPath(channel))}
-          className={buttonVariants({ variant: "primary" })}
+          className={buttonVariants({
+            variant: context ? "secondary" : "primary",
+          })}
         >
           {leads.backToForm}
         </Link>

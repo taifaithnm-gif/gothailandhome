@@ -415,10 +415,7 @@ async function harvestProject(dirName) {
   let sampleListing = null;
   const transitTags = [...(manifest.project?.transit_tags || [])];
 
-  for (const [type, hrefs] of [
-    ["sale", saleHrefs],
-    ["rent", rentHrefs],
-  ]) {
+  for (const hrefs of [saleHrefs, rentHrefs]) {
     for (const href of hrefs) {
       const detail = await fetchText(`https://propertyhub.in.th${href}`);
       await sleep(200);

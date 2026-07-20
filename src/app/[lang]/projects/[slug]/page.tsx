@@ -57,6 +57,7 @@ import {
   poiDisplayName,
   type ProjectFacilityZone,
 } from "@/lib/projects/normalize-project-content";
+import { visibleProjectFaqs } from "@/lib/projects/visible-faq";
 import {
   breadcrumbListSchema,
   projectFaqSchema,
@@ -443,6 +444,23 @@ export default async function ProjectLandingPage({
         ? project.developer.website
         : null;
 
+  const visibleFaqs = visibleProjectFaqs(locale, project.faq);
+  const projectTitle = project.name[locale] || project.name.en;
+  const sectionLinks: Array<{ id: string; label: string }> = [
+    { id: "overview", label: pl.specs },
+    { id: "units", label: pl.unitTypes },
+    { id: "listings", label: pl.listings },
+    { id: "price", label: pl.priceSummary },
+    { id: "map", label: pl.map },
+    { id: "facilities", label: pl.facilities },
+    { id: "nearby", label: pl.nearby },
+    { id: "developer", label: pl.developer },
+    { id: "verification", label: pl.evidenceTitle },
+    { id: "related-projects", label: pl.similar },
+    ...(visibleFaqs.length ? [{ id: "faq", label: pl.faq }] : []),
+    { id: "lead", label: pl.ctaLead },
+  ];
+
   const keyFacts: Array<{
     label: string;
     value: string | null;
@@ -527,7 +545,7 @@ export default async function ProjectLandingPage({
             <PropertyGrid
               locale={locale}
               dict={dict}
-              properties={items}
+              properties={items.slice(0, PROJECT_LISTING_PREVIEW_SIZE)}
               imagePriorityCount={0}
             />
           </div>
@@ -737,10 +755,32 @@ export default async function ProjectLandingPage({
         </div>
       </section>
 
+      <nav
+        className="border-b border-[var(--brand-line)] bg-white/70"
+        aria-label={pl.sectionNav}
+        data-slot="project-section-nav"
+      >
+        <div className="mx-auto flex max-w-6xl gap-2 overflow-x-auto px-4 py-3 sm:px-6">
+          {sectionLinks.map((link) => (
+            <a
+              key={link.id}
+              href={`#${link.id}`}
+              className="shrink-0 rounded-lg px-3 py-1.5 text-sm text-[var(--brand-deep)] transition hover:bg-[var(--brand-soft)]"
+            >
+              {link.label}
+            </a>
+          ))}
+        </div>
+      </nav>
+
       <div className="mx-auto grid max-w-6xl gap-12 px-4 py-12 sm:px-6 lg:grid-cols-[1.4fr_0.8fr]">
         <div className="space-y-12">
           {/* 2. Key project facts */}
-          <section id="overview" aria-labelledby="project-facts-heading">
+          <section
+            id="overview"
+            className="scroll-mt-24"
+            aria-labelledby="project-facts-heading"
+          >
             <h2 id="project-facts-heading" className="ds-h2 text-2xl">
               {pl.specs}
             </h2>
@@ -759,43 +799,56 @@ export default async function ProjectLandingPage({
                   </div>
                 ))}
             </dl>
+          </section>
 
+          {/* 2b. Unit types */}
+          <section
+            id="units"
+            className="scroll-mt-24"
+            aria-labelledby="project-units-heading"
+          >
+            <div className="flex flex-wrap items-center gap-2">
+              <h2 id="project-units-heading" className="ds-h2 text-2xl">
+                {pl.unitTypes}
+              </h2>
+              {mayPresentFact(unitTypesClass) && project.unitTypes.length > 0 ? (
+                <VerificationBadge
+                  level={toVerificationLevel(unitTypesClass)}
+                  label={evidenceLabel(dict, unitTypesClass)}
+                />
+              ) : null}
+            </div>
             {mayPresentFact(unitTypesClass) && project.unitTypes.length > 0 ? (
-              <div className="mt-8">
-                <div className="flex flex-wrap items-center gap-2">
-                  <h3 className="ds-h3 text-xl">{pl.unitTypes}</h3>
-                  <VerificationBadge
-                    level={toVerificationLevel(unitTypesClass)}
-                    label={evidenceLabel(dict, unitTypesClass)}
-                  />
-                </div>
-                <ul className="mt-4 grid gap-3 sm:grid-cols-2">
-                  {project.unitTypes.map((unit, index) => (
-                    <li
-                      key={`${unit.code}-${index}`}
-                      className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
-                    >
-                      <p className="font-medium text-[var(--brand-deep)]">
-                        {unit.label[locale] || unit.label.en || unit.code}
+              <ul className="mt-4 grid gap-3 sm:grid-cols-2">
+                {project.unitTypes.map((unit, index) => (
+                  <li
+                    key={`${unit.code}-${index}`}
+                    className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
+                  >
+                    <p className="font-medium text-[var(--brand-deep)]">
+                      {unit.label[locale] || unit.label.en || unit.code}
+                    </p>
+                    {unit.area_sqm > 0 ? (
+                      <p className="text-sm text-stone-600">
+                        {unit.area_sqm} {dict.common.sqm}
                       </p>
-                      {unit.area_sqm > 0 ? (
-                        <p className="text-sm text-stone-600">
-                          {unit.area_sqm} {dict.common.sqm}
-                        </p>
-                      ) : null}
-                    </li>
-                  ))}
-                </ul>
-              </div>
+                    ) : null}
+                  </li>
+                ))}
+              </ul>
             ) : (
-              <p className="mt-6 text-sm text-stone-500">
+              <p className="mt-3 text-sm text-stone-500">
                 {pl.unitTypes}: {unknown}
               </p>
             )}
           </section>
 
           {/* 3. Available listings */}
-          <section id="listings" aria-labelledby="project-listings-heading">
+          <section
+            id="listings"
+            className="scroll-mt-24"
+            aria-labelledby="project-listings-heading"
+          >
             <h2 id="project-listings-heading" className="ds-h2 text-2xl">
               {pl.listings}
             </h2>
@@ -817,7 +870,11 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 4. Price summary */}
-          <section aria-labelledby="project-price-heading">
+          <section
+            id="price"
+            className="scroll-mt-24"
+            aria-labelledby="project-price-heading"
+          >
             <h2 id="project-price-heading" className="ds-h2 text-2xl">
               {pl.priceSummary}
             </h2>
@@ -834,7 +891,11 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 5. Location */}
-          <section id="map" aria-labelledby="project-map-heading">
+          <section
+            id="map"
+            className="scroll-mt-24"
+            aria-labelledby="project-map-heading"
+          >
             <h2 id="project-map-heading" className="ds-h2 text-2xl">
               {pl.map}
             </h2>
@@ -948,7 +1009,11 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 6. Facilities */}
-          <section id="facilities" aria-labelledby="project-facilities-heading">
+          <section
+            id="facilities"
+            className="scroll-mt-24"
+            aria-labelledby="project-facilities-heading"
+          >
             <h2 id="project-facilities-heading" className="ds-h2 text-2xl">
               {pl.facilities}
             </h2>
@@ -983,7 +1048,11 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 7. Nearby places */}
-          <section id="nearby" aria-labelledby="project-nearby-heading">
+          <section
+            id="nearby"
+            className="scroll-mt-24"
+            aria-labelledby="project-nearby-heading"
+          >
             <h2 id="project-nearby-heading" className="ds-h2 text-2xl">
               {pl.nearby}
             </h2>
@@ -1028,7 +1097,11 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 8. Developer */}
-          <section id="developer" aria-labelledby="project-developer-heading">
+          <section
+            id="developer"
+            className="scroll-mt-24"
+            aria-labelledby="project-developer-heading"
+          >
             <h2 id="project-developer-heading" className="ds-h2 text-2xl">
               {pl.developer}
             </h2>
@@ -1103,7 +1176,11 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 9. Evidence disclosure */}
-          <section id="verification" aria-labelledby="project-evidence-heading">
+          <section
+            id="verification"
+            className="scroll-mt-24"
+            aria-labelledby="project-evidence-heading"
+          >
             <h2 id="project-evidence-heading" className="ds-h2 text-2xl">
               {pl.evidenceTitle}
             </h2>
@@ -1140,7 +1217,11 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* 10. Related projects */}
-          <section id="related-projects" aria-labelledby="project-similar-heading">
+          <section
+            id="related-projects"
+            className="scroll-mt-24"
+            aria-labelledby="project-similar-heading"
+          >
             <h2 id="project-similar-heading" className="ds-h2 text-2xl">
               {pl.similar}
             </h2>
@@ -1175,36 +1256,27 @@ export default async function ProjectLandingPage({
           </section>
 
           {/* FAQ when present */}
-          {project.faq.length ? (
-            <section id="faq" aria-labelledby="project-faq-heading">
+          {visibleFaqs.length ? (
+            <section
+              id="faq"
+              className="scroll-mt-24"
+              aria-labelledby="project-faq-heading"
+            >
               <h2 id="project-faq-heading" className="ds-h2 text-2xl">
                 {pl.faq}
               </h2>
               <div className="mt-4 space-y-4">
-                {project.faq.map((item, index) => {
-                  const question =
-                    item.question[locale] ||
-                    item.question.en ||
-                    item.question.zh ||
-                    item.question.th;
-                  const answer =
-                    item.answer[locale] ||
-                    item.answer.en ||
-                    item.answer.zh ||
-                    item.answer.th;
-                  if (!question || !answer) return null;
-                  return (
-                    <details
-                      key={`faq-${index}`}
-                      className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
-                    >
-                      <summary className="cursor-pointer font-medium text-[var(--brand-deep)]">
-                        {question}
-                      </summary>
-                      <p className="mt-2 text-sm text-stone-700">{answer}</p>
-                    </details>
-                  );
-                })}
+                {visibleFaqs.map((item, index) => (
+                  <details
+                    key={`faq-${index}`}
+                    className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
+                  >
+                    <summary className="cursor-pointer font-medium text-[var(--brand-deep)]">
+                      {item.question}
+                    </summary>
+                    <p className="mt-2 text-sm text-stone-700">{item.answer}</p>
+                  </details>
+                ))}
               </div>
             </section>
           ) : null}
@@ -1261,7 +1333,7 @@ export default async function ProjectLandingPage({
             </div>
           </div>
 
-          <div id="lead">
+          <div id="lead" className="scroll-mt-24">
             <Suspense
               fallback={
                 <div className="rounded-2xl border border-[var(--brand-line)] bg-white p-6">
@@ -1272,6 +1344,8 @@ export default async function ProjectLandingPage({
               <ProjectLeadForm
                 locale={locale}
                 projectId={project.id}
+                projectSlug={project.slug}
+                projectTitle={projectTitle}
                 dict={dict}
               />
             </Suspense>

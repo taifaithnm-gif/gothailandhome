@@ -1,0 +1,24 @@
+{
+  "id": "faq-languages",
+  "type": "faq_entry",
+  "status": "approved",
+  "category": "platform",
+  "sort_order": 7,
+  "question": {
+    "en": "Which languages are supported?",
+    "zh": "支持哪些语言？",
+    "th": "รองรับภาษาใดบ้าง?"
+  },
+  "answer": {
+    "en": "The website is available in English, Chinese, and Thai.",
+    "zh": "网站提供英文、中文和泰文。",
+    "th": "เว็บไซต์มีภาษาอังกฤษ จีน และไทย"
+  },
+  "source_class": "platform_process",
+  "reviewed_at": "2026-07-20",
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

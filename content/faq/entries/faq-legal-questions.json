@@ -1,0 +1,24 @@
+{
+  "id": "faq-legal-questions",
+  "type": "faq_entry",
+  "status": "approved",
+  "category": "guides",
+  "sort_order": 9,
+  "question": {
+    "en": "Where can I read legal / foreign-ownership information?",
+    "zh": "在哪里阅读法律/外籍产权信息？",
+    "th": "อ่านข้อมูลกฎหมาย/กรรมสิทธิ์ชาวต่างชาติได้ที่ไหน?"
+  },
+  "answer": {
+    "en": "Use the Legal Guide at /knowledge/legal. FAQ answers do not provide personalized legal advice.",
+    "zh": "请使用 /knowledge/legal 的法律指南。常见问题不提供个性化法律建议。",
+    "th": "ใช้คู่มือกฎหมายที่ /knowledge/legal คำถามที่พบบ่อยไม่ให้คำแนะนำทางกฎหมายเฉพาะบุคคล"
+  },
+  "source_class": "platform_process",
+  "reviewed_at": "2026-07-20",
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

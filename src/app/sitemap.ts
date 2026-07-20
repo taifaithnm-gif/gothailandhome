@@ -2,16 +2,20 @@ import type { MetadataRoute } from "next";
 
 import { locales } from "@/config/locales";
 import { siteConfig } from "@/config/site";
+import { listBlogPosts, listKnowledgeArticles } from "@/lib/content";
 import { listPublishedDevelopers } from "@/lib/data/developers";
 import { listCities, listDistricts } from "@/lib/data/geography";
 import { listPublishedProjects } from "@/lib/data/projects";
-import { listPublishedProperties } from "@/lib/data/properties";
+import { listPublishedPropertySlugsForSitemap } from "@/lib/data/properties";
+import { buildLocalizedPropertySitemapEntries } from "@/lib/seo/sitemap-inventory";
 
+/** Indexable static public routes — excludes drafts, leads, search, admin, state pages. */
 const staticPaths = [
   "",
   "/buy",
   "/rent",
   "/properties",
+  "/favorites",
   "/projects",
   "/cities",
   "/developers",
@@ -23,20 +27,34 @@ const staticPaths = [
   "/partners/developers",
   "/partners/agencies",
   "/knowledge",
+  "/blog",
+  "/knowledge/articles",
+  "/knowledge/investment",
+  "/knowledge/legal",
+  "/faq",
   "/knowledge/glossary",
   "/knowledge/bangkok-districts",
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const lastModified = new Date();
-  const [properties, projects, cities, districts, developers] =
-    await Promise.all([
-      listPublishedProperties({ verifiedOnly: true }),
-      listPublishedProjects(),
-      listCities(),
-      listDistricts(),
-      listPublishedDevelopers(),
-    ]);
+  const [
+    propertySlugs,
+    projects,
+    cities,
+    districts,
+    developers,
+    knowledgeArticles,
+    blogPosts,
+  ] = await Promise.all([
+    listPublishedPropertySlugsForSitemap(),
+    listPublishedProjects(),
+    listCities(),
+    listDistricts(),
+    listPublishedDevelopers(),
+    Promise.resolve(listKnowledgeArticles()),
+    Promise.resolve(listBlogPosts()),
+  ]);
 
   const pages = locales.flatMap((locale) =>
     staticPaths.map((path) => ({
@@ -44,6 +62,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified,
       changeFrequency: "weekly" as const,
       priority: path === "" ? 1 : 0.7,
+    })),
+  );
+
+  const knowledgeArticlePages = locales.flatMap((locale) =>
+    knowledgeArticles.map((article) => ({
+      url: `${siteConfig.url}/${locale}/knowledge/articles/${article.slug}`,
+      lastModified,
+      changeFrequency: "weekly" as const,
+      priority: 0.65,
+    })),
+  );
+
+  const blogPostPages = locales.flatMap((locale) =>
+    blogPosts.map((post) => ({
+      url: `${siteConfig.url}/${locale}/blog/${post.slug}`,
+      lastModified,
+      changeFrequency: "weekly" as const,
+      priority: 0.65,
     })),
   );
 
@@ -83,17 +119,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     })),
   );
 
-  const propertyPages = locales.flatMap((locale) =>
-    properties.map((property) => ({
-      url: `${siteConfig.url}/${locale}/properties/${property.slug}`,
-      lastModified,
-      changeFrequency: "weekly" as const,
-      priority: 0.6,
-    })),
-  );
+  const propertyPages = buildLocalizedPropertySitemapEntries({
+    siteUrl: siteConfig.url,
+    locales,
+    slugs: propertySlugs,
+    lastModified,
+  });
 
   return [
     ...pages,
+    ...knowledgeArticlePages,
+    ...blogPostPages,
     ...cityPages,
     ...districtPages,
     ...developerPages,

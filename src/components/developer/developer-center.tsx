@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { ReactNode } from "react";
 import { ExternalLink } from "lucide-react";
@@ -19,13 +20,16 @@ import {
   DEVELOPER_LISTING_PREVIEW_SIZE,
   DEVELOPER_PROJECT_PREVIEW_SIZE,
   evidenceLabelKey,
-  hasVerifiedOfficialLogo,
   mayPresentFact,
   presentationClassFor,
   toVerificationLevel,
   type DeveloperEvidenceRow,
   type DeveloperPresentationClass,
 } from "@/lib/developers/evidence";
+import {
+  getDeveloperLogoPresentation,
+  logoStatusLabelKey,
+} from "@/lib/developers/logo-presentation";
 import type { DeveloperPackageFacts } from "@/lib/developers/package-facts";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { fillTemplate, localePath } from "@/lib/i18n/metadata";
@@ -153,7 +157,8 @@ export function DeveloperCenter({
   const hqCls = presentationClassFor(evidence, "headquarters");
   const completedCls = presentationClassFor(evidence, "completed_projects");
   const activeCls = presentationClassFor(evidence, "active_projects");
-  const logoOfficial = hasVerifiedOfficialLogo(evidence);
+  const logo = getDeveloperLogoPresentation(developer.slug);
+  const logoStatusLabel = d[logoStatusLabelKey(logo.status)];
 
   const displayName = developer.name[locale] || developer.name.en;
   const profileText =
@@ -195,6 +200,18 @@ export function DeveloperCenter({
     (p) => (listingCountByProject.get(p.slug) ?? 0) === 0,
   );
 
+  const sectionLinks: Array<{ id: string; label: string }> = [
+    { id: "overview", label: d.overview },
+    { id: "projects", label: d.projectsOnPlatform },
+    { id: "listings", label: d.currentListings },
+    { id: "company", label: d.company },
+    { id: "official-website", label: d.officialWebsite },
+    { id: "verification", label: d.verification },
+    { id: "partnership", label: d.partnershipTitle },
+    { id: "related-developers", label: d.relatedDevelopers },
+    { id: "platform-support", label: d.contactPlatform },
+  ];
+
   function renderListingBlock(
     title: string,
     items: PropertyView[],
@@ -220,7 +237,7 @@ export function DeveloperCenter({
             <PropertyGrid
               locale={locale}
               dict={dict}
-              properties={items}
+              properties={items.slice(0, DEVELOPER_LISTING_PREVIEW_SIZE)}
               imagePriorityCount={0}
             />
           </div>
@@ -292,20 +309,37 @@ export function DeveloperCenter({
       >
         <div className="ds-container grid gap-8 py-10 sm:py-14 lg:grid-cols-[auto_1fr] lg:items-center">
           <div>
-            {logoOfficial &&
-            (packageFacts.officialLogoUrl || developer.logoUrl) ? (
-              // eslint-disable-next-line @next/next/no-img-element
-              <img
-                src={packageFacts.officialLogoUrl || developer.logoUrl || ""}
-                alt={displayName}
-                width={160}
-                height={160}
-                className="h-40 w-40 rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white object-contain p-3"
+            {logo.canPresentOfficialMark && logo.displaySrc ? (
+              <div
+                className="relative h-40 w-40 overflow-hidden rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white p-3"
                 data-slot="developer-logo-official"
-              />
+                data-logo-status={logo.status}
+              >
+                <Image
+                  src={logo.displaySrc}
+                  alt={displayName}
+                  width={160}
+                  height={160}
+                  className="h-full w-full object-contain"
+                  unoptimized
+                  priority
+                />
+              </div>
             ) : (
-              <NeutralDeveloperMark name={displayName} label={d.logoMissing} />
+              <div data-logo-status={logo.status}>
+                <NeutralDeveloperMark
+                  name={displayName}
+                  label={d.logoMissing}
+                />
+              </div>
             )}
+            <p
+              className="mt-2 max-w-[10rem] text-xs text-stone-500"
+              data-slot="developer-logo-status"
+            >
+              <span className="font-medium text-stone-600">{d.logoStatus}: </span>
+              {logoStatusLabel}
+            </p>
           </div>
           <div>
             <div className="flex flex-wrap items-center gap-2">
@@ -351,6 +385,24 @@ export function DeveloperCenter({
         </div>
       </section>
 
+      <nav
+        className="border-b border-[var(--brand-line)] bg-white/70"
+        aria-label={d.sectionNav}
+        data-slot="developer-section-nav"
+      >
+        <div className="ds-container flex gap-2 overflow-x-auto py-3">
+          {sectionLinks.map((link) => (
+            <a
+              key={link.id}
+              href={`#${link.id}`}
+              className="shrink-0 rounded-lg px-3 py-1.5 text-sm text-[var(--brand-deep)] transition hover:bg-[var(--brand-soft)]"
+            >
+              {link.label}
+            </a>
+          ))}
+        </div>
+      </nav>
+
       <div className="ds-container grid gap-12 py-12 lg:grid-cols-[1.4fr_0.8fr]">
         <div className="space-y-14">
           <Section id="overview" title={d.overview} note={d.overviewNote}>
@@ -365,6 +417,12 @@ export function DeveloperCenter({
                 />
               </div>
               <p className="mt-2 text-sm text-stone-600">{d.factoryLinkedNote}</p>
+              <p
+                className="mt-2 text-sm font-medium text-[var(--brand-deep)]"
+                data-slot="developer-portfolio-subset"
+              >
+                {d.portfolioSubsetNote}
+              </p>
               <p className="mt-3 text-sm text-[var(--brand-deep)]">
                 {projects.length} {d.projectsOnPlatform.toLowerCase()}
                 {" · "}
@@ -378,7 +436,7 @@ export function DeveloperCenter({
           <Section
             id="projects"
             title={d.projectsOnPlatform}
-            note={d.projectsDisclaimer}
+            note={`${d.projectsDisclaimer} ${d.portfolioSubsetNote}`}
           >
             <div className="space-y-8">
               {renderProjectGroup(d.projectsWithListings, withListings)}
@@ -556,9 +614,9 @@ export function DeveloperCenter({
               </li>
               <li>
                 <span className="font-medium">{d.logoStatus}: </span>
-                {logoOfficial
-                  ? d.evidenceOfficial
-                  : packageFacts.logoStatus || d.logoMissing}
+                <span data-slot="developer-logo-status-detail">
+                  {logoStatusLabel}
+                </span>
               </li>
             </ul>
             <ul className="mt-6 flex flex-wrap gap-2">
@@ -623,7 +681,7 @@ export function DeveloperCenter({
           >
             {related.length ? (
               <div className="grid gap-4 sm:grid-cols-2">
-                {related.map((item) => (
+                {related.slice(0, 4).map((item) => (
                   <DeveloperCardShell key={item.slug}>
                     <Link
                       href={localePath(locale, `/developers/${item.slug}`)}

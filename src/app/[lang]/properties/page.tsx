@@ -2,8 +2,12 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { PageShell } from "@/components/layout/page-shell";
-import { ListingFilters } from "@/components/listings/listing-filters";
+import {
+  ListingFilters,
+  resolveDistrictForCity,
+} from "@/components/listings/listing-filters";
 import { ListingPagination } from "@/components/listings/listing-pagination";
+import { ListingResultsRegion } from "@/components/listings/listing-results-region";
 import {
   ActiveSearchSummary,
   SearchTrustDisclosure,
@@ -33,6 +37,8 @@ import { cn } from "@/lib/utils";
 
 export const revalidate = 60;
 
+const RESULTS_HEADING_ID = "listing-results-heading";
+
 export async function generateMetadata({
   params,
 }: PageProps<"/[lang]/properties">) {
@@ -58,36 +64,19 @@ export default async function PropertiesPage({
   if (!isLocale(lang)) notFound();
 
   const query = await searchParams;
-  const state = parseListingSearchParams(query);
+  const parsed = parseListingSearchParams(query);
   const dict = await getDictionary(lang);
   const clearHref = localePath(lang, "/properties");
+  const buyHref = localePath(lang, "/buy");
+  const rentHref = localePath(lang, "/rent");
+  const bangkokHref = `${clearHref}?city=bangkok`;
 
-  const [citiesRaw, districtsRaw, developersRaw, projectsRaw, paged] =
+  const [citiesRaw, districtsRaw, developersRaw, projectsRaw] =
     await Promise.all([
       listCities(),
       listDistricts(),
       listPublishedDevelopers(),
       listPublishedProjects(),
-      listPublishedPropertiesPaged({
-        query: state.q,
-        location: state.location,
-        verifiedOnly: true,
-        listingType: state.listingType,
-        type: state.type,
-        citySlug: state.city,
-        districtSlug: state.district,
-        projectSlug: state.project,
-        developerSlug: state.developer,
-        transit: state.transit,
-        bedrooms: state.bedrooms,
-        minPrice: state.minPrice,
-        maxPrice: state.maxPrice,
-        minArea: state.minArea,
-        maxArea: state.maxArea,
-        sort: state.sort as ListingSort,
-        page: state.page,
-        pageSize: DEFAULT_LISTING_PAGE_SIZE,
-      }),
     ]);
 
   const cities = citiesRaw.map((c) => ({
@@ -112,8 +101,67 @@ export default async function PropertiesPage({
     name: p.name,
   }));
 
+  const safeDistrict = resolveDistrictForCity(
+    parsed.city || "",
+    parsed.district || "",
+    districts,
+  );
+  const state = {
+    ...parsed,
+    district: safeDistrict || undefined,
+  };
+
+  const paged = await listPublishedPropertiesPaged({
+    query: state.q,
+    location: state.location,
+    verifiedOnly: true,
+    listingType: state.listingType,
+    type: state.type,
+    citySlug: state.city,
+    districtSlug: state.district,
+    projectSlug: state.project,
+    developerSlug: state.developer,
+    transit: state.transit,
+    bedrooms: state.bedrooms,
+    minPrice: state.minPrice,
+    maxPrice: state.maxPrice,
+    minArea: state.minArea,
+    maxArea: state.maxArea,
+    sort: state.sort as ListingSort,
+    page: state.page,
+    pageSize: DEFAULT_LISTING_PAGE_SIZE,
+  });
+
   const filterParams = listingSearchToQueryRecord(state);
   const formValues = toListingFilterValues(state);
+  const emptyActions = (
+    <div className="flex flex-wrap justify-center gap-3">
+      <Link
+        href={clearHref}
+        className={cn(buttonVariants({ variant: "primary" }))}
+      >
+        {dict.properties.noResultsClear}
+      </Link>
+      <Link
+        href={bangkokHref}
+        className={cn(buttonVariants({ variant: "secondary" }))}
+      >
+        {dict.properties.noResultsBrowse}
+      </Link>
+      <Link
+        href={buyHref}
+        className={cn(buttonVariants({ variant: "ghost" }))}
+      >
+        {dict.properties.noResultsBuy}
+      </Link>
+      <Link
+        href={rentHref}
+        className={cn(buttonVariants({ variant: "ghost" }))}
+      >
+        {dict.properties.noResultsRent}
+      </Link>
+    </div>
+  );
 
   return (
     <PageShell
@@ -180,53 +228,42 @@ export default async function PropertiesPage({
         />
       </div>
 
-      {paged.error ? (
-        <ErrorState
-          title={dict.properties.queryErrorTitle}
-          description={dict.properties.queryErrorBody}
-          action={
-            <Link
-              href={clearHref}
-              className={cn(buttonVariants({ variant: "secondary" }))}
-            >
-              {dict.properties.noResultsClear}
-            </Link>
-          }
-        />
-      ) : paged.total === 0 ? (
-        <EmptyState
-          title={dict.properties.noResultsTitle}
-          description={dict.properties.noResultsBody}
-          action={
-            <div className="flex flex-wrap justify-center gap-3">
+      <ListingResultsRegion headingId={RESULTS_HEADING_ID}>
+        <h2 id={RESULTS_HEADING_ID} className="sr-only">
+          {dict.properties.resultsHeading}
+        </h2>
+        {paged.error ? (
+          <ErrorState
+            focusTitle
+            title={dict.properties.queryErrorTitle}
+            description={dict.properties.queryErrorBody}
+            action={
               <Link
                 href={clearHref}
-                className={cn(buttonVariants({ variant: "primary" }))}
+                className={cn(buttonVariants({ variant: "secondary" }))}
               >
                 {dict.properties.noResultsClear}
               </Link>
-              <Link
-                href={`${clearHref}?city=bangkok`}
-                className={cn(buttonVariants({ variant: "secondary" }))}
-              >
-                {dict.properties.noResultsBrowse}
-              </Link>
-            </div>
-          }
-        />
-      ) : (
-        <div
-          className="min-h-[48rem]"
-          data-slot="search-results-grid"
-        >
-          <PropertyGrid
-            locale={lang}
-            dict={dict}
-            properties={paged.items}
-            imagePriorityCount={1}
+            }
           />
-        </div>
-      )}
+        ) : paged.total === 0 ? (
+          <EmptyState
+            focusTitle
+            title={dict.properties.noResultsTitle}
+            description={dict.properties.noResultsBody}
+            action={emptyActions}
+          />
+        ) : (
+          <div className="min-h-[48rem]" data-slot="search-results-grid">
+            <PropertyGrid
+              locale={lang}
+              dict={dict}
+              properties={paged.items}
+              imagePriorityCount={1}
+            />
+          </div>
+        )}
+      </ListingResultsRegion>
 
       <div className="mt-8">
         <ListingPagination

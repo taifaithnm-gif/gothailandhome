@@ -2,7 +2,10 @@ import Link from "next/link";
 
 import type { Locale } from "@/config/locales";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
-import { localePath } from "@/lib/i18n/metadata";
+import {
+  getFooterCompanyLinks,
+  getFooterExploreLinks,
+} from "@/lib/navigation/site-nav";
 
 type SiteFooterProps = {
   locale: Locale;
@@ -11,26 +14,8 @@ type SiteFooterProps = {
 
 export function SiteFooter({ locale, dict }: SiteFooterProps) {
   const year = new Date().getFullYear();
-
-  const explore = [
-    { href: localePath(locale, "/buy"), label: dict.nav.buy },
-    { href: localePath(locale, "/rent"), label: dict.nav.rent },
-    { href: localePath(locale, "/properties"), label: dict.nav.properties },
-    { href: localePath(locale, "/projects"), label: dict.nav.projects },
-    { href: localePath(locale, "/cities"), label: dict.nav.cities },
-    { href: localePath(locale, "/developers"), label: dict.nav.developers },
-    { href: localePath(locale, "/marketplace"), label: dict.nav.marketplace },
-  ];
-
-  const company = [
-    { href: localePath(locale, "/about"), label: dict.nav.about },
-    { href: localePath(locale, "/knowledge"), label: dict.nav.knowledge },
-    {
-      href: localePath(locale, "/partners/developers"),
-      label: dict.nav.partners,
-    },
-    { href: localePath(locale, "/contact"), label: dict.nav.contact },
-  ];
+  const explore = getFooterExploreLinks(locale, dict);
+  const company = getFooterCompanyLinks(locale, dict);
 
   return (
     <footer className="mt-auto border-t border-[var(--brand-line)] bg-[var(--brand-deep)] text-white">
@@ -50,8 +35,11 @@ export function SiteFooter({ locale, dict }: SiteFooterProps) {
           </p>
           <ul className="space-y-2 text-sm text-white/80">
             {explore.map((item) => (
-              <li key={item.href}>
-                <Link href={item.href} className="rounded-sm outline-none transition hover:text-white focus-visible:text-white focus-visible:ring-2 focus-visible:ring-[var(--brand-gold)]/60">
+              <li key={item.id}>
+                <Link
+                  href={item.href}
+                  className="rounded-sm outline-none transition hover:text-white focus-visible:text-white focus-visible:ring-2 focus-visible:ring-[var(--brand-gold)]/60"
+                >
                   {item.label}
                 </Link>
               </li>
@@ -65,8 +53,11 @@ export function SiteFooter({ locale, dict }: SiteFooterProps) {
           </p>
           <ul className="space-y-2 text-sm text-white/80">
             {company.map((item) => (
-              <li key={item.href}>
-                <Link href={item.href} className="rounded-sm outline-none transition hover:text-white focus-visible:text-white focus-visible:ring-2 focus-visible:ring-[var(--brand-gold)]/60">
+              <li key={item.id}>
+                <Link
+                  href={item.href}
+                  className="rounded-sm outline-none transition hover:text-white focus-visible:text-white focus-visible:ring-2 focus-visible:ring-[var(--brand-gold)]/60"
+                >
                   {item.label}
                 </Link>
               </li>

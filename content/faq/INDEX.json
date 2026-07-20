@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "updated_at": "2026-07-20",
+  "entries": [
+    {
+      "id": "faq-what-is-gth",
+      "path": "content/faq/entries/faq-what-is-gth.json"
+    },
+    {
+      "id": "faq-not-listing-agent",
+      "path": "content/faq/entries/faq-not-listing-agent.json"
+    },
+    {
+      "id": "faq-find-my-home",
+      "path": "content/faq/entries/faq-find-my-home.json"
+    },
+    {
+      "id": "faq-list-property",
+      "path": "content/faq/entries/faq-list-property.json"
+    },
+    {
+      "id": "faq-viewing",
+      "path": "content/faq/entries/faq-viewing.json"
+    },
+    {
+      "id": "faq-verification",
+      "path": "content/faq/entries/faq-verification.json"
+    },
+    {
+      "id": "faq-languages",
+      "path": "content/faq/entries/faq-languages.json"
+    },
+    {
+      "id": "faq-investment-questions",
+      "path": "content/faq/entries/faq-investment-questions.json"
+    },
+    {
+      "id": "faq-legal-questions",
+      "path": "content/faq/entries/faq-legal-questions.json"
+    },
+    {
+      "id": "faq-contact-pcs",
+      "path": "content/faq/entries/faq-contact-pcs.json"
+    }
+  ]
+}

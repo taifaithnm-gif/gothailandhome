@@ -1,0 +1,24 @@
+{
+  "id": "faq-what-is-gth",
+  "type": "faq_entry",
+  "status": "approved",
+  "category": "platform",
+  "sort_order": 1,
+  "question": {
+    "en": "What is GoThailandHome?",
+    "zh": "GoThailandHome 是什么？",
+    "th": "GoThailandHome คืออะไร?"
+  },
+  "answer": {
+    "en": "A Thailand property discovery marketplace that indexes verified public listings. It is not the listing agent.",
+    "zh": "泰国房产发现平台，索引经核验的公开挂牌。不是挂牌代理。",
+    "th": "ตลาดค้นหาอสังหาริมทรัพย์ไทยที่จัดทำดัชนีประกาศสาธารณะที่ตรวจสอบแล้ว ไม่ใช่ตัวแทนประกาศ"
+  },
+  "source_class": "platform_process",
+  "reviewed_at": "2026-07-20",
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

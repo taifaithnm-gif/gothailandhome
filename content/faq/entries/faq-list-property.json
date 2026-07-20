@@ -1,0 +1,24 @@
+{
+  "id": "faq-list-property",
+  "type": "faq_entry",
+  "status": "approved",
+  "category": "process",
+  "sort_order": 4,
+  "question": {
+    "en": "How do I list a property?",
+    "zh": "如何发布房源？",
+    "th": "ลงประกาศทรัพย์ได้อย่างไร?"
+  },
+  "answer": {
+    "en": "Submit List Your Property from the Marketplace hub. Submissions enter review and are not auto-published.",
+    "zh": "从 Marketplace 中心提交 List Your Property。提交进入审核，不会自动发布。",
+    "th": "ส่ง List Your Property จากศูนย์ Marketplace การส่งเข้าสู่การตรวจสอบและไม่เผยแพร่อัตโนมัติ"
+  },
+  "source_class": "platform_process",
+  "reviewed_at": "2026-07-20",
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

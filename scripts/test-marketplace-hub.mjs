@@ -56,11 +56,16 @@ check("five entry ids present", () => {
 });
 
 check("header points at marketplace hub", () => {
+  const nav = readFileSync(
+    resolve(root, "src/lib/navigation/site-nav.ts"),
+    "utf8",
+  );
+  assert.ok(nav.includes("/marketplace"));
   const src = readFileSync(
     resolve(root, "src/components/layout/site-header.tsx"),
     "utf8",
   );
-  assert.ok(src.includes("/marketplace"));
+  assert.ok(src.includes("getSiteNavGroups"), "header uses shared nav IA");
 });
 
 check("hub promise has no Apple on hub page", () => {

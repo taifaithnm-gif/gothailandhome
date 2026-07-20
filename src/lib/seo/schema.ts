@@ -4,6 +4,7 @@ import type { PropertyView } from "@/lib/data/properties";
 import type { ProjectView } from "@/lib/data/projects";
 import type { DeveloperView } from "@/lib/data/developers";
 import { absoluteUrl } from "@/lib/i18n/metadata";
+import { visibleProjectFaqs } from "@/lib/projects/visible-faq";
 
 export type BreadcrumbSchemaItem = {
   name: string;
@@ -207,12 +208,8 @@ export function projectFaqSchema(
   locale: Locale,
   project: ProjectView,
 ): Record<string, unknown> | null {
-  const faqs = (project.faq ?? [])
-    .map((item) => ({
-      question: item.question?.[locale] || item.question?.en || "",
-      answer: item.answer?.[locale] || item.answer?.en || "",
-    }))
-    .filter((item) => item.question && item.answer);
+  // Keep FAQPage entities identical to the visible FAQ section.
+  const faqs = visibleProjectFaqs(locale, project.faq);
 
   if (!faqs.length) return null;
 
@@ -227,6 +224,69 @@ export function projectFaqSchema(
         text: item.answer,
       },
     })),
+  };
+}
+
+export function platformFaqSchema(
+  locale: Locale,
+  faqs: { question: string; answer: string }[],
+): Record<string, unknown> | null {
+  if (!faqs.length) return null;
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((item) => ({
+      "@type": "Question",
+      name: item.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: item.answer,
+      },
+    })),
+  };
+}
+
+/** Article schema for approved knowledge / blog content — mirrors visible fields only. */
+export function articleSchema(input: {
+  locale: Locale;
+  name: string;
+  description: string;
+  path: string;
+  dateModified: string;
+  datePublished?: string;
+  authorName?: string;
+}): Record<string, unknown> {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: input.name,
+    description: input.description,
+    url: absoluteUrl(input.locale, input.path),
+    dateModified: input.dateModified,
+    ...(input.datePublished ? { datePublished: input.datePublished } : {}),
+    ...(input.authorName
+      ? {
+          author: {
+            "@type": "Person",
+            name: input.authorName,
+          },
+        }
+      : {
+          author: {
+            "@type": "Organization",
+            name: siteConfig.name,
+          },
+        }),
+    publisher: {
+      "@type": "Organization",
+      name: siteConfig.name,
+      logo: {
+        "@type": "ImageObject",
+        url: `${siteConfig.url}/og/default.svg`,
+      },
+    },
+    inLanguage:
+      input.locale === "zh" ? "zh-CN" : input.locale === "th" ? "th" : "en",
   };
 }
 

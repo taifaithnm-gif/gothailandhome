@@ -10,11 +10,14 @@ import {
 import { Button } from "@/components/ui/button";
 import { Field, FieldLabel, Input, Textarea } from "@/components/ui/field";
 import type { Locale } from "@/config/locales";
+import { trackGenerateLead, trackLeadIntentSubmit } from "@/lib/analytics";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 
 type ProjectLeadFormProps = {
   locale: Locale;
   projectId: string;
+  projectSlug: string;
+  projectTitle: string;
   dict: Dictionary;
 };
 
@@ -23,6 +26,8 @@ const initialState: LeadFormState = { ok: false, message: "" };
 export function ProjectLeadForm({
   locale,
   projectId,
+  projectSlug,
+  projectTitle,
   dict,
 }: ProjectLeadFormProps) {
   const searchParams = useSearchParams();
@@ -33,39 +38,21 @@ export function ProjectLeadForm({
 
   useEffect(() => {
     if (!state.ok) return;
-    if (typeof window === "undefined") return;
-    const w = window as Window & {
-      __gthAds?: { metaPixelId?: string; googleAdsId?: string };
-      fbq?: (...args: unknown[]) => void;
-      gtag?: (...args: unknown[]) => void;
-      dataLayer?: unknown[];
-    };
-    const ads = w.__gthAds;
-
-    w.fbq?.("track", "Lead", {
-      content_name: projectId,
-      pixel_placeholder: ads?.metaPixelId,
-    });
-    w.gtag?.("event", "conversion", {
-      send_to: `${ads?.googleAdsId || "AW-CONVERSION_ID_PLACEHOLDER"}/CONVERSION_LABEL_PLACEHOLDER`,
-      event_callback: () => undefined,
-    });
-    w.dataLayer = w.dataLayer || [];
-    w.dataLayer.push({
-      event: "generate_lead",
-      project_id: projectId,
-      locale,
-    });
-  }, [state.ok, projectId, locale]);
+    trackLeadIntentSubmit(locale, "project", "project");
+    trackGenerateLead(locale, projectSlug);
+  }, [state.ok, projectSlug, locale]);
 
   return (
     <form
       action={formAction}
       className="space-y-4 rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white p-6 shadow-[0_1px_0_rgba(6,61,56,0.04)] sm:p-8"
       data-ads-lead-form="project"
+      data-slot="project-lead-form"
     >
       <input type="hidden" name="locale" value={locale} />
       <input type="hidden" name="project_id" value={projectId} />
+      <input type="hidden" name="project_slug" value={projectSlug} />
+      <input type="hidden" name="project_title" value={projectTitle} />
       <input type="hidden" name="conversion_event" value="generate_lead" />
       <input
         type="hidden"
@@ -104,11 +91,20 @@ export function ProjectLeadForm({
       />
 
       <div>
-        <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
+        <h2
+          id="project-lead-heading"
+          className="font-heading text-2xl text-[var(--brand-deep)]"
+        >
           {dict.projectLanding.leadTitle}
         </h2>
         <p className="mt-2 text-sm text-stone-600">
           {dict.projectLanding.leadSubtitle}
+        </p>
+        <p
+          className="mt-2 text-xs text-stone-500"
+          data-slot="project-inquiry-context"
+        >
+          {dict.projectLanding.inquiryForProject}: {projectTitle}
         </p>
       </div>
 

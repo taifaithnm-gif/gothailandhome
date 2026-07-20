@@ -46,12 +46,24 @@ check("required section ids present", () => {
     assert.ok(src.includes(`id="${id}"`), id);
   }
   assert.ok(src.includes("developer-logo-placeholder"));
-  assert.ok(src.includes("hasVerifiedOfficialLogo"));
+  assert.ok(src.includes("getDeveloperLogoPresentation"));
   assert.ok(src.includes("PlatformCustomerSuccess"));
 });
 
-check("logo meta is official_remote with URL (or placeholder)", () => {
+/**
+ * Authoritative public logo.meta.json statuses:
+ * - placeholder: no official mark presented
+ * - official_remote: official URL only (legacy remote reference)
+ * - official_cached: official URL + local mirror with integrity checksum
+ *   (Phase 11 media factory vocabulary; does not weaken OFFICIAL evidence)
+ */
+check("logo meta status contract with evidence (or placeholder)", () => {
   const dir = join(root, "public/developers");
+  const allowed = new Set([
+    "placeholder",
+    "official_remote",
+    "official_cached",
+  ]);
   const metas = readdirSync(dir, { withFileTypes: true })
     .filter((d) => d.isDirectory())
     .map((d) => join(dir, d.name, "logo.meta.json"))
@@ -60,12 +72,34 @@ check("logo meta is official_remote with URL (or placeholder)", () => {
   for (const metaPath of metas) {
     const meta = JSON.parse(readFileSync(metaPath, "utf8"));
     const status = String(meta.status).toLowerCase();
+    assert.ok(
+      allowed.has(status),
+      `${metaPath}: unexpected status "${status}"`,
+    );
     if (status === "placeholder") continue;
-    assert.equal(status, "official_remote", metaPath);
+
     assert.ok(
       meta.official_logo_url && /^https?:\/\//.test(meta.official_logo_url),
-      metaPath,
+      `${metaPath}: official_logo_url required for ${status}`,
     );
+
+    if (status === "official_cached") {
+      assert.ok(
+        meta.cached_local_path &&
+          String(meta.cached_local_path).startsWith("/"),
+        `${metaPath}: cached_local_path required for official_cached`,
+      );
+      assert.ok(
+        typeof meta.checksum_sha256 === "string" &&
+          /^[a-f0-9]{64}$/i.test(meta.checksum_sha256),
+        `${metaPath}: checksum_sha256 required for official_cached`,
+      );
+      const cachedRel = String(meta.cached_local_path).replace(/^\//, "");
+      assert.ok(
+        existsSync(join(root, "public", cachedRel)),
+        `${metaPath}: missing cached file public/${cachedRel}`,
+      );
+    }
   }
 });
 
