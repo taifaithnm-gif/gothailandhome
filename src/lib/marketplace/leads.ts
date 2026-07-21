@@ -46,6 +46,8 @@ export type CreateMarketplaceLeadInput = {
   assignedTo?: string | null;
   status?: MarketplaceLeadStatus;
   reviewStatus?: MarketplaceReviewStatus;
+  /** Optional Phase 2 account linkage (ignored if column absent). */
+  customerUserId?: string | null;
 };
 
 export type CreateMarketplaceLeadResult =
@@ -91,6 +93,9 @@ export async function createMarketplaceLead(
     project_id: input.projectId ?? null,
     consent: true,
     consent_at: new Date().toISOString(),
+    ...(input.customerUserId
+      ? { customer_user_id: input.customerUserId }
+      : {}),
   });
 
   if (error) {

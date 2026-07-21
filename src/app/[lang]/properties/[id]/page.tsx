@@ -2,6 +2,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { PageShell } from "@/components/layout/page-shell";
+import { SimilarListingsRail } from "@/components/property/similar-listings-rail";
+import { isPhase2AiEnabled } from "@/lib/feature-flags";
 import { CompareButton } from "@/components/compare/compare-button";
 import { FavoriteButton } from "@/components/favorites/favorite-button";
 import { ListingContactCard } from "@/components/property/listing-contact-card";
@@ -209,12 +211,24 @@ export default async function PropertyDetailPage({
   const dict = await getDictionary(lang);
   const unknown = dict.property.unknown;
 
-  const [agent, project, similar] = await Promise.all([
+  const [agent, project, similar, recommendPool] = await Promise.all([
     property.agentId ? getAgentById(property.agentId) : Promise.resolve(null),
     property.projectSlug
       ? getPublishedProjectBySlug(property.projectSlug)
       : Promise.resolve(null),
     loadSimilar(property),
+    isPhase2AiEnabled()
+      ? listPublishedPropertiesPaged({
+          verifiedOnly: true,
+          page: 1,
+          pageSize: 24,
+          sort: "newest_verified",
+          listingType: property.listingType,
+          ...(property.districtSlug
+            ? { districtSlug: property.districtSlug }
+            : {}),
+        }).then((page) => page.items)
+      : Promise.resolve([] as PropertyView[]),
   ]);
 
   const galleryImages = property.media
@@ -743,6 +757,33 @@ export default async function PropertyDetailPage({
           imagePriorityCount={0}
         />
       </section>
+
+      {isPhase2AiEnabled() ? (
+        <SimilarListingsRail
+          locale={lang}
+          title={dict.tools.aiSimilarTitle}
+          seed={{
+            id: property.id,
+            slug: property.slug,
+            titleEn: property.title.en,
+            listingType: property.listingType,
+            propertyType: property.type,
+            priceThb: property.priceThb,
+            districtSlug: property.districtSlug,
+            bedrooms: property.bedrooms,
+          }}
+          pool={(recommendPool.length ? recommendPool : similar).map((item) => ({
+            id: item.id,
+            slug: item.slug,
+            titleEn: item.title.en,
+            listingType: item.listingType,
+            propertyType: item.type,
+            priceThb: item.priceThb,
+            districtSlug: item.districtSlug,
+            bedrooms: item.bedrooms,
+          }))}
+        />
+      ) : null}
     </PageShell>
   );
 }

@@ -137,40 +137,77 @@ export async function submitListYourPropertyLead(
   });
   if (!extras.ok) return fail(extras.code);
 
-  return finalizeLead("list_your_property", locale, () =>
-    createMarketplaceLead({
-      leadType: "list_property",
+  const payload = {
+    owner_or_authorized_agent: normalizeField(
+      formData.get("owner_or_authorized_agent"),
+    ),
+    project,
+    property_type: normalizeField(formData.get("property_type")),
+    sale_or_rent: normalizeField(formData.get("sale_or_rent")),
+    price,
+    bedrooms: normalizeField(formData.get("bedrooms")) || null,
+    bathrooms: normalizeField(formData.get("bathrooms")) || null,
+    area: normalizeField(formData.get("area")) || null,
+    floor: normalizeField(formData.get("floor")) || null,
+    furnishing: normalizeField(formData.get("furnishing")) || null,
+    availability: normalizeField(formData.get("availability")) || null,
+    authorization_confirmed: true,
+    auto_publish: false,
+    review_required: true,
+    notes: normalizeField(formData.get("notes")) || null,
+  };
+
+  const { isPhase2AcquisitionEnabled } = await import(
+    "@/lib/feature-flags"
+  );
+  const { createAcquisitionCase } = await import(
+    "@/lib/acquisition/service"
+  );
+
+  const reference = generateLeadReference(LEAD_CHANNEL_PREFIX.list_your_property);
+  const leadResult = await createMarketplaceLead({
+    leadType: "list_property",
+    locale,
+    source: "list_your_property_form",
+    name,
+    phone: phone || null,
+    email: email || null,
+    lineId: normalizeField(formData.get("line")) || null,
+    whatsapp: normalizeField(formData.get("whatsapp")) || null,
+    message: normalizeField(formData.get("notes")) || null,
+    consent: true,
+    status: "new",
+    reviewStatus: "pending_review",
+    payload,
+  });
+
+  let acquisitionCaseId: string | null = null;
+  if (isPhase2AcquisitionEnabled()) {
+    const acq = await createAcquisitionCase({
       locale,
       source: "list_your_property_form",
-      name,
-      phone: phone || null,
-      email: email || null,
-      lineId: normalizeField(formData.get("line")) || null,
-      whatsapp: normalizeField(formData.get("whatsapp")) || null,
-      message: normalizeField(formData.get("notes")) || null,
-      consent: true,
-      status: "new",
-      reviewStatus: "pending_review",
+      submitterName: name,
+      submitterEmail: email || null,
+      submitterPhone: phone || null,
       payload: {
-        owner_or_authorized_agent: normalizeField(
-          formData.get("owner_or_authorized_agent"),
-        ),
-        project,
-        property_type: normalizeField(formData.get("property_type")),
-        sale_or_rent: normalizeField(formData.get("sale_or_rent")),
-        price,
-        bedrooms: normalizeField(formData.get("bedrooms")) || null,
-        bathrooms: normalizeField(formData.get("bathrooms")) || null,
-        area: normalizeField(formData.get("area")) || null,
-        floor: normalizeField(formData.get("floor")) || null,
-        furnishing: normalizeField(formData.get("furnishing")) || null,
-        availability: normalizeField(formData.get("availability")) || null,
-        authorization_confirmed: true,
-        auto_publish: false,
-        review_required: true,
+        ...payload,
+        message: normalizeField(formData.get("notes")) || null,
       },
-    }),
+    });
+    if (acq.ok) acquisitionCaseId = acq.id;
+  }
+
+  const mode: LeadSubmitMode = leadResult.ok ? "stored" : "placeholder";
+  const successPath = buildLeadSuccessPath(
+    locale,
+    "list_your_property",
+    reference,
+    mode,
   );
+  if (acquisitionCaseId) {
+    redirect(`${successPath}&acquisition=${acquisitionCaseId}`);
+  }
+  redirect(successPath);
 }
 
 export async function submitDeveloperPartnershipLead(

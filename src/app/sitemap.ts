@@ -7,6 +7,10 @@ import { listPublishedDevelopers } from "@/lib/data/developers";
 import { listCities, listDistricts } from "@/lib/data/geography";
 import { listPublishedProjects } from "@/lib/data/projects";
 import { listPublishedPropertySlugsForSitemap } from "@/lib/data/properties";
+import {
+  isPhase2MapEnabled,
+  isPhase2ToolsEnabled,
+} from "@/lib/feature-flags";
 import { buildLocalizedPropertySitemapEntries } from "@/lib/seo/sitemap-inventory";
 
 /** Indexable static public routes — excludes drafts, leads, search, admin, compare (device-state). Favorites remains a public feature landing. */
@@ -56,8 +60,22 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     Promise.resolve(listBlogPosts()),
   ]);
 
+  const phase2Static: string[] = [];
+  if (isPhase2MapEnabled()) {
+    phase2Static.push("/map");
+  }
+  if (isPhase2ToolsEnabled()) {
+    phase2Static.push(
+      "/tools",
+      "/tools/mortgage",
+      "/tools/legal",
+      "/tools/investment-assist",
+    );
+  }
+  const allStatic = [...staticPaths, ...phase2Static];
+
   const pages = locales.flatMap((locale) =>
-    staticPaths.map((path) => ({
+    allStatic.map((path) => ({
       url: `${siteConfig.url}/${locale}${path}`,
       lastModified,
       changeFrequency: "weekly" as const,
@@ -101,6 +119,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     })),
   );
 
+  const mapDistrictPages = isPhase2MapEnabled()
+    ? locales.flatMap((locale) =>
+        districts.map((district) => ({
+          url: `${siteConfig.url}/${locale}/map/districts/${district.slug}`,
+          lastModified,
+          changeFrequency: "weekly" as const,
+          priority: 0.55,
+        })),
+      )
+    : [];
+
   const developerPages = locales.flatMap((locale) =>
     developers.map((developer) => ({
       url: `${siteConfig.url}/${locale}/developers/${developer.slug}`,
@@ -132,6 +161,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...blogPostPages,
     ...cityPages,
     ...districtPages,
+    ...mapDistrictPages,
     ...developerPages,
     ...projectPages,
     ...propertyPages,

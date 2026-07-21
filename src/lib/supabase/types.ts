@@ -323,6 +323,189 @@ export type MarketplaceLeadRow = {
   consent_at: string | null;
   created_at: string;
   updated_at: string;
+  status_changed_at?: string | null;
+  customer_user_id?: string | null;
+};
+
+export type CustomerProfileRow = {
+  user_id: string;
+  email: string | null;
+  display_name: string | null;
+  preferred_locale: string;
+  created_at: string;
+  updated_at: string;
+};
+
+export type CustomerSavedItemRow = {
+  id: string;
+  user_id: string;
+  kind: "favorite" | "compare";
+  property_id: string | null;
+  property_slug: string | null;
+  created_at: string;
+  updated_at: string;
+};
+
+export type CustomerSavedSearchRow = {
+  id: string;
+  user_id: string;
+  name: string;
+  locale: string;
+  filters: Record<string, unknown>;
+  alert_frequency: "off" | "instant" | "daily" | "weekly";
+  created_at: string;
+  updated_at: string;
+};
+
+export type CustomerNotificationPrefsRow = {
+  user_id: string;
+  email_enabled: boolean;
+  push_enabled: boolean;
+  quiet_hours_start: number | null;
+  quiet_hours_end: number | null;
+  saved_search_alerts: boolean;
+  lead_updates: boolean;
+  updated_at: string;
+};
+
+export type NotificationOutboxRow = {
+  id: string;
+  user_id: string | null;
+  email: string | null;
+  event_type: string;
+  payload: Record<string, unknown>;
+  status: "pending" | "sent" | "failed" | "dead";
+  attempts: number;
+  last_error: string | null;
+  created_at: string;
+  sent_at: string | null;
+};
+
+export type MarketplaceLeadEventRow = {
+  id: string;
+  lead_id: string;
+  actor_user_id: string | null;
+  event_type: string;
+  from_status: string | null;
+  to_status: string | null;
+  note: string | null;
+  created_at: string;
+};
+
+export type CrmSyncDeliveryRow = {
+  id: string;
+  lead_id: string | null;
+  direction: "outbound" | "inbound";
+  status: "pending" | "sent" | "failed" | "dead";
+  payload: Record<string, unknown>;
+  attempts: number;
+  last_error: string | null;
+  created_at: string;
+  sent_at: string | null;
+};
+
+export type AcquisitionCaseRow = {
+  id: string;
+  status: string;
+  locale: string;
+  source: string;
+  submitter_name: string | null;
+  submitter_email: string | null;
+  submitter_phone: string | null;
+  marketplace_lead_id: string | null;
+  customer_user_id: string | null;
+  linked_property_id: string | null;
+  payload: Record<string, unknown>;
+  evidence: Record<string, unknown>;
+  title_hint: string | null;
+  property_type: string | null;
+  listing_type: string | null;
+  price_text: string | null;
+  project_name: string | null;
+  bedrooms_text: string | null;
+  bathrooms_text: string | null;
+  area_text: string | null;
+  notes: string | null;
+  status_changed_at: string;
+  created_at: string;
+  updated_at: string;
+};
+
+export type AcquisitionEventRow = {
+  id: string;
+  case_id: string;
+  actor_user_id: string | null;
+  event_type: string;
+  from_status: string | null;
+  to_status: string | null;
+  note: string | null;
+  created_at: string;
+};
+
+export type PartnerOrgRow = {
+  id: string;
+  name: string;
+  slug: string;
+  kind: "developer" | "agency";
+  website: string | null;
+  lead_routing_email: string | null;
+  created_at: string;
+  updated_at: string;
+};
+
+export type PartnerMembershipRow = {
+  id: string;
+  org_id: string;
+  user_id: string;
+  role: "developer" | "agent";
+  status: "invited" | "active" | "suspended" | "revoked";
+  created_at: string;
+  updated_at: string;
+};
+
+export type PartnerInviteRow = {
+  id: string;
+  org_id: string;
+  email: string;
+  role: "developer" | "agent";
+  token_hash: string;
+  invited_by: string | null;
+  status: "pending" | "accepted" | "revoked" | "expired";
+  expires_at: string;
+  accepted_at: string | null;
+  created_at: string;
+};
+
+export type AgentStewardshipRow = {
+  id: string;
+  org_id: string;
+  user_id: string;
+  property_id: string | null;
+  property_slug: string | null;
+  notes: string | null;
+  created_at: string;
+  updated_at: string;
+};
+
+export type PartnerLeadHandoffRow = {
+  id: string;
+  org_id: string;
+  from_user_id: string | null;
+  to_user_id: string | null;
+  lead_id: string | null;
+  status: "pending" | "accepted" | "declined" | "completed";
+  viewing_notes: string | null;
+  created_at: string;
+  updated_at: string;
+};
+
+export type PartnerAuditEventRow = {
+  id: string;
+  org_id: string | null;
+  actor_user_id: string | null;
+  event_type: string;
+  payload: Record<string, unknown>;
+  created_at: string;
 };
 
 export type MarketplaceLeadActivityRow = {
@@ -455,6 +638,89 @@ export type Database = {
         Partial<MarketplaceLeadActivityRow> &
           Pick<MarketplaceLeadActivityRow, "lead_id" | "activity_type">,
         Partial<MarketplaceLeadActivityRow>
+      >;
+      customer_profiles: TableDef<
+        CustomerProfileRow,
+        Partial<CustomerProfileRow> & Pick<CustomerProfileRow, "user_id">,
+        Partial<CustomerProfileRow>
+      >;
+      customer_saved_items: TableDef<
+        CustomerSavedItemRow,
+        Partial<CustomerSavedItemRow> &
+          Pick<CustomerSavedItemRow, "user_id" | "kind">,
+        Partial<CustomerSavedItemRow>
+      >;
+      customer_saved_searches: TableDef<
+        CustomerSavedSearchRow,
+        Partial<CustomerSavedSearchRow> &
+          Pick<CustomerSavedSearchRow, "user_id" | "name">,
+        Partial<CustomerSavedSearchRow>
+      >;
+      customer_notification_prefs: TableDef<
+        CustomerNotificationPrefsRow,
+        Partial<CustomerNotificationPrefsRow> &
+          Pick<CustomerNotificationPrefsRow, "user_id">,
+        Partial<CustomerNotificationPrefsRow>
+      >;
+      notification_outbox: TableDef<
+        NotificationOutboxRow,
+        Partial<NotificationOutboxRow> & Pick<NotificationOutboxRow, "event_type">,
+        Partial<NotificationOutboxRow>
+      >;
+      marketplace_lead_events: TableDef<
+        MarketplaceLeadEventRow,
+        Partial<MarketplaceLeadEventRow> &
+          Pick<MarketplaceLeadEventRow, "lead_id" | "event_type">,
+        Partial<MarketplaceLeadEventRow>
+      >;
+      crm_sync_deliveries: TableDef<
+        CrmSyncDeliveryRow,
+        Partial<CrmSyncDeliveryRow> & Pick<CrmSyncDeliveryRow, "direction">,
+        Partial<CrmSyncDeliveryRow>
+      >;
+      acquisition_cases: TableDef<
+        AcquisitionCaseRow,
+        Partial<AcquisitionCaseRow> & Pick<AcquisitionCaseRow, "source">,
+        Partial<AcquisitionCaseRow>
+      >;
+      acquisition_events: TableDef<
+        AcquisitionEventRow,
+        Partial<AcquisitionEventRow> &
+          Pick<AcquisitionEventRow, "case_id" | "event_type">,
+        Partial<AcquisitionEventRow>
+      >;
+      partner_orgs: TableDef<
+        PartnerOrgRow,
+        Partial<PartnerOrgRow> & Pick<PartnerOrgRow, "name" | "slug">,
+        Partial<PartnerOrgRow>
+      >;
+      partner_memberships: TableDef<
+        PartnerMembershipRow,
+        Partial<PartnerMembershipRow> &
+          Pick<PartnerMembershipRow, "org_id" | "user_id" | "role">,
+        Partial<PartnerMembershipRow>
+      >;
+      partner_invites: TableDef<
+        PartnerInviteRow,
+        Partial<PartnerInviteRow> &
+          Pick<PartnerInviteRow, "org_id" | "email" | "role" | "token_hash" | "expires_at">,
+        Partial<PartnerInviteRow>
+      >;
+      agent_stewardships: TableDef<
+        AgentStewardshipRow,
+        Partial<AgentStewardshipRow> &
+          Pick<AgentStewardshipRow, "org_id" | "user_id">,
+        Partial<AgentStewardshipRow>
+      >;
+      partner_lead_handoffs: TableDef<
+        PartnerLeadHandoffRow,
+        Partial<PartnerLeadHandoffRow> & Pick<PartnerLeadHandoffRow, "org_id">,
+        Partial<PartnerLeadHandoffRow>
+      >;
+      partner_audit_events: TableDef<
+        PartnerAuditEventRow,
+        Partial<PartnerAuditEventRow> & Pick<PartnerAuditEventRow, "event_type">,
+        Partial<PartnerAuditEventRow>
       >;
     };
     Views: Record<string, never>;

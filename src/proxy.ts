@@ -34,6 +34,7 @@ export function proxy(request: NextRequest) {
     pathname.startsWith("/api") ||
     pathname.startsWith("/admin") ||
     pathname.startsWith("/auth") ||
+    pathname.startsWith("/partners/app") ||
     pathname.includes(".") ||
     pathname === "/robots.txt" ||
     pathname === "/sitemap.xml"
