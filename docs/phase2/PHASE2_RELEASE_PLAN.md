@@ -1,8 +1,10 @@
 # Phase 2 — Release Plan
 
-**Status:** Planning only
-**Baseline pin:** Git tag `v1.0.0`
+**Status:** Planning retained; **current release decision = FREEZE CURRENT PRODUCTION — NO CUTOVER**
+**Baseline pin:** Git tag `v1.0.0` (Phase 1); Production currently serves RC1 `0eca210` (flags OFF, no Phase 2 migrations)
 **Date:** 2026-07-21
+**Status refresh:** 2026-07-22
+**Phase 2 cutover:** **BLOCKED** until staging isolation and full validation complete
 
 ---
 

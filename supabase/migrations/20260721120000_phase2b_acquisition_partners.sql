@@ -139,25 +139,40 @@ alter table public.partner_lead_handoffs enable row level security;
 alter table public.partner_audit_events enable row level security;
 
 -- Public can insert acquisition cases (intake); reads limited
+drop policy if exists acquisition_cases_anon_insert
+  on public.acquisition_cases;
+
 create policy acquisition_cases_anon_insert
   on public.acquisition_cases for insert
   to anon, authenticated
   with check (true);
+
+drop policy if exists acquisition_cases_admin_all
+  on public.acquisition_cases;
 
 create policy acquisition_cases_admin_all
   on public.acquisition_cases for all
   using (public.is_admin())
   with check (public.is_admin());
 
+drop policy if exists acquisition_events_admin_all
+  on public.acquisition_events;
+
 create policy acquisition_events_admin_all
   on public.acquisition_events for all
   using (public.is_admin())
   with check (public.is_admin());
 
+drop policy if exists acquisition_evidence_admin_all
+  on public.acquisition_evidence_items;
+
 create policy acquisition_evidence_admin_all
   on public.acquisition_evidence_items for all
   using (public.is_admin())
   with check (public.is_admin());
+
+drop policy if exists partner_orgs_member_select
+  on public.partner_orgs;
 
 create policy partner_orgs_member_select
   on public.partner_orgs for select
@@ -170,6 +185,9 @@ create policy partner_orgs_member_select
         and m.status = 'active'
     )
   );
+
+drop policy if exists partner_orgs_member_update
+  on public.partner_orgs;
 
 create policy partner_orgs_member_update
   on public.partner_orgs for update
@@ -192,19 +210,31 @@ create policy partner_orgs_member_update
     )
   );
 
+drop policy if exists partner_memberships_self_select
+  on public.partner_memberships;
+
 create policy partner_memberships_self_select
   on public.partner_memberships for select
   using (public.is_admin() or user_id = auth.uid());
+
+drop policy if exists partner_memberships_admin_all
+  on public.partner_memberships;
 
 create policy partner_memberships_admin_all
   on public.partner_memberships for all
   using (public.is_admin())
   with check (public.is_admin());
 
+drop policy if exists partner_memberships_self_insert
+  on public.partner_memberships;
+
 create policy partner_memberships_self_insert
   on public.partner_memberships for insert
   to authenticated
   with check (user_id = auth.uid());
+
+drop policy if exists partner_memberships_self_update
+  on public.partner_memberships;
 
 create policy partner_memberships_self_update
   on public.partner_memberships for update
@@ -212,17 +242,26 @@ create policy partner_memberships_self_update
   using (user_id = auth.uid())
   with check (user_id = auth.uid());
 
+drop policy if exists partner_invites_accept_update
+  on public.partner_invites;
+
 create policy partner_invites_accept_update
   on public.partner_invites for update
   to authenticated
   using (status = 'pending' and lower(email) = lower(coalesce(auth.jwt() ->> 'email', '')))
   with check (status in ('pending', 'accepted'));
 
+drop policy if exists partner_invites_self_select
+  on public.partner_invites;
+
 create policy partner_invites_self_select
   on public.partner_invites for select
   to authenticated
   using (lower(email) = lower(coalesce(auth.jwt() ->> 'email', '')) or public.is_admin());
 
+
+drop policy if exists agent_stewardships_member_all
+  on public.agent_stewardships;
 
 create policy agent_stewardships_member_all
   on public.agent_stewardships for all
@@ -253,6 +292,9 @@ create policy agent_stewardships_member_all
     )
   );
 
+drop policy if exists partner_lead_handoffs_member_all
+  on public.partner_lead_handoffs;
+
 create policy partner_lead_handoffs_member_all
   on public.partner_lead_handoffs for all
   using (
@@ -274,10 +316,16 @@ create policy partner_lead_handoffs_member_all
     )
   );
 
+drop policy if exists partner_audit_admin_all
+  on public.partner_audit_events;
+
 create policy partner_audit_admin_all
   on public.partner_audit_events for all
   using (public.is_admin())
   with check (public.is_admin());
+
+drop policy if exists partner_audit_member_insert
+  on public.partner_audit_events;
 
 create policy partner_audit_member_insert
   on public.partner_audit_events for insert

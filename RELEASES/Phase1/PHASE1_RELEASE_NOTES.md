@@ -1,13 +1,13 @@
 # GoThailandHome — Phase 1 Release Notes
 
-**Product:** GoThailandHome  
-**Release train:** Phase 1 Business Website  
-**Official version:** `v1.0.0`  
-**Release date:** 2026-07-20  
-**Production URL:** https://www.gothailandhome.com  
-**Deployment ID:** `dpl_DfkmRL3SVzf1vwRedJhF1wVFqxg5`  
-**Production decision:** PRODUCTION GO  
-**Engineering RC:** GO WITH MINOR ISSUES (P0=0, P1=0)  
+**Product:** GoThailandHome
+**Release train:** Phase 1 Business Website
+**Official version:** `v1.0.0`
+**Release date:** 2026-07-20
+**Production URL:** https://www.gothailandhome.com
+**Deployment ID:** `dpl_DfkmRL3SVzf1vwRedJhF1wVFqxg5`
+**Production decision:** PRODUCTION GO
+**Engineering RC:** GO WITH MINOR ISSUES (P0=0, P1=0)
 **Locales:** English · 中文 · ไทย
 
 ---

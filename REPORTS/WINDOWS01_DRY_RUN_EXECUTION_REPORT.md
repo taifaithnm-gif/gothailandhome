@@ -1,0 +1,25 @@
+# WINDOWS01_DRY_RUN_EXECUTION_REPORT
+
+**Date:** 2026-07-24T12:36:33.233Z
+**OVERALL:** PASS
+
+| Gate | Result |
+| --- | --- |
+| IMPORT_ADAPTER | PASS |
+| SCHEMA_VALIDATION | PASS |
+| REVIEW_PIPELINE | PASS |
+| DRY_RUN_IMPORT | PASS |
+| DUPLICATE_DETECTION | PASS |
+| PRODUCTION_CHANGED | NO |
+| COMMIT | NOT_CREATED |
+| PUSH | NOT_EXECUTED |
+| DEPLOY | NOT_EXECUTED |
+
+## Source
+
+- Preferred: `/Volumes/AI_SHARE/RESULTS`
+- Fallback used: `mock`
+
+## NEXT_RECOMMENDED_ACTION
+
+等待 Windows01 输出真实 Discovery 数据后执行第一次真实 Dry Run Import。

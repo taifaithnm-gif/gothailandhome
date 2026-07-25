@@ -1,9 +1,9 @@
 # Production Acceptance Checklist
 
-**Product:** GoThailandHome Phase 1  
-**Version:** `v1.0.0-rc1` (pending Owner tag)  
-**Date:** 2026-07-20  
-**Environment:** ☐ Staging ☐ Production  
+**Product:** GoThailandHome Phase 1
+**Version:** `v1.0.0-rc1` (pending Owner tag)
+**Date:** 2026-07-20
+**Environment:** ☐ Staging ☐ Production
 
 Use after deploy (or on staging promotion). Mark each row Pass / Fail / N/A. Failures block GO unless Owner waives with reason.
 
@@ -96,7 +96,7 @@ Use after deploy (or on staging promotion). Mark each row Pass / Fail / N/A. Fai
 | **GO WITH WAIVERS** | Owner documents accepted P2/P3 only |
 | **NO-GO** | Any critical Fail without waiver |
 
-**Recorded decision:** ☐ GO ☐ GO WITH WAIVERS ☐ NO-GO  
+**Recorded decision:** ☐ GO ☐ GO WITH WAIVERS ☐ NO-GO
 
 **Signer:** __________________ **Date:** __________
 

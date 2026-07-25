@@ -1,8 +1,8 @@
 # Phase 1 Deployment Checklist
 
-**Product:** GoThailandHome Phase 1  
-**Version target:** `v1.0.0-rc1` (or Owner-approved `v1.0.0`)  
-**Date:** 2026-07-20  
+**Product:** GoThailandHome Phase 1
+**Version target:** `v1.0.0-rc1` (or Owner-approved `v1.0.0`)
+**Date:** 2026-07-20
 **Prerequisite:** Engineering RC = GO WITH MINOR ISSUES; quality gates PASS
 
 This checklist prepares production cutover. Completing this document does **not** by itself authorize deploy — Owner sign-off required on each gate.

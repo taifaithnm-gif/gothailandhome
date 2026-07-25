@@ -1,0 +1,73 @@
+name: CI
+
+on:
+  push:
+    branches: [main, release]
+  pull_request:
+    branches: [main, release]
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    name: typecheck-lint-test-build
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    env:
+      # Safe CI placeholders — staging-shaped, never production credentials.
+      APP_DEPLOY_ENV: preview
+      SUPABASE_PRODUCTION_PROJECT_REF: ciprodref0000001
+      SUPABASE_STAGING_PROJECT_REF: cistagingref0001
+      NEXT_PUBLIC_SUPABASE_URL: https://cistagingref0001.supabase.co
+      NEXT_PUBLIC_SUPABASE_ANON_KEY: ci-anon-placeholder-not-a-real-key
+      NEXT_PUBLIC_SITE_URL: https://example.test
+      # Intentionally unset: SUPABASE_SERVICE_ROLE_KEY, POSTGRES_URL, production secrets
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Unit / contract tests
+        run: npm test
+
+      - name: Production build (CI placeholders)
+        run: npm run build
+        env:
+          # Build as preview isolation target with staging placeholders
+          APP_DEPLOY_ENV: preview
+          VERCEL_ENV: preview
+
+      - name: Write test summary
+        if: always()
+        run: |
+          {
+            echo "## CI Summary"
+            echo "- Ref: \`${GITHUB_SHA}\`"
+            echo "- Deploy env markers: APP_DEPLOY_ENV=preview (placeholders only)"
+            echo "- Production deploy: NOT EXECUTED"
+            echo "- Production migration: NOT EXECUTED"
+            echo "- Service role key: NOT USED"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # Hard guarantees — no production deploy / migration steps exist in this workflow.

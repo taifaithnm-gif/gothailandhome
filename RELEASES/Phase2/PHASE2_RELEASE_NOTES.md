@@ -4,7 +4,12 @@
 **Baseline:** Phase 1 production `v1.0.0`
 **Package:** Phase 2 Engineering Release Candidate
 **Date:** 2026-07-21
-**Production deploy:** **NOT included** — Owner-gated after staging trains
+**Status refresh:** 2026-07-22
+**Production:** Running RC1 commit `0eca210` via **Vercel automatic Git deployment** (not an Owner-authorized Phase 2 cutover)
+**Flags:** All `FEATURE_P2_*` **OFF**
+**Migrations:** Phase 2 migrations **not applied**
+**Release decision:** **FREEZE CURRENT PRODUCTION — NO CUTOVER**
+**Phase 2 launch:** **BLOCKED** until staging isolation and full validation complete
 
 ---
 
@@ -80,4 +85,8 @@ Do not enable dependent flags before apply succeeds.
 
 ## Version tagging
 
-Owner decides Phase 2 version name at cutover (e.g. `v1.1.0`) — **not tagged in this RC package**.
+Owner decides Phase 2 version name at intentional cutover (e.g. `v1.1.0`) — **not tagged in this RC package**.
+
+## Current production posture (2026-07-22)
+
+Production serves RC1 `0eca210` with Phase 2 dormant (flags off, no migrations). Do not enable flags or apply Phase 2 migrations in Production while staging remains blocked.

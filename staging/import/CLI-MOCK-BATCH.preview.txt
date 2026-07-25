@@ -1,0 +1,28 @@
+=== Staging Import Preview Dashboard ===
+generatedAt: 2026-07-25T03:20:59.292Z
+totalRows: 8
+DRY RUN ONLY — no commit, no approval, no storage upload
+
+-- Totals --
+  WOULD_CREATE: 5
+  WOULD_UPDATE: 0
+  WOULD_REVIEW: 2
+  WOULD_REJECT: 0
+  WOULD_DUPLICATE: 0
+  WOULD_QUARANTINE: 0
+  WOULD_SKIP_DUPLICATE: 1
+
+-- By Entity --
+[developer]
+  WOULD_CREATE: 1
+  WOULD_REVIEW: 1
+[project]
+  WOULD_CREATE: 1
+  WOULD_REVIEW: 1
+[image]
+  WOULD_CREATE: 1
+  WOULD_SKIP_DUPLICATE: 1
+[pdf]
+  WOULD_CREATE: 1
+[news]
+  WOULD_CREATE: 1

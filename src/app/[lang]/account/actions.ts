@@ -13,6 +13,7 @@ import {
 import { parseSavedSearchFilters } from "@/lib/account/saved-search";
 import { getOptionalCustomer, isAdminUserId } from "@/lib/auth/customer";
 import { sanitizeNextPath } from "@/lib/auth/safe-next";
+import { resolvePublicSiteUrl } from "@/lib/env/site-url";
 import { isPhase2AccountEnabled } from "@/lib/feature-flags";
 import type { FavoriteRef } from "@/lib/favorites";
 import { createClient } from "@/lib/supabase/server";
@@ -77,7 +78,7 @@ export async function customerSignUp(
     email,
     password,
     options: {
-      emailRedirectTo: `${process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.gothailandhome.com"}/auth/callback?next=/${lang}/account`,
+      emailRedirectTo: `${resolvePublicSiteUrl()}/auth/callback?next=/${lang}/account`,
     },
   });
   if (error) return { error: error.message };

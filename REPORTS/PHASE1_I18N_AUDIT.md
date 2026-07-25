@@ -1,6 +1,6 @@
 # Phase 1 Internationalization Audit
 
-**Date:** 2026-07-20  
+**Date:** 2026-07-20
 **Locales:** `en`, `zh`, `th`
 
 ---

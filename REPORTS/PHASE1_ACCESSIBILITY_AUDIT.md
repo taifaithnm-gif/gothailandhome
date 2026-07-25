@@ -1,6 +1,6 @@
 # Phase 1 Accessibility Audit
 
-**Date:** 2026-07-20  
+**Date:** 2026-07-20
 **Evidence:** `test:accessibility`, `test:a11y-remediation`, route contracts
 
 ---

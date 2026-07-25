@@ -1,9 +1,12 @@
 # Phase 2 Release Readiness
 
 **Date:** 2026-07-21
-**Baseline:** Production `v1.0.0`
+**Status refresh:** 2026-07-22
+**Baseline:** Production previously `v1.0.0`; **current Production** = RC1 `0eca210` (Vercel auto Git deploy), flags OFF, no Phase 2 migrations
 **Engineering status:** RC GO WITH MINOR ISSUES (prior) + release hardening
-**Recommendation:** **GO WITH MINOR ISSUES**
+**Recommendation (engineering RC):** **GO WITH MINOR ISSUES**
+**Current release decision:** **FREEZE CURRENT PRODUCTION — NO CUTOVER**
+**Phase 2 cutover:** **BLOCKED** until staging isolation + full validation
 
 ---
 
@@ -53,10 +56,14 @@ Auth errors, acquisition rate, outbox depth, CRM failures, Vercel 5xx.
 
 ## Final recommendation
 
-# **GO WITH MINOR ISSUES**
+# **GO WITH MINOR ISSUES** (engineering RC)
 
-**Staging decision:** **READY FOR STAGING**
+**Staging decision:** **STAGING BLOCKED** (isolation incomplete)
 
-**Owner release decision:** **READY FOR OWNER RELEASE**
+**Owner release decision (cutover):** **NOT AUTHORIZED**
 
-Proceed to Owner staging apply + flag trains. Do not start Phase 3. Do not production-enable without staging smoke sign-off.
+**Current Production decision:** **FREEZE CURRENT PRODUCTION — NO CUTOVER**
+
+Production is running RC1 commit `0eca210` via Vercel automatic Git deployment. All `FEATURE_P2_*` remain **OFF**. No Phase 2 migrations have been applied. Phase 2 remains **BLOCKED** until staging isolation and full validation are completed. Do not start Phase 3. Do not production-enable flags without staging smoke sign-off.
+
+**Verification:** `REPORTS/PHASE2_PRODUCTION_DRIFT_VERIFICATION.md`

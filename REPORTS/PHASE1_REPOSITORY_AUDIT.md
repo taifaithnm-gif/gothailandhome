@@ -1,7 +1,7 @@
 # Phase 1 Repository Health Audit
 
-**Date:** 2026-07-20  
-**Scope:** Release Candidate — read-only verification + low-risk notes  
+**Date:** 2026-07-20
+**Scope:** Release Candidate — read-only verification + low-risk notes
 **Branch at audit:** `cursor/data-factory-master-plan`
 
 ---

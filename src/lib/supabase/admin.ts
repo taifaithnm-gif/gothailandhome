@@ -2,7 +2,8 @@ import "server-only";
 
 import { createClient as createSupabaseClient } from "@supabase/supabase-js";
 
-import { getSupabaseServiceRoleKey, getSupabaseUrl } from "@/lib/supabase/env";
+import { getSupabaseUrl } from "./public-env.ts";
+import { getSupabaseServiceRoleKey } from "./service-env.ts";
 import type { Database } from "@/lib/supabase/types";
 
 export function createServiceClient() {

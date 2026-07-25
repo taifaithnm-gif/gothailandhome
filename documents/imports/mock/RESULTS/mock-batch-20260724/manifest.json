@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "windows01.manifest.v0",
+  "batchId": "mock-batch-20260724",
+  "producedAt": "2026-07-24T12:00:00.000Z",
+  "sourceMachine": "windows01",
+  "workerVersion": "windows01-worker.0.1.0-mock",
+  "recordCount": 4,
+  "contentHash": "mockbatchhash00000001",
+  "evidencePaths": [
+    "evidence/r1-image.jpg",
+    "evidence/r1-brochure.pdf",
+    "evidence/r2-image.jpg",
+    "evidence/r2-news.html",
+    "evidence/r3-image.jpg",
+    "evidence/r3-brochure.pdf",
+    "evidence/r4-image.jpg"
+  ]
+}

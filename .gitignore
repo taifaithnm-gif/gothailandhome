@@ -39,6 +39,7 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 !.env.example
+!.env.*.example
 
 # vercel
 .vercel
@@ -47,6 +48,27 @@ yarn-error.log*
 /content/_runs/
 /content/_raw/
 
+# Windows01 local import workspace artifacts (keep README + mock fixtures)
+/staging/import/*.json
+/staging/quarantine/*.json
+/staging/archive/**
+!/staging/archive/README.md
+/logs/import/*.log.json
+/logs/import/*.json
+!/logs/import/README.md
+/documents/review/*.json
+!/documents/review/README.md
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local isolated import workspaces (never commit)
+.work/
+
+# Mock import evidence binaries (JSON/README may be tracked separately)
+/documents/imports/mock/RESULTS/**/*.pdf
+/documents/imports/mock/RESULTS/**/*.jpg
+/documents/imports/mock/RESULTS/**/*.jpeg
+/documents/imports/mock/RESULTS/**/*.png
+/documents/imports/mock/RESULTS/**/*.html

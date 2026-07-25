@@ -1,0 +1,28 @@
+# CODEOWNERS (draft)
+#
+# Owner must replace placeholders with real GitHub usernames or team handles.
+# Do NOT invent usernames. Leave commented until filled.
+#
+# After filling, enable "Require review from Code Owners" on protected branches.
+# See docs/operations/GITHUB_BRANCH_PROTECTION_CHECKLIST.md
+#
+# Syntax reference: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for the repository
+# * @OWNER_GITHUB_USERNAME
+
+# Operations / release policy docs
+# /docs/operations/ @OWNER_GITHUB_USERNAME
+
+# Integrations contracts
+# /docs/integrations/ @OWNER_GITHUB_USERNAME
+# /src/lib/integrations/ @OWNER_GITHUB_USERNAME
+
+# Supabase migrations (schema changes)
+# /supabase/migrations/ @OWNER_GITHUB_USERNAME
+
+# CI / GitHub config
+# /.github/ @OWNER_GITHUB_USERNAME
+
+# Environment examples (no secrets should be committed)
+# /.env.example @OWNER_GITHUB_USERNAME

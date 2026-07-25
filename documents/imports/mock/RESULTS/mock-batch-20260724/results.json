@@ -1,0 +1,92 @@
+{
+  "records": [
+    {
+      "schemaVersion": "windows01.results.v0",
+      "recordId": "mock-rec-001",
+      "sourceUrl": "https://example.com/projects/ashton-silom",
+      "contentHash": "mockcontenthash000001",
+      "timestamp": "2026-07-24T11:00:00.000Z",
+      "workerState": "EXTRACTED",
+      "evidenceRefs": ["evidence/r1-image.jpg", "evidence/r1-brochure.pdf"],
+      "evidence": {
+        "image": "evidence/r1-image.jpg",
+        "pdf": "evidence/r1-brochure.pdf",
+        "imageHash": "mockimghash0000000001",
+        "pdfHash": "mockpdfhash0000000001",
+        "newsUrl": "https://example.com/news/ashton-silom-launch"
+      },
+      "entityHints": {
+        "developer": "Ananda Development",
+        "project_name": "Ashton Silom",
+        "province": "Bangkok"
+      },
+      "payload": {
+        "developer": "Ananda Development",
+        "project_name": "Ashton Silom",
+        "province": "Bangkok",
+        "title": "Ashton Silom discovery mock"
+      }
+    },
+    {
+      "schemaVersion": "windows01.results.v0",
+      "recordId": "mock-rec-002",
+      "sourceUrl": "https://example.com/projects/the-line-phahonyothin-park",
+      "contentHash": "mockcontenthash000002",
+      "timestamp": "2026-07-24T11:05:00.000Z",
+      "workerState": "EXTRACTED",
+      "evidenceRefs": ["evidence/r2-image.jpg", "evidence/r2-news.html"],
+      "evidence": {
+        "image": "evidence/r2-image.jpg",
+        "news": "evidence/r2-news.html",
+        "imageHash": "mockimghash0000000002",
+        "newsUrl": "https://example.com/news/the-line-park"
+      },
+      "payload": {
+        "developer": "Sansiri",
+        "project_name": "THE LINE Phahonyothin Park",
+        "province": "Bangkok",
+        "title": "THE LINE mock discovery"
+      }
+    },
+    {
+      "schemaVersion": "windows01.results.v0",
+      "recordId": "mock-rec-003",
+      "sourceUrl": "https://example.com/projects/noble-around-ari",
+      "contentHash": "mockcontenthash000003",
+      "timestamp": "2026-07-24T11:10:00.000Z",
+      "workerState": "EXTRACTED",
+      "evidenceRefs": ["evidence/r3-image.jpg", "evidence/r3-brochure.pdf"],
+      "evidence": {
+        "image": "evidence/r3-image.jpg",
+        "pdf": "evidence/r3-brochure.pdf",
+        "imageHash": "mockimghash0000000003",
+        "pdfHash": "mockpdfhash0000000003"
+      },
+      "payload": {
+        "developer": "Noble Development",
+        "project_name": "Noble Around Ari",
+        "province": "Bangkok",
+        "title": "Noble Around Ari mock"
+      }
+    },
+    {
+      "schemaVersion": "windows01.results.v0",
+      "recordId": "mock-rec-001-dup",
+      "sourceUrl": "https://example.com/projects/ashton-silom",
+      "contentHash": "mockcontenthash000099",
+      "timestamp": "2026-07-24T11:15:00.000Z",
+      "workerState": "EXTRACTED",
+      "evidenceRefs": ["evidence/r4-image.jpg"],
+      "evidence": {
+        "image": "evidence/r4-image.jpg",
+        "imageHash": "mockimghash0000000099"
+      },
+      "payload": {
+        "developer": "Ananda Development",
+        "project_name": "Ashton Silom Alt",
+        "province": "Bangkok",
+        "title": "Duplicate source_url should be skipped"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "architectureLayers": [
+    "windows01-contract",
+    "goth-batch-adapter",
+    "staging-import-core",
+    "review-console",
+    "staging-db-design"
+  ],
+  "automationCeiling": "READY_FOR_APPROVAL",
+  "baseCommit": "0eca210a72a559a1ce0291f16d72120e401d91a3",
+  "batch001Regression": {
+    "conflicts": 1,
+    "developers": 5,
+    "generatedReviewCandidates": 63,
+    "images": 9,
+    "news": 10,
+    "pdfs": 5,
+    "projects": 10,
+    "readyForApproval": 14,
+    "simulatedInserts": 39
+  },
+  "batchContractVersion": "BATCH_CONTRACT_V1",
+  "batchManifestSchema": "goth_batch_manifest.v1",
+  "branch": "main",
+  "build": "PASS",
+  "commitOperations": [
+    "WOULD_INSERT",
+    "WOULD_UPDATE",
+    "WOULD_SKIP",
+    "WOULD_LINK",
+    "WOULD_CREATE_REVIEW",
+    "WOULD_CREATE_AUDIT",
+    "WOULD_PLAN_STORAGE",
+    "WOULD_SOFT_DELETE_ON_ROLLBACK"
+  ],
+  "coreTypes": [
+    "ImportBatch",
+    "ReviewState",
+    "PreviewAction",
+    "ImportSessionPhase",
+    "ImportSessionStatus",
+    "CommitOperation",
+    "StorageAction"
+  ],
+  "createdAt": "2026-07-25T03:20:38Z",
+  "databaseWrites": 0,
+  "deferredWork": [
+    "STAGING_DB_COMMIT_IMPLEMENTATION",
+    "Physical staging RLS verification",
+    "Storage upload implementation"
+  ],
+  "errorCodePrefixes": [
+    "GTH_CONTRACT_",
+    "GTH_ZIP_",
+    "GTH_ADAPTER_",
+    "GTH_IMPORT_",
+    "GTH_REVIEW_",
+    "GTH_DB_",
+    "GTH_STORAGE_",
+    "GTH_SECURITY_"
+  ],
+  "freezeCommitReferenceMode": "git-tag-authoritative",
+  "freezeVersion": "1.0.0",
+  "frozenCommit": "RESOLVED_BY_TAG",
+  "futureManualStates": [
+    "APPROVED",
+    "READY_FOR_PRODUCTION",
+    "PUBLISHED"
+  ],
+  "knownLimitations": [
+    "No isolated Staging Supabase provisioned",
+    "RLS design only \u2014 not validated against live staging",
+    "Batch001 project 36936 PROVINCE_NAME_CONFLICT requires human review",
+    "Real staging DB commit remains STAGING_COMMIT_DISABLED"
+  ],
+  "lint": "PASS",
+  "localTag": "staging-architecture-v1",
+  "milestone": "ARCHITECTURE_FREEZE_V1",
+  "nextMilestone": "STAGING_DB_COMMIT_IMPLEMENTATION",
+  "previewActions": [
+    "WOULD_CREATE",
+    "WOULD_UPDATE",
+    "WOULD_REVIEW",
+    "WOULD_REJECT",
+    "WOULD_DUPLICATE",
+    "WOULD_QUARANTINE",
+    "WOULD_SKIP_DUPLICATE"
+  ],
+  "productionConnection": false,
+  "productionFrozen": true,
+  "publicEntryPoints": [
+    "src/lib/integrations/windows01/index.ts",
+    "src/lib/staging-import/index.ts",
+    "src/lib/staging-import/adapters/index.ts",
+    "src/lib/staging-db/index.ts",
+    "src/lib/review-console/index.ts"
+  ],
+  "repository": "GoThailandHome",
+  "reviewStates": [
+    "RECEIVED",
+    "VALIDATED",
+    "REVIEW_REQUIRED",
+    "CONFLICT",
+    "DUPLICATE",
+    "READY_FOR_APPROVAL",
+    "REJECTED",
+    "QUARANTINED"
+  ],
+  "storageActions": [
+    "WOULD_UPLOAD",
+    "WOULD_SKIP_DUPLICATE",
+    "WOULD_QUARANTINE",
+    "WOULD_REVIEW"
+  ],
+  "storageUploads": 0,
+  "testCommands": [
+    "test:staging-import",
+    "test:goth-batch-adapter",
+    "test:staging-db-design",
+    "test:architecture-freeze"
+  ],
+  "testResults": {
+    "architectureFreeze": "35/35",
+    "gothBatchAdapter": "63/63",
+    "specializedTotal": "302/302",
+    "stagingDbDesign": "93/93",
+    "stagingImport": "111/111"
+  },
+  "typecheck": "PASS"
+}

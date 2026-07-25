@@ -1,6 +1,6 @@
 # Phase 1 Performance Audit
 
-**Date:** 2026-07-20  
+**Date:** 2026-07-20
 **Evidence:** `test:performance-budget`, production `next build` artifact sizes
 
 ---

@@ -1,32 +1,35 @@
 # Phase 2 Preparation Report
 
-**Date:** 2026-07-20  
-**Status:** Preparation only — **Phase 2 not started**
+**Date:** 2026-07-22 (status refresh)
+**Original prep date:** 2026-07-20
+**Status:** Phase 2 engineering RC packaged — **cutover BLOCKED**; Production frozen on RC1 flags-off
 
-## Prerequisites before Phase 2
+## Verified current release state
 
-1. Owner human review of Phase 1 RC (**GO** engineering decision recorded)
-2. Owner decision on commit / push of Phase 1 working tree
-3. Explicit Phase 2 scope document approved (not created by this Phase 1 close)
-4. Reconfirm Windows01 / Content Factory remain out of website Phase 1 boundary unless separately authorized
-
-## Suggested Phase 2 candidate themes (non-binding)
-
-These are **not** authorized work; listed for Owner planning only:
-
-| Theme | Notes |
+| Item | Status |
 | --- | --- |
-| Production deploy certification | CDN, DNS, Search Console — separate runbook |
-| CRM / email lead automation | Beyond marketplace placeholder storage |
-| Paid media go-live | Real Meta/Google Ads IDs under consent policy |
-| Media/LCP hardening | Reduce honest-empty image gaps |
-| Package/DB sync ops | Resolve listing count drift |
-| Content Factory / Windows01 | Explicitly separate system — do not mix without gate |
+| Production | Running RC1 commit `0eca210` via **Vercel automatic Git deployment** (`main` → Production) |
+| Deployment ID (verified) | `dpl_F7Bb9TGQ94ZVtU1mLYq7UtQ9nji7` — see `REPORTS/PHASE2_PRODUCTION_DRIFT_VERIFICATION.md` |
+| `FEATURE_P2_*` / `NEXT_PUBLIC_FEATURE_P2_*` | **Remain OFF** (unset → default false) |
+| Phase 2 migrations | **Not applied** |
+| Staging isolation / T1–T10 validation | **Incomplete** — STAGING BLOCKED |
+| Release decision | **FREEZE CURRENT PRODUCTION — NO CUTOVER** |
+| Phase 2 product launch | **BLOCKED** until staging isolation and full validation complete |
+
+## Prerequisites before intentional Phase 2 cutover
+
+1. Isolated staging database (separate from production)
+2. Vercel Preview/Staging env wired to staging DB; all `FEATURE_P2_*` default false
+3. Staging smoke access (Deployment Protection bypass or Owner-authenticated)
+4. Apply Phase 2 additive migrations to **staging only**, then T1–T10 flag trains with smoke
+5. Owner approval for any production flag enablement or production migration (none authorized now)
 
 ## Hard stop
 
-Do **not** begin Phase 2 implementation from this report. Wait for Owner Phase 2 authorization and scope freeze.
+Do **not** enable Phase 2 flags in Production. Do **not** apply Phase 2 migrations to Production. Do **not** proceed with Phase 2 cutover while staging isolation remains incomplete.
 
-## Relationship to Phase 1
+## Relationship to Phase 1 / RC1
 
-Phase 1 website business features are engineering-complete. Phase 2 is a new planning cycle.
+Phase 1 website business features remain the live user-facing behavior. RC1 source is on Production but Phase 2 surfaces are dormant (flags off, no migrations). Behavioral posture is Phase 1–equivalent until an Owner-authorized cutover after staging validation.
+
+**Authoritative verification:** `REPORTS/PHASE2_PRODUCTION_DRIFT_VERIFICATION.md`

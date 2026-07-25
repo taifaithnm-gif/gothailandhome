@@ -116,11 +116,17 @@ alter table public.notification_outbox enable row level security;
 alter table public.marketplace_lead_events enable row level security;
 alter table public.crm_sync_deliveries enable row level security;
 
+drop policy if exists customer_profiles_own
+  on public.customer_profiles;
+
 create policy customer_profiles_own
   on public.customer_profiles
   for all
   using (auth.uid() = user_id)
   with check (auth.uid() = user_id);
+
+drop policy if exists customer_saved_items_own
+  on public.customer_saved_items;
 
 create policy customer_saved_items_own
   on public.customer_saved_items
@@ -128,11 +134,17 @@ create policy customer_saved_items_own
   using (auth.uid() = user_id)
   with check (auth.uid() = user_id);
 
+drop policy if exists customer_saved_searches_own
+  on public.customer_saved_searches;
+
 create policy customer_saved_searches_own
   on public.customer_saved_searches
   for all
   using (auth.uid() = user_id)
   with check (auth.uid() = user_id);
+
+drop policy if exists customer_notification_prefs_own
+  on public.customer_notification_prefs;
 
 create policy customer_notification_prefs_own
   on public.customer_notification_prefs
@@ -140,10 +152,16 @@ create policy customer_notification_prefs_own
   using (auth.uid() = user_id)
   with check (auth.uid() = user_id);
 
+drop policy if exists notification_outbox_own_select
+  on public.notification_outbox;
+
 create policy notification_outbox_own_select
   on public.notification_outbox
   for select
   using (auth.uid() = user_id);
+
+drop policy if exists notification_outbox_admin_all
+  on public.notification_outbox;
 
 create policy notification_outbox_admin_all
   on public.notification_outbox
@@ -151,11 +169,17 @@ create policy notification_outbox_admin_all
   using (public.is_admin())
   with check (public.is_admin());
 
+drop policy if exists marketplace_lead_events_admin_all
+  on public.marketplace_lead_events;
+
 create policy marketplace_lead_events_admin_all
   on public.marketplace_lead_events
   for all
   using (public.is_admin())
   with check (public.is_admin());
+
+drop policy if exists crm_sync_deliveries_admin_all
+  on public.crm_sync_deliveries;
 
 create policy crm_sync_deliveries_admin_all
   on public.crm_sync_deliveries

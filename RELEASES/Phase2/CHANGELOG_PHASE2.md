@@ -33,8 +33,11 @@ All notable Phase 2 changes relative to Phase 1 `v1.0.0`.
 ### Known
 - Optional tasks P2-090–P2-094 deferred
 - L1/L2 vector recommendations deferred
-- Production flag enablement and version tag are Owner decisions
+- Production currently serves RC1 `0eca210` via Vercel automatic Git deploy with all `FEATURE_P2_*` OFF and no Phase 2 migrations applied
+- Release decision: **FREEZE CURRENT PRODUCTION — NO CUTOVER**; Phase 2 cutover **BLOCKED** until staging isolation + full validation
+- Intentional Production flag enablement and version tag remain Owner decisions after staging sign-off
 
 ### Migration
 - `20260721100000_phase2a_customer_ops.sql`
 - `20260721120000_phase2b_acquisition_partners.sql`
+- **Status:** present in repo; **not applied** to Production (or staging)

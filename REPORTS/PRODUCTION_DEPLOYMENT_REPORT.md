@@ -1,10 +1,10 @@
 # Production Deployment Report
 
-**Date:** 2026-07-20  
-**Product:** GoThailandHome Phase 1  
-**Official version:** `v1.0.0`  
-**Prior RC train:** `v1.0.0-rc1` (promoted after PRODUCTION GO)  
-**Operator:** Engineering agent via existing Vercel linked project workflow  
+**Date:** 2026-07-20
+**Product:** GoThailandHome Phase 1
+**Official version:** `v1.0.0`
+**Prior RC train:** `v1.0.0-rc1` (promoted after PRODUCTION GO)
+**Operator:** Engineering agent via existing Vercel linked project workflow
 **Command:** `npx vercel --prod --yes` (no Vercel config / env / build / routing changes)
 
 ---
@@ -88,6 +88,6 @@ Historical note: `G_RELEASE_DEPLOYMENT_POLICY.md` stated Phase 1 does not author
 
 ## Recommendation
 
-1. **PRODUCTION GO** recorded — see `REPORTS/PHASE1_PRODUCTION_ACCEPTANCE_REPORT.md`.  
-2. Official release tag **`v1.0.0`** on synchronized `main`.  
+1. **PRODUCTION GO** recorded — see `REPORTS/PHASE1_PRODUCTION_ACCEPTANCE_REPORT.md`.
+2. Official release tag **`v1.0.0`** on synchronized `main`.
 3. Do **not** start Phase 2 from this deploy.

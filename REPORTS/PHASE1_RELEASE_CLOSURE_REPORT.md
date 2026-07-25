@@ -1,8 +1,8 @@
 # Phase 1 Release Closure Report
 
-**Date:** 2026-07-20  
-**Product:** GoThailandHome  
-**Official version:** `v1.0.0`  
+**Date:** 2026-07-20
+**Product:** GoThailandHome
+**Official version:** `v1.0.0`
 **Final decision:** **PHASE 1 RELEASED**
 
 ---

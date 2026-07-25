@@ -1,24 +1,13 @@
-export function getSupabaseUrl() {
-  return process.env.NEXT_PUBLIC_SUPABASE_URL || process.env.SUPABASE_URL || "";
-}
+/**
+ * Compatibility re-exports.
+ * Prefer importing from public-env / service-env directly.
+ * Service-role getter is intentionally NOT re-exported here so browser
+ * modules that import this file cannot pull the server-only graph.
+ */
 
-export function getSupabaseAnonKey() {
-  return (
-    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ||
-    process.env.SUPABASE_ANON_KEY ||
-    process.env.SUPABASE_PUBLISHABLE_KEY ||
-    ""
-  );
-}
-
-export function getSupabaseServiceRoleKey() {
-  return (
-    process.env.SUPABASE_SERVICE_ROLE_KEY ||
-    process.env.SUPABASE_SECRET_KEY ||
-    ""
-  );
-}
-
-export function hasSupabaseEnv() {
-  return Boolean(getSupabaseUrl() && getSupabaseAnonKey());
-}
+export {
+  getSupabaseAnonKey,
+  getSupabaseUrl,
+  hasSupabaseEnv,
+  requireSupabasePublicEnv,
+} from "./public-env.ts";

@@ -84,9 +84,13 @@
 
 ## 13. Decision
 
-# **READY FOR RELEASE CANDIDATE**
+# **READY FOR RELEASE CANDIDATE** (engineering package — historical)
 
-# **READY FOR OWNER RELEASE**
+# **FREEZE CURRENT PRODUCTION — NO CUTOVER** (current — 2026-07-22)
 
-Owner next: commit/review → staging migrate → flag trains → decide production version tag.
-**No production deploy from this package. No Phase 3.**
+Production is running RC1 commit `0eca210` via Vercel automatic Git deployment. All `FEATURE_P2_*` remain **OFF**. No Phase 2 migrations have been applied. Intentional Phase 2 cutover is **NOT AUTHORIZED**. Phase 2 remains **BLOCKED** until staging isolation and full validation complete.
+
+Owner next: staging isolation → migrate staging → flag trains → smoke → then decide production enablement / version tag.
+**No Phase 2 flag enablement or Phase 2 migrations in Production. No Phase 3.**
+
+**Verification:** `REPORTS/PHASE2_PRODUCTION_DRIFT_VERIFICATION.md`

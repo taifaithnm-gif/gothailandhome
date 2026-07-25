@@ -1,10 +1,10 @@
 # Phase 1 Production Acceptance Report
 
-**Date:** 2026-07-20  
-**Product:** GoThailandHome  
-**Official version:** `v1.0.0`  
-**Production URL:** https://www.gothailandhome.com  
-**Deployment ID:** `dpl_DfkmRL3SVzf1vwRedJhF1wVFqxg5`  
+**Date:** 2026-07-20
+**Product:** GoThailandHome
+**Official version:** `v1.0.0`
+**Production URL:** https://www.gothailandhome.com
+**Deployment ID:** `dpl_DfkmRL3SVzf1vwRedJhF1wVFqxg5`
 **Release date:** 2026-07-20
 
 ---

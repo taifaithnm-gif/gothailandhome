@@ -71,3 +71,24 @@ export function isPhase2AiEnabled(): boolean {
 export function isPhase2AnalyticsExpansionEnabled(): boolean {
   return getPhase2FeatureFlags().analyticsExpansion;
 }
+
+/** Local Goth Human Review Console — default OFF; blocked in production. */
+export function isGothReviewConsoleEnabled(): boolean {
+  const raw = process.env.FEATURE_GOTH_REVIEW_CONSOLE;
+  if (raw == null || raw === "") return false;
+  const normalized = raw.trim().toLowerCase();
+  const on =
+    normalized === "1" ||
+    normalized === "true" ||
+    normalized === "yes" ||
+    normalized === "on";
+  if (!on) return false;
+  const deploy = (process.env.APP_DEPLOY_ENV || "").trim().toLowerCase();
+  if (deploy === "production" || process.env.VERCEL_ENV === "production") {
+    return false;
+  }
+  if (process.env.NODE_ENV === "production" && deploy !== "development") {
+    return false;
+  }
+  return true;
+}

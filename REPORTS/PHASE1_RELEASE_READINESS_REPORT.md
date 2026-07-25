@@ -1,8 +1,8 @@
 # Phase 1 Release Readiness Report
 
-**Date:** 2026-07-20  
-**Product:** GoThailandHome Phase 1 website  
-**Audit type:** Release Candidate (engineering)  
+**Date:** 2026-07-20
+**Product:** GoThailandHome Phase 1 website
+**Audit type:** Release Candidate (engineering)
 **Decision authority:** Engineering RC audit (superseded by production release)
 
 ---
@@ -81,10 +81,10 @@ Report: `REPORTS/PHASE1_PERFORMANCE_AUDIT.md`
 
 ## 7. Low-risk fixes applied during audit
 
-1. `robots.ts` — disallow `/leads` paths  
-2. `sitemap.ts` — clarify favorites vs compare state policy in comment  
-3. Localized primary nav landmark (`en`/`zh`/`th` + header)  
-4. Contract tests updated for robots list + localized primary nav  
+1. `robots.ts` — disallow `/leads` paths
+2. `sitemap.ts` — clarify favorites vs compare state policy in comment
+3. Localized primary nav landmark (`en`/`zh`/`th` + header)
+4. Contract tests updated for robots list + localized primary nav
 
 No redesign, no business-logic change, no data-contract change, no Phase 2.
 
@@ -114,10 +114,10 @@ No redesign, no business-logic change, no data-contract change, no Phase 2.
 
 ## 9. Explicit non-claims
 
-- No production deploy  
-- No git commit / push / merge performed by this task  
-- No Windows01 / OCR / embeddings / live property source / automation runtime  
-- Phase 2 not started  
+- No production deploy
+- No git commit / push / merge performed by this task
+- No Windows01 / OCR / embeddings / live property source / automation runtime
+- Phase 2 not started
 
 ## 10. Audit artifacts
 
