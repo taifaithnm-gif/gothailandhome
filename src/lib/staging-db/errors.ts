@@ -110,3 +110,23 @@ export class SchemaValidationError extends StagingDbError {
     this.name = "SchemaValidationError";
   }
 }
+
+export class ReviewVersionConflictError extends StagingDbError {
+  constructor(candidateId: string, expected: number, actual: number) {
+    super(
+      "GTH_REVIEW_VERSION_CONFLICT",
+      `Review version conflict for ${candidateId}: expected ${expected}, actual ${actual}`,
+      { candidateId, expected, actual },
+    );
+    this.name = "ReviewVersionConflictError";
+  }
+}
+
+export class StagingNotProvisionedError extends StagingDbError {
+  constructor(
+    message = "SKIPPED_EXTERNAL_ENVIRONMENT_NOT_PROVISIONED",
+  ) {
+    super("STAGING_NOT_PROVISIONED", message);
+    this.name = "StagingNotProvisionedError";
+  }
+}

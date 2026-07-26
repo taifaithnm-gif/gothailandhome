@@ -72,3 +72,10 @@ next-env.d.ts
 /documents/imports/mock/RESULTS/**/*.jpeg
 /documents/imports/mock/RESULTS/**/*.png
 /documents/imports/mock/RESULTS/**/*.html
+
+# Staging secrets (never commit)
+.env.staging.local
+.env*.local
+
+# Supabase CLI local temp (link markers)
+/supabase/.temp/

@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "commit-payload-phase2.schema.json",
+  "title": "commit_staging_import_v1 Phase2 Commit Artifact",
+  "description": "RPC-compatible Phase2 commit payload. Field names match commit_staging_import_v1 Phase2 SQL. generatedAt must NOT appear in the hashed body.",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "contract_version",
+    "import_session_id",
+    "source_batch_id",
+    "source_job_id",
+    "source_schema_version",
+    "idempotency_key",
+    "content_hash",
+    "sealed_zip_sha256",
+    "source_sealed_digest",
+    "developers",
+    "projects",
+    "assets",
+    "pdfs",
+    "news",
+    "review_items",
+    "conflicts",
+    "counts",
+    "production_allowed",
+    "storage_upload_enabled"
+  ],
+  "properties": {
+    "contract_version": { "const": "commit_staging_import_v1.phase2" },
+    "import_session_id": {
+      "type": "string",
+      "pattern": "^sess_p2_[a-f0-9]{24}$",
+      "description": "ARTIFACT_DEFINED Phase2 session id — must not collide with V1 sess_* row"
+    },
+    "source_batch_id": { "type": "string" },
+    "source_job_id": { "type": "string" },
+    "source_schema_version": { "const": "goth_batch_manifest.v1" },
+    "idempotency_key": { "type": "string", "minLength": 64, "maxLength": 64 },
+    "content_hash": { "type": "string", "minLength": 64, "maxLength": 64 },
+    "created_by": { "type": "string" },
+    "sealed_zip_sha256": {
+      "type": "string",
+      "minLength": 64,
+      "maxLength": 64,
+      "description": "SOURCE_BATCH_SEALED_DIGEST — never overwritten by artifact hash"
+    },
+    "source_sealed_digest": { "type": "string", "minLength": 64, "maxLength": 64 },
+    "counts": {
+      "type": "object",
+      "required": ["developers", "projects", "images", "pdfs", "news", "review_items", "conflicts"],
+      "properties": {
+        "developers": { "type": "integer" },
+        "projects": { "type": "integer" },
+        "images": { "type": "integer" },
+        "pdfs": { "type": "integer" },
+        "news": { "type": "integer" },
+        "review_items": { "type": "integer" },
+        "duplicates": { "type": "integer" },
+        "conflicts": { "type": "integer" }
+      }
+    },
+    "entity_counts": { "type": "object" },
+    "developers": { "type": "array", "items": { "type": "object" } },
+    "projects": { "type": "array", "items": { "type": "object" } },
+    "assets": { "type": "array", "items": { "type": "object" } },
+    "pdfs": { "type": "array", "items": { "type": "object" } },
+    "news": { "type": "array", "items": { "type": "object" } },
+    "review_items": { "type": "array", "items": { "type": "object" } },
+    "conflicts": { "type": "array", "items": { "type": "object" } },
+    "duplicates": { "type": "array", "items": { "type": "object" } },
+    "blockers": { "type": "array", "items": { "type": "string" } },
+    "warnings": { "type": "array", "items": { "type": "string" } },
+    "storage_status_default": { "const": "PLANNED" },
+    "storage_upload_enabled": { "const": false },
+    "production_allowed": { "const": false },
+    "metadata_json": {
+      "type": "object",
+      "properties": {
+        "ready_for_approval": { "type": "integer" },
+        "ready_for_approval_is_derived": { "const": true },
+        "project_36936": { "type": "string" },
+        "import_session_strategy": { "const": "ARTIFACT_DEFINED" }
+      }
+    }
+  }
+}

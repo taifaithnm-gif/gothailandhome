@@ -29,12 +29,17 @@ function getPreferredLocale(request: NextRequest) {
 export function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
+  // Locale-free shells (Review Console lives outside /[lang])
+  const isInternalRoute =
+    pathname === "/internal" || pathname.startsWith("/internal/");
+
   if (
     pathname.startsWith("/_next") ||
     pathname.startsWith("/api") ||
     pathname.startsWith("/admin") ||
     pathname.startsWith("/auth") ||
     pathname.startsWith("/partners/app") ||
+    isInternalRoute ||
     pathname.includes(".") ||
     pathname === "/robots.txt" ||
     pathname === "/sitemap.xml"

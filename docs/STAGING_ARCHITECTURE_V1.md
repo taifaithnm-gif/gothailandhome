@@ -1,14 +1,16 @@
 # Staging Architecture V1 (Frozen)
 
-**Status:** Architecture Freeze V1
-**Production:** FREEZE CURRENT PRODUCTION — NO CUTOVER
-**Writes:** DATABASE_WRITES=0 · STORAGE_UPLOADS=0
+**Status:** Architecture Freeze V1 + Review Infrastructure V1 `FEATURE_FREEZE`  
+**Baseline:** `STAGING_BASELINE_V1`  
+**Product mode:** `CONTENT_FIRST` (no further Review Workflow development)  
+**Production:** FREEZE CURRENT PRODUCTION — NO CUTOVER  
+**Writes:** Staging schema verified through migration `012`; Production DATABASE_WRITES=0 · STORAGE_UPLOADS=0
 
 ## Scope
 
-Windows01 sealed ZIP → Goth adapter → Staging Import Framework → Review Console → Staging DB Design/Simulation.
+Windows01 sealed ZIP → Goth adapter → Staging Import Framework → Review Console → Staging DB (migrations `001`–`012`) → Reviewer Gate.
 
-**Out of scope:** real Staging DB commit, Storage upload, Production publish.
+**Out of scope / DEFERRED:** Decision Service, Decision API, Decision UI, Approval, Publish, Production cutover.
 
 ## Architecture Layers
 
@@ -16,20 +18,21 @@ Windows01 sealed ZIP → Goth adapter → Staging Import Framework → Review Co
 2. Batch Adapter (`src/lib/staging-import/adapters/`)
 3. Staging Import Core (`src/lib/staging-import/`)
 4. Review Console (`src/lib/review-console/`, `src/app/internal/`)
-5. Staging DB Design (`src/lib/staging-db/`, `database-design/staging-import-v1/`)
+5. Staging DB Implementation (`src/lib/staging-db/`, `database/staging-migrations/`)
 
 ## Dependency Direction
 
-L1 ← L2 ← L3; L4 reads local JSON only; L5 simulates only. No cycles.
+L1 ← L2 ← L3; L4 reads freeze artifacts / Staging browse; L5 Staging-only commit with isolation gates. No cycles.
 
 ## Core Types
 
 - Import: `ImportBatch`, `ReviewState`, `PreviewAction`, `ImportSessionPhase`
-- DB Design: `ImportSessionStatus`, `CommitOperation`, `StagingReviewState`, `StorageAction`
+- DB: `ImportSessionStatus`, `CommitOperation`, `StagingReviewState`, `StorageAction`
+- Phase A Decision: draft-only types in `decision-types.ts` (no service transitions)
 
 ## State Machines
 
-Automation ceiling: **READY_FOR_APPROVAL**.
+Automation ceiling: **READY_FOR_APPROVAL**.  
 FUTURE_MANUAL_STATE: APPROVED, READY_FOR_PRODUCTION, PUBLISHED (no active edges).
 
 ## Action Vocabulary
@@ -42,7 +45,7 @@ See `docs/ERROR_CODE_CATALOG.md` — codes use `GTH_*` prefixes where frozen.
 
 ## Security Boundaries
 
-Production hard block + staging commit disabled + review console feature flag default OFF.
+Production hard block + staging commit default disabled + review console feature flag default OFF + Reviewer Gate.
 
 ## Batch Contract
 
@@ -50,13 +53,16 @@ Production hard block + staging commit disabled + review console feature flag de
 
 ## Current Limitations
 
-- No physical Staging Supabase
-- RLS design only (CONDITIONAL)
+- Decision Service / API / UI deferred
+- Phase A decision tables empty (schema only)
 - Batch001 project 36936 province conflict remains human review
+- Storage upload disabled
 
 ## Next Milestone
 
-`STAGING_DB_COMMIT_IMPLEMENTATION` — only after isolated staging DB + human SQL/RLS review.
+`CONTENT_AND_SEO_DEVELOPMENT` — Review Workflow Phase B must not start from this freeze.
+
+See: `REPORTS/REVIEW_INFRASTRUCTURE_V1_FREEZE.md`, `REVIEW_INFRASTRUCTURE_DEFERRED_BACKLOG.md`.
 
 ## Frozen Decisions
 
