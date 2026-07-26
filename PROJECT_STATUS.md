@@ -2,10 +2,13 @@
 
 **Date:** 2026-07-26  
 **Overall:** `PASS`  
-**Active mode:** `CONTENT_FIRST`  
-**Review infrastructure:** `FEATURE_FREEZE` (`Review Infrastructure V1`)  
+**Project Mode:** `CONTENT_FIRST`  
+**Review Infrastructure:** `FROZEN` (`Review Infrastructure V1`)  
+**Architecture:** `FROZEN`  
+**Production:** `UNCHANGED`  
 **Baseline:** `STAGING_BASELINE_V1`  
-**Tag:** `review-infrastructure-v1-freeze` (local; no push)
+**Tag:** `review-infrastructure-v1-freeze` @ `e9105b7` (pushed)  
+**Branch:** `feat/staging-db-commit-v1` (pushed)
 
 ---
 
@@ -53,6 +56,8 @@ Project has switched to **CONTENT_FIRST**.
 - Phase B Manual Review Workflow
 - Approval / Publish / Production cutover
 - New platform-scale architecture beyond content delivery
+- Production Deploy
+- Production Migration
 
 ---
 
@@ -82,11 +87,15 @@ See:
 | Environment | Posture |
 | --- | --- |
 | Staging | Validated; migrations applied; schema/RLS/constraints PASS |
-| Production | Untouched — no deploy, no migration, no write |
+| Production | `UNCHANGED` — no deploy, no migration, no write |
 
 | Action | Status |
 | --- | --- |
-| Git commit | Allowed for freeze |
-| Git tag | `review-infrastructure-v1-freeze` |
-| Git push | **FORBIDDEN** |
+| Git commit | `e9105b7` freeze commit |
+| Git tag | `review-infrastructure-v1-freeze` (annotated; pushed) |
+| Git push | Branch + tag pushed |
 | Production deploy | **FORBIDDEN** |
+| Production migration | **FORBIDDEN** |
+| Approval / Publish | **FORBIDDEN** |
+| Review Workflow Phase B | **FORBIDDEN** |
+| Decision Service / API / UI | **FORBIDDEN** |
