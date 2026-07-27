@@ -39,6 +39,11 @@ const FavoritesContext = createContext<FavoritesContextValue | null>(null);
 
 const storage = createBrowserFavoritesStorage();
 const listeners = new Set<() => void>();
+/** Stable empty snapshot — new objects each call break useSyncExternalStore. */
+const SERVER_SNAPSHOT: FavoritesState = emptyFavoritesState();
+let clientSnapshot: FavoritesState = SERVER_SNAPSHOT;
+let clientSnapshotRaw: string | null = null;
+let clientSnapshotReady = false;
 
 function emit() {
   for (const listener of listeners) listener();
@@ -49,6 +54,7 @@ function subscribe(listener: () => void) {
   if (typeof window !== "undefined") {
     const onStorage = (event: StorageEvent) => {
       if (event.key === FAVORITES_STORAGE_KEY || event.key === null) {
+        clientSnapshotReady = false;
         listener();
       }
     };
@@ -64,15 +70,25 @@ function subscribe(listener: () => void) {
 }
 
 function getClientSnapshot(): FavoritesState {
-  return loadFavorites(storage);
+  const raw = storage.getItem(FAVORITES_STORAGE_KEY);
+  if (clientSnapshotReady && raw === clientSnapshotRaw) {
+    return clientSnapshot;
+  }
+  clientSnapshotRaw = raw;
+  clientSnapshot = loadFavorites(storage);
+  clientSnapshotReady = true;
+  return clientSnapshot;
 }
 
 function getServerSnapshot(): FavoritesState {
-  return emptyFavoritesState();
+  return SERVER_SNAPSHOT;
 }
 
 function writeState(next: FavoritesState) {
-  saveFavorites(storage, next);
+  const saved = saveFavorites(storage, next);
+  clientSnapshot = saved;
+  clientSnapshotRaw = storage.getItem(FAVORITES_STORAGE_KEY);
+  clientSnapshotReady = true;
   emit();
 }
 
@@ -116,6 +132,9 @@ export function FavoritesProvider({ children }: { children: ReactNode }) {
 
   const clear = useCallback(() => {
     clearFavoritesStorage(storage);
+    clientSnapshot = SERVER_SNAPSHOT;
+    clientSnapshotRaw = null;
+    clientSnapshotReady = true;
     emit();
   }, []);
 

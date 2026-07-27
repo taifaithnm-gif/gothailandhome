@@ -71,6 +71,16 @@ check("compare-ui:controls announce state and are hydration-safe", () => {
   assert.ok(provider.includes("useSyncExternalStore"));
   assert.ok(provider.includes("getServerSnapshot"));
   assert.ok(provider.includes("CompareProvider"));
+  // Regression: unstable getSnapshot objects caused React #185 (max update depth).
+  assert.ok(
+    provider.includes("SERVER_SNAPSHOT") &&
+      provider.includes("clientSnapshotReady"),
+    "getClientSnapshot must cache stable object identity",
+  );
+  assert.ok(
+    !/getServerSnapshot\(\)[\s\S]{0,80}emptyCompareState\(\)/.test(provider),
+    "getServerSnapshot must not allocate a new empty state each call",
+  );
 });
 
 check("compare-ui:cards and detail expose compare controls", () => {
