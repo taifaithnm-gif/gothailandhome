@@ -1,6 +1,6 @@
 # SPRINT_C_REVIEW
 
-**Date:** 2026-07-29T13:43:13Z  
+**Date:** 2026-07-30  
 **Batch:** `BATCH-GTH-20260724-001`  
 **Session:** `sess_p2_fbda6bfdbeb462c00f25f88f`
 
@@ -9,29 +9,30 @@
 | Metric | Value |
 | --- | --- |
 | Original human items | 12 |
-| Resolved | **10** |
-| Pending | **2** |
+| Resolved | **12** |
+| Pending | **0** |
+| Rejected | **0** |
 | Guessed mappings | **0** |
 
 ---
 
-## Resolved (10)
+## Resolved (12)
 
-### Unknown Developer → Developer Master (3)
+### Unknown Developer → Developer Master (5)
 
-| Source | Master slug | Evidence |
-| --- | --- | --- |
-| `supalai` | `supalai` | Legal name + https://www.supalai.com + SET SPALI profile in master |
-| `ap-thailand-public` | `ap-thailand` | Legal name + https://www.apthai.com + SET AP |
-| `sansiri` | `sansiri` | Legal name + https://www.sansiri.com + SET SIRI |
-
-Rule applied: prefer existing master; do not create duplicate developer entities.
+| Source | Master slug | Action | Evidence |
+| --- | --- | --- | --- |
+| `supalai` | `supalai` | LINK_EXISTING / DUPLICATE | Legal name + https://www.supalai.com + SET SPALI |
+| `ap-thailand-public` | `ap-thailand` | LINK_EXISTING / DUPLICATE | Legal name + https://www.apthai.com + SET AP |
+| `sansiri` | `sansiri` | LINK_EXISTING / DUPLICATE | Legal name + https://www.sansiri.com + SET SIRI |
+| `infinite-real-estate` | `infinite-real-estate` | CREATE_NEW_CANONICAL | https://infinite.co.th/ + solavavillas.com (@infinite.co.th) + TerraBKK |
+| `bundarn` | `bandan-estate` | CREATE_NEW_CANONICAL | https://bandan-estate.com/ + DAVEN Rama 9 + TerraBKK (บริษัท บันดาล จำกัด) |
 
 ### Province Conflict (1)
 
 | Project | Decision |
 | --- | --- |
-| `36936` ศุภาลัย ปาล์มวิลล์ อมตะ-บายพาส | Official location **ชลบุรี** (Supalai official + terrabkk + trade press). Source `กรุงเทพ` rejected. Conflict soft-deleted. |
+| `36936` ศุภาลัย ปาล์มวิลล์ อมตะ-บายพาส | Official location **ชลบุรี**. Source `กรุงเทพ` rejected. Conflict soft-deleted. |
 
 ### Low Confidence → HIGH (6)
 
@@ -41,38 +42,17 @@ Rule applied: prefer existing master; do not create duplicate developer entities
 | 36926 | กรุงเทพ | `singha-estate` |
 | 36933 | กรุงเทพ | `sansiri` |
 | 36936 | ชลบุรี | `supalai` |
-| 36939 | กรุงเทพ | (developer pending) |
+| 36939 | กรุงเทพ | `bandan-estate` |
 | 36942 | สมุทรปราการ | `ap-thailand` |
 
-Sources: terrabkk project pages, developer official sites, secondary trade listings cross-check.
-
 ---
 
-## Pending (2) — REVIEW_REQUIRED
+## Developer Validation
 
-| Source ID | Name | Why pending |
-| --- | --- | --- |
-| `infinite-real-estate` | บริษัท อินฟินิท เรียลเอสเตท จำกัด | Not in Developer Master; no official website in payload |
-| `bundarn` | บริษัท บันดาล จำกัด | Not in Developer Master; Bandan Estate boutique — do not invent slug |
+**PASS** — staging session UNKNOWN developers = 0.
 
-Recommended next human action:
+Artifacts:
 
-1. Add verified master packages under `content/developers/` **or**
-2. Explicitly reject / quarantine these staging candidates
-
-Do **not** auto-map to similarly named brands.
-
----
-
-## Sprint C staging import review
-
-| Area | Status |
-| --- | --- |
-| Knowledge | Imported / validated (21) |
-| Cities | Imported / validated (4) |
-| Developers | Master present (20); staging links for 3 batch unknowns resolved |
-| Projects | Content packages present (50); batch province fixes applied |
-| FAQ | Present (12 files) |
-| Internal links / Schema / SEO | Contracts PASS via test suite + build |
-
-**READY_FOR_PREVIEW = YES** (Sprint C content build-clean). Remaining 2 developer identities are staging-batch review debt, not Sprint C filesystem blockers.
+- `.work/imports/BATCH-GTH-20260724-001/review-resolution-20260729/resolution-result.json`
+- `.work/imports/BATCH-GTH-20260724-001/review-resolution-20260730/resolution-result.json`
+- `.work/imports/BATCH-GTH-20260724-001/review-resolution-20260730/cumulative-resolution.json`
