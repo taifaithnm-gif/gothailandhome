@@ -1,0 +1,221 @@
+{
+  "slug": "phuket",
+  "version": 1,
+  "updated_at": "2026-07-26",
+  "summary": {
+    "en": "Thailand's largest island and premier resort property market, with beach condos, villas, and branded residences.",
+    "zh": "泰国最大岛屿及顶级度假房产市场，涵盖海滩公寓、别墅与品牌公寓。",
+    "th": "เกาะที่ใหญ่ที่สุดของประเทศไทยและตลาดอสังหาริมทรัพย์ตากอากาศชั้นนำ มีคอนโดริมหาด วิลล่า และแบรนด์เรสซิเดนซ์"
+  },
+  "overview": {
+    "en": [
+      "Phuket is Thailand's largest island and its most established resort property market, connected to the mainland by bridge and served by Phuket International Airport. The province combines an international tourism economy with a growing year-round residential community.",
+      "The west coast — Patong, Kamala, Surin, Bang Tao, and Layan — hosts most beach-led condo and villa supply. The east and central areas around Phuket Town, Kathu, and Chalong serve residents, schools, and marinas with a more local price profile.",
+      "Foreign buyers in Phuket use the same legal framework as the rest of Thailand: freehold condominiums within the 49% foreign quota, leasehold structures for landed villas, and careful legal due diligence for anything involving land."
+    ],
+    "zh": [
+      "普吉是泰国最大的岛屿，也是最成熟的度假房产市场，通过大桥与本土相连，并由普吉国际机场提供航空服务。该府将国际旅游经济与不断增长的全年居住社区结合在一起。",
+      "西海岸——芭东、卡马拉、苏林、邦涛和乐岩——集中了大部分海滩导向的公寓与别墅供应。普吉镇、卡图和查龙一带的东部与中部区域服务于常住居民、学校和游艇码头，价格更贴近本地水平。",
+      "普吉的外国买家适用与泰国其他地区相同的法律框架：49% 外资配额内的永久产权公寓、涉及土地的别墅采用租赁权结构，任何涉及土地的交易都需审慎的法律尽职调查。"
+    ],
+    "th": [
+      "ภูเก็ตเป็นเกาะที่ใหญ่ที่สุดของประเทศไทยและเป็นตลาดอสังหาริมทรัพย์ตากอากาศที่พัฒนามากที่สุด เชื่อมกับแผ่นดินใหญ่ด้วยสะพานและมีท่าอากาศยานนานาชาติภูเก็ตให้บริการ จังหวัดนี้ผสมผสานเศรษฐกิจการท่องเที่ยวระหว่างประเทศกับชุมชนผู้อยู่อาศัยตลอดปีที่เติบโตขึ้น",
+      "ชายฝั่งตะวันตก — ป่าตอง กมลา สุรินทร์ บางเทา และลายัน — เป็นที่ตั้งของอุปทานคอนโดและวิลล่าริมหาดส่วนใหญ่ พื้นที่ตะวันออกและตอนกลางรอบเมืองภูเก็ต กะทู้ และฉลอง รองรับผู้อยู่อาศัย โรงเรียน และท่าจอดเรือ ด้วยระดับราคาที่ใกล้เคียงท้องถิ่นมากกว่า",
+      "ผู้ซื้อชาวต่างชาติในภูเก็ตใช้กรอบกฎหมายเดียวกับพื้นที่อื่นของไทย ได้แก่ คอนโดฟรีโฮลด์ภายในโควตาชาวต่างชาติ 49% โครงสร้างสิทธิการเช่าสำหรับวิลล่าพร้อมที่ดิน และการตรวจสอบทางกฎหมายอย่างรอบคอบสำหรับทุกธุรกรรมที่เกี่ยวข้องกับที่ดิน"
+    ]
+  },
+  "lifestyle": {
+    "en": [
+      "Phuket supports full-time island living: international schools around Thalang and Koh Kaew, private hospitals, marinas, golf, and a broad international dining scene. The island's residential communities are increasingly year-round rather than seasonal.",
+      "Beach zones differ significantly — Patong is high-energy tourism, Bang Tao and Layan lean upscale-residential, and Rawai/Nai Harn in the south attract long-stay residents."
+    ],
+    "zh": [
+      "普吉支持全职海岛生活：他朗和阁凯周边的国际学校、私立医院、游艇码头、高尔夫以及丰富的国际餐饮。岛上的居住社区正日益转向全年居住而非季节性使用。",
+      "各海滩板块差异显著——芭东是高强度旅游区，邦涛和乐岩偏高端住宅，南部的拉威/奈汉则吸引长住居民。"
+    ],
+    "th": [
+      "ภูเก็ตรองรับการอยู่อาศัยเต็มเวลา มีโรงเรียนนานาชาติรอบถลางและเกาะแก้ว โรงพยาบาลเอกชน ท่าจอดเรือ สนามกอล์ฟ และร้านอาหารนานาชาติหลากหลาย ชุมชนที่อยู่อาศัยบนเกาะกำลังเปลี่ยนเป็นแบบตลอดปีมากกว่าตามฤดูกาล",
+      "โซนหาดแตกต่างกันอย่างมาก — ป่าตองเป็นย่านท่องเที่ยวคึกคัก บางเทาและลายันเน้นที่อยู่อาศัยระดับบน ส่วนราไวย์/ในหานทางใต้ดึงดูดผู้พำนักระยะยาว"
+    ]
+  },
+  "transportation": [
+    {
+      "name": {
+        "en": "Phuket International Airport (HKT)",
+        "zh": "普吉国际机场（HKT）",
+        "th": "ท่าอากาศยานนานาชาติภูเก็ต (HKT)"
+      },
+      "mode": "air",
+      "source_url": "https://phuket.airportthai.co.th/"
+    },
+    {
+      "name": {
+        "en": "Sarasin Bridge (mainland connection)",
+        "zh": "沙拉信大桥（连接本土）",
+        "th": "สะพานสารสิน (เชื่อมแผ่นดินใหญ่)"
+      },
+      "mode": "road",
+      "source_url": "https://www.doh.go.th/"
+    }
+  ],
+  "schools": [
+    {
+      "name": {
+        "en": "British International School Phuket (BISP)",
+        "zh": "普吉英国国际学校（BISP）",
+        "th": "โรงเรียนนานาชาติบริติช ภูเก็ต (BISP)"
+      },
+      "source_url": "https://www.bisphuket.ac.th/"
+    },
+    {
+      "name": {
+        "en": "UWC Thailand International School",
+        "zh": "泰国世界联合学院（UWC）",
+        "th": "โรงเรียนนานาชาติ UWC ประเทศไทย"
+      },
+      "source_url": "https://www.uwcthailand.ac.th/"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Bangkok Hospital Phuket",
+        "zh": "曼谷医院普吉分院",
+        "th": "โรงพยาบาลกรุงเทพภูเก็ต"
+      },
+      "source_url": "https://www.phukethospital.com/"
+    },
+    {
+      "name": {
+        "en": "Vachira Phuket Hospital",
+        "zh": "瓦奇拉普吉医院",
+        "th": "โรงพยาบาลวชิระภูเก็ต"
+      },
+      "source_url": "https://www.vachiraphuket.go.th/"
+    }
+  ],
+  "shopping": [
+    {
+      "name": {
+        "en": "Central Phuket",
+        "zh": "尚泰普吉购物中心",
+        "th": "เซ็นทรัล ภูเก็ต"
+      },
+      "source_url": "https://www.central.co.th/"
+    },
+    {
+      "name": {
+        "en": "Jungceylon Patong",
+        "zh": "芭东江西冷购物中心",
+        "th": "จังซีลอน ป่าตอง"
+      },
+      "source_url": "https://www.jungceylon.com/"
+    }
+  ],
+  "investment_summary": {
+    "en": "Phuket purchases split between freehold condos (within the 49% foreign quota) and leasehold or company-structured villas; the legal structure matters more than in condo-only markets, so independent legal review is essential. GoThailandHome does not publish yield estimates or occupancy statistics.",
+    "zh": "普吉的购房交易分为永久产权公寓（49% 外资配额内）与租赁权或公司架构的别墅两类；相比纯公寓市场，法律结构在这里更为关键，独立法律审查必不可少。GoThailandHome 不发布收益率估算或入住率统计。",
+    "th": "การซื้อในภูเก็ตแบ่งเป็นคอนโดฟรีโฮลด์ (ภายในโควตาชาวต่างชาติ 49%) และวิลล่าแบบสิทธิการเช่าหรือโครงสร้างบริษัท โครงสร้างทางกฎหมายมีความสำคัญมากกว่าตลาดที่มีแต่คอนโด การตรวจสอบทางกฎหมายอย่างอิสระจึงจำเป็น GoThailandHome ไม่เผยแพร่การประมาณผลตอบแทนหรือสถิติอัตราการเข้าพัก"
+  },
+  "rental_summary": {
+    "en": "Phuket rental demand is seasonal and beach-zone dependent, with high season in the dry months. Sub-30-day letting requires hotel licensing and many buildings restrict it; long-stay winter rentals and annual leases are the standard compliant channels for individual owners.",
+    "zh": "普吉的租赁需求具有季节性并高度依赖海滩板块，旺季在旱季月份。30 天以下短租需要酒店牌照且许多大楼加以限制；越冬长租与年租是个人业主的标准合规渠道。",
+    "th": "ความต้องการเช่าในภูเก็ตขึ้นอยู่กับฤดูกาลและโซนหาด โดยไฮซีซั่นอยู่ในช่วงเดือนแล้ง การปล่อยเช่าต่ำกว่า 30 วันต้องมีใบอนุญาตโรงแรมและหลายอาคารมีข้อจำกัด การเช่าระยะยาวช่วงฤดูหนาวและสัญญารายปีเป็นช่องทางที่ถูกต้องตามกฎหมายสำหรับเจ้าของรายบุคคล"
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Can foreigners buy a villa with land in Phuket?",
+        "zh": "外国人可以在普吉购买带土地的别墅吗？",
+        "th": "ชาวต่างชาติซื้อวิลล่าพร้อมที่ดินในภูเก็ตได้หรือไม่?"
+      },
+      "answer": {
+        "en": "Foreigners cannot own land freehold in Thailand. Villa purchases in Phuket typically use a registered 30-year lease on the land (sometimes with renewal options) while owning the building itself, or freehold condominium-titled villas where available. Each structure has different risks, so independent legal advice is essential.",
+        "zh": "外国人不能以永久产权持有泰国土地。普吉的别墅交易通常对土地登记 30 年租赁权（有时附续约选项）同时持有建筑物本身，或选择具备公寓产权的别墅（如有）。每种结构风险不同，务必寻求独立法律意见。",
+        "th": "ชาวต่างชาติไม่สามารถถือครองที่ดินแบบฟรีโฮลด์ในประเทศไทยได้ การซื้อวิลล่าในภูเก็ตมักใช้สัญญาเช่าที่ดินจดทะเบียน 30 ปี (บางกรณีมีตัวเลือกต่ออายุ) พร้อมถือกรรมสิทธิ์ตัวอาคาร หรือซื้อวิลล่าที่มีโฉนดแบบอาคารชุดหากมี แต่ละโครงสร้างมีความเสี่ยงต่างกัน จึงจำเป็นต้องได้รับคำปรึกษาทางกฎหมายอย่างอิสระ"
+      }
+    },
+    {
+      "question": {
+        "en": "Which Phuket areas suit families relocating full-time?",
+        "zh": "普吉哪些区域适合举家长期定居？",
+        "th": "พื้นที่ใดของภูเก็ตเหมาะกับครอบครัวที่ย้ายมาอยู่ถาวร?"
+      },
+      "answer": {
+        "en": "Families usually cluster near the island's international schools — Thalang, Koh Kaew, and the Boat Avenue/Bang Tao corridor — where daily amenities, hospitals, and after-school activities are within short drives. South-island areas like Chalong and Rawai also support long-stay family life.",
+        "zh": "家庭通常聚居在岛上国际学校附近——他朗、阁凯以及 Boat Avenue/邦涛走廊——日常配套、医院和课后活动都在短车程内。查龙、拉威等岛南区域同样适合长住家庭。",
+        "th": "ครอบครัวมักอาศัยใกล้โรงเรียนนานาชาติของเกาะ — ถลาง เกาะแก้ว และแนว Boat Avenue/บางเทา — ซึ่งมีสิ่งอำนวยความสะดวก โรงพยาบาล และกิจกรรมหลังเลิกเรียนในระยะขับรถสั้น ๆ พื้นที่ทางใต้ของเกาะอย่างฉลองและราไวย์ก็เหมาะกับชีวิตครอบครัวระยะยาวเช่นกัน"
+      }
+    },
+    {
+      "question": {
+        "en": "Is Phuket property only for holiday use?",
+        "zh": "普吉的房产只适合度假用途吗？",
+        "th": "อสังหาริมทรัพย์ในภูเก็ตเหมาะกับการพักตากอากาศเท่านั้นหรือไม่?"
+      },
+      "answer": {
+        "en": "No. Phuket has a substantial year-round community supported by international schools, private hospitals, and marinas. Buyers should still match the zone to their goal: west-coast beach zones lean holiday and rental use, while central and east-island areas fit permanent residence.",
+        "zh": "不是。普吉拥有由国际学校、私立医院和游艇码头支撑的庞大全年居住社区。买家仍应根据目标匹配板块：西海岸海滩板块偏度假与租赁用途，中部与岛东区域更适合常住。",
+        "th": "ไม่ใช่ ภูเก็ตมีชุมชนที่อยู่อาศัยตลอดปีจำนวนมาก รองรับด้วยโรงเรียนนานาชาติ โรงพยาบาลเอกชน และท่าจอดเรือ ผู้ซื้อควรเลือกโซนให้ตรงเป้าหมาย โซนหาดฝั่งตะวันตกเน้นการพักตากอากาศและปล่อยเช่า ส่วนตอนกลางและฝั่งตะวันออกของเกาะเหมาะกับการอยู่อาศัยถาวร"
+      }
+    }
+  ],
+  "knowledge_links": [
+    {
+      "path": "/knowledge/articles/thailand-property-buying-guide",
+      "label": {
+        "en": "Thailand property buying guide",
+        "zh": "泰国购房指南",
+        "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+      }
+    },
+    {
+      "path": "/knowledge/articles/freehold-vs-leasehold-thailand",
+      "label": {
+        "en": "Freehold vs leasehold",
+        "zh": "永久产权与租赁权对比",
+        "th": "ฟรีโฮลด์กับสิทธิการเช่า"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-luxury-condo-guide",
+      "label": {
+        "en": "Luxury condo guide",
+        "zh": "豪华公寓指南",
+        "th": "คู่มือคอนโดหรู"
+      }
+    }
+  ],
+  "image_slots": [
+    {
+      "id": "phuket-hero",
+      "src": null,
+      "alt": {
+        "en": "Phuket west coast beach with hillside villas and condominiums",
+        "zh": "普吉西海岸海滩及山坡别墅与公寓",
+        "th": "หาดฝั่งตะวันตกของภูเก็ตพร้อมวิลล่าและคอนโดบนเนินเขา"
+      }
+    },
+    {
+      "id": "phuket-marina",
+      "src": null,
+      "alt": {
+        "en": "Marina and yacht berths on Phuket's east coast",
+        "zh": "普吉东海岸的游艇码头与泊位",
+        "th": "ท่าจอดเรือยอชท์บนชายฝั่งตะวันออกของภูเก็ต"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "Phuket Province official website",
+      "url": "https://www.phuket.go.th/"
+    },
+    {
+      "type": "official_operator",
+      "name": "Phuket International Airport (AOT)",
+      "url": "https://phuket.airportthai.co.th/"
+    }
+  ]
+}

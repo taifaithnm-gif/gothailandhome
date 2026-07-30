@@ -28,6 +28,16 @@ export type ContentSource = {
   note?: string;
 };
 
+export type KnowledgeFaqItem = {
+  question: LocalizedText;
+  answer: LocalizedText;
+};
+
+export type KnowledgeRelatedLink = {
+  path: string;
+  label: LocalizedText;
+};
+
 export type KnowledgeArticle = {
   slug: string;
   type: "knowledge_article";
@@ -38,6 +48,8 @@ export type KnowledgeArticle = {
   reviewed_at: string;
   locale_status: LocaleStatusMap;
   sources: ContentSource[];
+  faq: KnowledgeFaqItem[];
+  related_links: KnowledgeRelatedLink[];
 };
 
 export type BlogPost = {

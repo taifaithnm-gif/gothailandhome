@@ -1,0 +1,160 @@
+{
+  "slug": "infinite-real-estate",
+  "collected_at": "2026-07-30",
+  "publish_ready": true,
+  "verification_status": "platform_verified",
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Infinite Real Estate official website",
+      "url": "https://infinite.co.th/"
+    },
+    {
+      "type": "official_developer",
+      "name": "SOLAVA Pattaya project site (Infinite sales)",
+      "url": "https://solavavillas.com/"
+    },
+    {
+      "type": "other_public_portal",
+      "name": "TerraBKK developer page",
+      "url": "https://www.terrabkk.com/projects/developer/infinite-real-estate"
+    }
+  ],
+  "name": {
+    "en": "Infinite Real Estate",
+    "zh": "Infinite Real Estate",
+    "th": "อินฟินิท เรียลเอสเตท"
+  },
+  "legal_name": {
+    "en": "Infinite Real Estate Co., Ltd.",
+    "zh": "Infinite Real Estate Co., Ltd.",
+    "th": "บริษัท อินฟินิท เรียลเอสเตท จำกัด"
+  },
+  "description": {
+    "en": "Infinite Real Estate Co., Ltd. is a Thai residential developer with an official corporate site at infinite.co.th. Current flagship project cited on the official site includes SOLAVA Pattaya. SET listing is not asserted without a SET factsheet for this entity.",
+    "zh": "Infinite Real Estate Co., Ltd. 为泰国住宅开发商，官方网站为 infinite.co.th。官网列示旗舰项目 SOLAVA Pattaya。在无 SET factsheet 前不声称上市。",
+    "th": "บริษัท อินฟินิท เรียลเอสเตท จำกัด เป็นผู้พัฒนาที่อยู่อาศัย มีเว็บไซต์ทางการที่ infinite.co.th โครงการเด่นที่อ้างบนเว็บทางการรวม SOLAVA Pattaya ไม่ระบุ SET หากไม่มี factsheet"
+  },
+  "company_profile": {
+    "en": "Per infinite.co.th: founded by Mr. Surapol Kaworakul; currently led by Managing Director Ms. Korravika Kaworakul. Company presents over 40 years of residential development experience. Contact email on SOLAVA sales site uses @infinite.co.th domain.",
+    "zh": "据 infinite.co.th：由 Surapol Kaworakul 创立；现由董事总经理 Korravika Kaworakul 领导。公司自称逾 40 年住宅开发经验。SOLAVA 销售站联系邮箱使用 @infinite.co.th 域名。",
+    "th": "ตาม infinite.co.th ก่อตั้งโดย นายสุรพล กอวรกุล ปัจจุบันบริหารโดย กรรมการผู้จัดการ นางสาวกรวิกา กอวรกุล บริษัทระบุประสบการณ์พัฒนามากกว่า 40 ปี อีเมลฝ่ายขาย SOLAVA ใช้โดเมน @infinite.co.th"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Thailand (city-level HQ not asserted without official address page)",
+    "zh": "泰国（无官方地址页则不断言城市级总部）",
+    "th": "ประเทศไทย (ไม่ระบุที่ตั้งสำนักงานระดับเมืองหากไม่มีหน้าอยู่ทางการ)"
+  },
+  "listed_company": null,
+  "major_brands": [
+    {
+      "name": "SOLAVA",
+      "source_url": "https://solavavillas.com/"
+    },
+    {
+      "name": "Happy Condo",
+      "source_url": "https://infinite.co.th/"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [],
+    "pattaya": [
+      {
+        "slug": null,
+        "name": {
+          "en": "SOLAVA Pattaya",
+          "zh": "SOLAVA Pattaya",
+          "th": "โซลาวา พัทยา"
+        },
+        "source": "https://infinite.co.th/ + https://solavavillas.com/ (not yet a factory project package)"
+      }
+    ],
+    "phuket": []
+  },
+  "website": "https://infinite.co.th/",
+  "facebook_url": null,
+  "google_maps_url": null,
+  "social_links": {
+    "website": "https://infinite.co.th/"
+  },
+  "contact": {
+    "phone": null,
+    "email": "sales-solava@infinite.co.th",
+    "line": null,
+    "whatsapp": null
+  },
+  "logo_path": "/developers/infinite-real-estate/logo.svg",
+  "logo_url": "/developers/infinite-real-estate/logo.svg",
+  "phone": null,
+  "email": "sales-solava@infinite.co.th",
+  "seo": {
+    "title": {
+      "en": "Infinite Real Estate Developer | GoThailandHome",
+      "zh": "Infinite Real Estate 开发商 | GoThailandHome",
+      "th": "ผู้พัฒนา อินฟินิท เรียลเอสเตท | GoThailandHome"
+    },
+    "description": {
+      "en": "Official profile for Infinite Real Estate Co., Ltd. Sourced from infinite.co.th and SOLAVA Pattaya project materials.",
+      "zh": "Infinite Real Estate Co., Ltd. 开发商资料，来源为 infinite.co.th 与 SOLAVA Pattaya 项目材料。",
+      "th": "โปรไฟล์ผู้พัฒนา บริษัท อินฟินิท เรียลเอสเตท จำกัด อ้างอิง infinite.co.th และเอกสารโครงการ SOLAVA Pattaya"
+    }
+  },
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "project_slugs": [],
+  "logo_source": {
+    "status": "placeholder",
+    "path": "/developers/infinite-real-estate/logo.svg",
+    "official_logo_url": null,
+    "favicon_url": "https://infinite.co.th/favicon.ico",
+    "note": "Local SVG is a non-trademark placeholder. Official logo not mirrored pending rights-cleared export.",
+    "verified_at": "2026-07-30",
+    "provenance": {
+      "source_type": "official_developer_website",
+      "url": "https://infinite.co.th/"
+    }
+  },
+  "aliases": [
+    "infinite-real-estate",
+    "Infinite Real Estate",
+    "บริษัท อินฟินิท เรียลเอสเตท จำกัด"
+  ],
+  "developer_master": {
+    "phase": "sprint-c-preview-qa",
+    "verified_at": "2026-07-30",
+    "rule": "official_developer_website_required_for_new_master",
+    "fields_touched": [
+      "official_website",
+      "legal_name",
+      "company_profile",
+      "major_brands"
+    ],
+    "sprint": "sprint-c-preview-qa",
+    "source_staging_ids": [
+      "infinite-real-estate"
+    ]
+  },
+  "company_profile_provenance": {
+    "source_type": "official_website",
+    "url": "https://infinite.co.th/",
+    "verified_at": "2026-07-30",
+    "evidence_class": "OFFICIAL"
+  },
+  "field_evidence": {
+    "website": {
+      "url": "https://infinite.co.th/",
+      "verified_at": "2026-07-30",
+      "evidence_class": "OFFICIAL"
+    },
+    "legal_name": {
+      "url": "https://www.terrabkk.com/projects/developer/infinite-real-estate",
+      "verified_at": "2026-07-30",
+      "evidence_class": "SECONDARY_CROSSCHECK",
+      "note": "Thai legal name as published on TerraBKK developer listing; corroborated by Infinite corporate branding on infinite.co.th"
+    }
+  }
+}

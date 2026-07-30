@@ -165,13 +165,24 @@ export function projectSchema(input: {
     project.heroImagePath ||
     "/og/projects/placeholder.svg";
 
+  const imageUrl = image.startsWith("http")
+    ? image
+    : `${siteConfig.url}${image}`;
+
   return {
     "@context": "https://schema.org",
     "@type": "ApartmentComplex",
+    additionalType: "https://schema.org/Residence",
     name,
     description,
     url,
-    image: image.startsWith("http") ? image : `${siteConfig.url}${image}`,
+    image: imageUrl,
+    photo: {
+      "@type": "ImageObject",
+      url: imageUrl,
+      contentUrl: imageUrl,
+      caption: name,
+    },
     ...(project.officialWebsite ? { sameAs: [project.officialWebsite] } : {}),
     ...(project.latitude != null && project.longitude != null
       ? {
@@ -319,7 +330,23 @@ export function districtSchema(input: {
   description: string;
   slug: string;
   cityName?: string;
+  /** Sourced package POIs only — mirrors visible amenity sections. */
+  places?: { name: string; category: "school" | "hospital" | "shopping" | "transit" }[];
 }) {
+  const placeType = (category: string): string => {
+    switch (category) {
+      case "school":
+        return "School";
+      case "hospital":
+        return "Hospital";
+      case "shopping":
+        return "ShoppingCenter";
+      case "transit":
+        return "TrainStation";
+      default:
+        return "Place";
+    }
+  };
   return {
     "@context": "https://schema.org",
     "@type": "AdministrativeArea",
@@ -331,5 +358,52 @@ export function districtSchema(input: {
       name: input.cityName || "Bangkok",
       addressCountry: "TH",
     },
+    ...(input.places?.length
+      ? {
+          containsPlace: input.places.slice(0, 20).map((place) => ({
+            "@type": placeType(place.category),
+            name: place.name,
+          })),
+        }
+      : {}),
+  };
+}
+
+export function citySchema(input: {
+  locale: Locale;
+  name: string;
+  description: string;
+  slug: string;
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "City",
+    name: input.name,
+    description: input.description,
+    url: absoluteUrl(input.locale, `/cities/${input.slug}`),
+    containedInPlace: {
+      "@type": "Country",
+      name: "Thailand",
+    },
+  };
+}
+
+/** ImageObject for a page's primary image — local or absolute URLs only. */
+export function imageObjectSchema(input: {
+  url: string;
+  caption?: string;
+  width?: number;
+  height?: number;
+}): Record<string, unknown> {
+  const url = input.url.startsWith("http")
+    ? input.url
+    : `${siteConfig.url}${input.url}`;
+  return {
+    "@type": "ImageObject",
+    url,
+    contentUrl: url,
+    ...(input.caption ? { caption: input.caption } : {}),
+    ...(input.width ? { width: input.width } : {}),
+    ...(input.height ? { height: input.height } : {}),
   };
 }

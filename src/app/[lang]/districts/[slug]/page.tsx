@@ -4,18 +4,21 @@ import { DistrictCenter } from "@/components/district/district-center";
 import { JsonLd } from "@/components/seo/json-ld";
 import { Breadcrumb } from "@/components/ui/breadcrumb";
 import { isLocale } from "@/config/locales";
+import { areaFaqForLocale } from "@/lib/content/shared-faq";
 import { getDistrictBySlug } from "@/lib/data/geography";
 import { listPublishedProjects } from "@/lib/data/projects";
 import { listPublishedPropertiesPaged } from "@/lib/data/properties";
 import {
   DISTRICT_LISTING_PREVIEW_SIZE,
   getDistrictPackage,
+  localizedOrNull,
 } from "@/lib/districts/package";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
 import {
   breadcrumbListSchema,
   districtSchema,
+  platformFaqSchema,
 } from "@/lib/seo/schema";
 
 export const revalidate = 60;
@@ -64,6 +67,34 @@ export default async function DistrictDetailPage({
     ),
   ).sort((a, b) => a.localeCompare(b));
 
+  // Shared area FAQ templates scoped to this district. Visible FAQ and
+  // FAQPage schema stay identical.
+  const areaFaqs = areaFaqForLocale(lang, {
+    area: district.name[lang] || district.name.en,
+    city: district.cityName[lang] || district.cityName.en,
+  });
+  const faqSchema = platformFaqSchema(lang, areaFaqs);
+
+  // Sourced package POIs only — mirrors the visible amenity sections.
+  const schemaPlaces = [
+    ...pkg.schools.map((item) => ({
+      name: localizedOrNull(item.name, lang) ?? item.name.en,
+      category: "school" as const,
+    })),
+    ...pkg.hospitals.map((item) => ({
+      name: localizedOrNull(item.name, lang) ?? item.name.en,
+      category: "hospital" as const,
+    })),
+    ...pkg.shopping.map((item) => ({
+      name: localizedOrNull(item.name, lang) ?? item.name.en,
+      category: "shopping" as const,
+    })),
+    ...pkg.transportation.map((item) => ({
+      name: localizedOrNull(item.name, lang) ?? item.name.en,
+      category: "transit" as const,
+    })),
+  ].filter((place) => Boolean(place.name));
+
   return (
     <>
       <JsonLd
@@ -74,7 +105,9 @@ export default async function DistrictDetailPage({
             description: district.seoDescription[lang],
             slug: district.slug,
             cityName: district.cityName[lang],
+            places: schemaPlaces,
           }),
+          ...(faqSchema ? [faqSchema] : []),
           breadcrumbListSchema(lang, [
             { name: dict.nav.home, path: "/" },
             { name: dict.nav.cities, path: "/cities" },
@@ -108,6 +141,7 @@ export default async function DistrictDetailPage({
         listings={listingPage.items}
         listingTotal={listingPage.total}
         transitTags={transitTags}
+        faqs={areaFaqs}
       />
     </>
   );

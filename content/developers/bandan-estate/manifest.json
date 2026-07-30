@@ -1,0 +1,169 @@
+{
+  "slug": "bandan-estate",
+  "collected_at": "2026-07-30",
+  "publish_ready": true,
+  "verification_status": "platform_verified",
+  "sources": [
+    {
+      "type": "official_developer",
+      "name": "Bandan Estate official website",
+      "url": "https://bandan-estate.com/"
+    },
+    {
+      "type": "official_developer",
+      "name": "DAVEN Rama 9 project page",
+      "url": "https://bandan-estate.com/projects/daven-rama-9"
+    },
+    {
+      "type": "other_public_portal",
+      "name": "TerraBKK developer page (source slug bundarn)",
+      "url": "https://www.terrabkk.com/projects/developer/bundarn"
+    }
+  ],
+  "name": {
+    "en": "Bandan Estate",
+    "zh": "Bandan Estate",
+    "th": "บันดาล เอสเตท"
+  },
+  "legal_name": {
+    "en": "Bundarn Co., Ltd.",
+    "zh": "Bundarn Co., Ltd.",
+    "th": "บริษัท บันดาล จำกัด"
+  },
+  "description": {
+    "en": "Bandan Estate (source listing slug bundarn) is a boutique ultra-luxury residential developer with official site bandan-estate.com. Flagship project DAVEN Rama 9 is published on the official site. SET listing is not asserted.",
+    "zh": "Bandan Estate（来源 slug bundarn）为精品超豪华住宅开发商，官方网站为 bandan-estate.com。旗舰项目 DAVEN Rama 9 发布于官网。不声称 SET 上市。",
+    "th": "บันดาล เอสเตท (slug ต้นทาง bundarn) เป็นผู้พัฒนาที่อยู่อาศัยระดับอัลตร้าลักชัวรีแบบบูติก เว็บไซต์ทางการ bandan-estate.com โครงการเด่น DAVEN Rama 9 เผยแพร่บนเว็บทางการ ไม่ระบุ SET"
+  },
+  "company_profile": {
+    "en": "Per bandan-estate.com and trade coverage: Bandan Estate positions itself as a lifestyle residential brand connected to premium automotive expertise (B Autohaus). Legal name on TerraBKK is บริษัท บันดาล จำกัด (Bundarn Co., Ltd.). Some secondary outlets also write บริษัท บันดาล เอสเตท จำกัด — platform master uses Bundarn Co., Ltd. as the TerraBKK-aligned legal name until a DBD certificate is attached.",
+    "zh": "据 bandan-estate.com 与行业报道：Bandan Estate 定位为与高端汽车业务（B Autohaus）相关的生活方式住宅品牌。TerraBKK 法律名称为 บริษัท บันดาล จำกัด。部分二级媒体亦写 บริษัท บันดาล เอสเตท จำกัด — 在附上 DBD 证明前，主档采用与 TerraBKK 对齐的 Bundarn Co., Ltd.。",
+    "th": "ตาม bandan-estate.com และสื่อค้า บันดาล เอสเตทวางตัวเป็นแบรนด์ที่อยู่อาศัยไลฟ์สไตล์ที่เชื่อมกับความเชี่ยวชาญยานยนต์พรีเมียม (B Autohaus) ชื่อนิติบุคคลบน TerraBKK คือ บริษัท บันดาล จำกัด สื่อรองบางแห่งใช้ บริษัท บันดาล เอสเตท จำกัด — มาสเตอร์ใช้ Bundarn Co., Ltd. ตาม TerraBKK จนกว่าจะมีหลักฐาน DBD"
+  },
+  "established_year": null,
+  "headquarters": {
+    "en": "Bangkok, Thailand (project base: Suan Luang / Rama 9 corridor)",
+    "zh": "泰国曼谷（项目基地位于 Suan Luang / 拉玛九走廊）",
+    "th": "กรุงเทพฯ ประเทศไทย (ฐานโครงการ: สวนหลวง / แนวพระราม 9)"
+  },
+  "listed_company": null,
+  "major_brands": [
+    {
+      "name": "Bandan Estate",
+      "source_url": "https://bandan-estate.com/"
+    },
+    {
+      "name": "DAVEN",
+      "source_url": "https://bandan-estate.com/projects/daven-rama-9"
+    }
+  ],
+  "major_projects": {
+    "bangkok": [
+      {
+        "slug": null,
+        "name": {
+          "en": "DAVEN Rama 9",
+          "zh": "DAVEN Rama 9",
+          "th": "ดาเวน พระราม 9"
+        },
+        "source": "https://bandan-estate.com/projects/daven-rama-9 (not yet a factory project package)"
+      }
+    ],
+    "pattaya": [],
+    "phuket": []
+  },
+  "website": "https://bandan-estate.com/",
+  "facebook_url": null,
+  "google_maps_url": null,
+  "social_links": {
+    "website": "https://bandan-estate.com/"
+  },
+  "contact": {
+    "phone": "097-965-5463",
+    "email": null,
+    "line": "@bandanestate",
+    "whatsapp": null
+  },
+  "logo_path": "/developers/bandan-estate/logo.svg",
+  "logo_url": "/developers/bandan-estate/logo.svg",
+  "phone": "097-965-5463",
+  "email": null,
+  "seo": {
+    "title": {
+      "en": "Bandan Estate Developer | GoThailandHome",
+      "zh": "Bandan Estate 开发商 | GoThailandHome",
+      "th": "ผู้พัฒนา บันดาล เอสเตท | GoThailandHome"
+    },
+    "description": {
+      "en": "Official profile for Bandan Estate (Bundarn Co., Ltd.). Sourced from bandan-estate.com and DAVEN Rama 9 materials.",
+      "zh": "Bandan Estate（Bundarn Co., Ltd.）开发商资料，来源为 bandan-estate.com 与 DAVEN Rama 9 材料。",
+      "th": "โปรไฟล์ผู้พัฒนา บันดาล เอสเตท (บริษัท บันดาล จำกัด) อ้างอิง bandan-estate.com และเอกสาร DAVEN Rama 9"
+    }
+  },
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  },
+  "project_slugs": [],
+  "logo_source": {
+    "status": "placeholder",
+    "path": "/developers/bandan-estate/logo.svg",
+    "official_logo_url": null,
+    "favicon_url": "https://bandan-estate.com/favicon.ico",
+    "note": "Local SVG is a non-trademark placeholder. Official logo not mirrored pending rights-cleared export.",
+    "verified_at": "2026-07-30",
+    "provenance": {
+      "source_type": "official_developer_website",
+      "url": "https://bandan-estate.com/"
+    }
+  },
+  "aliases": [
+    "bundarn",
+    "Bandan Estate",
+    "บันดาล",
+    "บันดาล เอสเตท",
+    "บริษัท บันดาล จำกัด",
+    "Bundarn Co., Ltd."
+  ],
+  "developer_master": {
+    "phase": "sprint-c-preview-qa",
+    "verified_at": "2026-07-30",
+    "rule": "official_developer_website_required_for_new_master",
+    "fields_touched": [
+      "official_website",
+      "legal_name",
+      "company_profile",
+      "major_brands",
+      "aliases"
+    ],
+    "sprint": "sprint-c-preview-qa",
+    "source_staging_ids": [
+      "bundarn"
+    ]
+  },
+  "company_profile_provenance": {
+    "source_type": "official_website",
+    "url": "https://bandan-estate.com/",
+    "verified_at": "2026-07-30",
+    "evidence_class": "OFFICIAL"
+  },
+  "field_evidence": {
+    "website": {
+      "url": "https://bandan-estate.com/",
+      "verified_at": "2026-07-30",
+      "evidence_class": "OFFICIAL"
+    },
+    "legal_name": {
+      "url": "https://www.terrabkk.com/projects/developer/bundarn",
+      "verified_at": "2026-07-30",
+      "evidence_class": "SECONDARY_CROSSCHECK",
+      "note": "TerraBKK lists บริษัท บันดาล จำกัด / Bundarn Co., Ltd.; brand site is Bandan Estate"
+    },
+    "phone": {
+      "url": "https://www.terrabkk.com/projects/show/36939",
+      "verified_at": "2026-07-30",
+      "evidence_class": "SECONDARY_CROSSCHECK"
+    }
+  }
+}

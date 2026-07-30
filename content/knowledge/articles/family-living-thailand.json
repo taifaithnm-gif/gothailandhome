@@ -1,0 +1,125 @@
+{
+  "slug": "family-living-thailand",
+  "type": "knowledge_article",
+  "publish_ready": true,
+  "collected_at": "2026-07-26",
+  "verified_at": "2026-07-26",
+  "title": {
+    "en": "Family living in Thailand — choosing a home base that works",
+    "zh": "泰国家庭生活——选择合适的居住基地",
+    "th": "ชีวิตครอบครัวในประเทศไทย — เลือกฐานที่อยู่ที่ใช่"
+  },
+  "summary": {
+    "en": "What relocating families should weigh when choosing where to live in Thailand: schools, healthcare, housing types, neighborhood safety, daily logistics, and visas for dependants.",
+    "zh": "移居家庭在泰国选择居住地时应权衡的因素：学校、医疗、住房类型、社区安全、日常出行与受养人签证。",
+    "th": "สิ่งที่ครอบครัวย้ายถิ่นควรชั่งน้ำหนักเมื่อเลือกที่อยู่ในไทย ได้แก่ โรงเรียน การแพทย์ ประเภทที่อยู่อาศัย ความปลอดภัยย่าน โลจิสติกส์รายวัน และวีซ่าผู้อยู่ในอุปการะ"
+  },
+  "body": {
+    "en": [
+      "For families, the location decision is a triangle of school, work, and hospital — and in Bangkok traffic, minimizing daily travel between those three points matters more than any single amenity. Choose the school first, then shortlist neighborhoods within a realistic commute.",
+      "Housing options differ by family stage: condos offer security, pools, and low maintenance but limited space; townhouses and detached houses in moderated villages (mubaan) offer gardens and space, though land-based homes cannot be foreign-owned freehold — families typically rent houses or hold them via lease structures.",
+      "Family-favored areas include Bangkok's Sukhumvit side streets, Phrom Phong, Thonglor, Ekkamai, and Bangna near the eastern international schools; Phuket's west-central corridor near its international schools; and Chiang Mai's Hang Dong–San Sai belt. Each pairs schools with family housing stock.",
+      "Daily life is family-friendly: malls with kids' zones, parks such as Lumpini and Benjakitti, weekend markets, and affordable domestic help and childcare compared with Western cities. English is workable in expat corridors, and learning basic Thai improves everything from school runs to hospital visits.",
+      "Paperwork: children stay on dependant visas tied to a parent's visa (work, LTR, retirement categories vary in what they allow), and birth of a child in Thailand does not confer Thai citizenship unless a parent is Thai. Keep school enrollment letters and TM30 address reports current — schools and immigration both ask for them."
+    ],
+    "zh": [
+      "对家庭而言，选址是学校、工作与医院构成的三角——在曼谷的交通状况下，把三点间的日常通勤降到最低，比任何单一配套都重要。先定学校，再在可接受通勤范围内筛选社区。",
+      "住房选择因家庭阶段而异：公寓提供安保、泳池和低维护但空间有限；有物业管理的联排与独栋住宅村（mubaan）提供花园和空间，但外国人不能以永久产权持有带地住宅——家庭通常租住房屋或通过租赁结构持有。",
+      "受家庭青睐的区域包括曼谷素坤逸巷道、澎蓬、通罗、伊卡迈及邻近东部国际学校的邦纳；普吉靠近国际学校的中西部走廊；以及清迈杭东—三赛一带。这些区域都同时具备学校与家庭型住房存量。",
+      "日常生活对家庭友好：设有儿童区的商场、伦披尼与班嘉琦缇等公园、周末市集，以及相较西方城市更可负担的家政与育儿服务。外籍人士走廊内英语基本够用，学习基础泰语则能改善从接送孩子到就医的方方面面。",
+      "文件事务：子女持与父母签证挂钩的受养人签证（工作、LTR、退休类别的许可范围各不相同）；在泰国出生的孩子除非父母一方为泰籍，否则不获泰国国籍。请保持学校在读证明与 TM30 住址报告更新——学校和移民局都会索取。"
+    ],
+    "th": [
+      "สำหรับครอบครัว การเลือกทำเลคือสามเหลี่ยมของโรงเรียน ที่ทำงาน และโรงพยาบาล — ในการจราจรกรุงเทพฯ การลดการเดินทางรายวันระหว่างสามจุดนี้สำคัญกว่าสิ่งอำนวยความสะดวกใด ๆ เลือกโรงเรียนก่อน แล้วคัดย่านที่เดินทางได้จริง",
+      "ตัวเลือกที่อยู่ต่างกันตามช่วงชีวิตครอบครัว คอนโดให้ความปลอดภัย สระว่ายน้ำ และการดูแลน้อยแต่พื้นที่จำกัด ทาวน์เฮาส์และบ้านเดี่ยวในหมู่บ้านจัดสรรให้สวนและพื้นที่ แต่บ้านพร้อมที่ดินชาวต่างชาติถือฟรีโฮลด์ไม่ได้ ครอบครัวจึงมักเช่าบ้านหรือถือผ่านโครงสร้างสัญญาเช่า",
+      "ย่านที่ครอบครัวนิยม ได้แก่ ซอยฝั่งสุขุมวิทของกรุงเทพฯ พร้อมพงษ์ ทองหล่อ เอกมัย และบางนาใกล้โรงเรียนนานาชาติฝั่งตะวันออก แนวกลาง-ตะวันตกของภูเก็ตใกล้โรงเรียนนานาชาติ และแถบหางดง–สันทรายของเชียงใหม่ แต่ละย่านจับคู่โรงเรียนกับที่อยู่อาศัยแบบครอบครัว",
+      "ชีวิตประจำวันเป็นมิตรกับครอบครัว ห้างที่มีโซนเด็ก สวนสาธารณะอย่างลุมพินีและเบญจกิติ ตลาดสุดสัปดาห์ และค่าจ้างผู้ช่วยบ้านกับการดูแลเด็กที่จ่ายไหวเมื่อเทียบกับเมืองตะวันตก ภาษาอังกฤษใช้ได้ในย่านชาวต่างชาติ และการเรียนภาษาไทยพื้นฐานช่วยทุกอย่างตั้งแต่รับส่งลูกถึงการไปโรงพยาบาล",
+      "งานเอกสาร บุตรพำนักด้วยวีซ่าผู้อยู่ในอุปการะที่ผูกกับวีซ่าผู้ปกครอง (ประเภททำงาน LTR เกษียณ อนุญาตต่างกัน) และการเกิดในไทยไม่ได้ให้สัญชาติไทยเว้นแต่บิดามารดาฝ่ายหนึ่งเป็นคนไทย เก็บหนังสือรับรองการเรียนและรายงานที่พัก TM30 ให้เป็นปัจจุบัน — ทั้งโรงเรียนและตรวจคนเข้าเมืองขอดู"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Can a foreign family buy a house with a garden in Thailand?",
+        "zh": "外籍家庭能在泰国买带花园的房子吗？",
+        "th": "ครอบครัวต่างชาติซื้อบ้านพร้อมสวนในไทยได้หรือไม่?"
+      },
+      "answer": {
+        "en": "Foreigners cannot own land freehold, so houses are typically rented, leased long-term (registered leases up to 30 years), or the building is owned separately from leased land. Freehold condos remain the simplest ownership route for foreign families.",
+        "zh": "外国人不能以永久产权持有土地，因此房屋通常是租住、长期租赁（登记租约最长 30 年），或建筑物与租赁土地分开持有。永久产权公寓仍是外籍家庭最简单的持有方式。",
+        "th": "ชาวต่างชาติถือครองที่ดินฟรีโฮลด์ไม่ได้ บ้านจึงมักใช้วิธีเช่า เช่าระยะยาว (สัญญาเช่าจดทะเบียนสูงสุด 30 ปี) หรือถือครองตัวอาคารแยกจากที่ดินที่เช่า คอนโดฟรีโฮลด์ยังคงเป็นเส้นทางถือครองที่ง่ายที่สุดสำหรับครอบครัวต่างชาติ"
+      }
+    },
+    {
+      "question": {
+        "en": "Is Thailand safe for raising children?",
+        "zh": "在泰国养育孩子安全吗？",
+        "th": "ประเทศไทยปลอดภัยสำหรับการเลี้ยงลูกหรือไม่?"
+      },
+      "answer": {
+        "en": "Expat family areas are generally considered safe, with gated housing and school communities. The main practical risks are road traffic — Thailand has high road accident rates — so families weigh school-bus options and walkable neighborhoods highly.",
+        "zh": "外籍家庭聚居区总体被认为安全，有门禁住宅和学校社区。主要现实风险是道路交通——泰国交通事故率偏高——因此家庭非常看重校车选项和适合步行的社区。",
+        "th": "ย่านครอบครัวชาวต่างชาติโดยรวมถือว่าปลอดภัย มีที่อยู่แบบรั้วรอบและชุมชนโรงเรียน ความเสี่ยงหลักในทางปฏิบัติคือการจราจร — ไทยมีอัตราอุบัติเหตุทางถนนสูง — ครอบครัวจึงให้น้ำหนักกับรถโรงเรียนและย่านที่เดินได้"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "path": "/knowledge/articles/thailand-education-guide",
+      "label": {
+        "en": "International schools in Thailand",
+        "zh": "泰国国际学校指南",
+        "th": "โรงเรียนนานาชาติในไทย"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-healthcare-guide",
+      "label": {
+        "en": "Healthcare in Thailand",
+        "zh": "泰国医疗指南",
+        "th": "การรักษาพยาบาลในไทย"
+      }
+    },
+    {
+      "path": "/knowledge/articles/foreign-ownership-thailand",
+      "label": {
+        "en": "Foreign ownership rules",
+        "zh": "外国人持有规则",
+        "th": "กฎการถือครองของชาวต่างชาติ"
+      }
+    },
+    {
+      "path": "/cities/bangkok",
+      "label": {
+        "en": "Bangkok property hub",
+        "zh": "曼谷房产中心",
+        "th": "ศูนย์อสังหาริมทรัพย์กรุงเทพฯ"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "Immigration Bureau — dependant visa categories",
+      "url": "https://www.immigration.go.th/",
+      "verified_at": "2026-07-26"
+    },
+    {
+      "type": "industry_association",
+      "name": "International Schools Association of Thailand (ISAT)",
+      "url": "https://www.isat.or.th/",
+      "verified_at": "2026-07-26"
+    },
+    {
+      "type": "editorial",
+      "name": "GoThailandHome editorial team",
+      "url": "https://www.gothailandhome.com/en/knowledge",
+      "verified_at": "2026-07-26"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

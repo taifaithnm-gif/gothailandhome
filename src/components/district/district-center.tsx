@@ -133,6 +133,8 @@ type Props = {
   listings: PropertyView[];
   listingTotal: number;
   transitTags: string[];
+  /** Rendered FAQ must stay identical to the FAQPage schema emitted by the page. */
+  faqs?: { question: string; answer: string }[];
 };
 
 export function DistrictCenter({
@@ -144,6 +146,7 @@ export function DistrictCenter({
   listings,
   listingTotal,
   transitTags,
+  faqs = [],
 }: Props) {
   const d = dict.districtCenter;
   const unknown = d.unknown;
@@ -192,6 +195,7 @@ export function DistrictCenter({
     { id: "schools", label: d.schools },
     { id: "hospitals", label: d.hospitals },
     { id: "shopping", label: d.shopping },
+    ...(faqs.length ? [{ id: "faq", label: d.faq }] : []),
     { id: "knowledge", label: d.knowledge },
     { id: "find-my-home", label: d.findMyHomeTitle },
     { id: "platform-support", label: d.platformSupport },
@@ -449,6 +453,27 @@ export function DistrictCenter({
           />
         </Section>
 
+        {/* FAQ — visible entries mirror the FAQPage schema emitted by the page */}
+        {faqs.length ? (
+          <Section id="faq" title={d.faq} note={d.faqNote}>
+            <div className="space-y-2" data-slot="district-faq">
+              {faqs.map((item, index) => (
+                <details
+                  key={`district-faq-${index}`}
+                  className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
+                >
+                  <summary className="cursor-pointer text-sm font-medium text-[var(--brand-deep)]">
+                    {item.question}
+                  </summary>
+                  <p className="mt-2 text-sm leading-relaxed text-stone-700">
+                    {item.answer}
+                  </p>
+                </details>
+              ))}
+            </div>
+          </Section>
+        ) : null}
+
         {/* Knowledge */}
         <Section id="knowledge" title={d.knowledge} note={d.knowledgeNote}>
           <SurfaceCard className="space-y-3 p-5!">
@@ -495,6 +520,24 @@ export function DistrictCenter({
                 className="text-sm font-medium text-[var(--brand)] hover:underline"
               >
                 {d.knowledgeGlossary}
+              </Link>
+              <Link
+                href={localePath(
+                  locale,
+                  "/knowledge/articles/thailand-property-buying-guide",
+                )}
+                className="text-sm font-medium text-[var(--brand)] hover:underline"
+              >
+                {dict.contentLinks.buyingGuide}
+              </Link>
+              <Link
+                href={localePath(
+                  locale,
+                  "/knowledge/articles/foreign-ownership-thailand",
+                )}
+                className="text-sm font-medium text-[var(--brand)] hover:underline"
+              >
+                {dict.contentLinks.foreignOwnership}
               </Link>
             </div>
           </SurfaceCard>

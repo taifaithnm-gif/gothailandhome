@@ -333,8 +333,8 @@ check("contract:content fixtures for project/developer routes", () => {
   assert.equal(projects.length, 50, `expected 50 projects, got ${projects.length}`);
   assert.equal(
     developers.length,
-    20,
-    `expected 20 developers, got ${developers.length}`,
+    22,
+    `expected 22 developers, got ${developers.length}`,
   );
 });
 

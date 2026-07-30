@@ -1,0 +1,120 @@
+{
+  "slug": "thailand-property-roi-guide",
+  "type": "knowledge_article",
+  "publish_ready": true,
+  "collected_at": "2026-07-26",
+  "verified_at": "2026-07-26",
+  "title": {
+    "en": "Understanding ROI on Thai property — how to run your own numbers",
+    "zh": "理解泰国房产投资回报率——如何自己测算",
+    "th": "ทำความเข้าใจ ROI ของอสังหาริมทรัพย์ไทย — วิธีคำนวณด้วยตนเอง"
+  },
+  "summary": {
+    "en": "How to calculate gross yield, net yield, and total return on a Thai property yourself — the formulas, the cost lines investors forget, and the assumptions to stress-test.",
+    "zh": "如何自行计算泰国房产的毛收益率、净收益率与总回报——公式、投资者常忽略的成本项以及需要压力测试的假设。",
+    "th": "วิธีคำนวณผลตอบแทนรวม ผลตอบแทนสุทธิ และผลตอบแทนทั้งหมดของอสังหาริมทรัพย์ไทยด้วยตนเอง — สูตร รายการต้นทุนที่นักลงทุนมักลืม และสมมติฐานที่ควรทดสอบ"
+  },
+  "body": {
+    "en": [
+      "Gross rental yield is annual rent divided by total purchase price. It is easy to quote and easy to inflate — always ask whether the denominator includes transfer costs and furnishing, and whether the rent figure is an asking rate or a signed contract.",
+      "Net yield subtracts the real cost lines: common area fees, sinking fund amortization, land and building tax, insurance, repairs and replacement of furniture, letting or management fees, and — most importantly — vacancy between tenants. In practice these deductions materially change the picture versus the gross number.",
+      "Total return adds capital gain or loss at exit, minus selling costs (agent commission, seller-side taxes) and currency movement between your remittance and repatriation. A spreadsheet with entry costs, annual cash flows, and exit assumptions gives a far more honest answer than any single yield figure.",
+      "Stress-test three assumptions: months of vacancy per year, rent achieved versus asked, and years to resell. If the investment only works when all three are optimistic, the margin of safety is too thin.",
+      "GoThailandHome deliberately publishes no yield statistics, occupancy rates, or price forecasts, because credible unit-level numbers require signed contracts and audited costs. Use this article's method with real quotes you collect yourself, and treat any marketing yield claim as an asking price, not a fact."
+    ],
+    "zh": [
+      "毛租金收益率 = 年租金 ÷ 总购买价。它易于报出也易于夸大——务必确认分母是否包含过户成本与家具投入，租金数字是报价还是已签约租金。",
+      "净收益率要扣除真实成本项：管理费、维修基金摊销、土地与建筑税、保险、维修与家具更换、招租或管理费用，以及最重要的——租客更替间的空置期。实际操作中，这些扣减会显著改变与毛收益率的对比结果。",
+      "总回报还需加上退出时的资本利得或损失，减去出售成本（中介佣金、卖方税费）及汇入与汇出之间的汇率变动。一张包含入场成本、年度现金流与退出假设的电子表格，比任何单一收益率数字都诚实得多。",
+      "对三个假设做压力测试：每年空置月数、实际成交租金与报价租金之差、转售所需年数。如果只有三者都乐观时投资才成立，安全边际就太薄了。",
+      "GoThailandHome 刻意不发布收益率统计、入住率或价格预测，因为可信的单元级数字需要已签署合同和经审计的成本。请用本文方法结合您亲自收集的真实报价测算，并把任何营销收益率宣称当作要价而非事实。"
+    ],
+    "th": [
+      "ผลตอบแทนค่าเช่ารวม (gross yield) คือค่าเช่ารายปีหารด้วยราคาซื้อทั้งหมด ตัวเลขนี้อ้างง่ายและปั่นให้สูงง่าย — ควรถามเสมอว่าตัวหารรวมค่าโอนและค่าเฟอร์นิเจอร์หรือไม่ และตัวเลขค่าเช่าเป็นราคาเสนอหรือสัญญาที่ลงนามแล้ว",
+      "ผลตอบแทนสุทธิ (net yield) ต้องหักรายการต้นทุนจริง ได้แก่ ค่าส่วนกลาง เงินกองทุน ภาษีที่ดินและสิ่งปลูกสร้าง ประกัน ค่าซ่อมและเปลี่ยนเฟอร์นิเจอร์ ค่าหาผู้เช่าหรือบริหาร และที่สำคัญที่สุดคือช่วงว่างระหว่างผู้เช่า ในทางปฏิบัติรายการหักเหล่านี้เปลี่ยนภาพจากตัวเลขรวมอย่างมีนัยสำคัญ",
+      "ผลตอบแทนทั้งหมด (total return) บวกกำไรหรือขาดทุนจากราคาตอนขายออก หักต้นทุนการขาย (ค่านายหน้า ภาษีฝั่งผู้ขาย) และการเคลื่อนไหวของค่าเงินระหว่างตอนโอนเข้าและส่งกลับ สเปรดชีตที่มีต้นทุนเข้า กระแสเงินสดรายปี และสมมติฐานขายออก ให้คำตอบที่ตรงไปตรงมากว่าตัวเลขผลตอบแทนเดี่ยว ๆ",
+      "ทดสอบสมมติฐานสามข้อ ได้แก่ จำนวนเดือนว่างต่อปี ค่าเช่าที่ได้จริงเทียบกับที่เสนอ และจำนวนปีกว่าจะขายต่อได้ หากการลงทุนคุ้มเฉพาะเมื่อทั้งสามข้อเป็นบวกทั้งหมด แสดงว่าส่วนเผื่อความปลอดภัยบางเกินไป",
+      "GoThailandHome ตั้งใจไม่เผยแพร่สถิติผลตอบแทน อัตราการเข้าพัก หรือการคาดการณ์ราคา เพราะตัวเลขระดับยูนิตที่น่าเชื่อถือต้องอาศัยสัญญาที่ลงนามและต้นทุนที่ตรวจสอบได้ โปรดใช้วิธีในบทความนี้กับใบเสนอราคาจริงที่คุณเก็บเอง และถือว่าคำอ้างผลตอบแทนทางการตลาดเป็นราคาเสนอ ไม่ใช่ข้อเท็จจริง"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "What is a realistic vacancy assumption?",
+        "zh": "空置假设多少才现实？",
+        "th": "สมมติฐานการว่างที่สมจริงคือเท่าใด?"
+      },
+      "answer": {
+        "en": "It depends on the micro-market and unit type, so collect it locally: ask managing agents in the specific building how long comparable units sat empty between tenancies over the past year, and model at least one month per year as a floor.",
+        "zh": "取决于细分市场与户型，应就地收集：向目标楼栋的管理中介询问过去一年可比单元在租约之间空置多久，并至少按每年一个月作为下限建模。",
+        "th": "ขึ้นอยู่กับตลาดย่อยและประเภทยูนิต ควรเก็บข้อมูลในพื้นที่จริง โดยถามตัวแทนบริหารในอาคารนั้นว่าในปีที่ผ่านมายูนิตที่เทียบเคียงได้ว่างระหว่างสัญญานานเท่าใด และตั้งแบบจำลองอย่างน้อยหนึ่งเดือนต่อปีเป็นขั้นต่ำ"
+      }
+    },
+    {
+      "question": {
+        "en": "Why doesn't this platform publish yields?",
+        "zh": "为什么本平台不发布收益率？",
+        "th": "ทำไมแพลตฟอร์มนี้ไม่เผยแพร่ตัวเลขผลตอบแทน?"
+      },
+      "answer": {
+        "en": "Because published yields without signed rent contracts and audited costs are marketing numbers, not evidence. The platform's editorial policy is to show sourced facts only and give you the method to compute your own figures.",
+        "zh": "因为没有已签租约和经审计成本支撑的公开收益率只是营销数字，而非证据。平台的编辑政策是只展示有来源的事实，并提供方法让您自行计算。",
+        "th": "เพราะตัวเลขผลตอบแทนที่เผยแพร่โดยไม่มีสัญญาเช่าที่ลงนามและต้นทุนที่ตรวจสอบได้เป็นตัวเลขการตลาด ไม่ใช่หลักฐาน นโยบายบรรณาธิการของแพลตฟอร์มคือแสดงเฉพาะข้อเท็จจริงที่มีแหล่งอ้างอิง และให้วิธีการเพื่อให้คุณคำนวณตัวเลขของตนเอง"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "path": "/knowledge/articles/thailand-property-investment-basics",
+      "label": {
+        "en": "Investment basics",
+        "zh": "投资基础",
+        "th": "พื้นฐานการลงทุน"
+      }
+    },
+    {
+      "path": "/knowledge/articles/rental-investment-thailand",
+      "label": {
+        "en": "Rental investment guide",
+        "zh": "租赁投资指南",
+        "th": "คู่มือการลงทุนปล่อยเช่า"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-property-tax-guide",
+      "label": {
+        "en": "Property taxes and fees",
+        "zh": "房产税费",
+        "th": "ภาษีและค่าธรรมเนียม"
+      }
+    },
+    {
+      "path": "/buy",
+      "label": {
+        "en": "Browse sale listings",
+        "zh": "浏览出售房源",
+        "th": "ดูประกาศขาย"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "editorial",
+      "name": "GoThailandHome editorial team",
+      "url": "https://www.gothailandhome.com/en/knowledge",
+      "verified_at": "2026-07-26",
+      "note": "Methodology article; deliberately contains no market statistics."
+    },
+    {
+      "type": "government",
+      "name": "The Revenue Department — rental income taxation",
+      "url": "https://www.rd.go.th/",
+      "verified_at": "2026-07-26"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

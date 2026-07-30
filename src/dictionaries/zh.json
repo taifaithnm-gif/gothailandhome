@@ -473,7 +473,23 @@
     "districts": "区域",
     "listings": "挂牌",
     "emptyDistricts": "暂无已发布区域。",
-    "emptyProjects": "该区域暂无已导入项目。"
+    "emptyProjects": "该区域暂无已导入项目。",
+    "overview": "概览",
+    "lifestyle": "生活方式",
+    "transportation": "交通",
+    "schools": "学校",
+    "hospitals": "医院",
+    "shopping": "购物",
+    "investment": "投资",
+    "rentalMarket": "租赁市场",
+    "investmentNote": "仅提供流程性编辑内容——不含收益率预测、价格指数或编造统计。",
+    "contentNote": "编辑性城市指南内容，来源列于本页底部。",
+    "amenityNote": "仅展示有来源的条目。空类别保持隐藏——不编造任何内容。",
+    "amenitySource": "来源",
+    "faqTitle": "常见问题",
+    "faqNote": "仅提供流程性回答——不含市场统计或个性化建议。",
+    "guidesTitle": "指南与来源",
+    "guidesNote": "相关知识指南及本城市页面使用的来源。"
   },
   "knowledge": {
     "title": "知识",
@@ -505,7 +521,9 @@
     "districtsBody": "全部 50 个曼谷行政区，链接至区域中心页。",
     "districtsNotice": "邮编来自术语包。区域中心页仅在有来源时展示配套设施。",
     "postalLabel": "邮编",
-    "unknown": "未知"
+    "unknown": "未知",
+    "articleFaqTitle": "常见问题",
+    "articleRelatedTitle": "相关链接"
   },
   "blog": {
     "title": "博客",
@@ -561,7 +579,11 @@
     }
   },
   "contentLinks": {
-    "title": "相关指南"
+    "title": "相关指南",
+    "buyingGuide": "泰国购房指南",
+    "foreignOwnership": "外国人产权规则",
+    "condoGuide": "公寓购买指南",
+    "developerGuide": "如何评估开发商"
   },
   "analytics": {
     "consentTitle": "分析 Cookie",
@@ -644,7 +666,9 @@
     "findMyHomeBody": "提交私密买房/租房需求。需求不会公开发布。",
     "findMyHomeCta": "帮我找房",
     "platformSupport": "平台支持",
-    "unknown": "未知"
+    "unknown": "未知",
+    "faq": "常见问题",
+    "faqNote": "仅提供流程性回答——不含市场统计或个性化建议。"
   },
   "developers": {
     "title": "开发商",
@@ -717,6 +741,8 @@
     "relatedDevelopers": "相关开发商",
     "relatedDevelopersEmpty": "本站暂无按重叠曼谷项目区域匹配到相关开发商。",
     "similarNote": "按本站曼谷项目重叠区域匹配——不作市场地位或投资排名。",
+    "faqTitle": "常见问题",
+    "faqNote": "仅提供流程性回答——公司信息按证据分级展示，绝不编造。",
     "partnershipTitle": "开发商合作",
     "partnershipBody": "合作、资料认领与项目提交均须经 GoThailandHome 核实后方可发布。"
   },

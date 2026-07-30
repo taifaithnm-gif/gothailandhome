@@ -1,0 +1,141 @@
+{
+  "slug": "thailand-property-tax-guide",
+  "type": "knowledge_article",
+  "publish_ready": true,
+  "collected_at": "2026-07-26",
+  "verified_at": "2026-07-26",
+  "title": {
+    "en": "Property taxes and fees in Thailand — buying, holding, and selling",
+    "zh": "泰国房产税费——购买、持有与出售",
+    "th": "ภาษีและค่าธรรมเนียมอสังหาริมทรัพย์ในไทย — ซื้อ ถือครอง และขาย"
+  },
+  "summary": {
+    "en": "The main taxes and fees across a Thai property's life cycle: transfer fee, specific business tax, stamp duty, withholding tax, annual land and building tax, and rental income tax.",
+    "zh": "泰国房产全生命周期的主要税费：过户费、特种商业税、印花税、预扣税、年度土地与建筑税及租金收入税。",
+    "th": "ภาษีและค่าธรรมเนียมหลักตลอดวงจรอสังหาริมทรัพย์ไทย ได้แก่ ค่าธรรมเนียมการโอน ภาษีธุรกิจเฉพาะ อากรแสตมป์ ภาษีหัก ณ ที่จ่าย ภาษีที่ดินและสิ่งปลูกสร้างรายปี และภาษีรายได้ค่าเช่า"
+  },
+  "body": {
+    "en": [
+      "At purchase, the Land Department collects a transfer fee of 2% of the official appraised value. Who pays it — buyer, seller, or split — is a matter of negotiation recorded in the contract; developers commonly split it 50/50 with buyers on new units.",
+      "The seller's side of a transfer involves either specific business tax at 3.3% (including municipal surcharge), generally when selling within five years of acquisition, or stamp duty at 0.5% when specific business tax does not apply. Only one of the two is charged.",
+      "Withholding tax is also collected at transfer. For individual sellers it is computed from the appraised value using a formula based on years of ownership under Revenue Department rules; for corporate sellers it is 1% of the higher of the appraised value or sale price.",
+      "During ownership, the annual land and building tax (Land and Building Tax Act B.E. 2562) applies, assessed by the local administrative organization on the appraised value with progressive residential rates and reliefs for owner-occupied primary residences. Condo owners also pay building CAM fees, which are private charges rather than taxes.",
+      "Rental income earned by individuals is subject to Thai personal income tax at progressive rates, with a standard deduction available for property letting; non-resident landlords may also face withholding on rent paid by corporate tenants. Double-tax treaties may affect the position in your home country.",
+      "Rates summarized here are the statutory figures published by the Revenue Department and Land Department at the verification date. Always confirm current rates and any temporary incentive reductions before budgeting a transaction, and take professional tax advice for your specific case."
+    ],
+    "zh": [
+      "购买时，土地厅按官方评估价的 2% 收取过户费。由买方、卖方还是双方分摊，属合同约定事项；新盘常见开发商与买家各承担一半。",
+      "卖方侧的税负为二选一：一般在取得后五年内出售时缴纳 3.3% 的特种商业税（含地方附加），不适用特种商业税时则缴纳 0.5% 的印花税。两者只征其一。",
+      "过户时还需缴纳预扣税。个人卖家按税务厅规则、以评估价并结合持有年限的公式计算；公司卖家按评估价与成交价中较高者的 1% 缴纳。",
+      "持有期间适用年度土地与建筑税（2019 年《土地与建筑税法》），由地方行政机构按评估价计征，住宅适用累进税率，自住主要居所享有减免。公寓业主还需缴纳大楼管理费，但那是私人费用而非税收。",
+      "个人取得的租金收入需按累进税率缴纳泰国个人所得税，物业出租可适用标准扣除；非居民房东从公司租户收取租金时还可能被预扣。双边税收协定可能影响您在本国的税务处理。",
+      "本文汇总的税率为核验日税务厅与土地厅公布的法定数字。在为交易做预算前，请务必确认最新税率及任何临时优惠减免，并就您的具体情况寻求专业税务建议。"
+    ],
+    "th": [
+      "เมื่อซื้อ กรมที่ดินเก็บค่าธรรมเนียมการโอน 2% ของราคาประเมินทางราชการ ใครเป็นผู้จ่าย — ผู้ซื้อ ผู้ขาย หรือแบ่งกัน — เป็นเรื่องเจรจาที่บันทึกในสัญญา โครงการใหม่มักแบ่งคนละครึ่งระหว่างผู้พัฒนากับผู้ซื้อ",
+      "ฝั่งผู้ขายของการโอนต้องเสียอย่างใดอย่างหนึ่ง ได้แก่ ภาษีธุรกิจเฉพาะ 3.3% (รวมภาษีท้องถิ่น) โดยทั่วไปเมื่อขายภายในห้าปีนับจากได้มา หรืออากรแสตมป์ 0.5% เมื่อไม่เข้าเกณฑ์ภาษีธุรกิจเฉพาะ เก็บเพียงอย่างเดียวเท่านั้น",
+      "ภาษีหัก ณ ที่จ่ายเก็บในวันโอนเช่นกัน ผู้ขายบุคคลธรรมดาคำนวณจากราคาประเมินตามสูตรอิงจำนวนปีที่ถือครองตามกฎกรมสรรพากร ส่วนผู้ขายนิติบุคคลเสีย 1% ของราคาประเมินหรือราคาขายแล้วแต่จำนวนใดสูงกว่า",
+      "ระหว่างถือครอง มีภาษีที่ดินและสิ่งปลูกสร้างรายปี (พ.ร.บ. ภาษีที่ดินและสิ่งปลูกสร้าง พ.ศ. 2562) ประเมินโดยองค์กรปกครองส่วนท้องถิ่นจากราคาประเมิน ใช้อัตราก้าวหน้าสำหรับที่อยู่อาศัยและมีการลดหย่อนสำหรับที่อยู่อาศัยหลักที่เจ้าของอยู่เอง เจ้าของคอนโดยังต้องจ่ายค่าส่วนกลางซึ่งเป็นค่าใช้จ่ายเอกชนไม่ใช่ภาษี",
+      "รายได้ค่าเช่าของบุคคลธรรมดาเสียภาษีเงินได้บุคคลธรรมดาอัตราก้าวหน้า โดยหักค่าใช้จ่ายแบบเหมาได้สำหรับการให้เช่าทรัพย์ เจ้าของที่ไม่มีถิ่นพำนักอาจถูกหัก ณ ที่จ่ายเมื่อผู้เช่าเป็นนิติบุคคล อนุสัญญาภาษีซ้อนอาจมีผลต่อภาระภาษีในประเทศของคุณ",
+      "อัตราที่สรุปในบทความนี้เป็นตัวเลขตามกฎหมายที่กรมสรรพากรและกรมที่ดินเผยแพร่ ณ วันที่ตรวจสอบ โปรดยืนยันอัตราปัจจุบันและมาตรการลดหย่อนชั่วคราวก่อนวางงบประมาณ และขอคำแนะนำภาษีจากผู้เชี่ยวชาญสำหรับกรณีของคุณ"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Who normally pays the transfer costs?",
+        "zh": "过户费用通常由谁承担？",
+        "th": "โดยปกติใครเป็นผู้จ่ายค่าใช้จ่ายวันโอน?"
+      },
+      "answer": {
+        "en": "It is negotiable. A common market convention is: transfer fee split 50/50, seller pays specific business tax or stamp duty and their own withholding tax. Whatever is agreed must be written into the sale and purchase agreement.",
+        "zh": "可以协商。常见市场惯例是：过户费五五分摊，卖方承担特种商业税或印花税及其自身预扣税。无论如何约定，都必须写入买卖合同。",
+        "th": "เจรจาได้ ธรรมเนียมตลาดที่พบบ่อยคือ แบ่งค่าธรรมเนียมการโอนคนละครึ่ง ผู้ขายจ่ายภาษีธุรกิจเฉพาะหรืออากรแสตมป์และภาษีหัก ณ ที่จ่ายของตน ข้อตกลงใด ๆ ต้องระบุในสัญญาจะซื้อจะขาย"
+      }
+    },
+    {
+      "question": {
+        "en": "Is there an annual property tax in Thailand?",
+        "zh": "泰国有年度房产税吗？",
+        "th": "ประเทศไทยมีภาษีอสังหาริมทรัพย์รายปีหรือไม่?"
+      },
+      "answer": {
+        "en": "Yes — the land and building tax, assessed annually by the local administrative organization on the official appraised value, with progressive residential rates and reliefs for owner-occupied primary residences registered in the house book.",
+        "zh": "有——土地与建筑税，由地方行政机构按官方评估价每年计征，住宅适用累进税率，登记在户口簿内的自住主要居所可享减免。",
+        "th": "มี — ภาษีที่ดินและสิ่งปลูกสร้าง ประเมินรายปีโดยองค์กรปกครองส่วนท้องถิ่นจากราคาประเมินทางราชการ ใช้อัตราก้าวหน้าสำหรับที่อยู่อาศัยและมีการลดหย่อนสำหรับที่อยู่อาศัยหลักที่มีชื่อในทะเบียนบ้าน"
+      }
+    },
+    {
+      "question": {
+        "en": "Do I pay Thai tax on rental income as a foreigner?",
+        "zh": "外国人出租房产要在泰国缴税吗？",
+        "th": "ชาวต่างชาติต้องเสียภาษีไทยจากรายได้ค่าเช่าหรือไม่?"
+      },
+      "answer": {
+        "en": "Yes. Rental income from Thai property is Thai-sourced income subject to personal income tax regardless of your residence, with a standard expense deduction available for letting. File through the Revenue Department; treaty relief may apply in your home country.",
+        "zh": "要。泰国物业的租金属于泰国来源所得，无论您居住在哪里都需缴纳个人所得税，出租可适用标准费用扣除。通过税务厅申报；您所在国可能适用协定减免。",
+        "th": "ต้อง รายได้ค่าเช่าจากทรัพย์ในไทยเป็นเงินได้แหล่งในประเทศที่ต้องเสียภาษีเงินได้บุคคลธรรมดาไม่ว่าคุณพำนักที่ใด โดยหักค่าใช้จ่ายแบบเหมาได้ ยื่นผ่านกรมสรรพากร และอาจใช้สิทธิตามอนุสัญญาภาษีซ้อนในประเทศของคุณ"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "path": "/knowledge/articles/thailand-property-transfer-guide",
+      "label": {
+        "en": "Ownership transfer process",
+        "zh": "产权过户流程",
+        "th": "ขั้นตอนการโอนกรรมสิทธิ์"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-property-selling-guide",
+      "label": {
+        "en": "Selling property in Thailand",
+        "zh": "泰国卖房指南",
+        "th": "การขายอสังหาริมทรัพย์ในไทย"
+      }
+    },
+    {
+      "path": "/knowledge/articles/rental-investment-thailand",
+      "label": {
+        "en": "Rental investment guide",
+        "zh": "租赁投资指南",
+        "th": "คู่มือการลงทุนปล่อยเช่า"
+      }
+    },
+    {
+      "path": "/knowledge/investment",
+      "label": {
+        "en": "Investment guide",
+        "zh": "投资指南",
+        "th": "คู่มือการลงทุน"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "The Revenue Department",
+      "url": "https://www.rd.go.th/",
+      "verified_at": "2026-07-26",
+      "note": "Withholding tax, specific business tax, stamp duty, personal income tax."
+    },
+    {
+      "type": "government",
+      "name": "Department of Lands — fee schedule",
+      "url": "https://www.dol.go.th/",
+      "verified_at": "2026-07-26"
+    },
+    {
+      "type": "government",
+      "name": "Fiscal Policy Office — Land and Building Tax",
+      "url": "https://www.fpo.go.th/",
+      "verified_at": "2026-07-26"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

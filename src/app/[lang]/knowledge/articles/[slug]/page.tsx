@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { JsonLd } from "@/components/seo/json-ld";
@@ -7,7 +8,12 @@ import { isLocale } from "@/config/locales";
 import { renderKnowledgeArticleLocale } from "@/lib/content";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
-import { collectionPageSchema, breadcrumbListSchema, articleSchema } from "@/lib/seo/schema";
+import {
+  collectionPageSchema,
+  breadcrumbListSchema,
+  articleSchema,
+  platformFaqSchema,
+} from "@/lib/seo/schema";
 
 export async function generateMetadata({
   params,
@@ -42,6 +48,9 @@ export default async function KnowledgeArticleDetailPage({
     article.title.fallbackFrom ||
     article.summary.fallbackFrom ||
     article.body.fallbackFrom;
+
+  // Visible FAQ and FAQPage schema stay identical.
+  const faqSchema = platformFaqSchema(lang, article.faq);
 
   return (
     <PageShell
@@ -78,6 +87,7 @@ export default async function KnowledgeArticleDetailPage({
             { name: k.articlesTitle, path: "/knowledge/articles" },
             { name: article.title.value },
           ]),
+          ...(faqSchema ? [faqSchema] : []),
         ]}
       />
       <article className="space-y-6" data-slot="knowledge-article-detail">
@@ -101,6 +111,53 @@ export default async function KnowledgeArticleDetailPage({
             ))}
           </div>
         </SurfaceCard>
+        {article.faq.length ? (
+          <SurfaceCard
+            className="space-y-3 p-5!"
+            data-slot="knowledge-article-faq"
+          >
+            <h2 className="ds-h3 text-lg text-[var(--brand-deep)]">
+              {k.articleFaqTitle}
+            </h2>
+            <div className="space-y-2">
+              {article.faq.map((item, index) => (
+                <details
+                  key={`faq-${index}`}
+                  className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
+                >
+                  <summary className="cursor-pointer text-sm font-medium text-[var(--brand-deep)]">
+                    {item.question}
+                  </summary>
+                  <p className="mt-2 text-sm leading-relaxed text-stone-700">
+                    {item.answer}
+                  </p>
+                </details>
+              ))}
+            </div>
+          </SurfaceCard>
+        ) : null}
+        {article.relatedLinks.length ? (
+          <SurfaceCard
+            className="space-y-3 p-5!"
+            data-slot="knowledge-article-related"
+          >
+            <h2 className="ds-h3 text-lg text-[var(--brand-deep)]">
+              {k.articleRelatedTitle}
+            </h2>
+            <ul className="flex flex-wrap gap-x-5 gap-y-2">
+              {article.relatedLinks.map((link) => (
+                <li key={link.path}>
+                  <Link
+                    href={localePath(lang, link.path)}
+                    className="text-sm font-medium text-[var(--brand)] underline-offset-2 hover:underline"
+                  >
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </SurfaceCard>
+        ) : null}
         <SurfaceCard className="space-y-3 p-5!">
           <p className="text-xs text-stone-500">
             {k.verifiedOn}: {article.reviewedAt}

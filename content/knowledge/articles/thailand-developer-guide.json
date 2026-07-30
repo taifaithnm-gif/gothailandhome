@@ -1,0 +1,137 @@
+{
+  "slug": "thailand-developer-guide",
+  "type": "knowledge_article",
+  "publish_ready": true,
+  "collected_at": "2026-07-26",
+  "verified_at": "2026-07-26",
+  "title": {
+    "en": "How to evaluate a Thai property developer before you buy",
+    "zh": "购房前如何评估泰国开发商",
+    "th": "วิธีประเมินผู้พัฒนาอสังหาริมทรัพย์ไทยก่อนตัดสินใจซื้อ"
+  },
+  "summary": {
+    "en": "A due-diligence framework for assessing Thai developers: corporate verification, listed versus private developers, track record, escrow and payment protection, and warning signs in off-plan purchases.",
+    "zh": "评估泰国开发商的尽调框架：公司核验、上市与非上市开发商、过往履历、资金托管与付款保护，以及期房购买的警示信号。",
+    "th": "กรอบการตรวจสอบผู้พัฒนาไทย การยืนยันนิติบุคคล ผู้พัฒนาจดทะเบียนในตลาดหลักทรัพย์กับเอกชน ผลงานที่ผ่านมา เอสโครว์และการคุ้มครองการชำระเงิน และสัญญาณเตือนในการซื้อพรีเซล"
+  },
+  "body": {
+    "en": [
+      "The developer is the single largest risk factor in an off-plan purchase — more than location or price. Before signing anything, verify the developing company itself: its registration with the Department of Business Development (DBD), registered capital, directors, and whether the project company is a thinly capitalized special-purpose vehicle of a larger group.",
+      "Thailand's major listed developers — traded on the Stock Exchange of Thailand — publish audited financial statements, giving buyers visibility into debt levels and project pipelines. Private developers can be equally sound, but the burden of proof shifts to their delivered track record and financing arrangements.",
+      "Track record questions that matter: how many projects has the developer completed, were they delivered on schedule, how do their buildings look five to ten years after transfer, and how does the juristic person management perform after the developer hands over? Visiting an older completed project is worth more than any showroom.",
+      "Payment protection is structurally weak in Thailand: escrow under the Escrow Act is voluntary and rarely used, so installments paid during construction are typically unsecured advances to the developer. Mitigate by favoring completed or near-completed units, back-loading payment schedules where negotiable, and confirming the EIA approval and construction permit exist before paying beyond a booking fee.",
+      "Warning signs: heavy discounting mid-construction, sales offices unable to show the construction permit or EIA approval, repeated delivery-date extensions across the developer's portfolio, guaranteed-return offers that outrun market rents, and contracts that penalize buyer default harshly while capping developer liability at a refund. Any one of these justifies a lawyer's review before proceeding."
+    ],
+    "zh": [
+      "在期房购买中，开发商是最大的单一风险因素——超过地段和价格。签署任何文件前，先核验开发公司本身：其在商业发展厅（DBD）的注册信息、注册资本、董事构成，以及项目公司是否为大集团旗下资本单薄的特殊目的载体。",
+      "泰国主要上市开发商——在泰国证券交易所交易——公布经审计的财务报表，买家可以了解其负债水平与项目储备。非上市开发商同样可能稳健，但举证责任转移到其已交付履历与融资安排上。",
+      "关键的履历问题：开发商完成过多少项目？是否按期交付？楼盘交付五到十年后的状态如何？开发商移交后的法人管理机构运营表现如何？实地考察一个较老的已完工项目，比任何售楼处都更有价值。",
+      "泰国的付款保护在制度上较弱：《资金托管法》下的托管是自愿的且很少使用，因此施工期间支付的分期款通常是对开发商的无担保预付款。缓解方式：优先选择已完工或接近完工的单元；在可谈判时把付款计划后置；在支付超过订金的款项前，确认 EIA 环评批复与施工许可证确实存在。",
+      "警示信号：施工中途大幅折扣促销；售楼处无法出示施工许可或 EIA 批复；开发商组合内屡次延期交付；承诺回报超出市场租金水平；合同严苛惩罚买家违约却把开发商责任封顶为退款。出现其中任何一项，都应先请律师审查再继续。"
+    ],
+    "th": [
+      "ผู้พัฒนาคือปัจจัยเสี่ยงเดี่ยวที่ใหญ่ที่สุดในการซื้อพรีเซล — มากกว่าทำเลหรือราคา ก่อนเซ็นเอกสารใด ให้ตรวจบริษัทผู้พัฒนาเอง ทั้งการจดทะเบียนกับกรมพัฒนาธุรกิจการค้า (DBD) ทุนจดทะเบียน กรรมการ และดูว่าบริษัทโครงการเป็นนิติบุคคลเฉพาะกิจทุนบางของกลุ่มใหญ่หรือไม่",
+      "ผู้พัฒนารายใหญ่ที่จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทยเผยแพร่งบการเงินที่ตรวจสอบแล้ว ทำให้ผู้ซื้อเห็นระดับหนี้และไปป์ไลน์โครงการ ผู้พัฒนาเอกชนอาจมั่นคงเท่ากันได้ แต่ภาระพิสูจน์ย้ายไปที่ผลงานส่งมอบและการจัดหาเงินทุน",
+      "คำถามผลงานที่สำคัญ ผู้พัฒนาสร้างเสร็จกี่โครงการ ส่งมอบตรงเวลาหรือไม่ อาคารเป็นอย่างไรหลังโอนห้าถึงสิบปี และนิติบุคคลอาคารชุดบริหารอย่างไรหลังผู้พัฒนาส่งมอบ การไปดูโครงการเก่าที่เสร็จแล้วมีค่ามากกว่าห้องตัวอย่างใด ๆ",
+      "การคุ้มครองการชำระเงินในไทยอ่อนแอเชิงโครงสร้าง เอสโครว์ตามพระราชบัญญัติการดูแลผลประโยชน์ของคู่สัญญาเป็นแบบสมัครใจและใช้น้อย เงินงวดระหว่างก่อสร้างจึงมักเป็นเงินจ่ายล่วงหน้าแบบไม่มีหลักประกัน ลดความเสี่ยงโดยเลือกยูนิตเสร็จหรือใกล้เสร็จ เจรจาให้งวดหนักไปท้ายสัญญา และยืนยันว่ามีการอนุมัติ EIA กับใบอนุญาตก่อสร้างก่อนจ่ายเกินค่าจอง",
+      "สัญญาณเตือน การลดราคาหนักกลางการก่อสร้าง สำนักงานขายที่แสดงใบอนุญาตก่อสร้างหรือ EIA ไม่ได้ การเลื่อนส่งมอบซ้ำ ๆ ในพอร์ตของผู้พัฒนา ข้อเสนอการันตีผลตอบแทนที่สูงเกินค่าเช่าตลาด และสัญญาที่ลงโทษผู้ซื้อผิดนัดอย่างหนักแต่จำกัดความรับผิดผู้พัฒนาแค่คืนเงิน พบข้อใดข้อหนึ่งก็ควรให้ทนายตรวจก่อนไปต่อ"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "How do I verify a Thai developer's company registration?",
+        "zh": "如何核验泰国开发商的公司注册？",
+        "th": "ตรวจสอบการจดทะเบียนบริษัทผู้พัฒนาไทยอย่างไร?"
+      },
+      "answer": {
+        "en": "Company records — registration, registered capital, directors, and filed financials — can be obtained from the Department of Business Development (DBD) under the Ministry of Commerce. A Thai lawyer can pull and interpret these documents quickly.",
+        "zh": "公司记录——注册信息、注册资本、董事及申报财务——可从商业部下属的商业发展厅（DBD）获取。泰国律师能快速调取并解读这些文件。",
+        "th": "ข้อมูลบริษัท — การจดทะเบียน ทุนจดทะเบียน กรรมการ และงบการเงินที่ยื่น — ขอได้จากกรมพัฒนาธุรกิจการค้า (DBD) กระทรวงพาณิชย์ ทนายไทยสามารถดึงและตีความเอกสารเหล่านี้ได้รวดเร็ว"
+      }
+    },
+    {
+      "question": {
+        "en": "Is buying from a listed developer always safer?",
+        "zh": "从上市开发商购房一定更安全吗？",
+        "th": "ซื้อจากผู้พัฒนาจดทะเบียนในตลาดหลักทรัพย์ปลอดภัยกว่าเสมอหรือไม่?"
+      },
+      "answer": {
+        "en": "Listed status adds financial transparency and reputational stakes, which lowers — but does not eliminate — delivery risk. A private developer with decades of on-time completions can be a better bet than a leveraged listed one. Judge the evidence, not the label.",
+        "zh": "上市身份带来财务透明度与声誉约束，能降低但不能消除交付风险。一家数十年准时交付的非上市开发商，可能比高杠杆的上市公司更可靠。请依据证据而非标签判断。",
+        "th": "สถานะจดทะเบียนเพิ่มความโปร่งใสทางการเงินและต้นทุนชื่อเสียง ซึ่งลดความเสี่ยงการส่งมอบแต่ไม่ได้ขจัด ผู้พัฒนาเอกชนที่ส่งมอบตรงเวลามาหลายสิบปีอาจน่าเชื่อถือกว่าบริษัทจดทะเบียนที่กู้หนี้สูง ตัดสินจากหลักฐาน ไม่ใช่ป้ายกำกับ"
+      }
+    },
+    {
+      "question": {
+        "en": "What protects my installments if construction stops?",
+        "zh": "如果停工，我的分期款有什么保障？",
+        "th": "ถ้าการก่อสร้างหยุด เงินงวดของฉันได้รับความคุ้มครองอะไร?"
+      },
+      "answer": {
+        "en": "Often only your contract and consumer protection law — escrow is voluntary and uncommon. This is why payment schedule structure, developer financial checks, and preferring near-complete projects are the practical protections available to buyers.",
+        "zh": "通常只有您的合同和消费者保护法——托管是自愿的且不常见。这正是付款节奏安排、开发商财务核查和优先选择接近完工项目成为买家实际保护手段的原因。",
+        "th": "บ่อยครั้งมีเพียงสัญญาของคุณและกฎหมายคุ้มครองผู้บริโภค — เอสโครว์เป็นแบบสมัครใจและพบน้อย นี่คือเหตุผลที่โครงสร้างงวดชำระ การตรวจการเงินผู้พัฒนา และการเลือกโครงการใกล้เสร็จเป็นการคุ้มครองเชิงปฏิบัติของผู้ซื้อ"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "path": "/developers",
+      "label": {
+        "en": "Browse verified developers",
+        "zh": "浏览已验证开发商",
+        "th": "ดูผู้พัฒนาที่ผ่านการตรวจสอบ"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-property-buying-guide",
+      "label": {
+        "en": "Thailand property buying guide",
+        "zh": "泰国购房指南",
+        "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-condo-guide",
+      "label": {
+        "en": "Thailand condo buying guide",
+        "zh": "泰国公寓购买指南",
+        "th": "คู่มือซื้อคอนโดไทย"
+      }
+    },
+    {
+      "path": "/projects",
+      "label": {
+        "en": "Browse projects",
+        "zh": "浏览项目",
+        "th": "ดูโครงการ"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "Department of Business Development, Ministry of Commerce",
+      "url": "https://www.dbd.go.th/",
+      "verified_at": "2026-07-26"
+    },
+    {
+      "type": "government",
+      "name": "Stock Exchange of Thailand — listed company information",
+      "url": "https://www.set.or.th/",
+      "verified_at": "2026-07-26"
+    },
+    {
+      "type": "law",
+      "name": "Escrow Act B.E. 2551",
+      "url": "https://www.krisdika.go.th/",
+      "verified_at": "2026-07-26"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

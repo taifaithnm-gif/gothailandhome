@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-14",
-  "count": 20,
+  "generated_at": "2026-07-30",
+  "count": 22,
   "developers": [
     {
       "slug": "ananda-development",
@@ -103,6 +103,38 @@
       "content_path": "content/developers/assetwise/"
     },
     {
+      "slug": "bandan-estate",
+      "name": {
+        "en": "Bandan Estate",
+        "zh": "Bandan Estate",
+        "th": "บันดาล เอสเตท"
+      },
+      "legal_name": {
+        "en": "Bundarn Co., Ltd.",
+        "zh": "Bundarn Co., Ltd.",
+        "th": "บริษัท บันดาล จำกัด"
+      },
+      "website": "https://bandan-estate.com/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "listed_company": null,
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/bandan-estate/logo.svg",
+      "project_counts": {
+        "bangkok": 0,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/bandan-estate/",
+      "aliases": [
+        "bundarn"
+      ]
+    },
+    {
       "slug": "capitaland-thailand",
       "name": {
         "en": "CapitaLand Thailand",
@@ -163,6 +195,35 @@
         "phuket": 0
       },
       "content_path": "content/developers/frasers-property-thailand/"
+    },
+    {
+      "slug": "infinite-real-estate",
+      "name": {
+        "en": "Infinite Real Estate",
+        "zh": "Infinite Real Estate",
+        "th": "อินฟินิท เรียลเอสเตท"
+      },
+      "legal_name": {
+        "en": "Infinite Real Estate Co., Ltd.",
+        "zh": "Infinite Real Estate Co., Ltd.",
+        "th": "บริษัท อินฟินิท เรียลเอสเตท จำกัด"
+      },
+      "website": "https://infinite.co.th/",
+      "established_year": null,
+      "headquarters": {
+        "en": "Thailand",
+        "zh": "泰国",
+        "th": "ประเทศไทย"
+      },
+      "listed_company": null,
+      "verification_status": "platform_verified",
+      "logo_path": "/developers/infinite-real-estate/logo.svg",
+      "project_counts": {
+        "bangkok": 0,
+        "pattaya": 0,
+        "phuket": 0
+      },
+      "content_path": "content/developers/infinite-real-estate/"
     },
     {
       "slug": "land-and-houses",

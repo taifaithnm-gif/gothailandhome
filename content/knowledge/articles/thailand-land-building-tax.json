@@ -1,0 +1,117 @@
+{
+  "slug": "thailand-land-building-tax",
+  "type": "knowledge_article",
+  "publish_ready": true,
+  "collected_at": "2026-07-26",
+  "verified_at": "2026-07-26",
+  "title": {
+    "en": "Thailand's land and building tax — how the annual tax works",
+    "zh": "泰国土地与建筑税——年度税如何运作",
+    "th": "ภาษีที่ดินและสิ่งปลูกสร้างของไทย — ภาษีรายปีทำงานอย่างไร"
+  },
+  "summary": {
+    "en": "How Thailand's annual land and building tax is assessed: who pays, usage categories, appraised-value basis, primary-residence relief, and the payment cycle.",
+    "zh": "泰国年度土地与建筑税的计征方式：纳税人、用途分类、评估价基础、主要居所减免与缴纳周期。",
+    "th": "การประเมินภาษีที่ดินและสิ่งปลูกสร้างรายปีของไทย ใครเป็นผู้เสีย ประเภทการใช้ประโยชน์ ฐานราคาประเมิน การลดหย่อนที่อยู่อาศัยหลัก และรอบการชำระ"
+  },
+  "body": {
+    "en": [
+      "The Land and Building Tax Act B.E. 2562 (2019) replaced Thailand's old house-and-land and local development taxes. The person or entity whose name is on the title deed on 1 January of each tax year is liable for that year's tax, including foreign condominium owners.",
+      "Tax is assessed on the official appraised value determined by the Treasury Department, not the market price. Rates depend on how the property is used — agricultural, residential, commercial/other, or vacant/unused — with residential use taxed at the lowest progressive band and vacant land escalating if left unused over consecutive years.",
+      "Owner-occupiers whose name appears in the house registration book for the property receive a primary-residence exemption up to a value threshold set by the Act and royal decrees; investment units and second homes do not receive this relief, so foreign owners of rented condos should expect a small annual bill.",
+      "The local administrative organization (municipality or subdistrict administrative organization) issues assessment notices early in the year, and payment is normally due by the end of April, with installment options for larger amounts. Late payment triggers surcharges and fines set by the Act.",
+      "In practice, condominium juristic persons often coordinate collection notices for owners. Keep your mailing address current with the juristic person and the Land Office, and keep payment receipts — arrears surface as a problem at resale, when the transfer requires taxes to be settled."
+    ],
+    "zh": [
+      "2019 年《土地与建筑税法》取代了泰国旧的房屋土地税和地方发展税。每个纳税年度 1 月 1 日在地契上登记的个人或实体为该年度纳税义务人，外国公寓业主也不例外。",
+      "该税按财政厅确定的官方评估价计征，而非市场价格。税率取决于物业用途——农业、住宅、商业/其他或空置/未使用——住宅用途适用最低档累进税率，连续多年空置的土地税率会逐步上调。",
+      "户口簿登记在该物业名下的自住业主可享受法案及敕令规定价值门槛内的主要居所免税；投资单元和第二居所不享受该减免，因此出租公寓的外国业主每年会有一笔小额税单。",
+      "地方行政机构（市政府或区级行政机构）在年初发出评估通知，通常须在 4 月底前缴纳，大额可分期。逾期将按法案规定加收滞纳金和罚款。",
+      "实践中，公寓法人常为业主转达缴税通知。请在公寓法人和土地办事处保持最新通讯地址并保存缴税收据——欠税会在转售时暴露，因为过户要求税款结清。"
+    ],
+    "th": [
+      "พระราชบัญญัติภาษีที่ดินและสิ่งปลูกสร้าง พ.ศ. 2562 มาแทนภาษีโรงเรือนและที่ดินกับภาษีบำรุงท้องที่แบบเดิม ผู้มีชื่อบนโฉนด ณ วันที่ 1 มกราคมของปีภาษีเป็นผู้มีหน้าที่เสียภาษีของปีนั้น รวมถึงเจ้าของห้องชุดชาวต่างชาติ",
+      "ภาษีประเมินจากราคาประเมินทางราชการที่กรมธนารักษ์กำหนด ไม่ใช่ราคาตลาด อัตราขึ้นอยู่กับการใช้ประโยชน์ — เกษตรกรรม ที่อยู่อาศัย พาณิชยกรรม/อื่น ๆ หรือที่รกร้างว่างเปล่า — โดยที่อยู่อาศัยใช้อัตราก้าวหน้าขั้นต่ำสุด และที่ดินรกร้างจะถูกปรับอัตราเพิ่มหากปล่อยว่างต่อเนื่องหลายปี",
+      "เจ้าของที่อยู่เองและมีชื่อในทะเบียนบ้านของทรัพย์นั้นได้รับการยกเว้นที่อยู่อาศัยหลักภายในเพดานมูลค่าที่กฎหมายและพระราชกฤษฎีกากำหนด ยูนิตลงทุนและบ้านหลังที่สองไม่ได้รับสิทธินี้ เจ้าของต่างชาติที่ปล่อยเช่าคอนโดจึงควรคาดว่ามีบิลรายปีจำนวนไม่มาก",
+      "องค์กรปกครองส่วนท้องถิ่น (เทศบาลหรือ อบต.) ออกหนังสือแจ้งประเมินช่วงต้นปี และปกติต้องชำระภายในสิ้นเดือนเมษายน มีตัวเลือกผ่อนชำระสำหรับยอดใหญ่ การชำระล่าช้ามีเบี้ยปรับและเงินเพิ่มตามกฎหมาย",
+      "ในทางปฏิบัติ นิติบุคคลอาคารชุดมักช่วยประสานหนังสือแจ้งให้เจ้าของ โปรดปรับปรุงที่อยู่ติดต่อกับนิติบุคคลและสำนักงานที่ดินให้เป็นปัจจุบัน และเก็บใบเสร็จไว้ — หนี้ภาษีค้างจะเป็นปัญหาตอนขายต่อ เพราะการโอนต้องชำระภาษีให้ครบก่อน"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Do foreign condo owners pay land and building tax?",
+        "zh": "外国公寓业主要缴土地与建筑税吗？",
+        "th": "เจ้าของคอนโดชาวต่างชาติต้องเสียภาษีที่ดินและสิ่งปลูกสร้างหรือไม่?"
+      },
+      "answer": {
+        "en": "Yes. Liability follows the name on the title deed regardless of nationality. Units used as rentals or second homes are taxed at residential rates without the primary-residence exemption.",
+        "zh": "要。纳税义务跟随地契上的登记人，与国籍无关。用于出租或作为第二居所的单元按住宅税率计征，且不享受主要居所免税。",
+        "th": "ต้อง หน้าที่ภาษีเป็นไปตามชื่อบนโฉนดไม่ว่าสัญชาติใด ยูนิตที่ปล่อยเช่าหรือเป็นบ้านหลังที่สองเสียอัตราที่อยู่อาศัยโดยไม่ได้รับยกเว้นที่อยู่อาศัยหลัก"
+      }
+    },
+    {
+      "question": {
+        "en": "When is the tax due each year?",
+        "zh": "每年何时缴纳？",
+        "th": "ภาษีครบกำหนดชำระเมื่อใดในแต่ละปี?"
+      },
+      "answer": {
+        "en": "Assessment notices go out early in the year and payment is normally due by the end of April, unless the government extends deadlines by announcement. Check the notice from your local administrative organization for the exact date.",
+        "zh": "评估通知于年初发出，通常须在 4 月底前缴纳，除非政府公告延期。具体日期以地方行政机构的通知为准。",
+        "th": "หนังสือแจ้งประเมินออกช่วงต้นปีและปกติต้องชำระภายในสิ้นเดือนเมษายน เว้นแต่รัฐบาลประกาศขยายเวลา โปรดดูวันที่แน่นอนจากหนังสือแจ้งขององค์กรปกครองส่วนท้องถิ่นของคุณ"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "path": "/knowledge/articles/thailand-property-tax-guide",
+      "label": {
+        "en": "Property taxes and fees overview",
+        "zh": "房产税费总览",
+        "th": "ภาพรวมภาษีและค่าธรรมเนียม"
+      }
+    },
+    {
+      "path": "/knowledge/articles/rental-investment-thailand",
+      "label": {
+        "en": "Rental investment guide",
+        "zh": "租赁投资指南",
+        "th": "คู่มือการลงทุนปล่อยเช่า"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-property-selling-guide",
+      "label": {
+        "en": "Selling property in Thailand",
+        "zh": "泰国卖房指南",
+        "th": "การขายอสังหาริมทรัพย์ในไทย"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "Fiscal Policy Office — Land and Building Tax Act",
+      "url": "https://www.fpo.go.th/",
+      "verified_at": "2026-07-26"
+    },
+    {
+      "type": "government",
+      "name": "The Treasury Department — property appraisal values",
+      "url": "https://www.treasury.go.th/",
+      "verified_at": "2026-07-26"
+    },
+    {
+      "type": "editorial",
+      "name": "GoThailandHome editorial team",
+      "url": "https://www.gothailandhome.com/en/knowledge",
+      "verified_at": "2026-07-26"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

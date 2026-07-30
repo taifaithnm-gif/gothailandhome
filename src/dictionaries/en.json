@@ -473,7 +473,23 @@
     "districts": "Districts",
     "listings": "Listings",
     "emptyDistricts": "No districts published yet.",
-    "emptyProjects": "No imported projects in this area yet."
+    "emptyProjects": "No imported projects in this area yet.",
+    "overview": "Overview",
+    "lifestyle": "Lifestyle",
+    "transportation": "Transportation",
+    "schools": "Schools",
+    "hospitals": "Hospitals",
+    "shopping": "Shopping",
+    "investment": "Investment",
+    "rentalMarket": "Rental market",
+    "investmentNote": "Editorial process notes only — no yield forecasts, price indices, or invented statistics.",
+    "contentNote": "Editorial city guide content. Sources are listed at the bottom of this page.",
+    "amenityNote": "Sourced package entries only. Empty categories stay hidden — nothing is invented.",
+    "amenitySource": "Source",
+    "faqTitle": "FAQ",
+    "faqNote": "Process answers only — no market statistics or personalized advice.",
+    "guidesTitle": "Guides & sources",
+    "guidesNote": "Related knowledge guides and the sources used for this city page."
   },
   "knowledge": {
     "title": "Knowledge",
@@ -505,7 +521,9 @@
     "districtsBody": "All 50 Bangkok districts with links to District Center pages.",
     "districtsNotice": "Postal codes come from the glossary package. District Center pages add sourced amenities only when present.",
     "postalLabel": "Postal code",
-    "unknown": "Unknown"
+    "unknown": "Unknown",
+    "articleFaqTitle": "Frequently asked questions",
+    "articleRelatedTitle": "Related links"
   },
   "blog": {
     "title": "Blog",
@@ -561,7 +579,11 @@
     }
   },
   "contentLinks": {
-    "title": "Related guides"
+    "title": "Related guides",
+    "buyingGuide": "Thailand property buying guide",
+    "foreignOwnership": "Foreign ownership rules",
+    "condoGuide": "Condo buying guide",
+    "developerGuide": "How to evaluate developers"
   },
   "analytics": {
     "consentTitle": "Analytics cookies",
@@ -644,7 +666,9 @@
     "findMyHomeBody": "Submit a private buyer or tenant brief. Your demand is never published as a public listing.",
     "findMyHomeCta": "Find My Home",
     "platformSupport": "Platform support",
-    "unknown": "Unknown"
+    "unknown": "Unknown",
+    "faq": "FAQ",
+    "faqNote": "Process answers only — no market statistics or personalized advice."
   },
   "developers": {
     "title": "Developers",
@@ -717,6 +741,8 @@
     "relatedDevelopers": "Related developers",
     "relatedDevelopersEmpty": "No related developers matched by shared Bangkok project districts on this platform.",
     "similarNote": "Matched by overlapping Bangkok project districts on this platform — not a market-position or investment ranking.",
+    "faqTitle": "FAQ",
+    "faqNote": "Process answers only — company facts stay evidence-classed and are never invented.",
     "partnershipTitle": "Developer partnership",
     "partnershipBody": "Partnership, profile claims, and project submissions are subject to GoThailandHome verification before publish."
   },

@@ -1,0 +1,125 @@
+{
+  "slug": "thailand-property-selling-guide",
+  "type": "knowledge_article",
+  "publish_ready": true,
+  "collected_at": "2026-07-26",
+  "verified_at": "2026-07-26",
+  "title": {
+    "en": "Selling property in Thailand — process, taxes, and repatriating funds",
+    "zh": "在泰国出售房产——流程、税费与资金汇出",
+    "th": "การขายอสังหาริมทรัพย์ในไทย — ขั้นตอน ภาษี และการส่งเงินกลับ"
+  },
+  "summary": {
+    "en": "A seller's walkthrough for Thai property: preparing documents, agent agreements, seller-side taxes, the transfer appointment, and sending sale proceeds abroad.",
+    "zh": "泰国卖房流程指南：备齐文件、中介协议、卖方税费、过户预约与售房款汇出境外。",
+    "th": "คู่มือฝั่งผู้ขายสำหรับอสังหาริมทรัพย์ไทย ได้แก่ การเตรียมเอกสาร ข้อตกลงนายหน้า ภาษีฝั่งผู้ขาย นัดโอนกรรมสิทธิ์ และการส่งเงินขายไปต่างประเทศ"
+  },
+  "body": {
+    "en": [
+      "Before listing, assemble the document set buyers and lawyers will ask for: the title deed, your purchase contract and FET evidence from when you bought, the latest common fee receipts, and — for condos — the juristic person's contact for the debt-free certificate that must be issued before transfer.",
+      "Agent engagement in Thailand is usually non-exclusive with commission around 3% payable on completion, though both the rate and exclusivity are negotiable. Put the commission, marketing scope, and term in writing to avoid double-commission disputes between agents.",
+      "Seller-side transfer costs typically include withholding tax (calculated from the appraised value and your years of ownership for individuals), and either specific business tax — generally when selling within five years of acquisition — or stamp duty. The buyer conventionally shares the 2% transfer fee, but the split follows your contract.",
+      "On transfer day at the Land Department you (or your attorney-in-fact) hand over the deed, sign the official sale documents, receive payment — commonly a cashier's cheque — and the buyer is endorsed on the title. Do not release the deed before payment clears.",
+      "Foreign sellers repatriating proceeds send funds abroad through a Thai bank, which will ask for the sale contract, transfer receipts, and evidence of the original inward remittance. Keeping your FET paperwork from purchase is what makes this step routine instead of painful."
+    ],
+    "zh": [
+      "挂牌前先备齐买家和律师会索要的文件：地契、您当年的购房合同与 FET 汇入证明、最新的管理费收据，公寓还需公寓法人的联系方式，以便开具过户前必备的无欠费证明。",
+      "泰国的中介委托通常是非独家、佣金约 3%、成交时支付，但费率与独家性均可协商。请将佣金、推广范围和期限写成书面协议，以避免中介之间的双重佣金纠纷。",
+      "卖方过户成本通常包括预扣税（个人按评估价和持有年限计算），以及特种商业税（一般为取得后五年内出售时）或印花税之一。2% 过户费按惯例与买家分摊，具体以合同为准。",
+      "过户当日，您（或受托人）在土地厅交出地契、签署官方买卖文件、收取房款——通常为银行本票——买家随即登记到产权上。款项到账确认前不要交出地契。",
+      "外国卖家汇出售房款需通过泰国银行办理，银行会要求提供买卖合同、过户收据及当年资金汇入的证明。保存好购房时的 FET 文件，能让这一步成为例行手续而非难题。"
+    ],
+    "th": [
+      "ก่อนประกาศขาย ให้รวบรวมชุดเอกสารที่ผู้ซื้อและทนายจะขอ ได้แก่ โฉนด สัญญาซื้อและหลักฐาน FET จากตอนที่คุณซื้อ ใบเสร็จค่าส่วนกลางล่าสุด และสำหรับคอนโด ต้องมีข้อมูลติดต่อนิติบุคคลเพื่อออกหนังสือปลอดหนี้ซึ่งจำเป็นก่อนโอน",
+      "การว่าจ้างนายหน้าในไทยมักไม่ผูกขาด ค่าคอมมิชชันราว 3% จ่ายเมื่อปิดการขาย ทั้งอัตราและความผูกขาดเจรจาได้ ควรทำข้อตกลงค่าคอมมิชชัน ขอบเขตการตลาด และระยะเวลาเป็นลายลักษณ์อักษรเพื่อเลี่ยงข้อพิพาทคอมมิชชันซ้ำซ้อนระหว่างนายหน้า",
+      "ค่าใช้จ่ายฝั่งผู้ขายมักได้แก่ ภาษีหัก ณ ที่จ่าย (บุคคลธรรมดาคำนวณจากราคาประเมินและจำนวนปีที่ถือครอง) และภาษีธุรกิจเฉพาะ — โดยทั่วไปเมื่อขายภายในห้าปีนับจากได้มา — หรืออากรแสตมป์อย่างใดอย่างหนึ่ง ค่าธรรมเนียมการโอน 2% มักแบ่งกับผู้ซื้อ แต่เป็นไปตามสัญญาของคุณ",
+      "ในวันโอนที่กรมที่ดิน คุณ (หรือผู้รับมอบอำนาจ) ส่งมอบโฉนด ลงนามเอกสารซื้อขายทางราชการ รับชำระเงิน — โดยทั่วไปเป็นแคชเชียร์เช็ค — แล้วชื่อผู้ซื้อจะถูกสลักบนโฉนด อย่าปล่อยโฉนดก่อนเงินเคลียร์",
+      "ผู้ขายชาวต่างชาติที่ส่งเงินกลับต้องทำผ่านธนาคารไทย ซึ่งจะขอสัญญาขาย ใบเสร็จการโอน และหลักฐานการนำเงินเข้าครั้งแรก การเก็บเอกสาร FET จากตอนซื้อทำให้ขั้นตอนนี้เป็นเรื่องปกติแทนที่จะเป็นปัญหา"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Can I sell before the project is completed?",
+        "zh": "项目建成前可以转售吗？",
+        "th": "ขายก่อนโครงการสร้างเสร็จได้หรือไม่?"
+      },
+      "answer": {
+        "en": "Off-plan resale is possible by assigning your purchase contract to a new buyer before transfer, subject to the developer's assignment rules and fees. The assignment must be documented through the developer to be safe.",
+        "zh": "可以在过户前将购房合同转让给新买家（俗称楼花转让），但须遵守开发商的转让规则并缴纳相关费用。为稳妥起见，转让必须经开发商书面办理。",
+        "th": "การขายดาวน์ทำได้โดยโอนสิทธิตามสัญญาซื้อให้ผู้ซื้อรายใหม่ก่อนการโอนกรรมสิทธิ์ ภายใต้กฎและค่าธรรมเนียมการโอนสิทธิของผู้พัฒนา การโอนสิทธิควรทำเป็นเอกสารผ่านผู้พัฒนาเพื่อความปลอดภัย"
+      }
+    },
+    {
+      "question": {
+        "en": "Will I be taxed on my capital gain?",
+        "zh": "资本利得要缴税吗？",
+        "th": "กำไรจากการขายต้องเสียภาษีหรือไม่?"
+      },
+      "answer": {
+        "en": "Thailand has no separate capital gains tax on property for individuals; instead, the withholding tax collected at transfer is computed from the appraised value and ownership years and generally serves as the final tax for individuals. Corporate sellers are taxed within their company accounts. Confirm treatment for your case with a tax advisor.",
+        "zh": "泰国对个人出售房产不另征资本利得税；过户时按评估价和持有年限计算的预扣税一般即个人的最终税负。公司卖家在公司账目内纳税。具体处理请与税务顾问确认。",
+        "th": "ประเทศไทยไม่มีภาษีกำไรส่วนทุนแยกสำหรับบุคคลธรรมดา ภาษีหัก ณ ที่จ่ายที่เก็บตอนโอนซึ่งคำนวณจากราคาประเมินและจำนวนปีถือครองโดยทั่วไปถือเป็นภาษีสุดท้ายของบุคคลธรรมดา ผู้ขายนิติบุคคลเสียภาษีในบัญชีบริษัท โปรดยืนยันกรณีของคุณกับที่ปรึกษาภาษี"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "path": "/knowledge/articles/thailand-property-transfer-guide",
+      "label": {
+        "en": "Ownership transfer process",
+        "zh": "产权过户流程",
+        "th": "ขั้นตอนการโอนกรรมสิทธิ์"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-property-tax-guide",
+      "label": {
+        "en": "Property taxes and fees",
+        "zh": "房产税费",
+        "th": "ภาษีและค่าธรรมเนียม"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-property-roi-guide",
+      "label": {
+        "en": "Understanding ROI",
+        "zh": "理解投资回报率",
+        "th": "ทำความเข้าใจ ROI"
+      }
+    },
+    {
+      "path": "/find-my-home",
+      "label": {
+        "en": "Find My Home service",
+        "zh": "帮我找房服务",
+        "th": "บริการหาบ้านให้ฉัน"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "Department of Lands, Ministry of Interior",
+      "url": "https://www.dol.go.th/",
+      "verified_at": "2026-07-26"
+    },
+    {
+      "type": "government",
+      "name": "The Revenue Department — property transfer taxation",
+      "url": "https://www.rd.go.th/",
+      "verified_at": "2026-07-26"
+    },
+    {
+      "type": "government",
+      "name": "Bank of Thailand — outward remittance rules",
+      "url": "https://www.bot.or.th/",
+      "verified_at": "2026-07-26"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

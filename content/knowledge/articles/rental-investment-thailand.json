@@ -1,0 +1,126 @@
+{
+  "slug": "rental-investment-thailand",
+  "type": "knowledge_article",
+  "publish_ready": true,
+  "collected_at": "2026-07-26",
+  "verified_at": "2026-07-26",
+  "title": {
+    "en": "Renting out property in Thailand — rules, taxes, and management",
+    "zh": "在泰国出租房产——规则、税务与管理",
+    "th": "การปล่อยเช่าอสังหาริมทรัพย์ในไทย — กฎ ภาษี และการบริหาร"
+  },
+  "summary": {
+    "en": "What landlords need to know in Thailand: short-term rental law, lease conventions, deposits, tax filing on rental income, and using property management companies.",
+    "zh": "泰国房东须知：短租法律、租约惯例、押金、租金收入报税及物业管理公司的使用。",
+    "th": "สิ่งที่ผู้ให้เช่าในไทยควรรู้ ได้แก่ กฎหมายเช่าระยะสั้น ธรรมเนียมสัญญาเช่า เงินมัดจำ การยื่นภาษีรายได้ค่าเช่า และการใช้บริษัทบริหารทรัพย์"
+    },
+  "body": {
+    "en": [
+      "Letting a Thai property below 30 days per stay generally falls under the Hotel Act, which requires a hotel licence that individual condo units cannot obtain, and most condominium juristic persons additionally prohibit daily letting in their building rules. The compliant baseline for individual owners is monthly or longer tenancies.",
+      "Standard long-term leases in Thailand run twelve months with a two-month security deposit plus one month's rent in advance. Leases over three years must be registered at the Land Department to be fully enforceable for the excess term.",
+      "Residential tenants dealing with landlords who lease five or more units are protected by the Consumer Protection Board's contract-controlled business rules, which cap deposits and regulate termination clauses — relevant if you scale up a rental portfolio.",
+      "Rental income is Thai-sourced and taxable in Thailand regardless of where you live. Individual landlords may deduct a standard expense allowance for letting, file an annual return (and a half-year return where required) with the Revenue Department, and should keep contracts and receipts for every tenancy.",
+      "Remote owners commonly appoint a property management company for tenant sourcing, rent collection, maintenance, and tax coordination, at a fee usually expressed as a percentage of rent or a fixed monthly amount. Verify what the manager's contract covers, how deposits are held, and how statements are reported before committing."
+    ],
+    "zh": [
+      "单次入住不足 30 天的出租一般受《酒店法》约束，需要酒店牌照——个人公寓单元无法取得，而且多数公寓法人在大楼规约中额外禁止按日出租。个人业主的合规基线是按月或更长期限的租约。",
+      "泰国的标准长租为十二个月，收取两个月押金加一个月预付租金。超过三年的租约须在土地厅登记，超出部分方能完全强制执行。",
+      "面向出租五套及以上单元的房东，住宅租户受消费者保护委员会「受控合同业务」规则保护，该规则限制押金上限并规范解约条款——若您扩大租赁组合，这一点尤为相关。",
+      "租金收入属于泰国来源所得，无论您居住在哪里都需在泰国纳税。个人房东出租可适用标准费用扣除，须向税务厅提交年度申报（必要时还有半年度申报），并应保存每份租约与收据。",
+      "身在海外的业主通常委托物业管理公司负责招租、收租、维护与税务协调，费用一般按租金比例或固定月费计。签约前请核实管理合同的覆盖范围、押金的保管方式与对账报告机制。"
+    ],
+    "th": [
+      "การปล่อยเช่าต่ำกว่า 30 วันต่อการเข้าพักโดยทั่วไปอยู่ภายใต้พระราชบัญญัติโรงแรม ซึ่งต้องมีใบอนุญาตโรงแรมที่ห้องชุดรายบุคคลไม่สามารถขอได้ และนิติบุคคลอาคารชุดส่วนใหญ่ยังห้ามการเช่ารายวันในข้อบังคับอาคาร แนวทางที่ถูกต้องสำหรับเจ้าของรายบุคคลคือสัญญาเช่ารายเดือนขึ้นไป",
+      "สัญญาเช่าระยะยาวมาตรฐานในไทยคือสิบสองเดือน พร้อมเงินประกันสองเดือนและค่าเช่าล่วงหน้าหนึ่งเดือน สัญญาเช่าเกินสามปีต้องจดทะเบียนที่กรมที่ดินจึงจะบังคับใช้ได้เต็มที่สำหรับส่วนที่เกิน",
+      "ผู้เช่าที่ทำสัญญากับผู้ให้เช่าที่มีห้าหน่วยขึ้นไปได้รับความคุ้มครองตามประกาศธุรกิจควบคุมสัญญาของคณะกรรมการคุ้มครองผู้บริโภค ซึ่งจำกัดเงินประกันและควบคุมข้อกำหนดการเลิกสัญญา — เกี่ยวข้องหากคุณขยายพอร์ตปล่อยเช่า",
+      "รายได้ค่าเช่าเป็นเงินได้แหล่งในไทยและต้องเสียภาษีในไทยไม่ว่าคุณอยู่ที่ใด ผู้ให้เช่าบุคคลธรรมดาหักค่าใช้จ่ายแบบเหมาได้ ต้องยื่นแบบประจำปี (และครึ่งปีตามที่กำหนด) กับกรมสรรพากร และควรเก็บสัญญาและใบเสร็จของทุกการเช่า",
+      "เจ้าของที่อยู่ต่างประเทศมักแต่งตั้งบริษัทบริหารทรัพย์เพื่อหาผู้เช่า เก็บค่าเช่า ซ่อมบำรุง และประสานภาษี โดยคิดค่าบริการเป็นเปอร์เซ็นต์ของค่าเช่าหรือค่าคงที่รายเดือน ก่อนตกลงควรตรวจสอบขอบเขตสัญญาผู้บริหาร วิธีเก็บรักษาเงินประกัน และรูปแบบรายงานบัญชี"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Can I list my Thai condo on nightly rental platforms?",
+        "zh": "我可以把泰国公寓挂到按晚出租平台吗？",
+        "th": "นำคอนโดไทยไปลงแพลตฟอร์มเช่ารายคืนได้หรือไม่?"
+      },
+      "answer": {
+        "en": "Nightly letting of an individual condo generally violates the Hotel Act and most building rules, and enforcement actions do occur. Monthly and longer stays are the compliant route for individual owners.",
+        "zh": "个人公寓按晚出租一般违反《酒店法》及多数大楼规约，且确有执法案例。按月及更长租期才是个人业主的合规途径。",
+        "th": "การให้เช่ารายคืนของห้องชุดรายบุคคลโดยทั่วไปขัดพระราชบัญญัติโรงแรมและข้อบังคับอาคารส่วนใหญ่ และมีการบังคับใช้จริง การเช่ารายเดือนขึ้นไปคือช่องทางที่ถูกต้องสำหรับเจ้าของรายบุคคล"
+      }
+    },
+    {
+      "question": {
+        "en": "How much deposit can I take from a tenant?",
+        "zh": "可以向租客收多少押金？",
+        "th": "เก็บเงินประกันจากผู้เช่าได้เท่าใด?"
+      },
+      "answer": {
+        "en": "Market convention is two months' deposit plus one month advance rent. Landlords with five or more rental units fall under contract-controlled business rules that cap the deposit at one month plus one month advance.",
+        "zh": "市场惯例为两个月押金加一个月预付租金。持有五套及以上出租单元的房东适用受控合同规则，押金上限为一个月加一个月预付。",
+        "th": "ธรรมเนียมตลาดคือเงินประกันสองเดือนบวกค่าเช่าล่วงหน้าหนึ่งเดือน ผู้ให้เช่าที่มีห้าหน่วยขึ้นไปอยู่ภายใต้กฎธุรกิจควบคุมสัญญาที่จำกัดเงินประกันไว้หนึ่งเดือนบวกล่วงหน้าหนึ่งเดือน"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "path": "/knowledge/articles/thailand-property-tax-guide",
+      "label": {
+        "en": "Property taxes and fees",
+        "zh": "房产税费",
+        "th": "ภาษีและค่าธรรมเนียม"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-property-roi-guide",
+      "label": {
+        "en": "Understanding ROI",
+        "zh": "理解投资回报率",
+        "th": "ทำความเข้าใจ ROI"
+      }
+    },
+    {
+      "path": "/rent",
+      "label": {
+        "en": "Browse rental listings",
+        "zh": "浏览租赁房源",
+        "th": "ดูประกาศเช่า"
+      }
+    },
+    {
+      "path": "/cities/pattaya",
+      "label": {
+        "en": "Pattaya property hub",
+        "zh": "芭提雅房产中心",
+        "th": "ศูนย์อสังหาริมทรัพย์พัทยา"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "The Revenue Department — personal income tax",
+      "url": "https://www.rd.go.th/",
+      "verified_at": "2026-07-26"
+    },
+    {
+      "type": "government",
+      "name": "Office of the Consumer Protection Board",
+      "url": "https://www.ocpb.go.th/",
+      "verified_at": "2026-07-26",
+      "note": "Contract-controlled residential leasing rules."
+    },
+    {
+      "type": "government",
+      "name": "Office of the Council of State — Hotel Act",
+      "url": "https://www.krisdika.go.th/",
+      "verified_at": "2026-07-26"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

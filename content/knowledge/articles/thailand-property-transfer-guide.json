@@ -1,0 +1,139 @@
+{
+  "slug": "thailand-property-transfer-guide",
+  "type": "knowledge_article",
+  "publish_ready": true,
+  "collected_at": "2026-07-26",
+  "verified_at": "2026-07-26",
+  "title": {
+    "en": "Property ownership transfer in Thailand — the Land Department process",
+    "zh": "泰国产权过户——土地厅办理流程",
+    "th": "การโอนกรรมสิทธิ์อสังหาริมทรัพย์ในไทย — ขั้นตอนที่กรมที่ดิน"
+  },
+  "summary": {
+    "en": "What happens on transfer day at the Thai Land Department: required documents for foreign buyers, the FET evidence, fee calculation, and how the new title is registered.",
+    "zh": "泰国土地厅过户日流程详解：外国买家所需文件、外汇汇入证明、费用计算，以及新产权的登记方式。",
+    "th": "สิ่งที่เกิดขึ้นในวันโอนที่กรมที่ดิน ได้แก่ เอกสารที่ผู้ซื้อชาวต่างชาติต้องใช้ หลักฐาน FET การคำนวณค่าธรรมเนียม และการจดทะเบียนกรรมสิทธิ์ใหม่"
+  },
+  "body": {
+    "en": [
+      "Ownership of registered property in Thailand changes only when the transfer is recorded at the provincial or branch Land Office where the property is located. Both parties (or their attorneys-in-fact with notarized powers of attorney) appear in person, documents are checked, taxes and fees are paid, and the officer records the new owner on the title deed.",
+      "A foreign condominium buyer typically prepares: passport (and marriage/name-change documents if applicable), the Foreign Exchange Transaction evidence or bank confirmation letters showing inward remittance of the purchase price in foreign currency, and the debt-free certificate plus foreign-quota confirmation letter issued by the condominium juristic person.",
+      "The seller prepares the original title deed, house registration book, ID or company documents, and — for developers — the corporate authorization set. If either side uses an agent, the Land Department's power of attorney form (Tor Dor 21) must be completed precisely.",
+      "Fees and taxes are computed on the official appraised value and/or the declared sale price under rules set by the Land Department and Revenue Department: the transfer fee, withholding tax, and specific business tax or stamp duty. The office collects everything on the day, and the split between parties follows the contract.",
+      "After payment, the officer endorses the new owner's name on the back of the title deed and issues the updated deed the same day in most straightforward cases. Keep the deed, receipts, and FET evidence permanently — they are needed for any future sale and for repatriating funds when you exit."
+    ],
+    "zh": [
+      "泰国登记类不动产的所有权只有在物业所在地的府或分支土地办事处完成登记后才发生转移。双方（或持公证授权书的受托人）到场，经文件核验、缴纳税费后，官员在地契上登记新所有人。",
+      "外国公寓买家通常需准备：护照（如适用还需结婚/更名文件）、显示购房款以外币汇入的外汇交易证明（FET）或银行确认函，以及公寓法人出具的无欠费证明和外资配额确认函。",
+      "卖方需准备地契原件、户口簿（Tabien Baan）、身份证或公司文件，开发商则需备妥公司授权文件。任一方委托代办时，必须准确填写土地厅的授权书表格（Tor Dor 21）。",
+      "税费按土地厅与税务厅规则、以官方评估价和/或申报成交价计算，包括过户费、预扣税以及特种商业税或印花税。所有款项当日在办事处缴清，双方分担按合同执行。",
+      "缴费完成后，官员在地契背面登记新所有人姓名，多数常规案件当天即发放更新后的地契。请永久保存地契、缴费收据与 FET 证明——未来出售及退出时汇出资金都需要它们。"
+    ],
+    "th": [
+      "กรรมสิทธิ์ในอสังหาริมทรัพย์จดทะเบียนของไทยจะเปลี่ยนก็ต่อเมื่อบันทึกการโอนที่สำนักงานที่ดินจังหวัดหรือสาขาที่ทรัพย์ตั้งอยู่ ทั้งสองฝ่าย (หรือผู้รับมอบอำนาจพร้อมหนังสือมอบอำนาจ) มาปรากฏตัว เอกสารถูกตรวจสอบ ชำระภาษีและค่าธรรมเนียม แล้วเจ้าหน้าที่จดชื่อเจ้าของใหม่บนโฉนด",
+      "ผู้ซื้อห้องชุดชาวต่างชาติมักต้องเตรียม หนังสือเดินทาง (และเอกสารสมรส/เปลี่ยนชื่อหากมี) หลักฐานธุรกรรมเงินตราต่างประเทศ (FET) หรือหนังสือรับรองจากธนาคารที่แสดงการโอนเงินค่าซื้อเข้ามาเป็นเงินตราต่างประเทศ พร้อมหนังสือปลอดหนี้และหนังสือรับรองโควตาชาวต่างชาติจากนิติบุคคลอาคารชุด",
+      "ผู้ขายเตรียมโฉนดฉบับจริง ทะเบียนบ้าน บัตรประชาชนหรือเอกสารบริษัท และสำหรับผู้พัฒนาต้องมีชุดเอกสารมอบอำนาจของบริษัท หากฝ่ายใดใช้ตัวแทน ต้องกรอกแบบหนังสือมอบอำนาจของกรมที่ดิน (ท.ด.21) อย่างถูกต้อง",
+      "ค่าธรรมเนียมและภาษีคำนวณจากราคาประเมินทางราชการและ/หรือราคาซื้อขายที่แจ้ง ตามกฎของกรมที่ดินและกรมสรรพากร ได้แก่ ค่าธรรมเนียมการโอน ภาษีหัก ณ ที่จ่าย และภาษีธุรกิจเฉพาะหรืออากรแสตมป์ สำนักงานเก็บทั้งหมดในวันนั้น การแบ่งจ่ายเป็นไปตามสัญญา",
+      "หลังชำระเงิน เจ้าหน้าที่สลักชื่อเจ้าของใหม่ด้านหลังโฉนดและออกโฉนดฉบับปรับปรุงภายในวันเดียวในกรณีทั่วไป โปรดเก็บโฉนด ใบเสร็จ และหลักฐาน FET ไว้ถาวร เพราะต้องใช้ในการขายในอนาคตและการส่งเงินกลับเมื่อออกจากการลงทุน"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "What is the FET form and why does it matter?",
+        "zh": "什么是 FET 表？为何重要？",
+        "th": "แบบฟอร์ม FET คืออะไรและสำคัญอย่างไร?"
+      },
+      "answer": {
+        "en": "The Foreign Exchange Transaction form is the bank's record that funds entered Thailand in foreign currency. The Land Department requires this evidence to register condominium ownership in a foreigner's name, and it supports repatriating sale proceeds later.",
+        "zh": "外汇交易表（FET）是银行对资金以外币进入泰国的记录。土地厅登记外国人公寓产权时要求提供该证明，将来汇出售房款时它同样是依据。",
+        "th": "แบบฟอร์มธุรกรรมเงินตราต่างประเทศคือบันทึกของธนาคารว่าเงินเข้ามาในประเทศไทยเป็นเงินตราต่างประเทศ กรมที่ดินต้องใช้หลักฐานนี้ในการจดทะเบียนกรรมสิทธิ์ห้องชุดในชื่อชาวต่างชาติ และยังใช้รองรับการส่งเงินขายกลับต่างประเทศในภายหลัง"
+      }
+    },
+    {
+      "question": {
+        "en": "Can the transfer be done without me attending?",
+        "zh": "我本人不到场也能过户吗？",
+        "th": "โอนกรรมสิทธิ์ได้หรือไม่หากไม่ไปด้วยตนเอง?"
+      },
+      "answer": {
+        "en": "Yes, through the Land Department's power of attorney form signed per its requirements (typically notarized or legalized when signed abroad). Most foreign buyers appoint their lawyer for the appointment.",
+        "zh": "可以，通过按土地厅要求签署的授权书办理（境外签署通常需公证或认证）。多数外国买家委托律师代为到场。",
+        "th": "ได้ ผ่านแบบหนังสือมอบอำนาจของกรมที่ดินที่ลงนามตามข้อกำหนด (หากลงนามในต่างประเทศมักต้องผ่านการรับรองเอกสาร) ผู้ซื้อชาวต่างชาติส่วนใหญ่มอบหมายให้ทนายความไปแทน"
+      }
+    },
+    {
+      "question": {
+        "en": "How long does transfer day take?",
+        "zh": "过户当天需要多久？",
+        "th": "วันโอนใช้เวลานานเท่าใด?"
+      },
+      "answer": {
+        "en": "A straightforward condominium transfer with complete documents is usually finished within one visit of a few hours, including fee payment and deed endorsement. Missing documents — most often the quota letter or FET evidence — are the main cause of postponed appointments.",
+        "zh": "文件齐全的常规公寓过户通常一次到场、数小时内完成，含缴费和地契登记。文件缺失——最常见的是配额函或 FET 证明——是延期的主要原因。",
+        "th": "การโอนห้องชุดทั่วไปที่เอกสารครบมักเสร็จในการไปครั้งเดียวไม่กี่ชั่วโมง รวมการชำระค่าธรรมเนียมและการสลักหลังโฉนด เอกสารที่ขาด — บ่อยที่สุดคือหนังสือโควตาหรือหลักฐาน FET — เป็นสาเหตุหลักของการเลื่อนนัด"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "path": "/knowledge/articles/thailand-property-buying-guide",
+      "label": {
+        "en": "Thailand property buying guide",
+        "zh": "泰国购房指南",
+        "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-property-tax-guide",
+      "label": {
+        "en": "Taxes and fees when buying",
+        "zh": "购房税费",
+        "th": "ภาษีและค่าธรรมเนียมเมื่อซื้อ"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-property-selling-guide",
+      "label": {
+        "en": "Selling property in Thailand",
+        "zh": "泰国卖房指南",
+        "th": "การขายอสังหาริมทรัพย์ในไทย"
+      }
+    },
+    {
+      "path": "/knowledge/legal",
+      "label": {
+        "en": "Legal guide",
+        "zh": "法律指南",
+        "th": "คู่มือกฎหมาย"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "Department of Lands, Ministry of Interior",
+      "url": "https://www.dol.go.th/",
+      "verified_at": "2026-07-26",
+      "note": "Transfer registration procedure and fee schedule."
+    },
+    {
+      "type": "government",
+      "name": "The Revenue Department",
+      "url": "https://www.rd.go.th/",
+      "verified_at": "2026-07-26",
+      "note": "Withholding tax and specific business tax on property transfers."
+    },
+    {
+      "type": "editorial",
+      "name": "GoThailandHome editorial team",
+      "url": "https://www.gothailandhome.com/en/knowledge",
+      "verified_at": "2026-07-26"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

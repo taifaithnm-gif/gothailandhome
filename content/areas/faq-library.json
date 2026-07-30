@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "updated_at": "2026-07-26",
+  "note": "Reusable area FAQ templates. Placeholders {area} and {city} are filled per page. Answers describe legal process and platform behavior only — no market statistics, yields, or price claims.",
+  "entries": [
+    {
+      "id": "area-faq-foreign-condo",
+      "question": {
+        "en": "Can foreigners buy a condominium in {area}?",
+        "zh": "外国人可以在{area}购买公寓吗？",
+        "th": "ชาวต่างชาติสามารถซื้อคอนโดมิเนียมใน{area}ได้หรือไม่?"
+      },
+      "answer": {
+        "en": "Yes. Under Thailand's Condominium Act, foreigners can own condominium units freehold as long as foreign ownership in the building does not exceed 49% of the total saleable area. Purchase funds must be transferred into Thailand in foreign currency with bank evidence (Foreign Exchange Transaction form) for the Land Department transfer.",
+        "zh": "可以。根据泰国《公寓法》，只要整栋楼的外资持有比例不超过可售面积的 49%，外国人即可以永久产权持有公寓单元。购房资金须以外币汇入泰国，并保留银行的外汇交易证明（FET 表格）用于土地厅过户。",
+        "th": "ได้ ตามพระราชบัญญัติอาคารชุดของไทย ชาวต่างชาติสามารถถือกรรมสิทธิ์ห้องชุดแบบฟรีโฮลด์ได้ ตราบใดที่สัดส่วนการถือครองของชาวต่างชาติในอาคารไม่เกิน 49% ของพื้นที่ขายทั้งหมด เงินที่ใช้ซื้อต้องโอนเข้าประเทศไทยเป็นเงินตราต่างประเทศพร้อมหลักฐานจากธนาคาร (แบบฟอร์ม FET) สำหรับการโอนกรรมสิทธิ์ที่กรมที่ดิน"
+      }
+    },
+    {
+      "id": "area-faq-verified-listings",
+      "question": {
+        "en": "How do I find verified listings in {area}?",
+        "zh": "如何找到{area}的已核验房源？",
+        "th": "จะหาประกาศที่ผ่านการตรวจสอบใน{area}ได้อย่างไร?"
+      },
+      "answer": {
+        "en": "The listings section on this page shows verified public listings linked to {area} on GoThailandHome. Every listing goes through the platform's verification process before publication. The counts shown are platform inventory, not a complete market census.",
+        "zh": "本页的房源版块展示 GoThailandHome 上与{area}关联的已核验公开房源。所有房源在发布前都经过平台核验流程。显示的数量为平台库存，并非完整的市场普查。",
+        "th": "ส่วนประกาศในหน้านี้แสดงประกาศสาธารณะที่ผ่านการตรวจสอบซึ่งเชื่อมโยงกับ{area}บน GoThailandHome ทุกประกาศผ่านกระบวนการตรวจสอบของแพลตฟอร์มก่อนเผยแพร่ จำนวนที่แสดงเป็นคลังข้อมูลของแพลตฟอร์ม ไม่ใช่สำมะโนตลาดทั้งหมด"
+      }
+    },
+    {
+      "id": "area-faq-before-buying",
+      "question": {
+        "en": "What should I check before buying property in {area}?",
+        "zh": "在{area}买房前应该核查什么？",
+        "th": "ควรตรวจสอบอะไรก่อนซื้ออสังหาริมทรัพย์ใน{area}?"
+      },
+      "answer": {
+        "en": "Key checks include the developer's track record, the project's juristic person and sinking fund status, the title deed (chanote) at the Land Department, foreign quota availability for condos, and total transaction costs such as the transfer fee and taxes. A lawyer-led due diligence review before signing is strongly recommended.",
+        "zh": "重点核查开发商的过往记录、项目法人与维修基金状况、土地厅的地契（Chanote）、公寓外资配额余量，以及过户费和税费等交易总成本。强烈建议在签约前由律师进行尽职调查。",
+        "th": "สิ่งที่ควรตรวจสอบ ได้แก่ ประวัติผลงานของผู้พัฒนา สถานะนิติบุคคลอาคารชุดและเงินกองทุน โฉนดที่ดินที่กรมที่ดิน โควตาชาวต่างชาติของคอนโด และค่าใช้จ่ายรวมของธุรกรรม เช่น ค่าธรรมเนียมการโอนและภาษี แนะนำอย่างยิ่งให้ทนายความตรวจสอบสถานะทางกฎหมายก่อนลงนาม"
+      }
+    },
+    {
+      "id": "area-faq-financing",
+      "question": {
+        "en": "Can foreigners get a mortgage for property in {area}?",
+        "zh": "外国人能为{area}的房产申请贷款吗？",
+        "th": "ชาวต่างชาติขอสินเชื่อเพื่อซื้ออสังหาริมทรัพย์ใน{area}ได้หรือไม่?"
+      },
+      "answer": {
+        "en": "Local mortgage options for non-residents are limited in Thailand. Some Thai banks and international banks offer financing to foreigners under specific conditions such as work permits or offshore income, and some developers offer installment plans. Most foreign buyers purchase with funds transferred from abroad.",
+        "zh": "在泰国，非居民的本地房贷选择有限。部分泰国银行和国际银行在持有工作证或有境外收入等特定条件下向外国人提供贷款，一些开发商也提供分期方案。大多数外国买家使用从境外汇入的资金购房。",
+        "th": "ทางเลือกสินเชื่อในประเทศสำหรับผู้ไม่มีถิ่นพำนักในไทยมีจำกัด ธนาคารไทยและธนาคารระหว่างประเทศบางแห่งให้สินเชื่อแก่ชาวต่างชาติภายใต้เงื่อนไขเฉพาะ เช่น มีใบอนุญาตทำงานหรือรายได้จากต่างประเทศ และผู้พัฒนาบางรายมีแผนผ่อนชำระ ผู้ซื้อชาวต่างชาติส่วนใหญ่ใช้เงินที่โอนมาจากต่างประเทศ"
+      }
+    },
+    {
+      "id": "area-faq-taxes",
+      "question": {
+        "en": "What taxes and fees apply when buying in {area}?",
+        "zh": "在{area}购房需要缴纳哪些税费？",
+        "th": "การซื้ออสังหาริมทรัพย์ใน{area}มีภาษีและค่าธรรมเนียมอะไรบ้าง?"
+      },
+      "answer": {
+        "en": "Typical transfer-day costs at the Land Department include a 2% transfer fee on the appraised value, plus either specific business tax (3.3%) or stamp duty (0.5%) depending on the seller's holding period, and withholding tax. Owners also pay the annual land and building tax. Cost sharing between buyer and seller is negotiable and should be written into the contract.",
+        "zh": "土地厅过户日的常见费用包括按评估价 2% 的过户费，视卖方持有年限缴纳特种商业税（3.3%）或印花税（0.5%），以及预扣税。业主还需每年缴纳土地与建筑税。买卖双方的费用分担可协商，并应写入合同。",
+        "th": "ค่าใช้จ่ายในวันโอน ณ กรมที่ดินโดยทั่วไป ได้แก่ ค่าธรรมเนียมการโอน 2% ของราคาประเมิน ภาษีธุรกิจเฉพาะ (3.3%) หรืออากรแสตมป์ (0.5%) ขึ้นอยู่กับระยะเวลาถือครองของผู้ขาย และภาษีหัก ณ ที่จ่าย เจ้าของยังต้องชำระภาษีที่ดินและสิ่งปลูกสร้างรายปี การแบ่งภาระค่าใช้จ่ายระหว่างผู้ซื้อและผู้ขายสามารถเจรจาได้และควรระบุไว้ในสัญญา"
+      }
+    }
+  ]
+}

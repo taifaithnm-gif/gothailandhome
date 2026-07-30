@@ -85,14 +85,14 @@ function normalizeAmenity(raw: unknown): DistrictAmenity | null {
   };
 }
 
-function normalizeAmenities(raw: unknown): DistrictAmenity[] {
+export function normalizeAmenities(raw: unknown): DistrictAmenity[] {
   if (!Array.isArray(raw)) return [];
   return raw
     .map((item) => normalizeAmenity(item))
     .filter((item): item is DistrictAmenity => item != null);
 }
 
-function normalizeSources(raw: unknown): DistrictSource[] {
+export function normalizeSources(raw: unknown): DistrictSource[] {
   if (!Array.isArray(raw)) return [];
   const out: DistrictSource[] = [];
   for (const item of raw) {

@@ -1295,6 +1295,46 @@ export default async function ProjectLandingPage({
             </Link>
           </SurfaceCard>
 
+          {/* Buyer guides — internal knowledge links */}
+          <SurfaceCard className="p-5!" data-slot="project-knowledge-links">
+            <h2 className="ds-h3 text-xl">{dict.contentLinks.title}</h2>
+            <ul className="mt-3 space-y-2 text-sm">
+              <li>
+                <Link
+                  href={localePath(
+                    locale,
+                    "/knowledge/articles/thailand-property-buying-guide",
+                  )}
+                  className="text-[var(--brand)] underline-offset-2 hover:underline"
+                >
+                  {dict.contentLinks.buyingGuide}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href={localePath(
+                    locale,
+                    "/knowledge/articles/foreign-ownership-thailand",
+                  )}
+                  className="text-[var(--brand)] underline-offset-2 hover:underline"
+                >
+                  {dict.contentLinks.foreignOwnership}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href={localePath(
+                    locale,
+                    "/knowledge/articles/thailand-condo-guide",
+                  )}
+                  className="text-[var(--brand)] underline-offset-2 hover:underline"
+                >
+                  {dict.contentLinks.condoGuide}
+                </Link>
+              </li>
+            </ul>
+          </SurfaceCard>
+
           {/* 12. Project support — A official / B platform */}
           <SurfaceCard className="p-5!" data-slot="contact-official">
             <h2 className="ds-h3 text-xl">{pl.contactOfficial}</h2>

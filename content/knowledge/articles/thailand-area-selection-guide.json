@@ -1,0 +1,127 @@
+{
+  "slug": "thailand-area-selection-guide",
+  "type": "knowledge_article",
+  "publish_ready": true,
+  "collected_at": "2026-07-26",
+  "verified_at": "2026-07-26",
+  "title": {
+    "en": "How to choose where to buy in Thailand — a location framework",
+    "zh": "如何选择在泰国哪里买房——选址框架",
+    "th": "จะเลือกซื้อที่ไหนในประเทศไทย — กรอบการเลือกทำเล"
+  },
+  "summary": {
+    "en": "A structured way to compare Thai locations before buying: matching city character to your use case, evaluating districts on transit, amenities, and supply, and testing an area before committing.",
+    "zh": "购买前系统比较泰国各地的方法：让城市气质匹配您的用途，从交通、配套与供应评估片区，并在决策前实地验证。",
+    "th": "วิธีเปรียบเทียบทำเลในไทยอย่างเป็นระบบก่อนซื้อ จับคู่บุคลิกเมืองกับวัตถุประสงค์ ประเมินย่านจากขนส่ง สิ่งอำนวยความสะดวก และอุปทาน แล้วทดสอบพื้นที่ก่อนตัดสินใจ"
+  },
+  "body": {
+    "en": [
+      "Start from your use case, not from a map: a primary residence, a retirement base, a holiday home, and a rental investment each rank locations differently. Bangkok leads for work, healthcare depth, and transit; Phuket and Pattaya for coastal lifestyle and tourism-driven rentals; Chiang Mai for cost of living and a slower pace.",
+      "Within a city, evaluate districts on five measurable axes: transit access (in Bangkok, walking distance to BTS/MRT stations is the single strongest location variable), daily amenities, hospital and school proximity, new-supply pipeline nearby, and the character of the immediate street — which changes block by block in Thai cities.",
+      "Supply matters as much as demand: an attractive district with heavy incoming condo supply can stay renter-friendly and resale-difficult for years. Check what is under construction within a kilometer — cranes visible from the balcony are information.",
+      "Micro-location beats macro-location at equal budget: a well-run building 400 meters from a station in a good-enough district typically outperforms a mediocre building in a famous district. Orientation, floor, view permanence, and building management quality are decisions you live with daily.",
+      "Test before you commit: rent in the exact area for at least a month across a season change if possible, walk the street at night and in rain, ride the actual commute at rush hour, and talk to residents of the building you shortlist. Nothing in a brochure substitutes for this."
+    ],
+    "zh": [
+      "从用途出发，而非从地图出发：自住、退休、度假与租赁投资对地点的排序各不相同。曼谷在就业、医疗深度和轨道交通方面领先；普吉和芭提雅胜在海滨生活方式与旅游驱动的租赁；清迈则以生活成本和慢节奏见长。",
+      "在城市内部，从五个可衡量的维度评估片区：轨道交通可达性（在曼谷，到 BTS/MRT 车站的步行距离是最强的单一区位变量）、日常配套、医院与学校距离、周边新增供应管线，以及所在街道的即时氛围——泰国城市的街区气质逐街变化。",
+      "供应与需求同样重要：一个有吸引力但新公寓供应量大的片区，可能多年保持「利于租客、不利转售」的状态。查看一公里范围内的在建项目——阳台上望得见的塔吊就是信息。",
+      "同等预算下，微区位胜过宏观区位：位于「足够好」片区、距车站 400 米、管理良好的楼盘，通常优于名气片区里的平庸楼盘。朝向、楼层、景观的持久性与楼宇管理质量，是您每天都要面对的决定。",
+      "决策前实地验证：尽可能在目标区域跨季节租住至少一个月，夜间和雨天步行街区，在高峰时段体验真实通勤，并与候选楼盘的住户交流。任何售楼资料都无法替代这些。"
+    ],
+    "th": [
+      "เริ่มจากวัตถุประสงค์ ไม่ใช่จากแผนที่ บ้านหลัก ฐานเกษียณ บ้านพักตากอากาศ และการลงทุนปล่อยเช่า จัดอันดับทำเลต่างกัน กรุงเทพฯ นำด้านงาน ความลึกของการแพทย์ และขนส่งมวลชน ภูเก็ตกับพัทยาเด่นด้านไลฟ์สไตล์ชายทะเลและการเช่าจากท่องเที่ยว เชียงใหม่เด่นด้านค่าครองชีพและจังหวะชีวิตช้า",
+      "ภายในเมือง ประเมินย่านจากห้าแกนที่วัดได้ การเข้าถึงขนส่ง (ในกรุงเทพฯ ระยะเดินถึงสถานี BTS/MRT คือตัวแปรทำเลที่แรงที่สุด) สิ่งอำนวยความสะดวกรายวัน ระยะถึงโรงพยาบาลและโรงเรียน ไปป์ไลน์อุปทานใหม่ใกล้เคียง และบุคลิกของถนนหน้าบ้าน — ซึ่งเปลี่ยนทีละช่วงตึกในเมืองไทย",
+      "อุปทานสำคัญเท่าอุปสงค์ ย่านที่น่าดึงดูดแต่มีคอนโดใหม่เข้ามามากอาจอยู่ในภาวะ เป็นมิตรกับผู้เช่าแต่ขายต่อยาก ไปหลายปี ตรวจว่ามีอะไรกำลังก่อสร้างในรัศมีหนึ่งกิโลเมตร — เครนที่เห็นจากระเบียงคือข้อมูล",
+      "ไมโครโลเคชันชนะแมโครโลเคชันที่งบเท่ากัน อาคารบริหารดีห่างสถานี 400 เมตรในย่านที่ดีพอ มักดีกว่าอาคารธรรมดาในย่านชื่อดัง ทิศ ชั้น ความถาวรของวิว และคุณภาพการบริหารอาคารคือการตัดสินใจที่คุณอยู่กับมันทุกวัน",
+      "ทดสอบก่อนตัดสินใจ เช่าในพื้นที่จริงอย่างน้อยหนึ่งเดือนคร่อมการเปลี่ยนฤดูถ้าทำได้ เดินถนนตอนกลางคืนและตอนฝนตก ลองเดินทางจริงชั่วโมงเร่งด่วน และคุยกับผู้อยู่อาศัยในอาคารที่คุณเล็งไว้ ไม่มีโบรชัวร์ใดแทนสิ่งเหล่านี้ได้"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Which Thai city is best for property investment?",
+        "zh": "泰国哪个城市最适合房产投资？",
+        "th": "เมืองใดในไทยดีที่สุดสำหรับการลงทุนอสังหาริมทรัพย์?"
+      },
+      "answer": {
+        "en": "There is no universal answer — Bangkok offers the deepest, most liquid market; Phuket and Pattaya offer tourism-driven rental demand with more seasonality; Chiang Mai offers lower entry prices with a thinner resale market. Match the city to your rental strategy and holding horizon.",
+        "zh": "没有普适答案——曼谷市场最深、流动性最好；普吉和芭提雅有旅游驱动的租赁需求但季节性更强；清迈入门价格更低但转售市场较薄。请让城市匹配您的租赁策略与持有周期。",
+        "th": "ไม่มีคำตอบสากล กรุงเทพฯ มีตลาดลึกและสภาพคล่องสูงสุด ภูเก็ตกับพัทยามีอุปสงค์เช่าจากท่องเที่ยวแต่ฤดูกาลชัดกว่า เชียงใหม่ราคาเริ่มต่ำกว่าแต่ตลาดขายต่อบางกว่า จับคู่เมืองกับกลยุทธ์ปล่อยเช่าและระยะถือครองของคุณ"
+      }
+    },
+    {
+      "question": {
+        "en": "How important is BTS/MRT proximity in Bangkok?",
+        "zh": "在曼谷，临近 BTS/MRT 有多重要？",
+        "th": "ความใกล้ BTS/MRT สำคัญแค่ไหนในกรุงเทพฯ?"
+      },
+      "answer": {
+        "en": "It is the strongest single location factor for both rentability and resale in the condo market. Walking distance under roughly 500 meters to a station consistently commands premiums; check the walk in person, since map distance and actual walking routes differ.",
+        "zh": "它是公寓市场中对出租与转售最强的单一区位因素。到车站步行约 500 米以内的项目稳定享有溢价；请实地步行验证，因为地图距离与实际步行路线并不一致。",
+        "th": "เป็นปัจจัยทำเลเดี่ยวที่แรงที่สุดต่อทั้งการปล่อยเช่าและการขายต่อในตลาดคอนโด ระยะเดินต่ำกว่าราว 500 เมตรถึงสถานีมีส่วนต่างราคาสม่ำเสมอ ควรเดินจริงด้วยตนเอง เพราะระยะบนแผนที่กับเส้นทางเดินจริงต่างกัน"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "path": "/cities/bangkok",
+      "label": {
+        "en": "Bangkok property hub",
+        "zh": "曼谷房产中心",
+        "th": "ศูนย์อสังหาริมทรัพย์กรุงเทพฯ"
+      }
+    },
+    {
+      "path": "/cities/pattaya",
+      "label": {
+        "en": "Pattaya property hub",
+        "zh": "芭提雅房产中心",
+        "th": "ศูนย์อสังหาริมทรัพย์พัทยา"
+      }
+    },
+    {
+      "path": "/cities/phuket",
+      "label": {
+        "en": "Phuket property hub",
+        "zh": "普吉房产中心",
+        "th": "ศูนย์อสังหาริมทรัพย์ภูเก็ต"
+      }
+    },
+    {
+      "path": "/cities/chiang-mai",
+      "label": {
+        "en": "Chiang Mai property hub",
+        "zh": "清迈房产中心",
+        "th": "ศูนย์อสังหาริมทรัพย์เชียงใหม่"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-property-buying-guide",
+      "label": {
+        "en": "Thailand property buying guide",
+        "zh": "泰国购房指南",
+        "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "Bangkok Mass Transit System / MRTA route information",
+      "url": "https://www.mrta.co.th/",
+      "verified_at": "2026-07-26"
+    },
+    {
+      "type": "editorial",
+      "name": "GoThailandHome editorial team",
+      "url": "https://www.gothailandhome.com/en/knowledge",
+      "verified_at": "2026-07-26"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

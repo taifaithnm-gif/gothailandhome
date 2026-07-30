@@ -1,0 +1,221 @@
+{
+  "slug": "chiang-mai",
+  "version": 1,
+  "updated_at": "2026-07-26",
+  "summary": {
+    "en": "Northern Thailand's cultural capital — a lower-density market popular with retirees, remote workers, and long-stay residents.",
+    "zh": "泰北文化之都——密度较低的市场，深受退休人士、远程工作者和长住居民欢迎。",
+    "th": "เมืองหลวงทางวัฒนธรรมของภาคเหนือ — ตลาดความหนาแน่นต่ำที่ได้รับความนิยมจากผู้เกษียณ คนทำงานทางไกล และผู้พำนักระยะยาว"
+  },
+  "overview": {
+    "en": [
+      "Chiang Mai is the largest city in northern Thailand, known for its old-city heritage, universities, and mountain setting. Its property market is smaller and lower-rise than Bangkok's, weighted toward affordable condos, townhomes, and houses.",
+      "Key residential areas include Nimmanhaemin and the area around Chiang Mai University in the west, the Old City and riverside to the center, and growing zones along the Super Highway and toward Hang Dong in the south.",
+      "The city attracts retirees, digital-nomad and remote-work residents, and families seeking international schooling at a lower cost base than Bangkok or Phuket."
+    ],
+    "zh": [
+      "清迈是泰国北部最大的城市，以古城遗产、大学和山地环境著称。其房地产市场规模小于曼谷、楼层更低，以价格亲民的公寓、联排和独栋住宅为主。",
+      "主要居住区包括西侧的宁曼路及清迈大学周边、市中心的古城与滨河区域，以及沿超级公路和南部杭东方向不断扩展的板块。",
+      "这座城市吸引退休人士、数字游民与远程工作者，以及寻求比曼谷或普吉成本更低的国际教育的家庭。"
+    ],
+    "th": [
+      "เชียงใหม่เป็นเมืองที่ใหญ่ที่สุดในภาคเหนือของประเทศไทย มีชื่อเสียงด้านมรดกเมืองเก่า มหาวิทยาลัย และภูมิทัศน์ภูเขา ตลาดอสังหาริมทรัพย์มีขนาดเล็กกว่าและอาคารเตี้ยกว่ากรุงเทพฯ เน้นคอนโดราคาเข้าถึงได้ ทาวน์โฮม และบ้านเดี่ยว",
+      "ย่านที่อยู่อาศัยหลัก ได้แก่ นิมมานเหมินท์และบริเวณรอบมหาวิทยาลัยเชียงใหม่ทางตะวันตก เมืองเก่าและริมแม่น้ำตอนกลาง และโซนที่กำลังเติบโตตามแนวซุปเปอร์ไฮเวย์และทางหางดงทางใต้",
+      "เมืองนี้ดึงดูดผู้เกษียณ ชาวดิจิทัลโนแมดและคนทำงานทางไกล รวมถึงครอบครัวที่ต้องการโรงเรียนนานาชาติด้วยต้นทุนต่ำกว่ากรุงเทพฯ หรือภูเก็ต"
+    ]
+  },
+  "lifestyle": {
+    "en": [
+      "Chiang Mai offers a slower pace than Bangkok with cafés, markets, temples, and quick access to mountain nature. The Nimmanhaemin area is the hub for coworking and international dining, while Hang Dong and Mae Rim suit house-and-garden living.",
+      "Seasonal air quality in the burning season (roughly February to April) is a practical consideration for year-round residents and worth researching before choosing a location."
+    ],
+    "zh": [
+      "清迈的生活节奏比曼谷更慢，咖啡馆、市集、寺庙与山地自然近在咫尺。宁曼区是联合办公与国际餐饮的中心，杭东和湄林则适合带花园的住宅生活。",
+      "烧荒季（约 2 月至 4 月）的季节性空气质量是全年居住者需要实际考量的因素，选址前值得研究。"
+    ],
+    "th": [
+      "เชียงใหม่มีจังหวะชีวิตช้ากว่ากรุงเทพฯ พร้อมคาเฟ่ ตลาด วัด และเข้าถึงธรรมชาติภูเขาได้รวดเร็ว ย่านนิมมานเหมินท์เป็นศูนย์กลางโคเวิร์กกิงและร้านอาหารนานาชาติ ส่วนหางดงและแม่ริมเหมาะกับบ้านพร้อมสวน",
+      "คุณภาพอากาศตามฤดูกาลในช่วงฤดูเผา (ราวกุมภาพันธ์ถึงเมษายน) เป็นข้อพิจารณาเชิงปฏิบัติสำหรับผู้อยู่อาศัยตลอดปีและควรศึกษาก่อนเลือกทำเล"
+    ]
+  },
+  "transportation": [
+    {
+      "name": {
+        "en": "Chiang Mai International Airport (CNX)",
+        "zh": "清迈国际机场（CNX）",
+        "th": "ท่าอากาศยานนานาชาติเชียงใหม่ (CNX)"
+      },
+      "mode": "air",
+      "source_url": "https://chiangmai.airportthai.co.th/"
+    },
+    {
+      "name": {
+        "en": "Chiang Mai Railway Station (SRT)",
+        "zh": "清迈火车站（泰国国铁）",
+        "th": "สถานีรถไฟเชียงใหม่ (รฟท.)"
+      },
+      "mode": "rail",
+      "source_url": "https://www.railway.co.th/"
+    }
+  ],
+  "schools": [
+    {
+      "name": {
+        "en": "Prem Tinsulanonda International School",
+        "zh": "普林国际学校",
+        "th": "โรงเรียนนานาชาติเปรม ติณสูลานนท์"
+      },
+      "source_url": "https://ptis.ac.th/"
+    },
+    {
+      "name": {
+        "en": "Chiang Mai International School (CMIS)",
+        "zh": "清迈国际学校（CMIS）",
+        "th": "โรงเรียนนานาชาติเชียงใหม่ (CMIS)"
+      },
+      "source_url": "https://www.cmis.ac.th/"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Bangkok Hospital Chiang Mai",
+        "zh": "曼谷医院清迈分院",
+        "th": "โรงพยาบาลกรุงเทพเชียงใหม่"
+      },
+      "source_url": "https://www.bangkokhospital-chiangmai.com/"
+    },
+    {
+      "name": {
+        "en": "Maharaj Nakorn Chiang Mai Hospital (Suandok)",
+        "zh": "清迈玛哈拉大医院（宣多）",
+        "th": "โรงพยาบาลมหาราชนครเชียงใหม่ (สวนดอก)"
+      },
+      "source_url": "https://www.med.cmu.ac.th/"
+    }
+  ],
+  "shopping": [
+    {
+      "name": {
+        "en": "Central Chiang Mai (Central Festival)",
+        "zh": "尚泰清迈购物中心",
+        "th": "เซ็นทรัล เชียงใหม่"
+      },
+      "source_url": "https://www.central.co.th/"
+    },
+    {
+      "name": {
+        "en": "MAYA Lifestyle Shopping Center",
+        "zh": "MAYA 生活购物中心",
+        "th": "ศูนย์การค้าเมญ่า ไลฟ์สไตล์"
+      },
+      "source_url": "https://www.mayashoppingcenter.com/"
+    }
+  ],
+  "investment_summary": {
+    "en": "Chiang Mai is primarily an end-user and long-stay market rather than a speculative one. Condo purchases follow the standard 49% foreign quota rules; houses involve leasehold or Thai-spouse/company structures for foreigners. GoThailandHome does not publish yield estimates for this market.",
+    "zh": "清迈主要是自住与长住市场，而非投机市场。公寓购买适用标准的 49% 外资配额规则；外国人购买独栋住宅需采用租赁权或泰籍配偶/公司架构。GoThailandHome 不发布该市场的收益率估算。",
+    "th": "เชียงใหม่เป็นตลาดผู้ใช้จริงและผู้พำนักระยะยาวเป็นหลัก ไม่ใช่ตลาดเก็งกำไร การซื้อคอนโดใช้กฎโควตาชาวต่างชาติ 49% ตามมาตรฐาน ส่วนบ้านเดี่ยวต้องใช้สิทธิการเช่าหรือโครงสร้างคู่สมรสไทย/บริษัทสำหรับชาวต่างชาติ GoThailandHome ไม่เผยแพร่การประมาณผลตอบแทนสำหรับตลาดนี้"
+  },
+  "rental_summary": {
+    "en": "Rental demand comes from university students and staff, long-stay retirees, remote workers, and seasonal residents. Monthly and annual leases are the norm; short-term letting below 30 days requires hotel licensing and is restricted in most condominiums.",
+    "zh": "租赁需求来自大学师生、长住退休人士、远程工作者和季节性居民。按月和按年租赁是常态；30 天以下短租需酒店牌照，且多数公寓予以限制。",
+    "th": "ความต้องการเช่ามาจากนักศึกษาและบุคลากรมหาวิทยาลัย ผู้เกษียณระยะยาว คนทำงานทางไกล และผู้อยู่อาศัยตามฤดูกาล สัญญารายเดือนและรายปีเป็นเรื่องปกติ การปล่อยเช่าต่ำกว่า 30 วันต้องมีใบอนุญาตโรงแรมและถูกจำกัดในคอนโดส่วนใหญ่"
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Is Chiang Mai good for retirement living?",
+        "zh": "清迈适合退休生活吗？",
+        "th": "เชียงใหม่เหมาะกับการใช้ชีวิตหลังเกษียณหรือไม่?"
+      },
+      "answer": {
+        "en": "Chiang Mai is one of Thailand's most popular retirement bases thanks to its lower cost of living, private hospitals, and established expatriate community. Retirees typically hold a Non-Immigrant O/O-A based visa with annual extensions; see the retirement guide for financial requirements.",
+        "zh": "凭借较低的生活成本、私立医院和成熟的外籍社区，清迈是泰国最受欢迎的退休基地之一。退休人士通常持非移民 O/O-A 类签证并每年续签；财务要求详见退休指南。",
+        "th": "เชียงใหม่เป็นหนึ่งในฐานเกษียณยอดนิยมของไทย ด้วยค่าครองชีพต่ำกว่า โรงพยาบาลเอกชน และชุมชนชาวต่างชาติที่ลงตัว ผู้เกษียณมักถือวีซ่า Non-Immigrant O/O-A พร้อมต่ออายุรายปี ดูข้อกำหนดทางการเงินได้ในคู่มือการเกษียณ"
+      }
+    },
+    {
+      "question": {
+        "en": "Which Chiang Mai areas do foreign buyers usually choose?",
+        "zh": "外国买家通常选择清迈哪些区域？",
+        "th": "ผู้ซื้อชาวต่างชาติมักเลือกพื้นที่ใดของเชียงใหม่?"
+      },
+      "answer": {
+        "en": "Condo buyers concentrate in Nimmanhaemin and around Chiang Mai University for walkability and cafés, and near the Old City for heritage surroundings. House buyers look to Hang Dong, San Sai, and Mae Rim for space and international-school access.",
+        "zh": "公寓买家集中在宁曼路和清迈大学周边（步行便利、咖啡馆密集），以及古城附近的历史街区。购买独栋住宅的买家则青睐杭东、三赛和湄林，看重空间与国际学校的可达性。",
+        "th": "ผู้ซื้อคอนโดกระจุกตัวที่นิมมานเหมินท์และรอบมหาวิทยาลัยเชียงใหม่เพราะเดินสะดวกและมีคาเฟ่มาก รวมถึงใกล้เมืองเก่าเพื่อบรรยากาศมรดก ส่วนผู้ซื้อบ้านมองหางดง สันทราย และแม่ริม เพื่อพื้นที่และการเข้าถึงโรงเรียนนานาชาติ"
+      }
+    },
+    {
+      "question": {
+        "en": "How does buying a condo in Chiang Mai differ from Bangkok?",
+        "zh": "在清迈买公寓与在曼谷有何不同？",
+        "th": "การซื้อคอนโดในเชียงใหม่ต่างจากกรุงเทพฯ อย่างไร?"
+      },
+      "answer": {
+        "en": "The legal process is identical — the same Condominium Act, foreign quota, and Land Department transfer apply nationwide. The practical differences are market depth and resale liquidity: Chiang Mai has fewer projects and a more end-user-driven buyer pool, so exit timelines can be longer.",
+        "zh": "法律流程完全相同——全国适用同一部《公寓法》、外资配额和土地厅过户程序。实际差异在于市场深度与转售流动性：清迈项目较少、买家群体更偏自住，因此退出周期可能更长。",
+        "th": "ขั้นตอนทางกฎหมายเหมือนกันทุกประการ — ใช้พระราชบัญญัติอาคารชุด โควตาชาวต่างชาติ และการโอนที่กรมที่ดินเหมือนกันทั่วประเทศ ความต่างในทางปฏิบัติคือความลึกของตลาดและสภาพคล่องการขายต่อ เชียงใหม่มีโครงการน้อยกว่าและผู้ซื้อเน้นใช้อยู่จริง ระยะเวลาขายออกจึงอาจนานกว่า"
+      }
+    }
+  ],
+  "knowledge_links": [
+    {
+      "path": "/knowledge/articles/thailand-retirement-guide",
+      "label": {
+        "en": "Retiring in Thailand",
+        "zh": "泰国退休指南",
+        "th": "การเกษียณในประเทศไทย"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-property-buying-guide",
+      "label": {
+        "en": "Thailand property buying guide",
+        "zh": "泰国购房指南",
+        "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+      }
+    },
+    {
+      "path": "/knowledge/articles/family-living-thailand",
+      "label": {
+        "en": "Family living in Thailand",
+        "zh": "泰国家庭生活指南",
+        "th": "ชีวิตครอบครัวในประเทศไทย"
+      }
+    }
+  ],
+  "image_slots": [
+    {
+      "id": "chiang-mai-hero",
+      "src": null,
+      "alt": {
+        "en": "Chiang Mai old city moat with Doi Suthep mountain backdrop",
+        "zh": "清迈古城护城河与素贴山背景",
+        "th": "คูเมืองเชียงใหม่โดยมีดอยสุเทพเป็นฉากหลัง"
+      }
+    },
+    {
+      "id": "chiang-mai-nimman",
+      "src": null,
+      "alt": {
+        "en": "Nimmanhaemin neighborhood street with cafés and low-rise condos",
+        "zh": "宁曼路街区的咖啡馆与低层公寓",
+        "th": "ถนนย่านนิมมานเหมินท์พร้อมคาเฟ่และคอนโดแนวราบ"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "Chiang Mai Province official website",
+      "url": "https://www.chiangmai.go.th/"
+    },
+    {
+      "type": "official_operator",
+      "name": "Chiang Mai International Airport (AOT)",
+      "url": "https://chiangmai.airportthai.co.th/"
+    }
+  ]
+}

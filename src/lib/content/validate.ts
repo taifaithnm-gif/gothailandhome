@@ -6,6 +6,8 @@ import type {
   FaqCategory,
   FaqEntry,
   InvestmentGuide,
+  KnowledgeFaqItem,
+  KnowledgeRelatedLink,
   LegalGuide,
   LocaleStatus,
   LocaleStatusMap,
@@ -135,6 +137,37 @@ function coerceSource(raw: unknown): ContentSource | null {
   return { type, name, url, verified_at: verifiedAt, ...(note ? { note } : {}) };
 }
 
+/** Optional attached FAQ items — kept identical between visible UI and FAQPage schema. */
+function coerceFaqItems(raw: unknown): KnowledgeFaqItem[] {
+  if (!Array.isArray(raw)) return [];
+  const out: KnowledgeFaqItem[] = [];
+  for (const item of raw) {
+    const obj = asRecord(item);
+    if (!obj) continue;
+    const question = coerceLocalizedText(obj.question);
+    const answer = coerceLocalizedText(obj.answer);
+    if (!question || !answer) continue;
+    out.push({ question, answer });
+  }
+  return out;
+}
+
+/** Optional internal related links — internal locale-relative paths only. */
+function coerceRelatedLinks(raw: unknown): KnowledgeRelatedLink[] {
+  if (!Array.isArray(raw)) return [];
+  const out: KnowledgeRelatedLink[] = [];
+  for (const item of raw) {
+    const obj = asRecord(item);
+    if (!obj) continue;
+    const path = asString(obj.path);
+    const label = coerceLocalizedText(obj.label);
+    if (!path || !label) continue;
+    if (!path.startsWith("/") || path.startsWith("//")) continue;
+    out.push({ path, label });
+  }
+  return out;
+}
+
 export function normalizeKnowledgeArticle(raw: unknown) {
   const obj = asRecord(raw);
   if (!obj) return null;
@@ -172,6 +205,8 @@ export function normalizeKnowledgeArticle(raw: unknown) {
     reviewed_at: reviewedAt,
     locale_status: localeStatus,
     sources,
+    faq: coerceFaqItems(obj.faq),
+    related_links: coerceRelatedLinks(obj.related_links),
   };
 }
 

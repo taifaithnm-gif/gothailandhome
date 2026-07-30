@@ -1,0 +1,226 @@
+{
+  "slug": "pattaya",
+  "version": 1,
+  "updated_at": "2026-07-26",
+  "summary": {
+    "en": "Coastal resort city on the Eastern Seaboard, popular for holiday condos and rental-oriented buyers.",
+    "zh": "泰国东部沿海度假城市，以度假公寓和面向租赁的买家而闻名。",
+    "th": "เมืองตากอากาศชายฝั่งทะเลตะวันออก เป็นที่นิยมสำหรับคอนโดตากอากาศและผู้ซื้อที่เน้นการปล่อยเช่า"
+  },
+  "overview": {
+    "en": [
+      "Pattaya is a special local government area in Chonburi province on Thailand's Eastern Seaboard, about two hours from Bangkok by road. Its property market is dominated by condominiums aimed at holiday users, retirees, and rental-focused owners.",
+      "The market spans several distinct zones: Central Pattaya around the beach road and shopping centers, Jomtien and Na Jomtien along the southern beaches, Pratumnak between them, and Wongamat in North Pattaya. Each zone has a different balance of holiday and residential use.",
+      "Pattaya sits inside the Eastern Economic Corridor (EEC) development zone, which frames long-term public investment in the region's transport links, including U-Tapao airport to the south."
+    ],
+    "zh": [
+      "芭提雅是春武里府的特别地方行政区，位于泰国东部沿海，距曼谷车程约两小时。其房地产市场以面向度假客户、退休人士和租赁型业主的公寓为主。",
+      "市场分为几个特色鲜明的板块：海滩路与购物中心周边的中芭提雅、南部海滩沿线的中天与纳中天、位于两者之间的帕塔纳克山，以及北芭提雅的黄艾迈提湾。各板块的度假与居住用途比例不同。",
+      "芭提雅位于东部经济走廊（EEC）开发区内，该规划支撑着区域交通设施的长期公共投资，包括南侧的乌塔堡机场。"
+    ],
+    "th": [
+      "พัทยาเป็นองค์กรปกครองส่วนท้องถิ่นรูปแบบพิเศษในจังหวัดชลบุรี บนชายฝั่งทะเลตะวันออก ห่างจากกรุงเทพฯ ราวสองชั่วโมงโดยรถยนต์ ตลาดอสังหาริมทรัพย์ของเมืองเน้นคอนโดมิเนียมสำหรับผู้ใช้พักตากอากาศ ผู้เกษียณ และเจ้าของที่เน้นปล่อยเช่า",
+      "ตลาดแบ่งเป็นหลายโซนที่แตกต่างกัน ได้แก่ พัทยากลางรอบถนนเลียบหาดและศูนย์การค้า จอมเทียนและนาจอมเทียนตามแนวหาดทางใต้ เขาพระตำหนักที่อยู่ระหว่างกลาง และหาดวงศ์อมาตย์ในพัทยาเหนือ แต่ละโซนมีสัดส่วนการใช้เพื่อพักตากอากาศและอยู่อาศัยต่างกัน",
+      "พัทยาอยู่ในเขตพัฒนาพิเศษภาคตะวันออก (EEC) ซึ่งเป็นกรอบการลงทุนภาครัฐระยะยาวด้านโครงข่ายคมนาคมของภูมิภาค รวมถึงสนามบินอู่ตะเภาทางทิศใต้"
+    ]
+  },
+  "lifestyle": {
+    "en": [
+      "Pattaya offers beach-oriented living with a large expatriate community, international dining, golf courses, and marina facilities. Jomtien and Pratumnak are quieter and more residential, while Central Pattaya is entertainment-led.",
+      "The city supports year-round living with international schools, private hospitals, and large-format shopping — a key difference from purely seasonal resort markets."
+    ],
+    "zh": [
+      "芭提雅提供以海滩为核心的生活方式，拥有庞大的外籍社区、国际化餐饮、高尔夫球场和游艇码头设施。中天与帕塔纳克山更安静、更偏居住，中芭提雅则以娱乐为主导。",
+      "这座城市具备全年居住条件，拥有国际学校、私立医院和大型购物设施——这是与纯季节性度假市场的关键区别。"
+    ],
+    "th": [
+      "พัทยามีวิถีชีวิตแบบเมืองชายหาด มีชุมชนชาวต่างชาติขนาดใหญ่ ร้านอาหารนานาชาติ สนามกอล์ฟ และท่าจอดเรือ จอมเทียนและเขาพระตำหนักเงียบสงบและเน้นการอยู่อาศัยมากกว่า ขณะที่พัทยากลางเน้นความบันเทิง",
+      "เมืองนี้รองรับการอยู่อาศัยตลอดปีด้วยโรงเรียนนานาชาติ โรงพยาบาลเอกชน และแหล่งช้อปปิ้งขนาดใหญ่ ซึ่งเป็นข้อแตกต่างสำคัญจากตลาดตากอากาศตามฤดูกาลล้วน ๆ"
+    ]
+  },
+  "transportation": [
+    {
+      "name": {
+        "en": "U-Tapao Rayong-Pattaya International Airport (UTP)",
+        "zh": "乌塔堡罗勇-芭提雅国际机场（UTP）",
+        "th": "ท่าอากาศยานนานาชาติอู่ตะเภา ระยอง-พัทยา (UTP)"
+      },
+      "mode": "air",
+      "source_url": "https://www.utapao.com/"
+    },
+    {
+      "name": {
+        "en": "Motorway 7 (Bangkok–Pattaya)",
+        "zh": "7 号高速公路（曼谷—芭提雅）",
+        "th": "มอเตอร์เวย์หมายเลข 7 (กรุงเทพฯ–พัทยา)"
+      },
+      "mode": "road",
+      "source_url": "https://www.doh.go.th/"
+    }
+  ],
+  "schools": [
+    {
+      "name": {
+        "en": "Regents International School Pattaya",
+        "zh": "芭提雅摄政国际学校",
+        "th": "โรงเรียนนานาชาติรีเจ้นท์พัทยา"
+      },
+      "source_url": "https://www.regents-pattaya.co.th/"
+    },
+    {
+      "name": {
+        "en": "International School Eastern Seaboard (ISE)",
+        "zh": "东部沿海国际学校（ISE）",
+        "th": "โรงเรียนนานาชาติอีสเทิร์นซีบอร์ด (ISE)"
+      },
+      "source_url": "https://www.ise.ac.th/"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Bangkok Hospital Pattaya",
+        "zh": "曼谷医院芭提雅分院",
+        "th": "โรงพยาบาลกรุงเทพพัทยา"
+      },
+      "source_url": "https://www.bangkokpattayahospital.com/"
+    },
+    {
+      "name": {
+        "en": "Pattaya Memorial Hospital",
+        "zh": "芭提雅纪念医院",
+        "th": "โรงพยาบาลพัทยาเมโมเรียล"
+      },
+      "source_url": "https://www.pattayamemorial.com/"
+    }
+  ],
+  "shopping": [
+    {
+      "name": {
+        "en": "Terminal 21 Pattaya",
+        "zh": "芭提雅 Terminal 21",
+        "th": "เทอร์มินอล 21 พัทยา"
+      },
+      "source_url": "https://www.terminal21.co.th/pattaya/"
+    },
+    {
+      "name": {
+        "en": "Central Pattaya",
+        "zh": "尚泰芭提雅购物中心",
+        "th": "เซ็นทรัล พัทยา"
+      },
+      "source_url": "https://www.central.co.th/"
+    }
+  ],
+  "investment_summary": {
+    "en": "Pattaya's condo supply is weighted toward holiday and rental use, so buyers should check building rules on short-term letting, foreign quota availability, and the zone's seasonality before purchasing. GoThailandHome does not publish yield estimates; use project pages for evidence-classed facts.",
+    "zh": "芭提雅的公寓供应偏向度假与租赁用途，购买前应核查大楼对短租的规定、外资配额余量以及所在板块的季节性。GoThailandHome 不发布收益率估算；请通过项目页查看按证据分级的信息。",
+    "th": "อุปทานคอนโดในพัทยาเน้นการใช้เพื่อพักตากอากาศและปล่อยเช่า ผู้ซื้อจึงควรตรวจสอบกฎอาคารเรื่องการปล่อยเช่าระยะสั้น โควตาชาวต่างชาติ และฤดูกาลของโซนก่อนซื้อ GoThailandHome ไม่เผยแพร่การประมาณผลตอบแทน โปรดใช้หน้าโครงการเพื่อดูข้อเท็จจริงตามระดับหลักฐาน"
+  },
+  "rental_summary": {
+    "en": "Rental demand in Pattaya mixes long-stay winter visitors, EEC-linked professionals, and domestic weekenders. Short-term letting below 30 days is regulated under Thailand's Hotel Act, so confirm what the building's juristic person permits before planning a rental strategy.",
+    "zh": "芭提雅的租赁需求由长住越冬客、EEC 相关专业人士和本国周末客构成。30 天以下的短租受泰国《酒店法》监管，规划租赁策略前请确认大楼法人的许可范围。",
+    "th": "ความต้องการเช่าในพัทยาประกอบด้วยผู้พักระยะยาวช่วงฤดูหนาว มืออาชีพที่เกี่ยวข้องกับ EEC และนักท่องเที่ยวในประเทศช่วงสุดสัปดาห์ การปล่อยเช่าระยะสั้นต่ำกว่า 30 วันอยู่ภายใต้พระราชบัญญัติโรงแรม โปรดยืนยันสิ่งที่นิติบุคคลอาคารอนุญาตก่อนวางแผนกลยุทธ์การปล่อยเช่า"
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Which Pattaya zone fits long-term living rather than holidays?",
+        "zh": "芭提雅哪个板块更适合长期居住而非度假？",
+        "th": "โซนใดของพัทยาเหมาะกับการอยู่อาศัยระยะยาวมากกว่าการพักตากอากาศ?"
+      },
+      "answer": {
+        "en": "Jomtien, Na Jomtien, and Pratumnak are generally quieter and more residential, with easier parking and more year-round amenities, while Central Pattaya is entertainment-led. East Pattaya offers house-and-land living further from the beach.",
+        "zh": "中天、纳中天和帕塔纳克山通常更安静、更偏居住，停车更方便、全年配套更多；中芭提雅以娱乐为主。东芭提雅则提供离海滩较远的独栋住宅生活。",
+        "th": "จอมเทียน นาจอมเทียน และเขาพระตำหนักโดยทั่วไปเงียบสงบและเน้นการอยู่อาศัย จอดรถง่ายและมีสิ่งอำนวยความสะดวกตลอดปี ขณะที่พัทยากลางเน้นความบันเทิง พัทยาตะวันออกมีบ้านพร้อมที่ดินซึ่งอยู่ไกลจากหาดออกไป"
+      }
+    },
+    {
+      "question": {
+        "en": "Can I legally rent out my Pattaya condo short-term?",
+        "zh": "我可以合法地短租芭提雅的公寓吗？",
+        "th": "สามารถปล่อยเช่าคอนโดในพัทยาแบบระยะสั้นได้อย่างถูกกฎหมายหรือไม่?"
+      },
+      "answer": {
+        "en": "Daily and weekly rentals generally fall under Thailand's Hotel Act, which requires a hotel licence, and most condominium juristic persons prohibit sub-30-day letting. Monthly and longer rentals are the standard compliant route for individual condo owners.",
+        "zh": "按日和按周出租一般受泰国《酒店法》约束，需要酒店牌照，而且多数公寓法人禁止 30 天以下的短租。按月及更长期限的出租是个人公寓业主的标准合规途径。",
+        "th": "การปล่อยเช่ารายวันและรายสัปดาห์โดยทั่วไปอยู่ภายใต้พระราชบัญญัติโรงแรมซึ่งต้องมีใบอนุญาตโรงแรม และนิติบุคคลอาคารชุดส่วนใหญ่ห้ามการปล่อยเช่าต่ำกว่า 30 วัน การปล่อยเช่ารายเดือนขึ้นไปเป็นแนวทางที่ถูกต้องตามกฎหมายสำหรับเจ้าของห้องชุดรายบุคคล"
+      }
+    },
+    {
+      "question": {
+        "en": "How do I get from Bangkok to view Pattaya projects?",
+        "zh": "如何从曼谷前往芭提雅看房？",
+        "th": "จะเดินทางจากกรุงเทพฯ ไปชมโครงการในพัทยาได้อย่างไร?"
+      },
+      "answer": {
+        "en": "Most visitors drive or take a bus via Motorway 7, which takes roughly two hours from central Bangkok. U-Tapao airport serves the area for domestic and some international flights. Viewing trips are commonly arranged with the project sales office in advance.",
+        "zh": "多数访客经 7 号高速公路自驾或乘大巴，从曼谷市中心出发约两小时。乌塔堡机场为该地区提供国内及部分国际航班。看房行程通常提前与项目销售处安排。",
+        "th": "ผู้มาเยือนส่วนใหญ่ขับรถหรือโดยสารรถบัสผ่านมอเตอร์เวย์หมายเลข 7 ใช้เวลาราวสองชั่วโมงจากใจกลางกรุงเทพฯ สนามบินอู่ตะเภารองรับเที่ยวบินในประเทศและระหว่างประเทศบางส่วน การนัดชมโครงการมักจัดผ่านสำนักงานขายล่วงหน้า"
+      }
+    }
+  ],
+  "knowledge_links": [
+    {
+      "path": "/knowledge/articles/thailand-property-buying-guide",
+      "label": {
+        "en": "Thailand property buying guide",
+        "zh": "泰国购房指南",
+        "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+      }
+    },
+    {
+      "path": "/knowledge/articles/rental-investment-thailand",
+      "label": {
+        "en": "Rental investment guide",
+        "zh": "租赁投资指南",
+        "th": "คู่มือการลงทุนปล่อยเช่า"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-retirement-guide",
+      "label": {
+        "en": "Retiring in Thailand",
+        "zh": "泰国退休指南",
+        "th": "การเกษียณในประเทศไทย"
+      }
+    }
+  ],
+  "image_slots": [
+    {
+      "id": "pattaya-hero",
+      "src": null,
+      "alt": {
+        "en": "Pattaya bay coastline with high-rise condominiums",
+        "zh": "芭提雅海湾沿岸的高层公寓",
+        "th": "แนวชายฝั่งอ่าวพัทยาพร้อมคอนโดมิเนียมสูง"
+      }
+    },
+    {
+      "id": "pattaya-jomtien",
+      "src": null,
+      "alt": {
+        "en": "Jomtien beach residential area south of Pattaya",
+        "zh": "芭提雅南侧的中天海滩住宅区",
+        "th": "ย่านที่พักอาศัยหาดจอมเทียนทางใต้ของพัทยา"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "Pattaya City official website",
+      "url": "https://www.pattaya.go.th/"
+    },
+    {
+      "type": "government",
+      "name": "Eastern Economic Corridor Office",
+      "url": "https://www.eeco.or.th/en"
+    },
+    {
+      "type": "official_operator",
+      "name": "U-Tapao International Airport",
+      "url": "https://www.utapao.com/"
+    }
+  ]
+}

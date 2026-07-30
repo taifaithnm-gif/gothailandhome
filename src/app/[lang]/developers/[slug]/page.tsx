@@ -24,9 +24,11 @@ import {
 import { getDeveloperPackageFacts } from "@/lib/developers/package-facts";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
+import { developerFaqForLocale } from "@/lib/content/shared-faq";
 import {
   breadcrumbListSchema,
   developerSchema,
+  platformFaqSchema,
 } from "@/lib/seo/schema";
 
 export const revalidate = 60;
@@ -140,6 +142,13 @@ export default async function DeveloperDetailPage({
     loadRelatedDevelopers(developer, projects),
   ]);
 
+  // Shared developer FAQ templates scoped to this developer. Visible FAQ and
+  // FAQPage schema stay identical.
+  const developerFaqs = developerFaqForLocale(locale, {
+    developer: developer.name[locale] || developer.name.en,
+  });
+  const faqSchema = platformFaqSchema(locale, developerFaqs);
+
   return (
     <>
       <JsonLd
@@ -158,6 +167,7 @@ export default async function DeveloperDetailPage({
             { name: dict.nav.developers, path: "/developers" },
             { name: developer.name[locale] || developer.name.en },
           ]),
+          ...(faqSchema ? [faqSchema] : []),
         ]}
       />
       <div className="ds-container bg-[var(--brand-canvas)] pt-6">
@@ -185,6 +195,7 @@ export default async function DeveloperDetailPage({
         rentItems={rentPage.items}
         rentTotal={rentPage.total}
         related={related}
+        faqs={developerFaqs}
       />
     </>
   );

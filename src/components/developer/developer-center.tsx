@@ -131,6 +131,8 @@ export type DeveloperCenterProps = {
   rentItems: PropertyView[];
   rentTotal: number;
   related: DeveloperView[];
+  /** Rendered FAQ must stay identical to the FAQPage schema emitted by the page. */
+  faqs?: { question: string; answer: string }[];
 };
 
 export function DeveloperCenter({
@@ -146,6 +148,7 @@ export function DeveloperCenter({
   rentItems,
   rentTotal,
   related,
+  faqs = [],
 }: DeveloperCenterProps) {
   const d = dict.developers;
   const developerSlug = developer.slug;
@@ -208,6 +211,7 @@ export function DeveloperCenter({
     { id: "official-website", label: d.officialWebsite },
     { id: "verification", label: d.verification },
     { id: "partnership", label: d.partnershipTitle },
+    ...(faqs.length ? [{ id: "faq", label: d.faqTitle }] : []),
     { id: "related-developers", label: d.relatedDevelopers },
     { id: "platform-support", label: d.contactPlatform },
   ];
@@ -673,6 +677,59 @@ export function DeveloperCenter({
               </Link>
             </div>
           </Section>
+
+          {/* FAQ — visible entries mirror the FAQPage schema emitted by the page */}
+          {faqs.length ? (
+            <Section id="faq" title={d.faqTitle} note={d.faqNote}>
+              <div className="space-y-2" data-slot="developer-faq">
+                {faqs.map((item, index) => (
+                  <details
+                    key={`developer-faq-${index}`}
+                    className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
+                  >
+                    <summary className="cursor-pointer text-sm font-medium text-[var(--brand-deep)]">
+                      {item.question}
+                    </summary>
+                    <p className="mt-2 text-sm leading-relaxed text-stone-700">
+                      {item.answer}
+                    </p>
+                  </details>
+                ))}
+              </div>
+              <div
+                className="flex flex-wrap gap-x-5 gap-y-2 pt-1"
+                data-slot="developer-knowledge-links"
+              >
+                <Link
+                  href={localePath(
+                    locale,
+                    "/knowledge/articles/thailand-developer-guide",
+                  )}
+                  className="text-sm font-medium text-[var(--brand)] hover:underline"
+                >
+                  {dict.contentLinks.developerGuide}
+                </Link>
+                <Link
+                  href={localePath(
+                    locale,
+                    "/knowledge/articles/thailand-property-buying-guide",
+                  )}
+                  className="text-sm font-medium text-[var(--brand)] hover:underline"
+                >
+                  {dict.contentLinks.buyingGuide}
+                </Link>
+                <Link
+                  href={localePath(
+                    locale,
+                    "/knowledge/articles/foreign-ownership-thailand",
+                  )}
+                  className="text-sm font-medium text-[var(--brand)] hover:underline"
+                >
+                  {dict.contentLinks.foreignOwnership}
+                </Link>
+              </div>
+            </Section>
+          ) : null}
 
           <Section
             id="related-developers"

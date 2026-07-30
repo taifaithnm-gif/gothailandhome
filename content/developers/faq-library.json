@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "updated_at": "2026-07-26",
+  "note": "Reusable developer FAQ templates. Placeholder {developer} is filled per page. Answers describe platform process and general legal facts only — no invented company facts.",
+  "entries": [
+    {
+      "id": "dev-faq-verification",
+      "question": {
+        "en": "How is the information about {developer} verified?",
+        "zh": "{developer}的信息是如何核验的？",
+        "th": "ข้อมูลของ {developer} ผ่านการตรวจสอบอย่างไร?"
+      },
+      "answer": {
+        "en": "GoThailandHome classifies every developer fact by evidence level. Facts marked as official come from the developer's own website or investor-relations disclosures; other facts are marked as platform-derived or unavailable. Fields without a verified source stay hidden rather than being invented.",
+        "zh": "GoThailandHome 按证据等级对每一项开发商信息进行分类。标记为官方的信息来自开发商官网或投资者关系披露；其他信息标记为平台推导或不可用。没有核验来源的字段将保持隐藏，而不会被编造。",
+        "th": "GoThailandHome จัดชั้นข้อมูลผู้พัฒนาทุกรายการตามระดับหลักฐาน ข้อมูลที่ระบุว่าเป็นทางการมาจากเว็บไซต์ของผู้พัฒนาเองหรือเอกสารนักลงทุนสัมพันธ์ ข้อมูลอื่นจะระบุว่าได้จากแพลตฟอร์มหรือไม่พร้อมใช้งาน ฟิลด์ที่ไม่มีแหล่งอ้างอิงจะถูกซ่อนไว้แทนที่จะถูกสร้างขึ้น"
+      }
+    },
+    {
+      "id": "dev-faq-relationship",
+      "question": {
+        "en": "Is {developer} affiliated with GoThailandHome?",
+        "zh": "{developer}与 GoThailandHome 有合作关系吗？",
+        "th": "{developer} มีความเกี่ยวข้องกับ GoThailandHome หรือไม่?"
+      },
+      "answer": {
+        "en": "Developer profiles are compiled from public information and platform inventory. A profile page does not by itself mean the developer has a commercial partnership with GoThailandHome. Developers can claim and verify their profile through the partnership channel on this page.",
+        "zh": "开发商档案由公开信息与平台库存整理而成。档案页面本身并不代表该开发商与 GoThailandHome 存在商业合作。开发商可以通过本页的合作渠道认领并核验其档案。",
+        "th": "โปรไฟล์ผู้พัฒนารวบรวมจากข้อมูลสาธารณะและคลังข้อมูลของแพลตฟอร์ม หน้าโปรไฟล์ไม่ได้หมายความว่าผู้พัฒนามีความร่วมมือเชิงพาณิชย์กับ GoThailandHome ผู้พัฒนาสามารถขอรับรองโปรไฟล์ของตนผ่านช่องทางพันธมิตรในหน้านี้"
+      }
+    },
+    {
+      "id": "dev-faq-buy-process",
+      "question": {
+        "en": "How do I buy a unit in a {developer} project?",
+        "zh": "如何购买{developer}项目中的单元？",
+        "th": "จะซื้อยูนิตในโครงการของ {developer} ได้อย่างไร?"
+      },
+      "answer": {
+        "en": "Browse the projects and listings sections on this page, then send an enquiry through the project lead form or contact the developer's official channels. The typical sequence is reservation, contract signing, installment or full payment, and ownership transfer at the Land Department. Independent legal review before signing is recommended.",
+        "zh": "浏览本页的项目与房源版块，然后通过项目咨询表单提交需求，或联系开发商官方渠道。常见流程为：预订、签约、分期或全款支付、土地厅过户。建议在签约前进行独立法律审查。",
+        "th": "ดูส่วนโครงการและประกาศในหน้านี้ จากนั้นส่งคำถามผ่านแบบฟอร์มติดต่อโครงการหรือติดต่อช่องทางทางการของผู้พัฒนา ขั้นตอนทั่วไปคือ การจอง การลงนามสัญญา การผ่อนชำระหรือชำระเต็มจำนวน และการโอนกรรมสิทธิ์ที่กรมที่ดิน แนะนำให้มีการตรวจสอบทางกฎหมายอย่างอิสระก่อนลงนาม"
+      }
+    },
+    {
+      "id": "dev-faq-foreign-buyers",
+      "question": {
+        "en": "Can foreigners buy in {developer} projects?",
+        "zh": "外国人可以购买{developer}的项目吗？",
+        "th": "ชาวต่างชาติสามารถซื้อในโครงการของ {developer} ได้หรือไม่?"
+      },
+      "answer": {
+        "en": "For condominium projects, foreigners can buy freehold under Thailand's Condominium Act, subject to the building's 49% foreign ownership quota. Quota availability differs per building and changes over time, so confirm it with the project's sales office before reserving a unit.",
+        "zh": "对于公寓项目，外国人可依据泰国《公寓法》以永久产权购买，但受整栋楼 49% 外资配额限制。各楼栋的配额余量不同且会变化，预订前请向项目销售处确认。",
+        "th": "สำหรับโครงการคอนโดมิเนียม ชาวต่างชาติสามารถซื้อแบบฟรีโฮลด์ได้ตามพระราชบัญญัติอาคารชุดของไทย ภายใต้โควตาการถือครองของชาวต่างชาติ 49% ของอาคาร โควตาคงเหลือแตกต่างกันในแต่ละอาคารและเปลี่ยนแปลงได้ ควรยืนยันกับสำนักงานขายของโครงการก่อนจองยูนิต"
+      }
+    },
+    {
+      "id": "dev-faq-inventory",
+      "question": {
+        "en": "Does this page show all {developer} projects?",
+        "zh": "本页展示了{developer}的全部项目吗？",
+        "th": "หน้านี้แสดงโครงการทั้งหมดของ {developer} หรือไม่?"
+      },
+      "answer": {
+        "en": "No. The projects and listings shown here are the subset published on GoThailandHome — not the developer's complete portfolio. For the full portfolio, visit the developer's official website linked on this page.",
+        "zh": "不是。此处展示的项目与房源是发布在 GoThailandHome 上的子集，并非开发商的完整项目组合。完整组合请访问本页链接的开发商官网。",
+        "th": "ไม่ โครงการและประกาศที่แสดงในหน้านี้เป็นเพียงส่วนที่เผยแพร่บน GoThailandHome ไม่ใช่พอร์ตโฟลิโอทั้งหมดของผู้พัฒนา สำหรับพอร์ตโฟลิโอเต็มรูปแบบ โปรดเยี่ยมชมเว็บไซต์ทางการของผู้พัฒนาที่ลิงก์ไว้ในหน้านี้"
+      }
+    }
+  ]
+}

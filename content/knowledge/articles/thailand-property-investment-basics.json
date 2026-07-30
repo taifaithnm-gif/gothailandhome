@@ -1,0 +1,127 @@
+{
+  "slug": "thailand-property-investment-basics",
+  "type": "knowledge_article",
+  "publish_ready": true,
+  "collected_at": "2026-07-26",
+  "verified_at": "2026-07-26",
+  "title": {
+    "en": "Thailand property investment basics — a framework, not a forecast",
+    "zh": "泰国房产投资基础——框架而非预测",
+    "th": "พื้นฐานการลงทุนอสังหาริมทรัพย์ไทย — กรอบคิด ไม่ใช่การพยากรณ์"
+  },
+  "summary": {
+    "en": "A decision framework for evaluating Thai property as an investment: demand drivers, cost structure, liquidity, currency, and risk factors — without yield promises or price forecasts.",
+    "zh": "评估泰国房产投资的决策框架：需求驱动、成本结构、流动性、汇率与风险因素——不含收益承诺或价格预测。",
+    "th": "กรอบการตัดสินใจสำหรับประเมินอสังหาริมทรัพย์ไทยเพื่อการลงทุน ทั้งปัจจัยขับเคลื่อนอุปสงค์ โครงสร้างต้นทุน สภาพคล่อง สกุลเงิน และปัจจัยเสี่ยง — โดยไม่มีคำสัญญาผลตอบแทนหรือการคาดการณ์ราคา"
+  },
+  "body": {
+    "en": [
+      "Investment demand for Thai property rests on identifiable drivers: urban rail expansion in Bangkok, tourism recovery cycles in resort markets, long-stay and retirement migration, and regional infrastructure programs such as the Eastern Economic Corridor. Evaluating a specific unit means asking which of these drivers actually reach its location.",
+      "Understand the full cost structure before comparing returns: acquisition costs (transfer fee and taxes), holding costs (common area fees, land and building tax, insurance, maintenance, vacancy), and exit costs (agent fees, seller taxes, currency conversion). Gross rent alone is not a return.",
+      "Liquidity is the most underestimated factor. Thai secondary markets move slower than primary sales, resale buyers for foreign-quota units are a subset of the market, and exit timelines vary widely by project and district. Plan for a multi-year hold rather than a quick flip.",
+      "Currency matters twice: the baht rate when you remit funds in, and again when you repatriate proceeds. Keeping the Foreign Exchange Transaction evidence from your purchase is what makes clean repatriation possible later.",
+      "Key risks to weigh: oversupply in specific micro-markets, juristic person quality and building aging, regulatory changes (visa rules, tax rules, short-term rental enforcement), and developer delivery risk for off-plan purchases. GoThailandHome does not publish yield figures or price forecasts — this framework is for your own diligence, and professional financial advice applies to your specific situation."
+    ],
+    "zh": [
+      "泰国房产的投资需求建立在可识别的驱动因素上：曼谷城市轨道扩张、度假市场的旅游复苏周期、长住与退休移居，以及东部经济走廊等区域基建计划。评估某个具体单元，就是要问这些驱动因素中有哪些真正惠及它的位置。",
+      "在比较回报前先理解完整成本结构：取得成本（过户费与税费）、持有成本（管理费、土地与建筑税、保险、维护、空置）与退出成本（中介费、卖方税费、货币兑换）。仅有毛租金并不等于回报。",
+      "流动性是最被低估的因素。泰国二手市场比一手销售慢，外资配额单元的转售买家只是市场的一个子集，退出周期因项目和区域差异很大。应按多年持有规划，而非快进快出。",
+      "汇率影响出现两次：汇入资金时的泰铢汇率，以及汇出所得时的汇率。保存购房时的外汇交易证明（FET），是日后顺利汇出的关键。",
+      "需要权衡的主要风险：特定细分市场的供应过剩、公寓法人质量与楼龄老化、监管变化（签证规则、税制、短租执法），以及期房的开发商交付风险。GoThailandHome 不发布收益率数字或价格预测——本框架供您自行尽调使用，具体情况请咨询专业财务顾问。"
+    ],
+    "th": [
+      "อุปสงค์การลงทุนในอสังหาริมทรัพย์ไทยตั้งอยู่บนปัจจัยที่ระบุได้ ได้แก่ การขยายรถไฟฟ้าในกรุงเทพฯ วัฏจักรการฟื้นตัวของการท่องเที่ยวในตลาดตากอากาศ การย้ายถิ่นเพื่อพำนักระยะยาวและเกษียณ และโครงการโครงสร้างพื้นฐานระดับภูมิภาคอย่าง EEC การประเมินยูนิตหนึ่ง ๆ คือการถามว่าปัจจัยเหล่านี้ไปถึงทำเลของมันจริงหรือไม่",
+      "ทำความเข้าใจโครงสร้างต้นทุนทั้งหมดก่อนเปรียบเทียบผลตอบแทน ได้แก่ ต้นทุนการได้มา (ค่าโอนและภาษี) ต้นทุนการถือครอง (ค่าส่วนกลาง ภาษีที่ดินและสิ่งปลูกสร้าง ประกัน ค่าบำรุง การว่าง) และต้นทุนการขายออก (ค่านายหน้า ภาษีผู้ขาย การแลกเปลี่ยนเงินตรา) ค่าเช่ารวมอย่างเดียวไม่ใช่ผลตอบแทน",
+      "สภาพคล่องเป็นปัจจัยที่ถูกประเมินต่ำที่สุด ตลาดมือสองของไทยเคลื่อนช้ากว่าการขายมือแรก ผู้ซื้อต่อสำหรับยูนิตโควตาต่างชาติเป็นเพียงส่วนหนึ่งของตลาด และระยะเวลาขายออกแตกต่างกันมากตามโครงการและเขต ควรวางแผนถือหลายปีมากกว่าซื้อมาขายไปเร็ว ๆ",
+      "สกุลเงินมีผลสองครั้ง คือ อัตราบาทเมื่อโอนเงินเข้า และอีกครั้งเมื่อส่งเงินกลับ การเก็บหลักฐานธุรกรรมเงินตราต่างประเทศ (FET) จากการซื้อคือสิ่งที่ทำให้การส่งเงินกลับทำได้อย่างราบรื่น",
+      "ความเสี่ยงหลักที่ต้องชั่งน้ำหนัก ได้แก่ อุปทานล้นในตลาดย่อยบางแห่ง คุณภาพนิติบุคคลและการเสื่อมอายุอาคาร การเปลี่ยนแปลงกฎระเบียบ (กฎวีซ่า ภาษี การบังคับใช้เรื่องเช่าระยะสั้น) และความเสี่ยงการส่งมอบของผู้พัฒนาสำหรับการซื้อก่อนสร้างเสร็จ GoThailandHome ไม่เผยแพร่ตัวเลขผลตอบแทนหรือการคาดการณ์ราคา — กรอบนี้มีไว้เพื่อการตรวจสอบของคุณเอง และควรขอคำแนะนำทางการเงินจากมืออาชีพสำหรับสถานการณ์เฉพาะของคุณ"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Is Thai property a good investment?",
+        "zh": "泰国房产是好的投资吗？",
+        "th": "อสังหาริมทรัพย์ไทยเป็นการลงทุนที่ดีหรือไม่?"
+      },
+      "answer": {
+        "en": "It depends on the specific unit, location, entry cost, and your holding horizon — there is no general answer. Use the framework in this guide, verify project-level facts, and take professional advice; this platform does not publish yield promises.",
+        "zh": "取决于具体单元、位置、入场成本和持有周期——没有普适答案。请使用本指南的框架、核实项目层面的信息并咨询专业顾问；本平台不发布收益承诺。",
+        "th": "ขึ้นอยู่กับยูนิต ทำเล ต้นทุนเข้าซื้อ และระยะเวลาถือครองของคุณ — ไม่มีคำตอบทั่วไป ใช้กรอบในคู่มือนี้ ตรวจสอบข้อเท็จจริงระดับโครงการ และขอคำแนะนำจากมืออาชีพ แพลตฟอร์มนี้ไม่เผยแพร่คำสัญญาผลตอบแทน"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the biggest mistake first-time investors make?",
+        "zh": "首次投资者最常犯的错误是什么？",
+        "th": "ข้อผิดพลาดใหญ่ที่สุดของนักลงทุนมือใหม่คืออะไร?"
+      },
+      "answer": {
+        "en": "Comparing gross rental quotes without modeling full costs and vacancy, and ignoring resale liquidity. A unit that is easy to rent but hard to resell can trap capital far longer than planned.",
+        "zh": "只比较毛租金报价而不测算全部成本与空置，并忽视转售流动性。易出租但难转售的单元可能让资金被占用远超预期。",
+        "th": "การเปรียบเทียบค่าเช่ารวมโดยไม่คำนวณต้นทุนทั้งหมดและการว่าง รวมถึงมองข้ามสภาพคล่องการขายต่อ ยูนิตที่ปล่อยเช่าง่ายแต่ขายต่อยากอาจตรึงเงินทุนนานกว่าที่วางแผนมาก"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "path": "/knowledge/investment",
+      "label": {
+        "en": "Platform investment guide",
+        "zh": "平台投资指南",
+        "th": "คู่มือการลงทุนของแพลตฟอร์ม"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-property-roi-guide",
+      "label": {
+        "en": "Understanding ROI",
+        "zh": "理解投资回报率",
+        "th": "ทำความเข้าใจ ROI"
+      }
+    },
+    {
+      "path": "/knowledge/articles/rental-investment-thailand",
+      "label": {
+        "en": "Rental investment guide",
+        "zh": "租赁投资指南",
+        "th": "คู่มือการลงทุนปล่อยเช่า"
+      }
+    },
+    {
+      "path": "/cities/bangkok",
+      "label": {
+        "en": "Bangkok property hub",
+        "zh": "曼谷房产中心",
+        "th": "ศูนย์อสังหาริมทรัพย์กรุงเทพฯ"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "Bank of Thailand — economic and financial statistics",
+      "url": "https://www.bot.or.th/",
+      "verified_at": "2026-07-26",
+      "note": "Macroeconomic context; no project-level figures used."
+    },
+    {
+      "type": "government",
+      "name": "Eastern Economic Corridor Office",
+      "url": "https://www.eeco.or.th/en",
+      "verified_at": "2026-07-26"
+    },
+    {
+      "type": "editorial",
+      "name": "GoThailandHome editorial team",
+      "url": "https://www.gothailandhome.com/en/knowledge",
+      "verified_at": "2026-07-26",
+      "note": "Framework article; contains no yield or price statistics."
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

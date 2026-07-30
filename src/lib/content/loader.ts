@@ -181,6 +181,8 @@ export function renderKnowledgeArticleLocale(
   body: { value: string[]; fallbackFrom: Locale | null };
   reviewedAt: string;
   sources: { type: string; name: string; url: string; verified_at: string; note?: string }[];
+  faq: { question: string; answer: string }[];
+  relatedLinks: { path: string; label: string }[];
 } | null {
   const article = getKnowledgeArticle(slug);
   if (!article) return null;
@@ -205,6 +207,14 @@ export function renderKnowledgeArticleLocale(
     body: { value: body, fallbackFrom },
     reviewedAt: article.reviewed_at,
     sources: article.sources,
+    faq: article.faq.map((item) => ({
+      question: pickLocalizedText(item.question, locale).value,
+      answer: pickLocalizedText(item.answer, locale).value,
+    })),
+    relatedLinks: article.related_links.map((link) => ({
+      path: link.path,
+      label: pickLocalizedText(link.label, locale).value,
+    })),
   };
 }
 

@@ -1,0 +1,139 @@
+{
+  "slug": "foreign-ownership-thailand",
+  "type": "knowledge_article",
+  "publish_ready": true,
+  "collected_at": "2026-07-26",
+  "verified_at": "2026-07-26",
+  "title": {
+    "en": "Foreign property ownership in Thailand — what the law allows",
+    "zh": "泰国外国人产权规则——法律允许什么",
+    "th": "การถือครองอสังหาริมทรัพย์ของชาวต่างชาติในไทย — กฎหมายอนุญาตอะไรบ้าง"
+  },
+  "summary": {
+    "en": "What foreigners can and cannot own in Thailand: freehold condominiums under the 49% quota, land restrictions, registered leases, usufruct and superficies, and structures to avoid.",
+    "zh": "外国人在泰国能持有与不能持有什么：49% 配额内的永久产权公寓、土地限制、注册租赁、用益权与地上权，以及应避免的架构。",
+    "th": "สิ่งที่ชาวต่างชาติถือครองได้และไม่ได้ในประเทศไทย ได้แก่ คอนโดฟรีโฮลด์ภายใต้โควตา 49% ข้อจำกัดเรื่องที่ดิน สัญญาเช่าจดทะเบียน สิทธิเก็บกินและสิทธิเหนือพื้นดิน และโครงสร้างที่ควรหลีกเลี่ยง"
+  },
+  "body": {
+    "en": [
+      "The clearest ownership route for foreigners in Thailand is the freehold condominium. The Condominium Act allows foreign natural persons and juristic persons to own units with full title, provided total foreign ownership in the building stays within 49% of the saleable floor area. The quota is tracked per building and confirmed by the juristic person at transfer time.",
+      "Foreigners generally cannot own land freehold. The Land Code restricts land ownership to Thai nationals and Thai-majority companies, with narrow exceptions (such as Board of Investment promotion) that rarely apply to residential buyers.",
+      "For houses and villas, the standard structures are: a registered lease of up to 30 years on the land (renewal clauses are contractual promises, not registered rights), combined with freehold ownership of the building itself; or rights such as usufruct (right to use and enjoy) and superficies (right to own structures on another's land) registered at the Land Department.",
+      "Using a Thai company solely as a nominee vehicle to hold land for a foreigner is illegal. A company must have genuine business substance and genuine Thai shareholders; authorities can investigate nominee arrangements and unwind them. Married buyers should note that land bought by a Thai spouse is declared as the spouse's separate property.",
+      "Before relying on any structure, confirm the title deed class (chanote / Nor Sor 3 Gor and others convey different levels of certainty), check encumbrances at the Land Department, and have an independent Thai lawyer review the exact documents. This article summarizes the legal framework and is not legal advice."
+    ],
+    "zh": [
+      "外国人在泰国最清晰的产权路径是永久产权公寓。《公寓法》允许外国自然人和法人以完整产权持有单元，前提是整栋楼的外资持有比例不超过可售建筑面积的 49%。配额按楼栋统计，过户时由公寓法人确认。",
+      "外国人一般不能以永久产权持有土地。《土地法典》将土地所有权限定于泰国公民和泰资控股公司，仅有极少数例外（如投资促进委员会 BOI 优惠），且很少适用于住宅买家。",
+      "对于独栋和别墅，标准结构是：对土地登记最长 30 年的租赁权（续约条款属合同承诺，并非登记权利），同时以永久产权持有建筑物本身；或在土地厅登记用益权（使用收益权）与地上权（在他人土地上拥有建筑物的权利）等权利。",
+      "仅以泰国公司作为代持工具为外国人持有土地是违法的。公司必须有真实的经营实质和真实的泰籍股东；当局可调查代持安排并予以撤销。已婚买家应注意：泰籍配偶购买的土地须声明为配偶的个人财产。",
+      "在依赖任何结构之前，请确认地契等级（Chanote、Nor Sor 3 Gor 等的确定性各不相同），在土地厅核查他项权利，并请独立的泰国律师审查具体文件。本文仅总结法律框架，不构成法律意见。"
+    ],
+    "th": [
+      "เส้นทางการถือครองที่ชัดเจนที่สุดสำหรับชาวต่างชาติในไทยคือคอนโดมิเนียมแบบฟรีโฮลด์ พระราชบัญญัติอาคารชุดอนุญาตให้บุคคลธรรมดาและนิติบุคคลต่างชาติถือกรรมสิทธิ์ห้องชุดเต็มรูปแบบ โดยสัดส่วนการถือครองของชาวต่างชาติทั้งอาคารต้องไม่เกิน 49% ของพื้นที่ขาย โควตานับต่ออาคารและยืนยันโดยนิติบุคคลอาคารชุดในวันโอน",
+      "โดยทั่วไปชาวต่างชาติไม่สามารถถือครองที่ดินแบบฟรีโฮลด์ได้ ประมวลกฎหมายที่ดินจำกัดการถือครองที่ดินไว้สำหรับคนไทยและบริษัทที่คนไทยถือหุ้นข้างมาก โดยมีข้อยกเว้นแคบ ๆ (เช่น การส่งเสริมจาก BOI) ซึ่งแทบไม่เกี่ยวข้องกับผู้ซื้อที่อยู่อาศัย",
+      "สำหรับบ้านและวิลล่า โครงสร้างมาตรฐานคือสัญญาเช่าที่ดินจดทะเบียนสูงสุด 30 ปี (ข้อต่ออายุเป็นคำมั่นตามสัญญา ไม่ใช่สิทธิจดทะเบียน) ควบคู่กับการถือกรรมสิทธิ์ตัวอาคารแบบฟรีโฮลด์ หรือสิทธิอื่น เช่น สิทธิเก็บกิน (ใช้และได้ประโยชน์) และสิทธิเหนือพื้นดิน (เป็นเจ้าของสิ่งปลูกสร้างบนที่ดินผู้อื่น) ที่จดทะเบียนที่กรมที่ดิน",
+      "การใช้บริษัทไทยเป็นเพียงตัวแทนถือที่ดินแทนชาวต่างชาติเป็นสิ่งผิดกฎหมาย บริษัทต้องมีธุรกิจจริงและผู้ถือหุ้นไทยจริง หน่วยงานรัฐสามารถสอบสวนและเพิกถอนการถือหุ้นแทนได้ ผู้ซื้อที่สมรสควรทราบว่าที่ดินที่คู่สมรสไทยซื้อจะต้องแสดงว่าเป็นสินส่วนตัวของคู่สมรส",
+      "ก่อนพึ่งพาโครงสร้างใด โปรดยืนยันประเภทเอกสารสิทธิ (โฉนด / น.ส.3 ก. ให้ความแน่นอนต่างกัน) ตรวจสอบภาระผูกพันที่กรมที่ดิน และให้ทนายความไทยที่เป็นอิสระตรวจสอบเอกสารจริง บทความนี้สรุปกรอบกฎหมายเท่านั้น ไม่ใช่คำแนะนำทางกฎหมาย"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "What is the 49% foreign quota?",
+        "zh": "什么是 49% 外资配额？",
+        "th": "โควตาชาวต่างชาติ 49% คืออะไร?"
+      },
+      "answer": {
+        "en": "Under the Condominium Act, foreigners may collectively own up to 49% of a condominium building's total saleable area. Once that share is reached, additional units can only be sold to foreigners as leasehold, or to Thai buyers.",
+        "zh": "根据《公寓法》，外国人合计最多可持有一栋公寓楼可售面积的 49%。达到该比例后，剩余单元只能以租赁权卖给外国人，或出售给泰籍买家。",
+        "th": "ตามพระราชบัญญัติอาคารชุด ชาวต่างชาติรวมกันถือครองได้สูงสุด 49% ของพื้นที่ขายทั้งอาคาร เมื่อถึงสัดส่วนนั้นแล้ว ยูนิตเพิ่มเติมขายให้ชาวต่างชาติได้เฉพาะแบบสิทธิการเช่า หรือขายให้ผู้ซื้อคนไทย"
+      }
+    },
+    {
+      "question": {
+        "en": "Can a lease be longer than 30 years?",
+        "zh": "租赁期可以超过 30 年吗？",
+        "th": "สัญญาเช่าเกิน 30 ปีได้หรือไม่?"
+      },
+      "answer": {
+        "en": "A registered lease is capped at 30 years for residential property. Contracts often include renewal promises for further terms, but renewals are contractual obligations of the lessor — not registered property rights — and their enforceability depends on the counterparty.",
+        "zh": "住宅物业的注册租赁上限为 30 年。合同常包含续期承诺，但续期属于出租人的合同义务而非登记的物权，其可执行性取决于交易对方。",
+        "th": "สัญญาเช่าจดทะเบียนสำหรับที่อยู่อาศัยจำกัดที่ 30 ปี สัญญามักมีคำมั่นต่ออายุเพิ่มเติม แต่การต่ออายุเป็นภาระผูกพันตามสัญญาของผู้ให้เช่า ไม่ใช่ทรัพยสิทธิที่จดทะเบียน การบังคับใช้จึงขึ้นอยู่กับคู่สัญญา"
+      }
+    },
+    {
+      "question": {
+        "en": "Is buying through a Thai company safe?",
+        "zh": "通过泰国公司购买安全吗？",
+        "th": "การซื้อผ่านบริษัทไทยปลอดภัยหรือไม่?"
+      },
+      "answer": {
+        "en": "Only if the company is a genuine operating business with real Thai shareholders. Nominee shareholding arranged purely to hold land for a foreigner violates the Land Code and the Foreign Business Act and can be unwound by authorities.",
+        "zh": "仅当公司是拥有真实泰籍股东的真实经营企业时才可行。纯粹为外国人代持土地而安排的名义持股违反《土地法典》和《外商经营法》，可能被当局撤销。",
+        "th": "ปลอดภัยเฉพาะเมื่อบริษัทประกอบธุรกิจจริงและมีผู้ถือหุ้นไทยจริงเท่านั้น การถือหุ้นแทนที่จัดขึ้นเพียงเพื่อถือที่ดินแทนชาวต่างชาติขัดต่อประมวลกฎหมายที่ดินและพระราชบัญญัติการประกอบธุรกิจของคนต่างด้าว และอาจถูกหน่วยงานรัฐเพิกถอน"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "path": "/knowledge/articles/thailand-property-buying-guide",
+      "label": {
+        "en": "Thailand property buying guide",
+        "zh": "泰国购房指南",
+        "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+      }
+    },
+    {
+      "path": "/knowledge/articles/freehold-vs-leasehold-thailand",
+      "label": {
+        "en": "Freehold vs leasehold",
+        "zh": "永久产权与租赁权对比",
+        "th": "ฟรีโฮลด์กับสิทธิการเช่า"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-condo-guide",
+      "label": {
+        "en": "Condo buying guide",
+        "zh": "公寓购买指南",
+        "th": "คู่มือซื้อคอนโด"
+      }
+    },
+    {
+      "path": "/knowledge/legal",
+      "label": {
+        "en": "Legal guide",
+        "zh": "法律指南",
+        "th": "คู่มือกฎหมาย"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "Department of Lands, Ministry of Interior",
+      "url": "https://www.dol.go.th/",
+      "verified_at": "2026-07-26",
+      "note": "Land Code administration, title deeds, lease and rights registration."
+    },
+    {
+      "type": "government",
+      "name": "Office of the Council of State — Thai legislation database",
+      "url": "https://www.krisdika.go.th/",
+      "verified_at": "2026-07-26",
+      "note": "Condominium Act and Land Code texts."
+    },
+    {
+      "type": "editorial",
+      "name": "GoThailandHome editorial team",
+      "url": "https://www.gothailandhome.com/en/knowledge",
+      "verified_at": "2026-07-26"
+    }
+  ],
+  "locale_status": {
+    "en": "complete",
+    "zh": "complete",
+    "th": "complete"
+  }
+}

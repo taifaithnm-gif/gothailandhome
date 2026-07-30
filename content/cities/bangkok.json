@@ -1,0 +1,285 @@
+{
+  "slug": "bangkok",
+  "version": 1,
+  "updated_at": "2026-07-26",
+  "summary": {
+    "en": "Thailand's capital and largest property market, anchored by the BTS and MRT rail networks.",
+    "zh": "泰国首都及最大的房地产市场，以 BTS 与 MRT 轨道交通网络为核心。",
+    "th": "เมืองหลวงของประเทศไทยและตลาดอสังหาริมทรัพย์ที่ใหญ่ที่สุด มีเครือข่ายรถไฟฟ้า BTS และ MRT เป็นแกนหลัก"
+  },
+  "overview": {
+    "en": [
+      "Bangkok is Thailand's political, financial, and commercial capital, administered by the Bangkok Metropolitan Administration across 50 districts. It is the country's deepest condominium market and the primary entry point for foreign buyers.",
+      "Property demand in Bangkok clusters along the BTS Skytrain and MRT subway corridors. Districts such as Watthana, Khlong Toei, and Pathum Wan host the central business areas, while districts along extended rail lines offer newer supply.",
+      "GoThailandHome publishes district pages for all 50 Bangkok districts, each with sourced amenities, platform project inventory, and verified public listings. Counts shown on this platform are platform inventory, not a complete market census."
+    ],
+    "zh": [
+      "曼谷是泰国的政治、金融和商业首都，由曼谷市政府管理，下辖 50 个区。它是全国最具深度的公寓市场，也是外国买家的主要入口。",
+      "曼谷的购房需求集中在 BTS 空铁与 MRT 地铁沿线。Watthana（瓦他纳）、Khlong Toei（孔堤）和 Pathum Wan（巴吞旺）等区是核心商务区，而轨道延长线沿线各区则提供较新的供应。",
+      "GoThailandHome 为曼谷全部 50 个区发布区域页面，每页包含有来源的配套设施、平台项目库存与已核验公开房源。平台展示的数量为平台库存，并非完整的市场普查。"
+    ],
+    "th": [
+      "กรุงเทพมหานครเป็นเมืองหลวงด้านการเมือง การเงิน และการพาณิชย์ของประเทศไทย บริหารโดยกรุงเทพมหานครครอบคลุม 50 เขต เป็นตลาดคอนโดมิเนียมที่ลึกที่สุดของประเทศและเป็นจุดเริ่มต้นหลักของผู้ซื้อชาวต่างชาติ",
+      "ความต้องการอสังหาริมทรัพย์ในกรุงเทพฯ กระจุกตัวตามแนวรถไฟฟ้า BTS และ MRT เขตอย่างวัฒนา คลองเตย และปทุมวัน เป็นย่านธุรกิจกลาง ขณะที่เขตตามแนวส่วนต่อขยายมีอุปทานที่ใหม่กว่า",
+      "GoThailandHome เผยแพร่หน้าเขตครบทั้ง 50 เขตของกรุงเทพฯ แต่ละหน้ามีสิ่งอำนวยความสะดวกพร้อมแหล่งอ้างอิง โครงการบนแพลตฟอร์ม และประกาศสาธารณะที่ตรวจสอบแล้ว จำนวนที่แสดงเป็นคลังข้อมูลของแพลตฟอร์ม ไม่ใช่สำมะโนตลาดทั้งหมด"
+    ]
+  },
+  "lifestyle": {
+    "en": [
+      "Daily life in central Bangkok is organized around rail stations, shopping centers, and food markets. International schools, private hospitals, and coworking hubs concentrate in Sukhumvit, Silom-Sathorn, and the Ratchadaphisek corridor.",
+      "Neighborhood character varies sharply between districts — riverside areas, old-town districts, and transit-oriented condo corridors offer very different living environments, which is why buyers usually shortlist at the district level first."
+    ],
+    "zh": [
+      "曼谷市中心的日常生活围绕轨道车站、购物中心和美食市场展开。国际学校、私立医院和联合办公空间集中在素坤逸、是隆-沙吞以及拉差达披色走廊。",
+      "各区的社区气质差异明显——河畔区域、老城区与轨道导向的公寓走廊提供截然不同的居住环境，因此买家通常先在区级层面筛选。"
+    ],
+    "th": [
+      "ชีวิตประจำวันในใจกลางกรุงเทพฯ หมุนรอบสถานีรถไฟฟ้า ศูนย์การค้า และตลาดอาหาร โรงเรียนนานาชาติ โรงพยาบาลเอกชน และพื้นที่ทำงานร่วมกระจุกตัวในย่านสุขุมวิท สีลม-สาทร และแนวรัชดาภิเษก",
+      "บุคลิกของแต่ละย่านแตกต่างกันมาก — ย่านริมแม่น้ำ ย่านเมืองเก่า และแนวคอนโดตามรถไฟฟ้าให้สภาพแวดล้อมการอยู่อาศัยที่ต่างกัน ผู้ซื้อจึงมักคัดเลือกระดับเขตก่อน"
+    ]
+  },
+  "transportation": [
+    {
+      "name": {
+        "en": "BTS Skytrain",
+        "zh": "BTS 空铁",
+        "th": "รถไฟฟ้าบีทีเอส"
+      },
+      "mode": "bts",
+      "source_url": "https://www.bts.co.th/eng/index.html"
+    },
+    {
+      "name": {
+        "en": "MRT (Metropolitan Rapid Transit)",
+        "zh": "MRT 地铁",
+        "th": "รถไฟฟ้ามหานคร (MRT)"
+      },
+      "mode": "mrt",
+      "source_url": "https://metro.mrta.co.th/en/"
+    },
+    {
+      "name": {
+        "en": "Suvarnabhumi Airport (BKK)",
+        "zh": "素万那普机场（BKK）",
+        "th": "ท่าอากาศยานสุวรรณภูมิ (BKK)"
+      },
+      "mode": "air",
+      "source_url": "https://suvarnabhumi.airportthai.co.th/"
+    },
+    {
+      "name": {
+        "en": "Don Mueang Airport (DMK)",
+        "zh": "廊曼机场（DMK）",
+        "th": "ท่าอากาศยานดอนเมือง (DMK)"
+      },
+      "mode": "air",
+      "source_url": "https://donmueang.airportthai.co.th/"
+    }
+  ],
+  "schools": [
+    {
+      "name": {
+        "en": "International School Bangkok (ISB)",
+        "zh": "曼谷国际学校（ISB）",
+        "th": "โรงเรียนนานาชาติกรุงเทพ (ISB)"
+      },
+      "source_url": "https://www.isb.ac.th/"
+    },
+    {
+      "name": {
+        "en": "Bangkok Patana School",
+        "zh": "曼谷帕塔纳学校",
+        "th": "โรงเรียนบางกอกพัฒนา"
+      },
+      "source_url": "https://www.patana.ac.th/"
+    },
+    {
+      "name": {
+        "en": "NIST International School",
+        "zh": "NIST 国际学校",
+        "th": "โรงเรียนนานาชาติ NIST"
+      },
+      "source_url": "https://www.nist.ac.th/"
+    }
+  ],
+  "hospitals": [
+    {
+      "name": {
+        "en": "Bumrungrad International Hospital",
+        "zh": "康民国际医院",
+        "th": "โรงพยาบาลบำรุงราษฎร์"
+      },
+      "source_url": "https://www.bumrungrad.com/"
+    },
+    {
+      "name": {
+        "en": "Bangkok Hospital",
+        "zh": "曼谷医院",
+        "th": "โรงพยาบาลกรุงเทพ"
+      },
+      "source_url": "https://www.bangkokhospital.com/"
+    },
+    {
+      "name": {
+        "en": "Samitivej Sukhumvit Hospital",
+        "zh": "三美泰素坤逸医院",
+        "th": "โรงพยาบาลสมิติเวช สุขุมวิท"
+      },
+      "source_url": "https://www.samitivejhospitals.com/"
+    }
+  ],
+  "shopping": [
+    {
+      "name": {
+        "en": "Siam Paragon",
+        "zh": "暹罗百丽宫",
+        "th": "สยามพารากอน"
+      },
+      "source_url": "https://www.siamparagon.co.th/"
+    },
+    {
+      "name": {
+        "en": "CentralWorld",
+        "zh": "尚泰世界购物中心",
+        "th": "เซ็นทรัลเวิลด์"
+      },
+      "source_url": "https://www.centralworld.co.th/"
+    },
+    {
+      "name": {
+        "en": "ICONSIAM",
+        "zh": "暹罗天地",
+        "th": "ไอคอนสยาม"
+      },
+      "source_url": "https://www.iconsiam.com/"
+    }
+  ],
+  "investment_summary": {
+    "en": "Foreign buyers in Bangkok most commonly purchase freehold condominium units under the Condominium Act's 49% foreign quota, focusing on rail-connected districts. GoThailandHome does not publish yield estimates or price forecasts; verify project-level facts on each project page and confirm quota with the sales office.",
+    "zh": "曼谷的外国买家最常依据《公寓法》49% 外资配额购买永久产权公寓单元，并聚焦轨道交通沿线各区。GoThailandHome 不发布收益率估算或价格预测；请在各项目页核实项目层面的信息，并向销售处确认配额。",
+    "th": "ผู้ซื้อชาวต่างชาติในกรุงเทพฯ ส่วนใหญ่ซื้อห้องชุดแบบฟรีโฮลด์ภายใต้โควตาชาวต่างชาติ 49% ตามพระราชบัญญัติอาคารชุด โดยเน้นเขตที่เชื่อมต่อรถไฟฟ้า GoThailandHome ไม่เผยแพร่การประมาณผลตอบแทนหรือการคาดการณ์ราคา โปรดตรวจสอบข้อเท็จจริงระดับโครงการในแต่ละหน้าโครงการและยืนยันโควตากับสำนักงานขาย"
+  },
+  "rental_summary": {
+    "en": "Bangkok's rental demand concentrates near BTS/MRT stations, business districts, and international schools. Owners letting out units handle personal income tax on rental income and building rules on leasing; tenants typically sign one-year contracts with two months' deposit. This platform lists verified public rentals only.",
+    "zh": "曼谷的租赁需求集中在 BTS/MRT 车站、商务区和国际学校周边。业主出租需处理租金收入的个人所得税及大楼租赁规定；租客通常签一年合同并支付两个月押金。本平台仅收录已核验的公开租赁房源。",
+    "th": "ความต้องการเช่าในกรุงเทพฯ กระจุกตัวใกล้สถานี BTS/MRT ย่านธุรกิจ และโรงเรียนนานาชาติ เจ้าของที่ปล่อยเช่าต้องจัดการภาษีเงินได้บุคคลธรรมดาจากค่าเช่าและกฎการปล่อยเช่าของอาคาร ผู้เช่ามักทำสัญญาหนึ่งปีพร้อมเงินมัดจำสองเดือน แพลตฟอร์มนี้แสดงเฉพาะประกาศเช่าสาธารณะที่ตรวจสอบแล้ว"
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Which Bangkok districts should foreign buyers look at first?",
+        "zh": "外国买家应优先关注曼谷哪些区？",
+        "th": "ผู้ซื้อชาวต่างชาติควรเริ่มดูเขตใดของกรุงเทพฯ ก่อน?"
+      },
+      "answer": {
+        "en": "Most foreign buyers start with rail-connected districts: Watthana and Khlong Toei for the Sukhumvit corridor, Pathum Wan and Bang Rak for the central business district, and Huai Khwang or Chatuchak for the MRT Blue Line. Each district page on this platform lists sourced amenities and current inventory so you can compare before shortlisting.",
+        "zh": "多数外国买家从轨道交通沿线的区开始：素坤逸走廊的瓦他纳与孔堤、核心商务区的巴吞旺与挽叻，以及 MRT 蓝线上的汇权或乍都乍。本平台每个区页面都列出有来源的配套与当前库存，便于比较后再筛选。",
+        "th": "ผู้ซื้อชาวต่างชาติส่วนใหญ่เริ่มจากเขตที่เชื่อมต่อรถไฟฟ้า ได้แก่ วัฒนาและคลองเตยสำหรับแนวสุขุมวิท ปทุมวันและบางรักสำหรับย่านธุรกิจกลาง และห้วยขวางหรือจตุจักรตามแนว MRT สายสีน้ำเงิน หน้าเขตแต่ละหน้าบนแพลตฟอร์มแสดงสิ่งอำนวยความสะดวกพร้อมแหล่งอ้างอิงและคลังข้อมูลปัจจุบันเพื่อให้เปรียบเทียบก่อนคัดเลือก"
+      }
+    },
+    {
+      "question": {
+        "en": "Do I need to live in Thailand to buy a Bangkok condo?",
+        "zh": "购买曼谷公寓需要住在泰国吗？",
+        "th": "ต้องอาศัยอยู่ในประเทศไทยหรือไม่จึงจะซื้อคอนโดในกรุงเทพฯ ได้?"
+      },
+      "answer": {
+        "en": "No. Foreigners can buy Bangkok condominiums without residency or a visa, as long as the purchase funds are remitted into Thailand in foreign currency with bank evidence and the building's 49% foreign quota has space. Many buyers complete the process with a power of attorney handled by a Thai lawyer.",
+        "zh": "不需要。只要购房资金以外币汇入泰国并保留银行证明，且楼栋 49% 外资配额有余量，外国人无需居留权或签证即可购买曼谷公寓。许多买家通过泰国律师办理授权委托完成流程。",
+        "th": "ไม่จำเป็น ชาวต่างชาติสามารถซื้อคอนโดในกรุงเทพฯ ได้โดยไม่ต้องมีถิ่นพำนักหรือวีซ่า ตราบใดที่เงินซื้อถูกโอนเข้าประเทศไทยเป็นเงินตราต่างประเทศพร้อมหลักฐานธนาคาร และโควตาชาวต่างชาติ 49% ของอาคารยังมีที่ว่าง ผู้ซื้อจำนวนมากดำเนินการผ่านหนังสือมอบอำนาจโดยทนายความไทย"
+      }
+    },
+    {
+      "question": {
+        "en": "How do I compare Bangkok projects on this platform?",
+        "zh": "如何在本平台比较曼谷的项目？",
+        "th": "จะเปรียบเทียบโครงการในกรุงเทพฯ บนแพลตฟอร์มนี้ได้อย่างไร?"
+      },
+      "answer": {
+        "en": "Open the projects section below to see published Bangkok projects, then use each project page for evidence-classed facts, developer links, district context, and verified listings. District pages group projects and listings by area, and the knowledge hub explains the buying process step by step.",
+        "zh": "打开下方的项目版块查看已发布的曼谷项目，再进入各项目页查看按证据分级的信息、开发商链接、区域背景与已核验房源。区页面按区域汇总项目与房源，知识中心则分步讲解购买流程。",
+        "th": "เปิดส่วนโครงการด้านล่างเพื่อดูโครงการในกรุงเทพฯ ที่เผยแพร่แล้ว จากนั้นใช้หน้าโครงการแต่ละหน้าเพื่อดูข้อเท็จจริงตามระดับหลักฐาน ลิงก์ผู้พัฒนา บริบทของเขต และประกาศที่ตรวจสอบแล้ว หน้าเขตจัดกลุ่มโครงการและประกาศตามพื้นที่ และศูนย์ความรู้อธิบายขั้นตอนการซื้อทีละขั้น"
+      }
+    }
+  ],
+  "knowledge_links": [
+    {
+      "path": "/knowledge/articles/thailand-property-buying-guide",
+      "label": {
+        "en": "Thailand property buying guide",
+        "zh": "泰国购房指南",
+        "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+      }
+    },
+    {
+      "path": "/knowledge/articles/foreign-ownership-thailand",
+      "label": {
+        "en": "Foreign ownership rules",
+        "zh": "外国人产权规则",
+        "th": "กฎการถือครองของชาวต่างชาติ"
+      }
+    },
+    {
+      "path": "/knowledge/articles/thailand-condo-guide",
+      "label": {
+        "en": "Condo buying guide",
+        "zh": "公寓购买指南",
+        "th": "คู่มือซื้อคอนโด"
+      }
+    },
+    {
+      "path": "/knowledge/bangkok-districts",
+      "label": {
+        "en": "Bangkok districts guide",
+        "zh": "曼谷各区指南",
+        "th": "คู่มือเขตกรุงเทพฯ"
+      }
+    }
+  ],
+  "image_slots": [
+    {
+      "id": "bangkok-hero",
+      "src": null,
+      "alt": {
+        "en": "Bangkok skyline with BTS Skytrain and condominium towers",
+        "zh": "曼谷天际线与 BTS 空铁及公寓楼群",
+        "th": "เส้นขอบฟ้ากรุงเทพฯ พร้อมรถไฟฟ้าบีทีเอสและอาคารคอนโดมิเนียม"
+      }
+    },
+    {
+      "id": "bangkok-transit",
+      "src": null,
+      "alt": {
+        "en": "BTS Skytrain station platform in central Bangkok",
+        "zh": "曼谷市中心的 BTS 空铁车站站台",
+        "th": "ชานชาลาสถานีรถไฟฟ้าบีทีเอสในใจกลางกรุงเทพฯ"
+      }
+    },
+    {
+      "id": "bangkok-riverside",
+      "src": null,
+      "alt": {
+        "en": "Chao Phraya riverside residential area in Bangkok",
+        "zh": "曼谷湄南河畔的住宅区",
+        "th": "ย่านที่พักอาศัยริมแม่น้ำเจ้าพระยาในกรุงเทพฯ"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "government",
+      "name": "Bangkok Metropolitan Administration",
+      "url": "https://www.bangkok.go.th/"
+    },
+    {
+      "type": "official_operator",
+      "name": "BTS Skytrain official website",
+      "url": "https://www.bts.co.th/eng/index.html"
+    },
+    {
+      "type": "official_operator",
+      "name": "MRTA official website",
+      "url": "https://metro.mrta.co.th/en/"
+    }
+  ]
+}
