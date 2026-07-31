@@ -86,6 +86,35 @@ check("analytics-bootstrap:provider failure isolated", () => {
   assert.ok(adapter.includes("catch"), "swallows provider errors");
 });
 
+check("analytics-bootstrap:hydrated flag is SSR-safe", () => {
+  const provider = read("src/components/analytics/analytics-provider.tsx");
+  // Regression: typeof window during render caused React #418 → Next global-error.
+  assert.ok(
+    !/const hydrated = typeof window !== ["']undefined["']/.test(provider),
+    "must not derive hydrated from typeof window during render",
+  );
+  assert.ok(
+    provider.includes("useSyncExternalStore"),
+    "hydrated/consent must use useSyncExternalStore",
+  );
+  const hydratedBlock = provider.slice(
+    provider.indexOf("const hydrated"),
+    provider.indexOf("const hydrated") + 220,
+  );
+  assert.ok(
+    hydratedBlock.includes("useSyncExternalStore"),
+    "hydrated must come from useSyncExternalStore",
+  );
+  assert.ok(
+    hydratedBlock.includes("() => true") && hydratedBlock.includes("() => false"),
+    "client snapshot true / server snapshot false",
+  );
+  assert.ok(
+    provider.includes('allowed: hydrated && consent === "granted"'),
+    "allowed must use consent snapshot, not a second localStorage read",
+  );
+});
+
 if (process.exitCode) {
   console.log(JSON.stringify({ ok: false }));
   process.exit(1);

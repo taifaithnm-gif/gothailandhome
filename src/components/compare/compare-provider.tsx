@@ -43,6 +43,11 @@ const CompareContext = createContext<CompareContextValue | null>(null);
 
 const storage = createBrowserCompareStorage();
 const listeners = new Set<() => void>();
+/** Stable empty snapshot — new objects each call break useSyncExternalStore. */
+const SERVER_SNAPSHOT: CompareState = emptyCompareState();
+let clientSnapshot: CompareState = SERVER_SNAPSHOT;
+let clientSnapshotRaw: string | null = null;
+let clientSnapshotReady = false;
 
 function emit() {
   for (const listener of listeners) listener();
@@ -53,6 +58,7 @@ function subscribe(listener: () => void) {
   if (typeof window !== "undefined") {
     const onStorage = (event: StorageEvent) => {
       if (event.key === COMPARE_STORAGE_KEY || event.key === null) {
+        clientSnapshotReady = false;
         listener();
       }
     };
@@ -68,15 +74,25 @@ function subscribe(listener: () => void) {
 }
 
 function getClientSnapshot(): CompareState {
-  return loadCompare(storage);
+  const raw = storage.getItem(COMPARE_STORAGE_KEY);
+  if (clientSnapshotReady && raw === clientSnapshotRaw) {
+    return clientSnapshot;
+  }
+  clientSnapshotRaw = raw;
+  clientSnapshot = loadCompare(storage);
+  clientSnapshotReady = true;
+  return clientSnapshot;
 }
 
 function getServerSnapshot(): CompareState {
-  return emptyCompareState();
+  return SERVER_SNAPSHOT;
 }
 
 function writeState(next: CompareState) {
-  saveCompare(storage, next);
+  const saved = saveCompare(storage, next);
+  clientSnapshot = saved;
+  clientSnapshotRaw = storage.getItem(COMPARE_STORAGE_KEY);
+  clientSnapshotReady = true;
   emit();
 }
 
@@ -117,6 +133,9 @@ export function CompareProvider({ children }: { children: ReactNode }) {
 
   const clear = useCallback(() => {
     clearCompareStorage(storage);
+    clientSnapshot = SERVER_SNAPSHOT;
+    clientSnapshotRaw = null;
+    clientSnapshotReady = true;
     emit();
   }, []);
 

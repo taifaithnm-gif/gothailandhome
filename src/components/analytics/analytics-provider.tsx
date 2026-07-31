@@ -11,7 +11,6 @@ import {
 
 import {
   ANALYTICS_CONSENT_KEY,
-  isAnalyticsConsentGranted,
   readAnalyticsConsent,
   writeAnalyticsConsent,
   type AnalyticsConsent,
@@ -60,7 +59,14 @@ function getServerSnapshot(): AnalyticsConsent | null {
 
 export function AnalyticsProvider({ children }: { children: ReactNode }) {
   const consent = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
-  const hydrated = typeof window !== "undefined";
+  // Must use useSyncExternalStore — `typeof window` is true during client
+  // hydration and would render the consent banner before the server HTML,
+  // triggering React #418 → global-error ("This page couldn't load").
+  const hydrated = useSyncExternalStore(
+    subscribe,
+    () => true,
+    () => false,
+  );
 
   const grant = useCallback(() => {
     writeAnalyticsConsent("granted");
@@ -78,7 +84,7 @@ export function AnalyticsProvider({ children }: { children: ReactNode }) {
       hydrated,
       grant,
       deny,
-      allowed: hydrated && isAnalyticsConsentGranted(),
+      allowed: hydrated && consent === "granted",
     }),
     [consent, hydrated, grant, deny],
   );
