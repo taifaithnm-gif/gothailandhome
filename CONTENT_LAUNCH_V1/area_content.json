@@ -1,0 +1,163 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-02",
+  "areas": [
+    {
+      "area_id": "bangkok",
+      "area_name": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "status": "PRODUCTION_READY",
+      "overview": {
+        "en": "Bangkok is Thailand's capital and largest property market, with 50 districts of verified data in this platform spanning the BTS Skytrain, MRT subway, and Airport Rail Link network. It offers the widest choice of condominiums for both end-users and investors, from entry-level units near transit interchanges to premium addresses on Sukhumvit, Sathorn, and Wireless Road.",
+        "zh": "曼谷是泰国的首都及最大的房地产市场，本平台已核实50个区域的数据，覆盖BTS空铁、MRT地铁及机场快线网络。曼谷为自住及投资买家提供最丰富的公寓选择，从交通枢纽附近的入门户型到素坤逸、沙吞、Wireless Road等高端地段一应俱全。",
+        "th": "กรุงเทพมหานครเป็นเมืองหลวงและตลาดอสังหาริมทรัพย์ที่ใหญ่ที่สุดของไทย แพลตฟอร์มนี้มีข้อมูลที่ตรวจสอบแล้วครอบคลุม 50 เขต ครอบคลุมเครือข่ายรถไฟฟ้า BTS รถไฟใต้ดิน MRT และแอร์พอร์ต เรล ลิงก์ กรุงเทพฯ มีตัวเลือกคอนโดที่หลากหลายที่สุดสำหรับทั้งผู้อยู่อาศัยจริงและนักลงทุน ตั้งแต่ยูนิตระดับเริ่มต้นใกล้จุดเชื่อมต่อรถไฟฟ้า ไปจนถึงทำเลระดับพรีเมียมอย่างสุขุมวิท สาทร และถนนวิทยุ"
+      },
+      "suitable_buyer_profile": {
+        "en": "Professionals needing transit access, families near international schools, retirees seeking healthcare access, and investors prioritizing rental liquidity.",
+        "zh": "适合需要便捷交通的专业人士、靠近国际学校的家庭、寻求医疗资源的退休人士，以及重视租赁流动性的投资者。",
+        "th": "เหมาะกับคนทำงานที่ต้องการเดินทางสะดวก ครอบครัวที่ต้องการใกล้โรงเรียนนานาชาติ ผู้เกษียณอายุที่ต้องการเข้าถึงบริการสุขภาพ และนักลงทุนที่ให้ความสำคัญกับสภาพคล่องในการปล่อยเช่า"
+      },
+      "main_property_types": {
+        "en": "Condominiums dominate the verified project inventory in this platform (50 of 50 packages); townhouse and villa coverage is not yet available.",
+        "zh": "本平台已核实的项目库存以公寓为主（50个项目全部为公寓）；联排别墅及独栋别墅数据尚未收录。",
+        "th": "สินค้าคงคลังโครงการที่ตรวจสอบแล้วในแพลตฟอร์มนี้เป็นคอนโดมิเนียมทั้งหมด (50 จาก 50 โครงการ) ยังไม่มีข้อมูลทาวน์เฮาส์และวิลล่า"
+      },
+      "lifestyle_characteristics": {
+        "en": "District character varies sharply across Bangkok — from the international, transit-dense core (Watthana, Pathum Wan, Sathorn) to emerging MRT-linked neighborhoods (Huai Khwang, Bang Kapi) offering lower entry prices. See individual district pages for schools, hospitals, and shopping specific to each area.",
+        "zh": "曼谷各区特色差异明显——从国际化、交通密集的核心区（瓦他那、巴吞旺、沙吞），到MRT沿线新兴、入场价格更低的社区（辉煌、挽甲必）。各区学校、医院及购物信息详见对应的区域页面。",
+        "th": "ลักษณะแต่ละเขตของกรุงเทพฯ แตกต่างกันชัดเจน ตั้งแต่ใจกลางเมืองนานาชาติที่มีรถไฟฟ้าหนาแน่น (วัฒนา ปทุมวัน สาทร) ไปจนถึงย่านเกิดใหม่ตามแนว MRT ที่ราคาเริ่มต้นต่ำกว่า (ห้วยขวาง บางกะปิ) ดูรายละเอียดโรงเรียน โรงพยาบาล และแหล่งช้อปปิ้งของแต่ละเขตได้ในหน้าเขตนั้นๆ"
+      },
+      "transport_summary": {
+        "en": "BTS Skytrain (Sukhumvit and Silom lines), MRT subway (Blue and Purple lines), and the Airport Rail Link connect the districts covered in this platform. Individual project pages list the specific stations and interchanges relevant to that project.",
+        "zh": "BTS空铁（素坤逸线及是隆线）、MRT地铁（蓝线及紫线）以及机场快线连接本平台覆盖的各区域。各项目页面列出与该项目相关的具体车站及换乘点。",
+        "th": "รถไฟฟ้า BTS (สายสุขุมวิทและสายสีลม) รถไฟใต้ดิน MRT (สายสีน้ำเงินและสีม่วง) และแอร์พอร์ต เรล ลิงก์ เชื่อมต่อเขตต่างๆ ที่ครอบคลุมในแพลตฟอร์มนี้ หน้าโครงการแต่ละโครงการจะระบุสถานีและจุดเชื่อมต่อที่เกี่ยวข้องกับโครงการนั้นโดยเฉพาะ"
+      },
+      "investment_considerations": {
+        "en": "Liquidity and tenant demand vary by transit access, district maturity, and fee stack (common area fee, sinking fund). Prime central districts (Sukhumvit, Sathorn, Pathum Wan) offer more established resale and rental markets; MRT-linked emerging districts (Huai Khwang, Bang Kapi) offer lower entry prices with growth tied to transit-line completion. No specific yield figures are published here pending sourced market data.",
+        "zh": "流动性及租客需求因交通便利程度、区域成熟度及费用结构（公共维护费、维修基金）而异。核心地段（素坤逸、沙吞、巴吞旺）拥有更成熟的转售及租赁市场；MRT沿线新兴区域（辉煌、挽甲必）入场价格较低，增长潜力与轨道交通建设进度相关。因暂无经核实的市场数据来源，本页不发布具体收益率数字。",
+        "th": "สภาพคล่องและดีมานด์ผู้เช่าแตกต่างกันตามการเข้าถึงรถไฟฟ้า ความเป็นเมืองของแต่ละเขต และโครงสร้างค่าใช้จ่าย (ค่าส่วนกลาง กองทุนสำรอง) เขตใจกลางเมือง (สุขุมวิท สาทร ปทุมวัน) มีตลาดขายต่อและปล่อยเช่าที่เป็นที่ยอมรับมากกว่า ส่วนเขตเกิดใหม่ตามแนว MRT (ห้วยขวาง บางกะปิ) มีราคาเริ่มต้นต่ำกว่าโดยการเติบโตผูกกับความคืบหน้าของเส้นทางรถไฟฟ้า หน้านี้ไม่เผยแพร่ตัวเลขผลตอบแทนเฉพาะเจาะจง เนื่องจากยังไม่มีแหล่งข้อมูลตลาดที่ตรวจสอบแล้ว"
+      },
+      "featured_projects": [
+        "modiz-rhyme-ramkhamhaeng",
+        "knightsbridge-prime-sathorn",
+        "life-asoke-rama-9",
+        "life-ladprao",
+        "life-one-wireless",
+        "rhythm-ekkamai",
+        "supalai-oriental-sukhumvit-39",
+        "the-line-sukhumvit-101",
+        "whizdom-essence",
+        "xt-huai-khwang",
+        "xt-phayathai",
+        "the-livin-ramkhamhaeng"
+      ],
+      "consultation_cta": {
+        "en": "Talk to a GoThailandHome advisor to compare verified projects in this area and get the latest availability and pricing.",
+        "zh": "联系GoThailandHome顾问，比较该区域已核实的项目，获取最新的可售情况与价格。",
+        "th": "พูดคุยกับที่ปรึกษา GoThailandHome เพื่อเปรียบเทียบโครงการที่ตรวจสอบแล้วในย่านนี้ และรับข้อมูลราคา/ความพร้อมล่าสุด"
+      },
+      "source_status": "verified_local_content_corpus",
+      "data_gaps": [
+        "FAQ blocks absent on all 50 district packages",
+        "39/50 districts have thin (<40 word) summaries",
+        "No townhouse/villa inventory yet catalogued"
+      ]
+    },
+    {
+      "area_id": "pattaya",
+      "area_name": {
+        "en": "Pattaya",
+        "zh": "芭堤雅",
+        "th": "พัทยา"
+      },
+      "status": "NOT_PRODUCTION_READY",
+      "status_note": {
+        "en": "No verified project or district-level dataset exists in the local content corpus for this city yet. Only a general market-positioning summary is provided below; district amenities, transport distances, and specific projects will be added once a verified data package exists.",
+        "zh": "本地内容库中目前尚无该城市已核实的项目或区域级数据。以下仅提供一般性市场定位概述；待有已核实的数据包后，将补充区域配套、交通距离及具体项目信息。",
+        "th": "ยังไม่มีชุดข้อมูลโครงการหรือระดับเขตที่ตรวจสอบแล้วสำหรับเมืองนี้ในฐานข้อมูลเนื้อหาท้องถิ่น ด้านล่างเป็นเพียงภาพรวมการวางตำแหน่งตลาดทั่วไปเท่านั้น ข้อมูลสิ่งอำนวยความสะดวก ระยะทางการเดินทาง และโครงการเฉพาะจะถูกเพิ่มเมื่อมีชุดข้อมูลที่ตรวจสอบแล้ว"
+      },
+      "overview": {
+        "en": "Pattaya is Thailand's established Eastern Seaboard beach and resort city, known for its long-stay retiree and holiday-home market.",
+        "zh": "芭堤雅是泰国东海岸成熟的海滨度假城市，以长住退休及度假别墅市场著称。",
+        "th": "พัทยาเป็นเมืองชายหาดและรีสอร์ทที่มีชื่อเสียงบนชายฝั่งทะเลตะวันออกของไทย เป็นที่รู้จักในฐานะตลาดสำหรับผู้พำนักระยะยาวและบ้านพักตากอากาศ"
+      },
+      "suitable_buyer_profile": null,
+      "main_property_types": null,
+      "lifestyle_characteristics": null,
+      "transport_summary": null,
+      "investment_considerations": null,
+      "featured_projects": [],
+      "consultation_cta": {
+        "en": "Talk to a GoThailandHome advisor to compare verified projects in this area and get the latest availability and pricing.",
+        "zh": "联系GoThailandHome顾问，比较该区域已核实的项目，获取最新的可售情况与价格。",
+        "th": "พูดคุยกับที่ปรึกษา GoThailandHome เพื่อเปรียบเทียบโครงการที่ตรวจสอบแล้วในย่านนี้ และรับข้อมูลราคา/ความพร้อมล่าสุด"
+      },
+      "source_status": "insufficient_verified_data"
+    },
+    {
+      "area_id": "phuket",
+      "area_name": {
+        "en": "Phuket",
+        "zh": "普吉岛",
+        "th": "ภูเก็ต"
+      },
+      "status": "NOT_PRODUCTION_READY",
+      "status_note": {
+        "en": "No verified project or district-level dataset exists in the local content corpus for this city yet. Only a general market-positioning summary is provided below; district amenities, transport distances, and specific projects will be added once a verified data package exists.",
+        "zh": "本地内容库中目前尚无该城市已核实的项目或区域级数据。以下仅提供一般性市场定位概述；待有已核实的数据包后，将补充区域配套、交通距离及具体项目信息。",
+        "th": "ยังไม่มีชุดข้อมูลโครงการหรือระดับเขตที่ตรวจสอบแล้วสำหรับเมืองนี้ในฐานข้อมูลเนื้อหาท้องถิ่น ด้านล่างเป็นเพียงภาพรวมการวางตำแหน่งตลาดทั่วไปเท่านั้น ข้อมูลสิ่งอำนวยความสะดวก ระยะทางการเดินทาง และโครงการเฉพาะจะถูกเพิ่มเมื่อมีชุดข้อมูลที่ตรวจสอบแล้ว"
+      },
+      "overview": {
+        "en": "Phuket is Thailand's largest island and a long-established international resort destination, with a property market oriented toward villas and resort-branded condominiums.",
+        "zh": "普吉岛是泰国最大的岛屿，也是历史悠久的国际度假胜地，其房地产市场以别墅及度假品牌公寓为主。",
+        "th": "ภูเก็ตเป็นเกาะที่ใหญ่ที่สุดของไทยและเป็นจุดหมายปลายทางรีสอร์ทระดับนานาชาติที่มีชื่อเสียงมายาวนาน ตลาดอสังหาริมทรัพย์เน้นไปที่วิลล่าและคอนโดมิเนียมแบรนด์รีสอร์ท"
+      },
+      "suitable_buyer_profile": null,
+      "main_property_types": null,
+      "lifestyle_characteristics": null,
+      "transport_summary": null,
+      "investment_considerations": null,
+      "featured_projects": [],
+      "consultation_cta": {
+        "en": "Talk to a GoThailandHome advisor to compare verified projects in this area and get the latest availability and pricing.",
+        "zh": "联系GoThailandHome顾问，比较该区域已核实的项目，获取最新的可售情况与价格。",
+        "th": "พูดคุยกับที่ปรึกษา GoThailandHome เพื่อเปรียบเทียบโครงการที่ตรวจสอบแล้วในย่านนี้ และรับข้อมูลราคา/ความพร้อมล่าสุด"
+      },
+      "source_status": "insufficient_verified_data"
+    },
+    {
+      "area_id": "chiang-mai",
+      "area_name": {
+        "en": "Chiang Mai",
+        "zh": "清迈",
+        "th": "เชียงใหม่"
+      },
+      "status": "NOT_PRODUCTION_READY",
+      "status_note": {
+        "en": "No verified project or district-level dataset exists in the local content corpus for this city yet. Only a general market-positioning summary is provided below; district amenities, transport distances, and specific projects will be added once a verified data package exists.",
+        "zh": "本地内容库中目前尚无该城市已核实的项目或区域级数据。以下仅提供一般性市场定位概述；待有已核实的数据包后，将补充区域配套、交通距离及具体项目信息。",
+        "th": "ยังไม่มีชุดข้อมูลโครงการหรือระดับเขตที่ตรวจสอบแล้วสำหรับเมืองนี้ในฐานข้อมูลเนื้อหาท้องถิ่น ด้านล่างเป็นเพียงภาพรวมการวางตำแหน่งตลาดทั่วไปเท่านั้น ข้อมูลสิ่งอำนวยความสะดวก ระยะทางการเดินทาง และโครงการเฉพาะจะถูกเพิ่มเมื่อมีชุดข้อมูลที่ตรวจสอบแล้ว"
+      },
+      "overview": {
+        "en": "Chiang Mai is Thailand's main northern cultural and university city, and a well-known hub for long-stay expats and digital nomads.",
+        "zh": "清迈是泰国北部主要的文化与大学城市，也是长住外籍人士及数字游民的知名聚集地。",
+        "th": "เชียงใหม่เป็นเมืองวัฒนธรรมและมหาวิทยาลัยหลักทางภาคเหนือของไทย และเป็นศูนย์กลางที่มีชื่อเสียงสำหรับชาวต่างชาติที่พำนักระยะยาวและดิจิทัลโนแมด"
+      },
+      "suitable_buyer_profile": null,
+      "main_property_types": null,
+      "lifestyle_characteristics": null,
+      "transport_summary": null,
+      "investment_considerations": null,
+      "featured_projects": [],
+      "consultation_cta": {
+        "en": "Talk to a GoThailandHome advisor to compare verified projects in this area and get the latest availability and pricing.",
+        "zh": "联系GoThailandHome顾问，比较该区域已核实的项目，获取最新的可售情况与价格。",
+        "th": "พูดคุยกับที่ปรึกษา GoThailandHome เพื่อเปรียบเทียบโครงการที่ตรวจสอบแล้วในย่านนี้ และรับข้อมูลราคา/ความพร้อมล่าสุด"
+      },
+      "source_status": "insufficient_verified_data"
+    }
+  ]
+}

@@ -2,11 +2,13 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { ContentRelatedLinks } from "@/components/content/content-related-links";
+import { KnowledgeCardLink } from "@/components/launch/knowledge-card-link";
 import { PageShell } from "@/components/layout/page-shell";
 import { SurfaceCard } from "@/components/ui/card";
 import { isLocale } from "@/config/locales";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
+import { getLaunchKnowledgeCards } from "@/lib/launch/content-launch-v1";
 
 export async function generateMetadata({
   params,
@@ -34,6 +36,7 @@ export default async function KnowledgeHubPage({
   const dict = await getDictionary(lang);
   const k = dict.knowledge;
   const h = dict.home;
+  const knowledgeCards = getLaunchKnowledgeCards();
 
   const guides = [
     {
@@ -102,6 +105,29 @@ export default async function KnowledgeHubPage({
       ]}
     >
       <div className="space-y-10">
+        {knowledgeCards.length > 0 ? (
+          <section className="space-y-4" data-launch-section="knowledge-cards">
+            <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+              <h2 className="ds-h3 text-xl">{k.articlesTitle}</h2>
+              <Link
+                href={localePath(lang, "/knowledge/articles")}
+                className="text-sm text-[var(--brand)] hover:underline"
+              >
+                {dict.common.viewAll}
+              </Link>
+            </div>
+            <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+              {knowledgeCards.map((card) => (
+                <KnowledgeCardLink
+                  key={card.slug}
+                  locale={lang}
+                  card={card}
+                />
+              ))}
+            </div>
+          </section>
+        ) : null}
+
         <section className="space-y-4">
           <h2 className="ds-h3 text-xl">{k.guidesTitle}</h2>
           <div className="grid gap-4 md:grid-cols-3 lg:grid-cols-4">

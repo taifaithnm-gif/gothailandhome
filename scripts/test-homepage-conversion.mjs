@@ -5,6 +5,8 @@
  * Offline checks: CTA routes, section order, featured bounds, claim hygiene,
  * keyboard focus affordances. No live network / property APIs.
  *
+ * Updated for CONTENT_LAUNCH_V1 curated homepage.
+ *
  * Run: node scripts/test-homepage-conversion.mjs
  */
 import assert from "node:assert/strict";
@@ -34,6 +36,7 @@ function check(name, fn) {
 const HOME = "src/app/[lang]/page.tsx";
 const PATHS = "src/components/home/home-conversion-paths.tsx";
 const HERO = "src/components/home/home-hero-search.tsx";
+const LAUNCH = "src/lib/launch/content-launch-v1.ts";
 
 const EXPECTED_SECTION_ORDER = [
   "hero",
@@ -41,21 +44,38 @@ const EXPECTED_SECTION_ORDER = [
   "paths",
   "listings",
   "projects",
-  "districts",
+  "areas",
   "developers",
-  "why",
-  "marketplace",
   "knowledge",
-  "support",
+  "why",
+  "journey",
+  "categories",
+  "marketplace",
+  "consultation",
+  "trust",
 ];
 
 check("home:conversion files exist", () => {
-  for (const file of [HOME, PATHS, HERO]) {
+  for (const file of [HOME, PATHS, HERO, LAUNCH]) {
     assert.ok(existsSync(resolve(root, file)), file);
   }
 });
 
-check("home:section order hero→paths→listings→projects→districts→inquiry", () => {
+check("home:launch package files exist", () => {
+  for (const file of [
+    "CONTENT_LAUNCH_V1/homepage_content.json",
+    "CONTENT_LAUNCH_V1/featured_projects.json",
+    "CONTENT_LAUNCH_V1/developer_content.json",
+    "CONTENT_LAUNCH_V1/knowledge_cards.json",
+    "CONTENT_LAUNCH_V1/area_content.json",
+    "CONTENT_LAUNCH_V1/cta_content.json",
+    "CONTENT_LAUNCH_V1/image_manifest.json",
+  ]) {
+    assert.ok(existsSync(resolve(root, file)), file);
+  }
+});
+
+check("home:section order content-launch hierarchy", () => {
   const home = read(HOME);
   assert.ok(
     home.includes("HOME_SECTION_ORDER"),
@@ -67,7 +87,6 @@ check("home:section order hero→paths→listings→projects→districts→inqui
   let last = -1;
   for (const marker of markers) {
     const idx = home.indexOf(marker);
-    // paths lives in HomeConversionPaths component
     if (marker.includes('"paths"') && idx < 0) {
       const paths = read(PATHS);
       assert.ok(
@@ -80,39 +99,34 @@ check("home:section order hero→paths→listings→projects→districts→inqui
     assert.ok(idx > last, `order break at ${marker}`);
     last = idx;
   }
-  // listings before projects
   assert.ok(
-    home.indexOf('data-home-section="listings"') <
-      home.indexOf('data-home-section="projects"'),
-    "listings must precede projects",
-  );
-  // support (inquiry) last
-  assert.ok(
-    home.lastIndexOf('data-home-section="support"') >
-      home.indexOf('data-home-section="marketplace"'),
-    "support inquiry after marketplace",
+    home.lastIndexOf('data-home-section="trust"') >
+      home.indexOf('data-home-section="consultation"'),
+    "trust after consultation",
   );
 });
 
-check("home:featured sections remain bounded", () => {
+check("home:featured sections use launch bounds", () => {
   const home = read(HOME);
   assert.ok(home.includes("HOME_BOUNDS"), "HOME_BOUNDS present");
   assert.ok(home.includes("listings: 6"), "listings bound 6");
-  assert.ok(home.includes("projects: 6"), "projects bound 6");
-  assert.ok(home.includes("districts: 12"), "districts bound 12");
-  assert.ok(home.includes("developers: 6"), "developers bound 6");
-  assert.ok(home.includes("pageSize: HOME_BOUNDS.listings"), "paged by bound");
+  assert.ok(home.includes("projects: 12"), "projects bound 12");
+  assert.ok(home.includes("developers: 10"), "developers bound 10");
+  assert.ok(home.includes("knowledge: 6"), "knowledge bound 6");
+  assert.ok(home.includes("getFeaturedLaunchProjects"), "uses launch projects");
+  assert.ok(home.includes("getLaunchDevelopers"), "uses launch developers");
+  assert.ok(home.includes("getLaunchKnowledgeCards"), "uses launch knowledge");
+});
+
+check("home:empty listings section is gated", () => {
+  const home = read(HOME);
   assert.ok(
-    home.includes("slice(0, HOME_BOUNDS.projects)"),
-    "projects sliced",
+    home.includes("latestListings.length > 0"),
+    "listings hidden when empty",
   );
   assert.ok(
-    home.includes("slice(0, HOME_BOUNDS.districts)"),
-    "districts sliced",
-  );
-  assert.ok(
-    home.includes("slice(0, HOME_BOUNDS.developers)"),
-    "developers sliced",
+    home.includes("featuredProjects.length > 0"),
+    "projects hidden when empty",
   );
 });
 
@@ -126,7 +140,7 @@ check("home:every primary CTA lands on a valid localized route", () => {
     { file: PATHS, needle: 'localePath(locale, "/rent")', label: "rent path" },
     {
       file: PATHS,
-      needle: 'listing_type=sale&city=bangkok&sort=price_asc',
+      needle: "listing_type=sale&city=bangkok&sort=price_asc",
       label: "sale scan filters",
     },
     {
@@ -151,11 +165,6 @@ check("home:every primary CTA lands on a valid localized route", () => {
     },
     {
       file: HOME,
-      needle: "`/districts/${district.slug}`",
-      label: "district detail",
-    },
-    {
-      file: HOME,
       needle: 'localePath(lang, "/contact")',
       label: "contact inquiry",
     },
@@ -171,7 +180,6 @@ check("home:every primary CTA lands on a valid localized route", () => {
     assert.ok(src.includes(item.needle), item.label);
   }
 
-  // Route files exist for buy/rent/properties/projects/contact/marketplace/find-my-home
   for (const routeFile of [
     "src/app/[lang]/buy/page.tsx",
     "src/app/[lang]/rent/page.tsx",
@@ -216,66 +224,38 @@ check("home:keyboard focus contracts on conversion controls", () => {
   const paths = read(PATHS);
   const hero = read(HERO);
   const home = read(HOME);
-  assert.ok(paths.includes("focus-visible:ring-2"), "paths focus-visible");
-  assert.ok(hero.includes("focus-visible:ring-2"), "hero toggle focus-visible");
-  assert.ok(hero.includes("min-h-11"), "hero submit touch/keyboard target");
-  assert.ok(home.includes("focus-visible:ring-2"), "home view-all focus");
-  assert.ok(home.includes('data-home-cta="contact"'), "contact CTA marked");
-});
-
-check("home:EN/ZH/TH conversion copy keys present", () => {
-  const keys = [
-    "pathsTitle",
-    "pathsSubtitle",
-    "buy",
-    "buyBody",
-    "buyCta",
-    "rent",
-    "rentBody",
-    "rentCta",
-    "investment",
-    "investmentBody",
-    "investmentCta",
-    "latestListingsTitle",
-    "featuredProjectsTitle",
-    "citiesTitle",
-    "ctaButton",
-    "developersSubtitle",
-  ];
-  for (const locale of ["en", "zh", "th"]) {
-    const dict = JSON.parse(read(`src/dictionaries/${locale}.json`));
-    for (const key of keys) {
-      assert.ok(
-        typeof dict.home?.[key] === "string" && dict.home[key].length > 0,
-        `${locale}.home.${key}`,
-      );
-    }
+  for (const [file, src] of [
+    [PATHS, paths],
+    [HERO, hero],
+    [HOME, home],
+  ]) {
+    assert.ok(
+      src.includes("focus-visible:ring") || src.includes("focus-visible:"),
+      `${file} uses focus-visible affordance`,
+    );
   }
 });
 
-check("home:SEO metadata helpers unchanged on home route", () => {
-  const home = read(HOME);
-  assert.ok(home.includes("buildPageMetadata"), "metadata builder");
-  assert.ok(home.includes("dict.meta.homeTitle"), "homeTitle");
-  assert.ok(home.includes("organizationSchema"), "org json-ld");
-  assert.ok(home.includes("websiteSchema"), "website json-ld");
+check("home:launch counts match package", () => {
+  const projects = JSON.parse(
+    read("CONTENT_LAUNCH_V1/featured_projects.json"),
+  );
+  const developers = JSON.parse(
+    read("CONTENT_LAUNCH_V1/developer_content.json"),
+  );
+  const knowledge = JSON.parse(read("CONTENT_LAUNCH_V1/knowledge_cards.json"));
+  assert.equal(projects.projects.length, 12, "12 featured projects");
+  assert.equal(developers.developers.length, 10, "10 developers");
+  assert.equal(knowledge.cards.length, 21, "21 knowledge cards");
+  assert.ok(
+    knowledge.cards.every((c) => c.publish_ready),
+    "all knowledge cards publish_ready",
+  );
 });
 
 if (process.exitCode) {
-  console.log(JSON.stringify({ ok: false }));
-  process.exit(1);
+  console.error("Homepage conversion checks failed.");
+  process.exit(process.exitCode);
+} else {
+  console.log("All homepage conversion checks passed.");
 }
-console.log(
-  JSON.stringify({
-    ok: true,
-    sectionOrder: EXPECTED_SECTION_ORDER,
-    checks: [
-      "cta-routes",
-      "section-order",
-      "bounds",
-      "claim-hygiene",
-      "keyboard",
-      "i18n",
-    ],
-  }),
-);

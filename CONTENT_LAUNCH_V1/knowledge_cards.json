@@ -1,0 +1,1004 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-02",
+  "count": 21,
+  "source_note": "Cards pulled directly from content/knowledge/articles/*.json title + summary fields — no new copy invented.",
+  "cards": [
+    {
+      "slug": "bts-skytrain-overview",
+      "title": {
+        "en": "BTS Skytrain — official network overview",
+        "zh": "BTS 空铁——官方网络概览",
+        "th": "รถไฟฟ้าบีทีเอส — ภาพรวมจากแหล่งทางการ"
+      },
+      "summary": {
+        "en": "BTS Skytrain is Bangkok’s elevated mass-transit brand operated under the official bts.co.th site. This article records only contact and network labels visible on the English homepage — no invented station counts or fares.",
+        "zh": "BTS 空铁为曼谷高架捷运品牌，官方站点为 bts.co.th。本文仅记录英文首页可见的联系方式与线路/产品标签，不编造车站数量或票价。",
+        "th": "รถไฟฟ้าบีทีเอสเป็นระบบขนส่งมวลชนบนทางยกระดับของกรุงเทพฯ เว็บไซต์ทางการ bts.co.th บทความนี้บันทึกเฉพาะข้อมูลติดต่อและป้ายเครือข่ายที่ปรากฏบนหน้าแรกภาษาอังกฤษ ไม่สร้างตัวเลขสถานีหรือค่าโดยสาร"
+      },
+      "publish_ready": true,
+      "faq_count": 0,
+      "related_links": null
+    },
+    {
+      "slug": "family-living-thailand",
+      "title": {
+        "en": "Family living in Thailand — choosing a home base that works",
+        "zh": "泰国家庭生活——选择合适的居住基地",
+        "th": "ชีวิตครอบครัวในประเทศไทย — เลือกฐานที่อยู่ที่ใช่"
+      },
+      "summary": {
+        "en": "What relocating families should weigh when choosing where to live in Thailand: schools, healthcare, housing types, neighborhood safety, daily logistics, and visas for dependants.",
+        "zh": "移居家庭在泰国选择居住地时应权衡的因素：学校、医疗、住房类型、社区安全、日常出行与受养人签证。",
+        "th": "สิ่งที่ครอบครัวย้ายถิ่นควรชั่งน้ำหนักเมื่อเลือกที่อยู่ในไทย ได้แก่ โรงเรียน การแพทย์ ประเภทที่อยู่อาศัย ความปลอดภัยย่าน โลจิสติกส์รายวัน และวีซ่าผู้อยู่ในอุปการะ"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-education-guide",
+          "label": {
+            "en": "International schools in Thailand",
+            "zh": "泰国国际学校指南",
+            "th": "โรงเรียนนานาชาติในไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-healthcare-guide",
+          "label": {
+            "en": "Healthcare in Thailand",
+            "zh": "泰国医疗指南",
+            "th": "การรักษาพยาบาลในไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/foreign-ownership-thailand",
+          "label": {
+            "en": "Foreign ownership rules",
+            "zh": "外国人持有规则",
+            "th": "กฎการถือครองของชาวต่างชาติ"
+          }
+        },
+        {
+          "path": "/cities/bangkok",
+          "label": {
+            "en": "Bangkok property hub",
+            "zh": "曼谷房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์กรุงเทพฯ"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "foreign-ownership-thailand",
+      "title": {
+        "en": "Foreign property ownership in Thailand — what the law allows",
+        "zh": "泰国外国人产权规则——法律允许什么",
+        "th": "การถือครองอสังหาริมทรัพย์ของชาวต่างชาติในไทย — กฎหมายอนุญาตอะไรบ้าง"
+      },
+      "summary": {
+        "en": "What foreigners can and cannot own in Thailand: freehold condominiums under the 49% quota, land restrictions, registered leases, usufruct and superficies, and structures to avoid.",
+        "zh": "外国人在泰国能持有与不能持有什么：49% 配额内的永久产权公寓、土地限制、注册租赁、用益权与地上权，以及应避免的架构。",
+        "th": "สิ่งที่ชาวต่างชาติถือครองได้และไม่ได้ในประเทศไทย ได้แก่ คอนโดฟรีโฮลด์ภายใต้โควตา 49% ข้อจำกัดเรื่องที่ดิน สัญญาเช่าจดทะเบียน สิทธิเก็บกินและสิทธิเหนือพื้นดิน และโครงสร้างที่ควรหลีกเลี่ยง"
+      },
+      "publish_ready": true,
+      "faq_count": 3,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-property-buying-guide",
+          "label": {
+            "en": "Thailand property buying guide",
+            "zh": "泰国购房指南",
+            "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/freehold-vs-leasehold-thailand",
+          "label": {
+            "en": "Freehold vs leasehold",
+            "zh": "永久产权与租赁权对比",
+            "th": "ฟรีโฮลด์กับสิทธิการเช่า"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-condo-guide",
+          "label": {
+            "en": "Condo buying guide",
+            "zh": "公寓购买指南",
+            "th": "คู่มือซื้อคอนโด"
+          }
+        },
+        {
+          "path": "/knowledge/legal",
+          "label": {
+            "en": "Legal guide",
+            "zh": "法律指南",
+            "th": "คู่มือกฎหมาย"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "freehold-vs-leasehold-thailand",
+      "title": {
+        "en": "Freehold vs leasehold in Thailand — which structure fits your purchase",
+        "zh": "泰国永久产权与租赁权对比——哪种结构适合你",
+        "th": "ฟรีโฮลด์กับสิทธิการเช่าในไทย — โครงสร้างใดเหมาะกับการซื้อของคุณ"
+      },
+      "summary": {
+        "en": "The practical differences between freehold and leasehold ownership in Thailand: rights, duration, resale, inheritance, and when each structure is typically used.",
+        "zh": "泰国永久产权与租赁权的实际差异：权利、期限、转售、继承，以及各结构的典型使用场景。",
+        "th": "ความแตกต่างเชิงปฏิบัติระหว่างกรรมสิทธิ์ฟรีโฮลด์และสิทธิการเช่าในไทย ทั้งด้านสิทธิ ระยะเวลา การขายต่อ การรับมรดก และกรณีการใช้งานทั่วไปของแต่ละโครงสร้าง"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/foreign-ownership-thailand",
+          "label": {
+            "en": "Foreign ownership rules",
+            "zh": "外国人产权规则",
+            "th": "กฎการถือครองของชาวต่างชาติ"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-condo-guide",
+          "label": {
+            "en": "Condo buying guide",
+            "zh": "公寓购买指南",
+            "th": "คู่มือซื้อคอนโด"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-luxury-condo-guide",
+          "label": {
+            "en": "Luxury condo guide",
+            "zh": "豪华公寓指南",
+            "th": "คู่มือคอนโดหรู"
+          }
+        },
+        {
+          "path": "/cities/phuket",
+          "label": {
+            "en": "Phuket property hub",
+            "zh": "普吉房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์ภูเก็ต"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "rental-investment-thailand",
+      "title": {
+        "en": "Renting out property in Thailand — rules, taxes, and management",
+        "zh": "在泰国出租房产——规则、税务与管理",
+        "th": "การปล่อยเช่าอสังหาริมทรัพย์ในไทย — กฎ ภาษี และการบริหาร"
+      },
+      "summary": {
+        "en": "What landlords need to know in Thailand: short-term rental law, lease conventions, deposits, tax filing on rental income, and using property management companies.",
+        "zh": "泰国房东须知：短租法律、租约惯例、押金、租金收入报税及物业管理公司的使用。",
+        "th": "สิ่งที่ผู้ให้เช่าในไทยควรรู้ ได้แก่ กฎหมายเช่าระยะสั้น ธรรมเนียมสัญญาเช่า เงินมัดจำ การยื่นภาษีรายได้ค่าเช่า และการใช้บริษัทบริหารทรัพย์"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-property-tax-guide",
+          "label": {
+            "en": "Property taxes and fees",
+            "zh": "房产税费",
+            "th": "ภาษีและค่าธรรมเนียม"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-roi-guide",
+          "label": {
+            "en": "Understanding ROI",
+            "zh": "理解投资回报率",
+            "th": "ทำความเข้าใจ ROI"
+          }
+        },
+        {
+          "path": "/rent",
+          "label": {
+            "en": "Browse rental listings",
+            "zh": "浏览租赁房源",
+            "th": "ดูประกาศเช่า"
+          }
+        },
+        {
+          "path": "/cities/pattaya",
+          "label": {
+            "en": "Pattaya property hub",
+            "zh": "芭提雅房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์พัทยา"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-area-selection-guide",
+      "title": {
+        "en": "How to choose where to buy in Thailand — a location framework",
+        "zh": "如何选择在泰国哪里买房——选址框架",
+        "th": "จะเลือกซื้อที่ไหนในประเทศไทย — กรอบการเลือกทำเล"
+      },
+      "summary": {
+        "en": "A structured way to compare Thai locations before buying: matching city character to your use case, evaluating districts on transit, amenities, and supply, and testing an area before committing.",
+        "zh": "购买前系统比较泰国各地的方法：让城市气质匹配您的用途，从交通、配套与供应评估片区，并在决策前实地验证。",
+        "th": "วิธีเปรียบเทียบทำเลในไทยอย่างเป็นระบบก่อนซื้อ จับคู่บุคลิกเมืองกับวัตถุประสงค์ ประเมินย่านจากขนส่ง สิ่งอำนวยความสะดวก และอุปทาน แล้วทดสอบพื้นที่ก่อนตัดสินใจ"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/cities/bangkok",
+          "label": {
+            "en": "Bangkok property hub",
+            "zh": "曼谷房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์กรุงเทพฯ"
+          }
+        },
+        {
+          "path": "/cities/pattaya",
+          "label": {
+            "en": "Pattaya property hub",
+            "zh": "芭提雅房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์พัทยา"
+          }
+        },
+        {
+          "path": "/cities/phuket",
+          "label": {
+            "en": "Phuket property hub",
+            "zh": "普吉房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์ภูเก็ต"
+          }
+        },
+        {
+          "path": "/cities/chiang-mai",
+          "label": {
+            "en": "Chiang Mai property hub",
+            "zh": "清迈房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์เชียงใหม่"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-buying-guide",
+          "label": {
+            "en": "Thailand property buying guide",
+            "zh": "泰国购房指南",
+            "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-condo-guide",
+      "title": {
+        "en": "Buying a condo in Thailand — quota, fees, and what to inspect",
+        "zh": "在泰国买公寓——配额、费用与查验要点",
+        "th": "ซื้อคอนโดในประเทศไทย — โควตา ค่าใช้จ่าย และสิ่งที่ต้องตรวจสอบ"
+      },
+      "summary": {
+        "en": "Condo-specific guidance for Thailand: how the foreign quota works, common area fees and sinking funds, juristic person checks, off-plan vs resale, and unit inspection points.",
+        "zh": "泰国公寓专项指南：外资配额如何运作、公共维护费与维修基金、公寓法人核查、期房与二手对比及验房要点。",
+        "th": "คำแนะนำเฉพาะสำหรับคอนโดในไทย ได้แก่ โควตาชาวต่างชาติ ค่าส่วนกลางและเงินกองทุน การตรวจสอบนิติบุคคล การซื้อก่อนสร้างเสร็จกับมือสอง และจุดตรวจรับห้อง"
+      },
+      "publish_ready": true,
+      "faq_count": 3,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-property-buying-guide",
+          "label": {
+            "en": "Thailand property buying guide",
+            "zh": "泰国购房指南",
+            "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/foreign-ownership-thailand",
+          "label": {
+            "en": "Foreign ownership rules",
+            "zh": "外国人产权规则",
+            "th": "กฎการถือครองของชาวต่างชาติ"
+          }
+        },
+        {
+          "path": "/knowledge/articles/rental-investment-thailand",
+          "label": {
+            "en": "Rental investment guide",
+            "zh": "租赁投资指南",
+            "th": "คู่มือการลงทุนปล่อยเช่า"
+          }
+        },
+        {
+          "path": "/projects",
+          "label": {
+            "en": "Browse condo projects",
+            "zh": "浏览公寓项目",
+            "th": "ดูโครงการคอนโด"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-developer-guide",
+      "title": {
+        "en": "How to evaluate a Thai property developer before you buy",
+        "zh": "购房前如何评估泰国开发商",
+        "th": "วิธีประเมินผู้พัฒนาอสังหาริมทรัพย์ไทยก่อนตัดสินใจซื้อ"
+      },
+      "summary": {
+        "en": "A due-diligence framework for assessing Thai developers: corporate verification, listed versus private developers, track record, escrow and payment protection, and warning signs in off-plan purchases.",
+        "zh": "评估泰国开发商的尽调框架：公司核验、上市与非上市开发商、过往履历、资金托管与付款保护，以及期房购买的警示信号。",
+        "th": "กรอบการตรวจสอบผู้พัฒนาไทย การยืนยันนิติบุคคล ผู้พัฒนาจดทะเบียนในตลาดหลักทรัพย์กับเอกชน ผลงานที่ผ่านมา เอสโครว์และการคุ้มครองการชำระเงิน และสัญญาณเตือนในการซื้อพรีเซล"
+      },
+      "publish_ready": true,
+      "faq_count": 3,
+      "related_links": [
+        {
+          "path": "/developers",
+          "label": {
+            "en": "Browse verified developers",
+            "zh": "浏览已验证开发商",
+            "th": "ดูผู้พัฒนาที่ผ่านการตรวจสอบ"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-buying-guide",
+          "label": {
+            "en": "Thailand property buying guide",
+            "zh": "泰国购房指南",
+            "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-condo-guide",
+          "label": {
+            "en": "Thailand condo buying guide",
+            "zh": "泰国公寓购买指南",
+            "th": "คู่มือซื้อคอนโดไทย"
+          }
+        },
+        {
+          "path": "/projects",
+          "label": {
+            "en": "Browse projects",
+            "zh": "浏览项目",
+            "th": "ดูโครงการ"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-education-guide",
+      "title": {
+        "en": "International schools in Thailand — a guide for relocating families",
+        "zh": "泰国国际学校指南——为移居家庭而写",
+        "th": "โรงเรียนนานาชาติในประเทศไทย — คู่มือสำหรับครอบครัวที่ย้ายมา"
+      },
+      "summary": {
+        "en": "How Thailand's international school landscape works: curricula on offer, accreditation to check, fee planning, city-by-city availability, and how school choice drives property location for families.",
+        "zh": "泰国国际学校格局：课程体系、应核查的认证、学费规划、各城市学校分布，以及择校如何决定家庭购房选址。",
+        "th": "ภูมิทัศน์โรงเรียนนานาชาติของไทย หลักสูตรที่มี การรับรองที่ควรตรวจสอบ การวางแผนค่าเทอม ความพร้อมรายเมือง และการเลือกโรงเรียนกำหนดทำเลที่อยู่ของครอบครัวอย่างไร"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/family-living-thailand",
+          "label": {
+            "en": "Family living in Thailand",
+            "zh": "泰国家庭生活",
+            "th": "ชีวิตครอบครัวในไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-visa-guide",
+          "label": {
+            "en": "Thailand visa guide",
+            "zh": "泰国签证指南",
+            "th": "คู่มือวีซ่าไทย"
+          }
+        },
+        {
+          "path": "/cities/bangkok",
+          "label": {
+            "en": "Bangkok property hub",
+            "zh": "曼谷房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์กรุงเทพฯ"
+          }
+        },
+        {
+          "path": "/cities/phuket",
+          "label": {
+            "en": "Phuket property hub",
+            "zh": "普吉房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์ภูเก็ต"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-healthcare-guide",
+      "title": {
+        "en": "Healthcare in Thailand for expats and property owners",
+        "zh": "泰国医疗指南——外籍人士与业主须知",
+        "th": "การรักษาพยาบาลในประเทศไทยสำหรับชาวต่างชาติและเจ้าของอสังหาริมทรัพย์"
+      },
+      "summary": {
+        "en": "How Thailand's healthcare system works for foreigners: private versus public hospitals, international accreditation, insurance planning, and how hospital access should influence where you buy.",
+        "zh": "泰国医疗体系对外国人的运作方式：私立与公立医院、国际认证、保险规划，以及医院可达性应如何影响购房选址。",
+        "th": "ระบบสาธารณสุขไทยสำหรับชาวต่างชาติ โรงพยาบาลเอกชนกับรัฐ การรับรองมาตรฐานสากล การวางแผนประกัน และการเข้าถึงโรงพยาบาลควรมีผลต่อการเลือกทำเลซื้ออย่างไร"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-retirement-guide",
+          "label": {
+            "en": "Retiring in Thailand",
+            "zh": "泰国退休指南",
+            "th": "การเกษียณในประเทศไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-visa-guide",
+          "label": {
+            "en": "Thailand visa guide",
+            "zh": "泰国签证指南",
+            "th": "คู่มือวีซ่าไทย"
+          }
+        },
+        {
+          "path": "/cities/bangkok",
+          "label": {
+            "en": "Bangkok property hub",
+            "zh": "曼谷房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์กรุงเทพฯ"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-land-building-tax",
+      "title": {
+        "en": "Thailand's land and building tax — how the annual tax works",
+        "zh": "泰国土地与建筑税——年度税如何运作",
+        "th": "ภาษีที่ดินและสิ่งปลูกสร้างของไทย — ภาษีรายปีทำงานอย่างไร"
+      },
+      "summary": {
+        "en": "How Thailand's annual land and building tax is assessed: who pays, usage categories, appraised-value basis, primary-residence relief, and the payment cycle.",
+        "zh": "泰国年度土地与建筑税的计征方式：纳税人、用途分类、评估价基础、主要居所减免与缴纳周期。",
+        "th": "การประเมินภาษีที่ดินและสิ่งปลูกสร้างรายปีของไทย ใครเป็นผู้เสีย ประเภทการใช้ประโยชน์ ฐานราคาประเมิน การลดหย่อนที่อยู่อาศัยหลัก และรอบการชำระ"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-property-tax-guide",
+          "label": {
+            "en": "Property taxes and fees overview",
+            "zh": "房产税费总览",
+            "th": "ภาพรวมภาษีและค่าธรรมเนียม"
+          }
+        },
+        {
+          "path": "/knowledge/articles/rental-investment-thailand",
+          "label": {
+            "en": "Rental investment guide",
+            "zh": "租赁投资指南",
+            "th": "คู่มือการลงทุนปล่อยเช่า"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-selling-guide",
+          "label": {
+            "en": "Selling property in Thailand",
+            "zh": "泰国卖房指南",
+            "th": "การขายอสังหาริมทรัพย์ในไทย"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-luxury-condo-guide",
+      "title": {
+        "en": "Luxury condos in Thailand — what defines the top segment",
+        "zh": "泰国豪华公寓——顶级细分市场的定义",
+        "th": "คอนโดหรูในประเทศไทย — อะไรคือนิยามของตลาดระดับบน"
+      },
+      "summary": {
+        "en": "How Thailand's luxury and super-luxury condo segment works: what genuinely differentiates it, prime locations, branded residences, due diligence specific to high-value units, and running costs.",
+        "zh": "泰国豪华与超豪华公寓市场的运作方式：真正的差异化要素、核心地段、品牌住宅、高价值单元的专项尽调与持有成本。",
+        "th": "ตลาดคอนโดหรูและซูเปอร์ลักชัวรีของไทย อะไรที่สร้างความต่างอย่างแท้จริง ทำเลไพรม์ เรสซิเดนซ์แบรนด์ การตรวจสอบเฉพาะสำหรับยูนิตมูลค่าสูง และค่าใช้จ่ายในการถือครอง"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-condo-guide",
+          "label": {
+            "en": "Thailand condo buying guide",
+            "zh": "泰国公寓购买指南",
+            "th": "คู่มือซื้อคอนโดไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/foreign-ownership-thailand",
+          "label": {
+            "en": "Foreign ownership rules",
+            "zh": "外国人持有规则",
+            "th": "กฎการถือครองของชาวต่างชาติ"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-tax-guide",
+          "label": {
+            "en": "Thailand property taxes and fees",
+            "zh": "泰国房产税费",
+            "th": "ภาษีและค่าธรรมเนียมอสังหาริมทรัพย์ไทย"
+          }
+        },
+        {
+          "path": "/cities/bangkok",
+          "label": {
+            "en": "Bangkok property hub",
+            "zh": "曼谷房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์กรุงเทพฯ"
+          }
+        },
+        {
+          "path": "/cities/phuket",
+          "label": {
+            "en": "Phuket property hub",
+            "zh": "普吉房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์ภูเก็ต"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-mortgage-guide",
+      "title": {
+        "en": "Financing Thai property as a foreigner — mortgage and payment options",
+        "zh": "外国人如何为泰国房产融资——贷款与付款方式",
+        "th": "การจัดหาเงินทุนซื้ออสังหาริมทรัพย์ไทยสำหรับชาวต่างชาติ — สินเชื่อและทางเลือกการชำระ"
+      },
+      "summary": {
+        "en": "Realistic financing routes for foreign buyers in Thailand: limited local bank mortgages, international bank programs, developer installment plans, and cash purchase mechanics.",
+        "zh": "外国买家在泰国的现实融资途径：有限的本地银行贷款、国际银行方案、开发商分期计划与现金购买流程。",
+        "th": "ช่องทางการเงินที่เป็นจริงสำหรับผู้ซื้อชาวต่างชาติในไทย ได้แก่ สินเชื่อธนาคารในประเทศที่มีจำกัด โปรแกรมธนาคารระหว่างประเทศ แผนผ่อนกับผู้พัฒนา และการซื้อด้วยเงินสด"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-property-buying-guide",
+          "label": {
+            "en": "Thailand property buying guide",
+            "zh": "泰国购房指南",
+            "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-transfer-guide",
+          "label": {
+            "en": "Ownership transfer process",
+            "zh": "产权过户流程",
+            "th": "ขั้นตอนการโอนกรรมสิทธิ์"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-investment-basics",
+          "label": {
+            "en": "Investment basics",
+            "zh": "投资基础",
+            "th": "พื้นฐานการลงทุน"
+          }
+        },
+        {
+          "path": "/faq",
+          "label": {
+            "en": "Platform FAQ",
+            "zh": "平台常见问题",
+            "th": "คำถามที่พบบ่อย"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-property-buying-guide",
+      "title": {
+        "en": "How to buy property in Thailand — step-by-step guide for foreigners",
+        "zh": "外国人泰国购房全流程指南",
+        "th": "วิธีซื้ออสังหาริมทรัพย์ในประเทศไทย — คู่มือทีละขั้นตอนสำหรับชาวต่างชาติ"
+      },
+      "summary": {
+        "en": "A step-by-step overview of the Thai property purchase process for foreign buyers: legal framework, fund transfer, due diligence, contracts, and ownership transfer at the Land Department.",
+        "zh": "面向外国买家的泰国购房流程分步概览：法律框架、资金汇入、尽职调查、合同签署与土地厅过户。",
+        "th": "ภาพรวมทีละขั้นตอนของกระบวนการซื้ออสังหาริมทรัพย์ไทยสำหรับผู้ซื้อชาวต่างชาติ ครอบคลุมกรอบกฎหมาย การโอนเงิน การตรวจสอบสถานะ สัญญา และการโอนกรรมสิทธิ์ที่กรมที่ดิน"
+      },
+      "publish_ready": true,
+      "faq_count": 3,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/foreign-ownership-thailand",
+          "label": {
+            "en": "Foreign ownership rules in Thailand",
+            "zh": "泰国外国人产权规则",
+            "th": "กฎการถือครองของชาวต่างชาติในไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-transfer-guide",
+          "label": {
+            "en": "Ownership transfer process",
+            "zh": "产权过户流程",
+            "th": "ขั้นตอนการโอนกรรมสิทธิ์"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-tax-guide",
+          "label": {
+            "en": "Taxes and fees when buying",
+            "zh": "购房税费",
+            "th": "ภาษีและค่าธรรมเนียมเมื่อซื้อ"
+          }
+        },
+        {
+          "path": "/knowledge/legal",
+          "label": {
+            "en": "Legal guide",
+            "zh": "法律指南",
+            "th": "คู่มือกฎหมาย"
+          }
+        },
+        {
+          "path": "/projects",
+          "label": {
+            "en": "Browse projects",
+            "zh": "浏览项目",
+            "th": "ดูโครงการ"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-property-investment-basics",
+      "title": {
+        "en": "Thailand property investment basics — a framework, not a forecast",
+        "zh": "泰国房产投资基础——框架而非预测",
+        "th": "พื้นฐานการลงทุนอสังหาริมทรัพย์ไทย — กรอบคิด ไม่ใช่การพยากรณ์"
+      },
+      "summary": {
+        "en": "A decision framework for evaluating Thai property as an investment: demand drivers, cost structure, liquidity, currency, and risk factors — without yield promises or price forecasts.",
+        "zh": "评估泰国房产投资的决策框架：需求驱动、成本结构、流动性、汇率与风险因素——不含收益承诺或价格预测。",
+        "th": "กรอบการตัดสินใจสำหรับประเมินอสังหาริมทรัพย์ไทยเพื่อการลงทุน ทั้งปัจจัยขับเคลื่อนอุปสงค์ โครงสร้างต้นทุน สภาพคล่อง สกุลเงิน และปัจจัยเสี่ยง — โดยไม่มีคำสัญญาผลตอบแทนหรือการคาดการณ์ราคา"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/knowledge/investment",
+          "label": {
+            "en": "Platform investment guide",
+            "zh": "平台投资指南",
+            "th": "คู่มือการลงทุนของแพลตฟอร์ม"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-roi-guide",
+          "label": {
+            "en": "Understanding ROI",
+            "zh": "理解投资回报率",
+            "th": "ทำความเข้าใจ ROI"
+          }
+        },
+        {
+          "path": "/knowledge/articles/rental-investment-thailand",
+          "label": {
+            "en": "Rental investment guide",
+            "zh": "租赁投资指南",
+            "th": "คู่มือการลงทุนปล่อยเช่า"
+          }
+        },
+        {
+          "path": "/cities/bangkok",
+          "label": {
+            "en": "Bangkok property hub",
+            "zh": "曼谷房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์กรุงเทพฯ"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-property-roi-guide",
+      "title": {
+        "en": "Understanding ROI on Thai property — how to run your own numbers",
+        "zh": "理解泰国房产投资回报率——如何自己测算",
+        "th": "ทำความเข้าใจ ROI ของอสังหาริมทรัพย์ไทย — วิธีคำนวณด้วยตนเอง"
+      },
+      "summary": {
+        "en": "How to calculate gross yield, net yield, and total return on a Thai property yourself — the formulas, the cost lines investors forget, and the assumptions to stress-test.",
+        "zh": "如何自行计算泰国房产的毛收益率、净收益率与总回报——公式、投资者常忽略的成本项以及需要压力测试的假设。",
+        "th": "วิธีคำนวณผลตอบแทนรวม ผลตอบแทนสุทธิ และผลตอบแทนทั้งหมดของอสังหาริมทรัพย์ไทยด้วยตนเอง — สูตร รายการต้นทุนที่นักลงทุนมักลืม และสมมติฐานที่ควรทดสอบ"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-property-investment-basics",
+          "label": {
+            "en": "Investment basics",
+            "zh": "投资基础",
+            "th": "พื้นฐานการลงทุน"
+          }
+        },
+        {
+          "path": "/knowledge/articles/rental-investment-thailand",
+          "label": {
+            "en": "Rental investment guide",
+            "zh": "租赁投资指南",
+            "th": "คู่มือการลงทุนปล่อยเช่า"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-tax-guide",
+          "label": {
+            "en": "Property taxes and fees",
+            "zh": "房产税费",
+            "th": "ภาษีและค่าธรรมเนียม"
+          }
+        },
+        {
+          "path": "/buy",
+          "label": {
+            "en": "Browse sale listings",
+            "zh": "浏览出售房源",
+            "th": "ดูประกาศขาย"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-property-selling-guide",
+      "title": {
+        "en": "Selling property in Thailand — process, taxes, and repatriating funds",
+        "zh": "在泰国出售房产——流程、税费与资金汇出",
+        "th": "การขายอสังหาริมทรัพย์ในไทย — ขั้นตอน ภาษี และการส่งเงินกลับ"
+      },
+      "summary": {
+        "en": "A seller's walkthrough for Thai property: preparing documents, agent agreements, seller-side taxes, the transfer appointment, and sending sale proceeds abroad.",
+        "zh": "泰国卖房流程指南：备齐文件、中介协议、卖方税费、过户预约与售房款汇出境外。",
+        "th": "คู่มือฝั่งผู้ขายสำหรับอสังหาริมทรัพย์ไทย ได้แก่ การเตรียมเอกสาร ข้อตกลงนายหน้า ภาษีฝั่งผู้ขาย นัดโอนกรรมสิทธิ์ และการส่งเงินขายไปต่างประเทศ"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-property-transfer-guide",
+          "label": {
+            "en": "Ownership transfer process",
+            "zh": "产权过户流程",
+            "th": "ขั้นตอนการโอนกรรมสิทธิ์"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-tax-guide",
+          "label": {
+            "en": "Property taxes and fees",
+            "zh": "房产税费",
+            "th": "ภาษีและค่าธรรมเนียม"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-roi-guide",
+          "label": {
+            "en": "Understanding ROI",
+            "zh": "理解投资回报率",
+            "th": "ทำความเข้าใจ ROI"
+          }
+        },
+        {
+          "path": "/find-my-home",
+          "label": {
+            "en": "Find My Home service",
+            "zh": "帮我找房服务",
+            "th": "บริการหาบ้านให้ฉัน"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-property-tax-guide",
+      "title": {
+        "en": "Property taxes and fees in Thailand — buying, holding, and selling",
+        "zh": "泰国房产税费——购买、持有与出售",
+        "th": "ภาษีและค่าธรรมเนียมอสังหาริมทรัพย์ในไทย — ซื้อ ถือครอง และขาย"
+      },
+      "summary": {
+        "en": "The main taxes and fees across a Thai property's life cycle: transfer fee, specific business tax, stamp duty, withholding tax, annual land and building tax, and rental income tax.",
+        "zh": "泰国房产全生命周期的主要税费：过户费、特种商业税、印花税、预扣税、年度土地与建筑税及租金收入税。",
+        "th": "ภาษีและค่าธรรมเนียมหลักตลอดวงจรอสังหาริมทรัพย์ไทย ได้แก่ ค่าธรรมเนียมการโอน ภาษีธุรกิจเฉพาะ อากรแสตมป์ ภาษีหัก ณ ที่จ่าย ภาษีที่ดินและสิ่งปลูกสร้างรายปี และภาษีรายได้ค่าเช่า"
+      },
+      "publish_ready": true,
+      "faq_count": 3,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-property-transfer-guide",
+          "label": {
+            "en": "Ownership transfer process",
+            "zh": "产权过户流程",
+            "th": "ขั้นตอนการโอนกรรมสิทธิ์"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-selling-guide",
+          "label": {
+            "en": "Selling property in Thailand",
+            "zh": "泰国卖房指南",
+            "th": "การขายอสังหาริมทรัพย์ในไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/rental-investment-thailand",
+          "label": {
+            "en": "Rental investment guide",
+            "zh": "租赁投资指南",
+            "th": "คู่มือการลงทุนปล่อยเช่า"
+          }
+        },
+        {
+          "path": "/knowledge/investment",
+          "label": {
+            "en": "Investment guide",
+            "zh": "投资指南",
+            "th": "คู่มือการลงทุน"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-property-transfer-guide",
+      "title": {
+        "en": "Property ownership transfer in Thailand — the Land Department process",
+        "zh": "泰国产权过户——土地厅办理流程",
+        "th": "การโอนกรรมสิทธิ์อสังหาริมทรัพย์ในไทย — ขั้นตอนที่กรมที่ดิน"
+      },
+      "summary": {
+        "en": "What happens on transfer day at the Thai Land Department: required documents for foreign buyers, the FET evidence, fee calculation, and how the new title is registered.",
+        "zh": "泰国土地厅过户日流程详解：外国买家所需文件、外汇汇入证明、费用计算，以及新产权的登记方式。",
+        "th": "สิ่งที่เกิดขึ้นในวันโอนที่กรมที่ดิน ได้แก่ เอกสารที่ผู้ซื้อชาวต่างชาติต้องใช้ หลักฐาน FET การคำนวณค่าธรรมเนียม และการจดทะเบียนกรรมสิทธิ์ใหม่"
+      },
+      "publish_ready": true,
+      "faq_count": 3,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-property-buying-guide",
+          "label": {
+            "en": "Thailand property buying guide",
+            "zh": "泰国购房指南",
+            "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-tax-guide",
+          "label": {
+            "en": "Taxes and fees when buying",
+            "zh": "购房税费",
+            "th": "ภาษีและค่าธรรมเนียมเมื่อซื้อ"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-selling-guide",
+          "label": {
+            "en": "Selling property in Thailand",
+            "zh": "泰国卖房指南",
+            "th": "การขายอสังหาริมทรัพย์ในไทย"
+          }
+        },
+        {
+          "path": "/knowledge/legal",
+          "label": {
+            "en": "Legal guide",
+            "zh": "法律指南",
+            "th": "คู่มือกฎหมาย"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-retirement-guide",
+      "title": {
+        "en": "Retiring in Thailand — visas, housing, healthcare, and money",
+        "zh": "在泰国退休——签证、住房、医疗与财务",
+        "th": "เกษียณในประเทศไทย — วีซ่า ที่อยู่อาศัย สุขภาพ และการเงิน"
+      },
+      "summary": {
+        "en": "A practical retirement plan for Thailand: the retirement visa financial requirements, choosing where to live, buying versus renting in retirement, healthcare coverage, and estate basics.",
+        "zh": "泰国退休实用规划：退休签证财务要求、居住地选择、退休期买房与租房的取舍、医疗保障与遗产基础。",
+        "th": "แผนเกษียณที่ปฏิบัติได้จริงสำหรับประเทศไทย ได้แก่ ข้อกำหนดการเงินของวีซ่าเกษียณ การเลือกที่อยู่ การซื้อกับการเช่าในวัยเกษียณ ความคุ้มครองสุขภาพ และพื้นฐานเรื่องมรดก"
+      },
+      "publish_ready": true,
+      "faq_count": 2,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-visa-guide",
+          "label": {
+            "en": "Thailand visa guide",
+            "zh": "泰国签证指南",
+            "th": "คู่มือวีซ่าไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-healthcare-guide",
+          "label": {
+            "en": "Healthcare in Thailand",
+            "zh": "泰国医疗指南",
+            "th": "การรักษาพยาบาลในไทย"
+          }
+        },
+        {
+          "path": "/cities/chiang-mai",
+          "label": {
+            "en": "Chiang Mai property hub",
+            "zh": "清迈房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์เชียงใหม่"
+          }
+        },
+        {
+          "path": "/cities/pattaya",
+          "label": {
+            "en": "Pattaya property hub",
+            "zh": "芭提雅房产中心",
+            "th": "ศูนย์อสังหาริมทรัพย์พัทยา"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "thailand-visa-guide",
+      "title": {
+        "en": "Thailand visas for property buyers and long-stay residents",
+        "zh": "泰国签证指南——购房者与长住居民",
+        "th": "วีซ่าประเทศไทยสำหรับผู้ซื้ออสังหาริมทรัพย์และผู้พำนักระยะยาว"
+      },
+      "summary": {
+        "en": "Long-stay visa routes relevant to property buyers: retirement extensions, the LTR visa, Thailand Privilege membership, work and family categories — and what owning property does not do for your immigration status.",
+        "zh": "与购房者相关的长期签证路径：退休续签、LTR 签证、泰国精英会籍、工作与家庭类别——以及购房不能改变移民身份的事实。",
+        "th": "เส้นทางวีซ่าระยะยาวที่เกี่ยวข้องกับผู้ซื้ออสังหาริมทรัพย์ ได้แก่ การต่ออายุแบบเกษียณ วีซ่า LTR สมาชิกไทยแลนด์พริวิเลจ ประเภททำงานและครอบครัว — และสิ่งที่การถือครองอสังหาฯ ไม่ได้ช่วยด้านสถานะการเข้าเมือง"
+      },
+      "publish_ready": true,
+      "faq_count": 3,
+      "related_links": [
+        {
+          "path": "/knowledge/articles/thailand-retirement-guide",
+          "label": {
+            "en": "Retiring in Thailand",
+            "zh": "泰国退休指南",
+            "th": "การเกษียณในประเทศไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/thailand-property-buying-guide",
+          "label": {
+            "en": "Thailand property buying guide",
+            "zh": "泰国购房指南",
+            "th": "คู่มือซื้ออสังหาริมทรัพย์ไทย"
+          }
+        },
+        {
+          "path": "/knowledge/articles/family-living-thailand",
+          "label": {
+            "en": "Family living in Thailand",
+            "zh": "泰国家庭生活",
+            "th": "ชีวิตครอบครัวในไทย"
+          }
+        }
+      ]
+    }
+  ]
+}

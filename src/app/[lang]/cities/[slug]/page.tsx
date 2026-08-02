@@ -2,9 +2,11 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { ReactNode } from "react";
 
+import { FeaturedProjectCard } from "@/components/launch/featured-project-card";
 import { JsonLd } from "@/components/seo/json-ld";
 import { PageShell } from "@/components/layout/page-shell";
 import { PropertyGrid } from "@/components/property/property-grid";
+import { buttonVariants } from "@/components/ui/button";
 import { SurfaceCard } from "@/components/ui/card";
 import { isLocale, type Locale } from "@/config/locales";
 import {
@@ -19,10 +21,16 @@ import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
 import { localizedOrNull, type DistrictAmenity } from "@/lib/districts/package";
 import {
+  getFeaturedLaunchProjects,
+  getLaunchAreaById,
+  getLaunchCta,
+} from "@/lib/launch/content-launch-v1";
+import {
   breadcrumbListSchema,
   citySchema,
   platformFaqSchema,
 } from "@/lib/seo/schema";
+import { cn } from "@/lib/utils";
 
 export const revalidate = 60;
 
@@ -31,6 +39,16 @@ export async function generateMetadata({
 }: PageProps<"/[lang]/cities/[slug]">) {
   const { lang, slug } = await params;
   if (!isLocale(lang)) return {};
+  const launchArea = getLaunchAreaById(slug);
+  if (launchArea && launchArea.status !== "PRODUCTION_READY") {
+    const comingSoon = getLaunchCta("coming_soon_area", lang);
+    return buildPageMetadata({
+      locale: lang,
+      title: `${launchArea.area_name[lang]} — ${comingSoon}`,
+      description: launchArea.overview[lang],
+      path: `/cities/${slug}`,
+    });
+  }
   const city = await getCityBySlug(slug);
   if (!city) return {};
   return buildPageMetadata({
@@ -134,6 +152,49 @@ export default async function CityDetailPage({
   const { lang, slug } = await params;
   if (!isLocale(lang)) notFound();
 
+  const launchArea = getLaunchAreaById(slug);
+  const comingSoonLabel = getLaunchCta("coming_soon_area", lang);
+
+  // Coming-soon areas from CONTENT_LAUNCH_V1 — no fabricated full pages.
+  if (launchArea && launchArea.status !== "PRODUCTION_READY") {
+    const dict = await getDictionary(lang);
+    return (
+      <PageShell
+        title={launchArea.area_name[lang]}
+        subtitle={comingSoonLabel}
+        breadcrumbs={[
+          { label: dict.nav.home, href: localePath(lang) },
+          { label: dict.nav.cities, href: localePath(lang, "/cities") },
+          { label: launchArea.area_name[lang] },
+        ]}
+      >
+        <SurfaceCard className="max-w-2xl space-y-4 p-6">
+          <p className="inline-flex rounded-sm bg-stone-100 px-2 py-0.5 text-xs text-stone-600">
+            {comingSoonLabel}
+          </p>
+          {launchArea.status_note ? (
+            <p className="text-sm leading-relaxed text-stone-700">
+              {launchArea.status_note[lang]}
+            </p>
+          ) : null}
+          <p className="text-sm leading-relaxed text-stone-700">
+            {launchArea.overview[lang]}
+          </p>
+          <Link
+            href={localePath(lang, "/cities/bangkok")}
+            className={cn(buttonVariants({ variant: "primary" }), "inline-flex")}
+          >
+            {lang === "zh"
+              ? "浏览曼谷"
+              : lang === "th"
+                ? "สำรวจกรุงเทพฯ"
+                : "Explore Bangkok"}
+          </Link>
+        </SurfaceCard>
+      </PageShell>
+    );
+  }
+
   const city = await getCityBySlug(slug);
   if (!city) notFound();
 
@@ -161,7 +222,20 @@ export default async function CityDetailPage({
   const faqSchema = platformFaqSchema(lang, cityFaqs);
 
   const subtitle =
-    localizedOrNull(pkg.summary, lang) || city.summary[lang] || undefined;
+    launchArea?.overview[lang] ||
+    localizedOrNull(pkg.summary, lang) ||
+    city.summary[lang] ||
+    undefined;
+
+  const featuredLaunch =
+    launchArea?.status === "PRODUCTION_READY"
+      ? getFeaturedLaunchProjects().filter((p) =>
+          launchArea.featured_projects.includes(p.project_id),
+        )
+      : [];
+  const detailLabel =
+    lang === "zh" ? "查看详情" : lang === "th" ? "ดูรายละเอียด" : "View details";
+  const areaCta = getLaunchCta("area_page", lang);
 
   return (
     <PageShell
@@ -190,9 +264,51 @@ export default async function CityDetailPage({
         ]}
       />
 
-      {overview.length ? (
+      {launchArea?.overview[lang] ? (
+        <CitySection id="overview" title={c.overview}>
+          <Paragraphs rows={[launchArea.overview[lang]]} />
+          {launchArea.suitable_buyer_profile?.[lang] ? (
+            <p className="mt-4 max-w-3xl text-sm leading-relaxed text-stone-700">
+              {launchArea.suitable_buyer_profile[lang]}
+            </p>
+          ) : null}
+          {launchArea.transport_summary?.[lang] ? (
+            <p className="mt-3 max-w-3xl text-sm leading-relaxed text-stone-700">
+              {launchArea.transport_summary[lang]}
+            </p>
+          ) : null}
+        </CitySection>
+      ) : overview.length ? (
         <CitySection id="overview" title={c.overview} note={c.contentNote}>
           <Paragraphs rows={overview} />
+        </CitySection>
+      ) : null}
+
+      {featuredLaunch.length > 0 ? (
+        <CitySection id="featured-projects" title={dict.nav.projects}>
+          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {featuredLaunch.map((project) => (
+              <FeaturedProjectCard
+                key={project.project_id}
+                locale={lang}
+                project={project}
+                detailLabel={detailLabel}
+              />
+            ))}
+          </div>
+          {launchArea?.consultation_cta?.[lang] ? (
+            <div className="mt-6 flex flex-wrap items-center gap-3">
+              <p className="max-w-xl text-sm text-stone-600">
+                {launchArea.consultation_cta[lang]}
+              </p>
+              <Link
+                href={localePath(lang, "/contact")}
+                className={cn(buttonVariants({ variant: "primary" }))}
+              >
+                {areaCta}
+              </Link>
+            </div>
+          ) : null}
         </CitySection>
       ) : null}
 
@@ -247,20 +363,22 @@ export default async function CityDetailPage({
         </ul>
       </section>
 
-      <section className="mt-10 space-y-4" id="listings">
-        <div className="flex items-end justify-between gap-4">
-          <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
-            {dict.cities.listings}
-          </h2>
-          <Link
-            href={`${localePath(lang, "/properties")}?city=${city.slug}`}
-            className="text-sm text-[var(--brand)] hover:underline"
-          >
-            {dict.common.viewAll}
-          </Link>
-        </div>
-        <PropertyGrid locale={lang} dict={dict} properties={listings} />
-      </section>
+      {listings.length > 0 ? (
+        <section className="mt-10 space-y-4" id="listings">
+          <div className="flex items-end justify-between gap-4">
+            <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
+              {dict.cities.listings}
+            </h2>
+            <Link
+              href={`${localePath(lang, "/properties")}?city=${city.slug}`}
+              className="text-sm text-[var(--brand)] hover:underline"
+            >
+              {dict.common.viewAll}
+            </Link>
+          </div>
+          <PropertyGrid locale={lang} dict={dict} properties={listings} />
+        </section>
+      ) : null}
 
       {lifestyle.length ? (
         <CitySection id="lifestyle" title={c.lifestyle} note={c.contentNote}>

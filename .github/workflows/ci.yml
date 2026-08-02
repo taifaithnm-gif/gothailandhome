@@ -57,6 +57,10 @@ jobs:
           # Build as preview isolation target with staging placeholders
           APP_DEPLOY_ENV: preview
           VERCEL_ENV: preview
+          # Immutable build identity for /api/build-info
+          BUILD_COMMIT_SHA: ${{ github.sha }}
+          BUILD_TIME: ${{ github.run_started_at }}
+          GITHUB_SHA: ${{ github.sha }}
 
       - name: Write test summary
         if: always()

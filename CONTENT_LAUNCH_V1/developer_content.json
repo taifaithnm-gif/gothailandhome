@@ -1,0 +1,394 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-02",
+  "selection_note": "Top 10 by verified Bangkok project_count in content/developers/DEVELOPER_INDEX.json (5,5,4,4,4,3,3,3,3, then frasers-property-thailand chosen from the 2-count tier for One Bangkok's flagship visibility).",
+  "count": 10,
+  "developers": [
+    {
+      "developer_name": {
+        "en": "Sansiri",
+        "zh": "尚思瑞",
+        "th": "แสนสิริ"
+      },
+      "developer_id": "sansiri",
+      "legal_name": {
+        "en": "Sansiri Public Company Limited",
+        "zh": "Sansiri Public Company Limited",
+        "th": "บริษัท แสนสิริ จำกัด (มหาชน)"
+      },
+      "short_profile_en": "One of Thailand's most established SET-listed developers (SIRI, founded 1984), with the deepest verified project coverage in this platform — 5 Bangkok condominiums spanning entry-level (THE LINE Sukhumvit 101) to newer MRT/BTS-linked towers (XT Huai Khwang, XT Phayathai).",
+      "short_profile_zh": "泰国最具规模的SET上市开发商之一（股票代码SIRI，1984年成立），在本平台拥有最深的已核实项目覆盖——5个曼谷公寓项目，从入门级（THE LINE Sukhumvit 101）到较新的MRT/BTS沿线大楼（XT 辉煌、XT 帕亚泰）均有覆盖。",
+      "short_profile_th": "หนึ่งในผู้พัฒนาอสังหาริมทรัพย์ที่จดทะเบียนใน SET ที่มั่นคงที่สุดของไทย (SIRI ก่อตั้งปี 2527) มีความครอบคลุมโครงการที่ตรวจสอบแล้วมากที่สุดในแพลตฟอร์มนี้ — คอนโด 5 โครงการในกรุงเทพฯ ตั้งแต่ระดับเริ่มต้น (เดอะ ไลน์ สุขุมวิท 101) ไปจนถึงอาคารใหม่ตามแนว MRT/BTS (เอ็กซ์ที ห้วยขวาง, เอ็กซ์ที พญาไท)",
+      "project_count": 5,
+      "featured_projects": [
+        "condo-u-sukhumvit-62-1",
+        "the-base-sukhumvit-77",
+        "the-line-sukhumvit-101",
+        "xt-huai-khwang",
+        "xt-phayathai"
+      ],
+      "official_reference": {
+        "website": "https://www.sansiri.com/",
+        "set_ticker": "SIRI",
+        "set_profile_url": "https://www.set.or.th/en/market/product/stock/quote/SIRI/factsheet"
+      },
+      "established_year": 1984,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "logo_status": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "logo_path": "/developers/sansiri/logo.svg",
+      "image_requirement": "logo only — no local gallery/office photography catalogued yet",
+      "source_status": "verified_platform_verified",
+      "content_path": "content/developers/sansiri/"
+    },
+    {
+      "developer_name": {
+        "en": "AP Thailand",
+        "zh": "AP泰国",
+        "th": "เอพี ไทยแลนด์"
+      },
+      "developer_id": "ap-thailand",
+      "legal_name": {
+        "en": "AP (Thailand) Public Company Limited",
+        "zh": "AP (Thailand) Public Company Limited",
+        "th": "บริษัท เอพี (ไทยแลนด์) จำกัด (มหาชน)"
+      },
+      "short_profile_en": "A SET-listed developer (AP, founded 1984) with 5 verified Bangkok condominiums in this platform, including two fully sold-out flagship towers (LIFE Asoke Rama 9, LIFE Ladprao) that demonstrate strong original absorption.",
+      "short_profile_zh": "SET上市开发商（股票代码AP，1984年成立），在本平台拥有5个已核实的曼谷公寓项目，其中两个旗舰项目（Life Asoke 拉玛九、Life 叻抛）已全部售罄，显示出强劲的市场去化能力。",
+      "short_profile_th": "ผู้พัฒนาที่จดทะเบียนใน SET (AP ก่อตั้งปี 2527) มีคอนโดในกรุงเทพฯ ที่ตรวจสอบแล้ว 5 โครงการในแพลตฟอร์มนี้ รวมถึงโครงการเรือธง 2 แห่งที่ขายหมดแล้ว (ไลฟ์ อโศก-พระราม 9, ไลฟ์ ลาดพร้าว) ซึ่งสะท้อนความต้องการซื้อที่แข็งแกร่ง",
+      "project_count": 5,
+      "featured_projects": [
+        "aspire-sathorn-taksin",
+        "life-asoke-rama-9",
+        "life-ladprao",
+        "life-one-wireless",
+        "rhythm-ekkamai"
+      ],
+      "official_reference": {
+        "website": "https://www.apthai.com/",
+        "set_ticker": "AP",
+        "set_profile_url": "https://www.set.or.th/en/market/product/stock/quote/AP/factsheet"
+      },
+      "established_year": 1984,
+      "headquarters": {
+        "en": "Khlong Toei, Bangkok, Thailand (Ocean Tower 1 address per SET)",
+        "zh": "泰国曼谷空堤（SET 记载 Ocean Tower 1 地址）",
+        "th": "คลองเตย กรุงเทพฯ (ที่อยู่ตาม SET: Ocean Tower 1)"
+      },
+      "logo_status": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "logo_path": "/developers/ap-thailand/logo.svg",
+      "image_requirement": "logo only — no local gallery/office photography catalogued yet",
+      "source_status": "verified_platform_verified",
+      "content_path": "content/developers/ap-thailand/"
+    },
+    {
+      "developer_name": {
+        "en": "Pruksa Holding",
+        "zh": "普萨控股",
+        "th": "พฤกษา โฮลดิ้ง"
+      },
+      "developer_id": "pruksa-holding",
+      "legal_name": {
+        "en": "Pruksa Holding Public Company Limited",
+        "zh": "Pruksa Holding Public Company Limited",
+        "th": "บริษัท พฤกษา โฮลดิ้ง จำกัด (มหาชน)"
+      },
+      "short_profile_en": "A SET-listed developer (PSH) with 4 verified Bangkok condominium packages in this platform, spanning the Chapter One and The Tree/The Privacy brand lines.",
+      "short_profile_zh": "SET上市开发商（股票代码PSH），在本平台拥有4个已核实的曼谷公寓项目，涵盖Chapter One及The Tree/The Privacy系列品牌。",
+      "short_profile_th": "ผู้พัฒนาที่จดทะเบียนใน SET (PSH) มีชุดข้อมูลคอนโดในกรุงเทพฯ ที่ตรวจสอบแล้ว 4 โครงการในแพลตฟอร์มนี้ ครอบคลุมแบรนด์ Chapter One และ The Tree/The Privacy",
+      "project_count": 4,
+      "featured_projects": [
+        "chapter-one-midtown-ladprao-24",
+        "chapter-one-shine-bang-pho",
+        "the-privacy-rama-9",
+        "the-tree-rio-bang-aor"
+      ],
+      "official_reference": {
+        "website": "https://www.pruksa.com/",
+        "set_ticker": "PSH",
+        "set_profile_url": "https://www.set.or.th/en/market/product/stock/quote/PSH/factsheet"
+      },
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "logo_status": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "logo_path": "/developers/pruksa-holding/logo.svg",
+      "image_requirement": "logo only — no local gallery/office photography catalogued yet",
+      "source_status": "verified_platform_verified",
+      "content_path": "content/developers/pruksa-holding/"
+    },
+    {
+      "developer_name": {
+        "en": "Supalai",
+        "zh": "苏帕莱",
+        "th": "ศุภาลัย"
+      },
+      "developer_id": "supalai",
+      "legal_name": {
+        "en": "Supalai Public Company Limited",
+        "zh": "Supalai Public Company Limited",
+        "th": "บริษัท ศุภาลัย จำกัด (มหาชน)"
+      },
+      "short_profile_en": "A SET-listed developer (SPALI, established 1989 per company history) with 4 verified Bangkok condominium packages, including the premium Supalai Oriental Sukhumvit 39 near Phrom Phong.",
+      "short_profile_zh": "SET上市开发商（股票代码SPALI，据公司历史记载1989年成立），在本平台拥有4个已核实的曼谷公寓项目，包括彭蓬附近的高端项目Supalai Oriental 素坤逸39。",
+      "short_profile_th": "ผู้พัฒนาที่จดทะเบียนใน SET (SPALI ก่อตั้งปี 2532 ตามประวัติบริษัท) มีชุดข้อมูลคอนโดในกรุงเทพฯ ที่ตรวจสอบแล้ว 4 โครงการ รวมถึงโครงการระดับพรีเมียม ศุภาลัย โอเรียนทัล สุขุมวิท 39 ใกล้พร้อมพงษ์",
+      "project_count": 4,
+      "featured_projects": [
+        "supalai-elite-phayathai",
+        "supalai-lite-sathorn-charoenrat",
+        "supalai-oriental-sukhumvit-39",
+        "supalai-veranda-rama-9"
+      ],
+      "official_reference": {
+        "website": "https://www.supalai.com/",
+        "set_ticker": "SPALI",
+        "set_profile_url": "https://www.set.or.th/en/market/product/stock/quote/SPALI/factsheet"
+      },
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "logo_status": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "logo_path": "/developers/supalai/logo.svg",
+      "image_requirement": "logo only — no local gallery/office photography catalogued yet",
+      "source_status": "verified_platform_verified",
+      "content_path": "content/developers/supalai/"
+    },
+    {
+      "developer_name": {
+        "en": "Ananda Development",
+        "zh": "阿南达发展",
+        "th": "อนันดา ดีเวลลอปเม้นท์"
+      },
+      "developer_id": "ananda-development",
+      "legal_name": {
+        "en": "Ananda Development Public Company Limited",
+        "zh": "Ananda Development Public Company Limited",
+        "th": "บริษัท อนันดา ดีเวลลอปเม้นท์ จำกัด (มหาชน)"
+      },
+      "short_profile_en": "A SET-listed developer (ANAN, founded 1999) with 4 verified Bangkok condominium packages including Ashton Asoke, a completed tower at the BTS Asoke / MRT Sukhumvit interchange.",
+      "short_profile_zh": "SET上市开发商（股票代码ANAN，1999年成立），在本平台拥有4个已核实的曼谷公寓项目，包括位于BTS阿速谷/MRT素坤逸换乘点的已完工项目Ashton Asoke。",
+      "short_profile_th": "ผู้พัฒนาที่จดทะเบียนใน SET (ANAN ก่อตั้งปี 2542) มีชุดข้อมูลคอนโดในกรุงเทพฯ ที่ตรวจสอบแล้ว 4 โครงการ รวมถึงแอชตัน อโศก ซึ่งสร้างเสร็จแล้วที่จุดเชื่อมต่อ BTS อโศก/MRT สุขุมวิท",
+      "project_count": 4,
+      "featured_projects": [
+        "ashton-asoke",
+        "ideo-mobi-sukhumvit-66",
+        "ideo-q-sukhumvit-36",
+        "ideo-rama-9"
+      ],
+      "official_reference": {
+        "website": "https://www.ananda.co.th/",
+        "set_ticker": "ANAN",
+        "set_profile_url": "https://www.set.or.th/en/market/product/stock/quote/ANAN/factsheet"
+      },
+      "established_year": 1999,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "logo_status": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "logo_path": "/developers/ananda-development/logo.svg",
+      "image_requirement": "logo only — no local gallery/office photography catalogued yet",
+      "source_status": "verified_platform_verified",
+      "content_path": "content/developers/ananda-development/"
+    },
+    {
+      "developer_name": {
+        "en": "Major Development",
+        "zh": "Major Development",
+        "th": "เมเจอร์ ดีเวลลอปเม้นท์"
+      },
+      "developer_id": "major-development",
+      "legal_name": {
+        "en": "Major Development Public Company Limited",
+        "zh": "Major Development Public Company Limited",
+        "th": "บริษัท เมเจอร์ ดีเวลลอปเม้นท์ จำกัด (มหาชน)"
+      },
+      "short_profile_en": "A SET-listed developer (MJD) with 3 verified Bangkok condominium packages, including projects in the Sathorn/Lumphini and Ratchada corridors.",
+      "short_profile_zh": "SET上市开发商（股票代码MJD），在本平台拥有3个已核实的曼谷公寓项目，覆盖沙吞/伦披尼及拉差达走廊。",
+      "short_profile_th": "ผู้พัฒนาที่จดทะเบียนใน SET (MJD) มีชุดข้อมูลคอนโดในกรุงเทพฯ ที่ตรวจสอบแล้ว 3 โครงการ ครอบคลุมย่านสาทร/ลุมพินีและรัชดา",
+      "project_count": 3,
+      "featured_projects": [
+        "m-jive-sathorn-lumphini",
+        "m-silom",
+        "maestro-03-ratchada-rama-9"
+      ],
+      "official_reference": {
+        "website": "https://www.major.co.th/",
+        "set_ticker": "MJD",
+        "set_profile_url": "https://www.set.or.th/en/market/product/stock/quote/MJD/factsheet"
+      },
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "logo_status": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "logo_path": "/developers/major-development/logo.svg",
+      "image_requirement": "logo only — no local gallery/office photography catalogued yet",
+      "source_status": "verified_platform_verified",
+      "content_path": "content/developers/major-development/"
+    },
+    {
+      "developer_name": {
+        "en": "Noble Development",
+        "zh": "诺博发展",
+        "th": "โนเบิล ดีเวลลอปเมนท์"
+      },
+      "developer_id": "noble-development",
+      "legal_name": {
+        "en": "Noble Development Public Company Limited",
+        "zh": "Noble Development Public Company Limited",
+        "th": "บริษัท โนเบิล ดีเวลลอปเมนท์ จำกัด (มหาชน)"
+      },
+      "short_profile_en": "A SET-listed developer (NOBLE) with 3 verified Bangkok condominium packages spanning the Ari and Ratchada districts.",
+      "short_profile_zh": "SET上市开发商（股票代码NOBLE），在本平台拥有3个已核实的曼谷公寓项目，覆盖阿里及拉差达区域。",
+      "short_profile_th": "ผู้พัฒนาที่จดทะเบียนใน SET (NOBLE) มีชุดข้อมูลคอนโดในกรุงเทพฯ ที่ตรวจสอบแล้ว 3 โครงการ ครอบคลุมย่านอารีย์และรัชดา",
+      "project_count": 3,
+      "featured_projects": [
+        "noble-around-ari",
+        "noble-beat",
+        "noble-revolve-ratchada"
+      ],
+      "official_reference": {
+        "website": "https://www.noblehome.com/",
+        "set_ticker": "NOBLE",
+        "set_profile_url": "https://www.set.or.th/en/market/product/stock/quote/NOBLE/factsheet"
+      },
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "logo_status": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "logo_path": "/developers/noble-development/logo.svg",
+      "image_requirement": "logo only — no local gallery/office photography catalogued yet",
+      "source_status": "verified_platform_verified",
+      "content_path": "content/developers/noble-development/"
+    },
+    {
+      "developer_name": {
+        "en": "Origin Property",
+        "zh": "奥利金地产",
+        "th": "ออริจิ้น พร็อพเพอร์ตี้"
+      },
+      "developer_id": "origin-property",
+      "legal_name": {
+        "en": "Origin Property Public Company Limited",
+        "zh": "Origin Property Public Company Limited",
+        "th": "บริษัท ออริจิ้น พร็อพเพอร์ตี้ จำกัด (มหาชน)"
+      },
+      "short_profile_en": "A SET-listed developer (ORI, founded 2009) with 3 verified Bangkok condominium packages, including Knightsbridge Prime Sathorn with dual BTS and MRT access.",
+      "short_profile_zh": "SET上市开发商（股票代码ORI，2009年成立），在本平台拥有3个已核实的曼谷公寓项目，包括同时衔接BTS与MRT的Knightsbridge Prime沙吞。",
+      "short_profile_th": "ผู้พัฒนาที่จดทะเบียนใน SET (ORI ก่อตั้งปี 2552) มีชุดข้อมูลคอนโดในกรุงเทพฯ ที่ตรวจสอบแล้ว 3 โครงการ รวมถึงไนท์บริดจ์ ไพร์ม สาทร ที่เชื่อมต่อทั้ง BTS และ MRT",
+      "project_count": 3,
+      "featured_projects": [
+        "knightbridge-collage-ramkhamhaeng",
+        "knightsbridge-prime-sathorn",
+        "origin-plug-play-sukhumvit-101"
+      ],
+      "official_reference": {
+        "website": "https://www.origin.co.th/",
+        "set_ticker": "ORI",
+        "set_profile_url": "https://www.set.or.th/en/market/product/stock/quote/ORI/factsheet"
+      },
+      "established_year": 2009,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "logo_status": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "logo_path": "/developers/origin-property/logo.svg",
+      "image_requirement": "logo only — no local gallery/office photography catalogued yet",
+      "source_status": "verified_platform_verified",
+      "content_path": "content/developers/origin-property/"
+    },
+    {
+      "developer_name": {
+        "en": "SC Asset",
+        "zh": "SC Asset",
+        "th": "เอสซี แอสเสท"
+      },
+      "developer_id": "sc-asset",
+      "legal_name": {
+        "en": "SC Asset Corporation Public Company Limited",
+        "zh": "SC Asset Corporation Public Company Limited",
+        "th": "บริษัท เอสซี แอสเสท คอร์ปอเรชั่น จำกัด (มหาชน)"
+      },
+      "short_profile_en": "A SET-listed developer (SC) with 3 verified Bangkok condominium packages in the Asoke, Sukhumvit 36, and Thonglor corridors.",
+      "short_profile_zh": "SET上市开发商（股票代码SC），在本平台拥有3个已核实的曼谷公寓项目，覆盖阿速谷、素坤逸36及通罗走廊。",
+      "short_profile_th": "ผู้พัฒนาที่จดทะเบียนใน SET (SC) มีชุดข้อมูลคอนโดในกรุงเทพฯ ที่ตรวจสอบแล้ว 3 โครงการ ในย่านอโศก สุขุมวิท 36 และทองหล่อ",
+      "project_count": 3,
+      "featured_projects": [
+        "the-esse-asoke",
+        "the-esse-sukhumvit-36",
+        "vyva-thonglor"
+      ],
+      "official_reference": {
+        "website": "https://www.scasset.com/",
+        "set_ticker": "SC",
+        "set_profile_url": "https://www.set.or.th/en/market/product/stock/quote/SC/factsheet"
+      },
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "logo_status": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "logo_path": "/developers/sc-asset/logo.svg",
+      "image_requirement": "logo only — no local gallery/office photography catalogued yet",
+      "source_status": "verified_platform_verified",
+      "content_path": "content/developers/sc-asset/"
+    },
+    {
+      "developer_name": {
+        "en": "Frasers Property Thailand",
+        "zh": "辉盛地产泰国",
+        "th": "เฟรเซอร์ส พร็อพเพอร์ตี้ ประเทศไทย"
+      },
+      "developer_id": "frasers-property-thailand",
+      "legal_name": {
+        "en": "Frasers Property (Thailand) Public Company Limited",
+        "zh": "Frasers Property (Thailand) Public Company Limited",
+        "th": "บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ (ประเทศไทย) จำกัด (มหาชน)"
+      },
+      "short_profile_en": "A SET-listed developer (FPT) headquartered at One Bangkok, with 2 verified Bangkok packages in this platform including One Bangkok itself — one of the city's largest mixed-use developments — and Samyan Mitrtown.",
+      "short_profile_zh": "SET上市开发商（股票代码FPT），总部位于One Bangkok，在本平台拥有2个已核实的曼谷项目，包括One Bangkok本身——曼谷规模最大的综合体项目之一——以及Samyan Mitrtown。",
+      "short_profile_th": "ผู้พัฒนาที่จดทะเบียนใน SET (FPT) มีสำนักงานใหญ่ที่ One Bangkok มีชุดข้อมูลในกรุงเทพฯ ที่ตรวจสอบแล้ว 2 โครงการในแพลตฟอร์มนี้ รวมถึง One Bangkok เอง ซึ่งเป็นหนึ่งในโครงการมิกซ์ยูสที่ใหญ่ที่สุดของเมือง และสามย่านมิตรทาวน์",
+      "project_count": 2,
+      "featured_projects": [
+        "one-bangkok",
+        "samyan-mitrtown"
+      ],
+      "official_reference": {
+        "website": "https://www.frasersproperty.co.th/",
+        "set_ticker": "FPT",
+        "set_profile_url": "https://www.set.or.th/en/market/product/stock/quote/FPT/factsheet"
+      },
+      "established_year": null,
+      "headquarters": {
+        "en": "Bangkok, Thailand",
+        "zh": "泰国曼谷",
+        "th": "กรุงเทพฯ ประเทศไทย"
+      },
+      "logo_status": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "logo_path": "/developers/frasers-property-thailand/logo.svg",
+      "image_requirement": "logo only — no local gallery/office photography catalogued yet",
+      "source_status": "verified_platform_verified",
+      "content_path": "content/developers/frasers-property-thailand/"
+    }
+  ]
+}

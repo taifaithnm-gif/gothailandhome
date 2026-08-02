@@ -1,0 +1,249 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-02",
+  "sections": {
+    "hero": {
+      "headline": {
+        "en": "Verified Thailand property, matched to how you'll actually live or invest",
+        "zh": "已核实的泰国房产，匹配你的真实居住或投资需求",
+        "th": "อสังหาริมทรัพย์ไทยที่ตรวจสอบแล้ว ตรงกับไลฟ์สไตล์หรือเป้าหมายการลงทุนของคุณ"
+      },
+      "subheadline": {
+        "en": "Browse condominiums sourced directly from official developer pages, with transparent pricing and area guidance — starting in Bangkok.",
+        "zh": "浏览直接来自开发商官方页面的公寓房源，价格透明、区域信息清晰——从曼谷开始。",
+        "th": "เลือกชมคอนโดมิเนียมที่มาจากหน้าโครงการทางการของผู้พัฒนาโดยตรง ราคาโปร่งใสพร้อมข้อมูลทำเล — เริ่มต้นที่กรุงเทพฯ"
+      },
+      "primary_cta": {
+        "en": "Browse featured projects",
+        "zh": "浏览精选项目",
+        "th": "ดูโครงการแนะนำ"
+      },
+      "secondary_cta": {
+        "en": "Talk to an advisor",
+        "zh": "联系顾问",
+        "th": "พูดคุยกับที่ปรึกษา"
+      }
+    },
+    "featured_projects": {
+      "heading": {
+        "en": "Featured projects",
+        "zh": "精选项目",
+        "th": "โครงการแนะนำ"
+      },
+      "subheading": {
+        "en": "12 verified Bangkok condominiums, selected for data completeness and diversity of location, developer, and price point.",
+        "zh": "12个已核实的曼谷公寓项目，依据数据完整度以及地段、开发商与价位的多样性精选而成。",
+        "th": "คอนโด 12 โครงการในกรุงเทพฯ ที่ตรวจสอบแล้ว คัดเลือกจากความสมบูรณ์ของข้อมูล และความหลากหลายของทำเล ผู้พัฒนา และระดับราคา"
+      },
+      "source": "featured_projects.json",
+      "cta": {
+        "en": "View all projects",
+        "zh": "查看全部项目",
+        "th": "ดูโครงการทั้งหมด"
+      }
+    },
+    "featured_areas": {
+      "heading": {
+        "en": "Explore by area",
+        "zh": "按区域探索",
+        "th": "สำรวจตามทำเล"
+      },
+      "subheading": {
+        "en": "Bangkok is live with full district-level detail today. Pattaya, Phuket, and Chiang Mai coverage is on our roadmap.",
+        "zh": "曼谷目前已上线完整的区域级详情。芭堤雅、普吉岛及清迈的内容正在规划中。",
+        "th": "ขณะนี้กรุงเทพฯ พร้อมใช้งานพร้อมรายละเอียดระดับเขตครบถ้วน ส่วนพัทยา ภูเก็ต และเชียงใหม่อยู่ในแผนการพัฒนาต่อไป"
+      },
+      "areas": [
+        {
+          "area_id": "bangkok",
+          "status": "live"
+        },
+        {
+          "area_id": "pattaya",
+          "status": "coming_soon"
+        },
+        {
+          "area_id": "phuket",
+          "status": "coming_soon"
+        },
+        {
+          "area_id": "chiang-mai",
+          "status": "coming_soon"
+        }
+      ]
+    },
+    "why_buy_in_thailand": {
+      "heading": {
+        "en": "Why buy property in Thailand",
+        "zh": "为什么在泰国置业",
+        "th": "ทำไมต้องซื้ออสังหาริมทรัพย์ในไทย"
+      },
+      "points": [
+        {
+          "en": "Foreigners can own condominium units freehold, subject to the 49% foreign-quota rule per building.",
+          "zh": "外国人可持有公寓永久产权，需遵守每栋楼49%外国人配额限制。",
+          "th": "ชาวต่างชาติสามารถถือครองคอนโดมิเนียมแบบฟรีโฮลด์ได้ ภายใต้กฎโควตาต่างชาติไม่เกิน 49% ต่ออาคาร"
+        },
+        {
+          "en": "Bangkok's BTS, MRT, and Airport Rail Link network keeps expanding, widening the pool of transit-linked addresses.",
+          "zh": "曼谷的BTS、MRT及机场快线网络持续扩展，交通便利的地段选择不断增加。",
+          "th": "เครือข่าย BTS, MRT และแอร์พอร์ต เรล ลิงก์ ของกรุงเทพฯ ยังคงขยายตัวต่อเนื่อง เพิ่มตัวเลือกทำเลที่เชื่อมต่อรถไฟฟ้า"
+        },
+        {
+          "en": "A wide developer landscape — from SET-listed public companies to boutique brands — gives buyers a range of price points and track records to compare.",
+          "zh": "从SET上市公司到精品品牌，开发商选择广泛，买家可比较不同价位与业绩记录。",
+          "th": "ผู้พัฒนามีความหลากหลาย ตั้งแต่บริษัทมหาชนที่จดทะเบียนใน SET ไปจนถึงแบรนด์บูทีก ทำให้ผู้ซื้อเปรียบเทียบราคาและผลงานได้หลากหลาย"
+        }
+      ],
+      "disclaimer": {
+        "en": "General information only — not legal or tax advice. Confirm current rules with a licensed advisor before purchase.",
+        "zh": "以上仅为一般性信息，非法律或税务建议。购买前请与持牌顾问确认最新规定。",
+        "th": "ข้อมูลทั่วไปเท่านั้น ไม่ใช่คำแนะนำทางกฎหมายหรือภาษี กรุณายืนยันกฎระเบียบล่าสุดกับที่ปรึกษาที่มีใบอนุญาตก่อนตัดสินใจซื้อ"
+      }
+    },
+    "buyer_journey": {
+      "heading": {
+        "en": "Your buying journey",
+        "zh": "购房流程",
+        "th": "ขั้นตอนการซื้อของคุณ"
+      },
+      "steps": [
+        {
+          "en": "Explore verified projects and areas",
+          "zh": "浏览已核实的项目与区域",
+          "th": "สำรวจโครงการและทำเลที่ตรวจสอบแล้ว"
+        },
+        {
+          "en": "Compare pricing, facilities, and developer track record",
+          "zh": "比较价格、设施与开发商业绩",
+          "th": "เปรียบเทียบราคา สิ่งอำนวยความสะดวก และผลงานผู้พัฒนา"
+        },
+        {
+          "en": "Speak with a GoThailandHome advisor",
+          "zh": "与GoThailandHome顾问沟通",
+          "th": "พูดคุยกับที่ปรึกษา GoThailandHome"
+        },
+        {
+          "en": "Complete due diligence and transfer at the Land Department",
+          "zh": "完成尽职调查并在土地厅办理过户",
+          "th": "ดำเนินการตรวจสอบและโอนกรรมสิทธิ์ที่กรมที่ดิน"
+        }
+      ]
+    },
+    "property_categories": {
+      "heading": {
+        "en": "Browse by category",
+        "zh": "按类型浏览",
+        "th": "เลือกดูตามประเภท"
+      },
+      "categories": [
+        {
+          "id": "condominium",
+          "en": "Condominiums",
+          "zh": "公寓",
+          "th": "คอนโดมิเนียม",
+          "available": true,
+          "note_en": "50 verified Bangkok projects currently catalogued.",
+          "note_zh": "目前已收录50个已核实的曼谷项目。",
+          "note_th": "ปัจจุบันมีโครงการในกรุงเทพฯ ที่ตรวจสอบแล้ว 50 โครงการ"
+        },
+        {
+          "id": "villa",
+          "en": "Villas",
+          "zh": "别墅",
+          "th": "วิลล่า",
+          "available": false,
+          "note_en": "Coming soon — no verified villa listings in the current catalogue.",
+          "note_zh": "即将上线——目前尚无已核实的别墅房源。",
+          "note_th": "เร็วๆ นี้ — ปัจจุบันยังไม่มีรายการวิลล่าที่ตรวจสอบแล้ว"
+        },
+        {
+          "id": "investment",
+          "en": "Investment-oriented",
+          "zh": "投资导向",
+          "th": "เน้นการลงทุน",
+          "available": true,
+          "note_en": "Transit-linked units with active rental market data.",
+          "note_zh": "交通便利、拥有活跃租赁市场数据的房源。",
+          "note_th": "ยูนิตใกล้รถไฟฟ้าพร้อมข้อมูลตลาดปล่อยเช่าที่ยังเคลื่อนไหว"
+        },
+        {
+          "id": "lifestyle",
+          "en": "Lifestyle-oriented",
+          "zh": "生活方式导向",
+          "th": "เน้นไลฟ์สไตล์",
+          "available": true,
+          "note_en": "Larger-format units in established dining, cafe, and leisure districts.",
+          "note_zh": "位于成熟餐饮、咖啡与休闲区域的大户型房源。",
+          "note_th": "ยูนิตขนาดใหญ่ในย่านอาหาร คาเฟ่ และไลฟ์สไตล์ที่เป็นที่นิยม"
+        }
+      ]
+    },
+    "developer_highlights": {
+      "heading": {
+        "en": "Developers we track",
+        "zh": "我们追踪的开发商",
+        "th": "ผู้พัฒนาที่เราติดตาม"
+      },
+      "subheading": {
+        "en": "SET-listed and platform-verified developers with the deepest project coverage.",
+        "zh": "SET上市及平台已核实、项目覆盖最广泛的开发商。",
+        "th": "ผู้พัฒนาที่จดทะเบียนใน SET และตรวจสอบโดยแพลตฟอร์ม ซึ่งมีความครอบคลุมโครงการมากที่สุด"
+      },
+      "source": "developer_content.json",
+      "cta": {
+        "en": "View all developers",
+        "zh": "查看全部开发商",
+        "th": "ดูผู้พัฒนาทั้งหมด"
+      }
+    },
+    "knowledge_section": {
+      "heading": {
+        "en": "Know before you buy",
+        "zh": "购前必读",
+        "th": "รู้ก่อนซื้อ"
+      },
+      "subheading": {
+        "en": "Practical guides on ownership rules, financing, and the buying process.",
+        "zh": "关于产权规则、融资与购房流程的实用指南。",
+        "th": "คู่มือปฏิบัติเกี่ยวกับกฎการถือครอง การเงิน และขั้นตอนการซื้อ"
+      },
+      "featured_articles": [
+        "thailand-property-buying-guide",
+        "foreign-ownership-thailand",
+        "freehold-vs-leasehold-thailand",
+        "thailand-condo-guide",
+        "thailand-area-selection-guide",
+        "rental-investment-thailand"
+      ],
+      "source": "knowledge_cards.json",
+      "cta": {
+        "en": "Visit the knowledge library",
+        "zh": "访问知识库",
+        "th": "เข้าชมคลังความรู้"
+      }
+    },
+    "consultation_cta": {
+      "heading": {
+        "en": "Not sure where to start?",
+        "zh": "不确定从哪里开始？",
+        "th": "ยังไม่แน่ใจว่าจะเริ่มตรงไหน?"
+      },
+      "body": {
+        "en": "Tell us your budget, goals, and timeline. A GoThailandHome advisor will shortlist verified projects that fit.",
+        "zh": "告诉我们您的预算、目标与时间安排，GoThailandHome顾问将为您筛选合适的已核实项目。",
+        "th": "บอกงบประมาณ เป้าหมาย และกรอบเวลาของคุณ ที่ปรึกษา GoThailandHome จะคัดเลือกโครงการที่ตรวจสอบแล้วที่เหมาะกับคุณ"
+      },
+      "cta": {
+        "en": "Request a consultation",
+        "zh": "预约咨询",
+        "th": "นัดหมายที่ปรึกษา"
+      }
+    },
+    "footer_trust_text": {
+      "en": "Project and developer information on GoThailandHome is sourced from official developer pages and public listing platforms, with source status shown on every project page. GoThailandHome is an information platform and does not provide legal, tax, or investment advice.",
+      "zh": "GoThailandHome上的项目及开发商信息来源于开发商官方页面及公开挂牌平台，每个项目页面均标注信息来源状态。GoThailandHome为信息平台，不提供法律、税务或投资建议。",
+      "th": "ข้อมูลโครงการและผู้พัฒนาบน GoThailandHome มาจากหน้าโครงการทางการของผู้พัฒนาและแพลตฟอร์มประกาศขายสาธารณะ โดยระบุสถานะแหล่งที่มาไว้ในทุกหน้าโครงการ GoThailandHome เป็นแพลตฟอร์มข้อมูล ไม่ได้ให้คำแนะนำทางกฎหมาย ภาษี หรือการลงทุน"
+    }
+  }
+}

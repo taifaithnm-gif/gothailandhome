@@ -1,0 +1,56 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-02",
+  "cta_blocks": {
+    "homepage_primary": {
+      "en": "Browse featured projects",
+      "zh": "浏览精选项目",
+      "th": "ดูโครงการแนะนำ"
+    },
+    "homepage_secondary": {
+      "en": "Talk to an advisor",
+      "zh": "联系顾问",
+      "th": "พูดคุยกับที่ปรึกษา"
+    },
+    "project_page": {
+      "en": "Ask about this project",
+      "zh": "咨询该项目",
+      "th": "สอบถามเกี่ยวกับโครงการนี้"
+    },
+    "area_page": {
+      "en": "Compare verified projects in this area",
+      "zh": "比较该区域的已核实项目",
+      "th": "เปรียบเทียบโครงการที่ตรวจสอบแล้วในย่านนี้"
+    },
+    "developer_page": {
+      "en": "See all verified projects by this developer",
+      "zh": "查看该开发商的全部已核实项目",
+      "th": "ดูโครงการที่ตรวจสอบแล้วทั้งหมดของผู้พัฒนานี้"
+    },
+    "knowledge_article": {
+      "en": "Have a question about your specific situation? Talk to an advisor.",
+      "zh": "对您的具体情况有疑问？联系顾问。",
+      "th": "มีคำถามเกี่ยวกับสถานการณ์ของคุณโดยเฉพาะหรือไม่? พูดคุยกับที่ปรึกษา"
+    },
+    "consultation_form_submit": {
+      "en": "Request a consultation",
+      "zh": "预约咨询",
+      "th": "นัดหมายที่ปรึกษา"
+    },
+    "price_unavailable_fallback": {
+      "en": "Contact for latest price",
+      "zh": "请联系获取最新价格",
+      "th": "ติดต่อสอบถามราคาล่าสุด"
+    },
+    "coming_soon_area": {
+      "en": "Coming soon",
+      "zh": "即将上线",
+      "th": "เร็วๆ นี้"
+    },
+    "footer_disclaimer_short": {
+      "en": "Information platform only — not legal, tax, or investment advice.",
+      "zh": "仅为信息平台——非法律、税务或投资建议。",
+      "th": "เป็นเพียงแพลตฟอร์มข้อมูล ไม่ใช่คำแนะนำทางกฎหมาย ภาษี หรือการลงทุน"
+    }
+  }
+}

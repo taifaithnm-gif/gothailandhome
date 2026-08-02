@@ -1,0 +1,168 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-02",
+  "checks_run": 30,
+  "checks_passed": 30,
+  "checks_failed": 0,
+  "details": [
+    {
+      "check": "valid_json:homepage_content.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "utf8:homepage_content.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "valid_json:featured_projects.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "utf8:featured_projects.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "valid_json:area_content.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "utf8:area_content.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "valid_json:developer_content.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "utf8:developer_content.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "valid_json:knowledge_cards.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "utf8:knowledge_cards.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "valid_json:cta_content.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "utf8:cta_content.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "valid_json:image_manifest.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "utf8:image_manifest.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "featured_projects_count_12",
+      "passed": true,
+      "detail": "got 12"
+    },
+    {
+      "check": "featured_projects_unique_ids",
+      "passed": true,
+      "detail": "dupes: []"
+    },
+    {
+      "check": "every_project_has_source_status",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "every_project_has_project_id",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "check": "featured_project_ids_resolve_to_real_content_dirs",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "homepage_no_empty_en_zh_th_fields",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "area_bangkok_production_ready",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "area_pattaya_explicitly_flagged_not_fabricated",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "area_phuket_explicitly_flagged_not_fabricated",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "area_chiang-mai_explicitly_flagged_not_fabricated",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "developer_count_10",
+      "passed": true,
+      "detail": "got 10"
+    },
+    {
+      "check": "developer_ids_unique",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "developer_ids_resolve_to_real_content_dirs",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "developer_featured_projects_resolve_to_real_dirs",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "every_image_entry_has_ownership_status",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "check": "knowledge_cards_unique",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "critical_gaps": [
+    "Only 50 verified Bangkok projects exist in the local content corpus, not 65 as specified in the brief — featured_projects.json selects the strongest 12 of those 50.",
+    "No Pattaya, Phuket, or Chiang Mai project data exists locally (all 50 packages are Bangkok). area_content.json marks these three cities NOT_PRODUCTION_READY with general positioning only — no fabricated POIs, transit, or projects.",
+    "No villa inventory exists locally — all 50 projects are condominiums. Homepage property_categories flags villa as 'available: false, coming soon'.",
+    "Source data directory /Volumes/AI_SHARE/KNOWLEDGE_DATABASE specified in the brief is not mounted on this machine (no external/network volumes present) — this package was built entirely from the local GoThailandHome repo's content/ and public/ directories instead, per user direction.",
+    "Output path substituted: /Volumes/AI_SHARE/GoThailandHome/CONTENT_LAUNCH_V1 (unreachable) -> ./CONTENT_LAUNCH_V1 at the project root, for the same reason.",
+    "18 of 52 image_manifest entries are PLACEHOLDER_REQUIRED (homepage hero banner, 4 area cards, and one project's [the-livin-ramkhamhaeng] hero/gallery/floor-plan) — no local asset exists yet.",
+    "Default OG image (public/og/default.svg) is SVG, flagged in Sprint A audit as weak for social-crawler compatibility; not replaced here (image editing out of content scope)."
+  ]
+}

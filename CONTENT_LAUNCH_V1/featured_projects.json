@@ -1,0 +1,880 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-02",
+  "scope_note": "All 12 projects are verified Bangkok condominiums sourced from content/projects/*/manifest.json and listings.json. No Pattaya/Phuket/Chiang Mai or villa projects met the verified-source bar in the local corpus (see CRITICAL_GAPS in content_validation.json).",
+  "count": 12,
+  "projects": [
+    {
+      "project_id": "modiz-rhyme-ramkhamhaeng",
+      "project_name": {
+        "en": "Modiz Rhyme Ramkhamhaeng",
+        "zh": "Modiz Rhyme 蓝康恒",
+        "th": "โมดิซ ไรย์ม รามคำแหง"
+      },
+      "developer_name": {
+        "en": "AssetWise",
+        "zh": "AssetWise",
+        "th": "แอสเซทไวส์"
+      },
+      "developer_id": "assetwise",
+      "area_name": {
+        "en": "Bang Kapi",
+        "zh": "挽甲必",
+        "th": "บางกะปิ"
+      },
+      "area_id": "bang-kapi",
+      "city": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "property_type": "Condominium",
+      "completion_year": 2023,
+      "total_units": 546,
+      "price_display": {
+        "en": "From THB 2.9M (verified listings up to THB 5.5M)",
+        "zh": "起价 2.9 百万泰铢（已核实挂牌价最高至 5.5 百万泰铢）",
+        "th": "เริ่มต้น 2.9 ล้านบาท (ประกาศขายที่ตรวจสอบแล้วสูงสุดถึง 5.5 ล้านบาท)"
+      },
+      "short_summary_en": "A 2023-completed AssetWise high-rise on the Ramkhamhaeng corridor with compact 1-2 bedroom units and a full lifestyle amenity floor.",
+      "short_summary_zh": "AssetWise于2023年完工的高层公寓，位于蓝康恒（Ramkhamhaeng）沿线，提供紧凑的一至两房户型及完整生活配套楼层。",
+      "short_summary_th": "คอนโดสูงของแอสเซทไวส์ สร้างเสร็จปี 2023 บนแนวถนนรามคำแหง มียูนิต 1-2 ห้องนอนขนาดกะทัดรัดและชั้นสิ่งอำนวยความสะดวกครบครัน",
+      "key_features": [
+        "546 units across 30 floors",
+        "1-2 bedroom, 23-38 sqm layouts",
+        "Infinite Horizon Pool & Cloud Gym",
+        "Cinematic room and co-working-style dining lab"
+      ],
+      "facility_summary": {
+        "en": "Full amenity floor including an infinity-style pool, gym, cinema room and communal dining/cooking space.",
+        "zh": "配套楼层齐全，含无边泳池、健身房、影院室及公共餐饮/烹饪空间。",
+        "th": "ชั้นสิ่งอำนวยความสะดวกครบ ทั้งสระว่ายน้ำสไตล์อินฟินิตี้ ฟิตเนส ห้องฉายภาพยนตร์ และพื้นที่ครัว/รับประทานอาหารส่วนกลาง"
+      },
+      "buyer_fit": {
+        "en": "First-time buyers, students, and young professionals near the Ramkhamhaeng university and residential corridor looking for an accessible entry price.",
+        "zh": "适合蓝康恒大学及住宅区周边的首次置业者、学生与年轻专业人士，看重较低的入场价格。",
+        "th": "เหมาะกับผู้ซื้อบ้านหลังแรก นักศึกษา และคนทำงานรุ่นใหม่ในย่านมหาวิทยาลัยและที่พักอาศัยรามคำแหง ที่มองหาราคาเริ่มต้นที่เข้าถึงได้"
+      },
+      "investment_angle": {
+        "en": "Lowest price-per-unit band in this set (from THB 2.9M), with steady rental demand from the nearby university and residential population.",
+        "zh": "是本批次中入场价最低的项目（起价290万泰铢），周边大学及住宅人口带来稳定租赁需求。",
+        "th": "ราคาต่อยูนิตต่ำที่สุดในกลุ่มนี้ (เริ่มต้น 2.9 ล้านบาท) มีดีมานด์เช่าที่มั่นคงจากประชากรมหาวิทยาลัยและที่พักอาศัยโดยรอบ"
+      },
+      "transit_tags": [],
+      "image_requirement": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "image_asset_counts": {
+        "hero": 1,
+        "gallery": 8,
+        "floor_plan": 8
+      },
+      "image_alt_en": "Modiz Rhyme Ramkhamhaeng — AssetWise condominium in Bang Kapi, Bangkok",
+      "image_alt_zh": "Modiz Rhyme 蓝康恒 — 曼谷挽甲必区AssetWise公寓项目",
+      "image_alt_th": "โมดิซ ไรย์ม รามคำแหง — คอนโดแอสเซทไวส์ ย่านบางกะปิ กรุงเทพฯ",
+      "source_status": "verified_official_developer_source",
+      "official_website": "https://assetwise.co.th/en/condominium/modiz-rhyme/",
+      "content_path": "content/projects/modiz-rhyme-ramkhamhaeng/"
+    },
+    {
+      "project_id": "knightsbridge-prime-sathorn",
+      "project_name": {
+        "en": "Knightsbridge Prime Sathorn",
+        "zh": "Knightsbridge Prime 沙吞",
+        "th": "ไนท์บริดจ์ ไพร์ม สาทร"
+      },
+      "developer_name": {
+        "en": "Origin Property",
+        "zh": "奥利金地产",
+        "th": "ออริจิ้น พร็อพเพอร์ตี้"
+      },
+      "developer_id": "origin-property",
+      "area_name": {
+        "en": "Yan Nawa",
+        "zh": "央那瓦",
+        "th": "ยานนาวา"
+      },
+      "area_id": "yan-nawa",
+      "city": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "property_type": "Condominium",
+      "completion_year": 2019,
+      "total_units": 726,
+      "price_display": {
+        "en": "From THB 5.4M (verified listings up to THB 6.8M)",
+        "zh": "起价 5.4 百万泰铢（已核实挂牌价最高至 6.8 百万泰铢）",
+        "th": "เริ่มต้น 5.4 ล้านบาท (ประกาศขายที่ตรวจสอบแล้วสูงสุดถึง 6.8 ล้านบาท)"
+      },
+      "short_summary_en": "An Origin Property tower in the Sathorn/Yan Nawa corridor with dual BTS and MRT access, completed in 2019.",
+      "short_summary_zh": "Origin Property位于沙吞/央那瓦沿线的公寓大楼，2019年完工，同时衔接BTS与MRT。",
+      "short_summary_th": "อาคารชุดของออริจิ้น พร็อพเพอร์ตี้ ย่านสาทร/ยานนาวา สร้างเสร็จปี 2019 เชื่อมต่อทั้ง BTS และ MRT",
+      "key_features": [
+        "726 units across 43 floors",
+        "Dual BTS + MRT transit access",
+        "70% auto-parking ratio",
+        "24-hour security and key-card access control"
+      ],
+      "facility_summary": {
+        "en": "Pool, fitness room, library, jogging track and green park, with 24-hour CCTV and security.",
+        "zh": "配备泳池、健身房、图书室、慢跑道及绿化公园，并设24小时监控与保安。",
+        "th": "มีสระว่ายน้ำ ฟิตเนส ห้องสมุด ลู่วิ่ง และสวนสีเขียว พร้อมกล้องวงจรปิดและระบบรักษาความปลอดภัย 24 ชั่วโมง"
+      },
+      "buyer_fit": {
+        "en": "Professionals and investors wanting Sathorn CBD proximity with the convenience of both BTS and MRT lines.",
+        "zh": "适合希望靠近沙吞中央商务区、并享有BTS与MRT双线便利的专业人士与投资者。",
+        "th": "เหมาะกับคนทำงานและนักลงทุนที่ต้องการอยู่ใกล้ย่านธุรกิจสาทร พร้อมความสะดวกจากทั้งรถไฟฟ้า BTS และ MRT"
+      },
+      "investment_angle": {
+        "en": "Sathorn is an established CBD and expat rental corridor; dual-line transit access supports consistent tenant demand.",
+        "zh": "沙吞是成熟的中央商务区及外籍人士租赁走廊，双线交通有助维持稳定的租客需求。",
+        "th": "สาทรเป็นย่านธุรกิจและตลาดเช่าของชาวต่างชาติที่มั่นคง การเข้าถึงรถไฟฟ้าสองสายช่วยหนุนดีมานด์ผู้เช่าอย่างต่อเนื่อง"
+      },
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "image_requirement": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "image_asset_counts": {
+        "hero": 1,
+        "gallery": 8,
+        "floor_plan": 0
+      },
+      "image_alt_en": "Knightsbridge Prime Sathorn — Origin Property condominium in Yan Nawa, Bangkok",
+      "image_alt_zh": "Knightsbridge Prime 沙吞 — 曼谷央那瓦区奥利金地产公寓项目",
+      "image_alt_th": "ไนท์บริดจ์ ไพร์ม สาทร — คอนโดออริจิ้น พร็อพเพอร์ตี้ ย่านยานนาวา กรุงเทพฯ",
+      "source_status": "verified_official_developer_source",
+      "official_website": "https://en.origin.co.th/condominium/knightsbridge-prime-sathorn/",
+      "content_path": "content/projects/knightsbridge-prime-sathorn/"
+    },
+    {
+      "project_id": "life-asoke-rama-9",
+      "project_name": {
+        "en": "LIFE Asoke Rama 9",
+        "zh": "Life Asoke 拉玛九",
+        "th": "ไลฟ์ อโศก - พระราม 9"
+      },
+      "developer_name": {
+        "en": "AP Thailand",
+        "zh": "AP泰国",
+        "th": "เอพี ไทยแลนด์"
+      },
+      "developer_id": "ap-thailand",
+      "area_name": {
+        "en": "Ratchathewi",
+        "zh": "拉差贴威",
+        "th": "ราชเทวี"
+      },
+      "area_id": "ratchathewi",
+      "city": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "property_type": "Condominium",
+      "completion_year": 2020,
+      "total_units": 2248,
+      "price_display": {
+        "en": "From THB 4.04M (verified listings up to THB 8.5M)",
+        "zh": "起价 4.04 百万泰铢（已核实挂牌价最高至 8.5 百万泰铢）",
+        "th": "เริ่มต้น 4.04 ล้านบาท (ประกาศขายที่ตรวจสอบแล้วสูงสุดถึง 8.5 ล้านบาท)"
+      },
+      "short_summary_en": "A large-scale AP Thailand development completed in 2020 and now sold out, positioned at an MRT Blue Line and Airport Rail Link node.",
+      "short_summary_zh": "AP Thailand大型项目，2020年完工现已售罄，位于MRT蓝线与机场快线交汇处。",
+      "short_summary_th": "โครงการขนาดใหญ่ของเอพี ไทยแลนด์ สร้างเสร็จปี 2020 และขายหมดแล้ว ตั้งอยู่ใกล้จุดเชื่อมต่อ MRT สายสีน้ำเงินและแอร์พอร์ต เรล ลิงก์",
+      "key_features": [
+        "2,248 units across 2 buildings, 42 floors",
+        "MRT Blue Line + Airport Rail Link access",
+        "Sold out at launch",
+        "Panoramic View Active Pool and Sky Garden"
+      ],
+      "facility_summary": {
+        "en": "Panoramic pool, vertical landscaping, elevated relaxation deck and a tranquility sky garden.",
+        "zh": "全景泳池、垂直绿化景观、高层休闲平台及静谧空中花园。",
+        "th": "สระว่ายน้ำวิวพาโนรามา พื้นที่สีเขียวแนวตั้ง ระเบียงพักผ่อนชั้นสูง และสวนลอยฟ้าเพื่อความสงบ"
+      },
+      "buyer_fit": {
+        "en": "Secondary-market buyers seeking a proven, fully sold-out project with multi-line transit access.",
+        "zh": "适合在二手市场寻求已完全售罄、且多线交通便利的成熟项目的买家。",
+        "th": "เหมาะกับผู้ซื้อในตลาดมือสองที่มองหาโครงการที่พิสูจน์แล้วว่าขายหมดและเดินทางสะดวกด้วยรถไฟฟ้าหลายสาย"
+      },
+      "investment_angle": {
+        "en": "Full sell-out at this scale (2,248 units) signals strong original absorption; resale liquidity is supported by MRT + Airport Rail Link connectivity.",
+        "zh": "项目规模达2248套且全部售罄，显示出强劲的去化能力；MRT与机场快线的连通性支撑了二手流动性。",
+        "th": "การขายหมดในระดับ 2,248 ยูนิต สะท้อนความต้องการซื้อที่แข็งแกร่ง การเชื่อมต่อ MRT และแอร์พอร์ต เรล ลิงก์ช่วยหนุนสภาพคล่องตลาดขายต่อ"
+      },
+      "transit_tags": [
+        "mrt",
+        "mrt-blue",
+        "arl"
+      ],
+      "image_requirement": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "image_asset_counts": {
+        "hero": 1,
+        "gallery": 8,
+        "floor_plan": 0
+      },
+      "image_alt_en": "LIFE Asoke Rama 9 — AP Thailand condominium in Ratchathewi, Bangkok",
+      "image_alt_zh": "Life Asoke 拉玛九 — 曼谷拉差贴威区AP泰国公寓项目",
+      "image_alt_th": "ไลฟ์ อโศก - พระราม 9 — คอนโดเอพี ไทยแลนด์ ย่านราชเทวี กรุงเทพฯ",
+      "source_status": "verified_official_developer_source",
+      "official_website": "https://www.apthai.com/en/condominium/life-asoke-rama-9",
+      "content_path": "content/projects/life-asoke-rama-9/"
+    },
+    {
+      "project_id": "life-ladprao",
+      "project_name": {
+        "en": "LIFE Ladprao",
+        "zh": "Life 叻抛",
+        "th": "ไลฟ์ ลาดพร้าว"
+      },
+      "developer_name": {
+        "en": "AP Thailand",
+        "zh": "AP泰国",
+        "th": "เอพี ไทยแลนด์"
+      },
+      "developer_id": "ap-thailand",
+      "area_name": {
+        "en": "Chatuchak",
+        "zh": "乍都乍",
+        "th": "จตุจักร"
+      },
+      "area_id": "chatuchak",
+      "city": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "property_type": "Condominium",
+      "completion_year": 2020,
+      "total_units": 1615,
+      "price_display": {
+        "en": "From THB 3.45M (verified listings up to THB 9.79M)",
+        "zh": "起价 3.45 百万泰铢（已核实挂牌价最高至 9.79 百万泰铢）",
+        "th": "เริ่มต้น 3.45 ล้านบาท (ประกาศขายที่ตรวจสอบแล้วสูงสุดถึง 9.79 ล้านบาท)"
+      },
+      "short_summary_en": "An AP Thailand tower pair near Chatuchak, completed in 2020 and sold out, served by both BTS and MRT.",
+      "short_summary_zh": "AP Thailand位于乍都乍附近的双子塔项目，2020年完工现已售罄，BTS与MRT均可到达。",
+      "short_summary_th": "โครงการอาคารคู่ของเอพี ไทยแลนด์ ใกล้จตุจักร สร้างเสร็จปี 2020 และขายหมดแล้ว เดินทางได้ทั้ง BTS และ MRT",
+      "key_features": [
+        "1,615 units across 2 buildings, 46 floors",
+        "BTS + MRT access",
+        "Sold out at launch",
+        "Skyline-view communal facilities"
+      ],
+      "facility_summary": {
+        "en": "Skyline-view relaxation facilities across a 'platform of success' and leisure-dimension amenity floors.",
+        "zh": "配备天际线景观休闲设施，涵盖多层次的生活与休闲空间。",
+        "th": "สิ่งอำนวยความสะดวกวิวสกายไลน์ พร้อมพื้นที่พักผ่อนหลายระดับ"
+      },
+      "buyer_fit": {
+        "en": "Buyers and families wanting a fully sold-out project near the Chatuchak transit interchange and park/market district.",
+        "zh": "适合希望入住位于乍都乍交通枢纽及公园/市场区域、已售罄项目的买家和家庭。",
+        "th": "เหมาะกับผู้ซื้อและครอบครัวที่ต้องการโครงการที่ขายหมดแล้วใกล้จุดเชื่อมต่อการเดินทางจตุจักรและย่านสวน/ตลาด"
+      },
+      "investment_angle": {
+        "en": "Sold-out status at scale plus dual-line transit near the high-footfall Chatuchak area supports resale and rental demand.",
+        "zh": "大规模售罄叠加双线交通，加上乍都乍区域高人流量，支撑了转售与租赁需求。",
+        "th": "สถานะขายหมดในระดับใหญ่ ผนวกกับรถไฟฟ้าสองสายใกล้ย่านจตุจักรที่มีคนพลุกพล่าน ช่วยหนุนดีมานด์ขายต่อและปล่อยเช่า"
+      },
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "image_requirement": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "image_asset_counts": {
+        "hero": 1,
+        "gallery": 6,
+        "floor_plan": 0
+      },
+      "image_alt_en": "LIFE Ladprao — AP Thailand condominium in Chatuchak, Bangkok",
+      "image_alt_zh": "Life 叻抛 — 曼谷乍都乍区AP泰国公寓项目",
+      "image_alt_th": "ไลฟ์ ลาดพร้าว — คอนโดเอพี ไทยแลนด์ ย่านจตุจักร กรุงเทพฯ",
+      "source_status": "verified_official_developer_source",
+      "official_website": "https://www.apthai.com/en/condominium/life-ladprao",
+      "content_path": "content/projects/life-ladprao/"
+    },
+    {
+      "project_id": "life-one-wireless",
+      "project_name": {
+        "en": "Life One Wireless",
+        "zh": "Life One Wireless",
+        "th": "ไลฟ์ วัน ไวร์เลส"
+      },
+      "developer_name": {
+        "en": "AP Thailand",
+        "zh": "AP泰国",
+        "th": "เอพี ไทยแลนด์"
+      },
+      "developer_id": "ap-thailand",
+      "area_name": {
+        "en": "Pathum Wan",
+        "zh": "巴吞旺",
+        "th": "ปทุมวัน"
+      },
+      "area_id": "pathum-wan",
+      "city": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "property_type": "Condominium",
+      "completion_year": 2020,
+      "total_units": 1344,
+      "price_display": {
+        "en": "From THB 4.49M (verified listings up to THB 15M)",
+        "zh": "起价 4.49 百万泰铢（已核实挂牌价最高至 15 百万泰铢）",
+        "th": "เริ่มต้น 4.49 ล้านบาท (ประกาศขายที่ตรวจสอบแล้วสูงสุดถึง 15 ล้านบาท)"
+      },
+      "short_summary_en": "An AP Thailand condominium on Wireless Road in Pathum Wan, one of Bangkok's most established core-CBD addresses.",
+      "short_summary_zh": "AP Thailand位于巴吞旺Wireless Road（无线电路）的公寓项目，属曼谷最核心的中央商务区地段之一。",
+      "short_summary_th": "คอนโดของเอพี ไทยแลนด์ บนถนนวิทยุ เขตปทุมวัน หนึ่งในทำเลใจกลางเมืองที่มีชื่อเสียงที่สุดของกรุงเทพฯ",
+      "key_features": [
+        "1,344 units",
+        "BTS access",
+        "Wireless Road / Pathum Wan core-CBD location",
+        "Botanic Metropolis landscaping and co-working space"
+      ],
+      "facility_summary": {
+        "en": "Botanic Metropolis gardens, cascade garden, pool deck ('The Vista Deck') and a co-working space.",
+        "zh": "植物园式景观、瀑布花园、泳池平台（The Vista Deck）及共享办公空间。",
+        "th": "สวนคอนเซ็ปต์ Botanic Metropolis สวนน้ำตก เดคสระว่ายน้ำ (The Vista Deck) และพื้นที่ co-working"
+      },
+      "buyer_fit": {
+        "en": "Buyers prioritizing a prestige Wireless Road / Pathum Wan CBD address over unit size.",
+        "zh": "适合看重Wireless Road/巴吞旺核心商务区地段价值、而非单纯户型面积的买家。",
+        "th": "เหมาะกับผู้ซื้อที่ให้ความสำคัญกับทำเลถนนวิทยุ/ปทุมวัน ซึ่งเป็นย่านศักดิ์ศรีใจกลางเมือง มากกว่าขนาดยูนิต"
+      },
+      "investment_angle": {
+        "en": "Wireless Road is one of Bangkok's most prestigious core-CBD addresses, supporting long-term value retention.",
+        "zh": "Wireless Road是曼谷最负盛名的核心商务区地段之一，有助于长期保值。",
+        "th": "ถนนวิทยุเป็นหนึ่งในทำเลใจกลางเมืองที่มีชื่อเสียงที่สุดของกรุงเทพฯ ช่วยหนุนการรักษามูลค่าในระยะยาว"
+      },
+      "transit_tags": [
+        "bts"
+      ],
+      "image_requirement": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "image_asset_counts": {
+        "hero": 1,
+        "gallery": 6,
+        "floor_plan": 0
+      },
+      "image_alt_en": "Life One Wireless — AP Thailand condominium in Pathum Wan, Bangkok",
+      "image_alt_zh": "Life One Wireless — 曼谷巴吞旺区AP泰国公寓项目",
+      "image_alt_th": "ไลฟ์ วัน ไวร์เลส — คอนโดเอพี ไทยแลนด์ ย่านปทุมวัน กรุงเทพฯ",
+      "source_status": "verified_official_developer_source",
+      "official_website": "https://www.apthai.com/en/condominium/life-1-wireless",
+      "content_path": "content/projects/life-one-wireless/"
+    },
+    {
+      "project_id": "rhythm-ekkamai",
+      "project_name": {
+        "en": "Rhythm Ekkamai",
+        "zh": "Rhythm 埃卡迈",
+        "th": "ริทึ่ม เอกมัย"
+      },
+      "developer_name": {
+        "en": "AP Thailand",
+        "zh": "AP泰国",
+        "th": "เอพี ไทยแลนด์"
+      },
+      "developer_id": "ap-thailand",
+      "area_name": {
+        "en": "Watthana",
+        "zh": "瓦他那",
+        "th": "วัฒนา"
+      },
+      "area_id": "watthana",
+      "city": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "property_type": "Condominium",
+      "completion_year": 2018,
+      "total_units": 303,
+      "price_display": {
+        "en": "From THB 4.9M (verified listings up to THB 29M)",
+        "zh": "起价 4.9 百万泰铢（已核实挂牌价最高至 29 百万泰铢）",
+        "th": "เริ่มต้น 4.9 ล้านบาท (ประกาศขายที่ตรวจสอบแล้วสูงสุดถึง 29 ล้านบาท)"
+      },
+      "short_summary_en": "An AP Thailand tower in the Ekkamai lifestyle district, completed 2018, with a unit mix ranging from studios to large 3-bedroom homes.",
+      "short_summary_zh": "AP Thailand位于埃卡迈生活区的公寓大楼，2018年完工，户型涵盖开间至大三房。",
+      "short_summary_th": "อาคารของเอพี ไทยแลนด์ ในย่านไลฟ์สไตล์เอกมัย สร้างเสร็จปี 2018 มีตั้งแต่สตูดิโอถึงยูนิต 3 ห้องนอนขนาดใหญ่",
+      "key_features": [
+        "303 units across 33 floors",
+        "BTS Ekkamai access",
+        "Studio to 3-bedroom, 30-120 sqm",
+        "Infinity pool, floating lobby, sky spa"
+      ],
+      "facility_summary": {
+        "en": "Infinity pool, floating lobby, sky lounge/library, wellness spa and sky garden.",
+        "zh": "无边泳池、悬浮大堂、空中休闲图书区、水疗中心及空中花园。",
+        "th": "สระอินฟินิตี้ ล็อบบี้ลอยตัว สกายเลาจ์/ห้องสมุด สปาเพื่อสุขภาพ และสวนลอยฟ้า"
+      },
+      "buyer_fit": {
+        "en": "Lifestyle-oriented buyers and families wanting larger units in Ekkamai's cafe, dining and nightlife district.",
+        "zh": "适合追求生活方式、需要较大户型、且钟情埃卡迈咖啡馆/餐饮/夜生活区域的买家和家庭。",
+        "th": "เหมาะกับผู้ซื้อสายไลฟ์สไตล์และครอบครัวที่ต้องการยูนิตขนาดใหญ่ในย่านคาเฟ่ ร้านอาหาร และไนท์ไลฟ์เอกมัย"
+      },
+      "investment_angle": {
+        "en": "Ekkamai/Thonglor is a well-established expat and lifestyle rental submarket, supporting demand across the wide unit-size range offered here.",
+        "zh": "埃卡迈/通罗是成熟的外籍人士生活方式租赁子市场，支撑本项目多样户型面积的租赁需求。",
+        "th": "เอกมัย/ทองหล่อเป็นตลาดเช่าไลฟ์สไตล์และชาวต่างชาติที่มั่นคง รองรับดีมานด์สำหรับยูนิตหลากหลายขนาดของโครงการนี้"
+      },
+      "transit_tags": [
+        "bts"
+      ],
+      "image_requirement": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "image_asset_counts": {
+        "hero": 1,
+        "gallery": 8,
+        "floor_plan": 0
+      },
+      "image_alt_en": "Rhythm Ekkamai — AP Thailand condominium in Watthana, Bangkok",
+      "image_alt_zh": "Rhythm 埃卡迈 — 曼谷瓦他那区AP泰国公寓项目",
+      "image_alt_th": "ริทึ่ม เอกมัย — คอนโดเอพี ไทยแลนด์ ย่านวัฒนา กรุงเทพฯ",
+      "source_status": "verified_official_developer_source",
+      "official_website": "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate",
+      "content_path": "content/projects/rhythm-ekkamai/"
+    },
+    {
+      "project_id": "supalai-oriental-sukhumvit-39",
+      "project_name": {
+        "en": "Supalai Oriental Sukhumvit 39",
+        "zh": "苏帕莱东方 素坤逸39",
+        "th": "ศุภาลัย โอเรียนทัล สุขุมวิท 39"
+      },
+      "developer_name": {
+        "en": "Supalai",
+        "zh": "苏帕莱",
+        "th": "ศุภาลัย"
+      },
+      "developer_id": "supalai",
+      "area_name": {
+        "en": "Watthana",
+        "zh": "瓦他那",
+        "th": "วัฒนา"
+      },
+      "area_id": "watthana",
+      "city": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "property_type": "Condominium",
+      "completion_year": 2020,
+      "total_units": 1046,
+      "price_display": {
+        "en": "From THB 10.25M (verified listings up to THB 25M)",
+        "zh": "起价 10.25 百万泰铢（已核实挂牌价最高至 25 百万泰铢）",
+        "th": "เริ่มต้น 10.25 ล้านบาท (ประกาศขายที่ตรวจสอบแล้วสูงสุดถึง 25 ล้านบาท)"
+      },
+      "short_summary_en": "A Supalai development on Sukhumvit 39 near Phrom Phong, completed 2020, spanning four buildings with a premium unit mix.",
+      "short_summary_zh": "Supalai位于素坤逸39路（近彭蓬）的项目，2020年完工，共四栋楼，户型定位高端。",
+      "short_summary_th": "โครงการของศุภาลัย บนสุขุมวิท 39 ใกล้พร้อมพงษ์ สร้างเสร็จปี 2020 มี 4 อาคาร ยูนิตระดับพรีเมียม",
+      "key_features": [
+        "1,046 units across 4 buildings, 35 floors",
+        "BTS + MRT access",
+        "1-3 bedroom layouts up to ~157 sqm",
+        "Sky lounge, co-working space, sauna, kids' pool"
+      ],
+      "facility_summary": {
+        "en": "Sky lounge, co-working space, roof garden, sauna, kids' room and pool, with 24-hour security.",
+        "zh": "空中会所、共享办公区、屋顶花园、桑拿房、儿童房及儿童泳池，配备24小时安保。",
+        "th": "สกายเลาจ์ พื้นที่ co-working สวนบนดาดฟ้า ห้องซาวน่า ห้องเด็กและสระเด็ก พร้อมระบบรักษาความปลอดภัย 24 ชั่วโมง"
+      },
+      "buyer_fit": {
+        "en": "Buyers seeking a premium Sukhumvit 39 / Phrom Phong address with dual BTS and MRT access.",
+        "zh": "适合寻求素坤逸39/彭蓬高端地段、并享有BTS与MRT双线交通的买家。",
+        "th": "เหมาะกับผู้ซื้อที่มองหาทำเลระดับพรีเมียมสุขุมวิท 39/พร้อมพงษ์ พร้อมการเดินทางด้วยรถไฟฟ้าทั้ง BTS และ MRT"
+      },
+      "investment_angle": {
+        "en": "Phrom Phong / Sukhumvit 39 is one of Bangkok's most liquid prime rental corridors for the expat market.",
+        "zh": "彭蓬/素坤逸39是曼谷面向外籍租客最具流动性的高端租赁走廊之一。",
+        "th": "พร้อมพงษ์/สุขุมวิท 39 เป็นหนึ่งในทำเลปล่อยเช่าระดับพรีเมียมที่มีสภาพคล่องสูงสุดสำหรับตลาดชาวต่างชาติ"
+      },
+      "transit_tags": [
+        "bts",
+        "mrt"
+      ],
+      "image_requirement": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "image_asset_counts": {
+        "hero": 1,
+        "gallery": 8,
+        "floor_plan": 0
+      },
+      "image_alt_en": "Supalai Oriental Sukhumvit 39 — Supalai condominium in Watthana, Bangkok",
+      "image_alt_zh": "苏帕莱东方 素坤逸39 — 曼谷瓦他那区苏帕莱公寓项目",
+      "image_alt_th": "ศุภาลัย โอเรียนทัล สุขุมวิท 39 — คอนโดศุภาลัย ย่านวัฒนา กรุงเทพฯ",
+      "source_status": "verified_official_developer_source",
+      "official_website": "https://www.supalai.com/en/project/condo/supalai-oriental-sukhumvit-39",
+      "content_path": "content/projects/supalai-oriental-sukhumvit-39/"
+    },
+    {
+      "project_id": "the-line-sukhumvit-101",
+      "project_name": {
+        "en": "THE LINE Sukhumvit 101",
+        "zh": "THE LINE 素坤逸101",
+        "th": "เดอะ ไลน์ สุขุมวิท 101"
+      },
+      "developer_name": {
+        "en": "Sansiri",
+        "zh": "尚思瑞",
+        "th": "แสนสิริ"
+      },
+      "developer_id": "sansiri",
+      "area_name": {
+        "en": "Phra Khanong",
+        "zh": "帕卡农",
+        "th": "พระโขนง"
+      },
+      "area_id": "phra-khanong",
+      "city": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "property_type": "Condominium",
+      "completion_year": 2020,
+      "total_units": 778,
+      "price_display": {
+        "en": "From THB 3.31M (verified listings up to THB 7M)",
+        "zh": "起价 3.31 百万泰铢（已核实挂牌价最高至 7 百万泰铢）",
+        "th": "เริ่มต้น 3.31 ล้านบาท (ประกาศขายที่ตรวจสอบแล้วสูงสุดถึง 7 ล้านบาท)"
+      },
+      "short_summary_en": "A Sansiri tower in Phra Khanong / On Nut, completed 2020, offering accessible entry pricing on the BTS Sukhumvit line.",
+      "short_summary_zh": "Sansiri位于帕卡农/翁那（On Nut）的公寓，2020年完工，处于BTS素坤逸线，入场价格相对亲民。",
+      "short_summary_th": "อาคารของแสนสิริ ย่านพระโขนง/อ่อนนุช สร้างเสร็จปี 2020 อยู่บนแนวรถไฟฟ้า BTS สายสุขุมวิท ราคาเริ่มต้นเข้าถึงได้",
+      "key_features": [
+        "778 units across 37 floors",
+        "BTS access",
+        "1-2 bedroom, 27-64 sqm",
+        "Pool, fitness, jogging lane, library"
+      ],
+      "facility_summary": {
+        "en": "Fitness room, swimming pool, jogging lane, lounge, library and communal park/garden.",
+        "zh": "健身房、泳池、慢跑道、休闲区、图书室及公共公园/花园。",
+        "th": "ห้องฟิตเนส สระว่ายน้ำ ลู่วิ่ง เลาจ์ ห้องสมุด และสวน/พื้นที่สีเขียวส่วนกลาง"
+      },
+      "buyer_fit": {
+        "en": "Young professionals and investors wanting BTS access on the Sukhumvit line at a lower entry price than the Thonglor/Asoke core.",
+        "zh": "适合希望享有BTS素坤逸线交通、但入场价低于通罗/阿速谷核心区的年轻专业人士和投资者。",
+        "th": "เหมาะกับคนทำงานรุ่นใหม่และนักลงทุนที่ต้องการเดินทางด้วย BTS สายสุขุมวิท ในราคาเริ่มต้นที่ต่ำกว่าย่านทองหล่อ/อโศก"
+      },
+      "investment_angle": {
+        "en": "On Nut / Phra Khanong is an emerging rental corridor benefiting from Sukhumvit spillover demand at a lower price point.",
+        "zh": "翁那/帕卡农是受益于素坤逸核心区外溢需求的新兴租赁走廊，价格更具优势。",
+        "th": "อ่อนนุช/พระโขนงเป็นย่านเช่าที่กำลังเติบโต ได้อานิสงส์จากดีมานด์ล้นจากสุขุมวิทตอนกลางในราคาที่ต่ำกว่า"
+      },
+      "transit_tags": [
+        "bts"
+      ],
+      "image_requirement": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "image_asset_counts": {
+        "hero": 1,
+        "gallery": 8,
+        "floor_plan": 0
+      },
+      "image_alt_en": "THE LINE Sukhumvit 101 — Sansiri condominium in Phra Khanong, Bangkok",
+      "image_alt_zh": "THE LINE 素坤逸101 — 曼谷帕卡农区尚思瑞公寓项目",
+      "image_alt_th": "เดอะ ไลน์ สุขุมวิท 101 — คอนโดแสนสิริ ย่านพระโขนง กรุงเทพฯ",
+      "source_status": "verified_official_developer_source",
+      "official_website": "https://www.sansiri.com/en/condominium/theline-sukhumvit101/",
+      "content_path": "content/projects/the-line-sukhumvit-101/"
+    },
+    {
+      "project_id": "whizdom-essence",
+      "project_name": {
+        "en": "Whizdom Essence Sukhumvit",
+        "zh": "Whizdom Essence",
+        "th": "วิซดอม เอสเซนส์"
+      },
+      "developer_name": {
+        "en": "MQDC",
+        "zh": "MQDC",
+        "th": "แมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น"
+      },
+      "developer_id": "mqdc",
+      "area_name": {
+        "en": "Phra Khanong",
+        "zh": "帕卡农",
+        "th": "พระโขนง"
+      },
+      "area_id": "phra-khanong",
+      "city": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "property_type": "Condominium",
+      "completion_year": 2019,
+      "total_units": 664,
+      "price_display": {
+        "en": "From THB 5.07M (verified listings up to THB 48.5M)",
+        "zh": "起价 5.07 百万泰铢（已核实挂牌价最高至 48.5 百万泰铢）",
+        "th": "เริ่มต้น 5.07 ล้านบาท (ประกาศขายที่ตรวจสอบแล้วสูงสุดถึง 48.5 ล้านบาท)"
+      },
+      "short_summary_en": "An MQDC transit-oriented development near BTS On Nut, completed 2019, with the widest unit range in this set — from 1 to 4 bedrooms.",
+      "short_summary_zh": "MQDC位于BTS翁那站附近的TOD项目，2019年完工，是本批次户型跨度最大的项目，涵盖一至四房。",
+      "short_summary_th": "โครงการแนวรถไฟฟ้า (TOD) ของ MQDC ใกล้ BTS อ่อนนุช สร้างเสร็จปี 2019 มีช่วงขนาดยูนิตกว้างที่สุดในกลุ่มนี้ ตั้งแต่ 1-4 ห้องนอน",
+      "key_features": [
+        "664 units, 50 floors",
+        "BTS access",
+        "1-4 bedroom, 33.7-202.46 sqm",
+        "2-rai ground park, Olympic-size pool"
+      ],
+      "facility_summary": {
+        "en": "2-rai ground-level park, jogging/bicycle track, Olympic-standard pool, kids' pool and jacuzzi, business lounge library.",
+        "zh": "地面2莱公园、慢跑/自行车道、奥运标准泳池、儿童泳池及按摩浴缸、商务休闲图书区。",
+        "th": "สวนระดับพื้นดิน 2 ไร่ ลู่วิ่ง/ปั่นจักรยาน สระว่ายน้ำมาตรฐานโอลิมปิก สระเด็กและจากุซซี่ พื้นที่ห้องสมุดสำหรับธุรกิจ"
+      },
+      "buyer_fit": {
+        "en": "Families and larger-unit buyers wanting resort-style amenities and BTS access, alongside investors targeting the compact end of the mix.",
+        "zh": "适合追求度假式配套及BTS交通的家庭和大户型买家，也适合瞄准小户型的投资者。",
+        "th": "เหมาะกับครอบครัวและผู้ซื้อยูนิตขนาดใหญ่ที่ต้องการสิ่งอำนวยความสะดวกสไตล์รีสอร์ทพร้อมการเดินทางด้วย BTS รวมถึงนักลงทุนที่เล็งยูนิตขนาดกะทัดรัด"
+      },
+      "investment_angle": {
+        "en": "The widest unit-size range in this set (33.7-202.46 sqm) lets the same address serve both entry-level rental investment and end-user family demand.",
+        "zh": "本项目户型面积跨度在本批次中最大（33.7至202.46平方米），同一地段可同时满足入门级租赁投资与自住家庭需求。",
+        "th": "ช่วงขนาดยูนิตที่กว้างที่สุดในกลุ่มนี้ (33.7-202.46 ตร.ม.) ทำให้ทำเลเดียวรองรับได้ทั้งการลงทุนปล่อยเช่าระดับเริ่มต้นและความต้องการของครอบครัวที่อยู่อาศัยจริง"
+      },
+      "transit_tags": [
+        "bts"
+      ],
+      "image_requirement": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "image_asset_counts": {
+        "hero": 1,
+        "gallery": 8,
+        "floor_plan": 0
+      },
+      "image_alt_en": "Whizdom Essence Sukhumvit — MQDC condominium in Phra Khanong, Bangkok",
+      "image_alt_zh": "Whizdom Essence — 曼谷帕卡农区MQDC公寓项目",
+      "image_alt_th": "วิซดอม เอสเซนส์ — คอนโดแมกโนเลีย ควอลิตี้ ดีเวล็อปเม้นต์ คอร์ปอเรชั่น ย่านพระโขนง กรุงเทพฯ",
+      "source_status": "verified_official_developer_source",
+      "official_website": "https://mqdc.com/whizdom-essence-sukhumvit",
+      "content_path": "content/projects/whizdom-essence/"
+    },
+    {
+      "project_id": "xt-huai-khwang",
+      "project_name": {
+        "en": "XT Huaikwang",
+        "zh": "XT 辉煌",
+        "th": "เอ็กซ์ที ห้วยขวาง"
+      },
+      "developer_name": {
+        "en": "Sansiri",
+        "zh": "尚思瑞",
+        "th": "แสนสิริ"
+      },
+      "developer_id": "sansiri",
+      "area_name": {
+        "en": "Huai Khwang",
+        "zh": "辉煌",
+        "th": "ห้วยขวาง"
+      },
+      "area_id": "huai-khwang",
+      "city": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "property_type": "Condominium",
+      "completion_year": 2021,
+      "total_units": 1405,
+      "price_display": {
+        "en": "From THB 3.5M (verified listings up to THB 9.98M)",
+        "zh": "起价 3.5 百万泰铢（已核实挂牌价最高至 9.98 百万泰铢）",
+        "th": "เริ่มต้น 3.5 ล้านบาท (ประกาศขายที่ตรวจสอบแล้วสูงสุดถึง 9.98 ล้านบาท)"
+      },
+      "short_summary_en": "A Sansiri tower pair on the MRT Blue Line in Huai Khwang, completed 2021, in one of Bangkok's fast-growing dining and nightlife districts.",
+      "short_summary_zh": "Sansiri位于MRT蓝线辉煌区的双塔项目，2021年完工，地处曼谷发展迅速的餐饮夜生活区域。",
+      "short_summary_th": "โครงการอาคารคู่ของแสนสิริ บนแนว MRT สายสีน้ำเงิน ย่านห้วยขวาง สร้างเสร็จปี 2021 อยู่ในย่านอาหารและไนท์ไลฟ์ที่กำลังเติบโตของกรุงเทพฯ",
+      "key_features": [
+        "1,405 units across 2 buildings, 43 floors",
+        "MRT Blue Line access",
+        "1-2 bedroom, 28.18-59.15 sqm",
+        "Game room, yoga, steam room, bike park"
+      ],
+      "facility_summary": {
+        "en": "Park/garden, game room, yoga and fitness studios, steam room, jogging lane, playground and bike park.",
+        "zh": "公园/花园、游戏室、瑜伽及健身室、蒸汽房、慢跑道、儿童游乐场及自行车停放区。",
+        "th": "สวน ห้องเกม สตูดิโอโยคะและฟิตเนส ห้องอบไอน้ำ ลู่วิ่ง สนามเด็กเล่น และที่จอดจักรยาน"
+      },
+      "buyer_fit": {
+        "en": "Buyers wanting an MRT-linked Huai Khwang / Ratchada address at pricing below the Sukhumvit core.",
+        "zh": "适合希望获得MRT辉煌/拉差达地段交通便利、且价格低于素坤逸核心区的买家。",
+        "th": "เหมาะกับผู้ซื้อที่ต้องการทำเลห้วยขวาง/รัชดาที่เชื่อมต่อ MRT ในราคาที่ต่ำกว่าย่านสุขุมวิทตอนกลาง"
+      },
+      "investment_angle": {
+        "en": "Huai Khwang / Ratchada is a growing MRT-anchored dining and nightlife district popular with both young Thai and expat tenants.",
+        "zh": "辉煌/拉差达是以MRT为核心、持续成长的餐饮夜生活区，深受泰国年轻人及外籍租客欢迎。",
+        "th": "ห้วยขวาง/รัชดาเป็นย่านอาหารและไนท์ไลฟ์ที่เติบโตตามแนว MRT ได้รับความนิยมจากทั้งคนไทยรุ่นใหม่และผู้เช่าชาวต่างชาติ"
+      },
+      "transit_tags": [
+        "mrt",
+        "mrt-blue"
+      ],
+      "image_requirement": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "image_asset_counts": {
+        "hero": 1,
+        "gallery": 8,
+        "floor_plan": 0
+      },
+      "image_alt_en": "XT Huaikwang — Sansiri condominium in Huai Khwang, Bangkok",
+      "image_alt_zh": "XT 辉煌 — 曼谷辉煌区尚思瑞公寓项目",
+      "image_alt_th": "เอ็กซ์ที ห้วยขวาง — คอนโดแสนสิริ ย่านห้วยขวาง กรุงเทพฯ",
+      "source_status": "verified_official_developer_source",
+      "official_website": "https://www.sansiri.com/en/condominium/xt-huaikhwang/",
+      "content_path": "content/projects/xt-huai-khwang/"
+    },
+    {
+      "project_id": "xt-phayathai",
+      "project_name": {
+        "en": "XT Phayathai",
+        "zh": "XT 帕亚泰",
+        "th": "เอ็กซ์ที พญาไท"
+      },
+      "developer_name": {
+        "en": "Sansiri",
+        "zh": "尚思瑞",
+        "th": "แสนสิริ"
+      },
+      "developer_id": "sansiri",
+      "area_name": {
+        "en": "Ratchathewi",
+        "zh": "拉差提威",
+        "th": "ราชเทวี"
+      },
+      "area_id": "ratchathewi",
+      "city": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "property_type": "Condominium",
+      "completion_year": 2023,
+      "total_units": 1435,
+      "price_display": {
+        "en": "From THB 4.99M (verified listings up to THB 17M)",
+        "zh": "起价 4.99 百万泰铢（已核实挂牌价最高至 17 百万泰铢）",
+        "th": "เริ่มต้น 4.99 ล้านบาท (ประกาศขายที่ตรวจสอบแล้วสูงสุดถึง 17 ล้านบาท)"
+      },
+      "short_summary_en": "Sansiri's newest project in this set, completed 2023, at the Phayathai/Ratchathewi BTS and Airport Rail Link interchange.",
+      "short_summary_zh": "Sansiri本批次中最新的项目，2023年完工，位于帕亚泰/拉差提威BTS与机场快线换乘点。",
+      "short_summary_th": "โครงการที่สร้างเสร็จล่าสุดของแสนสิริในกลุ่มนี้ ปี 2023 ตั้งอยู่ที่จุดเชื่อมต่อ BTS และแอร์พอร์ต เรล ลิงก์ พญาไท/ราชเทวี",
+      "key_features": [
+        "1,435 units across 2 buildings, 41 floors",
+        "BTS + Airport Rail Link interchange",
+        "1-3 bedroom, 33.75-100 sqm",
+        "EV charger, shuttle bus, Sansiri Family Club"
+      ],
+      "facility_summary": {
+        "en": "Lounge, fitness, co-kitchen, library, park, EV charger, shuttle bus service and the Sansiri Family Club.",
+        "zh": "休闲厅、健身房、共享厨房、图书室、公园、电动车充电桩、接驳巴士及Sansiri Family Club家庭俱乐部。",
+        "th": "เลาจ์ ฟิตเนส ครัวส่วนกลาง ห้องสมุด สวน จุดชาร์จรถ EV รถรับส่ง และ Sansiri Family Club"
+      },
+      "buyer_fit": {
+        "en": "Buyers wanting a newer-build unit (2023) with family-oriented amenities near a dual BTS + Airport Rail Link interchange.",
+        "zh": "适合希望入住较新落成单位（2023年）、看重家庭配套、且靠近BTS与机场快线双线换乘点的买家。",
+        "th": "เหมาะกับผู้ซื้อที่ต้องการยูนิตสร้างใหม่ (ปี 2023) พร้อมสิ่งอำนวยความสะดวกสำหรับครอบครัว ใกล้จุดเชื่อมต่อ BTS และแอร์พอร์ต เรล ลิงก์"
+      },
+      "investment_angle": {
+        "en": "Dual BTS + Airport Rail Link connectivity at Phayathai supports both local commuter and airport-linked tenant demand.",
+        "zh": "帕亚泰的BTS与机场快线双重连通性，同时支撑本地通勤及机场往返相关的租客需求。",
+        "th": "การเชื่อมต่อ BTS และแอร์พอร์ต เรล ลิงก์ ที่พญาไท ช่วยหนุนดีมานด์ผู้เช่าทั้งกลุ่มเดินทางในเมืองและกลุ่มที่เชื่อมต่อสนามบิน"
+      },
+      "transit_tags": [
+        "bts",
+        "arl"
+      ],
+      "image_requirement": "APPROVED_LOCAL_ASSET_AVAILABLE",
+      "image_asset_counts": {
+        "hero": 1,
+        "gallery": 8,
+        "floor_plan": 0
+      },
+      "image_alt_en": "XT Phayathai — Sansiri condominium in Ratchathewi, Bangkok",
+      "image_alt_zh": "XT 帕亚泰 — 曼谷拉差提威区尚思瑞公寓项目",
+      "image_alt_th": "เอ็กซ์ที พญาไท — คอนโดแสนสิริ ย่านราชเทวี กรุงเทพฯ",
+      "source_status": "verified_official_developer_source",
+      "official_website": "https://www.sansiri.com/en/condominium/xt-phayathai/",
+      "content_path": "content/projects/xt-phayathai/"
+    },
+    {
+      "project_id": "the-livin-ramkhamhaeng",
+      "project_name": {
+        "en": "The Livin Ramkhamhaeng",
+        "zh": "The Livin Ramkhamhaeng（德利温·蓝康恒）",
+        "th": "เดอะ ลิฟวิ่น รามคำแหง"
+      },
+      "developer_name": {
+        "en": "RISLAND Thailand",
+        "zh": "瑞思兰泰国（RISLAND Thailand）",
+        "th": "ริสแลนด์ ประเทศไทย"
+      },
+      "developer_id": "risland-thailand",
+      "area_name": {
+        "en": "Hua Mak, Bang Kapi",
+        "zh": "华目（Hua Mak），挽甲必",
+        "th": "หัวหมาก บางกะปิ"
+      },
+      "area_id": "bang-kapi",
+      "city": {
+        "en": "Bangkok",
+        "zh": "曼谷",
+        "th": "กรุงเทพมหานคร"
+      },
+      "property_type": "Condominium",
+      "completion_year": 2024,
+      "total_units": 1938,
+      "price_display": {
+        "en": "From THB 1.9M (verified listings up to THB 6.31M)",
+        "zh": "起价 1.9 百万泰铢（已核实挂牌价最高至 6.31 百万泰铢）",
+        "th": "เริ่มต้น 1.9 ล้านบาท (ประกาศขายที่ตรวจสอบแล้วสูงสุดถึง 6.31 ล้านบาท)"
+      },
+      "short_summary_en": "RISLAND Thailand's newest project in this set, completed 2024, at the Lam Sali multi-line MRT interchange with the lowest entry price of the twelve.",
+      "short_summary_zh": "RISLAND Thailand本批次中最新完工的项目（2024年），位于兰萨利多线MRT换乘点，是十二个项目中入场价最低的一个。",
+      "short_summary_th": "โครงการที่สร้างเสร็จล่าสุดของริสแลนด์ ประเทศไทย ในกลุ่มนี้ (ปี 2024) ที่จุดเชื่อมต่อ MRT หลายสายแยกลำสาลี ราคาเริ่มต้นต่ำที่สุดในสิบสองโครงการ",
+      "key_features": [
+        "1,938 units, 42 floors",
+        "MRT Orange + Yellow Line interchange (Lam Sali)",
+        "1-2 bedroom, 22-56.24 sqm",
+        "Lowest entry price in this featured set"
+      ],
+      "facility_summary": {
+        "en": "Livin Park lobby, edge lap pool, gym, kids' zone, co-working space, meeting room, roof garden and jogging track.",
+        "zh": "Livin Park大堂、边缘泳池、健身房、儿童活动区、共享办公空间、会议室、屋顶花园及慢跑道。",
+        "th": "ล็อบบี้ Livin Park สระว่ายน้ำเอดจ์ ฟิตเนส โซนเด็ก พื้นที่ co-working ห้องประชุม สวนดาดฟ้า และลู่วิ่ง"
+      },
+      "buyer_fit": {
+        "en": "First-time buyers and investors seeking the most accessible entry price in this set, near a converging multi-line MRT interchange.",
+        "zh": "适合寻求本批次中最易入手价格、并看好多线MRT交汇枢纽潜力的首次置业者与投资者。",
+        "th": "เหมาะกับผู้ซื้อบ้านหลังแรกและนักลงทุนที่มองหาราคาเริ่มต้นที่เข้าถึงง่ายที่สุดในกลุ่มนี้ ใกล้จุดเชื่อมต่อ MRT หลายสายที่กำลังก่อตัว"
+      },
+      "investment_angle": {
+        "en": "Entry price (from THB 1.9M) is the lowest among the twelve; Lam Sali is developing into a multi-line MRT interchange (Orange, Yellow, and a planned Brown Line).",
+        "zh": "起价190万泰铢，是十二个项目中最低；兰萨利正发展为多线MRT换乘枢纽（橙线、黄线，以及规划中的棕线）。",
+        "th": "ราคาเริ่มต้น 1.9 ล้านบาท ต่ำที่สุดในสิบสองโครงการ แยกลำสาลีกำลังพัฒนาเป็นจุดเชื่อมต่อ MRT หลายสาย (สีส้ม สีเหลือง และสีน้ำตาลที่วางแผนไว้)"
+      },
+      "transit_tags": [
+        "mrt",
+        "mrt-orange",
+        "mrt-yellow",
+        "mrt-brown-planned"
+      ],
+      "image_requirement": "PLACEHOLDER_REQUIRED",
+      "image_asset_counts": {
+        "hero": 0,
+        "gallery": 0,
+        "floor_plan": 0
+      },
+      "image_alt_en": "The Livin Ramkhamhaeng — RISLAND Thailand condominium in Hua Mak, Bang Kapi, Bangkok",
+      "image_alt_zh": "The Livin Ramkhamhaeng（德利温·蓝康恒） — 曼谷华目（Hua Mak），挽甲必区瑞思兰泰国（RISLAND Thailand）公寓项目",
+      "image_alt_th": "เดอะ ลิฟวิ่น รามคำแหง — คอนโดริสแลนด์ ประเทศไทย ย่านหัวหมาก บางกะปิ กรุงเทพฯ",
+      "source_status": "verified_official_developer_source",
+      "official_website": "https://www.livinram.com/en",
+      "content_path": "content/projects/the-livin-ramkhamhaeng/"
+    }
+  ]
+}

@@ -114,7 +114,38 @@ try {
   throw new Error(`[env-isolation] build blocked: ${message}`);
 }
 
+/**
+ * Immutable build identity — baked into the server bundle at `next build`.
+ * Explicit env wins for manual CLI deploys without Git metadata.
+ */
+function firstNonEmpty(...values: Array<string | undefined>): string {
+  for (const value of values) {
+    const trimmed = (value || "").trim();
+    if (trimmed) return trimmed;
+  }
+  return "";
+}
+
+const bakedBuildCommitSha = firstNonEmpty(
+  process.env.BUILD_COMMIT_SHA,
+  process.env.GIT_COMMIT_SHA,
+  process.env.VERCEL_GIT_COMMIT_SHA,
+  process.env.GITHUB_SHA,
+);
+const bakedBuildTime = firstNonEmpty(
+  process.env.BUILD_TIME,
+  new Date().toISOString(),
+);
+// Keep in sync with package.json "version" when BUILD_VERSION is unset.
+const bakedBuildVersion = firstNonEmpty(process.env.BUILD_VERSION, "0.1.0");
+
 const nextConfig: NextConfig = {
+  // Inlined at build time so `next start` retains identity without Git.
+  env: {
+    BUILD_COMMIT_SHA: bakedBuildCommitSha,
+    BUILD_TIME: bakedBuildTime,
+    BUILD_VERSION: bakedBuildVersion,
+  },
   images: {
     remotePatterns: [
       {
