@@ -13,6 +13,7 @@ import { countActiveListingFilters } from "../src/lib/search/listing-search-stat
 
 const root = process.cwd();
 const FILTERS = "src/components/listings/listing-filters.tsx";
+const FILTER_OPTIONS = "src/lib/search/listing-filter-options.ts";
 const PROPERTIES = "src/app/[lang]/properties/page.tsx";
 
 function read(rel) {
@@ -66,14 +67,17 @@ check("filters:dependent district cleared when city mismatches", () => {
     "",
   );
 
+  const options = read(FILTER_OPTIONS);
+  assert.ok(options.includes("export function resolveDistrictForCity"));
   const src = read(FILTERS);
-  assert.ok(src.includes("export function resolveDistrictForCity"));
+  assert.ok(src.includes("@/lib/search/listing-filter-options"));
   assert.ok(src.includes("setDistrict((prev) =>"));
   assert.ok(src.includes("resolveDistrictForCity(nextCity, prev, districts)"));
 });
 
 check("filters:properties page sanitizes mismatched district before query", () => {
   const src = read(PROPERTIES);
+  assert.ok(src.includes("@/lib/search/listing-filter-options"));
   assert.ok(src.includes("resolveDistrictForCity"));
   assert.ok(src.includes("safeDistrict"));
   assert.ok(src.includes("district: safeDistrict || undefined"));

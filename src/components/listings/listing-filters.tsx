@@ -25,17 +25,16 @@ import { trackListingFilterApply } from "@/lib/analytics";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { localePath } from "@/lib/i18n/metadata";
 import {
+  resolveDistrictForCity,
+  type SlimNamedOption,
+} from "@/lib/search/listing-filter-options";
+import {
   countActiveListingFilters,
   type ListingSearchState,
 } from "@/lib/search/listing-search-state";
 import { cn } from "@/lib/utils";
 
-export type SlimNamedOption = {
-  id: string;
-  slug: string;
-  name: Record<Locale, string>;
-  citySlug?: string;
-};
+export type { SlimNamedOption };
 
 export type ListingFilterFormValues = {
   sort?: string;
@@ -98,19 +97,6 @@ function onFilterFormSubmit(
     if (value && value !== "all") keys.push(key);
   }
   trackListingFilterApply(locale, keys);
-}
-
-/** Drop district values that do not belong to the selected city. */
-export function resolveDistrictForCity(
-  city: string,
-  district: string,
-  districts: SlimNamedOption[],
-): string {
-  if (!district) return "";
-  const match = districts.find((item) => item.slug === district);
-  if (!match) return "";
-  if (city && match.citySlug && match.citySlug !== city) return "";
-  return district;
 }
 
 function districtsForCity(

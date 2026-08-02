@@ -12,6 +12,7 @@ import {
   PlatformCustomerSuccess,
 } from "@/components/marketplace/contact-blocks";
 import { ProjectLeadForm } from "@/components/projects/project-lead-form";
+import { ListingGallery } from "@/components/property/listing-gallery";
 import { ListingMediaFrame } from "@/components/property/listing-media-frame";
 import { PropertyGrid } from "@/components/property/property-grid";
 import { JsonLd } from "@/components/seo/json-ld";
@@ -38,6 +39,10 @@ import {
   fillTemplate,
   localePath,
 } from "@/lib/i18n/metadata";
+import {
+  getProjectLocalMedia,
+  resolveProjectHeroSrc,
+} from "@/lib/projects/local-media";
 import {
   evidenceClassFor,
   evidenceLabelKey,
@@ -366,8 +371,21 @@ export default async function ProjectLandingPage({
     .filter((item) => item.slug !== project.slug)
     .slice(0, 4);
 
-  const showOfficialMedia =
-    hasOfficialGallery(evidence) && Boolean(project.heroImagePath);
+  const projectTitle = project.name[locale] || project.name.en;
+  const heroSrc = resolveProjectHeroSrc(
+    project.slug,
+    projectTitle,
+    project.heroImagePath,
+  );
+  const localMedia = getProjectLocalMedia(project.slug, projectTitle);
+  // Gallery always renders: approved photos when present, safe placeholder otherwise.
+  const galleryImages =
+    localMedia.gallery.length > 0
+      ? localMedia.gallery
+      : heroSrc
+        ? [{ url: heroSrc, alt: projectTitle }]
+        : [];
+  const showHeroPhoto = Boolean(heroSrc);
 
   const districtLabel =
     project.districtName[locale] ||
@@ -445,8 +463,8 @@ export default async function ProjectLandingPage({
         : null;
 
   const visibleFaqs = visibleProjectFaqs(locale, project.faq);
-  const projectTitle = project.name[locale] || project.name.en;
   const sectionLinks: Array<{ id: string; label: string }> = [
+    { id: "gallery", label: dict.property.gallery },
     { id: "overview", label: pl.specs },
     { id: "units", label: pl.unitTypes },
     { id: "listings", label: pl.listings },
@@ -728,11 +746,11 @@ export default async function ProjectLandingPage({
             </div>
           </div>
           <div className="overflow-hidden rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white">
-            {showOfficialMedia ? (
+            {showHeroPhoto ? (
               <div className="relative aspect-[16/10]">
                 <Image
-                  src={project.heroImagePath!}
-                  alt={project.name[locale] || project.name.en}
+                  src={heroSrc!}
+                  alt={projectTitle}
                   fill
                   sizes="(max-width: 1024px) 100vw, 560px"
                   className="object-cover"
@@ -775,6 +793,33 @@ export default async function ProjectLandingPage({
 
       <div className="mx-auto grid max-w-6xl gap-12 px-4 py-12 sm:px-6 lg:grid-cols-[1.4fr_0.8fr]">
         <div className="space-y-12">
+          {/* Gallery — always present; placeholder when no approved photos */}
+          <section
+            id="gallery"
+            className="scroll-mt-24 space-y-4"
+            aria-labelledby="gallery-heading"
+            data-slot="project-gallery"
+          >
+            <h2
+              id="gallery-heading"
+              className="ds-h2 text-2xl sm:text-3xl"
+            >
+              {dict.property.gallery}
+            </h2>
+            <ListingGallery
+              locale={locale}
+              dict={dict}
+              title={projectTitle}
+              propertyType="condo"
+              images={galleryImages}
+              imageSource={
+                hasOfficialGallery(evidence)
+                  ? dict.common.imageSource
+                  : null
+              }
+            />
+          </section>
+
           {/* 2. Key project facts */}
           <section
             id="overview"

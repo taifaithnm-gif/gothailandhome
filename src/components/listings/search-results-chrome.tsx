@@ -1,10 +1,10 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
 
-import type { SlimNamedOption } from "@/components/listings/listing-filters";
 import type { Locale } from "@/config/locales";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { propertyTypeLabel } from "@/lib/i18n/metadata";
+import type { SlimNamedOption } from "@/lib/search/listing-filter-options";
 import {
   countActiveListingFilters,
   type ListingSearchSort,

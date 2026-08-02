@@ -2,10 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { PageShell } from "@/components/layout/page-shell";
-import {
-  ListingFilters,
-  resolveDistrictForCity,
-} from "@/components/listings/listing-filters";
+import { ListingFilters } from "@/components/listings/listing-filters";
 import { ListingPagination } from "@/components/listings/listing-pagination";
 import { ListingResultsRegion } from "@/components/listings/listing-results-region";
 import {
@@ -27,6 +24,7 @@ import {
 } from "@/lib/data/properties";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
+import { resolveDistrictForCity } from "@/lib/search/listing-filter-options";
 import {
   listingSearchToQueryRecord,
   parseListingSearchParams,
