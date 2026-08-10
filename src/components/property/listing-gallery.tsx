@@ -100,7 +100,6 @@ export function ListingGallery({
           imageUrl={active?.url ?? null}
           imageSource={imageSource}
           priority
-          showSource={Boolean(active?.url && imageSource)}
           sizes="(max-width: 1024px) 100vw, 58vw"
           className="aspect-[16/10] min-h-[14rem] sm:min-h-[18rem]"
         />
@@ -131,7 +130,7 @@ export function ListingGallery({
               >
                 {failedThumbnails.has(image.url) ? (
                   <NoImagePlaceholder
-                    label={dict.common.imagesUnavailable}
+                    label={title}
                     propertyType={propertyType}
                     compact
                     decorative
@@ -139,7 +138,7 @@ export function ListingGallery({
                 ) : (
                   <Image
                     src={image.url}
-                    alt=""
+                    alt={`${title} — photo ${i + 1}`}
                     width={112}
                     height={70}
                     sizes="112px"

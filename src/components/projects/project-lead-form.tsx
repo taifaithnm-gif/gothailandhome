@@ -7,6 +7,7 @@ import {
   submitProjectLead,
   type LeadFormState,
 } from "@/app/[lang]/projects/actions";
+import { FormAssurance } from "@/components/marketplace/form-assurance";
 import { Button } from "@/components/ui/button";
 import { Field, FieldLabel, Input, Textarea } from "@/components/ui/field";
 import type { Locale } from "@/config/locales";
@@ -125,6 +126,8 @@ export function ProjectLeadForm({
         <Textarea id="lead-message" required name="message" rows={4} />
       </Field>
 
+      <FormAssurance dict={dict} />
+
       <Button
         type="submit"
         variant="primary"
@@ -144,7 +147,6 @@ export function ProjectLeadForm({
           {state.ok ? dict.projectLanding.success : state.message}
         </p>
       ) : null}
-      <p className="text-xs text-stone-500">{dict.projectLanding.adsNote}</p>
     </form>
   );
 }

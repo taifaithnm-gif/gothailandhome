@@ -28,6 +28,9 @@ export type LaunchFeaturedProject = {
   short_summary_en: string;
   short_summary_zh: string;
   short_summary_th: string;
+  facility_summary?: LocalizedString;
+  buyer_fit?: LocalizedString;
+  investment_angle?: LocalizedString;
   image_requirement: string;
   image_alt_en: string;
   image_alt_zh: string;
@@ -102,6 +105,14 @@ export function getHomepageLaunch() {
 
 export function getFeaturedLaunchProjects(): LaunchFeaturedProject[] {
   return packageData.projects;
+}
+
+export function getFeaturedLaunchProjectById(
+  projectId: string,
+): LaunchFeaturedProject | null {
+  return (
+    getFeaturedLaunchProjects().find((p) => p.project_id === projectId) ?? null
+  );
 }
 
 export function getLaunchDevelopers(): LaunchDeveloper[] {

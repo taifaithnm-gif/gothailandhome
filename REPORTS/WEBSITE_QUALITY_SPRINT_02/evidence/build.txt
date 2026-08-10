@@ -1,0 +1,173 @@
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+
+> gothailandhome@0.1.0 build
+> next build
+
+▲ Next.js 16.2.10 (Turbopack)
+- Environments: .env.local
+
+  Creating an optimized production build ...
+Found 1 warning while optimizing generated CSS:
+
+[2m│   }[22m
+[2m│   .border-\[var\(--b\"\]\)\<\/script\>\<script\>self\.__next_f\.push\(\[1\,\"rand-line\)\] {[22m
+[2m│[22m     border-color: var(--b"])</script><script>self.__next_f.push([1,"rand-line);
+[2m┆[22m                          [33m[2m^--[22m Unexpected token String("])</script><script>self.__next_f.push([1,")[39m
+[2m┆[22m
+[2m│   }[22m
+[2m│   .border-\[var\(--brand\)\] {[22m
+
+Turbopack build encountered 1 warnings:
+./next.config.ts
+Encountered unexpected file in NFT list
+A file was traced that indicates that the whole project was traced unintentionally. Somewhere in the import trace below, there are:
+- filesystem operations (like path.join, path.resolve or fs.readFile), or
+- very dynamic requires (like require('./' + foo)).
+To resolve this, you can
+- remove them if possible, or
+- only use them in development, or
+- make sure they are statically scoped to some subfolder: path.join(process.cwd(), 'data', bar), or
+- add ignore comments: path.join(/*turbopackIgnore: true*/ process.cwd(), bar)
+
+Import trace:
+  App Route:
+    ./next.config.ts
+    ./src/lib/content/loader.ts
+    ./src/app/sitemap.ts
+    ./src/app/sitemap--route-entry.js
+
+
+✓ Compiled successfully in 3.4s
+  Running TypeScript ...
+  Finished TypeScript in 3.9s ...
+  Collecting page data using 9 workers ...
+  Generating static pages using 9 workers (0/117) ...
+  Generating static pages using 9 workers (29/117) 
+  Generating static pages using 9 workers (58/117) 
+  Generating static pages using 9 workers (87/117) 
+✓ Generating static pages using 9 workers (117/117) in 419ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /_not-found
+├ ƒ /[lang]
+├ ● /[lang]/about
+│ ├ /en/about
+│ ├ /zh/about
+│ └ /th/about
+├ ƒ /[lang]/account
+├ ƒ /[lang]/account/alerts
+├ ƒ /[lang]/account/saved
+├ ƒ /[lang]/account/searches
+├ ƒ /[lang]/account/sign-in
+├ ● /[lang]/blog
+│ ├ /en/blog
+│ ├ /zh/blog
+│ └ /th/blog
+├ ƒ /[lang]/blog/[slug]
+├ ƒ /[lang]/buy
+├ ƒ /[lang]/cities
+├ ƒ /[lang]/cities/[slug]
+├ ● /[lang]/compare
+│ ├ /en/compare
+│ ├ /zh/compare
+│ └ /th/compare
+├ ● /[lang]/contact
+│ ├ /en/contact
+│ ├ /zh/contact
+│ └ /th/contact
+├ ƒ /[lang]/developers
+├ ƒ /[lang]/developers/[slug]
+├ ƒ /[lang]/districts/[slug]
+├ ● /[lang]/faq
+│ ├ /en/faq
+│ ├ /zh/faq
+│ └ /th/faq
+├ ● /[lang]/favorites
+│ ├ /en/favorites
+│ ├ /zh/favorites
+│ └ /th/favorites
+├ ● /[lang]/find-my-home
+│ ├ /en/find-my-home
+│ ├ /zh/find-my-home
+│ └ /th/find-my-home
+├ ● /[lang]/knowledge
+│ ├ /en/knowledge
+│ ├ /zh/knowledge
+│ └ /th/knowledge
+├ ● /[lang]/knowledge/articles
+│ ├ /en/knowledge/articles
+│ ├ /zh/knowledge/articles
+│ └ /th/knowledge/articles
+├ ƒ /[lang]/knowledge/articles/[slug]
+├ ● /[lang]/knowledge/bangkok-districts
+│ ├ /en/knowledge/bangkok-districts
+│ ├ /zh/knowledge/bangkok-districts
+│ └ /th/knowledge/bangkok-districts
+├ ● /[lang]/knowledge/glossary
+│ ├ /en/knowledge/glossary
+│ ├ /zh/knowledge/glossary
+│ └ /th/knowledge/glossary
+├ ● /[lang]/knowledge/investment
+│ ├ /en/knowledge/investment
+│ ├ /zh/knowledge/investment
+│ └ /th/knowledge/investment
+├ ● /[lang]/knowledge/legal
+│ ├ /en/knowledge/legal
+│ ├ /zh/knowledge/legal
+│ └ /th/knowledge/legal
+├ ƒ /[lang]/leads/error
+├ ƒ /[lang]/leads/success
+├ ● /[lang]/list-your-property
+│ ├ /en/list-your-property
+│ ├ /zh/list-your-property
+│ └ /th/list-your-property
+├ ƒ /[lang]/map
+├ ƒ /[lang]/map/districts/[slug]
+├ ● /[lang]/marketplace
+│ ├ /en/marketplace
+│ ├ /zh/marketplace
+│ └ /th/marketplace
+├ ● /[lang]/partners/agencies
+│ ├ /en/partners/agencies
+│ ├ /zh/partners/agencies
+│ └ /th/partners/agencies
+├ ● /[lang]/partners/developers
+│ ├ /en/partners/developers
+│ ├ /zh/partners/developers
+│ └ /th/partners/developers
+├ ƒ /[lang]/projects
+├ ƒ /[lang]/projects/[slug]
+├ ƒ /[lang]/properties
+├ ƒ /[lang]/properties/[id]
+├ ƒ /[lang]/rent
+├ ƒ /[lang]/search
+├ ƒ /[lang]/tools
+├ ƒ /[lang]/tools/investment-assist
+├ ƒ /[lang]/tools/legal
+├ ƒ /[lang]/tools/mortgage
+├ ƒ /admin
+├ ƒ /admin/login
+├ ƒ /admin/ops/acquisition
+├ ƒ /admin/ops/acquisition/[id]
+├ ƒ /admin/ops/leads
+├ ƒ /admin/ops/leads/[id]
+├ ƒ /admin/properties/[id]/edit
+├ ƒ /admin/properties/new
+├ ƒ /api/build-info
+├ ƒ /auth/callback
+├ ƒ /internal/review/windows01/batches/[batchId]
+├ ƒ /partners/app
+├ ƒ /partners/app/agent
+├ ƒ /partners/app/developer
+├ ƒ /partners/app/sign-in
+├ ○ /robots.txt
+└ ƒ /sitemap.xml
+
+
+ƒ Proxy (Middleware)
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ƒ  (Dynamic)  server-rendered on demand
+

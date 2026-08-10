@@ -11,6 +11,7 @@ import type {
   PropertyRow,
   PropertyType,
 } from "@/lib/supabase/types";
+import { resolvePresentationImageSrc } from "@/lib/media/presentation-image";
 import {
   formatPrice,
   type PropertyView,
@@ -83,13 +84,21 @@ export function mapProperty(row: PropertyWithRelations): PropertyView {
   const media = [...(row.property_media ?? [])].sort(
     (a, b) => a.sort_order - b.sort_order,
   );
-  const cover =
+  const mediaCover =
     media.find((item) => item.is_cover)?.public_url ??
     media[0]?.public_url ??
     null;
 
   const project = row.property_projects;
   const district = row.districts;
+  const developerSlug = project?.developers?.slug ?? null;
+  const cover = resolvePresentationImageSrc({
+    primarySrc: mediaCover,
+    projectSlug: project?.slug ?? null,
+    projectTitle: project?.name_en ?? null,
+    developerSlug,
+    areaSlug: district?.slug ?? null,
+  });
 
   return {
     id: row.id,
@@ -102,7 +111,7 @@ export function mapProperty(row: PropertyWithRelations): PropertyView {
     agentId: row.agent_id,
     cityId: row.city_id,
     districtId: row.district_id,
-    developerSlug: project?.developers?.slug ?? null,
+    developerSlug,
     projectSlug: project?.slug ?? null,
     projectName: project
       ? { en: project.name_en, zh: project.name_zh, th: project.name_th }

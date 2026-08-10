@@ -1,12 +1,19 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
+import { ContactChannelLink } from "@/components/contact/contact-channel-link";
 import { PageShell } from "@/components/layout/page-shell";
 import { PlatformCustomerSuccess } from "@/components/marketplace/contact-blocks";
 import { PlatformSupportForm } from "@/components/marketplace/platform-support-form";
 import { buttonVariants } from "@/components/ui/button";
 import { SurfaceCard } from "@/components/ui/card";
 import { isLocale } from "@/config/locales";
+import {
+  toLineHref,
+  toTelHref,
+  toWeChatHref,
+  toWhatsAppHref,
+} from "@/lib/config/contact-links";
 import {
   assertApplePlatformCustomerSuccessOnly,
   formatLanguages,
@@ -95,75 +102,173 @@ export default async function ContactPage({
               <p className="mt-2 text-sm text-white/70">{dict.contact.note}</p>
             </div>
             <div className="space-y-4 text-sm text-white/80">
-              {contacts.map((contact) => (
-                <div
-                  key={contact.id}
-                  className="space-y-1 border-t border-white/15 pt-4 first:border-t-0 first:pt-0"
-                >
-                  <p className="font-medium text-white">{contact.name}</p>
-                  <p>
-                    {dict.contact.role}: {pickI18n(contact.role, lang)}
-                  </p>
-                  <p>
-                    {dict.contact.languages}:{" "}
-                    {formatLanguages(contact.languages, lang)}
-                  </p>
-                  {contact.phone ? (
+              {contacts.map((contact) => {
+                const telHref = toTelHref(contact.phone);
+                const waHref = toWhatsAppHref(contact.whatsapp);
+                const lineHref = toLineHref(contact.line);
+                const wechatHref = toWeChatHref(contact.wechat);
+                return (
+                  <div
+                    key={contact.id}
+                    id={`contact-${contact.id}`}
+                    className="scroll-mt-24 space-y-1 border-t border-white/15 pt-4 first:border-t-0 first:pt-0"
+                    data-contact-card={contact.id}
+                  >
+                    <p className="font-medium text-white">{contact.name}</p>
                     <p>
-                      {dict.contact.phone}: {contact.phone}
+                      {dict.contact.role}: {pickI18n(contact.role, lang)}
                     </p>
-                  ) : null}
-                  {contact.whatsapp ? (
                     <p>
-                      {dict.contact.whatsapp}: {contact.whatsapp}
+                      {dict.contact.languages}:{" "}
+                      {formatLanguages(contact.languages, lang)}
                     </p>
-                  ) : null}
-                  {contact.line ? (
+                    {contact.phone ? (
+                      <p>
+                        {dict.contact.phone}:{" "}
+                        {telHref ? (
+                          <ContactChannelLink
+                            href={telHref}
+                            className="text-white"
+                            data-contact-channel="phone"
+                          >
+                            {contact.phone}
+                          </ContactChannelLink>
+                        ) : (
+                          contact.phone
+                        )}
+                      </p>
+                    ) : null}
+                    {contact.whatsapp ? (
+                      <p>
+                        {dict.contact.whatsapp}:{" "}
+                        {waHref ? (
+                          <ContactChannelLink
+                            href={waHref}
+                            className="text-white"
+                            data-contact-channel="whatsapp"
+                          >
+                            {contact.whatsapp}
+                          </ContactChannelLink>
+                        ) : (
+                          contact.whatsapp
+                        )}
+                      </p>
+                    ) : null}
+                    {contact.line_qr || contact.line ? (
+                      <div className="pt-1 space-y-1" data-contact-channel="line-qr">
+                        <p className="mb-1">{dict.contact.line}</p>
+                        {contact.line_qr ? (
+                          lineHref ? (
+                            <ContactChannelLink
+                              href={lineHref}
+                              className="inline-block"
+                              data-contact-channel="line"
+                            >
+                              {/* eslint-disable-next-line @next/next/no-img-element */}
+                              <img
+                                src={contact.line_qr}
+                                alt={`${contact.name} LINE QR`}
+                                className="h-28 w-28 rounded-md bg-white object-contain p-1"
+                              />
+                            </ContactChannelLink>
+                          ) : (
+                            <>
+                              {/* eslint-disable-next-line @next/next/no-img-element */}
+                              <img
+                                src={contact.line_qr}
+                                alt={`${contact.name} LINE QR`}
+                                className="h-28 w-28 rounded-md bg-white object-contain p-1"
+                              />
+                              <p className="text-xs text-white/70">
+                                {dict.contact.qrScanHint}
+                              </p>
+                            </>
+                          )
+                        ) : lineHref ? (
+                          <ContactChannelLink
+                            href={lineHref}
+                            className="text-white"
+                            data-contact-channel="line"
+                          >
+                            {dict.contact.line}
+                          </ContactChannelLink>
+                        ) : null}
+                        {lineHref && contact.line_qr ? (
+                          <p className="text-xs text-white/70">
+                            {dict.contact.qrScanOrTapHint}
+                          </p>
+                        ) : null}
+                      </div>
+                    ) : null}
+                    {contact.wechat_qr || contact.wechat ? (
+                      <div className="pt-1 space-y-1" data-contact-channel="wechat-qr">
+                        <p className="mb-1">{dict.contact.wechat}</p>
+                        {contact.wechat_qr ? (
+                          wechatHref ? (
+                            <ContactChannelLink
+                              href={wechatHref}
+                              className="inline-block"
+                              data-contact-channel="wechat"
+                            >
+                              {/* eslint-disable-next-line @next/next/no-img-element */}
+                              <img
+                                src={contact.wechat_qr}
+                                alt={`${contact.name} WeChat QR`}
+                                className="h-28 w-28 rounded-md bg-white object-contain p-1"
+                              />
+                            </ContactChannelLink>
+                          ) : (
+                            <>
+                              {/* eslint-disable-next-line @next/next/no-img-element */}
+                              <img
+                                src={contact.wechat_qr}
+                                alt={`${contact.name} WeChat QR`}
+                                className="h-28 w-28 rounded-md bg-white object-contain p-1"
+                              />
+                              <p className="text-xs text-white/70">
+                                {dict.contact.qrScanHint}
+                              </p>
+                            </>
+                          )
+                        ) : wechatHref ? (
+                          <ContactChannelLink
+                            href={wechatHref}
+                            className="text-white"
+                            data-contact-channel="wechat"
+                          >
+                            {dict.contact.wechat}
+                          </ContactChannelLink>
+                        ) : contact.wechat ? (
+                          <p>{contact.wechat}</p>
+                        ) : null}
+                        {wechatHref && contact.wechat_qr ? (
+                          <p className="text-xs text-white/70">
+                            {dict.contact.qrScanOrTapHint}
+                          </p>
+                        ) : null}
+                      </div>
+                    ) : null}
+                    {contact.email ? (
+                      <p>
+                        {dict.contact.email}:{" "}
+                        <ContactChannelLink
+                          href={`mailto:${contact.email}`}
+                          className="text-white"
+                          data-contact-channel="email"
+                        >
+                          {contact.email}
+                        </ContactChannelLink>
+                      </p>
+                    ) : null}
                     <p>
-                      {dict.contact.line}: {contact.line}
+                      {dict.contact.availability}:{" "}
+                      {pickI18n(contact.availability, lang)}
                     </p>
-                  ) : null}
-                  {contact.line_qr ? (
-                    <div className="pt-1">
-                      <p className="mb-1">{dict.contact.line}</p>
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img
-                        src={contact.line_qr}
-                        alt={`${contact.name} LINE QR`}
-                        className="h-28 w-28 rounded-md bg-white object-contain p-1"
-                      />
-                    </div>
-                  ) : null}
-                  {contact.wechat ? (
-                    <p>
-                      {dict.contact.wechat}: {contact.wechat}
-                    </p>
-                  ) : null}
-                  {contact.wechat_qr ? (
-                    <div className="pt-1">
-                      <p className="mb-1">{dict.contact.wechat}</p>
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img
-                        src={contact.wechat_qr}
-                        alt={`${contact.name} WeChat QR`}
-                        className="h-28 w-28 rounded-md bg-white object-contain p-1"
-                      />
-                    </div>
-                  ) : null}
-                  {contact.email ? (
-                    <p>
-                      {dict.contact.email}: {contact.email}
-                    </p>
-                  ) : null}
-                  <p>
-                    {dict.contact.availability}:{" "}
-                    {pickI18n(contact.availability, lang)}
-                  </p>
-                </div>
-              ))}
+                  </div>
+                );
+              })}
             </div>
           </div>
-          {/* Shared role block — same PCS contract as listing/home surfaces. */}
           <PlatformCustomerSuccess
             locale={lang}
             dict={dict}

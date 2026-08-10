@@ -1,0 +1,97 @@
+PASS: chromium/desktop: Bangkok overview once
+PASS: chromium/desktop: districts capped/togglable (12)
+PASS: chromium/desktop: favorites retention once
+PASS: chromium/desktop: LINE QR
+PASS: chromium/desktop: WeChat QR
+PASS: chromium/desktop: LINE clickable
+PASS: chromium/desktop: WeChat clickable
+PASS: chromium/desktop: project media fit contain=1 cover=0
+PASS: chromium/desktop: ZH facilities localized or absent
+PASS: chromium/desktop: knowledge→project
+PASS: chromium/desktop: knowledge→contact CTA
+PASS: chromium/desktop: no empty image blocks
+PASS: chromium/desktop: card links 24
+PASS: chromium/desktop: no internal artifacts
+PASS: chromium/desktop: no console errors
+PASS: chromium/tablet: Bangkok overview once
+PASS: chromium/tablet: districts capped/togglable (12)
+PASS: chromium/tablet: favorites retention once
+PASS: chromium/tablet: LINE QR
+PASS: chromium/tablet: WeChat QR
+PASS: chromium/tablet: LINE clickable
+PASS: chromium/tablet: WeChat clickable
+PASS: chromium/tablet: project media fit contain=1 cover=0
+PASS: chromium/tablet: ZH facilities localized or absent
+PASS: chromium/tablet: knowledge→project
+PASS: chromium/tablet: knowledge→contact CTA
+PASS: chromium/tablet: no empty image blocks
+PASS: chromium/tablet: card links 24
+PASS: chromium/tablet: no internal artifacts
+PASS: chromium/tablet: no console errors
+PASS: chromium/mobile: Bangkok overview once
+PASS: chromium/mobile: districts capped/togglable (12)
+PASS: chromium/mobile: favorites retention once
+PASS: chromium/mobile: LINE QR
+PASS: chromium/mobile: WeChat QR
+PASS: chromium/mobile: LINE clickable
+PASS: chromium/mobile: WeChat clickable
+PASS: chromium/mobile: project media fit contain=1 cover=0
+PASS: chromium/mobile: ZH facilities localized or absent
+PASS: chromium/mobile: knowledge→project
+PASS: chromium/mobile: knowledge→contact CTA
+PASS: chromium/mobile: no empty image blocks
+PASS: chromium/mobile: card links 24
+PASS: chromium/mobile: no internal artifacts
+PASS: chromium/mobile: no console errors
+PASS: webkit/desktop: Bangkok overview once
+PASS: webkit/desktop: districts capped/togglable (12)
+PASS: webkit/desktop: favorites retention once
+PASS: webkit/desktop: LINE QR
+PASS: webkit/desktop: WeChat QR
+PASS: webkit/desktop: LINE clickable
+PASS: webkit/desktop: WeChat clickable
+PASS: webkit/desktop: project media fit contain=1 cover=0
+PASS: webkit/desktop: ZH facilities localized or absent
+PASS: webkit/desktop: knowledge→project
+PASS: webkit/desktop: knowledge→contact CTA
+PASS: webkit/desktop: no empty image blocks
+PASS: webkit/desktop: card links 24
+PASS: webkit/desktop: no internal artifacts
+PASS: webkit/desktop: no console errors
+PASS: webkit/tablet: Bangkok overview once
+PASS: webkit/tablet: districts capped/togglable (12)
+PASS: webkit/tablet: favorites retention once
+PASS: webkit/tablet: LINE QR
+PASS: webkit/tablet: WeChat QR
+PASS: webkit/tablet: LINE clickable
+PASS: webkit/tablet: WeChat clickable
+PASS: webkit/tablet: project media fit contain=1 cover=0
+PASS: webkit/tablet: ZH facilities localized or absent
+PASS: webkit/tablet: knowledge→project
+PASS: webkit/tablet: knowledge→contact CTA
+PASS: webkit/tablet: no empty image blocks
+PASS: webkit/tablet: card links 24
+PASS: webkit/tablet: no internal artifacts
+PASS: webkit/tablet: no console errors
+PASS: webkit/mobile: Bangkok overview once
+PASS: webkit/mobile: districts capped/togglable (12)
+PASS: webkit/mobile: favorites retention once
+PASS: webkit/mobile: LINE QR
+PASS: webkit/mobile: WeChat QR
+PASS: webkit/mobile: LINE clickable
+PASS: webkit/mobile: WeChat clickable
+PASS: webkit/mobile: project media fit contain=1 cover=0
+PASS: webkit/mobile: ZH facilities localized or absent
+PASS: webkit/mobile: knowledge→project
+PASS: webkit/mobile: knowledge→contact CTA
+PASS: webkit/mobile: no empty image blocks
+PASS: webkit/mobile: card links 24
+PASS: webkit/mobile: no internal artifacts
+PASS: webkit/mobile: no console errors
+
+SUMMARY { failures: 0, pass: true } {
+  charactersAfter: 12971,
+  districtLinksInitial: 12,
+  placeholders: 1,
+  overviewCount: 1
+}

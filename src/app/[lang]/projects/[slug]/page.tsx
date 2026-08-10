@@ -12,14 +12,15 @@ import {
   PlatformCustomerSuccess,
 } from "@/components/marketplace/contact-blocks";
 import { ProjectLeadForm } from "@/components/projects/project-lead-form";
+import { ProjectStickyContact } from "@/components/projects/project-sticky-contact";
+import { ProjectSuitableFor } from "@/components/projects/project-suitable-for";
 import { ListingGallery } from "@/components/property/listing-gallery";
-import { ListingMediaFrame } from "@/components/property/listing-media-frame";
 import { PropertyGrid } from "@/components/property/property-grid";
 import { JsonLd } from "@/components/seo/json-ld";
-import { Badge, VerificationBadge } from "@/components/ui/badge";
+import { Badge } from "@/components/ui/badge";
 import { Breadcrumb } from "@/components/ui/breadcrumb";
 import { ProjectCardShell, SurfaceCard } from "@/components/ui/card";
-import { EmptyState } from "@/components/ui/states";
+import { ImagesComingSoon } from "@/components/ui/images-coming-soon";
 import { isLocale, type Locale } from "@/config/locales";
 import {
   formatPrice,
@@ -40,19 +41,22 @@ import {
   localePath,
 } from "@/lib/i18n/metadata";
 import {
+  getFeaturedLaunchProjectById,
+} from "@/lib/launch/content-launch-v1";
+import { resolvePresentationImage } from "@/lib/media/presentation-image";
+import { localizeFacilityLabel } from "@/lib/i18n/facility-labels";
+import {
   getProjectLocalMedia,
   resolveProjectHeroSrc,
 } from "@/lib/projects/local-media";
 import {
   evidenceClassFor,
-  evidenceLabelKey,
   getProjectEvidence,
   hasOfficialGallery,
   hasVerifiedCoordinates,
   mayPresentFact,
   MIN_PRICE_SUMMARY_SAMPLE,
   PROJECT_LISTING_PREVIEW_SIZE,
-  toVerificationLevel,
   type ProjectEvidenceClass,
   type ProjectEvidenceRow,
 } from "@/lib/projects/evidence";
@@ -104,34 +108,24 @@ export async function generateMetadata({
   };
 }
 
-function evidenceLabel(
-  dict: Dictionary,
-  evidence: ProjectEvidenceClass,
-): string {
-  return dict.projectLanding[evidenceLabelKey(evidence)];
-}
-
-function FactValue({
+function FactCard({
+  label,
   value,
   evidence,
-  dict,
 }: {
+  label: string;
   value: string | null | undefined;
   evidence: ProjectEvidenceClass;
-  dict: Dictionary;
 }) {
-  const unavailable = dict.projectLanding.unavailable;
   const show =
     mayPresentFact(evidence) && value != null && String(value).trim() !== "";
+  if (!show) return null;
   return (
-    <div className="mt-1 flex flex-wrap items-center gap-2">
-      <dd className="text-sm font-medium text-[var(--brand-deep)]">
-        {show ? value : unavailable}
+    <div className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3">
+      <dt className="ds-caption text-stone-500">{label}</dt>
+      <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+        {value}
       </dd>
-      <VerificationBadge
-        level={toVerificationLevel(evidence)}
-        label={evidenceLabel(dict, evidence)}
-      />
     </div>
   );
 }
@@ -169,13 +163,11 @@ function FacilityGroup({
   title,
   zones,
   locale,
-  evidence,
   dict,
 }: {
   title: string;
   zones: ProjectFacilityZone[];
   locale: Locale;
-  evidence: ProjectEvidenceClass;
   dict: Dictionary;
 }) {
   const items = zones.flatMap((zone) =>
@@ -187,35 +179,31 @@ function FacilityGroup({
 
   return (
     <div>
-      <div className="flex flex-wrap items-center gap-2">
-        <h3 className="text-sm font-semibold tracking-wide text-[var(--brand)] uppercase">
-          {title}
-        </h3>
-        <VerificationBadge
-          level={toVerificationLevel(evidence)}
-          label={evidenceLabel(dict, evidence)}
-        />
-      </div>
+      <h3 className="text-sm font-semibold tracking-wide text-[var(--brand)] uppercase">
+        {title}
+      </h3>
       <div className="mt-3 space-y-4">
         {zones.map((zone, zoneIndex) => (
           <div key={`facility-zone-${title}-${zoneIndex}`}>
             {facilityZoneHasHeading(zone) ? (
               <p className="text-xs font-medium tracking-wide text-stone-500 uppercase">
-                {zone.zone[locale] || zone.zone.en}
+                {localizeFacilityLabel(
+                  dict,
+                  zone.zone[locale] || zone.zone.en,
+                )}
               </p>
-            ) : zone.source ? (
-              <p className="text-xs text-stone-500">{zone.source}</p>
             ) : null}
             <ul
               className={
-                facilityZoneHasHeading(zone) || zone.source
+                facilityZoneHasHeading(zone)
                   ? "mt-2 flex flex-wrap gap-2"
                   : "flex flex-wrap gap-2"
               }
             >
               {zone.items.map((item, itemIndex) => {
-                const label = item[locale] || item.en || item.zh || item.th;
-                if (!label) return null;
+                const raw = item[locale] || item.en || item.zh || item.th;
+                if (!raw) return null;
+                const label = localizeFacilityLabel(dict, raw);
                 return (
                   <li
                     key={`${label}-${itemIndex}`}
@@ -233,7 +221,13 @@ function FacilityGroup({
   );
 }
 
-function formatStatusLabel(raw: string): string {
+function formatStatusLabel(
+  raw: string,
+  dict?: Dictionary,
+): string {
+  const key = raw.trim().toLowerCase().replace(/\s+/g, "_");
+  const statuses = dict?.projectStatuses as Record<string, string> | undefined;
+  if (statuses?.[key]?.trim()) return statuses[key];
   return raw.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
@@ -304,18 +298,6 @@ async function loadSimilarProjects(project: ProjectView): Promise<ProjectView[]>
   return out.slice(0, 6);
 }
 
-function heroEvidenceLevel(
-  evidence: ProjectEvidenceRow | null,
-): ProjectEvidenceClass {
-  const name = evidenceClassFor(evidence, "official_project_name");
-  const gallery = evidenceClassFor(evidence, "official_gallery_source");
-  if (name === "OFFICIAL" || gallery === "OFFICIAL") return "OFFICIAL";
-  if (name === "VERIFIED_PORTAL" || gallery === "VERIFIED_PORTAL") {
-    return "VERIFIED_PORTAL";
-  }
-  return name;
-}
-
 export default async function ProjectLandingPage({
   params,
 }: PageProps<"/[lang]/projects/[slug]">) {
@@ -333,7 +315,6 @@ export default async function ProjectLandingPage({
   const evidence = getProjectEvidence(slug);
   const packageFacts = getProjectPackageFacts(slug);
   const pl = dict.projectLanding;
-  const unknown = pl.unavailable;
 
   const [
     salePage,
@@ -372,19 +353,24 @@ export default async function ProjectLandingPage({
     .slice(0, 4);
 
   const projectTitle = project.name[locale] || project.name.en;
-  const heroSrc = resolveProjectHeroSrc(
+  const localMedia = getProjectLocalMedia(project.slug, projectTitle);
+  const projectHeroSrc = resolveProjectHeroSrc(
     project.slug,
     projectTitle,
     project.heroImagePath,
   );
-  const localMedia = getProjectLocalMedia(project.slug, projectTitle);
-  // Gallery always renders: approved photos when present, safe placeholder otherwise.
-  const galleryImages =
-    localMedia.gallery.length > 0
-      ? localMedia.gallery
-      : heroSrc
-        ? [{ url: heroSrc, alt: projectTitle }]
-        : [];
+  const heroPresentation = resolvePresentationImage({
+    primarySrc: projectHeroSrc,
+    projectSlug: project.slug,
+    projectTitle,
+    developerSlug: project.developer?.slug ?? null,
+    areaSlug: project.districtSlug ?? null,
+  });
+  const heroSrc = heroPresentation.src;
+  const heroLogoFallback = heroPresentation.kind === "developer";
+  /** Real project gallery only — never invent gallery slides from logos/fallbacks. */
+  const galleryImages = localMedia.gallery;
+  const hasApprovedProjectGallery = galleryImages.length > 0;
   const showHeroPhoto = Boolean(heroSrc);
 
   const districtLabel =
@@ -399,11 +385,11 @@ export default async function ProjectLandingPage({
   const statusClass = evidenceClassFor(evidence, "project_status");
   const statusValue =
     mayPresentFact(statusClass) && packageFacts.projectStatus
-      ? formatStatusLabel(packageFacts.projectStatus)
+      ? formatStatusLabel(packageFacts.projectStatus, dict)
       : null;
 
   const typeValue = packageFacts.projectType
-    ? formatStatusLabel(packageFacts.projectType)
+    ? formatStatusLabel(packageFacts.projectType, dict)
     : null;
 
   const completionClass = evidenceClassFor(evidence, "completion_year");
@@ -463,17 +449,30 @@ export default async function ProjectLandingPage({
         : null;
 
   const visibleFaqs = visibleProjectFaqs(locale, project.faq);
+  const hasSuitableFor = Boolean(getFeaturedLaunchProjectById(project.slug));
   const sectionLinks: Array<{ id: string; label: string }> = [
-    { id: "gallery", label: dict.property.gallery },
+    {
+      id: "gallery",
+      label: hasApprovedProjectGallery
+        ? dict.property.gallery
+        : dict.common.imagesComingSoon,
+    },
     { id: "overview", label: pl.specs },
-    { id: "units", label: pl.unitTypes },
+    ...(hasSuitableFor
+      ? [{ id: "suitable-for", label: pl.suitableForTitle }]
+      : []),
+    ...(mayPresentFact(unitTypesClass) && project.unitTypes.length > 0
+      ? [{ id: "units", label: pl.unitTypes }]
+      : []),
     { id: "listings", label: pl.listings },
     { id: "price", label: pl.priceSummary },
     { id: "map", label: pl.map },
     { id: "facilities", label: pl.facilities },
     { id: "nearby", label: pl.nearby },
     { id: "developer", label: pl.developer },
-    { id: "verification", label: pl.evidenceTitle },
+    ...(officialWebsite
+      ? [{ id: "sources", label: pl.sourcesTitle }]
+      : []),
     { id: "related-projects", label: pl.similar },
     ...(visibleFaqs.length ? [{ id: "faq", label: pl.faq }] : []),
     { id: "lead", label: pl.ctaLead },
@@ -618,7 +617,7 @@ export default async function ProjectLandingPage({
   }
 
   return (
-    <div className="bg-[var(--brand-canvas)]" data-slot="project-center">
+    <div className="bg-[var(--brand-canvas)] pb-24" data-slot="project-center">
       <JsonLd
         data={[
           projectSchema({
@@ -668,10 +667,6 @@ export default async function ProjectLandingPage({
           <div>
             <div className="flex flex-wrap items-center gap-2">
               <Badge tone="brand">{pl.centerEyebrow}</Badge>
-              <VerificationBadge
-                level={toVerificationLevel(heroEvidenceLevel(evidence))}
-                label={evidenceLabel(dict, heroEvidenceLevel(evidence))}
-              />
               {statusValue ? (
                 <Badge tone="brand">{statusValue}</Badge>
               ) : null}
@@ -683,52 +678,40 @@ export default async function ProjectLandingPage({
               <p className="mt-2 text-lg text-stone-600">{thaiName}</p>
             ) : null}
             <dl className="mt-5 grid gap-3 sm:grid-cols-2">
-              <div>
-                <dt className="ds-caption text-stone-500">{pl.developer}</dt>
-                <FactValue
-                  value={
-                    mayPresentFact(developerClass) && project.developer
-                      ? project.developer.name[locale] ||
-                        project.developer.name.en
-                      : null
-                  }
-                  evidence={developerClass}
-                  dict={dict}
-                />
-              </div>
-              <div>
-                <dt className="ds-caption text-stone-500">{pl.district}</dt>
-                <FactValue
-                  value={
-                    mayPresentFact(districtClass) && districtLabel
-                      ? districtLabel
-                      : null
-                  }
-                  evidence={districtClass}
-                  dict={dict}
-                />
-              </div>
-              <div>
-                <dt className="ds-caption text-stone-500">{pl.projectStatus}</dt>
-                <FactValue
-                  value={statusValue}
-                  evidence={statusClass}
-                  dict={dict}
-                />
-              </div>
-              <div>
-                <dt className="ds-caption text-stone-500">{pl.completion}</dt>
-                <FactValue
-                  value={
-                    mayPresentFact(completionClass) &&
-                    project.completionYear != null
-                      ? String(project.completionYear)
-                      : null
-                  }
-                  evidence={completionClass}
-                  dict={dict}
-                />
-              </div>
+              {mayPresentFact(developerClass) && project.developer ? (
+                <div>
+                  <dt className="ds-caption text-stone-500">{pl.developer}</dt>
+                  <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+                    {project.developer.name[locale] ||
+                      project.developer.name.en}
+                  </dd>
+                </div>
+              ) : null}
+              {mayPresentFact(districtClass) && districtLabel ? (
+                <div>
+                  <dt className="ds-caption text-stone-500">{pl.district}</dt>
+                  <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+                    {districtLabel}
+                  </dd>
+                </div>
+              ) : null}
+              {statusValue ? (
+                <div>
+                  <dt className="ds-caption text-stone-500">{pl.projectStatus}</dt>
+                  <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+                    {statusValue}
+                  </dd>
+                </div>
+              ) : null}
+              {mayPresentFact(completionClass) &&
+              project.completionYear != null ? (
+                <div>
+                  <dt className="ds-caption text-stone-500">{pl.completion}</dt>
+                  <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+                    {project.completionYear}
+                  </dd>
+                </div>
+              ) : null}
             </dl>
             <div className="mt-6 flex flex-wrap gap-3">
               <a
@@ -747,26 +730,28 @@ export default async function ProjectLandingPage({
           </div>
           <div className="overflow-hidden rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white">
             {showHeroPhoto ? (
-              <div className="relative aspect-[16/10]">
+              <div
+                className="relative aspect-[16/10] bg-[var(--brand-soft)]"
+                data-media-fit={heroLogoFallback ? "contain" : "cover"}
+              >
                 <Image
                   src={heroSrc!}
                   alt={projectTitle}
                   fill
                   sizes="(max-width: 1024px) 100vw, 560px"
-                  className="object-cover"
+                  className={
+                    heroLogoFallback ? "object-contain p-8" : "object-cover"
+                  }
                   priority
                   fetchPriority="high"
                   unoptimized
                 />
               </div>
             ) : (
-              <ListingMediaFrame
-                locale={locale}
-                dict={dict}
-                title={pl.heroMediaMissing}
-                propertyType="condo"
-                imageUrl={null}
-                priority
+              <ImagesComingSoon
+                title={dict.common.imagesComingSoon}
+                body={dict.common.imagesComingSoonBody}
+                className="rounded-none border-0"
               />
             )}
           </div>
@@ -793,31 +778,44 @@ export default async function ProjectLandingPage({
 
       <div className="mx-auto grid max-w-6xl gap-12 px-4 py-12 sm:px-6 lg:grid-cols-[1.4fr_0.8fr]">
         <div className="space-y-12">
-          {/* Gallery — always present; placeholder when no approved photos */}
+          {/* Gallery — hide empty modules; professional notice when no approved photos */}
           <section
             id="gallery"
             className="scroll-mt-24 space-y-4"
             aria-labelledby="gallery-heading"
-            data-slot="project-gallery"
+            data-slot={
+              hasApprovedProjectGallery
+                ? "project-gallery"
+                : "project-gallery-coming-soon"
+            }
           >
             <h2
               id="gallery-heading"
               className="ds-h2 text-2xl sm:text-3xl"
             >
-              {dict.property.gallery}
+              {hasApprovedProjectGallery
+                ? dict.property.gallery
+                : dict.common.imagesComingSoon}
             </h2>
-            <ListingGallery
-              locale={locale}
-              dict={dict}
-              title={projectTitle}
-              propertyType="condo"
-              images={galleryImages}
-              imageSource={
-                hasOfficialGallery(evidence)
-                  ? dict.common.imageSource
-                  : null
-              }
-            />
+            {hasApprovedProjectGallery ? (
+              <ListingGallery
+                locale={locale}
+                dict={dict}
+                title={projectTitle}
+                propertyType="condo"
+                images={galleryImages}
+                imageSource={
+                  hasOfficialGallery(evidence)
+                    ? dict.common.imageSource
+                    : null
+                }
+              />
+            ) : (
+              <ImagesComingSoon
+                title={dict.common.imagesComingSoon}
+                body={dict.common.imagesComingSoonBody}
+              />
+            )}
           </section>
 
           {/* 2. Key project facts */}
@@ -831,62 +829,73 @@ export default async function ProjectLandingPage({
             </h2>
             <dl className="mt-5 grid gap-3 sm:grid-cols-2">
               {keyFacts.map((fact) => (
-                  <div
+                  <FactCard
                     key={fact.label}
-                    className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
-                  >
-                    <dt className="ds-caption text-stone-500">{fact.label}</dt>
-                    <FactValue
-                      value={fact.value}
-                      evidence={fact.evidence}
-                      dict={dict}
-                    />
-                  </div>
+                    label={fact.label}
+                    value={fact.value}
+                    evidence={fact.evidence}
+                  />
                 ))}
             </dl>
+            {keyFacts.every((fact) => !fact.value) ? (
+              <p
+                className="mt-4 text-sm text-stone-600"
+                data-slot="facts-unavailable-note"
+              >
+                {pl.factsPendingNote}{" "}
+                <a
+                  href="#lead"
+                  className="font-medium text-[var(--brand)] underline-offset-2 hover:underline"
+                >
+                  {pl.factsEnquireNote}
+                </a>
+              </p>
+            ) : keyFacts.some((fact) => !fact.value) ? (
+              <p
+                className="mt-4 text-sm text-stone-600"
+                data-slot="facts-partial-note"
+              >
+                {pl.factsPartialNote}
+              </p>
+            ) : null}
           </section>
 
+          <ProjectSuitableFor
+            locale={locale}
+            dict={dict}
+            projectSlug={project.slug}
+            citySlug="bangkok"
+          />
+
           {/* 2b. Unit types */}
+          {mayPresentFact(unitTypesClass) && project.unitTypes.length > 0 ? (
           <section
             id="units"
             className="scroll-mt-24"
             aria-labelledby="project-units-heading"
           >
-            <div className="flex flex-wrap items-center gap-2">
-              <h2 id="project-units-heading" className="ds-h2 text-2xl">
-                {pl.unitTypes}
-              </h2>
-              {mayPresentFact(unitTypesClass) && project.unitTypes.length > 0 ? (
-                <VerificationBadge
-                  level={toVerificationLevel(unitTypesClass)}
-                  label={evidenceLabel(dict, unitTypesClass)}
-                />
-              ) : null}
-            </div>
-            {mayPresentFact(unitTypesClass) && project.unitTypes.length > 0 ? (
-              <ul className="mt-4 grid gap-3 sm:grid-cols-2">
-                {project.unitTypes.map((unit, index) => (
-                  <li
-                    key={`${unit.code}-${index}`}
-                    className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
-                  >
-                    <p className="font-medium text-[var(--brand-deep)]">
-                      {unit.label[locale] || unit.label.en || unit.code}
+            <h2 id="project-units-heading" className="ds-h2 text-2xl">
+              {pl.unitTypes}
+            </h2>
+            <ul className="mt-4 grid gap-3 sm:grid-cols-2">
+              {project.unitTypes.map((unit, index) => (
+                <li
+                  key={`${unit.code}-${index}`}
+                  className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3"
+                >
+                  <p className="font-medium text-[var(--brand-deep)]">
+                    {unit.label[locale] || unit.label.en || unit.code}
+                  </p>
+                  {unit.area_sqm > 0 ? (
+                    <p className="text-sm text-stone-600">
+                      {unit.area_sqm} {dict.common.sqm}
                     </p>
-                    {unit.area_sqm > 0 ? (
-                      <p className="text-sm text-stone-600">
-                        {unit.area_sqm} {dict.common.sqm}
-                      </p>
-                    ) : null}
-                  </li>
-                ))}
-              </ul>
-            ) : (
-              <p className="mt-3 text-sm text-stone-500">
-                {pl.unitTypes}: {unknown}
-              </p>
-            )}
+                  ) : null}
+                </li>
+              ))}
+            </ul>
           </section>
+          ) : null}
 
           {/* 3. Available listings */}
           <section
@@ -928,11 +937,6 @@ export default async function ProjectLandingPage({
               {renderPriceBand(pl.listingsSale, saleBand, "sale")}
               {renderPriceBand(pl.listingsRent, rentBand, "rent")}
             </div>
-            <VerificationBadge
-              level="derived"
-              label={pl.evidenceDerived}
-              className="mt-3"
-            />
           </section>
 
           {/* 5. Location */}
@@ -945,51 +949,47 @@ export default async function ProjectLandingPage({
               {pl.map}
             </h2>
             <dl className="mt-4 grid gap-3 sm:grid-cols-2">
-              <div className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3">
-                <dt className="ds-caption text-stone-500">{pl.district}</dt>
-                <FactValue
-                  value={
-                    mayPresentFact(districtClass) && districtLabel
-                      ? districtLabel
-                      : null
-                  }
-                  evidence={districtClass}
-                  dict={dict}
-                />
-                {project.districtSlug && mayPresentFact(districtClass) ? (
-                  <Link
-                    href={localePath(locale, `/districts/${project.districtSlug}`)}
-                    className="mt-2 inline-flex text-sm text-[var(--brand)] hover:underline"
-                  >
+              {mayPresentFact(districtClass) && districtLabel ? (
+                <div className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3">
+                  <dt className="ds-caption text-stone-500">{pl.district}</dt>
+                  <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
                     {districtLabel}
-                  </Link>
-                ) : null}
-              </div>
-              <div className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3">
-                <dt className="ds-caption text-stone-500">{pl.subdistrict}</dt>
-                <FactValue
-                  value={subdistrictValue}
-                  evidence={subdistrictClass}
-                  dict={dict}
-                />
-              </div>
-              <div className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3 sm:col-span-2">
-                <dt className="ds-caption text-stone-500">{pl.address}</dt>
-                <FactValue
-                  value={
-                    mayPresentFact(addressClass)
-                      ? project.address[locale] || project.address.en || null
-                      : null
-                  }
-                  evidence={addressClass}
-                  dict={dict}
-                />
-              </div>
+                  </dd>
+                  {project.districtSlug ? (
+                    <Link
+                      href={localePath(
+                        locale,
+                        `/districts/${project.districtSlug}`,
+                      )}
+                      className="mt-2 inline-flex text-sm text-[var(--brand)] hover:underline"
+                    >
+                      {districtLabel}
+                    </Link>
+                  ) : null}
+                </div>
+              ) : null}
+              {subdistrictValue ? (
+                <div className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3">
+                  <dt className="ds-caption text-stone-500">{pl.subdistrict}</dt>
+                  <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+                    {subdistrictValue}
+                  </dd>
+                </div>
+              ) : null}
+              {mayPresentFact(addressClass) &&
+              (project.address[locale] || project.address.en) ? (
+                <div className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3 sm:col-span-2">
+                  <dt className="ds-caption text-stone-500">{pl.address}</dt>
+                  <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+                    {project.address[locale] || project.address.en}
+                  </dd>
+                </div>
+              ) : null}
             </dl>
 
-            <div className="mt-4">
-              <p className="ds-caption text-stone-500">{pl.transit}</p>
-              {project.transitTags.length || nearbyTransport.length ? (
+            {project.transitTags.length || nearbyTransport.length ? (
+              <div className="mt-4">
+                <p className="ds-caption text-stone-500">{pl.transit}</p>
                 <div className="mt-2 space-y-3">
                   {project.transitTags.length ? (
                     <ul className="flex flex-wrap gap-2">
@@ -1002,10 +1002,8 @@ export default async function ProjectLandingPage({
                   ) : null}
                   <PoiList items={nearbyTransport} locale={locale} />
                 </div>
-              ) : (
-                <p className="mt-2 text-sm text-stone-500">{unknown}</p>
-              )}
-            </div>
+              </div>
+            ) : null}
 
             {mapReady ? (
               <SurfaceCard className="mt-5 p-4!" data-slot="project-map">
@@ -1013,15 +1011,6 @@ export default async function ProjectLandingPage({
                   <p className="text-sm font-medium text-[var(--brand-deep)]">
                     {pl.mapVerified}
                   </p>
-                  <VerificationBadge
-                    level={toVerificationLevel(
-                      evidenceClassFor(evidence, "latitude"),
-                    )}
-                    label={evidenceLabel(
-                      dict,
-                      evidenceClassFor(evidence, "latitude"),
-                    )}
-                  />
                 </div>
                 <p className="mt-2 text-sm text-stone-600">
                   {project.latitude}, {project.longitude}
@@ -1067,7 +1056,6 @@ export default async function ProjectLandingPage({
                 title={pl.facilitiesOfficial}
                 zones={officialFacilities}
                 locale={locale}
-                evidence="OFFICIAL"
                 dict={dict}
               />
               <FacilityGroup
@@ -1078,17 +1066,8 @@ export default async function ProjectLandingPage({
                     : portalFacilities
                 }
                 locale={locale}
-                evidence={
-                  facilitiesClass === "OFFICIAL"
-                    ? "VERIFIED_PORTAL"
-                    : facilitiesClass
-                }
                 dict={dict}
               />
-              {!officialFacilities.length &&
-              !portalFacilities.length ? (
-                <p className="text-sm text-stone-500">{unknown}</p>
-              ) : null}
             </div>
           </section>
 
@@ -1158,10 +1137,6 @@ export default async function ProjectLandingPage({
                     {project.developer.legalName[locale] ||
                       project.developer.name[locale]}
                   </p>
-                  <VerificationBadge
-                    level={toVerificationLevel(developerClass)}
-                    label={evidenceLabel(dict, developerClass)}
-                  />
                 </div>
                 {project.developer.description[locale] ? (
                   <p className="mt-2 text-sm text-stone-700">
@@ -1215,51 +1190,35 @@ export default async function ProjectLandingPage({
                   </div>
                 ) : null}
               </SurfaceCard>
-            ) : (
-              <p className="mt-3 text-sm text-stone-500">{unknown}</p>
-            )}
+            ) : null}
           </section>
 
-          {/* 9. Evidence disclosure */}
-          <section
-            id="verification"
-            className="scroll-mt-24"
-            aria-labelledby="project-evidence-heading"
-          >
-            <h2 id="project-evidence-heading" className="ds-h2 text-2xl">
-              {pl.evidenceTitle}
-            </h2>
-            <ul className="mt-4 space-y-2 text-sm text-stone-700">
-              <li className="flex items-center gap-2">
-                <VerificationBadge
-                  level="official"
-                  label={pl.evidenceOfficial}
-                />
-                <span>{pl.evidenceOfficial}</span>
-              </li>
-              <li className="flex items-center gap-2">
-                <VerificationBadge
-                  level="verified_portal"
-                  label={pl.evidencePortal}
-                />
-                <span>{pl.evidencePortal}</span>
-              </li>
-              <li className="flex items-center gap-2">
-                <VerificationBadge
-                  level="derived"
-                  label={pl.evidenceDerived}
-                />
-                <span>{pl.evidenceDerived}</span>
-              </li>
-              <li className="flex items-center gap-2">
-                <VerificationBadge
-                  level="unverified"
-                  label={pl.evidenceUnavailable}
-                />
-                <span>{pl.evidenceUnavailable}</span>
-              </li>
-            </ul>
-          </section>
+          {officialWebsite ? (
+            <section
+              id="sources"
+              className="scroll-mt-24"
+              aria-labelledby="project-sources-heading"
+              data-slot="project-sources"
+            >
+              <h2 id="project-sources-heading" className="ds-h2 text-2xl">
+                {pl.sourcesTitle}
+              </h2>
+              <p className="mt-2 text-sm text-stone-600">{pl.sourcesNote}</p>
+              <SurfaceCard className="mt-4 space-y-2 p-5!">
+                <p className="text-xs tracking-wide text-stone-500 uppercase">
+                  {pl.sourcesOfficial}
+                </p>
+                <a
+                  href={officialWebsite}
+                  className="break-all text-sm font-medium text-[var(--brand)] hover:underline"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  {officialWebsite}
+                </a>
+              </SurfaceCard>
+            </section>
+          ) : null}
 
           {/* 10. Related projects */}
           <section
@@ -1273,31 +1232,35 @@ export default async function ProjectLandingPage({
             <p className="mt-2 text-sm text-stone-600">{pl.similarNote}</p>
             {similar.length ? (
               <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-                {similar.map((item) => (
-                  <ProjectCardShell key={item.slug}>
-                    <Link
-                      href={localePath(locale, `/projects/${item.slug}`)}
-                      className="font-medium text-[var(--brand-deep)] hover:underline"
-                    >
-                      {item.name[locale] || item.name.en}
-                    </Link>
-                    <p className="text-sm text-stone-600">
-                      {item.developer?.name[locale] ||
-                        item.districtName[locale] ||
-                        item.location[locale] ||
-                        unknown}
-                    </p>
-                  </ProjectCardShell>
-                ))}
+                {similar.map((item) => {
+                  const href = localePath(locale, `/projects/${item.slug}`);
+                  const name = item.name[locale] || item.name.en;
+                  const meta =
+                    item.developer?.name[locale] ||
+                    item.districtName[locale] ||
+                    item.location[locale] ||
+                    null;
+                  return (
+                    <ProjectCardShell key={item.slug} className="relative">
+                      <Link
+                        href={href}
+                        className="absolute inset-0 z-0 rounded-[inherit] outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
+                        aria-label={name}
+                        data-card-link="project"
+                      />
+                      <p className="relative font-medium text-[var(--brand-deep)] pointer-events-none">
+                        {name}
+                      </p>
+                      {meta ? (
+                        <p className="relative text-sm text-stone-600 pointer-events-none">
+                          {meta}
+                        </p>
+                      ) : null}
+                    </ProjectCardShell>
+                  );
+                })}
               </div>
-            ) : (
-              <div className="mt-5">
-                <EmptyState
-                  title={unknown}
-                  description={pl.relatedEmpty}
-                />
-              </div>
-            )}
+            ) : null}
           </section>
 
           {/* FAQ when present */}
@@ -1340,6 +1303,61 @@ export default async function ProjectLandingPage({
             </Link>
           </SurfaceCard>
 
+          {/* Trust trail — Knowledge · Developer · Area · Contact */}
+          <SurfaceCard className="p-5!" data-slot="project-trust-trail">
+            <h2 className="ds-h3 text-xl">{pl.trustTrailTitle}</h2>
+            <p className="mt-2 text-sm text-stone-600">{pl.trustTrailBody}</p>
+            <ul className="mt-3 space-y-2 text-sm">
+              {project.developer?.slug ? (
+                <li>
+                  <Link
+                    href={localePath(
+                      locale,
+                      `/developers/${project.developer.slug}`,
+                    )}
+                    className="text-[var(--brand)] underline-offset-2 hover:underline"
+                    data-slot="trust-developer-link"
+                  >
+                    {project.developer.name[locale] ||
+                      project.developer.name.en}
+                  </Link>
+                </li>
+              ) : null}
+              {project.districtSlug ? (
+                <li>
+                  <Link
+                    href={localePath(
+                      locale,
+                      `/districts/${project.districtSlug}`,
+                    )}
+                    className="text-[var(--brand)] underline-offset-2 hover:underline"
+                    data-slot="trust-district-link"
+                  >
+                    {districtLabel}
+                  </Link>
+                </li>
+              ) : null}
+              <li>
+                <Link
+                  href={localePath(locale, "/cities/bangkok")}
+                  className="text-[var(--brand)] underline-offset-2 hover:underline"
+                  data-slot="trust-area-link"
+                >
+                  {pl.trustTrailArea}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href={localePath(locale, "/contact")}
+                  className="text-[var(--brand)] underline-offset-2 hover:underline"
+                  data-slot="trust-contact-link"
+                >
+                  {dict.common.contactCta}
+                </Link>
+              </li>
+            </ul>
+          </SurfaceCard>
+
           {/* Buyer guides — internal knowledge links */}
           <SurfaceCard className="p-5!" data-slot="project-knowledge-links">
             <h2 className="ds-h3 text-xl">{dict.contentLinks.title}</h2>
@@ -1375,6 +1393,17 @@ export default async function ProjectLandingPage({
                   className="text-[var(--brand)] underline-offset-2 hover:underline"
                 >
                   {dict.contentLinks.condoGuide}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href={localePath(
+                    locale,
+                    "/knowledge/articles/thailand-developer-guide",
+                  )}
+                  className="text-[var(--brand)] underline-offset-2 hover:underline"
+                >
+                  {dict.contentLinks.developerGuide}
                 </Link>
               </li>
             </ul>
@@ -1437,6 +1466,12 @@ export default async function ProjectLandingPage({
           </div>
         </aside>
       </div>
+      <ProjectStickyContact
+        locale={locale}
+        dict={dict}
+        projectSlug={project.slug}
+        projectTitle={projectTitle}
+      />
     </div>
   );
 }

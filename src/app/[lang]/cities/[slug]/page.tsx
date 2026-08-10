@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { ReactNode } from "react";
 
 import { FeaturedProjectCard } from "@/components/launch/featured-project-card";
+import { CityDistrictList } from "@/components/cities/city-district-list";
 import { JsonLd } from "@/components/seo/json-ld";
 import { PageShell } from "@/components/layout/page-shell";
 import { PropertyGrid } from "@/components/property/property-grid";
@@ -16,9 +17,11 @@ import {
 } from "@/lib/cities/package";
 import { getCityBySlug, listDistrictsByCity } from "@/lib/data/geography";
 import { listPublishedProjects } from "@/lib/data/projects";
-import { listPublishedProperties } from "@/lib/data/properties";
+import {
+  listPublishedPropertiesPaged,
+} from "@/lib/data/properties";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
-import { buildPageMetadata, localePath } from "@/lib/i18n/metadata";
+import { buildPageMetadata, fillTemplate, localePath } from "@/lib/i18n/metadata";
 import { localizedOrNull, type DistrictAmenity } from "@/lib/districts/package";
 import {
   getFeaturedLaunchProjects,
@@ -63,45 +66,62 @@ function AmenityCards({
   items,
   locale,
   sourceLabel,
+  modeLabels,
+  limit = 9,
+  moreLabel,
 }: {
   items: DistrictAmenity[];
   locale: Locale;
   sourceLabel: string;
+  modeLabels: Record<string, string>;
+  limit?: number;
+  moreLabel?: string;
 }) {
+  const visible = items.slice(0, limit);
+  const remaining = Math.max(items.length - visible.length, 0);
   return (
-    <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-      {items.map((item, index) => {
-        const name =
-          localizedOrNull(item.name, locale) ||
-          item.name.en ||
-          item.name.th ||
-          item.name.zh;
-        return (
-          <li key={`${name}-${index}`}>
-            <SurfaceCard className="h-full space-y-1 p-4!">
-              <p className="text-sm font-medium text-[var(--brand-deep)]">
-                {name}
-                {item.mode ? (
-                  <span className="ml-2 text-xs font-normal tracking-wide text-stone-500 uppercase">
-                    {item.mode}
-                  </span>
+    <div className="space-y-3">
+      <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        {visible.map((item, index) => {
+          const name =
+            localizedOrNull(item.name, locale) ||
+            item.name.en ||
+            item.name.th ||
+            item.name.zh;
+          const modeKey = item.mode?.trim().toLowerCase() ?? "";
+          const modeLabel = modeKey
+            ? modeLabels[modeKey] || item.mode
+            : null;
+          return (
+            <li key={`${name}-${index}`}>
+              <SurfaceCard className="h-full space-y-1 p-4!">
+                <p className="text-sm font-medium text-[var(--brand-deep)]">
+                  {name}
+                  {modeLabel ? (
+                    <span className="ml-2 text-xs font-normal tracking-wide text-stone-500 uppercase">
+                      {modeLabel}
+                    </span>
+                  ) : null}
+                </p>
+                {item.sourceUrl ? (
+                  <a
+                    href={item.sourceUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xs text-[var(--brand)] hover:underline"
+                  >
+                    {sourceLabel}
+                  </a>
                 ) : null}
-              </p>
-              {item.sourceUrl ? (
-                <a
-                  href={item.sourceUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-xs text-[var(--brand)] hover:underline"
-                >
-                  {sourceLabel}
-                </a>
-              ) : null}
-            </SurfaceCard>
-          </li>
-        );
-      })}
-    </ul>
+              </SurfaceCard>
+            </li>
+          );
+        })}
+      </ul>
+      {remaining > 0 && moreLabel ? (
+        <p className="text-xs text-stone-500">{moreLabel}</p>
+      ) : null}
+    </div>
   );
 }
 
@@ -184,11 +204,7 @@ export default async function CityDetailPage({
             href={localePath(lang, "/cities/bangkok")}
             className={cn(buttonVariants({ variant: "primary" }), "inline-flex")}
           >
-            {lang === "zh"
-              ? "浏览曼谷"
-              : lang === "th"
-                ? "สำรวจกรุงเทพฯ"
-                : "Explore Bangkok"}
+            {dict.common.exploreBangkok}
           </Link>
         </SurfaceCard>
       </PageShell>
@@ -200,17 +216,27 @@ export default async function CityDetailPage({
 
   const pkg = getCityPackage(city.slug);
 
-  const [dict, districts, projects, listings] = await Promise.all([
+  const CITY_LISTING_PREVIEW = 12;
+  const CITY_PROJECT_PREVIEW = 12;
+  const CITY_AMENITY_PREVIEW = 9;
+
+  const [dict, districts, projects, listingPage] = await Promise.all([
     getDictionary(lang),
     listDistrictsByCity(city.id),
     listPublishedProjects({ cityId: city.id }),
-    listPublishedProperties({
+    listPublishedPropertiesPaged({
       citySlug: city.slug,
       verifiedOnly: true,
-      sort: "newest",
+      sort: "newest_verified",
+      page: 1,
+      pageSize: CITY_LISTING_PREVIEW,
     }),
   ]);
   const c = dict.cities;
+  const listings = listingPage.items;
+  const previewProjects = projects.slice(0, CITY_PROJECT_PREVIEW);
+  const hasMoreProjects = projects.length > previewProjects.length;
+  const hasMoreListings = listingPage.total > listings.length;
 
   const overview = cityParagraphs(pkg.overview, lang);
   const lifestyle = cityParagraphs(pkg.lifestyle, lang);
@@ -221,11 +247,14 @@ export default async function CityDetailPage({
   const cityFaqs = localizedCityFaq(pkg.faq, lang);
   const faqSchema = platformFaqSchema(lang, cityFaqs);
 
+  // Prefer package summary for subtitle when launch overview is shown in-body,
+  // avoiding duplicate overview paragraphs (CV-04).
   const subtitle =
-    launchArea?.overview[lang] ||
-    localizedOrNull(pkg.summary, lang) ||
-    city.summary[lang] ||
-    undefined;
+    (launchArea?.overview[lang]
+      ? localizedOrNull(pkg.summary, lang) || city.summary[lang]
+      : launchArea?.overview[lang] ||
+        localizedOrNull(pkg.summary, lang) ||
+        city.summary[lang]) || undefined;
 
   const featuredLaunch =
     launchArea?.status === "PRODUCTION_READY"
@@ -233,9 +262,18 @@ export default async function CityDetailPage({
           launchArea.featured_projects.includes(p.project_id),
         )
       : [];
-  const detailLabel =
-    lang === "zh" ? "查看详情" : lang === "th" ? "ดูรายละเอียด" : "View details";
+  const detailLabel = dict.common.viewProperty;
   const areaCta = getLaunchCta("area_page", lang);
+  const modeLabels: Record<string, string> = {
+    bts: dict.listings.bts,
+    mrt: dict.listings.mrt,
+    air: dict.listings.air,
+  };
+  const amenityMore = (total: number) =>
+    fillTemplate(c.amenityPreviewMore, {
+      shown: String(Math.min(CITY_AMENITY_PREVIEW, total)),
+      total: String(total),
+    });
 
   return (
     <PageShell
@@ -293,6 +331,7 @@ export default async function CityDetailPage({
                 locale={lang}
                 project={project}
                 detailLabel={detailLabel}
+                dict={dict}
               />
             ))}
           </div>
@@ -316,31 +355,39 @@ export default async function CityDetailPage({
         <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
           {dict.cities.districts}
         </h2>
-        <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {districts.map((district) => (
-            <li key={district.id}>
-              <Link
-                href={localePath(lang, `/districts/${district.slug}`)}
-                className="block rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3 hover:border-[var(--brand)]"
-              >
-                {district.name[lang]}
-              </Link>
-            </li>
-          ))}
-          {!districts.length ? (
-            <li className="text-sm text-stone-500">
-              {dict.cities.emptyDistricts}
-            </li>
-          ) : null}
-        </ul>
+        <CityDistrictList
+          districts={districts.map((district) => ({
+            id: district.id,
+            slug: district.slug,
+            name: district.name[lang],
+            href: localePath(lang, `/districts/${district.slug}`),
+          }))}
+          emptyLabel={dict.cities.emptyDistricts}
+          showMoreLabel={c.districtsShowMore}
+          showLessLabel={c.districtsShowLess}
+          initialCount={12}
+        />
       </section>
 
       <section className="mt-10 space-y-4" id="projects">
-        <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
-          {dict.nav.projects}
-        </h2>
+        <div className="flex items-end justify-between gap-4">
+          <h2 className="font-heading text-2xl text-[var(--brand-deep)]">
+            {dict.nav.projects}
+          </h2>
+          {hasMoreProjects ? (
+            <Link
+              href={localePath(lang, "/projects")}
+              className="text-sm text-[var(--brand)] hover:underline"
+            >
+              {c.viewAllProjects}
+            </Link>
+          ) : null}
+        </div>
+        {hasMoreProjects ? (
+          <p className="text-sm text-stone-500">{c.projectsPreviewNote}</p>
+        ) : null}
         <ul className="grid gap-3 sm:grid-cols-2">
-          {projects.map((project) => (
+          {previewProjects.map((project) => (
             <li key={project.id}>
               <Link
                 href={localePath(lang, `/projects/${project.slug}`)}
@@ -355,7 +402,7 @@ export default async function CityDetailPage({
               </Link>
             </li>
           ))}
-          {!projects.length ? (
+          {!previewProjects.length ? (
             <li className="text-sm text-stone-500">
               {dict.cities.emptyProjects}
             </li>
@@ -373,9 +420,12 @@ export default async function CityDetailPage({
               href={`${localePath(lang, "/properties")}?city=${city.slug}`}
               className="text-sm text-[var(--brand)] hover:underline"
             >
-              {dict.common.viewAll}
+              {dict.common.viewAllListings}
             </Link>
           </div>
+          {hasMoreListings ? (
+            <p className="text-sm text-stone-500">{c.listingsPreviewNote}</p>
+          ) : null}
           <PropertyGrid locale={lang} dict={dict} properties={listings} />
         </section>
       ) : null}
@@ -396,6 +446,13 @@ export default async function CityDetailPage({
             items={pkg.transportation}
             locale={lang}
             sourceLabel={c.amenitySource}
+            modeLabels={modeLabels}
+            limit={CITY_AMENITY_PREVIEW}
+            moreLabel={
+              pkg.transportation.length > CITY_AMENITY_PREVIEW
+                ? amenityMore(pkg.transportation.length)
+                : undefined
+            }
           />
         </CitySection>
       ) : null}
@@ -406,6 +463,13 @@ export default async function CityDetailPage({
             items={pkg.schools}
             locale={lang}
             sourceLabel={c.amenitySource}
+            modeLabels={modeLabels}
+            limit={CITY_AMENITY_PREVIEW}
+            moreLabel={
+              pkg.schools.length > CITY_AMENITY_PREVIEW
+                ? amenityMore(pkg.schools.length)
+                : undefined
+            }
           />
         </CitySection>
       ) : null}
@@ -416,6 +480,13 @@ export default async function CityDetailPage({
             items={pkg.hospitals}
             locale={lang}
             sourceLabel={c.amenitySource}
+            modeLabels={modeLabels}
+            limit={CITY_AMENITY_PREVIEW}
+            moreLabel={
+              pkg.hospitals.length > CITY_AMENITY_PREVIEW
+                ? amenityMore(pkg.hospitals.length)
+                : undefined
+            }
           />
         </CitySection>
       ) : null}
@@ -426,6 +497,13 @@ export default async function CityDetailPage({
             items={pkg.shopping}
             locale={lang}
             sourceLabel={c.amenitySource}
+            modeLabels={modeLabels}
+            limit={CITY_AMENITY_PREVIEW}
+            moreLabel={
+              pkg.shopping.length > CITY_AMENITY_PREVIEW
+                ? amenityMore(pkg.shopping.length)
+                : undefined
+            }
           />
         </CitySection>
       ) : null}

@@ -5,7 +5,6 @@ import Link from "next/link";
 import { CompareButton } from "@/components/compare/compare-button";
 import { FavoriteButton } from "@/components/favorites/favorite-button";
 import { ListingMediaFrame } from "@/components/property/listing-media-frame";
-import { Badge, SourceBadge } from "@/components/ui/badge";
 import { ListingCardShell } from "@/components/ui/card";
 import type { Locale } from "@/config/locales";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
@@ -31,17 +30,6 @@ type PropertyCardProps = {
   className?: string;
   imagePriority?: boolean;
 };
-
-function formatEvidenceDate(iso: string, locale: Locale) {
-  const date = new Date(iso);
-  if (Number.isNaN(date.getTime())) return iso;
-  const tag = locale === "zh" ? "zh-CN" : locale === "th" ? "th-TH" : "en-GB";
-  return new Intl.DateTimeFormat(tag, {
-    year: "numeric",
-    month: "short",
-    day: "numeric",
-  }).format(date);
-}
 
 export function PropertyCard({
   locale,
@@ -88,25 +76,22 @@ export function PropertyCard({
   const priceLabel = isSourcedPrice(property.priceThb)
     ? formatPrice(property.priceThb, locale, property.listingType)
     : unknown;
-  const verifiedLabel = property.lastVerifiedAt
-    ? dict.properties.lastVerified.replace(
-        "{date}",
-        formatEvidenceDate(property.lastVerifiedAt, locale),
-      )
-    : property.sourceUpdatedAt
-      ? dict.properties.sourceUpdated.replace(
-          "{date}",
-          formatEvidenceDate(property.sourceUpdatedAt, locale),
-        )
-      : null;
   const listingTypeLabel =
     property.listingType === "rent" ? dict.common.rent : dict.common.sale;
   const viewLabel = `${dict.common.viewProperty}: ${title}`;
   const helpLabel = `${dict.properties.platformHelp}: ${title}`;
+  const helpHref = localePath(locale, "/contact");
 
   return (
-    <ListingCardShell className={cn("min-h-[26rem]", className)}>
-      <div className="relative">
+    <ListingCardShell className={cn("relative min-h-[26rem]", className)}>
+      <Link
+        href={detailHref}
+        className="absolute inset-0 z-0 rounded-[inherit] outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
+        aria-label={viewLabel}
+        data-card-link="property"
+      />
+
+      <div className="relative pointer-events-none">
         <ListingMediaFrame
           locale={locale}
           dict={dict}
@@ -114,16 +99,14 @@ export function PropertyCard({
           alt={mediaAlt}
           propertyType={property.type}
           imageUrl={property.coverUrl}
-          imageSource={property.source}
           priority={imagePriority}
-          showSource={Boolean(property.coverUrl && property.source)}
         />
         {property.featured ? (
           <span className="absolute top-3 left-3 rounded-md bg-white/90 px-2 py-1 text-xs font-medium text-[var(--brand-deep)]">
             {dict.common.featured}
           </span>
         ) : null}
-        <span className="absolute top-3 right-3 z-10 flex items-start gap-2">
+        <span className="absolute top-3 right-3 z-10 flex items-start gap-2 pointer-events-auto">
           <CompareButton
             propertyId={property.id}
             propertySlug={property.slug}
@@ -142,24 +125,10 @@ export function PropertyCard({
             {listingTypeLabel}
           </span>
         </span>
-        {property.source && !property.coverUrl ? (
-          <span className="absolute bottom-3 left-3">
-            <SourceBadge source={property.source} />
-          </span>
-        ) : null}
       </div>
 
-      <div className="flex min-w-0 flex-1 flex-col gap-4 p-5">
+      <div className="relative flex min-w-0 flex-1 flex-col gap-4 p-5 pointer-events-none">
         <div className="space-y-2">
-          <div className="flex min-h-6 flex-wrap items-center gap-2">
-            {property.isVerifiedListing ? (
-              <Badge tone="verified">{dict.properties.verified}</Badge>
-            ) : null}
-            {property.source && property.coverUrl ? (
-              <SourceBadge source={property.source} />
-            ) : null}
-          </div>
-
           {placeBits.length ? (
             <p className="text-xs tracking-wide text-[var(--brand)] uppercase">
               {placeBits.join(" · ")}
@@ -173,17 +142,8 @@ export function PropertyCard({
           ) : null}
 
           <h3 className="font-heading text-xl leading-snug text-[var(--brand-deep)]">
-            <Link
-              href={detailHref}
-              className="rounded-sm outline-none hover:underline focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
-            >
-              {title}
-            </Link>
+            {title}
           </h3>
-
-          {verifiedLabel ? (
-            <p className="text-xs text-stone-500">{verifiedLabel}</p>
-          ) : null}
 
           {transitLabels.length ? (
             <p className="text-xs text-stone-500">
@@ -221,19 +181,16 @@ export function PropertyCard({
             <span className="sr-only">{dict.common.price}: </span>
             {priceLabel}
           </p>
-          <Link
-            href={detailHref}
-            className="inline-flex min-h-11 min-w-[5rem] items-center rounded-sm text-sm font-medium text-[var(--brand)] underline-offset-4 transition outline-none hover:underline focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
-            aria-label={viewLabel}
-          >
+          <span className="inline-flex min-h-11 min-w-[5rem] items-center text-sm font-medium text-[var(--brand)] underline-offset-4">
             {dict.common.viewProperty}
-          </Link>
+          </span>
         </div>
 
         <Link
-          href={localePath(locale, "/contact")}
-          className="rounded-sm text-xs font-medium text-stone-500 underline-offset-4 outline-none hover:text-[var(--brand)] hover:underline focus-visible:text-[var(--brand)] focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/30"
+          href={helpHref}
+          className="pointer-events-auto relative z-10 rounded-sm text-xs font-medium text-stone-500 underline-offset-4 outline-none hover:text-[var(--brand)] hover:underline focus-visible:text-[var(--brand)] focus-visible:underline focus-visible:ring-2 focus-visible:ring-[var(--brand)]/30"
           aria-label={helpLabel}
+          onClick={(event) => event.stopPropagation()}
         >
           {dict.properties.platformHelp}
         </Link>

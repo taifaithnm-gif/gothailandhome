@@ -1,0 +1,64 @@
+{
+  "base": "http://127.0.0.1:3042",
+  "browsers": {
+    "chromium/desktop": {
+      "overviewCount": 1,
+      "districtLinks": 12,
+      "retention": 1,
+      "containFit": 1,
+      "projectLinks": 3,
+      "consoleErrors": []
+    },
+    "chromium/tablet": {
+      "overviewCount": 1,
+      "districtLinks": 12,
+      "retention": 1,
+      "containFit": 1,
+      "projectLinks": 3,
+      "consoleErrors": []
+    },
+    "chromium/mobile": {
+      "overviewCount": 1,
+      "districtLinks": 12,
+      "retention": 1,
+      "containFit": 1,
+      "projectLinks": 3,
+      "consoleErrors": []
+    },
+    "webkit/desktop": {
+      "overviewCount": 1,
+      "districtLinks": 12,
+      "retention": 1,
+      "containFit": 1,
+      "projectLinks": 3,
+      "consoleErrors": []
+    },
+    "webkit/tablet": {
+      "overviewCount": 1,
+      "districtLinks": 12,
+      "retention": 1,
+      "containFit": 1,
+      "projectLinks": 3,
+      "consoleErrors": []
+    },
+    "webkit/mobile": {
+      "overviewCount": 1,
+      "districtLinks": 12,
+      "retention": 1,
+      "containFit": 1,
+      "projectLinks": 3,
+      "consoleErrors": []
+    }
+  },
+  "failures": [],
+  "summary": {
+    "failures": 0,
+    "pass": true
+  },
+  "bangkok": {
+    "charactersAfter": 12971,
+    "districtLinksInitial": 12,
+    "placeholders": 1,
+    "overviewCount": 1
+  }
+}

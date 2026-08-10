@@ -71,7 +71,6 @@ export function FavoritesBoard({ locale, dict }: FavoritesBoardProps) {
             </Link>
           }
         />
-        <p className="text-xs text-stone-500">{dict.favorites.retentionNote}</p>
       </div>
     );
   }
@@ -82,8 +81,6 @@ export function FavoritesBoard({ locale, dict }: FavoritesBoardProps) {
 
   return (
     <div className="space-y-8" data-slot="favorites-board">
-      <p className="text-sm text-stone-600">{dict.favorites.retentionNote}</p>
-
       {properties.length ? (
         <ul className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {properties.map((property) => (

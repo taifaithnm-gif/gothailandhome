@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-07-15",
+  "updated_at": "2026-08-02",
   "office": {
     "title": {
       "en": "Office",
@@ -23,18 +23,22 @@
         "zh": "平台客户成功",
         "th": "ฝ่ายลูกค้าสัมพันธ์แพลตฟอร์ม"
       },
-      "languages": ["zh", "en", "th"],
+      "languages": [
+        "zh",
+        "en",
+        "th"
+      ],
       "phone": "+66 64 494 8060",
       "whatsapp": "+66 64 494 8060",
-      "line": null,
+      "line": "https://line.me/ti/p/KPKgyMcpHy",
       "line_qr": "/contact/apple-line.png",
-      "wechat": null,
+      "wechat": "https://u.wechat.com/kCNYJMMqOB1JOrbG9Xb6FVY?s=3",
       "wechat_qr": "/contact/apple-wechat.png",
       "email": null,
       "availability": {
-        "en": "Daily by appointment (ICT)",
-        "zh": "预约服务（曼谷时间）",
-        "th": "นัดหมายล่วงหน้า (ICT)"
+        "en": "Daily by appointment, 9:00–21:00 Bangkok time (ICT)",
+        "zh": "预约服务，曼谷时间 9:00–21:00（ICT）",
+        "th": "นัดหมายล่วงหน้า 9:00–21:00 เวลาประเทศไทย (ICT)"
       },
       "active": true,
       "sort_order": 1
@@ -48,7 +52,10 @@
         "zh": "平台客户成功",
         "th": "ฝ่ายลูกค้าสัมพันธ์แพลตฟอร์ม"
       },
-      "languages": ["th", "en"],
+      "languages": [
+        "th",
+        "en"
+      ],
       "phone": "+66 61 370 6123",
       "whatsapp": "+66 61 370 6123",
       "line": null,
@@ -57,9 +64,9 @@
       "wechat_qr": null,
       "email": null,
       "availability": {
-        "en": "Daily by appointment (ICT)",
-        "zh": "预约服务（曼谷时间）",
-        "th": "นัดหมายล่วงหน้า (ICT)"
+        "en": "Daily by appointment, 9:00–21:00 Bangkok time (ICT)",
+        "zh": "预约服务，曼谷时间 9:00–21:00（ICT）",
+        "th": "นัดหมายล่วงหน้า 9:00–21:00 เวลาประเทศไทย (ICT)"
       },
       "active": true,
       "sort_order": 2
