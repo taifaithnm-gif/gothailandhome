@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
+import { KnowledgeJourneyCta } from "@/components/content/knowledge-journey-cta";
 import { JsonLd } from "@/components/seo/json-ld";
 import { PageShell } from "@/components/layout/page-shell";
 import { SurfaceCard } from "@/components/ui/card";
@@ -102,9 +103,11 @@ export default async function KnowledgeArticleDetailPage({
           </SurfaceCard>
         ) : null}
         <SurfaceCard className="space-y-4 p-5!">
-          <h2 className="ds-h3 text-lg text-[var(--brand-deep)]">
-            {k.articleBodyTitle}
-          </h2>
+          {k.articleBodyTitle ? (
+            <h2 className="ds-h3 text-lg text-[var(--brand-deep)]">
+              {k.articleBodyTitle}
+            </h2>
+          ) : null}
           <div className="space-y-3 text-sm leading-relaxed text-stone-700">
             {article.body.value.map((paragraph, index) => (
               <p key={index}>{paragraph}</p>
@@ -158,6 +161,12 @@ export default async function KnowledgeArticleDetailPage({
             </ul>
           </SurfaceCard>
         ) : null}
+        <KnowledgeJourneyCta
+          locale={lang}
+          dict={dict}
+          articleSlug={article.slug}
+          relatedLinks={article.relatedLinks}
+        />
         <SurfaceCard className="space-y-3 p-5!">
           <p className="text-xs text-stone-500">
             {k.verifiedOn}: {article.reviewedAt}
