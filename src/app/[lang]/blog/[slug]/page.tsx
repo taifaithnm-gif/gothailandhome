@@ -94,7 +94,9 @@ export default async function BlogDetailPage({
           </SurfaceCard>
         ) : null}
         <SurfaceCard className="space-y-3 p-5!">
-          <h2 className="ds-h3 text-lg">{dict.blog.bodyTitle}</h2>
+          {dict.blog.bodyTitle ? (
+            <h2 className="ds-h3 text-lg">{dict.blog.bodyTitle}</h2>
+          ) : null}
           <div className="space-y-3 text-sm leading-relaxed text-stone-700">
             {post.body.value.map((paragraph, index) => (
               <p key={index}>{paragraph}</p>

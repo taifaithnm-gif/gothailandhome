@@ -91,7 +91,9 @@ export default async function LegalGuidePage({
           </SurfaceCard>
         ) : null}
         <SurfaceCard className="space-y-4 p-5!">
-          <h2 className="ds-h3 text-lg text-[var(--brand-deep)]">{g.bodyTitle}</h2>
+          {g.bodyTitle ? (
+            <h2 className="ds-h3 text-lg text-[var(--brand-deep)]">{g.bodyTitle}</h2>
+          ) : null}
           <div className="space-y-3 text-sm leading-relaxed text-stone-700">
             {guide.body.value.map((paragraph, index) => (
               <p key={index}>{paragraph}</p>

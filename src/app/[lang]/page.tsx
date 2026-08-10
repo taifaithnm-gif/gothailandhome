@@ -151,20 +151,9 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
     projectNameBySlug[p.project_id] = p.project_name[lang];
   }
 
-  const detailLabel =
-    lang === "zh" ? "查看详情" : lang === "th" ? "ดูรายละเอียด" : "View details";
-  const projectCountLabel =
-    lang === "zh"
-      ? "{count} 个已核实项目"
-      : lang === "th"
-        ? "{count} โครงการที่ตรวจสอบแล้ว"
-        : "{count} verified projects";
-  const featuredProjectsLabel =
-    lang === "zh"
-      ? "精选项目"
-      : lang === "th"
-        ? "โครงการแนะนำ"
-        : "Featured projects";
+  const detailLabel = dict.common.viewProperty;
+  const projectCountLabel = dict.developers.cardProjectCount;
+  const featuredProjectsLabel = dict.developers.featuredProjects;
 
   const h = dict.home;
   const hero = launch.sections.hero;
@@ -302,6 +291,7 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
                   locale={lang}
                   project={project}
                   detailLabel={detailLabel}
+                  dict={dict}
                   priority={index < 3}
                 />
               ))}

@@ -8,6 +8,7 @@ import { FavoritesProvider } from "@/components/favorites/favorites-provider";
 import { SiteFooter } from "@/components/layout/site-footer";
 import { SiteHeader } from "@/components/layout/site-header";
 import { isLocale, localeHtmlLang, locales } from "@/config/locales";
+import { listBlogPosts } from "@/lib/content";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import {
   documentBodyStyle,
@@ -40,6 +41,7 @@ export default async function LocaleRootLayout({
 
   const dict = await getDictionary(lang);
   const htmlLang = localeHtmlLang[lang];
+  const showBlog = listBlogPosts().length > 0;
 
   return (
     <html lang={htmlLang} className={documentFontClassName}>
@@ -57,11 +59,11 @@ export default async function LocaleRootLayout({
           <FavoritesProvider>
             <CompareProvider>
               <div className="flex min-h-full flex-1 flex-col">
-                <SiteHeader locale={lang} dict={dict} />
+                <SiteHeader locale={lang} dict={dict} showBlog={showBlog} />
                 <main id="main-content" className="flex-1">
                   {children}
                 </main>
-                <SiteFooter locale={lang} dict={dict} />
+                <SiteFooter locale={lang} dict={dict} showBlog={showBlog} />
               </div>
               <AnalyticsPageView locale={lang} />
               <AnalyticsConsentBanner dict={dict} />

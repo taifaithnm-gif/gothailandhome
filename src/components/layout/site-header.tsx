@@ -2,8 +2,8 @@
 
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
-import { Suspense, useState } from "react";
-import { Menu, X } from "lucide-react";
+import { Suspense, useEffect, useId, useRef, useState } from "react";
+import { ChevronDown, Menu, X } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 import { locales, localeLabels, type Locale } from "@/config/locales";
@@ -20,7 +20,31 @@ import { cn } from "@/lib/utils";
 type SiteHeaderProps = {
   locale: Locale;
   dict: Dictionary;
+  /** When false, Blog is omitted from desktop/mobile chrome. */
+  showBlog?: boolean;
 };
+
+/** Always visible on desktop — fits common widths without clipping. */
+const DESKTOP_PRIMARY_IDS = new Set([
+  "buy",
+  "rent",
+  "properties",
+  "projects",
+  "cities",
+  "developers",
+  "marketplace",
+  "knowledge",
+]);
+
+/** Reachable via More menu — never clipped/hidden without a control. */
+const DESKTOP_MORE_IDS = new Set([
+  "favorites",
+  "compare",
+  "faq",
+  "blog",
+  "about",
+  "partners",
+]);
 
 const navLinkFocusClass =
   "outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-gold)]/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--brand-deep)]";
@@ -96,11 +120,41 @@ function LocaleSwitcherFallback({
   );
 }
 
-export function SiteHeader({ locale, dict }: SiteHeaderProps) {
+export function SiteHeader({ locale, dict, showBlog = true }: SiteHeaderProps) {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
+  const [moreOpen, setMoreOpen] = useState(false);
+  const moreRef = useRef<HTMLDivElement>(null);
+  const moreMenuId = useId();
   const homeHref = localePath(locale);
-  const groups = getSiteNavGroups(locale, dict);
+  const groups = getSiteNavGroups(locale, dict, { showBlog });
+  const allLinks = groups.flatMap((group) => group.links);
+  const contactLink = allLinks.find((link) => link.id === "contact");
+  const desktopPrimary = allLinks.filter((link) =>
+    DESKTOP_PRIMARY_IDS.has(link.id),
+  );
+  const desktopMore = allLinks.filter((link) => DESKTOP_MORE_IDS.has(link.id));
+  const moreActive = desktopMore.some((link) =>
+    isNavLinkActive(pathname, link.href, homeHref),
+  );
+
+  useEffect(() => {
+    if (!moreOpen) return;
+    function onPointerDown(event: MouseEvent) {
+      if (!moreRef.current?.contains(event.target as Node)) {
+        setMoreOpen(false);
+      }
+    }
+    function onKeyDown(event: KeyboardEvent) {
+      if (event.key === "Escape") setMoreOpen(false);
+    }
+    document.addEventListener("mousedown", onPointerDown);
+    document.addEventListener("keydown", onKeyDown);
+    return () => {
+      document.removeEventListener("mousedown", onPointerDown);
+      document.removeEventListener("keydown", onKeyDown);
+    };
+  }, [moreOpen]);
 
   function renderLink(link: SiteNavLink, onNavigate?: () => void) {
     const active = isNavLinkActive(pathname, link.href, homeHref);
@@ -110,7 +164,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
         key={link.id}
         href={link.href}
         className={cn(
-          "rounded-sm text-sm transition-colors",
+          "rounded-sm text-sm whitespace-nowrap transition-colors",
           navLinkFocusClass,
           active ? "text-[var(--brand-gold)]" : "text-white/80 hover:text-white",
         )}
@@ -160,13 +214,16 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
         : "text-white/70 hover:bg-white/10",
     );
 
+  const moreLabel =
+    locale === "zh" ? "更多" : locale === "th" ? "เพิ่มเติม" : "More";
+
   return (
     <header className="sticky top-0 z-40 border-b border-white/10 bg-[var(--brand-deep)]/95 text-white backdrop-blur-md">
-      <div className="ds-container flex h-16 items-center justify-between gap-4">
+      <div className="ds-container flex h-16 items-center justify-between gap-3">
         <Link
           href={homeHref}
           className={cn(
-            "font-heading text-lg tracking-tight transition-opacity hover:opacity-90 sm:text-xl",
+            "shrink-0 font-heading text-lg tracking-tight transition-opacity hover:opacity-90 sm:text-xl",
             navLinkFocusClass,
           )}
         >
@@ -174,24 +231,93 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
         </Link>
 
         <nav
-          className="hidden max-w-[42rem] items-center gap-5 overflow-x-auto [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden lg:flex xl:max-w-none xl:gap-6"
+          className="hidden min-w-0 flex-1 items-center justify-end gap-4 lg:flex xl:gap-5"
           aria-label={dict.nav.primary}
+          data-slot="desktop-primary-nav"
         >
-          {groups.map((group, index) => (
-            <div
-              key={group.id}
-              role="group"
-              aria-label={group.label}
-              className={cn(
-                "flex shrink-0 items-center gap-5 xl:gap-6",
-                index > 0 &&
-                  "border-l border-white/15 pl-5 xl:pl-6",
-              )}
-            >
-              {group.links.map((link) => renderLink(link))}
+          {desktopPrimary.map((link) => renderLink(link))}
+          {desktopMore.length ? (
+            <div className="relative" ref={moreRef}>
+              <button
+                type="button"
+                className={cn(
+                  "inline-flex items-center gap-1 rounded-sm text-sm whitespace-nowrap transition-colors",
+                  navLinkFocusClass,
+                  moreOpen || moreActive
+                    ? "text-[var(--brand-gold)]"
+                    : "text-white/80 hover:text-white",
+                )}
+                aria-expanded={moreOpen}
+                aria-controls={moreMenuId}
+                aria-haspopup="menu"
+                onClick={() => setMoreOpen((value) => !value)}
+              >
+                {moreLabel}
+                <ChevronDown
+                  className={cn(
+                    "size-3.5 transition",
+                    moreOpen && "rotate-180",
+                  )}
+                  aria-hidden
+                />
+              </button>
+              {moreOpen ? (
+                <div
+                  id={moreMenuId}
+                  role="menu"
+                  className="absolute top-full right-0 z-50 mt-2 min-w-[11rem] rounded-lg border border-white/10 bg-[var(--brand-deep)] py-2 shadow-lg"
+                >
+                  {desktopMore.map((link) => {
+                    const active = isNavLinkActive(
+                      pathname,
+                      link.href,
+                      homeHref,
+                    );
+                    return (
+                      <Link
+                        key={link.id}
+                        role="menuitem"
+                        href={link.href}
+                        className={cn(
+                          "block px-4 py-2 text-sm transition-colors",
+                          navLinkFocusClass,
+                          active
+                            ? "bg-white/10 text-[var(--brand-gold)]"
+                            : "text-white/90 hover:bg-white/10 hover:text-white",
+                        )}
+                        aria-current={active ? "page" : undefined}
+                        onClick={() => setMoreOpen(false)}
+                      >
+                        {link.label}
+                      </Link>
+                    );
+                  })}
+                </div>
+              ) : null}
             </div>
-          ))}
+          ) : null}
         </nav>
+
+        {contactLink ? (
+          <Link
+            href={contactLink.href}
+            className={cn(
+              "hidden shrink-0 rounded-sm text-sm font-medium transition-colors lg:inline",
+              navLinkFocusClass,
+              isNavLinkActive(pathname, contactLink.href, homeHref)
+                ? "text-[var(--brand-gold)]"
+                : "text-white hover:text-[var(--brand-gold)]",
+            )}
+            aria-current={
+              isNavLinkActive(pathname, contactLink.href, homeHref)
+                ? "page"
+                : undefined
+            }
+            data-nav="contact-pinned"
+          >
+            {contactLink.label}
+          </Link>
+        ) : null}
 
         <Suspense
           fallback={
@@ -207,7 +333,7 @@ export function SiteHeader({ locale, dict }: SiteHeaderProps) {
           <LocaleSwitcher
             locale={locale}
             dict={dict}
-            className="hidden items-center gap-2 md:flex"
+            className="hidden shrink-0 items-center gap-2 md:flex"
             linkClassName={localeLinkClass}
           />
         </Suspense>

@@ -10,12 +10,14 @@ import {
 type SiteFooterProps = {
   locale: Locale;
   dict: Dictionary;
+  /** When false, Blog is omitted from footer company links. */
+  showBlog?: boolean;
 };
 
-export function SiteFooter({ locale, dict }: SiteFooterProps) {
+export function SiteFooter({ locale, dict, showBlog = true }: SiteFooterProps) {
   const year = new Date().getFullYear();
-  const explore = getFooterExploreLinks(locale, dict);
-  const company = getFooterCompanyLinks(locale, dict);
+  const explore = getFooterExploreLinks(locale, dict, { showBlog });
+  const company = getFooterCompanyLinks(locale, dict, { showBlog });
 
   return (
     <footer className="mt-auto border-t border-[var(--brand-line)] bg-[var(--brand-deep)] text-white">

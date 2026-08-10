@@ -2,6 +2,7 @@ import Link from "next/link";
 
 import { SurfaceCard } from "@/components/ui/card";
 import type { Locale } from "@/config/locales";
+import { listBlogPosts } from "@/lib/content";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { localePath } from "@/lib/i18n/metadata";
 
@@ -10,6 +11,8 @@ type ContentRelatedLinksProps = {
   dict: Dictionary;
   /** Current path without locale prefix, e.g. `/knowledge/investment` */
   currentPath: string;
+  /** When false, omit Blog from related links. Defaults from public inventory. */
+  showBlog?: boolean;
 };
 
 const LINK_DEFS = [
@@ -29,7 +32,9 @@ export function ContentRelatedLinks({
   locale,
   dict,
   currentPath,
+  showBlog,
 }: ContentRelatedLinksProps) {
+  const includeBlog = showBlog ?? listBlogPosts().length > 0;
   const labels = {
     knowledge: dict.nav.knowledge,
     articles: dict.knowledge.articlesTitle,
@@ -38,7 +43,10 @@ export function ContentRelatedLinks({
     faq: dict.faqHub.title,
     blog: dict.blog.title,
   };
-  const links = LINK_DEFS.filter((item) => item.path !== currentPath);
+  const links = LINK_DEFS.filter(
+    (item) =>
+      item.path !== currentPath && (item.id !== "blog" || includeBlog),
+  );
 
   return (
     <SurfaceCard className="space-y-3 p-5!" data-slot="content-related-links">

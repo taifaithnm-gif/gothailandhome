@@ -16,6 +16,11 @@ export type SiteNavGroup = {
   links: SiteNavLink[];
 };
 
+export type SiteNavOptions = {
+  /** When false, Blog is omitted from public chrome (route still exists). */
+  showBlog?: boolean;
+};
+
 /**
  * Phase 1 site navigation IA — single source for header desktop/mobile groups.
  * Footer explore/company columns are derived from the same groups.
@@ -23,7 +28,47 @@ export type SiteNavGroup = {
 export function getSiteNavGroups(
   locale: Locale,
   dict: Dictionary,
+  options: SiteNavOptions = {},
 ): SiteNavGroup[] {
+  const showBlog = options.showBlog !== false;
+  const companyLinks: SiteNavLink[] = [
+    {
+      id: "knowledge",
+      href: localePath(locale, "/knowledge"),
+      label: dict.nav.knowledge,
+    },
+    {
+      id: "faq",
+      href: localePath(locale, "/faq"),
+      label: dict.faqHub.title,
+    },
+    ...(showBlog
+      ? [
+          {
+            id: "blog",
+            href: localePath(locale, "/blog"),
+            label: dict.blog.title,
+          } satisfies SiteNavLink,
+        ]
+      : []),
+    {
+      id: "about",
+      href: localePath(locale, "/about"),
+      label: dict.nav.about,
+    },
+    {
+      // Partners catalog is the marketplace hub (developer + agency cards).
+      id: "partners",
+      href: localePath(locale, "/marketplace"),
+      label: dict.nav.partners,
+    },
+    {
+      id: "contact",
+      href: localePath(locale, "/contact"),
+      label: dict.nav.contact,
+    },
+  ];
+
   return [
     {
       id: "browse",
@@ -80,39 +125,7 @@ export function getSiteNavGroups(
     {
       id: "company",
       label: dict.nav.sectionCompany,
-      links: [
-        {
-          id: "knowledge",
-          href: localePath(locale, "/knowledge"),
-          label: dict.nav.knowledge,
-        },
-        {
-          id: "faq",
-          href: localePath(locale, "/faq"),
-          label: dict.faqHub.title,
-        },
-        {
-          id: "blog",
-          href: localePath(locale, "/blog"),
-          label: dict.blog.title,
-        },
-        {
-          id: "about",
-          href: localePath(locale, "/about"),
-          label: dict.nav.about,
-        },
-        {
-          // Partners catalog is the marketplace hub (developer + agency cards).
-          id: "partners",
-          href: localePath(locale, "/marketplace"),
-          label: dict.nav.partners,
-        },
-        {
-          id: "contact",
-          href: localePath(locale, "/contact"),
-          label: dict.nav.contact,
-        },
-      ],
+      links: companyLinks,
     },
   ];
 }
@@ -121,8 +134,9 @@ export function getSiteNavGroups(
 export function getFooterExploreLinks(
   locale: Locale,
   dict: Dictionary,
+  options: SiteNavOptions = {},
 ): SiteNavLink[] {
-  const groups = getSiteNavGroups(locale, dict);
+  const groups = getSiteNavGroups(locale, dict, options);
   const browse = groups.find((group) => group.id === "browse");
   const marketplace = groups.find((group) => group.id === "marketplace");
   return [
@@ -135,10 +149,12 @@ export function getFooterExploreLinks(
 export function getFooterCompanyLinks(
   locale: Locale,
   dict: Dictionary,
+  options: SiteNavOptions = {},
 ): SiteNavLink[] {
   return (
-    getSiteNavGroups(locale, dict).find((group) => group.id === "company")
-      ?.links ?? []
+    getSiteNavGroups(locale, dict, options).find(
+      (group) => group.id === "company",
+    )?.links ?? []
   );
 }
 

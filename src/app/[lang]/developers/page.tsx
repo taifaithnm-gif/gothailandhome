@@ -45,20 +45,9 @@ export default async function DevelopersIndexPage({
     projectNameBySlug[p.project_id] = p.project_name[lang];
   }
 
-  const detailLabel =
-    lang === "zh" ? "查看详情" : lang === "th" ? "ดูรายละเอียด" : "View details";
-  const projectCountLabel =
-    lang === "zh"
-      ? "{count} 个已核实项目"
-      : lang === "th"
-        ? "{count} โครงการที่ตรวจสอบแล้ว"
-        : "{count} verified projects";
-  const featuredProjectsLabel =
-    lang === "zh"
-      ? "精选项目"
-      : lang === "th"
-        ? "โครงการแนะนำ"
-        : "Featured projects";
+  const detailLabel = dict.common.viewProperty;
+  const projectCountLabel = dict.developers.cardProjectCount;
+  const featuredProjectsLabel = dict.developers.featuredProjects;
 
   const extraPublished = published.filter((d) => !launchIds.has(d.slug));
 
@@ -90,7 +79,9 @@ export default async function DevelopersIndexPage({
             <li key={developer.id}>
               <Link
                 href={localePath(lang, `/developers/${developer.slug}`)}
-                className="block rounded-2xl border border-[var(--brand-line)] bg-white p-6 hover:border-[var(--brand)]"
+                className="block rounded-2xl border border-[var(--brand-line)] bg-white p-6 outline-none transition hover:border-[var(--brand)] focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
+                data-card-link="developer"
+                aria-label={`${detailLabel}: ${developer.name[lang]}`}
               >
                 <h2 className="font-heading text-xl text-[var(--brand-deep)]">
                   {developer.name[lang]}
@@ -98,6 +89,9 @@ export default async function DevelopersIndexPage({
                 <p className="mt-2 line-clamp-3 text-sm text-stone-600">
                   {developer.description[lang]}
                 </p>
+                <span className="mt-4 inline-flex text-sm font-medium text-[var(--brand)]">
+                  {detailLabel}
+                </span>
               </Link>
             </li>
           ))}
