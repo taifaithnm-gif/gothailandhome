@@ -8,10 +8,9 @@ import {
   PlatformCustomerSuccess,
 } from "@/components/marketplace/contact-blocks";
 import { PropertyGrid } from "@/components/property/property-grid";
-import { Badge, VerificationBadge } from "@/components/ui/badge";
+import { Badge } from "@/components/ui/badge";
 import { buttonVariants } from "@/components/ui/button";
 import { DeveloperCardShell, SurfaceCard } from "@/components/ui/card";
-import { EmptyState } from "@/components/ui/states";
 import type { Locale } from "@/config/locales";
 import type { DeveloperView } from "@/lib/data/developers";
 import type { ProjectView } from "@/lib/data/projects";
@@ -19,28 +18,18 @@ import type { PropertyView } from "@/lib/data/properties";
 import {
   DEVELOPER_LISTING_PREVIEW_SIZE,
   DEVELOPER_PROJECT_PREVIEW_SIZE,
-  evidenceLabelKey,
   mayPresentFact,
   presentationClassFor,
-  toVerificationLevel,
   type DeveloperEvidenceRow,
   type DeveloperPresentationClass,
 } from "@/lib/developers/evidence";
 import {
   getDeveloperLogoPresentation,
-  logoStatusLabelKey,
 } from "@/lib/developers/logo-presentation";
 import type { DeveloperPackageFacts } from "@/lib/developers/package-facts";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { fillTemplate, localePath } from "@/lib/i18n/metadata";
 import { cn } from "@/lib/utils";
-
-function evidenceLabel(
-  dict: Dictionary,
-  cls: DeveloperPresentationClass,
-): string {
-  return dict.developers[evidenceLabelKey(cls)];
-}
 
 function Section({
   id,
@@ -70,27 +59,22 @@ function FactCell({
   label,
   value,
   cls,
-  dict,
 }: {
   label: string;
   value: string | null | undefined;
   cls: DeveloperPresentationClass;
-  dict: Dictionary;
+  dict?: Dictionary;
+  field?: keyof Dictionary["developers"]["unavailableByField"];
 }) {
   const show =
     mayPresentFact(cls) && value != null && String(value).trim() !== "";
+  if (!show) return null;
   return (
     <div className="rounded-xl border border-[var(--brand-line)] bg-white px-4 py-3">
       <dt className="ds-caption text-stone-500">{label}</dt>
-      <div className="mt-1 flex flex-wrap items-center gap-2">
-        <dd className="text-sm font-medium text-[var(--brand-deep)]">
-          {show ? value : dict.developers.unavailable}
-        </dd>
-        <VerificationBadge
-          level={toVerificationLevel(cls)}
-          label={evidenceLabel(dict, cls)}
-        />
-      </div>
+      <dd className="mt-1 text-sm font-medium text-[var(--brand-deep)]">
+        {value}
+      </dd>
     </div>
   );
 }
@@ -108,12 +92,9 @@ function NeutralDeveloperMark({
       className="flex aspect-square w-full max-w-[10rem] flex-col items-center justify-center gap-2 rounded-[var(--card-radius)] bg-[linear-gradient(145deg,#0f4f49_0%,#1a6b63_48%,#c4a035_140%)] text-white"
       role="img"
       aria-label={label}
-      data-slot="developer-logo-placeholder"
+      data-slot="branded-media-placeholder"
     >
       <span className="font-heading text-4xl">{initial}</span>
-      <span className="px-3 text-center text-[10px] tracking-wide uppercase opacity-80">
-        {label}
-      </span>
     </div>
   );
 }
@@ -161,7 +142,6 @@ export function DeveloperCenter({
   const completedCls = presentationClassFor(evidence, "completed_projects");
   const activeCls = presentationClassFor(evidence, "active_projects");
   const logo = getDeveloperLogoPresentation(developer.slug);
-  const logoStatusLabel = d[logoStatusLabelKey(logo.status)];
 
   const displayName = developer.name[locale] || developer.name.en;
   const profileText =
@@ -190,12 +170,6 @@ export function DeveloperCenter({
       ? developer.website
       : null;
 
-  const irSources = packageFacts.sources.filter(
-    (s) =>
-      s.type === "official_developer" ||
-      /about|ir|set|factsheet|investor/i.test(s.name + s.url),
-  );
-
   const withListings = projects.filter(
     (p) => (listingCountByProject.get(p.slug) ?? 0) > 0,
   );
@@ -209,7 +183,6 @@ export function DeveloperCenter({
     { id: "listings", label: d.currentListings },
     { id: "company", label: d.company },
     { id: "official-website", label: d.officialWebsite },
-    { id: "verification", label: d.verification },
     { id: "partnership", label: d.partnershipTitle },
     ...(faqs.length ? [{ id: "faq", label: d.faqTitle }] : []),
     { id: "related-developers", label: d.relatedDevelopers },
@@ -263,14 +236,7 @@ export function DeveloperCenter({
   function renderProjectGroup(title: string, items: ProjectView[]) {
     const preview = items.slice(0, DEVELOPER_PROJECT_PREVIEW_SIZE);
     if (!preview.length) {
-      return (
-        <div>
-          <h3 className="text-sm font-semibold tracking-wide text-stone-500 uppercase">
-            {title}
-          </h3>
-          <p className="mt-2 text-sm text-stone-500">{d.unavailable}</p>
-        </div>
-      );
+      return null;
     }
     return (
       <div>
@@ -333,33 +299,20 @@ export function DeveloperCenter({
               <div data-logo-status={logo.status}>
                 <NeutralDeveloperMark
                   name={displayName}
-                  label={d.logoMissing}
+                  label={displayName}
                 />
               </div>
             )}
-            <p
-              className="mt-2 max-w-[10rem] text-xs text-stone-500"
-              data-slot="developer-logo-status"
-            >
-              <span className="font-medium text-stone-600">{d.logoStatus}: </span>
-              {logoStatusLabel}
-            </p>
           </div>
           <div>
             <div className="flex flex-wrap items-center gap-2">
               <Badge tone="brand">{d.centerEyebrow}</Badge>
-              <VerificationBadge
-                level={toVerificationLevel(nameCls)}
-                label={evidenceLabel(dict, nameCls)}
-              />
             </div>
             <h1 className="font-heading mt-3 text-4xl text-[var(--brand-deep)] sm:text-5xl">
               {displayName}
             </h1>
             <p className="mt-2 text-lg text-stone-600">
-              {mayPresentFact(nameCls)
-                ? developer.legalName[locale] || developer.legalName.en
-                : d.unavailable}
+              {mayPresentFact(nameCls) ? developer.legalName[locale] || developer.legalName.en : null}
             </p>
             {profileText ? (
               <p className="mt-4 max-w-2xl text-sm text-stone-700 sm:text-base">
@@ -415,10 +368,6 @@ export function DeveloperCenter({
                 <h3 className="text-sm font-semibold text-[var(--brand-deep)]">
                   {d.factoryLinked}
                 </h3>
-                <VerificationBadge
-                  level="derived"
-                  label={d.evidenceFactory}
-                />
               </div>
               <p className="mt-2 text-sm text-stone-600">{d.factoryLinkedNote}</p>
               <p
@@ -522,11 +471,9 @@ export function DeveloperCenter({
             </dl>
             <div className="mt-4">
               <p className="ds-caption text-stone-500">{d.companyHistory}</p>
-              <p className="mt-1 text-sm text-stone-600">
-                {profileCls === "OFFICIAL" && profileText
-                  ? profileText
-                  : d.unavailable}
-              </p>
+              {profileCls === "OFFICIAL" && profileText ? (
+                <p className="mt-1 text-sm text-stone-600">{profileText}</p>
+              ) : null}
             </div>
           </Section>
 
@@ -541,10 +488,6 @@ export function DeveloperCenter({
                   <p className="text-sm font-medium text-[var(--brand-deep)]">
                     {website}
                   </p>
-                  <VerificationBadge
-                    level={toVerificationLevel(websiteCls)}
-                    label={evidenceLabel(dict, websiteCls)}
-                  />
                 </div>
                 <a
                   href={website}
@@ -559,96 +502,7 @@ export function DeveloperCenter({
                   <ExternalLink className="size-3.5" aria-hidden />
                 </a>
               </SurfaceCard>
-            ) : (
-              <EmptyState title={d.unavailable} description={d.websiteMissing} />
-            )}
-          </Section>
-
-          <Section
-            id="verification"
-            title={d.verification}
-            note={d.verificationNote}
-          >
-            <ul className="space-y-3 text-sm text-stone-700">
-              {irSources.length || packageFacts.listedCompany?.profileUrl ? (
-                <li>
-                  <span className="font-medium">{d.irSource}: </span>
-                  <ul className="mt-1 space-y-1">
-                    {packageFacts.listedCompany?.profileUrl ? (
-                      <li>
-                        <a
-                          href={packageFacts.listedCompany.profileUrl}
-                          className="text-[var(--brand)] hover:underline"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          {[
-                            packageFacts.listedCompany.exchange,
-                            packageFacts.listedCompany.ticker,
-                          ]
-                            .filter(Boolean)
-                            .join(" ") ||
-                            packageFacts.listedCompany.profileUrl}
-                        </a>
-                      </li>
-                    ) : null}
-                    {irSources.map((source) => (
-                      <li key={source.url}>
-                        <a
-                          href={source.url}
-                          className="text-[var(--brand)] hover:underline"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          {source.name}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                </li>
-              ) : (
-                <li>
-                  <span className="font-medium">{d.irSource}: </span>
-                  {d.unavailable}
-                </li>
-              )}
-              <li>
-                <span className="font-medium">{d.lastVerified}: </span>
-                {packageFacts.verifiedAt || d.unavailable}
-              </li>
-              <li>
-                <span className="font-medium">{d.logoStatus}: </span>
-                <span data-slot="developer-logo-status-detail">
-                  {logoStatusLabel}
-                </span>
-              </li>
-            </ul>
-            <ul className="mt-6 flex flex-wrap gap-2">
-              {(
-                [
-                  "OFFICIAL",
-                  "PARTIAL",
-                  "FACTORY_LINKED",
-                  "UNVERIFIED",
-                ] as DeveloperPresentationClass[]
-              ).map((cls) => (
-                <li key={cls} className="flex items-center gap-2 text-sm">
-                  <VerificationBadge
-                    level={toVerificationLevel(cls)}
-                    label={evidenceLabel(dict, cls)}
-                  />
-                  <span className="text-stone-600">
-                    {evidenceLabel(dict, cls)}
-                  </span>
-                </li>
-              ))}
-            </ul>
-            <SurfaceCard className="mt-6 p-5!" tone="dashed">
-              <p className="text-sm font-medium text-[var(--brand-deep)]">
-                {d.trustTitle}
-              </p>
-              <p className="mt-2 text-sm text-stone-700">{d.trustBody}</p>
-            </SurfaceCard>
+            ) : null}
           </Section>
 
           <Section
@@ -738,26 +592,31 @@ export function DeveloperCenter({
           >
             {related.length ? (
               <div className="grid gap-4 sm:grid-cols-2">
-                {related.slice(0, 4).map((item) => (
-                  <DeveloperCardShell key={item.slug}>
-                    <Link
-                      href={localePath(locale, `/developers/${item.slug}`)}
-                      className="font-medium text-[var(--brand-deep)] hover:underline"
-                    >
-                      {item.name[locale] || item.name.en}
-                    </Link>
-                    <p className="text-sm text-stone-600">
-                      {item.legalName[locale] || item.legalName.en}
-                    </p>
-                  </DeveloperCardShell>
-                ))}
+                {related.slice(0, 4).map((item) => {
+                  const href = localePath(locale, `/developers/${item.slug}`);
+                  const name = item.name[locale] || item.name.en;
+                  const legal = item.legalName[locale] || item.legalName.en;
+                  return (
+                    <DeveloperCardShell key={item.slug} className="relative">
+                      <Link
+                        href={href}
+                        className="absolute inset-0 z-0 rounded-[inherit] outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
+                        aria-label={name}
+                        data-card-link="developer"
+                      />
+                      <p className="relative font-medium text-[var(--brand-deep)] pointer-events-none">
+                        {name}
+                      </p>
+                      {legal ? (
+                        <p className="relative text-sm text-stone-600 pointer-events-none">
+                          {legal}
+                        </p>
+                      ) : null}
+                    </DeveloperCardShell>
+                  );
+                })}
               </div>
-            ) : (
-              <EmptyState
-                title={d.unavailable}
-                description={d.relatedDevelopersEmpty}
-              />
-            )}
+            ) : null}
           </Section>
 
           <Section

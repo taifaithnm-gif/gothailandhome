@@ -1,6 +1,5 @@
 import Link from "next/link";
 
-import { buttonVariants } from "@/components/ui/button";
 import type { Locale } from "@/config/locales";
 import {
   developerProfile,
@@ -8,7 +7,6 @@ import {
   type LaunchDeveloper,
 } from "@/lib/launch/content-launch-v1";
 import { localePath } from "@/lib/i18n/metadata";
-import { cn } from "@/lib/utils";
 
 type DeveloperHighlightCardProps = {
   locale: Locale;
@@ -31,11 +29,16 @@ export function DeveloperHighlightCard({
   const profile = developerProfile(developer, locale);
   const href = localePath(locale, `/developers/${developer.developer_id}`);
   const featured = developer.featured_projects.slice(0, 3);
+  const name = developer.developer_name[locale];
 
   return (
-    <article
-      className="flex h-full flex-col gap-4 rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white p-5 shadow-[var(--shadow-soft)]"
+    <Link
+      href={href}
+      className="flex h-full flex-col gap-4 rounded-[var(--card-radius)] border border-[var(--brand-line)] bg-white p-5 shadow-[var(--shadow-soft)] transition outline-none hover:border-[var(--brand)]/40 focus-visible:ring-2 focus-visible:ring-[var(--brand)]/35"
       data-launch-developer={developer.developer_id}
+      data-card-link="developer"
+      data-home-cta={`developer-${developer.developer_id}`}
+      aria-label={`${detailLabel}: ${name}`}
     >
       <div className="flex items-center gap-4">
         <div className="relative flex h-14 w-14 shrink-0 items-center justify-center overflow-hidden rounded-lg border border-[var(--brand-line)] bg-[var(--brand-soft)]">
@@ -44,7 +47,7 @@ export function DeveloperHighlightCard({
             // eslint-disable-next-line @next/next/no-img-element
             <img
               src={logoSrc}
-              alt=""
+              alt={`${name} logo`}
               width={56}
               height={56}
               className="h-full w-full object-contain p-1.5"
@@ -55,13 +58,13 @@ export function DeveloperHighlightCard({
               className="font-heading text-lg text-[var(--brand-deep)]"
               aria-hidden
             >
-              {developer.developer_name[locale].slice(0, 1)}
+              {name.slice(0, 1)}
             </span>
           )}
         </div>
         <div>
           <h3 className="font-heading text-xl text-[var(--brand-deep)]">
-            {developer.developer_name[locale]}
+            {name}
           </h3>
           <p className="mt-0.5 text-xs text-stone-500">
             {projectCountLabel.replace(
@@ -78,24 +81,21 @@ export function DeveloperHighlightCard({
         <div>
           <p className="ds-caption text-stone-500">{featuredLabel}</p>
           <ul className="mt-1 space-y-0.5 text-sm text-stone-700">
-            {featured.map((slug) => (
-              <li key={slug} className="truncate">
-                {projectNames[slug] || slug}
-              </li>
-            ))}
+            {featured.map((slug) => {
+              const projectName = projectNames[slug];
+              if (!projectName) return null;
+              return (
+                <li key={slug} className="truncate">
+                  {projectName}
+                </li>
+              );
+            })}
           </ul>
         </div>
       ) : null}
-      <Link
-        href={href}
-        className={cn(
-          buttonVariants({ variant: "secondary", size: "sm" }),
-          "self-start",
-        )}
-        data-home-cta={`developer-${developer.developer_id}`}
-      >
+      <span className="inline-flex self-start rounded-xl border border-[var(--brand-line)] bg-[var(--brand-soft)] px-3 py-1.5 text-sm font-medium text-[var(--brand-deep)]">
         {detailLabel}
-      </Link>
-    </article>
+      </span>
+    </Link>
   );
 }
